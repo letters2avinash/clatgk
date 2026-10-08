@@ -9,23 +9,154 @@
   "August 2026"
  ],
  "slot": "T05P1",
- "status": "incomplete",
- "incomplete_reason": "WebSearch budget exhausted before static-GK question facts could be sourced; passage is below 450 words; questions not written.",
- "text": "Glaw Lake in Arunachal Pradesh was designated a Ramsar site on 3 August 2026, Union Environment Minister Bhupender Yadav announced. The freshwater lake becomes India's 101st Ramsar site and the first wetland of international importance in Arunachal Pradesh. Yadav said India's Ramsar network had grown from 26 sites in 2014 to 101 sites, describing the designation as a milestone for the state and for wetland conservation across the country.\n\nThe lake lies within the Kamlang Tiger Reserve and Kamlang Wildlife Sanctuary in Lohit district, in the Eastern Himalayas. It is fed by perennial mountain streams and surrounded by dense forest. The Ministry said the designation would support biodiversity protection, climate resilience, water conservation and the livelihoods of communities dependent on the wetland. A site-specific restoration plan is being prepared, with the active participation of the Mishmi community.\n\nElephant corridors also drew attention this month. On 17 August 2026, the Supreme Court directed the Union Environment Ministry to conduct a fresh nationwide survey of elephant corridors and to report on the obstructions within them. A bench said corridors had been impeded, blocked or obstructed despite existing ministry guidelines, and that crop damage could not justify barriers. The court also prohibited the use of fireballs and mashaals, or torches, to drive elephants away from human-dominated areas, and directed state authorities to enforce its directions. The bench said states could not block elephant movement routes.\n\nIn late August 2026, Tamil Nadu notified three elephant corridors within the Cauvery North Wildlife Sanctuary in the Hosur forest division. The notification followed interim directions from the Madras High Court and recommendations of committees set up to identify corridors and bottlenecks. The three corridors cover more than 10,300 hectares. They include the Jawalagiri-Ulibanda-Thaggatti corridor, about 18.5 km long, and the Bilikkal-Jawalagiri corridor, about 2.2 km long. The Chief Wildlife Warden said all three lie within reserved forest and sanctuary land, and that no private land or revenue village is affected.\n\nThe corridors sit on the trans-Cauvery route used by elephants moving between Tamil Nadu and Karnataka. Officials said the notification is meant to protect traditional migration routes, especially during seasonal monsoon movements.",
- "word_count": 355,
+ "status": "complete",
+ "text": "Glaw Lake in Arunachal Pradesh has been designated a Ramsar site, the Union Environment Ministry announced on 3 August 2026. Ramsar designation recognises a wetland as being of international importance. The freshwater lake is India's 101st Ramsar site and the first in Arunachal Pradesh. The Ministry's press release confirmed the designation. Union Environment Minister Bhupender Yadav said India's Ramsar network had grown from 26 sites in 2014 to 101 sites, describing the designation as a milestone for the state and for wetland conservation across the country.\n\nThe lake lies at about 1,168 metres within the Kamlang Tiger Reserve and Wildlife Sanctuary in Lohit district, in the Eastern Himalayas. It is fed by mountain streams and surrounded by dense forest. The Ministry said the designation would support biodiversity protection, climate resilience, water conservation and the livelihoods of communities dependent on the wetland. A site-specific restoration plan is being prepared, with the active participation of the Mishmi community.\n\nElephant corridors also drew attention this month. On 17 August 2026, the Supreme Court directed the Union Environment Ministry to conduct a fresh nationwide survey of elephant corridors and to report the reasons for obstructions within them, by 14 October 2026. The Court also asked for a report on measures to prevent such obstructions. A bench said corridors had been impeded, blocked or obstructed despite existing ministry guidelines, and that crop damage could not justify barriers. The court prohibited the use of fireballs and mashaals, or torches, to drive elephants away from human-dominated areas, and directed state authorities to enforce its directions. The bench said no state could block elephant movement routes.\n\nThe court's concern follows a 2023 Wildlife Institute of India report that counted 150 elephant corridors across the country. The report found that 29 of them were being used with decreasing frequency, and that many corridors lie outside protected areas.\n\nOn 28 August 2026, Tamil Nadu notified three elephant corridors within the Cauvery North Wildlife Sanctuary in the Hosur forest division. The notification followed interim directions from the Madras High Court and recommendations of committees set up to identify corridors and bottlenecks. The three corridors cover more than 10,300 hectares. They include the Jawalagiri-Panai-Anchetty corridor, about 20.9 km long and covering 6,881.47 hectares; the Jawalagiri-Ulibanda-Thaggatti corridor, about 18.5 km long and covering 3,241.53 hectares; and the Bilikkal-Jawalagiri corridor, about 2.2 km long and covering 196 hectares.\n\nThe Chief Wildlife Warden said all three lie within reserved forest and sanctuary land, and that no private land or revenue village is affected. The corridors sit on the trans-Cauvery route used by elephants moving between Tamil Nadu and Karnataka. Officials said the notification is meant to protect traditional migration routes, especially during seasonal monsoon movements, and to strengthen habitat connectivity.",
  "sources": [
   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2294036&reg=48&lang=1",
   "https://arunachaltimes.in/index.php/2026/08/04/glaw-lake-is-arunachals-first-ramsar-site/",
   "https://www.aninews.in/news/national/general-news/india-gets-101st-ramsar-site-in-arunachal-pradeshs-glaw-lake20260805095851/",
   "https://www.deccanherald.com/amp/story/india/arunachal-pradesh/glaw-lake-recognised-as-indias-101st-arunachal-pradeshs-first-ramsar-site-tag-boost-for-conservation-tourism-4099112",
   "https://www.drishtiias.com/daily-updates/daily-news-analysis/glaw-lake-becomes-indias-101st-ramsar-site",
+  "https://www.aninews.in/news/national/general-news/supreme-court-directs-nationwide-survey-of-elephant-corridors-seeks-report-on-measures-to-prevent-obstructions20260817190745/",
   "https://india.mongabay.com/short-article/2026/08/court-orders-survey-of-elephant-corridors-seeks-ban-on-fireball-use/",
-  "https://www.verdictum.in/supreme-court/fresh-survey-of-elephant-corridors-fireballs-and-hulla-parties-1620035",
   "https://www.deccanchronicle.com/legalnews/sc-orders-nationwide-survey-of-elephant-corridors-bans-fireballs-1979857",
   "https://assamtribune.com/national/sc-directs-centre-to-survey-elephant-corridors-nationwide-bans-barriers-fireballs-1615746",
-  "https://www.thehansindia.com/news/cities/chennai/3-elephant-corridors-open-for-safe-movement-between-hosur-forest-division-ktaka-1115498",
-  "https://ommcomnews.com/india-news/tn-notifies-3-elephant-corridors-for-safe-movement-between-hosur-forest-division-karnataka/",
-  "https://currentaffairs.adda247.com/tamil-nadu-notifies-three-elephant-corridors-in-hosur-forest-division/"
+  "https://www.nationalheraldindia.com/national/150-elephant-corridors-identified-in-india-west-bengal-leads-report",
+  "https://www.gktoday.in/tamil-nadu-notifies-three-new-elephant-corridors",
+  "https://currentaffairs.adda247.com/tamil-nadu-notifies-three-elephant-corridors-in-hosur-forest-division/",
+  "https://www.indiabix.com/current-affairs/state/discussion-59807",
+  "https://www.tnpscthervupettagam.com//currentaffairs-detail/three-elephant-corridors-in-tn"
  ],
- "questions": []
+ "questions": [
+  {
+   "type": "direct",
+   "q": "The international wetlands treaty behind the term 'Ramsar site' takes its name from a city. In which country is that city located?",
+   "options": [
+    "Turkey",
+    "Egypt",
+    "Iran",
+    "Japan"
+   ],
+   "answer": 2,
+   "explanation": "The Ramsar Convention is named after the Iranian city of Ramsar on the Caspian coast, where its text was agreed in 1971.",
+   "source": "https://en.wikipedia.org/wiki/Ramsar_Convention ; https://www.unep-aewa.org/en/node/2726"
+  },
+  {
+   "type": "direct",
+   "q": "Project Elephant, a Centrally Sponsored Scheme that supports elephant conservation and corridor protection, is administered by which ministry?",
+   "options": [
+    "Ministry of Tribal Affairs",
+    "Ministry of Environment, Forest and Climate Change",
+    "Ministry of Rural Development",
+    "Ministry of Earth Sciences"
+   ],
+   "answer": 1,
+   "explanation": "Project Elephant is a Centrally Sponsored Scheme of the Ministry of Environment, Forest and Climate Change, which gives states financial and technical help for elephant protection.",
+   "source": "https://en.wikipedia.org/wiki/Project_Elephant ; https://moef.gov.in/index.php/project-elephant-pe"
+  },
+  {
+   "type": "direct",
+   "q": "Under which legislation was the National Green Tribunal established?",
+   "options": [
+    "National Green Tribunal Act, 2010",
+    "Environment (Protection) Act, 1986",
+    "Forest (Conservation) Act, 1980",
+    "Air (Prevention and Control of Pollution) Act, 1981"
+   ],
+   "answer": 0,
+   "explanation": "The NGT was set up under Section 3 of the National Green Tribunal Act, 2010, which came into force on 18 October 2010.",
+   "source": "https://www.greentribunal.gov.in/about-us ; https://oer.enviraj.com/?p=1437"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Article 48A",
+    "II. Article 51A(g)",
+    "III. Article 32",
+    "IV. Article 14"
+   ],
+   "list2": [
+    "A. Right to equality before law",
+    "B. Right to constitutional remedies",
+    "C. Directive principle to protect and improve the environment and wildlife",
+    "D. Fundamental duty to protect and improve the natural environment"
+   ],
+   "options": [
+    "I-C, II-D, III-B, IV-A",
+    "I-D, II-C, III-A, IV-B",
+    "I-A, II-B, III-C, IV-D",
+    "I-B, II-A, III-D, IV-C"
+   ],
+   "answer": 0,
+   "explanation": "Article 48A is a Directive Principle asking the State to protect the environment and wildlife (C). Article 51A(g) in Part IVA makes it a citizen's fundamental duty (D). Article 32 is the right to constitutional remedies (B). Article 14 guarantees equality before the law (A).",
+   "source": "https://www.legacyias.com/article-48a-environment-forests-wildlife/ ; https://lawbhoomi.com/constitutional-provisions-relating-to-environment-in-india/ ; https://anantamias.com/?p=1139 ; https://ftp.vedantu.com/general-knowledge/important-articles-of-indian-constitution"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "India is a party to the Ramsar Convention on Wetlands.",
+   "reason": "The Ramsar Convention was adopted by the United Nations Security Council.",
+   "answer": 2,
+   "explanation": "India is a party to the Convention, which it joined in 1982 (A true). The Convention was agreed at a 1971 conference, not by the UN Security Council, so R is false. Answer: A true, R false.",
+   "source": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/aug/doc202282696401.pdf ; https://anantamias.com/ramsar-convention/?pdf=1 ; https://en.wikipedia.org/wiki/Ramsar_Convention",
+   "truth": [
+    true,
+    false
+   ]
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. The Forest (Conservation) Act was enacted in 1972.",
+    "II. The Wildlife (Protection) Act was enacted in 1972."
+   ],
+   "answer": 1,
+   "explanation": "The Wildlife (Protection) Act was enacted in 1972 (II true). The Forest (Conservation) Act was enacted in 1980, so I is false. Answer: II only.",
+   "source": "https://en.wikipedia.org/wiki/Wild_Life_(Protection)_Act,_1972 ; https://order.law/library/acts/central/W/454/wild-life-protection-act-1972 ; https://en.wikipedia.org/wiki/Forest_Conservation_Act,_1980 ; https://www.indiacode.nic.in/handle/123456789/12871?locale=en",
+   "truth": [
+    false,
+    true
+   ]
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. The Biological Diversity Act was enacted by Parliament in 2002.",
+    "2. The National Biodiversity Authority has its head office in Chennai.",
+    "3. The Water (Prevention and Control of Pollution) Act was enacted in 1974.",
+    "4. Project Tiger was launched in 1973."
+   ],
+   "mode": "correct",
+   "answer": 3,
+   "explanation": "All four statements are correct: the Biological Diversity Act was passed in 2002, the NBA's head office is at Chennai under the Act, the Water Act is dated 1974, and Project Tiger was launched in 1973.",
+   "source": "https://en.wikipedia.org/wiki/Biological_Diversity_Act,_2002 ; https://www.advocatekhoj.com/library/bareacts/biologicaldiversity/8.php ; https://wgbis.ces.iisc.ac.in/biodiversity/Environ_sys/legis/wateract3.htm ; https://legitquest.com/act/water-prevention-and-control-of-pollution-act-1974/2843 ; https://www.pressreader.com/india/frontline/20220826/281964611499449 ; https://anantamias.com/project-tiger/?pdf=1",
+   "truth": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "type": "statement_multi",
+   "statements": [
+    "I. Fundamental duties were inserted into the Constitution by the 42nd Amendment, 1976.",
+    "II. Fundamental duties are enforceable in courts in the same way as fundamental rights.",
+    "III. Article 51A lists eleven fundamental duties."
+   ],
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "All of the above"
+   ],
+   "answer": 2,
+   "explanation": "I and III are correct: the 42nd Amendment (1976) inserted Article 51A, and the 86th Amendment (2002) brought the total to eleven duties. II is false because fundamental duties are non-justiciable.",
+   "source": "https://lawbhoomi.com/fundamental-duties-and-environmental-conservation/ ; https://legitquest.com/legal-guide/fundamental-duties ; https://vajiramandravi.com/current-affairs/part-4a-of-indian-constitution/ ; https://legistify.com/blogs/?p=867",
+   "truth": [
+    true,
+    false,
+    true
+   ]
+  }
+ ]
 }
