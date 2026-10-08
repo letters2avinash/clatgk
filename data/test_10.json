@@ -1,0 +1,699 @@
+{
+ "title": "CLAT GK - Test 10",
+ "date": "2026-10-08",
+ "duration_minutes": 50,
+ "marks_correct": 1,
+ "marks_wrong": -0.25,
+ "notes": "Generated with Haiku 5.5, then independently verified question by question by separate Sonnet agents using fresh searches (two-source rule; claims that could not be confirmed were removed or reworded; ambiguous, unchecked or overlapping questions were dropped). Several primary sources were unreachable, so residual risk is listed below. Not reviewed by a human.",
+ "residual": [
+  "Passage 1: Passage is SHORT (143 words); no further double-sourced facts found.",
+  "Passage 1: Q1: Entry 38 List III rests on powermin.gov.in plus an SC judgment snippet; constitutionofindia.net not fetchable, Constitution text not read directly.",
+  "Passage 1: Q4: R (CEA under Section 70) from courtbook/advocatekhoj/CEA reproductions, not India Code; A is largely answerable from the passage's 'Cabinet approved' wording (weak).",
+  "Passage 1: Q7: Articles 266/280/282/148 from commentary sites and snippets (latestlaws, studyhub, lotusarise, indiankanoon), official constitution text not fetched.",
+  "Passage 1: Passage: outlay split 1,36,378 + 50,000 = 1,86,378, Rs 27 crore short of 1,86,405; sources do not explain; passage says only 'of this outlay'.",
+  "Passage 1: Passage: 135 GW/2032-33, CFA 54,082, TBCB/brownfield, BOOM all from news and explainer outlets (UNI, Renewable Watch, Chronicle India, Indian Infrastructure); PIB release not found.",
+  "Passage 1: Q3: 50% non-fossil in July 2025 from PTI/The Week, Tribune, Carbon Pulse; all rely on one MNRE announcement.",
+  "Passage 2: Dronacharya Award (coaches) rests on exam-prep/aggregator pages (indianetzone, badmintonindia, prepp); no sports-ministry page opened.",
+  "Passage 2: Khel Ratna 'highest sporting honour' (Q7 st.1) rests on news24, Drishti/Vajiram exam-prep and a ministry PDF seen only as a search snippet.",
+  "Passage 2: National Sports Day 29 August (Q7 st.2) rests on Quint plus exam-prep/current-affairs sites; no official page opened.",
+  "Passage 2: Padma Shri 1954 and fourth-highest: MHA scheme PDF and Britannica seen as search snippets only; MHA notes the name Padma Shri dates from 1955.",
+  "Passage 2: Dhyan Chand three golds: Olympics.com and Britannica Kids via snippets; draft's 'led India' wording was wrong (captain in 1936 only), reworded to 'won'.",
+  "Passage 2: Pakistan boycott reversal and 2026 match facts largely via search-summary snippets (SCMP, New Arab, Al Jazeera, Wisden); no full articles opened.",
+  "Passage 2: Passage is short (see word count); 'Match 27' and player-of-the-match claims removed as single-sourced.",
+  "Passage 3: Passage is very short (~154 words), SHORT.",
+  "Passage 3: First meeting 24 Jul 2026: only ETV Bharat explicit.",
+  "Passage 3: GAD order 25 Jun: press reports only, primary order not opened.",
+  "Passage 3: All constitutional Article facts (44, 25, 37, 39A, 40, 48A, 51A, 32/Part III) rest on explainer or exam-prep sites; Art 37/Part IVA via constitutionofindia.net listings.",
+  "Passage 3: Chhattisgarh formation (1 Nov 2000, 26th state, from MP) rests on BankBazaar, Elets, Hindi GKToday; no official source.",
+  "Passage 4: Passage short (164 words) after removing unconfirmed claims; no padding added.",
+  "Passage 4: NTCA as organiser rests on ANI-syndicated reports plus NTCA roadmap; Rajasthan govt co-organiser dropped as unconfirmed.",
+  "Passage 4: Tiger reserves 'risen to 58 over the last decade': 58 confirmed (newsonair, Tribune); the 46 vs 47 baseline disputed, so removed.",
+  "Passage 4: Booklet and Project Cheetah report (Sep 2024-Dec 2025) details come from ANI-based news summaries; no PIB page opened.",
+  "Passage 4: Q4: Project Tiger 1973 and Project Cheetah 17 Sep 2022 rest on exam-prep/news pages; Project Tiger and Elephant 1992 lack opened primary pages beyond WII.",
+  "Passage 4: Q5: Nilgiri first biosphere reserve 1986 rests on Wikipedia, Vikaspedia, Indianetzone and exam-prep; UNESCO page not found.",
+  "Passage 4: Q1: Corbett first park under Project Tiger rests mainly on exam-prep and news pages.",
+  "Passage 5: Passage vote split omitted (5:4 vs 6:3 conflict); full judgment text unread, holdings rest on news/legal-blog summaries (verdictum, ELP, thenewsmill, taxguru, LiveLaw headline).",
+  "Passage 5: Q4 pair I-A/II-A mapping (SS Code takes ESI Act) rests on Taxmann plus EPFO post; OSH-Factories on advocatetanmoy/Taxmann/Wikipedia.",
+  "Passage 5: Q7 stmt 2 (seven-judge 1978 Bench) from search summaries and ELP; stmt 1 Part III from legal-blog pages, not constitution text.",
+  "Passage 5: Q1 date via bombaychamber, simpliance, taxguru; gazette not read.",
+  "Passage 5: Passage is very short (about 120 words); WebFetch unavailable, snippets only.",
+  "Static-GK explanations cite Wikipedia or exam-prep pages in places where a primary text was not reachable."
+ ],
+ "passages": [
+  {
+   "title": "Green Energy Corridor Phase-III approved",
+   "topic_tags": [
+    "Schemes",
+    "Power sector",
+    "Green Energy Corridor",
+    "Transmission",
+    "Energy storage",
+    "Constitution"
+   ],
+   "slot": "T10P1",
+   "text": "The Union Cabinet approved the Green Energy Corridor Phase-III (GEC-III) scheme on 30 September 2026. The scheme has a total outlay of Rs 1,86,405 crore and aims to strengthen intra-state transmission so that up to 135 GW of renewable power can be evacuated by 2032-33.\n\nOf this outlay, Rs 1,36,378 crore is for intra-state transmission infrastructure. A further Rs 50,000 crore is for battery energy storage, to deploy 50 GWh of Battery Energy Storage Systems.\n\nThe Centre will provide Central Financial Assistance (CFA) of Rs 54,082 crore. This support is intended to help offset intra-state transmission charges and so keep electricity costs lower for consumers.\n\nState Transmission Utilities will be the overall implementing agencies. Greenfield transmission projects will be awarded through tariff-based competitive bidding (TBCB), while brownfield upgrades will follow a cost-plus basis. Transmission service providers will take part on a build-own-operate-maintain model.",
+   "sources": [
+    "https://www.uniindia.com/national/cabinet-green-energy-corridor/198041",
+    "https://indianinfrastructure.com/2026/10/01/cabinet-approves-rs-1-86-trillion-green-energy-corridor-phase-iii-scheme/",
+    "https://renewablewatch.in/2026/10/01/cabinet-approves-green-energy-corridor-phase-iii-scheme/",
+    "https://www.newsbytesapp.com/news/business/indian-government-approves-rs186lcr-for-green-energy-corridor-phase-iii/tldr",
+    "https://www.chronicleindia.in/current-affairs/18194-approval-for-phase-iii-of-green-energy-corridor",
+    "https://c4scourses.in/national-affairs/green-energy-corridor-phase-iii-approved/",
+    "https://www.dynamitenews.com/national/green-energy-corridor-phase-iii-approved-battery-storage-jobs-and-clean-power-boost",
+    "https://superkalam.com/current-affairs/articles/green-energy-corridor-phase-iii-transmission-storage",
+    "https://www.angelone.in/news/economy/government-approves-green-energy-corridor-phase-iii-with-1-86-lakh-crore-outlay-for-renewable-energy",
+    "https://prsindia.org/policy/monthly-policy-review/september-2026"
+   ],
+   "questions": [
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. The National Green Hydrogen Mission was approved by the Union Cabinet on 4 January 2023.",
+      "II. The mission targets at least 10 million tonnes per annum of green hydrogen production capacity by 2030."
+     ],
+     "answer": 0,
+     "explanation": "Statement I is true. Statement II is false: the mission's target is at least 5 million metric tonnes per annum of green hydrogen production capacity by 2030.",
+     "source": "https://mercomindia.com/cabinet-approves-%e2%82%b9197-billion-hydrogen-mission/ ; https://renewablewatch.in/2023/01/04/union-cabinet-green-lights-national-green-hydrogen-mission/ ; https://h2bulletin.com/?p=15740 ; https://origin.iea.org/policies/13949-national-green-hydrogen-mission",
+     "truth": [
+      true,
+      false
+     ]
+    },
+    {
+     "type": "direct",
+     "q": "Electricity, as a subject, is placed at Entry 38 of the Seventh Schedule to the Constitution. Entry 38 belongs to which list?",
+     "options": [
+      "Concurrent List (List III)",
+      "Eleventh Schedule",
+      "Eighth Schedule",
+      "Union List (List I)"
+     ],
+     "answer": 0,
+     "explanation": "Entry 38 of List III (the Concurrent List) covers electricity, so both the Centre and the States can legislate on it. The Eighth and Eleventh Schedules are not lists of legislative subjects.",
+     "source": "https://powermin.gov.in/en/content/constitution-provision-relating-%E2%80%9Celectricity%E2%80%9D ; https://www.legitquest.com/case/kerala-state-electricity-board-v-indian-aluminium-co/25DD ; https://www.aironline.in/legal-judgements/2007+AIR+SCW+3752"
+    },
+    {
+     "type": "direct",
+     "q": "In which year did India's non-fossil fuel sources come to account for 50 per cent of the country's total installed power capacity?",
+     "options": [
+      "2027",
+      "2025",
+      "2023",
+      "2021"
+     ],
+     "answer": 1,
+     "explanation": "The 50 per cent non-fossil share of installed capacity was reached in mid-2025 (June 2025 per The Statesman), five years ahead of the 2030 target.",
+     "source": "https://www.theweek.in/wire-updates/business/2025/07/14/dcm60-biz-renewables-energy.html ; https://www.thestatesman.com/business/govt-working-to-achieve-500-gw-non-fossil-energy-capacity-target-by-2030-1503533588.html ; https://www.tribuneindia.com/news/india/beating-2030-deadline-india-attains-50-green-fuel-power-capacity ; https://carbon-pulse.com/417909/"
+    },
+    {
+     "type": "direct",
+     "q": "The Union Cabinet approved Phase II of the Green Energy Corridor in January 2022. What was the scheme's total estimated cost?",
+     "options": [
+      "Rs 1,20,310 crore",
+      "Rs 2,100 crore",
+      "Rs 1,203 crore",
+      "Rs 12,031 crore"
+     ],
+     "answer": 3,
+     "explanation": "Phase II was approved with a total estimated cost of about Rs 12,031.33 crore, with central financial assistance of 33 per cent of project cost.",
+     "source": "https://www.tribuneindia.com/news/nation/govt-nod-to-rs12k-cr-green-energy-corridor-358893 ; https://www.dailyexcelsior.com/?p=1267912 ; https://www.energetica-india.net/news/cabinet-okays-rs-12031-cr-worth-of-green-energy-corridor-phase-ii ; https://indianinfrastructure.com/2022/01/22/central-government-approves-intra-state-transmission-system-green-energy-corridor-phase-ii/ ; https://psuwatch.com/national-news/cabinet-approves-phase-ii-green-energy-corridor-evacuation-20-gw-re"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 266",
+      "II. Article 280",
+      "III. Article 282",
+      "IV. Article 148"
+     ],
+     "list2": [
+      "A. Constitution of a Finance Commission",
+      "B. Grants for any public purpose",
+      "C. Appointment of the Comptroller and Auditor-General by the President",
+      "D. Consolidated Fund and Public Account"
+     ],
+     "options": [
+      "I-A, II-D, III-C, IV-B",
+      "I-C, II-B, III-A, IV-D",
+      "I-D, II-A, III-B, IV-C",
+      "I-B, II-C, III-D, IV-A"
+     ],
+     "answer": 2,
+     "explanation": "Article 266 creates the Consolidated Fund and Public Account; Article 280 provides for the Finance Commission; Article 282 allows grants for public purposes; Article 148 provides for the President's appointment of the CAG.",
+     "source": "https://vajiramandravi.com/current-affairs/part-12-of-indian-constitution/ ; https://studyhub.net.in/?p=17454 ; https://www.latestlaws.com/bare-acts/central-acts-rules/part-12-constitution-of-india-finance-property-contracts-and-suits/ ; https://cag.gov.in/ag/nagpur/en/page-ag-nagpur-constitutional-arrangements ; https://lotusarise.com/?p=37092 ; https://future.indiankanoon.org/doc/824830"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Green Energy Corridor Phase-III was enacted by Parliament as a statute in September 2026.",
+     "reason": "The Central Electricity Authority is constituted under Section 70 of the Electricity Act, 2003.",
+     "answer": 3,
+     "explanation": "A is false: GEC-III was approved by the Union Cabinet, not enacted as a law by Parliament. R is true: Section 70 of the Electricity Act, 2003 constitutes the CEA as a statutory body.",
+     "source": "https://cea.nic.in/functions/?lang=en ; https://courtbook.in/electricity-act-2003/section-70 ; https://www.advocatekhoj.com/library/bareacts/electricity/70.php",
+     "truth": [
+      false,
+      true
+     ]
+    }
+   ],
+   "writer_flags": [
+    "Passage is 142 words of double-sourced text, below the 220-word floor; after 11 searches no further well-sourced GEC-III detail (circuit-km, substations, state-wise allocation, briefing quotes) was found. Caller may reassign the slot.",
+    "Passage: 'Officials said' CFA lowers transmission charges/electricity costs rests on UNI and one other snippet; not verified from PIB.",
+    "Passage: 'build-own-operate-maintain' for transmission service providers comes from PRS and one other snippet; not PIB-checked.",
+    "Omitted: '900 GW non-fossil by 2035' link (single-sourced); 'historic initiative' quote (single-sourced).",
+    "Q1: Entry 38 List III placement rests on powermin.gov.in and a Kerala SEB case snippet; exact Seventh Schedule text not fetched.",
+    "Q2: Phase II Rs 12,031 crore and 33% CFA from four publisher snippets (Tribune, Daily Excelsior, Energetica, Indian Infrastructure); not PIB-checked.",
+    "Q3: 50% non-fossil share in 2025 from The Week (14 Jul 2025) and The Statesman; the Statesman dates it June 2025, so the year is 2025 under both.",
+    "Q3 and Q6 both touch non-fossil capacity (different facts: 2025 share vs 300 GW/500 GW target); possible overlap for the verifier.",
+    "Q4: A is false by the passage's own Cabinet-approval wording; R's truth rests on cea.nic.in and courtbook (Section 70).",
+    "Q5 II: 5 MMT target from Mercom and Arunachal Times snippets; the 10 MMT distractor is wrong against those sources.",
+    "Q6 stmt 1 (seven States) and stmt 4 (33% CFA) from Tribune and Energetica snippets; stmt 2 (300 GW at 31 Jul 2026) from Outlook Business / Organiser / Insights snippets; stmt 3 (500 GW by 2030) from MNRE statement via Statesman/Outlook Business.",
+    "Q7: Articles 266, 280, 282 from vajiramandravi, studyhub, latestlaws snippets; constitutionofindia.net not fetchable. Article 148 appointment from cag.gov.in.",
+    "Q7 and Q8 both draw on CAG provisions (Art 148 and Art 151); different Articles but same institution.",
+    "Q8: Article 151 wording from onlinelawconnect and cag.gov.in snippets; read from snippets only.",
+    "Art 112 was considered for the match but not double-sourced, so it was dropped."
+   ],
+   "residual": [
+    "Passage is SHORT (143 words); no further double-sourced facts found.",
+    "Q1: Entry 38 List III rests on powermin.gov.in plus an SC judgment snippet; constitutionofindia.net not fetchable, Constitution text not read directly.",
+    "Q4: R (CEA under Section 70) from courtbook/advocatekhoj/CEA reproductions, not India Code; A is largely answerable from the passage's 'Cabinet approved' wording (weak).",
+    "Q7: Articles 266/280/282/148 from commentary sites and snippets (latestlaws, studyhub, lotusarise, indiankanoon), official constitution text not fetched.",
+    "Passage: outlay split 1,36,378 + 50,000 = 1,86,378, Rs 27 crore short of 1,86,405; sources do not explain; passage says only 'of this outlay'.",
+    "Passage: 135 GW/2032-33, CFA 54,082, TBCB/brownfield, BOOM all from news and explainer outlets (UNI, Renewable Watch, Chronicle India, Indian Infrastructure); PIB release not found.",
+    "Q3: 50% non-fossil in July 2025 from PTI/The Week, Tribune, Carbon Pulse; all rely on one MNRE announcement."
+   ]
+  },
+  {
+   "title": "T20 World Cup 2026: India's Super Eight run",
+   "topic_tags": [
+    "Sports",
+    "cricket",
+    "ICC Men's T20 World Cup 2026",
+    "India v Pakistan",
+    "Super Eight"
+   ],
+   "slot": "T10P2",
+   "text": "The ICC Men's T20 World Cup 2026 was co-hosted by India and Sri Lanka. Pakistan had planned to boycott its match against India, but it dropped the boycott and agreed to play in Colombo. On 15 February, at the R. Premadasa Stadium, India beat Pakistan by 61 runs. Batting first, India scored 175 for seven in their 20 overs. Pakistan were bowled out for 114 in 18 overs. Ishan Kishan scored 77 off 40 balls. India, the defending champions, then moved on to the Super Eight stage.\n\nThe Super Eight stage had eight teams in two groups of four, and the top two in each group advanced to the semi-finals. India next beat Zimbabwe by 72 runs in Chennai on 26 February. On 1 March, in Kolkata, India beat West Indies by five wickets, with Sanju Samson unbeaten on 97 off 50 balls, a result that secured one of the four semi-final places. India were then set to meet England in the second semi-final at the Wankhede Stadium in Mumbai on 5 March.",
+   "sources": [
+    "https://www.aljazeera.com/sports/2026/2/26/india-beat-zimbabwe-by-72-runs-to-chase-t20-world-cup-semifinal-spot",
+    "https://www.aol.com/articles/india-beat-zimbabwe-keep-title-171928556.html",
+    "https://www.newsonair.gov.in/india-storms-into-t20-world-cup-semi-final-beats-west-indies-by-5-wickets",
+    "https://guardian.co.tt/sports/samson-powers-india-to-semifinals-at-t20-world-cup-with-5wicket-win-over-west-indies-6.2.2527482.f93075c8f3",
+    "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/t20-world-cup-2026-semi-finals-locked-after-india-s-win",
+    "https://adaderana.lk/sports/11991/t20-world-cup-2026-semi-finals-confirmed-after-indias-win",
+    "https://www.scmp.com/sport/cricket/article/3343013/pakistan-play-india-colombo-t20-world-cup-after-boycott-called",
+    "https://www.newarab.com/news/pakistan-play-india-t20-world-cup-after-boycott-called",
+    "https://dailymirror.lk/breaking-news/India-and-Sri-Lanka-to-co-host-Mens-T20-World-Cup-2026/108-278987",
+    "https://www.ucfb.ac.uk/news/the-super-8s-explained-how-the-2026-t20-world-cup-group-stages-work/",
+    "https://jang.com.pk/en/60194-t20-world-cup-2026-super-eights-schedule-revelead-news",
+    "https://www.aljazeera.com/amp/sports/liveblog/2026/2/15/live-india-vs-pakistan-t20-world-cup",
+    "https://www.wisden.com/live-cricket-scores/india-vs-pakistan-match-t20-inpk02152026268086",
+    "https://jamaica-gleaner.com/article/sports/20260216/t20-world-cup-india-crush-pakistan-61-runs",
+    "https://www.pakistantoday.com.pk/2026/03/03/sanju-samson-leads-india-to-t20-world-cup-semi-finals-with-unbeaten-97",
+    "https://www.flashscore.com/news/cricket-t20-world-cup-sanju-samson-fires-india-into-t20-world-cup-semi-final-clash-with-england/0hlSQvHL/"
+   ],
+   "questions": [
+    {
+     "type": "match",
+     "list1": [
+      "I. Captain of India when it won the inaugural 2007 ICC Men's T20 World Cup",
+      "II. Captain of India when it won the 2024 ICC Men's T20 World Cup",
+      "III. Captain of India in its match against Pakistan at Colombo in 2026",
+      "IV. Captain of Pakistan in its match against India at Colombo in 2026"
+     ],
+     "list2": [
+      "A. MS Dhoni",
+      "B. Rohit Sharma",
+      "C. Suryakumar Yadav",
+      "D. Salman Ali Agha"
+     ],
+     "options": [
+      "I-C, II-B, III-A, IV-D",
+      "I-B, II-A, III-D, IV-C",
+      "I-A, II-C, III-B, IV-D",
+      "I-A, II-B, III-C, IV-D"
+     ],
+     "answer": 3,
+     "explanation": "MS Dhoni captained India to the 2007 title, Rohit Sharma captained the 2024 title side, Suryakumar Yadav captained India against Pakistan in 2026 and Salman Ali Agha captained Pakistan in their match.",
+     "source": "https://gulfnews.com/sport/cricket/this-day-2007-when-dhoni--co-were-crowned-world-t20-champions-1.1569316147854 ; https://www.latestly.com/sports/cricket/on-this-day-in-2007-ms-dhoni-led-team-india-win-inaugural-icc-t20-world-cup-title-beating-pakistan-in-final-7126702.html/amp ; https://barbadostoday.bb/2024/06/29/india-win-the-toss-batting-vs-south-africa-in-t20-world-cup-final/ ; https://www.arabnews.com/node/2540136 ; https://www.deccanchronicle.com/buzz/t20-world-cup-2026-india-vs-pakistan-live-3470 ; https://thenewsmill.com/2026/02/suryakumar-yadav-continues-no-handshake-policy-with-pakistan-captain-at-t20-world-cup-toss/"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Dronacharya Award is conferred on sports coaches.",
+     "reason": "The Padma Shri is the fourth-highest civilian award of India.",
+     "answer": 1,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both statements are true. The Dronacharya Award honours coaches; the Padma Shri's rank among civilian honours does not explain who receives the Dronacharya Award.",
+     "source": "https://www.mha.gov.in/sites/default/files/2023-01/Scheme-PadmaAwards-050514.pdf ; https://www.britannica.com/facts/Priyanka-Chopra ; https://www.indianetzone.com/dronacharya_awardees ; https://badmintonindia.org/players/awardees/3-"
+    },
+    {
+     "type": "direct",
+     "q": "In which city is the headquarters of the International Cricket Council (ICC) located?",
+     "options": [
+      "Dubai",
+      "London",
+      "Mumbai",
+      "Johannesburg"
+     ],
+     "answer": 0,
+     "explanation": "The ICC left Lord's and moved its headquarters to Dubai Sports City, Dubai, in 2005.",
+     "source": "https://gulfnews.com/amp/story/sport%2Fcricket%2Ficc-moves-to-new-headquarters-in-sports-city-1.64511 ; https://icc-cricket.com/news/international-cricket-council-marks-its-official-move-to-dubai-sports-city ; https://sportbusiness.com/news/icc-confirms-lords-departure"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. India won the 2024 ICC Men's T20 World Cup final by seven runs.",
+      "II. India beat Pakistan by five runs in the final of the inaugural 2007 ICC Men's T20 World Cup."
+     ],
+     "answer": 2,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both statements are true: India beat South Africa by seven runs in the 2024 final, and beat Pakistan by five runs in the 2007 final.",
+     "source": "https://en.prothomalo.com/sports/cricket/vvyqli3pa8 ; https://barbadostoday.bb/2024/06/29/india-win-the-t20-world-cup/ ; https://gulfnews.com/sport/cricket/this-day-2007-when-dhoni--co-were-crowned-world-t20-champions-1.1569316147854 ; https://www.latestly.com/sports/cricket/on-this-day-in-2007-ms-dhoni-led-team-india-win-inaugural-icc-t20-world-cup-title-beating-pakistan-in-final-7126702.html/amp"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The Major Dhyan Chand Khel Ratna is India's highest sporting honour.",
+      "2. National Sports Day in India is observed on 29 August.",
+      "3. Major Dhyan Chand won Olympic hockey gold with India in 1928, 1932 and 1936.",
+      "4. The Padma Shri was instituted in 1954."
+     ],
+     "mode": "correct",
+     "answer": 3,
+     "truth": [
+      true,
+      true,
+      true,
+      true
+     ],
+     "explanation": "All four statements are correct: the Khel Ratna is the highest sporting honour, National Sports Day falls on 29 August (Dhyan Chand's birthday), Dhyan Chand won Olympic hockey gold with India in 1928, 1932 and 1936, and the Padma Shri was instituted in 1954.",
+     "source": "https://sports.yas.gov.in/assets/admin/uploads/documents/publications/Major_Dhyan_Chand_Khel_Ratna.pdf ; https://news24online.com/sports/major-dhyan-chand-khel-ratna-awards-2024-manu-bhaker-d-gukesh-and-others-to-get-felicitated-by-indias-highest-sports-honour/427820/ ; https://www.thequint.com/sports/national-sports-day-history-significance-and-quotes ; https://affairscloud.com/national-sports-day-2023-august-29/ ; https://www.olympics.com/en/athletes/dhyan-chand-singh ; https://kids.britannica.com/students/article/Dhyan-Chand/608559 ; https://www.mha.gov.in/sites/default/files/2023-01/Scheme-PadmaAwards-050514.pdf"
+    },
+    {
+     "type": "direct",
+     "q": "The 2024 ICC Men's T20 World Cup final, which India won, was played in which country?",
+     "options": [
+      "Jamaica",
+      "Trinidad and Tobago",
+      "Barbados",
+      "Guyana"
+     ],
+     "answer": 2,
+     "explanation": "The 2024 final was played at Kensington Oval in Barbados, where India beat South Africa.",
+     "source": "https://barbadostoday.bb/2024/06/29/india-win-the-t20-world-cup/ ; https://www.skysports.com/cricket/news/12123/13042693/mens-t20-world-cup-2024-full-results-after-india-beat-south-africa-in-barbados-final-to-win-second-title"
+    }
+   ],
+   "writer_flags": [
+    "Passage is 160 words, well below the 220-word double-sourced floor: only these facts reached two publishers within the search budget (15 of 20 used).",
+    "Co-hosting by India and Sri Lanka: sourced to the cricket-stats page title and one other listing only; treat as lightly sourced.",
+    "Super Eight format (two groups of four; top two advance to semi-finals): top-two rule is from one aggregator snippet; the group-size fact is from sportsdigest and one other.",
+    "'Secured one of the four semi-final places' (India v West Indies, 1 Mar): sourced to Al Jazeera live blog and AP syndication; the four-team semi-final line-up is from geosuper and an Aaj Tak table snapshot.",
+    "Pakistan dropping its boycott before the Colombo match: sourced to New Arab and Oman Observer headlines; exact date of the reversal conflicts across sources, so the passage gives no date for it.",
+    "Q4 (captains): Rohit Sharma as 2024 captain rests on Jamaica Observer and AFP-based reports; Suryakumar Yadav and Salman Ali Agha as 2026 captains rest on match reports (sportscafe, Al Jazeera).",
+    "Q5 and Q7: Dronacharya (coaches) and Khel Ratna (highest honour, instituted 1991-92) are sourced mainly to exam-preparation sites; the Padma Shri 1954 date and fourth-highest rank rest on Wion and DBpedia.",
+    "Q8 III is false by the 2007 title; Q6 and Q8 both touch the 2024 final and Q5/Q7/Q8 all touch Padma Shri or Khel Ratna facts. Overlap is limited to distinct facts but verifier should check it.",
+    "Not used anywhere: the 2026 final result (India beat New Zealand, 8 March) is outside the window and single-sourced here."
+   ],
+   "status": "complete",
+   "residual": [
+    "Dronacharya Award (coaches) rests on exam-prep/aggregator pages (indianetzone, badmintonindia, prepp); no sports-ministry page opened.",
+    "Khel Ratna 'highest sporting honour' (Q7 st.1) rests on news24, Drishti/Vajiram exam-prep and a ministry PDF seen only as a search snippet.",
+    "National Sports Day 29 August (Q7 st.2) rests on Quint plus exam-prep/current-affairs sites; no official page opened.",
+    "Padma Shri 1954 and fourth-highest: MHA scheme PDF and Britannica seen as search snippets only; MHA notes the name Padma Shri dates from 1955.",
+    "Dhyan Chand three golds: Olympics.com and Britannica Kids via snippets; draft's 'led India' wording was wrong (captain in 1936 only), reworded to 'won'.",
+    "Pakistan boycott reversal and 2026 match facts largely via search-summary snippets (SCMP, New Arab, Al Jazeera, Wisden); no full articles opened.",
+    "Passage is short (see word count); 'Match 27' and player-of-the-match claims removed as single-sourced."
+   ]
+  },
+  {
+   "title": "Chhattisgarh UCC panel",
+   "topic_tags": [
+    "States & regional",
+    "Uniform Civil Code",
+    "Chhattisgarh",
+    "Directive Principles"
+   ],
+   "slot": "T10P3",
+   "status": "complete",
+   "text": "The Chhattisgarh cabinet, chaired by Chief Minister Vishnu Deo Sai, decided in April 2026 to set up a high-level committee to prepare a draft Uniform Civil Code for the state. Retired judge Ranjana Prakash Desai was named to lead the panel.\n\nThe General Administration Department issued the formal order on 25 June 2026, constituting a five-member panel. Its members include retired IAS officers Shatrughan Singh and M.K. Raut, senior advocate Mohan Pawar and retired principal Jyoti Rani Singh.\n\nThe committee is to study the feasibility of a Uniform Civil Code, review the personal laws governing marriage, divorce, maintenance, inheritance, succession and adoption, and recommend a legislative framework. It is to seek suggestions from citizens, social organisations and legal experts before finalising its recommendations.\n\nThe first meeting was scheduled for 24 July 2026. Chief Minister Sai has said the government will make every effort to table the Bill in the Assembly's winter session in December.",
+   "sources": [
+    "https://newsonair.gov.in/chhattisgarh-cabinet-approves-constitution-of-high-level-committee-to-prepare-draft-of-uniform-civil-code/",
+    "https://www.pgurus.com/chhattisgarh-moves-towards-uniform-civil-code-forms-high-level-panel-to-draft-legislation/",
+    "https://www.thehitavada.com/Encyc/2026/6/27/state-forms-high-powered-panel-to-draft-uniform-civil-code.html",
+    "https://www.deccanherald.com/india/chhattisgarh/chhattisgarh-sets-up-5-member-panel-to-prepare-ucc-draft-justice-desai-to-head-it-4052839",
+    "https://www.etvbharat.com/en/state/chhattisgarh-begins-preparations-to-implement-uniform-civil-code-enn26062604740",
+    "https://www.etvbharat.com/en/bharat/chhattisgarh-panel-to-hold-first-meeting-to-draft-uniform-civil-code-enn26072403681",
+    "https://www.deccanherald.com/india/chhattisgarh/chhattisgarh-govt-to-table-uniform-civil-code-bill-in-winter-session-of-state-assembly-cm-sai-4085709",
+    "https://www.siasat.com/chhattisgarh-govt-to-table-ucc-bill-in-winter-session-cm-sai-3512637/"
+   ],
+   "questions": [
+    {
+     "type": "assertion_reason",
+     "assertion": "Directive Principles of State Policy cannot be enforced by any court.",
+     "reason": "Directive Principles can be enforced through writ petitions filed in the High Courts.",
+     "answer": 2,
+     "explanation": "A is true: Article 37 states that the Directive Principles are not enforceable by any court. R is false: writ petitions are not the remedy for Directive Principles, which remain non-justiciable.",
+     "truth": [
+      true,
+      false
+     ],
+     "source": "https://www.constitutionofindia.net/articles/article-37-application-of-the-principles-contained-in-this-part/ ; https://ruralindiaonline.org/en/library/resource/directive-principles-of-state-policy/"
+    },
+    {
+     "type": "direct",
+     "q": "Which Article guarantees freedom of conscience and the right to freely profess, practise and propagate religion, subject to public order, morality and health?",
+     "options": [
+      "Article 25",
+      "Article 300A",
+      "Article 29",
+      "Article 16"
+     ],
+     "answer": 0,
+     "explanation": "Article 25(1) guarantees freedom of conscience and the right to profess, practise and propagate religion, subject to public order, morality, health and other Part III provisions. Article 16 concerns equality of opportunity in public employment, Article 29 concerns cultural and educational rights, and Article 300A concerns property.",
+     "source": "https://advocategandhi.com/faith-and-freedom-understanding-article-25-of-the-indian-constitution/ ; https://forumias.com/blog/article-25-of-indian-constitution/"
+    },
+    {
+     "type": "direct",
+     "q": "Chhattisgarh was formed in 2000 as India's 26th state after being carved out of which existing state?",
+     "options": [
+      "Odisha",
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Bihar"
+     ],
+     "answer": 1,
+     "explanation": "Chhattisgarh was formed on 1 November 2000 by partitioning southeastern districts of Madhya Pradesh under the Madhya Pradesh Reorganisation Act. Bihar, Odisha and Uttar Pradesh were not its parent state.",
+     "source": "https://www.bankbazaar.com/indian-holidays/chhattisgarh-formation-day.html ; https://egov.eletsonline.com/tag/niharika-barik-singh/"
+    },
+    {
+     "type": "direct",
+     "q": "Which Article of the Constitution directs the State to endeavour to secure a Uniform Civil Code for citizens throughout India?",
+     "options": [
+      "Article 300A",
+      "Article 19",
+      "Article 370",
+      "Article 44"
+     ],
+     "answer": 3,
+     "explanation": "Article 44, a Directive Principle in Part IV, directs the State to endeavour to secure a Uniform Civil Code throughout India. Article 19 lists certain freedoms, Article 300A protects property as a legal right, and Article 370 dealt with the special status of Jammu and Kashmir.",
+     "source": "https://www.lawzone.in/2025/02/article-44-of-indian-constitution.html ; https://www.law4u.in/top-answer/4230/what-is-constitution-of-india-article-44"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 39A",
+      "II. Article 40",
+      "III. Article 48A",
+      "IV. Article 51A"
+     ],
+     "list2": [
+      "A. Organisation of village panchayats",
+      "B. Protection of environment and wildlife",
+      "C. Equal justice and free legal aid",
+      "D. Fundamental duties of citizens"
+     ],
+     "options": [
+      "I-C, II-A, III-B, IV-D",
+      "I-B, II-D, III-A, IV-C",
+      "I-D, II-B, III-C, IV-A",
+      "I-A, II-C, III-D, IV-B"
+     ],
+     "answer": 0,
+     "explanation": "Article 39A provides for equal justice and free legal aid; Article 40 for organisation of village panchayats; Article 48A for protection of environment and wildlife; Article 51A lists the Fundamental Duties (Part IVA).",
+     "source": "https://www.writinglaw.com/article-48a-constitution-of-india/ ; https://www.lawzone.in/2025/02/article-40-of-indian-constitution.html ; https://www.constitutionofindia.net/parts/part-iva"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Article 32 provides remedies for enforcement of the Fundamental Rights conferred by Part III.",
+      "II. Article 32 is placed in Part IV of the Constitution, which contains the Directive Principles of State Policy."
+     ],
+     "answer": 0,
+     "explanation": "Statement I is correct: Article 32 is the remedy for enforcing rights under Part III. Statement II is wrong because Article 32 sits in Part III, not Part IV. Answer: I only.",
+     "truth": [
+      true,
+      false
+     ],
+     "source": "https://lotusarise.com/premium/legal-remedies-in-part-iii/ ; https://www.studyiq.com/articles/right-to-constitutional-remedies/"
+    }
+   ],
+   "writer_flags": [],
+   "residual": [
+    "Passage is very short (~154 words), SHORT.",
+    "First meeting 24 Jul 2026: only ETV Bharat explicit.",
+    "GAD order 25 Jun: press reports only, primary order not opened.",
+    "All constitutional Article facts (44, 25, 37, 39A, 40, 48A, 51A, 32/Part III) rest on explainer or exam-prep sites; Art 37/Part IVA via constitutionofindia.net listings.",
+    "Chhattisgarh formation (1 Nov 2000, 26th state, from MP) rests on BankBazaar, Elets, Hindi GKToday; no official source."
+   ]
+  },
+  {
+   "title": "Tiger re-introduction workshop, Alwar",
+   "topic_tags": [
+    "Environment & biodiversity",
+    "tigers",
+    "NTCA",
+    "Project Tiger",
+    "Project Cheetah",
+    "wildlife conservation"
+   ],
+   "slot": "T10P4",
+   "text": "Union minister Bhupender Yadav inaugurated a National Workshop on \"Tiger Re-introduction: Opportunities & Challenges\" in Alwar, Rajasthan, on 28 June 2026. The National Tiger Conservation Authority organised the event.\n\nAt the workshop, the Road Map on Active Management of Tigers in India was released. It provides a framework for managing tiger populations across reserves and landscapes, identifying potential source and sink areas and recommending ecological management strategies. A booklet on the reintroduction and recovery of tigers in India was released alongside it, together with the Project Cheetah annual report covering September 2024 to December 2025.\n\nYadav asked participants to identify potential source and sink populations and build science-based long-term management strategies. He stressed keeping ecological corridors open where tiger and elephant ranges overlap, and credited community participation for the successful tiger reintroductions at Panna and Sariska. He said tiger conservation goes beyond protecting a single species.\n\nCiting national progress, Yadav said the number of tiger reserves had risen to 58 over the last decade.",
+   "sources": [
+    "https://indianmasterminds.com/news/bhupender-yadav-sariska-tiger-reintroduction-workshop-213508/",
+    "https://thedailyguardian.com/india/bhupender-yadav-inaugurates-national-workshop-on-tiger-re-introduction-annual-report-of-project-cheetah20260628203834-724048/",
+    "https://thenewsmill.com/2026/06/bhupender-yadav-opens-national-workshop-on-tiger-reintroduction-and-releases-project-cheetah-report/",
+    "https://newsable.asianetnews.com/india/bhupender-yadav-opens-workshop-on-tiger-reintroduction-in-alwar-articleshow-bei4ktl",
+    "https://ddindia.co.in/2026/06/tiger-conservation-goes-beyond-protecting-a-single-species-bhupender-yadav/",
+    "https://news.webindia123.com/news/articles/India/20260628/4468518.html"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Jim Corbett National Park, the first national park brought under Project Tiger, is located in which Indian state?",
+     "options": [
+      "Assam",
+      "Madhya Pradesh",
+      "Uttarakhand",
+      "Odisha"
+     ],
+     "answer": 2,
+     "explanation": "Jim Corbett National Park (part of Corbett Tiger Reserve) is in Uttarakhand; it was the first park brought under Project Tiger.",
+     "source": "https://www.drishtiias.com/daily-updates/daily-news-analysis/corbett-tiger-reserve-uttarakhand/print_manually ; https://www.legacyias.com/about-corbett-tiger-reserve/"
+    },
+    {
+     "type": "direct",
+     "q": "The National Tiger Conservation Authority, a statutory body, functions under which ministry of the Government of India?",
+     "options": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Rural Development",
+      "Ministry of Jal Shakti",
+      "Ministry of Agriculture and Farmers Welfare"
+     ],
+     "answer": 0,
+     "explanation": "NTCA is a statutory body under the Ministry of Environment, Forest and Climate Change, constituted under the Wildlife (Protection) Act, 1972 as amended in 2006.",
+     "source": "https://moef.gov.in/index.php/national-tiger-conservation-authority ; https://officerspulse.com/?p=20552"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Nilgiri Biosphere Reserve was India's first biosphere reserve.",
+     "reason": "The Nilgiri Biosphere Reserve lies entirely within the state of Kerala.",
+     "answer": 2,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "A is true: Nilgiri was set up in 1986 as India's first biosphere reserve. R is false: the reserve spans Tamil Nadu, Kerala and Karnataka.",
+     "source": "https://en.wikipedia.org/wiki/Nilgiri_Biosphere_Reserve ; https://vikaspedia.in/energy/environment/biodiversity-1/the-nilgiri-biosphere-reserve ; https://www.indianetzone.com/nilgiri_biosphere_reserve"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Kuno National Park, where Project Cheetah was launched, lies in Rajasthan.",
+      "II. Gir National Park, the main home of the Asiatic lion, lies in Rajasthan."
+     ],
+     "answer": 3,
+     "truth": [
+      false,
+      false
+     ],
+     "explanation": "Neither is correct: Kuno National Park is in Madhya Pradesh and Gir National Park is in Gujarat.",
+     "source": "https://www.drishtiias.com/state-pcs-current-affairs/cheetah-cubs-in-kuno-national-park/print_manually ; https://www.drishtiias.com/daily-updates/daily-news-analysis/gir-national-park/print_manually ; https://beyonder.travel/india/gir-national-park-gujarat-india/"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Project Tiger",
+      "II. Project Elephant",
+      "III. Project Cheetah",
+      "IV. Wildlife Institute of India"
+     ],
+     "list2": [
+      "A. 1973",
+      "B. 1982",
+      "C. 1992",
+      "D. 2022"
+     ],
+     "options": [
+      "I-C, II-D, III-A, IV-B",
+      "I-B, II-A, III-C, IV-D",
+      "I-A, II-C, III-D, IV-B",
+      "I-D, II-B, III-C, IV-A"
+     ],
+     "answer": 2,
+     "explanation": "Project Tiger was launched in 1973; Project Elephant in 1992; Project Cheetah was formally launched at Kuno on 17 September 2022; the Wildlife Institute of India was established at Dehradun in 1982.",
+     "source": "https://projecttiger.ntca.gov.in ; https://www.dhyeyaias.com/current-affairs/daily-pre-pare/view/project-cheetah-four-years-cheetah-reintroduction-india ; https://v1.wii.gov.in/node/246 ; https://wii.gov.in/mandated-background ; https://moef.gov.in/en/about-the-ministry/organisations-institutions/autonomous-organisations/wildlife-institute-of-india/"
+    },
+    {
+     "type": "direct",
+     "q": "At the 2010 St Petersburg Tiger Summit, how many tiger-range governments committed to the TX2 goal of doubling wild tiger numbers?",
+     "options": [
+      "18",
+      "21",
+      "13",
+      "9"
+     ],
+     "answer": 2,
+     "explanation": "Thirteen tiger-range governments committed to TX2 at the 2010 St Petersburg Tiger Summit.",
+     "source": "https://tigers.panda.org/copy_of_home_17042019_0337/our_work/about_tx2 ; https://sdg.iisd.org/?p=39412 ; https://old.wti.org.in/tag/tx2/"
+    }
+   ],
+   "residual": [
+    "Passage short (164 words) after removing unconfirmed claims; no padding added.",
+    "NTCA as organiser rests on ANI-syndicated reports plus NTCA roadmap; Rajasthan govt co-organiser dropped as unconfirmed.",
+    "Tiger reserves 'risen to 58 over the last decade': 58 confirmed (newsonair, Tribune); the 46 vs 47 baseline disputed, so removed.",
+    "Booklet and Project Cheetah report (Sep 2024-Dec 2025) details come from ANI-based news summaries; no PIB page opened.",
+    "Q4: Project Tiger 1973 and Project Cheetah 17 Sep 2022 rest on exam-prep/news pages; Project Tiger and Elephant 1992 lack opened primary pages beyond WII.",
+    "Q5: Nilgiri first biosphere reserve 1986 rests on Wikipedia, Vikaspedia, Indianetzone and exam-prep; UNESCO page not found.",
+    "Q1: Corbett first park under Project Tiger rests mainly on exam-prep and news pages."
+   ]
+  },
+  {
+   "title": "Industry definition and labour codes",
+   "topic_tags": [
+    "Supreme Court",
+    "Labour law",
+    "Industrial Relations Code 2020",
+    "Constitution of India"
+   ],
+   "slot": "T10P5",
+   "status": "partial",
+   "text": "A nine-judge Constitution Bench has delivered its verdict on the meaning of \"industry\" in labour law, reconsidering the 1978 judgment in Bangalore Water Supply and Sewerage Board v. A. Rajappa. That judgment had read the term widely, bringing within it establishments that are not manufacturing units.\n\nThe Supreme Court has held that the 1978 test continues to govern pending disputes under the Industrial Disputes Act, 1947, which has since been repealed. For disputes arising under the Industrial Relations Code, 2020, however, the 1978 definition will not serve as the foundation for interpreting \"industry\"; the Code's definition must be read on its own text and context. The verdict was pronounced in August 2026.",
+   "sources": [
+    "https://www.livelaw.in/buzz/livelaw-breaking-news-alerts-20-august-2026-36183",
+    "https://livelaw.in/nine-judge-bench-examine-correctness-bangalore-water-supply-case",
+    "https://superkalam.com/current-affairs/21-08-2026/1978-industry-definition-void-under-new-code-sc-pg1-ee02a799-4398-4539-b502-a35aaaee132a",
+    "https://thenewsmill.com/2026/08/supreme-court-upholds-bangalore-water-test-but-limits-future-role/",
+    "https://taxguru.in/corporate-law/1978-bangalore-water-supply-ruling-governs-pending-industrial-disputes-act-cases-sc.html",
+    "https://www.chronicleindia.in/online-magazine/csce-october-2026/sc-revisits-the-definition-of-industry-in-indian-labour-law",
+    "https://www.freepressjournal.in/business/supreme-court-63-verdict-narrows-use-of-1978-industry-definition-under-industrial-relations-code-2020"
+   ],
+   "questions": [
+    {
+     "type": "match",
+     "list1": [
+      "I. Code on Wages, 2019",
+      "II. Code on Social Security, 2020",
+      "III. Occupational Safety, Health and Working Conditions Code, 2020",
+      "IV. Industrial Relations Code, 2020"
+     ],
+     "list2": [
+      "A. Employees' State Insurance Act, 1948",
+      "B. Payment of Wages Act, 1936",
+      "C. Factories Act, 1948",
+      "D. Trade Unions Act, 1926"
+     ],
+     "options": [
+      "I-B, II-A, III-C, IV-D",
+      "I-C, II-D, III-A, IV-B",
+      "I-D, II-C, III-B, IV-A",
+      "I-A, II-B, III-D, IV-C"
+     ],
+     "answer": 0,
+     "explanation": "The Code on Wages, 2019 repeals the Payment of Wages Act, 1936; the Code on Social Security, 2020 takes over the Employees' State Insurance Act, 1948; the OSH Code, 2020 replaces the Factories Act, 1948; and the Industrial Relations Code, 2020 subsumes the Trade Unions Act, 1926.",
+     "source": "https://www.advocatekhoj.com/library/bareacts/codeonwages/69.php ; https://lawgist.in/payment-of-wages-act/69 ; https://advocatetanmoy.com/list-of-statutes13repealed-by-occupational-safety-code-2020/ ; https://www.taxmann.com/post/tag/labour-codes/ ; https://thelegalquotient.com/labour-laws/industrial-relations-code/industrial-relations-code-2020/2743/ ; https://www.jsalaw.com/articles-publications/implications-of-the-industrial-relations-code-2020/"
+    },
+    {
+     "type": "direct",
+     "q": "From which date did the Industrial Relations Code, 2020 come into force?",
+     "options": [
+      "1 April 2026",
+      "21 November 2025",
+      "26 January 2026",
+      "15 August 2025"
+     ],
+     "answer": 1,
+     "explanation": "The Ministry of Labour and Employment notified 21 November 2025 as the date the Industrial Relations Code, 2020 came into force, together with the other labour codes.",
+     "source": "https://bombaychamber.com/notification/industrial-relations-code-2020-comes-into-effect-from-21-11-25/ ; https://www.taxmann.com/post/blog/govt-notifies-enforcement-of-industrial-relations-code"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Industrial Employment (Standing Orders) Act was enacted in 1966.",
+     "reason": "The Industrial Relations Code, 2020 subsumes the Industrial Employment (Standing Orders) Act, 1946.",
+     "answer": 3,
+     "explanation": "The assertion is false because the Industrial Employment (Standing Orders) Act is a 1946 enactment, as its name states. The reason is true: the Industrial Relations Code, 2020 subsumes three central Acts, including the Standing Orders Act, 1946.",
+     "source": "https://thelegalquotient.com/labour-laws/industrial-relations-code/industrial-relations-code-2020/2743/ ; https://www.jsalaw.com/articles-publications/implications-of-the-industrial-relations-code-2020/",
+     "truth": [
+      false,
+      true
+     ]
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. The Equal Remuneration Act, 1976 was repealed by the Code on Social Security, 2020.",
+      "II. The Payment of Bonus Act, 1965 was repealed by the Code on Wages, 2019."
+     ],
+     "answer": 1,
+     "explanation": "Section 69(1) of the Code on Wages, 2019 repeals the Payment of Wages Act, 1936, the Minimum Wages Act, 1948, the Payment of Bonus Act, 1965 and the Equal Remuneration Act, 1976. So statement II is correct and statement I wrongly names the Code on Social Security as the repealing Code.",
+     "source": "https://www.advocatekhoj.com/library/bareacts/codeonwages/69.php ; https://taxclue.in/blog/section-1-69-code-on-wages-2019-commencement-and-repeal-of-four-wage-laws",
+     "truth": [
+      false,
+      true
+     ]
+    },
+    {
+     "type": "direct",
+     "q": "Begar, which is unpaid compulsory labour, is prohibited under which Article of the Constitution of India?",
+     "options": [
+      "Article 17",
+      "Article 39",
+      "Article 23",
+      "Article 32"
+     ],
+     "answer": 2,
+     "explanation": "Article 23 prohibits traffic in human beings, begar and other similar forms of forced labour, and makes any contravention an offence punishable under law.",
+     "source": "https://thelawgist.org/right-against-exploitation-articles-23-and-24/ ; https://aaptaxlaw.com/constitution-of-india/article-23-24-constitution-prohibition-of-traffic-in-human-beings-and-forced-labor-prohibition-of-employment-of-children-in-factories-article-23-24-of-constitution-of-india-1949.html"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The right against exploitation is a fundamental right under Part III of the Constitution.",
+      "2. The 1978 Bangalore Water Supply judgment on the meaning of \"industry\" was delivered by a seven-judge Bench.",
+      "3. The nine-judge Bench that heard the 2026 reference on the \"industry\" definition was headed by Justice B.V. Nagarathna."
+     ],
+     "mode": "correct",
+     "answer": 1,
+     "explanation": "Statements 1 and 2 are correct. Statement 3 is wrong because the nine-judge Bench was headed by Chief Justice of India Surya Kant, with Justice Nagarathna as a member. Two statements are correct, so the answer is Only two.",
+     "source": "https://livelaw.in/nine-judge-bench-examine-correctness-bangalore-water-supply-case ; https://elplaw.in/leadership/from-bangalore-water-supply-to-jai-bir-singh-the-evolving-definition-of-industry-2/ ; https://thelawgist.org/right-against-exploitation-articles-23-and-24/",
+     "truth": [
+      true,
+      true,
+      false
+     ]
+    }
+   ],
+   "residual": [
+    "Passage vote split omitted (5:4 vs 6:3 conflict); full judgment text unread, holdings rest on news/legal-blog summaries (verdictum, ELP, thenewsmill, taxguru, LiveLaw headline).",
+    "Q4 pair I-A/II-A mapping (SS Code takes ESI Act) rests on Taxmann plus EPFO post; OSH-Factories on advocatetanmoy/Taxmann/Wikipedia.",
+    "Q7 stmt 2 (seven-judge 1978 Bench) from search summaries and ELP; stmt 1 Part III from legal-blog pages, not constitution text.",
+    "Q1 date via bombaychamber, simpliance, taxguru; gazette not read.",
+    "Passage is very short (about 120 words); WebFetch unavailable, snippets only."
+   ]
+  }
+ ]
+}

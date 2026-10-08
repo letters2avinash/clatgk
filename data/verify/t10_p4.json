@@ -1,0 +1,185 @@
+{
+ "passage_file": "data/draft/t10_p4.json",
+ "passage_claims": [
+  {
+   "claim": "Workshop inaugurated by Bhupender Yadav in Alwar on 28 Jun 2026; title; Road Map, booklet, Project Cheetah report released",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://ntca.gov.in/wp-content/uploads/2026/06/Road-Map-Active-Management-of-Tigers_Final_June-2026.pdf",
+    "https://visionias.in/current-affairs/news-today/2026-06-30/environment/road-map-for-active-management-of-tigers-in-india-released"
+   ],
+   "note": "Plus several ANI-based outlets."
+  },
+  {
+   "claim": "NTCA organised with Rajasthan government",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [],
+   "note": "Wire copies only; Rajasthan role not independently confirmed. Reworded to NTCA only."
+  },
+  {
+   "claim": "Road Map identifies source and sink areas",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://ntca.gov.in/wp-content/uploads/2026/06/Road-Map-Active-Management-of-Tigers_Final_June-2026.pdf",
+    "https://visionias.in/current-affairs/news-today/2026-06-30/environment/road-map-for-active-management-of-tigers-in-india-released"
+   ],
+   "note": "'Local ecological conditions' and 'drawing on Sariska and Panna' not confirmed; reworded."
+  },
+  {
+   "claim": "Tiger reserves rose from 46 to 58 in the last decade",
+   "verdict": "DISPUTED",
+   "sources": [
+    "https://ddindia.co.in/2026/07/indias-tiger-population-reaches-3682-reserves-rise-to-58-bhupender-yadav/",
+    "https://www.newsonair.gov.in/madhya-pradeshs-madhav-national-park-has-became-the-countrys-58th-tiger-reserve-bhupender-yadav"
+   ],
+   "note": "Other 2026 reports say 47 to 58; 58 confirmed. Baseline removed."
+  },
+  {
+   "claim": "India achieved St Petersburg Declaration goal of doubling tigers by 2022",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [],
+   "note": "Attributed to one wire report; baseline-dependent. Deleted."
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "Uttarakhand",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.thomascook.in/places-to-visit/jim-corbett-national-park-in-uttarakhand-175",
+    "https://indiaenvironmentportal.org.in/news-clippings/76th-anniversary-of-corbett-national-park-today"
+   ],
+   "note": "Weak-ish publishers (exam-prep/news)."
+  },
+  {
+   "index": 2,
+   "verdict": "OK",
+   "my_answer": "13",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://tigers.panda.org/copy_of_home_17042019_0337/our_work/about_tx2",
+    "https://sdg.iisd.org/?p=39412"
+   ],
+   "note": ""
+  },
+  {
+   "index": 3,
+   "verdict": "OK",
+   "my_answer": "MoEFCC",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://moef.gov.in/index.php/national-tiger-conservation-authority",
+    "https://blog.ipleaders.in/conservation-tiger-wildlife-protection-act/"
+   ],
+   "note": ""
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "I-A, II-C, III-D, IV-B",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://v1.wii.gov.in/node/246",
+    "https://wii.gov.in/mandated-background",
+    "https://moef.gov.in/en/about-the-ministry/organisations-institutions/autonomous-organisations/wildlife-institute-of-india/"
+   ],
+   "note": "Tiger 1973, Elephant 1992, Cheetah 17 Sep 2022, WII 1982 all found; distractors wrong."
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "A true, R false (2)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nilgiri_Biosphere_Reserve",
+    "https://vikaspedia.in/energy/environment/biodiversity-1/the-nilgiri-biosphere-reserve"
+   ],
+   "note": "No UNESCO page found."
+  },
+  {
+   "index": 6,
+   "verdict": "OK",
+   "my_answer": "Neither (3)",
+   "key_answer_correct": true,
+   "truth_values": [
+    false,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.drishtiias.com/state-pcs-current-affairs/kuno-national-park-4/print_manually",
+    "https://www.mapsofindia.com/gujarat/wildlife-tours/gir-national-park.html"
+   ],
+   "note": ""
+  },
+  {
+   "index": 7,
+   "verdict": "DROP",
+   "my_answer": "Statement 4 disputed",
+   "key_answer_correct": false,
+   "truth_values": [
+    true,
+    true,
+    false,
+    null
+   ],
+   "issues": [
+    "AMBIGUOUS"
+   ],
+   "sources": [
+    "https://globaltigerforum.org/about-gtf/",
+    "https://www.traffic.org/site/assets/files/6738/tiger-discussion-document.pdf"
+   ],
+   "note": "GTF founding given as 1993 or 1994 by different sources."
+  },
+  {
+   "index": 8,
+   "verdict": "DROP",
+   "my_answer": "I and II only",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.indianetzone.com/project_tiger_india"
+   ],
+   "note": "Facts fine but overlaps Q4 on WII; culled to leave 6."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "organised the event with the Rajasthan government",
+   "new": "organised the event",
+   "reason": "unconfirmed"
+  },
+  {
+   "old": "from 46 to 58",
+   "new": "to 58",
+   "reason": "disputed baseline"
+  },
+  {
+   "old": "He also noted that India had achieved the St Petersburg Declaration goal...",
+   "new": "",
+   "reason": "single source"
+  }
+ ],
+ "summary": "6 of 8 questions kept (Q7 dropped: GTF year disputed; Q8 culled: overlaps Q4). Passage trimmed to confirmed claims."
+}
