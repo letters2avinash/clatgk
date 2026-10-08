@@ -21,6 +21,13 @@ Types: 3 direct, 1 match, 1 assertion_reason, 1 statement_two, 1 statement_count
 - Each question: `explanation` (consistent with the key), `source` (URL(s) returned by your searches that actually support the answer; join several with " ; "), and for statement/assertion types a `truth` list of booleans per statement (assertion_reason: [A_true, R_true]).
 - Static-GK facts: prefer constitutionofindia.net, indiacode, official sites. Never answer from memory alone.
 
+## Search budget (important)
+The harness allows only 200 WebSearch calls per turn, shared by every agent running in that turn, and only a few agents are run at once. Use AT MOST 25 searches in total.
+1. First read `data/notes/<slot id>.md` (and `data/notes/partial_drafts.md`) if present: facts there are already double-sourced; reuse them and do not re-search them. Partial drafts in `data/draft/` may be extended.
+2. Plan your 8 questions BEFORE searching so every search has a purpose; prefer one search that can confirm two facts.
+3. WebFetch fails on constitutionofindia.net, livelaw, barandbench, scconline, newsonair; rely on search snippets.
+4. If you run out of budget, still WRITE the file with whatever is double-sourced (passage + the questions you could finish) and set "status": "partial" - never end with no file. Never answer from memory.
+
 ## Research rules
 Use WebSearch (load with ToolSearch "select:WebSearch" if not callable). WebFetch fails on many hosts - rely on snippets. Every fact needs two independent publishers (Wikipedia and its copies count as one).
 
