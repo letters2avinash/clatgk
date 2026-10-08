@@ -39,6 +39,13 @@ def check(data):
                 opt = q["options"][a].lower().strip()
                 if len(opt) > 12 and opt in p["text"].lower():
                     warns.append(f"{tag}: correct option appears verbatim in passage (RC-style leak?)")
+    import collections
+    dist = collections.Counter(q["answer"] for p in data["passages"] for q in p["questions"])
+    if nq >= 20:
+        for i in range(4):
+            share = dist.get(i, 0) / nq
+            if share > 0.4 or share < 0.1:
+                warns.append(f"answer position {'ABCD'[i]} is {share:.0%} of answers (aim for 15-35% each)")
     return nq, errs, warns
 
 if __name__ == "__main__":
