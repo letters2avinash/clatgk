@@ -1,0 +1,155 @@
+{
+ "title": "SC Rulings on Anticipatory Bail and NCR Air Pollution",
+ "topic_tags": [
+  "Supreme Court",
+  "Anticipatory bail",
+  "SC/ST Act",
+  "Air pollution",
+  "M.C. Mehta",
+  "Constitution"
+ ],
+ "slot": "T04P1",
+ "status": "complete",
+ "text": "The Supreme Court of India on 9 March 2026 set aside an order of the Punjab and Haryana High Court that had granted anticipatory bail to accused persons in a case registered under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act. The appeal, Kuldeep Singh and another v State of Punjab and another, arose from Special Leave Petitions (Criminal) Nos. 13439-13440 of 2025 and was heard by a bench of Justices Sanjay Kumar and K. Vinod Chandran. According to case summaries, the complainants alleged that the accused fired gunshots and used caste-based slurs against members of a Scheduled Caste community in Punjab.\n\nThe High Court had observed that the first information report did not clearly disclose the ingredients of offences under the Act, and it protected the accused on that basis. Anticipatory bail is granted before an arrest is made, and it protects the accused against being taken into custody. The Supreme Court held that the High Court had not properly evaluated the material indicating that offences under the Act had been committed. It found that a prima facie case existed, and that anticipatory bail should not have been granted at that preliminary stage. The Bench stressed caution in such matters, and the protection granted to the accused was cancelled. It also held that an FIR cannot be doubted merely because it rests on a statement given to the police.\n\nThe statute at the centre of the case provides for special courts to try offences against Scheduled Castes and Scheduled Tribes, and for relief and rehabilitation of victims.\n\nSeparately, on 12 March 2026, the Supreme Court formally closed a long-running writ petition on air pollution in Delhi and the National Capital Region. The petition, M.C. Mehta v Union of India, had been filed in 1985. A bench of Chief Justice Surya Kant, Justice Joymalya Bagchi and Justice Vipul M. Pancholi passed the order. The Chief Justice had earlier remarked that the continued pendency of the case gave the wrong impression that a 1985 matter was still undecided.\n\nInstead of leaving the air pollution issues in the old file, the Registry was directed to register a fresh suo motu proceeding titled \"Re: Issues of Air Pollution in the National Capital Region\". All interlocutory applications pending in the 1985 petition were directed to be registered as separate writ petitions, each receiving its own number. Senior Advocate Aparajita Singh appeared as amicus curiae, and Additional Solicitor General Aishwarya Bhati also appeared before the Bench.\n\nThe order closed only the 1985 writ petition. Press reports carried by the Press Trust of India described the step as a way of correcting the impression created by the old case, while the substantive air quality issues continue before the Court in the new proceedings.\n\nBoth orders were passed within four days of each other.",
+ "word_count": 469,
+ "sources": [
+  "https://theindianlawyer.in/caution-in-granting-anticipatory-bail-supreme-court-cancels-relief-in-alleged-sc-st-atrocities-case/",
+  "https://www.legalkart.com/ta/legal-blog/fir-police-statement-valid-supreme-court-cancels-anticipatory-bail",
+  "https://taxguru.in/?p=1031611",
+  "https://www.livelaw.in/amp/top-stories/supreme-court-mc-mehta-case-air-quality-delhi-ncr-formally-closed-suo-motu-case-registered-applications-to-be-registered-as-writ-petitions-526196",
+  "https://www.deccanherald.com/india/delhi/curtains-drawn-on-4-decade-old-mc-mehta-case-on-air-pollution-as-supreme-court-disposes-pil-3932512",
+  "https://www.verdictum.in/court-updates/supreme-court/recaptions-40-year-old-mc-mehta-cases-end-unending-saga-pending-applications-1609758"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 provides for anticipatory bail and replaces Section 438 of the Code of Criminal Procedure, 1973?",
+   "options": [
+    "Section 187 BNSS",
+    "Section 483 BNSS",
+    "Section 480 BNSS",
+    "Section 482 BNSS"
+   ],
+   "answer": 3,
+   "explanation": "Section 482 BNSS is the anticipatory bail provision and corresponds to Section 438 CrPC. Section 480 BNSS corresponds to Section 437 CrPC (bail in non-bailable offences), Section 483 BNSS to the special bail powers of the High Court and Court of Session (Section 439 CrPC), and Section 187 BNSS to remand (Section 167 CrPC).",
+   "source": "https://blog.ipleaders.in/anticipatory-bail-under-bnss-section-482/ ; https://lexibal.com/?p=46151 ; https://lexibal.com/?p=46153 ; https://vakeel360.com/crpc-to-bnss/section-437-bail-non-bailable"
+  },
+  {
+   "type": "direct",
+   "q": "Which Article of the Constitution of India empowers the Supreme Court to pass any order necessary for doing complete justice in a cause or matter pending before it?",
+   "options": [
+    "Article 129",
+    "Article 142",
+    "Article 143",
+    "Article 144"
+   ],
+   "answer": 1,
+   "explanation": "Article 142 empowers the Supreme Court to pass such decree or order as is necessary for doing complete justice, and such orders are enforceable throughout India. Article 143 is the advisory jurisdiction, Article 144 requires civil authorities to act in aid of the Supreme Court, and Article 129 declares the Court to be a court of record.",
+   "source": "https://www.constitutionofindia.net/articles/article-142-enforcement-of-decrees-and-orders-of-supreme-court-and-orders-as-to-discovery-etc/ ; https://iasbaba.com/2022/07/article-142-complete-justice/"
+  },
+  {
+   "type": "direct",
+   "q": "Which Article, inserted by the Constitution (Eighty-sixth Amendment) Act, 2002, makes free and compulsory education a Fundamental Right for children aged six to fourteen years?",
+   "options": [
+    "Article 24",
+    "Article 45",
+    "Article 21A",
+    "Article 51A"
+   ],
+   "answer": 2,
+   "explanation": "Article 21A was inserted by the 86th Amendment in 2002 and makes the State responsible for providing free and compulsory education to children aged six to fourteen. Article 24 prohibits child labour, Article 45 is a Directive Principle (education and early childhood care), and Article 51A lists Fundamental Duties.",
+   "source": "https://en.wikipedia.org/wiki/Eighty-sixth_Amendment_of_the_Constitution_of_India ; https://www.casemine.com/act/in/5a979daa4a93263ca60b721b"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "Article 21 of the Constitution protects the life and personal liberty of foreign nationals present in India.",
+   "reason": "Article 21 is confined to citizens, because it uses the word 'citizen' rather than 'person'.",
+   "answer": 2,
+   "truth": [
+    true,
+    false
+   ],
+   "explanation": "A is true: the Supreme Court in NHRC v State of Arunachal Pradesh (1996) held that Article 21 protects non-citizens. R is false: Article 21 says 'No person shall be deprived of his life or personal liberty except according to procedure established by law'. It uses 'person', not 'citizen'.",
+   "source": "https://future.indiankanoon.org/doc/767216 ; https://lawinsider.in/judgment/national-human-rights-commission-vs-state-of-arunachal-pradesh/amp"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. Under Article 22(2), a person arrested and detained must be produced before the nearest magistrate within 24 hours of arrest, excluding the time taken for the journey.",
+    "II. The 24-hour production requirement of Article 22(2) applies to persons detained under a preventive detention law."
+   ],
+   "answer": 0,
+   "truth": [
+    true,
+    false
+   ],
+   "explanation": "Statement I is correct: Article 22(2) sets the 24-hour limit and excludes travel time. Statement II is incorrect: Article 22(3)(b) provides that clauses (1) and (2) do not apply to a person arrested or detained under a preventive detention law. Only I is correct.",
+   "source": "https://www.constitutionofindia.net/articles/article-22-protection-against-arrest-and-detention-in-certain-cases/ ; https://thelegallock.com/?p=8611"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Article 32",
+    "II. Article 136",
+    "III. Article 226",
+    "IV. Article 245"
+   ],
+   "list2": [
+    "A. Special leave to appeal from any judgment or order of a court or tribunal in India",
+    "B. Writ jurisdiction of High Courts for enforcement of Fundamental Rights and for any other purpose",
+    "C. Territorial extent of laws made by Parliament and State legislatures",
+    "D. Writ jurisdiction of the Supreme Court for enforcement of Fundamental Rights"
+   ],
+   "options": [
+    "I-B, II-A, III-D, IV-C",
+    "I-A, II-D, III-C, IV-B",
+    "I-D, II-A, III-B, IV-C",
+    "I-C, II-B, III-A, IV-D"
+   ],
+   "answer": 2,
+   "explanation": "Article 32 is the Supreme Court's writ jurisdiction for Fundamental Rights (D). Article 136 is special leave to appeal (A). Article 226 gives High Courts writ power for Fundamental Rights and any other purpose (B). Article 245 defines the territorial extent of laws (C).",
+   "source": "https://www.constitutionofindia.net/articles/article-245-extent-of-laws-made-by-parliament-and-by-the-legislatures-of-states/ ; https://blog.ipleaders.in/article-136-of-the-indian-constitution/ ; https://anantamias.com/article-32/?pdf=1 ; https://en.vikaspedia.in/viewcontent/education/law-and-constitution/article-226-of-the-indian-constitution"
+  },
+  {
+   "type": "statement_multi",
+   "statements": [
+    "I. The Water (Prevention and Control of Pollution) Act was enacted in 1974.",
+    "II. The Air (Prevention and Control of Pollution) Act was enacted in 1981.",
+    "III. The Commission for Air Quality Management in National Capital Region and Adjoining Areas Act was enacted in 2019."
+   ],
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "All of the above"
+   ],
+   "answer": 0,
+   "truth": [
+    true,
+    true,
+    false
+   ],
+   "explanation": "Statements I and II are correct (1974 and 1981). Statement III is incorrect: the Commission for Air Quality Management Act was enacted in 2021, so the correct combination is I and II only.",
+   "source": "https://anantamias.com/environmental-laws-in-india/?pdf=1 ; https://leap.unep.org/en/countries/in/national-legislation/air-prevention-and-control-pollution-act-1981-no-14-1981 ; https://eparlib.sansad.in/bitstream/123456789/2995874/1/AU4128_EUNpXM.pdf"
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act was passed by Parliament in 1989.",
+    "2. Section 18 of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act provides that Section 438 of the Code of Criminal Procedure shall not apply in cases involving arrest for offences under the Act.",
+    "3. The Supreme Court judgment in Kiran v Rajkumar Jivraj Jain (2025 INSC 1067) was delivered by a bench headed by Chief Justice B.R. Gavai.",
+    "4. Article 17 of the Constitution abolishes untouchability and forbids its practice in any form."
+   ],
+   "mode": "correct",
+   "answer": 3,
+   "truth": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "explanation": "All four statements are correct: the SC/ST (PoA) Act was passed in 1989; Section 18 bars the application of Section 438 CrPC in arrest cases under the Act; the Kiran judgment (2025 INSC 1067) was decided by a bench headed by CJI B.R. Gavai; and Article 17 abolishes untouchability. Hence 'All four'.",
+   "source": "https://en.wikipedia.org/wiki/Scheduled_Caste_and_Scheduled_Tribe_(Prevention_of_Atrocities)_Act,_1989 ; https://indiacode.nic.in/handle/123456789/1920?locale=en ; https://future.indiankanoon.org/doc/1712895 ; https://www.casemine.com/in/column/analysis-of-section-18-of-the-sc-st-(prevention-of-atrocities)-act/view ; https://www.verdictum.in/app-lite/court-updates/supreme-court/kiran-v-rajkumar-jivraj-jain-2025-insc-1067-section-18-sc-st-act-anticipatory-bail-1590102?hasShare=1 ; https://www.casemine.com/in/column/analysis-of-section-18-of-the-sc-st-(prevention-of-atrocities)-act/view ; https://www.constitutionofindia.net/articles/article-17-abolition-of-untouchability/ ; https://www.understandupsc.com/?p=13652"
+  }
+ ]
+}
