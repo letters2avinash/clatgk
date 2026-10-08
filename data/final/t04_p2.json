@@ -1,0 +1,121 @@
+{
+ "title": "India AI Impact Summit 2026",
+ "topic_tags": [
+  "India AI Impact Summit",
+  "AI summits",
+  "IndiaAI Mission",
+  "Science and technology",
+  "Constitution of India"
+ ],
+ "slot": "T04P2",
+ "status": "complete",
+ "text": "India hosted the India AI Impact Summit at Bharat Mandapam in New Delhi, where Prime Minister Narendra Modi inaugurated the event on 19 February 2026. Reports give different full dates for the event, so only the inauguration date is relied on here, and the summit is generally described as running over several days in the second half of February. The summit's theme, \"Sarvajan Hitay, Sarvajan Sukhay\", is commonly rendered as welfare and happiness for all. Its core framework was built on three Sutras, namely People, Planet and Progress.\n\nWithin that framework, the summit set out seven thematic pillars, called Chakras. The official list names Human Capital, Inclusion for Social Empowerment, Safe and Trusted AI, Science, Resilience, Innovation and Efficiency, Democratizing AI Resources, and AI for Economic Development and Social Good. Reports describe the Chakras as focused domains of international collaboration that turn the three Sutras into concrete areas of action. The declaration itself is structured around these seven pillars.\n\nThe principal outcome was the New Delhi Declaration on AI Impact, which the summit adopted in February 2026. Sources agree that the declaration is voluntary. Outlook India and other outlets describe it as non-binding, so it does not create enforceable legal obligations for the countries that endorse it. Reports say the declaration is guided by the summit's theme of welfare and happiness for all. Reported endorser figures range from 88 to 91, so the exact count should be checked against official releases. The declaration is accompanied by a Charter for the Democratic Diffusion of AI, a voluntary and non-binding framework that aims to promote access to foundational AI resources across countries.\n\nThe summit followed a series of international gatherings on AI. The first, the AI Safety Summit, was held at Bletchley Park on 1 and 2 November 2023. Prime Minister Rishi Sunak announced the venue in August 2023. The site was once the top-secret home of Second World War codebreakers who broke the Enigma code, and it is known for codebreaking and early computing. The AI Seoul Summit followed, co-hosted by the United Kingdom and South Korea on 21 and 22 May 2024. The AI Action Summit was then held at the Grand Palais in Paris on 10 and 11 February 2025.\n\nIndia's domestic programme, the IndiaAI Mission, was approved by the Union Cabinet on 7 March 2024 with an outlay of Rs 10,372 crore over five years. Union Minister Piyush Goyal announced the approval after the Cabinet meeting. The scheme is meant to provide around 10,000 graphics processing units, which Goyal described as supercomputing capacity, with access planned for startups, researchers, academia and industry. Together with the summit, the mission reflects India's effort to build computing capacity and AI skills, and to host global discussion on AI.",
+ "sources": [
+  "https://www.newsonair.gov.in/india-ai-impact-summit-2026-adopts-new-delhi-declaration",
+  "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/24-02-2026/print/manual",
+  "https://www.outlookindia.com/amp/story/national/new-delhi-declaration-marks-historic-global-push-for-collaborative-ai",
+  "https://cadeproject.org/updates/ai-impact-summit-in-new-delhi-adopts-declaration-on-inclusive-and-cooperative-ai-development/",
+  "https://currentaffairs.adda247.com/pm-modi-inaugurated-india-ai-impact-summit-2026-unveils-m-a-n-a-v-vision/",
+  "https://www.outlookbusiness.com/news/cabinet-approves-india-ai-mission-with-a-total-outlay-of-rs-10372-core-for-5-years",
+  "https://www.tribuneindia.com/news/india/indiaai-mission-gets-cabinet-nod-rs-10-372-crore-allocated-598257",
+  "https://www.gov.uk/government/topical-events/ai-safety-summit-2023/about",
+  "https://www.gov.uk/government/news/iconic-bletchley-park-to-host-uk-ai-safety-summit-in-early-november",
+  "https://www.gov.uk/government/topical-events/ai-seoul-summit-2024/about",
+  "https://www.akingump.com/en/insights/ai-law-and-regulation-tracker/UK-Co-Hosts-AI-Seoul-Summit-with-the-Republic-of-Korea",
+  "https://en.wikipedia.org/wiki/AI_Action_Summit_2025",
+  "https://www.akingump.com/en/insights/ai-law-and-regulation-tracker/france-hosts-third-international-ai-summit",
+  "https://itv.com/news/anglia/2023-08-24/home-of-war-time-codebreakers-to-host-ai-summit",
+  "https://www.digitalindia.gov.in/photo_gallery/prime-minister-shri-narendra-modi-inaugurates-india-ai-impact-summit-2026/",
+  "https://impact.indiaai.gov.in/about-summit",
+  "https://www.freepressjournal.in/amp/india/ai-impact-summit-2026-88-countries-adopt-new-delhi-declaration-on-trusted-resilient-efficient-ai-read-full-statement",
+  "https://bletchleypark.org.uk/bletchley-park-to-host-ai-safety-summit",
+  "https://yourstory.com/2024/03/cabinet-approves-india-ai-mission"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "In which year did Prime Minister Narendra Modi launch the Digital India programme?",
+   "options": [
+    "2013",
+    "2014",
+    "2015",
+    "2016"
+   ],
+   "answer": 2,
+   "explanation": "Digital India was launched by PM Narendra Modi on 1 July 2015 as a flagship programme to turn India into a digitally empowered society and knowledge economy.",
+   "source": "https://www.digitalindia.gov.in/about ; https://en.wikipedia.org/wiki/Digital_India"
+  },
+  {
+   "type": "direct",
+   "q": "Bletchley Park, the venue of the AI Safety Summit held in November 2023, is located in which English ceremonial county?",
+   "options": [
+    "Kent",
+    "Buckinghamshire",
+    "Surrey",
+    "Hertfordshire"
+   ],
+   "answer": 1,
+   "explanation": "Bletchley Park, the former wartime codebreaking centre, is in Buckinghamshire (now within the Milton Keynes unitary area, which lies in the ceremonial county of Buckinghamshire).",
+   "source": "https://www.gov.uk/government/news/iconic-bletchley-park-to-host-uk-ai-safety-summit-in-early-november ; https://itv.com/news/anglia/2023-08-24/home-of-war-time-codebreakers-to-host-ai-summit"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "Article 253 of the Constitution of India empowers Parliament to make laws for implementing international treaties and agreements.",
+   "reason": "Article 253 is contained in Part IV of the Constitution, which lists the Directive Principles of State Policy.",
+   "answer": 2,
+   "truth": [
+    true,
+    false
+   ],
+   "explanation": "The assertion is true: Article 253 lets Parliament legislate for the whole or any part of India to implement treaties, agreements and international decisions. The reason is false: Article 253 sits in Part XI (Union-State relations), while Part IV contains the Directive Principles.",
+   "source": "https://www.constitutionofindia.net/articles/article-253-legislation-for-giving-effect-to-international-agreements/ ; https://www.constitutionofindia.net/constitution_of_india/directive_principles_of_state_policy/articles/Article%2051 ; https://www.constitutionofindia.net/constitution_of_india/relations_between_the_union_and_the_states/articles/Article%20253"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Article 14",
+    "II. Article 19",
+    "III. Article 21",
+    "IV. Article 32"
+   ],
+   "list2": [
+    "A. Protection of life and personal liberty",
+    "B. Equality before the law",
+    "C. Right to constitutional remedies",
+    "D. Six freedoms, including speech and expression"
+   ],
+   "options": [
+    "I-B, II-D, III-A, IV-C",
+    "I-A, II-B, III-C, IV-D",
+    "I-D, II-C, III-B, IV-A",
+    "I-C, II-A, III-D, IV-B"
+   ],
+   "answer": 0,
+   "explanation": "Article 14 guarantees equality before the law (B); Article 19 guarantees six freedoms including speech and expression (D); Article 21 protects life and personal liberty (A); Article 32 provides the right to constitutional remedies (C).",
+   "source": "https://www.constitutionofindia.net/articles/article-14-equality-before-law ; https://blog.ipleaders.in/article-19-indian-constitution/ ; https://en.wikipedia.org/wiki/Article_21_of_the_Constitution_of_India ; https://www.pmfias.com/article-32/"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. Article 51 of the Constitution directs the State to promote international peace and security.",
+    "II. The Constitution of India was adopted by the Constituent Assembly on 26 November 1949."
+   ],
+   "answer": 2,
+   "explanation": "Both statements are true: Article 51 is a directive principle on promoting international peace and security, and the Constituent Assembly completed the Constitution on 26 November 1949.",
+   "source": "https://www.constitutionofindia.net/articles/article-51-promotion-of-international-peace-and-security/ ; https://en.wikipedia.org/wiki/Constitution_of_India ; https://www.drishtiias.com/daily-updates/daily-news-analysis/70th-constitution-day"
+  },
+  {
+   "type": "statement_count",
+   "mode": "correct",
+   "statements": [
+    "1. Article 17 of the Constitution abolishes untouchability.",
+    "2. The Fundamental Duties were inserted into the Constitution by the 44th Amendment.",
+    "3. Article 368 allows the State Legislatures alone to amend the Constitution.",
+    "4. The Constitution came into effect on 26 January 1950."
+   ],
+   "answer": 1,
+   "explanation": "Statements 1 and 4 are correct. Statement 2 is wrong because the Fundamental Duties were added by the 42nd Amendment (1976). Statement 3 is wrong because amendments are made by Parliament, with ratification by half the States only for certain provisions. Only two statements are correct.",
+   "source": "https://www.constitutionofindia.net/articles/article-17-abolition-of-untouchability/ ; https://www.civilsdaily.com/fundamental-duties/ ; https://anantamias.com/article-368-constitutional-amendment-procedure/?pdf=1 ; https://en.wikipedia.org/wiki/Constitution_of_India"
+  }
+ ]
+}

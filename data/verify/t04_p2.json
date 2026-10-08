@@ -1,0 +1,270 @@
+{
+ "passage_file": "data/draft/t04_p2.json",
+ "passage_claims": [
+  {
+   "claim": "Modi inaugurated the summit at Bharat Mandapam on 19 Feb 2026",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.digitalindia.gov.in/photo_gallery/prime-minister-shri-narendra-modi-inaugurates-india-ai-impact-summit-2026/",
+    "https://www.newsonair.gov.in/pm-narendra-modi-to-inaugurate-india-ai-impact-summit-2026-at-bharat-mandapam"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Full dates 16-21 vs 16-20 Feb",
+   "verdict": "DISPUTED",
+   "sources": [
+    "https://www.outlookbusiness.com/news/pm-modi-inaugurates-india-ai-impact-expo-2026-as-day-1-of-summit-concludes"
+   ],
+   "note": "Sources give 16-20, 18-19, 19-20; 16-21 not found. Reworded to rely on inauguration date only."
+  },
+  {
+   "claim": "Theme Sarvajan Hitay Sarvajan Sukhay = welfare/happiness for all",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.narendramodi.in/od/prime-minister-narendra-modi-welcomes-global-leaders-to-ai-impact-summit-in-delhi-602778",
+    "https://nannews.ng/india-ai-impact-summit-2026-to-deepen-nigeria-india-collaboration-envoy/"
+   ],
+   "note": "Spelling varies."
+  },
+  {
+   "claim": "Three Sutras People, Planet, Progress; seven Chakras",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://impact.indiaai.gov.in/about-summit",
+    "https://www.storyboard18.com/amp/digital/india-ai-impact-summit-2026-the-seven-chakras-shaping-indias-global-ai-playbook-89385.htm"
+   ],
+   "note": "Draft chakra names (Secure and Trusted, Access for Social Empowerment, etc.) did not match official list; replaced with official names. 'Operational scaffold for deliverables' unconfirmed; reworded."
+  },
+  {
+   "claim": "Declaration voluntary/non-binding",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.outlookindia.com/amp/story/national/new-delhi-declaration-marks-historic-global-push-for-collaborative-ai",
+    "https://vajiramandravi.com/current-affairs/delhi-ai-declaration-88-nations-back-democratic-and-inclusive-ai-governance/"
+   ],
+   "note": "'Strong political will' Outlook attribution not found; deleted."
+  },
+  {
+   "claim": "Endorsers 88 to 91",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.deccanchronicle.com/nation/current-affairs/india-ai-impact-summit88-countries-endorse-new-delhi-declaration-on-ai-1938895",
+    "https://babl.ai/new-delhi-declaration-unites-89-countries-behind-global-vision-for-ai-for-all/"
+   ],
+   "note": "88, 89, 91 all reported."
+  },
+  {
+   "claim": "Charter for Democratic Diffusion of AI voluntary non-binding, promotes access to foundational AI resources",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.freepressjournal.in/amp/india/ai-impact-summit-2026-88-countries-adopt-new-delhi-declaration-on-trusted-resilient-efficient-ai-read-full-statement",
+    "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/24-02-2026/print/manual"
+   ],
+   "note": "'Affordable and equitable' dropped as unconfirmed."
+  },
+  {
+   "claim": "Bletchley 1-2 Nov 2023; Sunak announced venue Aug 2023 (24 Aug)",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.gov.uk/government/news/iconic-bletchley-park-to-host-uk-ai-safety-summit-in-early-november",
+    "https://itv.com/news/anglia/2023-08-24/home-of-war-time-codebreakers-to-host-ai-summit",
+    "https://www.lbc.co.uk/article/45f96b55c72545e58ac8db4f2eb3ca20-DWzf6g_2"
+   ],
+   "note": "Reworded Enigma/codebreakers sentence to what ITV/LBC support."
+  },
+  {
+   "claim": "Seoul summit 21-22 May 2024 co-hosted UK/South Korea",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.gov.uk/government/topical-events/ai-seoul-summit-2024/about",
+    "https://www.csis.org/analysis/ai-seoul-summit"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Paris AI Action Summit, Grand Palais, 10-11 Feb 2025",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.diplomatie.gouv.fr/en/french-foreign-policy/digital-diplomacy/news/article/ai-action-summit-10-11-feb-2025",
+    "https://www.akingump.com/en/insights/ai-law-and-regulation-tracker/france-hosts-third-international-ai-summit"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "IndiaAI Mission approved by Cabinet 7 Mar 2024, Rs 10,372 crore over 5 years, Goyal announced, 10,000+ GPUs",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.tribuneindia.com/news/india/indiaai-mission-gets-cabinet-nod-rs-10-372-crore-allocated-598257",
+    "https://yourstory.com/2024/03/cabinet-approves-india-ai-mission"
+   ],
+   "note": ""
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "2015",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.digitalindia.gov.in/about",
+    "https://www.icann.org/news/blog/a-digital-revolution-in-india"
+   ],
+   "fix": null,
+   "note": "Launched 1 July 2015."
+  },
+  {
+   "index": 2,
+   "verdict": "FIX",
+   "my_answer": "Buckinghamshire",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "WEAK_SOURCE"
+   ],
+   "sources": [
+    "https://www.gov.uk/government/news/iconic-bletchley-park-to-host-uk-ai-safety-summit-in-early-november",
+    "https://itv.com/news/anglia/2023-08-24/home-of-war-time-codebreakers-to-host-ai-summit"
+   ],
+   "fix": "Stem now says ceremonial county (site is in Milton Keynes unitary area); source replaced (loughborough page unchecked).",
+   "note": "Other options wrong."
+  },
+  {
+   "index": 3,
+   "verdict": "DROP",
+   "my_answer": "MeitY",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "WEAK_SOURCE"
+   ],
+   "sources": [
+    "https://dic.gov.in/dic-organization-profile/"
+   ],
+   "fix": null,
+   "note": "'MeitY set up the IBD' only in DIC/NeGD job adverts and DIC profile (same organisation family); no independent publisher found."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "A true, R false (2)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-253-legislation-for-giving-effect-to-international-agreements/",
+    "https://constitution.org/1-Constitution/cons/india/p11253.html"
+   ],
+   "fix": null,
+   "note": "Art 253 in Part XI."
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "I-B, II-D, III-A, IV-C",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.pmfias.com/article-32/",
+    "https://anantamias.com/fundamental-rights"
+   ],
+   "fix": null,
+   "note": "Standard Part III content."
+  },
+  {
+   "index": 6,
+   "verdict": "OK",
+   "my_answer": "Both",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-51-promotion-of-international-peace-and-security/",
+    "https://www.manoramayearbook.in/india/special-articles/2024/11/26/constitution-75-years.html"
+   ],
+   "fix": null,
+   "note": ""
+  },
+  {
+   "index": 7,
+   "verdict": "OK",
+   "my_answer": "Only two",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false,
+    false,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.civilsdaily.com/fundamental-duties/",
+    "https://blog.ipleaders.in/fundamental-duties/"
+   ],
+   "fix": null,
+   "note": "42nd Amendment; Art 368 is Parliament-led."
+  },
+  {
+   "index": 8,
+   "verdict": "DROP",
+   "my_answer": "I only",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false,
+    false
+   ],
+   "issues": [
+    "AMBIGUOUS"
+   ],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-74-council-of-ministers-to-aid-and-advise-president/"
+   ],
+   "fix": null,
+   "note": "Statement II arguable after S.R. Bommai (courts may examine the material behind advice); dropped as weakest/overlapping to reach 6."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "Reports give different full dates for the event, with some citing 16 to 21 February and others 16 to 20 February.",
+   "new": "Reports give different full dates for the event, so only the inauguration date is relied on here, and the summit is generally described as running over several days in the second half of February.",
+   "reason": "unconfirmed/reworded"
+  },
+  {
+   "old": "Within that framework, the summit set out seven thematic pillars, called Chakras. They include Secure and Trusted AI, AI for Science, Democratizing AI Resources, and Economic Growth and Social Good, alongside Access for Social Empowerment, Human Capital Development, and Resilient, Efficient and Innovative AI Systems. Reports describe the Chakras as the operational scaffold for specific deliverables that countries, organisations and industry partners would take forward.",
+   "new": "Within that framework, the summit set out seven thematic pillars, called Chakras. The official list names Human Capital, Inclusion for Social Empowerment, Safe and Trusted AI, Science, Resilience, Innovation and Efficiency, Democratizing AI Resources, and AI for Economic Development and Social Good. Reports describe the Chakras as focused domains of international collaboration that turn the three Sutras into concrete areas of action.",
+   "reason": "unconfirmed/reworded"
+  },
+  {
+   "old": "Sources agree that the declaration is voluntary. Outlook India described it as non-binding but as a sign of strong political will for collaboration, so it does not create enforceable legal obligations for the countries that endorse it. Reports say the declaration uses the summit's theme to stress that the benefits of AI should be shared fairly across humanity.",
+   "new": "Sources agree that the declaration is voluntary. Outlook India and other outlets describe it as non-binding, so it does not create enforceable legal obligations for the countries that endorse it. Reports say the declaration is guided by the summit's theme of welfare and happiness for all.",
+   "reason": "unconfirmed/reworded"
+  },
+  {
+   "old": "a voluntary and non-binding framework that aims to promote affordable and equitable access to foundational AI resources across countries.",
+   "new": "a voluntary and non-binding framework that aims to promote access to foundational AI resources across countries.",
+   "reason": "unconfirmed/reworded"
+  },
+  {
+   "old": "The UK government described the site as the former home of British Enigma codebreaking, and it is known for codebreaking and early computing.",
+   "new": "The site was once the top-secret home of Second World War codebreakers who broke the Enigma code, and it is known for codebreaking and early computing.",
+   "reason": "unconfirmed/reworded"
+  },
+  {
+   "old": "to build computing capacity and local AI skills, and to position the country as a host for global AI discussion.",
+   "new": "to build computing capacity and AI skills, and to host global discussion on AI.",
+   "reason": "unconfirmed/reworded"
+  }
+ ],
+ "summary": "Passage claims confirmed after rewording of chakra names, Outlook attribution, charter adjective and dates. Q3 dropped for lack of independent source, Q8 for ambiguity. Six questions kept."
+}
