@@ -1,0 +1,227 @@
+{
+  "passage_file": "data/draft/t08_p2.json",
+  "passage_claims": [
+    {
+      "claim": "Seventh draft ESA reissued late July 2026 (27 Jul per search summary; Drishti dated 29 Jul)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://thewire.in/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats",
+        "https://www.drishtiias.com/daily-updates/daily-news-analysis/western-ghats-ecologically-sensitive-area-7th-draft-notification"
+      ],
+      "note": "Exact date varies; passage says late July."
+    },
+    {
+      "claim": "56,825.7 sq km across six states Gujarat, Goa, TN, Kerala, Maharashtra, Karnataka",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://thewire.in/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats",
+        "https://www.drishtiias.com/daily-updates/daily-news-analysis/western-ghats-ecologically-sensitive-area-7th-draft-notification"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Bars mining, quarrying, sand mining, new thermal plants, polluting industries, large construction",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://thewire.in/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats",
+        "https://www.drishtiias.com/daily-updates/daily-news-analysis/western-ghats-ecologically-sensitive-area-7th-draft-notification"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Hydel regulated; agriculture/plantations unaffected",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.drishtiias.com/daily-updates/daily-news-analysis/western-ghats-ecologically-sensitive-area-7th-draft-notification"
+      ],
+      "note": "Only exam-prep explainers; kept as 'reported'."
+    },
+    {
+      "claim": "Open to objections for 60 days",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://thewire.in/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats",
+        "https://www.onmanorama.com/news/kerala/2026/09/23/kerala-esa-exclusion-proposal-western-ghats-sensitive-area-plea.html"
+      ],
+      "note": "End date varies; not stated."
+    },
+    {
+      "claim": "Centre and states disagree on villages/areas, dispute since earlier drafts",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.drishtiias.com/daily-updates/daily-news-analysis/western-ghats-ecologically-sensitive-area-7th-draft-notification",
+        "https://vajiramandravi.com/current-affairs/western-ghats-controversy/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Kerala cabinet (Sep 2026) to seek complete exclusion of residential areas and CHR; environment dept map",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.onmanorama.com/news/kerala/2026/09/23/kerala-esa-exclusion-proposal-western-ghats-sensitive-area-plea.html",
+        "https://theprint.in/india/keralam-moves-to-exclude-residential-farm-areas-from-western-ghats-esa-limits/3047969/"
+      ],
+      "note": "ThePrint only seen as search title; flagged thin."
+    },
+    {
+      "claim": "Centre has resisted broader exclusions",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.onmanorama.com/news/kerala/2026/09/23/kerala-esa-exclusion-proposal-western-ghats-sensitive-area-plea.html",
+        "https://thesouthfirst.com/kerala/33-villages-in-or-out-keralams-western-ghats-dilemma-as-objection-deadline-nears/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Added: expert committee set up 2022 extended to July 2027",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://superkalam.com/current-affairs/28-07-2026/western-ghats-panel-gets-one-more-year-as-deadlock-continues-over-eco-sensitive-area-pg7-e1598b55-024f-4afa-8187-6389d12cae3a",
+        "https://www.deccanherald.com/india/new-western-ghats-panel-to-look-at-proposals-on-esas-under-each-stakeholder-state-1116279.html"
+      ],
+      "note": ""
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Environment (Protection) Act, 1986",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.clearias.com/eco-sensitive-zones/",
+        "https://www.casemine.com/in/column/the-legal-regime-of-eco-sensitive-zones-in-india:-balancing-conservation-and-development/view"
+      ],
+      "fix": null,
+      "note": "Explainer-level sources; flagged in residual."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "2012",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://whc.unesco.org/en/decisions/4781",
+        "https://www.hinduismtoday.com/hpi/2012/07/06/india-s-western-ghats-given-unesco-world-heritage-status-httpwwwbbccouknewsworld-asia-india-18669534/"
+      ],
+      "fix": null,
+      "note": "UNESCO primary."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "Karnataka (20,668)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://thewire.in/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats",
+        "https://keralakaumudi.com/en/news/news-amp.php?id=1357694"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 4,
+      "verdict": "DROP",
+      "my_answer": "n/a",
+      "key_answer_correct": null,
+      "truth_values": null,
+      "issues": [
+        "AMBIGUOUS",
+        "UNSUPPORTED"
+      ],
+      "sources": [],
+      "fix": null,
+      "note": "Item A '1,29,037 sq km entire' not confirmed: sources give 129,037 as the panel's definition of the region while a summary says 75 percent; Gadgil entire-region claim fine but figure muddled."
+    },
+    {
+      "index": 5,
+      "verdict": "FIX",
+      "my_answer": "A false, R true (3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [
+        "EXPLANATION_MISMATCH"
+      ],
+      "sources": [
+        "https://indiaenvironmentportal.org.in/news-clippings/only-37-pc-of-western-ghats-ecologically-sensitive-report",
+        "https://vajiramandravi.com/current-affairs/gadgil-report-on-western-ghats-why-the-gadgil-report-still-shapes-environmental-debate/"
+      ],
+      "fix": "Explanation dates changed to August 2011 / April 2013 (sources vary on exact day in Aug 2011).",
+      "note": "Kasturirangan report 15 Apr 2013 (Deccan Herald, Indian Express)."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://salimalifoundation.in/wgeep",
+        "https://www.deccanherald.com/science/at-our-mercy-2297055"
+      ],
+      "fix": null,
+      "note": "Sanjay Kumar 2022 committee detail only in explanation."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "Only three (1,2,3 correct; Maharashtra is 17,340)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://thewire.in/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats",
+        "https://keralakaumudi.com/en/news/news-amp.php?id=1357694",
+        "https://thesouthfirst.com/kerala/33-villages-in-or-out-keralams-western-ghats-dilemma-as-objection-deadline-nears/"
+      ],
+      "fix": null,
+      "note": "Goa/TN/Maharashtra rest on 2026 report plus identical 2024 draft figures."
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "I and II",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [
+        "WEAK_SOURCE",
+        "AMBIGUOUS"
+      ],
+      "sources": [
+        "https://www.onmanorama.com/news/kerala/2026/09/23/kerala-esa-exclusion-proposal-western-ghats-sensitive-area-plea.html"
+      ],
+      "fix": null,
+      "note": "Palakkad Gap/Udumbanchola only independently seen via Onmanorama; 'agreed to exclude' overstates Centre's stated position."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "a dispute that has continued since earlier drafts.",
+      "new": "a dispute that has continued since earlier drafts. An expert committee set up in 2022 to examine the states' proposals has been given an extension until July 2027.",
+      "reason": "Confirmed addition (short passage)."
+    }
+  ],
+  "summary": "6 of 8 kept (Q4 match and Q8 dropped). Hydel/agriculture and Kerala cabinet details remain thin; no passage claims deleted. Final passage is SHORT."
+}
