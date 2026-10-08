@@ -1,0 +1,106 @@
+{
+  "title": "Sangeet Natak Akademi Awards 2024-25",
+  "topic_tags": ["awards", "culture", "performing arts", "Sangeet Natak Akademi", "Vigyan Bhawan", "Dadasaheb Phalke Award", "Jnanpith Award", "Saraswati Samman"],
+  "slot": "T07P2",
+  "text": "President Droupadi Murmu presented the Sangeet Natak Akademi Fellowships and Akademi Puraskars for 2024 and 2025 at Vigyan Bhawan in New Delhi on 13 August 2026. A total of 115 artists were honoured across the two award cycles, covering disciplines such as Hindustani music, Carnatic music, Bharatanatyam, Kathak, theatre, puppetry, Nautanki, Sambalpuri and Kalbeliya.\n\nSeven artists were named Fellows of the Akademi. They are Ramlal Bareth, A V Anand, Rita Ganguly, Puru Dadheech, Chittaranjan Jyotishi, Pasumarthi Rattaiah Sarma and Sudharani Raghupathy. The remaining honourees received the Akademi Puraskar. Each Fellow receives a purse of Rs 3 lakh, a Tamrapatra and an Angavastram, while each Puraskar awardee receives Rs 1 lakh with the same honours.\n\nThe Sangeet Natak Akademi is the national academy for music, dance and drama. Its fellowships and awards recognise artists for their sustained contribution to the performing arts.",
+  "sources": [
+    "https://www.drishtiias.com/state-pcs-current-affairs/sangeet-natak-akademi-fellowship-and-awards-for-2024-2025-announced",
+    "https://www.gktoday.in/president-presents-sangeet-natak-akademi-awards-for-2024-and-2025/",
+    "https://www.sanskritiias.com/current-affairs/sangeet-natak-akademi-fellowship-and-awards-20242025-president-to-honour-115-performing-artists"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Under which Union ministry does the Sangeet Natak Akademi function as an autonomous body?",
+      "options": ["Ministry of Education", "Ministry of Culture", "Ministry of Tourism", "Ministry of Youth Affairs and Sports"],
+      "answer": 1,
+      "explanation": "The Sangeet Natak Akademi is an autonomous body of the Ministry of Culture and is funded by the Government for its schemes and programmes.",
+      "source": "https://www.gktoday.in/sangeet-natak-akademi/ ; https://journalsofindia.com/sangeet-natak-akademi/?print=pdf"
+    },
+    {
+      "type": "direct",
+      "q": "Which of the following is India's national academy of art?",
+      "options": ["Sahitya Akademi", "Lalit Kala Akademi", "Sangeet Natak Akademi", "National Book Trust"],
+      "answer": 1,
+      "explanation": "Lalit Kala Akademi (National Academy of Art) was inaugurated in New Delhi on 5 August 1954. Sahitya Akademi promotes literature and Sangeet Natak Akademi covers music, dance and drama.",
+      "source": "https://journalsofindia.com/lalit-kala-akademynational-academy-of-art/?print=pdf ; https://drishtiias.com/daily-updates/daily-news-analysis/lalit-kala-akademi-awards"
+    },
+    {
+      "type": "direct",
+      "q": "In which year was the Dadasaheb Phalke Award instituted by the Government of India?",
+      "options": ["1913", "1958", "1969", "1975"],
+      "answer": 2,
+      "explanation": "The Dadasaheb Phalke Award was instituted in 1969 and was first presented to Devika Rani in the same year.",
+      "source": "https://www.drishtiias.com/pdf/dadasaheb-phalke-award.pdf ; https://iasbaba.com/2022/09/dadasaheb-phalke-award-2/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Jnanpith Award is given for a writer's overall contribution to literature.",
+      "reason": "The Bharatiya Jnanpith sponsors the Jnanpith Award.",
+      "answer": 1,
+      "truth": [true, true],
+      "explanation": "Both statements are true. The award moved from a single work to a writer's overall contribution in 1982, but sponsorship by Bharatiya Jnanpith does not explain why the award is given for overall contribution.",
+      "source": "https://en.wikipedia.org/wiki/Jnanpith_Award ; https://www.britannica.com/art/Jnanpith-Award"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Saraswati Samman is conferred by the Sahitya Akademi.",
+        "II. The Jnanpith Award was first presented in 1965."
+      ],
+      "answer": 1,
+      "truth": [false, true],
+      "explanation": "Statement I is false because the Saraswati Samman is set up by the K. K. Birla Foundation. Statement II is true because the first Jnanpith Award was given in 1965, so only II is correct.",
+      "source": "https://www.gktoday.in/saraswati-samman/ ; https://www.britannica.com/art/Jnanpith-Award"
+    },
+    {
+      "type": "match",
+      "list1": ["I. National School of Drama", "II. Sahitya Akademi", "III. Saraswati Samman", "IV. Jnanpith Award"],
+      "list2": ["A. 1954", "B. 1959", "C. 1961", "D. 1991"],
+      "options": ["I-B, II-A, III-D, IV-C", "I-A, II-B, III-C, IV-D", "I-B, II-C, III-A, IV-D", "I-D, II-A, III-B, IV-C"],
+      "answer": 0,
+      "explanation": "The National School of Drama was set up in 1959 (B). Sahitya Akademi was inaugurated on 12 March 1954 (A). The Saraswati Samman was instituted in 1991 (D). The Jnanpith Award was instituted in 1961 (C).",
+      "source": "https://journalsofindia.com/sangeet-natak-akademi/?print=pdf ; https://www.sahitya-akademi.gov.in/aboutus/about.jsp ; https://www.gktoday.in/saraswati-samman/ ; https://www.britannica.com/art/Jnanpith-Award"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The Dadasaheb Phalke Award is presented by the President of India.",
+        "2. The Dadasaheb Phalke Award is administered by the Directorate of Film Festivals.",
+        "3. The Saraswati Samman was instituted in 1984.",
+        "4. The Sahitya Akademi was founded in 1959."
+      ],
+      "mode": "correct",
+      "answer": 1,
+      "truth": [true, true, false, false],
+      "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because the Saraswati Samman was set up in 1991. Statement 4 is incorrect because Sahitya Akademi was inaugurated on 12 March 1954. Exactly two statements are correct, so the answer is Only two.",
+      "source": "https://www.drishtiias.com/pdf/dadasaheb-phalke-award.pdf ; https://www.gktoday.in/saraswati-samman/ ; https://www.sahitya-akademi.gov.in/aboutus/about.jsp"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. Akademi Ratna is the highest honour conferred by the Sangeet Natak Akademi.",
+        "II. Devika Rani was the first recipient of the Dadasaheb Phalke Award.",
+        "III. Raja Harishchandra, India's first feature film, was released in 1931."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "truth": [true, true, false],
+      "explanation": "Statements I and II are correct. Statement III is incorrect because Raja Harishchandra was released in 1913, so only I and II are correct.",
+      "source": "https://www.drishtiias.com/state-pcs-current-affairs/sangeet-natak-akademi-fellowship-and-awards-for-2024-2025-announced ; https://www.sanskritiias.com/current-affairs/sangeet-natak-akademi-fellowship-and-awards-20242025-president-to-honour-115-performing-artists ; https://www.drishtiias.com/pdf/dadasaheb-phalke-award.pdf"
+    }
+  ],
+  "writer_flags": [
+    "Passage: cash purse amounts (Rs 3 lakh fellows, Rs 1 lakh Puraskar) are only in the Drishti snippet, not double-sourced",
+    "Passage: fellow names are from Drishti and Sanskriti snippets only; full list not checked against a second publisher",
+    "Passage: 115 artists and 13 Aug 2026 date come from post-event reports; no official Akademi or PIB release found",
+    "Q1: SNA under Ministry of Culture is supported by GKToday and Journals of India snippets; no official ministry page fetched",
+    "Q2: Lalit Kala Akademi inauguration on 5 Aug 1954 is from search summaries of Journals of India and Drishti pages, not fetched",
+    "Q3: Phalke instituted 1969 and first recipient Devika Rani are from Drishti pdf and IASBaba snippets; the Directorate of Film Festivals detail is Drishti-only",
+    "Q4: Jnanpith overall-contribution scope since 1982 and sponsorship by Bharatiya Jnanpith rest on Britannica and Wikipedia (one publisher family); Wikipedia page content not fetched",
+    "Q5: Jnanpith first presented 1965 is from Britannica snippet only; Saraswati Samman set up by K. K. Birla Foundation is from GKToday",
+    "Q6: Sahitya Akademi 1954 date (false option 1959) and Saraswati Samman 1991 date are from search summaries; the Sahitya Akademi official site was not fetched",
+    "Q7: Jnanpith instituted 1961 is from Britannica snippet only; National School of Drama 1959 is from a single Journals of India summary plus an NVLI-type listing; Sahitya 1954 rests on search summary",
+    "Q8: Raja Harishchandra 1913 is from Drishti only; Akademi Ratna as highest honour is from Drishti and Sanskriti summaries"
+  ]
+}
