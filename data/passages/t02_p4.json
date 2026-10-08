@@ -1,0 +1,100 @@
+{
+ "title": "Women AutHer Awards 2026 and Urmila Pawar",
+ "topic_tags": [
+  "awards",
+  "books",
+  "literature",
+  "Women AutHer Awards",
+  "Urmila Pawar",
+  "Dalit writing"
+ ],
+ "text": "The seventh edition of the Women AutHer Awards, a literary prize for women authors, announced its winners in April 2026, with veteran actor and author Kabir Bedi as chief guest. The awards are a joint venture between JK Paper and The Times of India, according to a PrintWeek report dated 8 April 2026. Juries chose most of the winners, while the popular choice award was decided through online voting. Each winning author received Rs 1 lakh, and prize money was shared equally where there were joint winners.\n\nKavery Nambisan won the fiction award for Rising Sons. Likla Lall took the children's books award for Ganesh Haloi: Colours of Home. In nonfiction, Vidya Rajan was honoured for Rubber: The Social and Natural History of an Indispensable Substance, and Narayani Basu for A Man For All Seasons, a biography of KM Panikkar. The debut awards went to Swati Pandey for Invisible in Plain Sight: Voices From the By-Lanes of Kamathipura and to Subi Taba for Tales from the Dawn-Lit Mountains. Astha Gill's Blame it on the Hormones won the popular choice award, and Saanvi Shabeesh's City of Doom won for best manuscript.\n\nThe lifetime achievement award went to Urmila Pawar, a Marathi writer best known for her autobiography, The Weave of My Life: A Dalit Woman's Memoirs. Her Marathi original, Aaydan, which means bamboo basketry, first appeared in 2003. The English edition is a translation by Maya Pandit, an experienced translator of women's writing from Marathi who is pro-vice chancellor of the English and Foreign Language University in Hyderabad. The title uses weaving as a metaphor for writing an autobiography.\n\nThe memoir follows three generations of Mahar Dalit women, beginning with Pawar's childhood in a small village on the Konkan coast. It describes caste discrimination, poverty and gender-based oppression, both in mainstream society and within the Dalit community itself. It covers how her community encountered Ambedkarite ideas and converted to Buddhism, and it recounts her marriage to Harishchandra and the family's move to the city. Pawar holds an MA from the University of Bombay and spent many years in the labour welfare department of the Government of Maharashtra before turning to writing.\n\nReviewers have noted the candour of the book, particularly its frank account of familial and marital conflict, which upset some of her admirers. The jury praised her honest and deep writing on identity, equality and justice, and said her work gives voice to stories that often go unheard. Scroll.in reported the results, and the seventh edition drew some of the biggest names in the literary world to the ceremony. Pawar's honour came alongside prizes for debut fiction, popular choice and best manuscript, and her Marathi memoir, first published in 2003, was honoured in the same ceremony as the new English-language titles.",
+ "sources": [
+  "https://www.printweek.in/news/winners-announced-for-auther-awards--61939",
+  "https://scroll.in/article/1091560/women-auther-awards-announces-winners-marathi-writer-urmila-pawar-gets-lifetime-achievement-award",
+  "https://en.wikipedia.org/wiki/Aaydan"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "On what date did B. R. Ambedkar convert to Buddhism in a mass ceremony at Deekshabhoomi, Nagpur?",
+   "options": [
+    "14 October 1956",
+    "6 December 1956",
+    "26 January 1950",
+    "14 April 1956"
+   ],
+   "answer": 0,
+   "explanation": "Ambedkar converted to Buddhism at Deekshabhoomi in Nagpur on 14 October 1956; the annual observance is Dhammachakra Pravartan Din. The other options are distractors and are not supported by the source.",
+   "source": "https://en.wikipedia.org/wiki/Dhammachakra_Pravartan_Din"
+  },
+  {
+   "type": "direct",
+   "q": "In which year was the Sahitya Akademi, India's National Academy of Letters, formally inaugurated by the Government of India?",
+   "options": [
+    "1947",
+    "1952",
+    "1954",
+    "1956"
+   ],
+   "answer": 2,
+   "explanation": "The Akademi's official website states it was formally inaugurated on 12 March 1954. It was registered as a society under the Societies Registration Act, 1860 on 7 January 1956, which is why 1956 is a distractor.",
+   "source": "https://www.sahitya-akademi.gov.in/aboutus/about.jsp"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "Urmila Pawar's The Weave of My Life is an English translation of a work originally written in Marathi.",
+   "reason": "Marathi is written in the Devanagari script.",
+   "answer": 1,
+   "explanation": "Both statements are true, but the Devanagari script does not explain why the book is a translation; the translation relationship rests on Marathi being the original language, not its script. Hence R is true but not the explanation of A.",
+   "source": "https://en.wikipedia.org/wiki/Marathi_language"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Midnight's Children",
+    "II. The God of Small Things",
+    "III. Heat and Dust",
+    "IV. Rites of Passage"
+   ],
+   "list2": [
+    "A. William Golding",
+    "B. Ruth Prawer Jhabvala",
+    "C. Salman Rushdie",
+    "D. Arundhati Roy"
+   ],
+   "options": [
+    "I-C, II-D, III-B, IV-A",
+    "I-D, II-C, III-A, IV-B",
+    "I-A, II-B, III-C, IV-D",
+    "I-B, II-A, III-D, IV-C"
+   ],
+   "answer": 0,
+   "explanation": "Rushdie won the Booker Prize in 1981 for Midnight's Children; Arundhati Roy won in 1997 for The God of Small Things; Jhabvala won in 1975 for Heat and Dust; William Golding won in 1980 for Rites of Passage.",
+   "source": "https://en.wikipedia.org/wiki/List_of_winners_and_nominated_authors_of_the_Booker_Prize"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. Marathi is the official language of Maharashtra.",
+    "II. Marathi is written in the Modi script."
+   ],
+   "answer": 0,
+   "explanation": "Statement I is true. Statement II is false: Marathi is written in Devanagari, the official writing system; Modi was a historical script used for administration and business records.",
+   "source": "https://en.wikipedia.org/wiki/Marathi_language"
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. Arundhati Roy won the 1997 Booker Prize for her debut novel, The God of Small Things.",
+    "2. Salman Rushdie won the Booker Prize for Midnight's Children in 1980.",
+    "3. Ambedkar's mass conversion to Buddhism took place on 14 October 1956.",
+    "4. The Sahitya Akademi was registered as a society on 12 March 1956."
+   ],
+   "mode": "incorrect",
+   "answer": 1,
+   "explanation": "Statements 1 and 3 are correct. Statement 2 is wrong because the Booker Prize for Midnight's Children is recorded under 1981 (Booker prize-year page). Statement 4 is wrong because the Akademi was formally inaugurated on 12 March 1954 and registered as a society on 7 January 1956. Two statements are incorrect: Only two.",
+   "source": "https://thebookerprizes.com/the-booker-library/prize-years/1981"
+  }
+ ]
+}
