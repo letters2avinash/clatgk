@@ -1,0 +1,120 @@
+{
+  "title": "SC interim order on Jojari River",
+  "topic_tags": [
+    "Supreme Court",
+    "Jojari River",
+    "Rajasthan",
+    "environment",
+    "Constitution",
+    "NGT Act",
+    "Environment Protection Act"
+  ],
+  "slot": "T06P5",
+  "status": "complete",
+  "text": "The Supreme Court has passed an interim order on the Jojari River in Rajasthan. The order was delivered on 24 August 2026 by a bench of Justices Vikram Nath and Sandeep Mehta. It bars any construction or development within 100 metres of the river's edge until the high flood line and ecological buffer zones are demarcated. It also bars polluting or hazardous industries within 500 metres on either side of the flood line.",
+  "sources": [
+    "https://www.livelaw.in/top-stories/supreme-court-bans-construction-within-100-metres-of-jojari-river-bars-polluting-activities-within-500-metres-547085",
+    "https://www.moneylife.in/article/supreme-court-bans-construction-activities-within-100-meters-of-rajasthans-jojari-river/81450.html",
+    "https://www.barandbench.com/news/supreme-court-bans-construction-activities-within-100-meters-of-rajasthans-jojari-river",
+    "https://www.verdictum.in/supreme-court/bans-construction-100m-river-edge-polluting-units-500m-buffer-zone-jojari-river-1620491",
+    "https://www.deccanchronicle.com/nation/sc-bars-construction-within-100-metres-of-jojari-river-1981902",
+    "https://www.etvbharat.com/en/bharat/supreme-court-halts-construction-within-100m-of-jojari-river-to-protect-ecosystem-enn26082403561"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "The National Green Tribunal, which hears environmental disputes, was established under an Act of Parliament. In which year was the Tribunal set up?",
+      "options": [
+        "2006",
+        "2010",
+        "2012",
+        "2014"
+      ],
+      "answer": 1,
+      "explanation": "The National Green Tribunal was established on 18 October 2010 under the National Green Tribunal Act, 2010. The Act was enacted in 2010, and the Tribunal was set up that same year.",
+      "source": "https://www.greentribunal.gov.in/about-us ; https://indiacode.nic.in/handle/123456789/2025?locale=en"
+    },
+    {
+      "type": "direct",
+      "q": "The Environment (Protection) Act, 1986 was enacted to give effect to the decisions of which international conference?",
+      "options": [
+        "UN Conference on the Human Environment, Stockholm, 1972",
+        "UN Conference on Environment and Development, Rio de Janeiro, 1992",
+        "UN Climate Change Conference, Kyoto, 1997",
+        "UN Conference on Sustainable Development, Johannesburg, 2002"
+      ],
+      "answer": 0,
+      "explanation": "The preamble of the Environment (Protection) Act, 1986 recites that decisions were taken at the UN Conference on the Human Environment held at Stockholm in June 1972, and the Act was enacted to implement them. The Rio, Kyoto and Johannesburg conferences all took place after the 1986 Act and cannot be its source.",
+      "source": "https://en.wikipedia.org/wiki/Environment_Protection_Act,_1986 ; https://vajiramandravi.com/upsc-exam/?p=29848"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Article 48A",
+        "II. Article 51A(g)",
+        "III. Article 141",
+        "IV. Article 142"
+      ],
+      "list2": [
+        "A. Law declared by the Supreme Court is binding on all courts in India",
+        "B. Duty of every citizen to protect and improve the natural environment",
+        "C. State shall endeavour to protect and improve the environment and safeguard forests and wildlife",
+        "D. Supreme Court may pass any decree or order necessary for doing complete justice"
+      ],
+      "options": [
+        "I-C, II-B, III-A, IV-D",
+        "I-B, II-C, III-A, IV-D",
+        "I-C, II-B, III-D, IV-A",
+        "I-A, II-B, III-C, IV-D"
+      ],
+      "answer": 0,
+      "explanation": "Article 48A is a Directive Principle directing the State to protect and improve the environment and safeguard forests and wildlife (C). Article 51A(g) is a Fundamental Duty of every citizen to protect and improve the natural environment (B). Article 141 makes Supreme Court law binding on courts (A). Article 142 lets the Supreme Court pass orders for complete justice (D).",
+      "source": "https://www.constitutionofindia.net/?p=875 ; https://vidhijudicial.com/article-48a-of-the-constitution-of-india.html ; https://lawbhoomi.com/fundamental-duties-and-environmental-conservation/ ; https://ylcube.com/c/blogs/article-51-g-root-environment-protection/ ; https://www.constitutionofindia.net/articles/article-141-law-declared-by-supreme-court-to-be-binding-on-all-courts ; https://en.wikipedia.org/wiki/Article_141_of_the_Constitution_of_India ; https://en.wikipedia.org/wiki/Article_142_of_the_Constitution_of_India ; https://www.constitutionofindia.net/articles/article-142-enforcement-of-decrees-and-orders-of-supreme-court-and-orders-as-to-discovery-etc/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Section 3 of the Environment (Protection) Act, 1986 confers power only on State Governments to take measures for protecting and improving the environment.",
+      "reason": "Section 3 empowers the Central Government to take all such measures as it deems necessary or expedient for protecting and improving the quality of the environment and preventing, controlling and abating environmental pollution.",
+      "answer": 3,
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "The assertion is false: Section 3 vests the general power in the Central Government, not only in State Governments. The reason correctly states the Central Government's power under Section 3(1), so A is false and R is true.",
+      "source": "https://lawx.in/acts/section/49/493/4785 ; https://vidhijudicial.com/sec-3-to-6-(chapter-ii-general-powers-of-the-central-government)-the-environment-(protection)-act,-1986.html"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. Under the Water (Prevention and Control of Pollution) Act, 1974, State Pollution Control Boards are constituted by the Central Government.",
+        "II. An appeal against an order of the National Green Tribunal lies to the High Court within 30 days of the order."
+      ],
+      "answer": 3,
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "Statement I is false: under Section 4 of the Water Act, 1974, State Pollution Control Boards are constituted by the State Government. Statement II is false: under Section 22 of the NGT Act, 2010, an appeal lies to the Supreme Court within 90 days, not to the High Court within 30 days. Neither statement is correct.",
+      "source": "https://bhattandjoshiassociates.com/?p=4458 ; https://lawx.in/acts/section/122/1087/9364 ; https://lawx.in/acts/section/120/1076/9282 ; https://www.advocatekhoj.com/library/bareacts/nationalgreen/22.php"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. Under Article 129, the Supreme Court is a court of record and has the power to punish for contempt of itself.",
+        "2. Under Article 137, the Supreme Court has power to review any judgment or order made by it, subject to any law made by Parliament or rules made under Article 145.",
+        "3. Under Section 25 of the Water (Prevention and Control of Pollution) Act, 1974, an industry likely to discharge trade effluent into a stream cannot be established without the previous consent of the State Board.",
+        "4. Under Article 143, the Supreme Court may give an advisory opinion on its own motion without any reference from the President."
+      ],
+      "mode": "correct",
+      "answer": 2,
+      "truth": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "explanation": "Statements 1, 2 and 3 are correct: Article 129 makes the Supreme Court a court of record, Article 137 gives it a review power subject to law and Article 145 rules, and Section 25 of the Water Act requires prior consent of the State Board. Statement 4 is incorrect because Article 143 advisory opinions require a reference by the President. Three statements are correct, so the answer is Only three.",
+      "source": "https://www.constitutionofindia.net/articles/article-129-supreme-court-to-be-a-court-of-record/ ; https://www.constitutionofindia.net/articles/article-137-review-of-judgments-or-orders-by-the-supreme-court/ ; https://cdn.cseindia.org/attachments/0.40045900_1506513613_granting-consent-under-water-act1974.pdf ; https://www.scconline.com/blog/post/2025/05/18/article-143-supreme-court-advisory-jurisdiction/ ; https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/20-05-2025/print/manual"
+    }
+  ]
+}

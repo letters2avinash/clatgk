@@ -1,0 +1,181 @@
+{
+  "passage_file": "data/draft/t06_p5.json",
+  "passage_claims": [
+    {
+      "claim": "SC interim order on Jojari River, Rajasthan, delivered 24 Aug 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.livelaw.in/top-stories/supreme-court-bans-construction-within-100-metres-of-jojari-river-bars-polluting-activities-within-500-metres-547085",
+        "https://www.barandbench.com/news/supreme-court-bans-construction-activities-within-100-meters-of-rajasthans-jojari-river",
+        "https://www.deccanchronicle.com/nation/sc-bars-construction-within-100-metres-of-jojari-river-1981902"
+      ],
+      "note": "Several independent legal/news outlets."
+    },
+    {
+      "claim": "Bench of Justices Vikram Nath and Sandeep Mehta",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.livelaw.in/top-stories/supreme-court-bans-construction-within-100-metres-of-jojari-river-bars-polluting-activities-within-500-metres-547085",
+        "https://www.moneylife.in/article/supreme-court-bans-construction-activities-within-100-meters-of-rajasthans-jojari-river/81450.html"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Bars construction/development within 100 m of river edge until high flood line and ecological buffer zones demarcated",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.barandbench.com/news/supreme-court-bans-construction-activities-within-100-meters-of-rajasthans-jojari-river",
+        "https://www.etvbharat.com/en/bharat/supreme-court-halts-construction-within-100m-of-jojari-river-to-protect-ecosystem-enn26082403561"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Bars polluting/hazardous industries within 500 m on either side of the flood line",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.livelaw.in/top-stories/supreme-court-bans-construction-within-100-metres-of-jojari-river-bars-polluting-activities-within-500-metres-547085",
+        "https://www.deccanchronicle.com/nation/sc-bars-construction-within-100-metres-of-jojari-river-1981902"
+      ],
+      "note": "Reference point: either side of the flood line where identified, else of the present flow path; passage wording 'flood line' matches the main reports. One minor aggregator (rasonly) misstates the bar; ignored. Passage left unchanged."
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "2010",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.greentribunal.gov.in/about-us",
+        "https://indiacode.nic.in/handle/123456789/2025"
+      ],
+      "fix": "source updated",
+      "note": "NGT Act 2010 in force 18 Oct 2010; distractors wrong."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "Stockholm 1972",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.advocatekhoj.com/library/bareacts/environmentprotection/preamble.php",
+        "https://www.casemine.com/act/in/5a979db84a93263ca60b7305/amp"
+      ],
+      "fix": null,
+      "note": "Preamble recital; other conferences postdate the Act."
+    },
+    {
+      "index": 3,
+      "verdict": "DROP",
+      "my_answer": "Article 32",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://compass.rauias.com/polity/article-32-35/",
+        "https://www.thelegallock.com/resources/blogs/analysis-of-right-to-constitutional-remedies"
+      ],
+      "fix": null,
+      "note": "Correct but dropped in cull: overlaps constitutional-article theme of Q4; only exam-prep sources seen."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-C, II-B, III-A, IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/?p=875",
+        "https://www.legacyias.com/article-48a-environment-forests-wildlife/",
+        "https://anantamias.com/article-141-of-indian-constitution/",
+        "https://en.wikipedia.org/wiki/Article_142_of_the_Constitution_of_India"
+      ],
+      "fix": null,
+      "note": "48A/51A(g)/141/142 confirmed; alternative pairings wrong."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "A false, R true (3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://lawx.in/acts/section/49/493/4785",
+        "https://vidhijudicial.com/sec-3-to-6-(chapter-ii-general-powers-of-the-central-government)-the-environment-(protection)-act,-1986.html"
+      ],
+      "fix": null,
+      "note": "s.3(1) vests power in Central Government."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "Neither (3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://lawx.in/acts/section/122/1087/9364",
+        "https://indiacode.nic.in/bitstream/123456789/15429/1/the_water_(prevention_and_control_of_pollution)_act,_1974.pdf",
+        "https://lawx.in/acts/section/120/1076/9282",
+        "https://www.advocatekhoj.com/library/bareacts/nationalgreen/22.php"
+      ],
+      "fix": null,
+      "note": "s.4 State Government constitutes Boards; s.22 NGT appeal to Supreme Court within 90 days."
+    },
+    {
+      "index": 7,
+      "verdict": "DROP",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://lawx.in/acts/section/120/1076/9274",
+        "https://www.greentribunal.gov.in/about-us",
+        "https://www.indiacode.nic.in/handle/123456789/2025"
+      ],
+      "fix": null,
+      "note": "Correct (s.14; Principal Bench Delhi confirmed via NGT site and indiacode notification) but dropped in cull: third NGT-themed question (Q1, Q6 already cover NGT)."
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "Only three (2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-137-review-of-judgments-or-orders-by-the-supreme-court/",
+        "https://www.constitutionofindia.net/articles/article-129-supreme-court-to-be-a-court-of-record/",
+        "https://lawx.in/acts/section/122/1090/9386",
+        "https://future.indiankanoon.org/doc/1166145",
+        "https://www.scconline.com/blog/post/2025/05/18/article-143-supreme-court-advisory-jurisdiction/"
+      ],
+      "fix": null,
+      "note": "Art 143 needs a Presidential reference; s.25 consent confirmed."
+    }
+  ],
+  "passage_fixes": [],
+  "summary": "All passage claims confirmed by multiple outlets; no passage edits. All 8 questions factually pass; 6 kept (Q1,2,4,5,6,8) with mix 2 direct, match, AR, statement_two, statement_count; Q3 and Q7 dropped in cull for topic overlap."
+}
