@@ -1,0 +1,147 @@
+{
+ "title": "Tribunals Reforms Bill, 2026",
+ "topic_tags": [
+  "polity",
+  "tribunals",
+  "Monsoon Session 2026",
+  "Parliament",
+  "judiciary"
+ ],
+ "slot": "T04P4",
+ "status": "complete",
+ "text": "Parliament has passed the Tribunals Reforms Bill, 2026, a law that repeals the Tribunals Reforms Act, 2021 and replaces it with a new framework for the appointment and supervision of tribunals. The bill was taken up during the Monsoon Session, which ran from 20 July to 13 August 2026. Both Houses passed 12 bills during the session, but most were cleared with little or no debate, as the proceedings were repeatedly disrupted, including by protests over the NEET-UG paper leak.\n\nThe bill was introduced in the Lok Sabha on 10 August 2026 and passed the same day by voice vote. Its stated purpose is to set up a National Tribunals Commission that will select chairpersons and members for tribunals across the country. Reports said it was passed without debate amid sloganeering by Opposition members. The Rajya Sabha passed the bill on 11 August 2026, and Opposition members walked out during the debate.\n\nThe central feature of the bill is a National Tribunals Commission. The Commission would oversee the appointment, administration and functioning of 16 tribunals and authorities across the country. These include the Central Administrative Tribunal, the State Administrative Tribunals, the Securities Appellate Tribunal and the Debts Recovery Tribunal. The Commission would conduct the selection process for filling vacancies in tribunals, review the performance of tribunals, and oversee inquiries into complaints against the conduct of chairpersons or members of tribunals.\n\nThe Commission would also develop and maintain a National Tribunals Data Grid, a database covering the tribunals it oversees. The Commission is thus responsible for both the selection of members and the maintenance of records on tribunals.\n\nThe Commission would have a chairperson, two judicial members and two technical members. The chairperson must be a Judge of the Supreme Court or a Chief Justice of a High Court. Appointments to the Commission rest with the Central Government, which must consult the Chief Justice of India before appointing the chairperson and the judicial members.\n\nThe legislation follows a judgment of the Supreme Court in the Madras Bar Association case. The Court struck down certain provisions of the 2021 Act, holding that they were inconsistent with the principles of judicial independence and the separation of powers. The Court also called for an independent National Tribunals Commission with professional expertise and a transparent oversight mechanism for the appointment and administration of tribunals.\n\nThe government has said that the bill does not change the jurisdiction of any tribunal. The bill seeks to give effect to these directions. Under the bill, the Commission will be created by statute, which fixes its composition, functions and selection process in law. The Court had said that the appointment and administration of tribunals should be overseen by an independent body, and the bill is the government's legislative response to that position.",
+ "sources": [
+  "https://www.barandbench.com/news/law-policy/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals",
+  "https://www.moneylife.in/article/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals/81305.html",
+  "https://www.livelaw.in/top-stories/lok-sabha-passes-tribunals-reforms-bill-2026-without-debate-545083",
+  "https://www.livelaw.in/news-updates/monsoon-session-parliament-2026-12-bills-passed-lok-sabha-rajya-sabha-545997",
+  "https://www.governancenow.com/news/regular-story/monsoon-session-of-parliament-adjourns-sine-die",
+  "https://prsindia.org/billtrack/the-tribunals-reforms-bill-2026",
+  "https://www.scconline.com/blog/?p=392972",
+  "https://supremetoday.ai/lok-sabha-passes-tribunals-reforms-bill-2026-establishing-national-tribunals-commission-after-supreme-court-ruling-20260810053",
+  "https://thewire.in/government/rajya-sabha-passes-bill-to-set-up-national-tribunal-commission-amid-opposition-walkout",
+  "https://www.etvbharat.com/en/bharat/parliament-passes-tribunals-reforms-bill-2026-enn26081104883",
+  "https://deccanherald.com/india/parliament-passes-tribunals-reforms-bill-2026-govt-says-no-changes-in-jurisdiction-of-tribunals-4107141"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "Under which Article of the Constitution can Parliament and the state legislatures provide for tribunals to adjudicate disputes relating to matters such as taxation?",
+   "options": [
+    "Article 323A",
+    "Article 323B",
+    "Article 124",
+    "Article 368"
+   ],
+   "answer": 1,
+   "explanation": "Article 323B, inserted by the 42nd Amendment in 1976, lists taxation first among the matters for which tribunals may be set up. Article 323A deals with service disputes of public servants, and Articles 124 and 368 deal with the Supreme Court and constitutional amendments respectively.",
+   "source": "https://www.gktoday.in/article-323b/ ; https://unacademy.com/content/upsc/study-material/polity/tribunals-under-article-323b/ ; https://www.constitutionofindia.net/articles/article-323a-administrative-tribunals"
+  },
+  {
+   "type": "direct",
+   "q": "Under Article 217 of the Constitution, a permanent Judge of a High Court holds office until attaining what age?",
+   "options": [
+    "60 years",
+    "62 years",
+    "65 years",
+    "70 years"
+   ],
+   "answer": 1,
+   "explanation": "Article 217(1) provides that a permanent High Court judge holds office until attaining the age of 62 years. Additional and acting judges are governed by Article 224.",
+   "source": "https://vajiramandravi.com/current-affairs/article-217-of-the-indian-constitution/ ; https://iasbaba.com/2022/07/retirement-age-of-judges-of-higher-judiciary/"
+  },
+  {
+   "type": "direct",
+   "q": "Under Article 80 of the Constitution, how many members of the Rajya Sabha does the President nominate?",
+   "options": [
+    "2",
+    "8",
+    "12",
+    "14"
+   ],
+   "answer": 2,
+   "explanation": "Under Article 80(1)(a), read with clause (3), the President nominates 12 members having special knowledge or practical experience in literature, science, art and social service.",
+   "source": "https://sansad.in/uploads/CHAPTER_2_00fa091868.pdf ; https://www.legacyias.com/nominated-members-in-rajya-sabha/"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Article 76",
+    "II. Article 148",
+    "III. Article 280",
+    "IV. Article 324"
+   ],
+   "list2": [
+    "A. Attorney General of India",
+    "B. Finance Commission",
+    "C. Comptroller and Auditor-General of India",
+    "D. Election Commission"
+   ],
+   "options": [
+    "I-A, II-C, III-B, IV-D",
+    "I-C, II-A, III-D, IV-B",
+    "I-B, II-D, III-A, IV-C",
+    "I-D, II-B, III-C, IV-A"
+   ],
+   "answer": 0,
+   "explanation": "Article 76 provides for the Attorney General of India, Article 148 for the Comptroller and Auditor-General, Article 280 for the Finance Commission and Article 324 for the Election Commission.",
+   "source": "https://www.constitutionofindia.net/articles/article-76-attorney-general-for-india/ ; https://vajiramandravi.com/current-affairs/article-76-of-indian-constitution/ ; https://www.constitutionofindia.net/articles/article-148-comptroller-and-auditor-general-of-india ; https://www.constitutionofindia.net/articles/article-280-finance-commission ; https://www.constitutionofindia.net/articles/article-324-superintendence-direction-and-control-of-elections-to-be-vested-in-an-election-commission/"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "The Tribunals Reforms Bill, 2026 was passed by the Lok Sabha on 10 August 2026 by voice vote.",
+   "reason": "Under Article 109 of the Constitution, a Money Bill may be introduced in the Rajya Sabha.",
+   "answer": 2,
+   "truth": [
+    true,
+    false
+   ],
+   "explanation": "The assertion is true: the Lok Sabha passed the bill by voice vote on 10 August 2026. The reason is false: Article 109(1) bars a Money Bill from being introduced in the Rajya Sabha, so such a bill must begin in the Lok Sabha.",
+   "source": "https://www.barandbench.com/news/law-policy/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals ; https://www.etvbharat.com/en/bharat/parliament-passes-tribunals-reforms-bill-2026-enn26081104883 ; https://shankariasparliament.com/current-affairs/money-bill ; https://anantamias.com/money-bill-misuse-article-110/?pdf=1"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. Under Article 368(2), an amendment affecting the representation of States in Parliament must be ratified by the Legislatures of at least one-half of the States.",
+    "II. Under Article 111, the President may return a Bill other than a Money Bill to the Houses for reconsideration."
+   ],
+   "answer": 2,
+   "truth": [
+    true,
+    true
+   ],
+   "explanation": "Both statements are correct. Article 368(2) requires ratification by at least half of the State legislatures for amendments affecting, among other matters, the representation of States in Parliament. Article 111 allows the President to return a non-Money Bill with a message for reconsideration.",
+   "source": "https://www.constitutionofindia.net/articles/article-368-power-of-parliament-to-amend-the-constitution-and-procedure-therefor ; https://shankariasparliament.com/current-affairs/constitutional-amendments-for-states-ratification ; https://www.constitutionofindia.net/articles/article-111-assent-to-bills ; https://lexibal.com/article-111-assent-to-bills/"
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. In L. Chandra Kumar v. Union of India (1997), the Supreme Court held that decisions of tribunals remain subject to the writ jurisdiction of the High Courts under Articles 226 and 227.",
+    "2. Under Article 72, the Vice-President of India may grant pardons and suspend, remit or commute sentences.",
+    "3. Article 21A guarantees free and compulsory education to all children in the age group of six to fourteen years.",
+    "4. Under Article 143, the President may seek the advisory opinion of the Supreme Court on a question of law or fact of public importance."
+   ],
+   "mode": "incorrect",
+   "answer": 0,
+   "explanation": "Only one statement is incorrect. Statement 2 is wrong because the pardoning power under Article 72 belongs to the President, not the Vice-President. Statements 1, 3 and 4 are correct.",
+   "source": "https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/1997/volume%202/Part%20I/1997_2_1186-1250_1702203566.pdf ; https://manupatracademy.com/LegalPost/MANU_SC_0261_1997 ; https://law.drishtiias.com/to-the-point/ttp-constitution-of-india/pardoning-power-of-the-president ; https://iasbaba.com/2022/07/article-72/ ; https://law.drishtiias.com/to-the-point/ttp-constitution-of-india/right-to-education-under-article-21a ; https://www.vydehischool.com/blog/?p=1972 ; https://www.scconline.com/blog/?p=348187 ; https://vajiramandravi.com/current-affairs/article-143-of-indian-constitution/"
+  },
+  {
+   "type": "statement_multi",
+   "statements": [
+    "I. The Supreme Court (Number of Judges) Amendment Bill, 2026 raises the sanctioned strength of the Supreme Court from 34 to 38, including the Chief Justice of India.",
+    "II. Under Article 124(1), Parliament may by law prescribe a larger number of Judges for the Supreme Court than the number fixed in the Constitution.",
+    "III. Under Article 53, the executive power of the Union is vested in the Vice-President."
+   ],
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "All of the above"
+   ],
+   "answer": 0,
+   "explanation": "Statements I and II are correct. Statement III is incorrect because Article 53 vests the executive power of the Union in the President, not the Vice-President.",
+   "source": "https://www.scconline.com/blog/post/2026/08/03/lok-sabha-passes-supreme-court-number-of-judges-amendment-bill-2026/ ; https://www.barandbench.com/news/lok-sabha-passes-bill-to-increase-supreme-court-judge-strength-to-38 ; https://www.constitutionofindia.net/articles/article-124-establishment-and-constitution-of-supreme-court/ ; https://vajiramandravi.com/current-affairs/article-124-of-indian-constitution/ ; https://lawbhoomi.com/president-of-india-under-constitution-of-india/ ; https://unacademy.com/content/the-union-executive-of-the-indian-constitution-under-articles-52-to-articles-78/"
+  }
+ ]
+}
