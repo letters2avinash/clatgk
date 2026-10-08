@@ -1,0 +1,236 @@
+{
+  "passage_file": "data/draft/t08_p3.json",
+  "passage_claims": [
+    {
+      "claim": "SC took suo motu cognisance on 25 Feb 2026 of Class 8 NCERT social science textbook references to corruption in judiciary",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.thequint.com/amp/story/news/breaking-news/supreme-court-ncert-textbook-judiciary-corruption-cognizance",
+        "https://www.barandbench.com/news/litigation/supreme-court-closes-suo-motu-case-over-ncert-chapter-on-corruption-in-judiciary"
+      ],
+      "note": "Careers360, DTNext also agree."
+    },
+    {
+      "claim": "Bench led by CJI Surya Kant",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.thequint.com/amp/story/news/breaking-news/supreme-court-ncert-textbook-judiciary-corruption-cognizance",
+        "https://www.verdictum.in/court-updates/supreme-court/deep-rooted-consipiracy-ncert-published-class-8-book-corruption-in-judiciary-1608740"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Bench 'termed the matter a grave concern'",
+      "verdict": "WRONG",
+      "sources": [
+        "https://www.newsarenaindia.com/nation/grave-concern-sc-flags-class-8-book-text-on-judicial-corruption/70785"
+      ],
+      "note": "Phrase was said by senior advocate Kapil Sibal when mentioning the matter; attributing it to the bench is unsupported. Reworded."
+    },
+    {
+      "claim": "26 Feb 2026 blanket ban on publication, reprinting, digital circulation",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://thewire.in/law/supreme-court-bans-ncert-book-with-judicial-corruption-chapter-issues-notice-to-school-education-secretary",
+        "https://www.onmanorama.com/news/india/2026/02/26/supreme-court-india-ncert-textbook-ban.amp.html"
+      ],
+      "note": "Also Careers360, newsonair."
+    },
+    {
+      "claim": "Physical copies seized, digital removed",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://news.careers360.com/supreme-court-bans-class-8-social-science-textbook-judiciary-corruption-chapter-4-copies-seizure-digital-takedown-ncert-director/amp",
+        "https://morungexpress.com/sc-orders-seizure-bans-ncert-book-over-corruption-in-judiciary-chapter"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Centre and states told to act at once, warning of serious action",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://news.careers360.com/supreme-court-bans-class-8-social-science-textbook-judiciary-corruption-chapter-4-copies-seizure-digital-takedown-ncert-director/amp",
+        "https://www.onmanorama.com/news/india/2026/02/26/supreme-court-india-ncert-textbook-ban.html"
+      ],
+      "note": "Seen in search summaries only."
+    },
+    {
+      "claim": "Classes should not be held on basis of the book",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://morungexpress.com/sc-orders-seizure-bans-ncert-book-over-corruption-in-judiciary-chapter",
+        "https://thewire.in/law/supreme-court-bans-ncert-book-with-judicial-corruption-chapter-issues-notice-to-school-education-secretary"
+      ],
+      "note": "Order: no instruction based on the book."
+    },
+    {
+      "claim": "Show-cause notices to Secretary of School Education (MoE) and NCERT Director",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://thewire.in/law/supreme-court-bans-ncert-book-with-judicial-corruption-chapter-issues-notice-to-school-education-secretary",
+        "https://www.scconline.com/blog/post/2026/02/27/sc-suo-motu-ncert-class-8-textbook-contempt-notice-judiciary/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "CJI described matter as deep-rooted conspiracy",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.verdictum.in/court-updates/supreme-court/deep-rooted-consipiracy-ncert-published-class-8-book-corruption-in-judiciary-1608740",
+        "https://www.barandbench.com/amp/story/news/deep-rooted-conspiracy-supreme-court-bans-ncert-textbook-with-chapter-on-judicial-corruption-issues-notice-to-ncert-director"
+      ],
+      "note": ""
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Article 129",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-129-supreme-court-to-be-a-court-of-record/",
+        "https://main.sci.gov.in/jonew/judis/13280.pdf"
+      ],
+      "fix": "source updated",
+      "note": "142 (complete justice), 131 (original), 143 (advisory) wrong."
+    },
+    {
+      "index": 2,
+      "verdict": "DROP",
+      "my_answer": "Contempt of Courts Act, 1971",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://courtbook.in/contempt-of-courts-act-1971/section-2",
+        "https://casemine.com/act/in/5a979dad4a93263ca60b7242"
+      ],
+      "fix": null,
+      "note": "Correct but dropped in cull: overlaps Q1 (contempt) and weakest of the directs."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "I-C, II-D, III-B, IV-A",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://unacademy.com/content/cag-of-india/",
+        "https://future.indiankanoon.org/doc/259647",
+        "https://www.constitutionofindia.net/articles/article-280-finance-commission",
+        "https://vajiramandravi.com/current-affairs/what-is-article-311-of-indian-constitution/"
+      ],
+      "fix": null,
+      "note": "Art 280 'end of every fifth year or earlier' matches B."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "Article 136",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-136-special-leave-to-appeal-by-the-supreme-court/",
+        "https://future.indiankanoon.org/doc/427855"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "3 (A false, R true)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://www.apnilaw.com/upsc/indian-constitution/article-226-writ-jurisdiction-of-high-courts/",
+        "https://forumias.com/blog/article-226-of-indian-constitution/"
+      ],
+      "fix": null,
+      "note": "Fact well established; sources are exam-prep (listed in residual)."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "3 (neither)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.education.gov.in/en/fundamental_rights_article-21A",
+        "https://www.constitutionofindia.net/articles/article-76-attorney-general-for-india/",
+        "https://blog.ipleaders.in/article-76-of-the-indian-constitution/"
+      ],
+      "fix": null,
+      "note": "6-14 and President appoints."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "All four correct (index 3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://rsdebate.nic.in/bitstream/123456789/753143/1/PQ_266_19122024_U2819_p307_p307.pdf",
+        "https://www.livelaw.in/amp/curious-case-criticism-court-constitution",
+        "https://vajiramandravi.com/current-affairs/article-124-of-indian-constitution/",
+        "https://journalsofindia.com/addition-of-judges-to-sc/?print=pdf"
+      ],
+      "fix": null,
+      "note": "124(7) bar, 124(4), 124(2), 124(1) all confirmed."
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "All of the above (3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true
+      ],
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://www.barandbench.com/amp/story/news/litigation/foreign-firms-cant-claim-free-speech-right-available-to-citizens-under-article-19-karnataka-hc-in-x-corp-verdict",
+        "https://vidhilegalpolicy.in/?p=22677"
+      ],
+      "fix": null,
+      "note": "Facts true, but dropped in cull: thinnest sourcing (secondary only) and overlaps Q7 statement-type."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "A bench led by Chief Justice of India Surya Kant termed the matter a grave concern.",
+      "new": "A bench led by Chief Justice of India Surya Kant took up the matter.",
+      "reason": "'Grave concern' was said by Kapil Sibal, not the bench."
+    },
+    {
+      "old": "",
+      "new": "Added: book title sentence and show-cause purpose clause",
+      "reason": "Short-passage rule; each confirmed by The Wire, Onmanorama, Careers360, SCC Online search results."
+    }
+  ],
+  "summary": "Passage had one wrong attribution (fixed). Seven of eight questions factually correct; Q2 and Q8 dropped in the cull to 6. Only search snippets were available (WebFetch failed); 21 searches used."
+}

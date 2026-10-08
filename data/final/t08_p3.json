@@ -1,0 +1,140 @@
+{
+  "title": "NCERT Textbook and the Supreme Court",
+  "topic_tags": [
+    "Supreme Court",
+    "suo motu",
+    "NCERT",
+    "judiciary",
+    "Article 129",
+    "Contempt of Courts Act",
+    "Article 136",
+    "Article 226",
+    "Article 124"
+  ],
+  "slot": "T08P3",
+  "text": "The Supreme Court of India took suo motu cognisance on 25 February 2026 of references to corruption in the judiciary in a Class 8 social science textbook published by the National Council of Educational Research and Training (NCERT). A bench led by Chief Justice of India Surya Kant took up the matter.\n\nOn 26 February 2026, the court imposed a blanket ban on any further publication, reprinting and digital circulation of the textbook. It directed that physical copies be seized and digital versions be removed, and told the Centre and state governments to act at once, warning of serious action for any violation. It also said classes should not be held on the basis of the book.\n\nThe book is titled Exploring Society: India and Beyond. Show-cause notices were issued to the Secretary of School Education in the Union Ministry of Education and to the Director of NCERT, asking why contempt or other penal action should not be taken. The Chief Justice described the matter as a deep-rooted conspiracy.",
+  "sources": [
+    "https://www.newsonair.gov.in/supreme-court-takes-cognisance-of-references-to-corruption-in-judiciary-in-class-8-ncert-textbook",
+    "https://kashmirreader.com/2026/02/25/sc-takes-cognisance-of-ncert-class-8-chapter-on-corruption-in-judiciary/",
+    "https://news.careers360.com/supreme-court-bans-class-8-social-science-textbook-judiciary-corruption-chapter-4-copies-seizure-digital-takedown-ncert-director/amp",
+    "https://www.onmanorama.com/news/india/2026/02/26/supreme-court-india-ncert-textbook-ban.amp.html",
+    "https://morungexpress.com/sc-orders-seizure-bans-ncert-book-over-corruption-in-judiciary-chapter",
+    "https://thewire.in/law/supreme-court-bans-ncert-book-with-judicial-corruption-chapter-issues-notice-to-school-education-secretary",
+    "https://www.verdictum.in/court-updates/supreme-court/deep-rooted-consipiracy-ncert-published-class-8-book-corruption-in-judiciary-1608740"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Which Article of the Constitution of India declares the Supreme Court to be a court of record, with power to punish for contempt of itself?",
+      "options": [
+        "Article 129",
+        "Article 142",
+        "Article 131",
+        "Article 143"
+      ],
+      "answer": 0,
+      "explanation": "Article 129 declares the Supreme Court a court of record and gives it the power to punish for contempt of itself. Article 215 gives the same status to High Courts.",
+      "source": "https://www.constitutionofindia.net/articles/article-129-supreme-court-to-be-a-court-of-record/ ; https://www.understandupsc.com/article-129-of-indian-constitution/ ; https://main.sci.gov.in/jonew/judis/13280.pdf"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Article 148",
+        "II. Article 217",
+        "III. Article 280",
+        "IV. Article 311"
+      ],
+      "list2": [
+        "A. Protection of civil servants against dismissal by an authority subordinate to the appointing authority",
+        "B. Constitution of a Finance Commission at intervals of five years or earlier if necessary",
+        "C. Appointment and removal of the Comptroller and Auditor-General of India",
+        "D. Appointment of High Court judges by the President"
+      ],
+      "options": [
+        "I-C, II-D, III-B, IV-A",
+        "I-A, II-B, III-C, IV-D",
+        "I-D, II-C, III-A, IV-B",
+        "I-B, II-A, III-D, IV-C"
+      ],
+      "answer": 0,
+      "explanation": "Article 148 provides for the CAG, appointed by the President and removable on the same grounds as a Supreme Court judge. Article 217 covers appointment of High Court judges. Article 280 provides for the Finance Commission. Article 311 protects civil servants from dismissal by a subordinate authority.",
+      "source": "https://www.constitutionofindia.net/articles/article-148-comptroller-and-auditor-general-of-india ; https://cag.gov.in/page-constitutional-provisions ; https://www.constitutionofindia.net/articles/article-217-appointment-and-conditions-of-the-office-of-a- ; https://vajiramandravi.com/current-affairs/article-217-of-the-indian-constitution/ ; https://www.drishtijudiciary.com/to-the-point/ttp-constitution-of-india/article-280-of-the-coi ; https://blog.ipleaders.in/article-280-of-the-indian-constitution/ ; https://blog.ipleaders.in/article-311-of-the-indian-constitution/ ; https://vajiramandravi.com/current-affairs/?p=25565"
+    },
+    {
+      "type": "direct",
+      "q": "Under which Article can the Supreme Court grant special leave to appeal from a judgment, decree or order of any court or tribunal in India?",
+      "options": [
+        "Article 134",
+        "Article 136",
+        "Article 141",
+        "Article 145"
+      ],
+      "answer": 1,
+      "explanation": "Article 136 gives the Supreme Court discretion to grant special leave to appeal, except from armed forces tribunals. Article 134 deals with appeals in certain criminal cases.",
+      "source": "https://bhattandjoshiassociates.com/special-leave-petition-to-the-supreme-court-after-a-gujarat-high-court-order/ ; https://ssrana.in/litigation/special-leave-petition-india/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "High Courts can issue writs only for the enforcement of Fundamental Rights.",
+      "reason": "Article 226 empowers every High Court to issue writs, including habeas corpus, mandamus and certiorari, for enforcement of Fundamental Rights and for any other purpose.",
+      "answer": 3,
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "The assertion is false because Article 226 extends High Court writ jurisdiction to any other purpose, beyond Fundamental Rights. The reason is true.",
+      "source": "https://anantamias.com/article-226-indian-constitution/?pdf=1 ; https://bhattandjoshiassociates.com/understanding-writ-jurisdiction-under-article-226-a-comprehensive-guide-to-constitutional-remedies-before-the-gujarat-high-court/"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. Article 21A makes free and compulsory education a Fundamental Right for children aged six to eighteen.",
+        "II. The Attorney General for India is appointed by the Chief Justice of India under Article 76."
+      ],
+      "truth": [
+        false,
+        false
+      ],
+      "answer": 3,
+      "explanation": "Neither is correct. Article 21A covers children aged six to fourteen, and Article 76 provides that the President appoints the Attorney General for India.",
+      "source": "https://blog.ipleaders.in/article-21a-of-indian-constitution/ ; https://vidhijudicial.com/article-21a-of-the-constitution-of-india.html ; https://www.constitutionofindia.net/articles/article-76-attorney-general-for-india/ ; https://vajiramandravi.com/current-affairs/article-76-of-indian-constitution/"
+    },
+    {
+      "type": "statement_count",
+      "mode": "correct",
+      "statements": [
+        "1. A Supreme Court judge holds office until attaining the age of 65 years.",
+        "2. A Supreme Court judge can be removed only on grounds of proved misbehaviour or incapacity.",
+        "3. A former Supreme Court judge is barred from pleading or acting in any court within India.",
+        "4. Parliament may by law increase the number of Supreme Court judges beyond the number originally fixed."
+      ],
+      "truth": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "answer": 3,
+      "explanation": "All four statements are correct. Article 124(2) sets retirement at 65, Article 124(4) sets removal on proved misbehaviour or incapacity by a special majority, Article 124(7) bars post-retirement practice, and Article 124(1) lets Parliament fix the number of other judges by law.",
+      "source": "https://drishtiias.com/pdf/1719770781.pdf ; https://www.pw.live/judiciary/exams/how-supreme-court-judges-are-appointed-in-india ; https://www.understandupsc.com/article-1241/ ; https://laex.in/prelims-fact-sheet/supreme-court-composition-strength/"
+    }
+  ],
+  "writer_flags": [
+    "Topic is outside the assigned window: no well-covered SC/HC cluster found for 22 Jan-11 Feb 2026 within budget; widened to the NCERT judiciary-chapter suo motu case (25-26 Feb 2026).",
+    "Passage omits the bench composition beyond CJI Surya Kant and the 11 March hearing and NCERT's apology details, since these rest on one summary each.",
+    "Q7 statement 3 (Art 124(7) post-retirement bar): wording taken from secondary sources; constitutional text not fetched.",
+    "Q8 Art 19(2) grounds: confirmed by secondary sources and a Verdictum PDF only; official text not fetched.",
+    "Q7 statement 4 (Art 124(1)): general power only; no numbers used because 2026 strength-amendment reports conflict.",
+    "Q3 option B: Art 280 sources say 'once in every five years or earlier if necessary'; match wording follows that."
+  ],
+  "status": "complete",
+  "residual": [
+    "Q5 (Art 226 'any other purpose') rests on exam-prep/legal-blog pages and a secondhand Common Cause quote; official text not reached.",
+    "Q7 statements 3 and 4 (Art 124(7), 124(1)): Lok Sabha answer plus Common Cause/LiveLaw and journalsofindia/Drishti; constitutional text itself not fetched (WebFetch unavailable).",
+    "Q3 match: Art 148, 217, 280, 311 confirmed via mostly exam-prep and legal-blog pages; official text not fetched.",
+    "Passage line on Centre/states told to comply at once with warning of serious action: seen only in search summaries of Careers360, Onmanorama/TNM-type reports, not read in full.",
+    "Passage ~170 words after adding two confirmed details (book title, show-cause purpose); still under the usual length but confirmed facts only. Fetching failed on all hosts, so checks used search snippets.",
+    "Case later closed on 1 Sept 2026 after the chapter was replaced; passage reports only Feb 2026 events."
+  ],
+  "writer_flags_checked": "All six writer_flags checked; Art 124(7), Art 19(2) (Q8 dropped), 124(1), Art 280 wording confirmed by two publishers; omitted bench/apology/March hearing items stay omitted."
+}
