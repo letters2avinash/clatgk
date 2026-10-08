@@ -1,0 +1,57 @@
+{
+  "status": "partial",
+  "missing": "Search budget was exhausted before the remaining 4 questions (match, statement_two, statement_count, statement_multi) could be sourced, and the passage is short of 450 words. Resume with a fresh search budget.",
+  "title": "Former Army chief dies; new minority panel chair and CBDT chief named",
+  "topic_tags": ["appointments", "obituaries", "National Commission for Minorities", "CBDT", "Army", "July 2026"],
+  "slot": "T03P5",
+  "text": "Gen Vishwa Nath Sharma (retd), a former Chief of the Army Staff, died in New Delhi on Friday, 31 July 2026. He was the younger brother of Major Somnath Sharma, the first recipient of the Param Vir Chakra. Defence Minister Rajnath Singh said the general carried forward his family's legacy and described him as a military leader who served the nation with unwavering dedication, courage and honour. He led the Army from 1988 until 1990. He was cremated with full military honours at Brar Square Crematorium in New Delhi on Saturday, 1 August 2026.\n\nThe Centre nominated Harjit Singh Grewal as Chairperson of the National Commission for Minorities, according to a Ministry of Minority Affairs notification dated 16 July 2026. S. Munawari Begum was named Vice-Chairperson, and Glenn E. Souza Ticlo was named Member. The three will serve for three years from the date they assume office, or until further orders, whichever is earlier.\n\nOn 30 June 2026, the Appointments Committee of the Cabinet approved the reappointment of Ravi Agrawal as Chairman of the Central Board of Direct Taxes (CBDT) on a contract basis. The extension is for six months, effective 1 July 2026, as Agrawal was due to retire on 30 June. A senior finance ministry official said the move was aimed at ensuring continuity in direct tax policy formulation and enabling certain special initiatives.",
+  "word_count_note": "Approximately 245 words; below the 450-word minimum.",
+  "sources": [
+    "https://www.deccanherald.com/india/former-army-chief-gen-vishwa-nath-sharma-passes-away-at-96-4094515",
+    "https://telanganatoday.com/former-army-chief-gen-vishwa-nath-sharma-dies-at-96",
+    "https://theprint.in/india/former-army-chief-gen-vishwa-nath-sharma-passes-away-at-96/3002369/",
+    "https://www.gktoday.in/former-army-chief-general-v-n-sharma-passes-away/",
+    "https://newsonair.gov.in/defence-minister-rajnath-singh-expresses-grief-over-demise-of-former-coas-general-vishwa-nath-sharma/",
+    "https://www.scconline.com/blog/post/2026/07/18/new-members-nominated-for-national-commission-for-minorities/",
+    "https://indialegallive.com/constitutional-law-news/courts-news/centre-appoints-harjit-singh-grewal-as-chairperson-of-national-commission-for-minorities/",
+    "https://test.uniindia.com/national-commission-for-minorities-gets-harjit-grewal-as-new-chief/north/news/3912835.html",
+    "https://www.deccanchronicle.com/amp/nation/current-affairs/cbdt-chief-ravi-agrawals-tenure-extended-by-six-months-again-1967365",
+    "https://www.outlookbusiness.com/news/centre-extends-cbdt-chairman-ravi-agrawals-tenure-by-6-months",
+    "https://www.deccanherald.com/india/centre-extends-cbdt-chairman-ravi-agrawals-tenure-by-6-months-4057153"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Which Act of Parliament, enacted in 1992, made the National Commission for Minorities a statutory body?",
+      "options": ["Protection of Human Rights Act, 1993", "National Commission for Minorities Act, 1992", "National Commission for Women Act, 1990", "Right to Information Act, 2005"],
+      "answer": 1,
+      "explanation": "The National Commission for Minorities Act, 1992 converted the earlier Minorities Commission into a statutory body. The Protection of Human Rights Act, 1993 created the NHRC, and the others govern different commissions.",
+      "source": "https://en.wikipedia.org/wiki/National_Commission_for_Minorities ; https://www.iasgyan.in/daily-current-affairs/national-commission-for-minorities-functions-challenges-way-forward"
+    },
+    {
+      "type": "direct",
+      "q": "How many religious communities have been notified as minorities at the Centre's level in India?",
+      "options": ["Four", "Five", "Six", "Seven"],
+      "answer": 2,
+      "explanation": "Six communities are notified as minorities: Muslims, Christians, Sikhs, Buddhists, Zoroastrians (Parsis) and Jains. Jains were notified in 2014, after the original five.",
+      "source": "https://en.wikipedia.org/wiki/National_Commission_for_Minorities ; https://vajiramandravi.com/current-affairs/minority-communities-in-india/"
+    },
+    {
+      "type": "direct",
+      "q": "Under which Article of the Constitution of India is the supreme command of the Union's armed forces vested in the President?",
+      "options": ["Article 52", "Article 53", "Article 74", "Article 77"],
+      "answer": 1,
+      "explanation": "Article 53(2) vests the supreme command of the Defence Forces of the Union in the President, with its exercise regulated by law. Article 74 concerns the Council of Ministers' aid and advice.",
+      "source": "https://www.constitutionofindia.net/articles/article-53-executive-power-of-the-union/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Central Board of Direct Taxes functions under the Department of Revenue in the Ministry of Finance.",
+      "reason": "The CBDT was constituted under Article 30 of the Constitution of India.",
+      "answer": 2,
+      "truth": [true, false],
+      "explanation": "The assertion is true: CBDT sits under the Department of Revenue, Ministry of Finance. The reason is false: the CBDT was created by the Central Boards of Revenue Act, 1963. Article 30 concerns minorities' right to establish educational institutions.",
+      "source": "https://en.wikipedia.org/wiki/Central_Board_of_Direct_Taxes ; https://www.incometaxindia.gov.in/en/cbdt ; https://en.wikipedia.org/wiki/Article_30_of_the_Constitution_of_India"
+    }
+  ]
+}
