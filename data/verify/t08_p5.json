@@ -1,0 +1,224 @@
+{
+  "passage_file": "data/draft/t08_p5.json",
+  "passage_claims": [
+    {
+      "claim": "G7 met at Evian-les-Bains, France, mid-June 2026 (15-17 June), Macron host",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.tribuneindia.com/news/vulnerabilities/g7-unveils-declaration-to-strengthen-resilience-of-critical-minerals-supply-chains",
+        "https://www.euronews.com/my-europe/2026/06/17/six-takeaways-from-the-g7-summit-in-evian"
+      ],
+      "note": "Writer flag 14-16 vs 15-17: searches (Elysee, G7 Research Group, news) give 15-17 June; passage says mid-June so safe."
+    },
+    {
+      "claim": "Leaders discussed Russia's war in Ukraine, Middle East, global economic imbalances",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.dtnext.in/news/world/g7-leaders-open-summit-talks-on-ukraine-and-the-middle-east-as-zelenskyy-joins-in-france",
+        "https://www.eunews.it/en/2026/06/12/macroeconomic-imbalances-ukraine-and-the-middle-east-the-key-issues-at-the-g7-summit-in-evian/"
+      ],
+      "note": "'Near and Middle East' and 'economic security' wording not confirmed; reworded/deleted."
+    },
+    {
+      "claim": "Declaration issued 17 June on securing supply chains for critical minerals",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.elysee.fr/en/G7evian/2026/06/17/g7-leaders-declaration-on-securing-supply-chains-for-critical-minerals",
+        "https://www.mofa.go.jp/mofaj/files/101046856.pdf"
+      ],
+      "note": "Title: 'Declaration on Securing Supply Chains for Critical Minerals' (official); passage paraphrases, flag resolved."
+    },
+    {
+      "claim": "Concern about market concentration, arbitrary trade restrictions, non-market policies, economic coercion",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.elysee.fr/en/G7evian/2026/06/17/g7-leaders-declaration-on-securing-supply-chains-for-critical-minerals",
+        "https://www.tribuneindia.com/news/vulnerabilities/g7-unveils-declaration-to-strengthen-resilience-of-critical-minerals-supply-chains"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Pledge to work with partners to reduce critical dependencies; ensure weaponisation of dependencies fails",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.elysee.fr/en/G7evian/2026/06/17/g7-leaders-declaration-on-securing-supply-chains-for-critical-minerals",
+        "https://www.mining-technology.com/news/g7-rare-earth-targets-could-spur-investment-in-non-chinese-supply-chains/"
+      ],
+      "note": "Reworded to match declaration."
+    },
+    {
+      "claim": "Declaration launched G7 Critical Minerals Resilience and Production Alliance, nonbinding, supported by G7 platform for Critical Minerals Cooperation",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.elysee.fr/en/G7evian/2026/06/17/g7-leaders-declaration-on-securing-supply-chains-for-critical-minerals",
+        "https://g7.utoronto.ca/summit/2026evian/critical-minerals-annex.html"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Commitment to harmonised traceability mechanisms",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.elysee.fr/en/G7evian/2026/06/17/g7-leaders-declaration-on-securing-supply-chains-for-critical-minerals",
+        "https://www.mining-technology.com/news/g7-rare-earth-targets-could-spur-investment-in-non-chinese-supply-chains/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Original: platform meant to diversify, coordinate financing, improve traceability; coverage called it response to few suppliers' dominance",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [],
+      "note": "Chinapulse/asianet paraphrase; replaced with confirmed wording."
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "2014",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.aljazeera.com/news/2014/3/24/g7-nations-suspend-russia-and-scrap-g8-summit",
+        "https://www.nbcnews.com/news/amp/ncna42701"
+      ],
+      "fix": null,
+      "note": "Distractors wrong."
+    },
+    {
+      "index": 2,
+      "verdict": "DROP",
+      "my_answer": "2023",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "AMBIGUOUS"
+      ],
+      "sources": [
+        "https://www.mercomindia.com/india-unveils-critical-clean-energy-and-cut-imports",
+        "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2023/6/india-adopts-critical-mineral-list-as-newest-mineral-security-partnership-member-76332697"
+      ],
+      "fix": null,
+      "note": "Answer 2023 confirmed, but 'first list' is arguable (earlier non-ministry lists) and overlaps Q5; dropped to reach 6."
+    },
+    {
+      "index": 3,
+      "verdict": "FIX",
+      "my_answer": "DRC",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://www.cobaltinstitute.org/wp-content/uploads/2026/07/Biannual-Cobalt-Market-report-H1-2026.pdf",
+        "https://www.mining-technology.com/analyst-comment/drc-indonesia-anchor-global-cobalt-supply/"
+      ],
+      "fix": "explanation and source rewritten",
+      "note": "USGS table not retrieved; figure claimed as USGS replaced with 72-75% estimates."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-B, II-D, III-C, IV-A",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://g7.utoronto.ca/summit/2025kananaskis/index.html",
+        "https://www.bundesregierung.de/breg-en/service/g7-at-schloss-elmau-1991596",
+        "https://arabnews.com/node/2112576"
+      ],
+      "fix": null,
+      "note": "Kananaskis flag resolved by G7 Research Group and Canada site."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "A true, R false (2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.narendramodi.in/cabinet-approves-national-critical-mineral-mission",
+        "https://www.energetica-india.net/news/union-cabinet-approves-launch-of-inr-16300-crore-national-critical-mineral-mission"
+      ],
+      "fix": null,
+      "note": "Approved 29 Jan 2025."
+    },
+    {
+      "index": 6,
+      "verdict": "DROP",
+      "my_answer": "I only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false
+      ],
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://www.etvbharat.com/amp/en/!international/explained-what-is-g7-the-global-power-club-enn25060610496"
+      ],
+      "fix": null,
+      "note": "Correct but trivially easy, overlaps Q7 on G7 nature, sources exam-prep; dropped."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "Three (1,2,3 correct)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.sencanada.ca/media/365559/senboehm_article_2019-06-28_e.pdf",
+        "https://g7g20-documents.org/about-the-database/about-g7",
+        "https://g7.utoronto.ca/scholar/guttry1994/guttry.htm"
+      ],
+      "fix": null,
+      "note": "Flag resolved: no charter (Senate paper), no secretariat (G7 database, Guttry), consensus (Guttry). Non-binding confirmed."
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "I and III only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.klgates.com/thought-leadership/USGS-Discovers-23-Million-Ton-Appalachian-Lithium-Deposit-7-22-2026",
+        "https://measuredworld.com/categories/resources/lithium-production",
+        "https://www.meganoticias.cl/nacional/515760-china-desplaza-a-chile-al-tercer-lugar-en-produccion-mundial-de-litio-usgs-27-2-2026.html"
+      ],
+      "fix": null,
+      "note": "Australia 92k, China 62k, Chile 56k; farmonaut dropped as source."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "the conflict in the Near and Middle East, global economic imbalances and economic security",
+      "new": "the situation in the Middle East and global economic imbalances",
+      "reason": "unconfirmed wording"
+    },
+    {
+      "old": "The alliance is backed by ... mineral markets.",
+      "new": "nonbinding framework, G7 platform, traceability sentence",
+      "reason": "single-source paraphrase replaced"
+    }
+  ],
+  "summary": "Passage claims reworded to what Elysee/MOFA text and news confirm. Kept 6 of 8; dropped Q2 (ambiguous 'first') and Q6 (trivial, weak sources). All writer flags checked; USGS tables not directly retrieved."
+}
