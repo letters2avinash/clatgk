@@ -1,0 +1,96 @@
+{
+  "title": "2026 Pulitzer Prizes announced",
+  "topic_tags": ["Awards", "Pulitzer Prize", "Literature", "Drama", "Journalism"],
+  "slot": "T09P4",
+  "status": "complete",
+  "text": "The Pulitzer Prize Board announced the 2026 Pulitzer Prizes on 4 May 2026. In journalism, the Minnesota Star Tribune staff won Breaking News Reporting, and Mark Lamster of The Dallas Morning News won Criticism. Aaron Parsley of Texas Monthly won Feature Writing. The Washington Post won Public Service, with The Wall Street Journal and the Chicago Tribune as finalists. The New York Times staff won Investigative Reporting, with ProPublica's Debbie Cenziper, Megan Rose and Brandon Roberts as finalists. Reuters staff won National Reporting.\n\nIn the arts, Bess Wohl won the Drama prize for Liberation, a play that examines the legacy of the consciousness-raising feminist groups of the 1970s. Daniel Kraus won the Fiction prize for Angel Down, a World War I novel told in a single sentence. The judges called it a stylistic tour-de-force that blends allegory, magical realism and science fiction into a cohesive whole. Jill Lepore won the History prize for We the People: A History of the U.S. Constitution.\n\nDrama and fiction winners each receive a $15,000 award.",
+  "sources": [
+    "https://www.npr.org/2026/05/04/nx-s1-5803483/pulitzer-prize-winners-2026",
+    "https://www.pulitzer.org/news/2026-pulitzer-prize-announcement",
+    "https://www.washingtonpost.com/pr/2026/05/04/read-washington-posts-2026-pulitzer-prize-winners/",
+    "https://www.propublica.org/about/pulitzer-prize-winners-and-finalists",
+    "https://www.keranews.org/arts-culture/2026-05-04/dallas-morning-news-and-texas-monthly-journalists-win-pulitzer-prizes",
+    "https://www.texasmonthly.com/press-room/senior-editor-aaron-parsley-wins-2026-pulitzer-prize-for-feature-writing/",
+    "https://www.broadwaynews.com/liberation-wins-2026-pulitzer-prize-for-drama/",
+    "https://www.broadway.com/buzz/207086/bess-wohls-liberation-wins-the-2026-pulitzer-prize-for-drama/",
+    "https://ischool.illinois.edu/news-events/news/2026/05/kraus-wins-2026-pulitzer-prize-award-fiction",
+    "https://www.bostonglobe.com/2026/05/18/arts/jill-lepore-pulitzer/"
+  ],
+  "writer_flags": [
+    "Passage is about 185 words; only facts with two publishers are included, so it falls short of the 220-word floor",
+    "Judges' quote 'stylistic tour-de-force' rests on mande.net plus the iSchool page; second source is thin",
+    "Fiction and Drama $15,000 award: iSchool (fiction) and Playbill (drama) only",
+    "Q1 Columbia administers the Pulitzers: idealist and academia-lab only; pulitzer.org not confirmed for this",
+    "Q2 Joseph Pulitzer died 1911: idealist, hungaricana and anniversaire-celebrite; one archival source",
+    "Q3 lawsuit against Pulitzer board filed 2022: NPR plus cswnewstest.duckdns.org (unclear publisher)",
+    "Q4 Sahitya Akademi / Booker / Goncourt country pairings: encyclopedic and aggregator sources",
+    "Q6 Prix Goncourt awarded since 1903: fnac and vikidia; founding dates disputed in sources",
+    "Q6 Sahitya Akademi inaugurated 1954: cheggindia and visionias; sources differ on institution year",
+    "Q7 Sahitya Akademi first given 1955: single aggregator source",
+    "Q7 Booker Prize founded 1969 by Booker McConnell: fantasticfiction and one other",
+    "Q7 Prix Goncourt first awarded 1913 is the false statement; relies on 1903 date above",
+    "Q8 Booker eligibility (English-language novels): sources partly dated; pre-2014 rules differ"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Which US university administers the Pulitzer Prizes?",
+      "options": ["Harvard University", "Columbia University", "Yale University", "Princeton University"],
+      "answer": 1,
+      "explanation": "The Pulitzer Prizes are administered by Columbia University, which Joseph Pulitzer's will and bequest made the seat of the prizes and of its School of Journalism.",
+      "source": "https://www.britannica.com/topic/Pulitzer-Prize ; https://magazine.columbia.edu/article/first-pulitzer-prize"
+    },
+    {
+      "type": "direct",
+      "q": "In which year did the publisher Joseph Pulitzer, whose estate endowed the Pulitzer Prizes, die?",
+      "options": ["1898", "1911", "1917", "1923"],
+      "answer": 1,
+      "explanation": "Joseph Pulitzer died on 29 October 1911 aboard his yacht in Charleston harbor; the first Pulitzer Prizes followed in 1917.",
+      "source": "https://www.britannica.com/biography/Joseph-Pulitzer ; https://historicnewspapers.sc.edu/lccn/sn86063774/1911-11-02/ed-1/seq-6/"
+    },
+    {
+      "type": "direct",
+      "q": "In which year did a former US president file a defamation lawsuit in a Florida court against members of the Pulitzer Prize board over its refusal to rescind the 2018 prizes for Russia-related reporting?",
+      "options": ["2018", "2020", "2022", "2024"],
+      "answer": 2,
+      "explanation": "Donald Trump filed the suit in Florida in December 2022 against Pulitzer board members, over the board's refusal to rescind the 2018 prizes given to The New York Times and The Washington Post for their reporting on Russian interference in the 2016 election.",
+      "source": "https://freebeacon.com/media/florida-judge-rejects-pulitzer-prize-boards-attempt-to-delay-trump-russiagate-lawsuit/ ; https://editorandpublisher.com/stories/judge-rejects-bid-to-dismiss-trump-libel-suit-against-pulitzer-board,251026 ; https://news.bloomberglaw.com/litigation/trump-heads-to-discovery-phase-in-pulitzer-defamation-suit"
+    },
+    {
+      "type": "match",
+      "list1": ["I. Pulitzer Prize", "II. Booker Prize", "III. Prix Goncourt", "IV. Sahitya Akademi Award"],
+      "list2": ["A. India", "B. France", "C. United Kingdom", "D. United States"],
+      "options": ["I-A, II-B, III-C, IV-D", "I-D, II-C, III-B, IV-A", "I-B, II-D, III-A, IV-C", "I-C, II-A, III-D, IV-B"],
+      "answer": 1,
+      "explanation": "The Pulitzer Prize is American (I-D), the Booker Prize is British (II-C), the Prix Goncourt is French (III-B) and the Sahitya Akademi Award is Indian (IV-A).",
+      "source": "https://thebookerprizes.com/the-booker-library/prize-years/1969 ; https://www.herodote.net/21_decembre_1903-evenement-19031221.php ; https://sahitya-akademi.gov.in/aboutus/about.jsp ; https://www.britannica.com/topic/Pulitzer-Prize"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Daniel Kraus won the 2026 Pulitzer Prize for Fiction for the novel Angel Down.",
+      "reason": "The Pulitzer Prize for Fiction is open only to authors who are not citizens of the United States.",
+      "answer": 2,
+      "truth": [true, false],
+      "explanation": "The assertion is true, but the reason is false: the Fiction prize is awarded for distinguished fiction by an American author, and eligibility covers US citizens, permanent residents and those with the US as longtime primary home, so it is not restricted to non-citizens.",
+      "source": "https://ischool.illinois.edu/news-events/news/2026/05/kraus-wins-2026-pulitzer-prize-award-fiction ; https://www.pulitzer.org/node/books-submission-faq-guidelines-and-requirements ; https://www.pulitzer.org/news/pulitzer-prize-board-amending-citizenship-requirement-books-drama-and-music"
+    },
+    {
+      "type": "statement_two",
+      "statements": ["I. Joseph Pulitzer was born in the United States.", "II. The Sahitya Akademi was inaugurated in 1954."],
+      "answer": 1,
+      "truth": [false, true],
+      "explanation": "Statement I is false because Joseph Pulitzer was born in Makó, Hungary. Statement II is true: the Sahitya Akademi was formally inaugurated on 12 March 1954, so only II is correct.",
+      "source": "https://www.britannica.com/biography/Joseph-Pulitzer ; https://library.hungaricana.hu/en/view/MEGY_CSON_MMF_112/?pg=43 ; https://scroll.in/article/764479/seven-things-you-may-not-have-known-about-the-sahitya-akademi ; https://sahitya-akademi.gov.in/aboutus/about.jsp"
+    }
+  ],
+  "residual": [
+    "Judges' 'stylistic tour-de-force' wording: iSchool page plus search-tool summary of pulitzer.org citation; pulitzer.org page could not be fetched directly.",
+    "$15,000 award for Drama and Fiction: pulitzer.org (2017 raise, Fiction category text) and iSchool/Broadway sources; no 2026-specific board statement seen.",
+    "Q6 Sahitya Akademi inaugurated 12 March 1954: Scroll plus official site seen only as search snippet (fetch failed); Wikipedia and exam sites agree.",
+    "Q3: 2022 filing year rests on Free Beacon, Editor & Publisher, Bloomberg Law and Fox; December month from one source; defendants were board members.",
+    "Q4 country pairings are trivial static facts; Sahitya Akademi in India rests on the Akademi's own page and encyclopedic sources.",
+    "Q5 reason's falsity: pulitzer.org rules page seen via search summary only; iSchool and Chicago Humanities snippets say 'American author'.",
+    "Passage is short (about 171 words) because only confirmed facts were kept."
+  ],
+  "questions_dropped_note": "Original Q7 (statement_count) and Q8 (statement_multi) dropped."
+}

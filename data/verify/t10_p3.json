@@ -1,0 +1,226 @@
+{
+ "passage_file": "data/draft/t10_p3.json",
+ "passage_claims": [
+  {
+   "claim": "Cabinet chaired by CM Vishnu Deo Sai decided in April 2026 to set up high-level committee for draft UCC",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://newsonair.gov.in/chhattisgarh-cabinet-approves-constitution-of-high-level-committee-to-prepare-draft-of-uniform-civil-code/",
+    "https://www.etvbharat.com/en/bharat/chhattisgarh-govt-forms-committee-for-implementation-of-ucc-in-state-enn26041505889"
+   ],
+   "note": "Exact day 15 vs 16 Apr differs (ETV 15 Apr, AIR 16 Apr bulletin); passage says only April, so safe."
+  },
+  {
+   "claim": "Retired judge Ranjana Prakash Desai named to lead panel",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.pgurus.com/chhattisgarh-moves-towards-uniform-civil-code-forms-high-level-panel-to-draft-legislation/",
+    "https://theprint.in/india/chhattisgarh-sets-up-5-member-panel-to-prepare-ucc-draft-justice-desai-to-head-it-too/2970081/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "CM authorised to nominate other members",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [],
+   "note": "Appeared only in one search summary; not reproduced in a second search. Deleted."
+  },
+  {
+   "claim": "GAD order 25 June 2026 constituting five-member panel",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://theprint.in/india/chhattisgarh-sets-up-5-member-panel-to-prepare-ucc-draft-justice-desai-to-head-it-too/2970081/",
+    "https://www.thehitavada.com/Encyc/2026/6/27/state-forms-high-powered-panel-to-draft-uniform-civil-code.html"
+   ],
+   "note": "Primary order not opened; press reports consistent. ETV mentions 26 June cabinet/notification, minor inconsistency."
+  },
+  {
+   "claim": "Members: Shatrughan Singh, M.K. Raut, Mohan Pawar, Jyoti Rani Singh",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.etvbharat.com/en/bharat/chhattisgarh-panel-to-hold-first-meeting-to-draft-uniform-civil-code-enn26072403681",
+    "https://www.deccanherald.com/india/chhattisgarh/chhattisgarh-sets-up-5-member-panel-to-prepare-ucc-draft-justice-desai-to-head-it-4052839"
+   ],
+   "note": "Spelling variants exist; one outlet misnamed chair."
+  },
+  {
+   "claim": "Mandate: feasibility, personal laws review, legislative framework, public consultation",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.thehitavada.com/Encyc/2026/6/27/state-forms-high-powered-panel-to-draft-uniform-civil-code.html",
+    "https://www.siasat.com/chhattisgarh-govt-to-table-ucc-bill-in-winter-session-cm-sai-3512637/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "First meeting scheduled 24 July 2026",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.etvbharat.com/en/bharat/chhattisgarh-panel-to-hold-first-meeting-to-draft-uniform-civil-code-enn26072403681",
+    "https://www.siasat.com/chhattisgarh-govt-to-table-ucc-bill-in-winter-session-cm-sai-3512637/"
+   ],
+   "note": "Siasat/DH dated CM statement 24 Jul; first meeting that day per ETV. Only ETV explicit on the meeting date; treated as thinly double-sourced."
+  },
+  {
+   "claim": "CM says govt will try to table Bill in winter session in December",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.deccanherald.com/india/chhattisgarh/chhattisgarh-govt-to-table-uniform-civil-code-bill-in-winter-session-of-state-assembly-cm-sai-4085709",
+    "https://www.siasat.com/chhattisgarh-govt-to-table-ucc-bill-in-winter-session-cm-sai-3512637/"
+   ],
+   "note": "Original 'once the committee submits' clause unconfirmed; removed."
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "Article 44",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.lawzone.in/2025/02/article-44-of-indian-constitution.html",
+    "https://www.law4u.in/top-answer/4230/what-is-constitution-of-india-article-44"
+   ],
+   "fix": null,
+   "note": "Text confirmed by several legal sites; distractors wrong."
+  },
+  {
+   "index": 2,
+   "verdict": "OK",
+   "my_answer": "Article 25",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://forumias.com/blog/article-25-of-indian-constitution/",
+    "https://advocategandhi.com/faith-and-freedom-understanding-article-25-of-the-indian-constitution/"
+   ],
+   "fix": null,
+   "note": "Art 25(1) qualified by public order, morality, health; distractors wrong."
+  },
+  {
+   "index": 3,
+   "verdict": "OK",
+   "my_answer": "Madhya Pradesh",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.bankbazaar.com/indian-holidays/chhattisgarh-formation-day.html",
+    "https://egov.eletsonline.com/tag/niharika-barik-singh/"
+   ],
+   "fix": null,
+   "note": "1 Nov 2000, 26th state (Elets, GKToday Hindi), from MP. Not stated in passage."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "I-C, II-A, III-B, IV-D",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.writinglaw.com/article-48a-constitution-of-india/",
+    "https://www.lawzone.in/2025/02/article-40-of-indian-constitution.html",
+    "https://www.constitutionofindia.net/parts/part-iva"
+   ],
+   "fix": null,
+   "note": "39A, 40, 48A, 51A each confirmed by 2+ sites (exam-prep/explainer level)."
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "A true, R false (2)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-37-application-of-the-principles-contained-in-this-part/",
+    "https://ruralindiaonline.org/en/library/resource/directive-principles-of-state-policy/"
+   ],
+   "fix": null,
+   "note": "Art 37: not enforceable by any court."
+  },
+  {
+   "index": 6,
+   "verdict": "DROP",
+   "my_answer": "I and II",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true
+   ],
+   "issues": [
+    "WEAK_SOURCE"
+   ],
+   "sources": [
+    "https://studyhub.net.in/inshorts/article-50-of-indian-constitution-upsc-2026/",
+    "https://vajiramandravi.com/current-affairs/article-48-of-indian-constitution/"
+   ],
+   "fix": null,
+   "note": "Facts true but exam-prep only, and overlaps DPSP theme of Q4/Q5; dropped to keep 6 distinct facts."
+  },
+  {
+   "index": 7,
+   "verdict": "OK",
+   "my_answer": "I only",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://lotusarise.com/premium/legal-remedies-in-part-iii/",
+    "https://www.studyiq.com/articles/right-to-constitutional-remedies/"
+   ],
+   "fix": null,
+   "note": "Art 32 in Part III (Arts 12-35); official page not retrieved."
+  },
+  {
+   "index": 8,
+   "verdict": "DROP",
+   "my_answer": "Only three",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    true,
+    false
+   ],
+   "issues": [
+    "UNSUPPORTED"
+   ],
+   "sources": [
+    "https://www.education.gov.in/en/fundamental_rights_article-21A",
+    "https://www.law4u.in/top-answer/3769/what-is-constitution-of-india-article-17"
+   ],
+   "fix": null,
+   "note": "Statements 1-3 confirmed; statement 4 (Art 17 not only SC) not explicitly confirmed by two publishers."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "Retired judge Ranjana Prakash Desai was named to lead the panel, and the Chief Minister was authorised to nominate its other members.",
+   "new": "Retired judge Ranjana Prakash Desai was named to lead the panel.",
+   "reason": "CM nomination power not found in a second search; only one summary mentioned it"
+  },
+  {
+   "old": "Chief Minister Sai has said the government intends to introduce the Bill in the Assembly's winter session, expected in December, once the committee submits its recommendations.",
+   "new": "Chief Minister Sai has said the government will make every effort to table the Bill in the Assembly's winter session in December.",
+   "reason": "'once the committee submits' condition not confirmed; reworded to what DH/Siasat/ETV report"
+  }
+ ],
+ "writer_flags_checked": [
+  "Cabinet date: ETV 15 Apr vs AIR 16 Apr bulletin; passage says only April - OK",
+  "First meeting 24 Jul: ETV explicit; kept, listed as thin",
+  "Arts 44/37/40/48A/48/50/32: all explainer/exam-prep level; Art 37 and Part IVA via constitutionofindia.net pages",
+  "Winter-session claim reworded"
+ ],
+ "summary": "6 of 8 questions kept; Q6 and Q8 dropped. Two passage clauses removed or reworded."
+}
