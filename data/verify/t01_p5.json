@@ -1,0 +1,265 @@
+{
+ "passage_file": "data/passages/pilot_5.json",
+ "passage_claims": [
+  {
+   "claim": "PSLV-C62 failed 12 Jan 2026 with EOS-N1 (Anvesha) after PS3 anomaly; first two stages normal",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.businesstoday.in/amp/science/story/isros-pslv-c62-mission-fails-second-rare-setback-in-eight-months-for-workhorse-launcher-510482-2026-01-12",
+    "https://spaceflightnow.com/2026/01/12/indias-pslv-suffers-second-consecutive-launch-failure-16-satellites-lost/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Narayanan: roll-rate disturbance near end of third stage then flight-path deviation",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.newsonair.gov.in/pslv-c62-anomaly-isro-investigates-roll-disturbance-during-third-stage-of-eos-n1-mission-says-chairman-dr-v-narayanan/",
+    "https://spaceflightnow.com/2026/01/12/indias-pslv-suffers-second-consecutive-launch-failure-16-satellites-lost/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "EOS-N1 + 15 co-passengers (16 total)",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.isro.gov.in/media_isro/pdf/PSLVC62/PSLV_C62_Brochure080126.pdf",
+    "https://www.businesstoday.in/amp/science/story/isros-pslv-c62-mission-fails-second-rare-setback-in-eight-months-for-workhorse-launcher-510482-2026-01-12"
+   ],
+   "note": "Sakshi Post '14 satellites' counts KID separately/erroneous success report"
+  },
+  {
+   "claim": "Theos-2 (UK/Thailand) and AyulSat lost; Kestrel Initial Demonstrator transmitted some data",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.theregister.com/2026/01/14/isro_pslv_mission_fail/",
+    "https://starlust.org/isr-os-pslv-launch-fails-after-third-stage-anomaly-16-payloads-lost"
+   ],
+   "note": "Moderately thin on KID data point; kept with 'was reported'"
+  },
+  {
+   "claim": "Second consecutive PSLV failure; C61 May 2025 third-stage problem",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://spaceflightnow.com/2026/01/12/indias-pslv-suffers-second-consecutive-launch-failure-16-satellites-lost/",
+    "https://www.nasaspaceflight.com/2026/01/indias-pslv-solve-third-stage-second-failure/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Probe committee: K. VijayRaghavan chair, S. Somanath co-chair, citing sources",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.thestatesman.com/india/former-principal-scientific-advisor-to-pm-and-ex-isro-chairman-to-probe-pslv-rocket-failure-1503559294.html",
+    "https://www.uniindia.com/former-principal-scientific-advisor-to-pm-and-ex-isro-chairman-to-probe-pslv-rocket-failure/south/news/3746014.html"
+   ],
+   "note": "Some outlets say vice-chairman; passage keeps 'news reports citing sources'. Possibly same wire origin."
+  },
+  {
+   "claim": "ISRO announced a failure analysis committee",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.theweek.in/news/sci-tech/2026/01/13/explainer-failure-of-pslv-c62-mission.html",
+    "https://en.wikipedia.org/wiki/PSLV-C62"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Redesigned PS3 motor static-tested Oct and Nov 2025",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "No source found; deleted. Also deleted 'departure from internal reviews', 'Chennai 19 February report', 'earlier committee findings not public' (single/unverified)."
+  },
+  {
+   "claim": "G1: 90% complete / 8,000+ ground tests / March 2026 target (Jan 2026)",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://ianslive.in/tests-underway-for-uncrewed-mission-gaganyaan-slated-for-2027-isro-chairman--20260130195104"
+   ],
+   "note": "Replaced with Oct 2025 statement (90% complete, December launch) confirmed by newsonair, Tribune, News Minute"
+  },
+  {
+   "claim": "Oct 2025: Narayanan said G1 ~90% complete, planned December; date passed without launch",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.newsonair.gov.in/isro-chairman-dr-v-narayanan-confirms-gaganyaan-g1-launch-set-for-december",
+    "https://www.tribuneindia.com/news/india/1st-non-crew-gaganyaan-mission-to-launch-in-dec-with-robot-vyommitra"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "June 2026: aiming for launch by end 2026, could slip (to Q3 2027)",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://thewire.in/space/isros-gaganyaan-mission-could-face-potential-delays-due-to-ongoing-safety-assessments",
+    "https://starlust.org/indias-uncrewed-gaganyaan-test-mission-getting-ready-for-launch-in-late-2026-isro-chief-confirms/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "'Now Q4 2026, crewed 2027 or later'",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gaganyaan-1"
+   ],
+   "note": "Reworded to confirmed June 2026 statements; crewed-date clause removed (dates shifting)"
+  },
+  {
+   "claim": "Three uncrewed missions precede first crewed flight",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.deccanherald.com/amp/story/india%2Fisro-to-launch-three-crew-missions-before-gaganyaan-launch-3652398",
+    "https://thewire.in/space/isros-gaganyaan-mission-could-face-potential-delays-due-to-ongoing-safety-assessments"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "G1 on human-rated LVM3 (HLVM3)",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.isro.gov.in/LVM3_first_uncrewed_flight_Gaganyaan.html",
+    "https://www.deccanherald.com/science/isro-begins-assembly-of-human-rated-lvm3-for-gaganyaans-first-uncrewed-flight-3323074"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Second spaceport (Kulasekarapattinam): ground-breaking for main facilities 5 Mar 2025; commissioning targeted FY2026-27 (Jitendra Singh)",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.etvbharat.com/en/!technology/isro-starts-construction-work-at-kulasekarapattinam-for-a-new-rocket-launchpad-enn25030506480",
+    "https://ianslive.in/commissioning-of-kulasekarapattinam-spaceport-targetted-for-fy-27-jitendra-singh--20250820150455",
+    "https://www.dtnext.in/news/national/commissioning-of-kulasekarapattinam-spaceport-targetted-for-fy-27-jitendra-singh-843966"
+   ],
+   "note": "2025 data; passage now flags target as provisional. Deleted 'Sriharikota remains primary for PSLV/GSLV' (unverified)."
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "Satish Dhawan (index 1)",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre",
+    "https://spacenews.com/?p=36011"
+   ],
+   "fix": null,
+   "note": "Renamed 5 Sep 2002 in his memory; distractors wrong."
+  },
+  {
+   "index": 2,
+   "verdict": "FIX",
+   "my_answer": "0 (both true, R explains A)",
+   "key_answer_correct": true,
+   "truth_values": {
+    "A": true,
+    "R": true
+   },
+   "issues": [
+    "GIVEAWAY (Thoothukudi in stem reveals match item IV)"
+   ],
+   "sources": [
+    "https://thewire.in/space/isro-kulasekarapattinam-thoothukudi-sdsc-sriharikota-sslv-pslv-gslv-antrix",
+    "https://en.wikipedia.org/wiki/SSLV_Launch_Complex"
+   ],
+   "fix": "Removed 'in Thoothukudi district, Tamil Nadu' from assertion",
+   "note": "Sources tie the southern site's no-dogleg path to SSLV's limited payload; R explanation is defensible though idx 1 is arguable by strict logic."
+  },
+  {
+   "index": 3,
+   "verdict": "OK",
+   "my_answer": "I-B, II-A, III-C, IV-D (index 0)",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "WEAK_SOURCE (Tirupati district rests on Wikipedia + minor page)"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/ISRO",
+    "https://www.isro.gov.in/VSSC.html",
+    "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre",
+    "https://en.wikipedia.org/wiki/SSLV_Launch_Complex"
+   ],
+   "fix": null,
+   "note": "Sriharikota in Tirupati district only from Wikipedia plus a college report; kept, flagged. Overlaps Q5 on HQ location."
+  },
+  {
+   "index": 4,
+   "verdict": "FIX",
+   "my_answer": "I only (index 0)",
+   "key_answer_correct": true,
+   "truth_values": {
+    "I": true,
+    "II": false
+   },
+   "issues": [
+    "EXPLANATION_MISMATCH (unverified PSLV-D2 Oct 1994 claim)"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle",
+    "https://vajiramandravi.com/current-affairs/polar-satellite-launch-vehicle-pslv/"
+   ],
+   "fix": "Explanation trimmed to confirmed facts",
+   "note": "PS3 solid HTPB; D1 failed (attitude control at stage separation)."
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "I and III only (index 2)",
+   "key_answer_correct": true,
+   "truth_values": {
+    "I": true,
+    "II": false,
+    "III": true
+   },
+   "issues": [
+    "WEAK_SOURCE (15 Aug 1969 date mainly Wikipedia + secondary pages)"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/ISRO",
+    "https://businesshistory.domain-b.com/focus/isro-s-rise-pedaling-to-the-sun-and-beyond"
+   ],
+   "fix": null,
+   "note": "HQ Bengaluru confirmed; DoS since 1972. Kept, date is the thinnest point."
+  },
+  {
+   "index": 6,
+   "verdict": "OK",
+   "my_answer": "LVM3 (index 2)",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.isro.gov.in/LVM3_first_uncrewed_flight_Gaganyaan.html",
+    "https://www.deccanherald.com/science/isro-begins-assembly-of-human-rated-lvm3-for-gaganyaans-first-uncrewed-flight-3323074"
+   ],
+   "fix": null,
+   "note": "Explanation says HLVM3 formerly GSLV Mk III and SDSC launch: not checked, but answer confirmed."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "Reports said that a redesigned third-stage motor ... earlier committee's findings had not been made public.",
+   "new": "",
+   "reason": "static-test claim unverifiable"
+  },
+  {
+   "old": "in a departure ... A report from Chennai dated 19 February ... committee's findings.",
+   "new": "reworded to confirmed statements",
+   "reason": "single-source"
+  },
+  {
+   "old": "In January 2026 ... 90 per cent ... March 2026 ... now Q4 2026 ... 2027 or later",
+   "new": "Oct 2025 December target; June 2026 end-2026/slip to 2027",
+   "reason": "single source / Wikipedia only"
+  },
+  {
+   "old": "Officials stress ... PSLV and GSLV.",
+   "new": "",
+   "reason": "unverified"
+  }
+ ],
+ "summary": "All 6 questions kept (2 fixed: Q2 giveaway wording, Q4 explanation). Passage rewritten to confirmed claims, 430 words. Q8-type draft count was 6, none dropped; thinnest: Q5 date and Q3 Tirupati."
+}

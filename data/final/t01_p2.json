@@ -1,0 +1,99 @@
+{
+ "title": "FIFA World Cup 2026: Spain crowned champions",
+ "topic_tags": [
+  "sports",
+  "FIFA World Cup 2026",
+  "football"
+ ],
+ "text": "The 2026 FIFA World Cup, the first to be hosted jointly by three nations, ran for 39 days from 11 June to 19 July 2026. It was also the first edition expanded to 48 teams, split into 12 groups of four, a structure that guaranteed every team at least three matches, and featured a record 104 matches across 16 host cities, of which 11 were in the United States, three in Mexico and two in Canada. The opening game on 11 June was played at the Estadio Azteca in Mexico City, where Mexico beat South Africa 2-0 through goals from Julian Quinones and Raul Jimenez. South Africa finished the match with nine men, and the game produced three red cards in all.\n\nThe tournament ended on 19 July at MetLife Stadium in New Jersey, where Spain defeated defending champion Argentina 1-0 after extra time before a crowd of 80,663. Ferran Torres, who had come on as a substitute, scored the only goal early in the second period of extra time, in the 106th minute. Argentina had been reduced to ten men late in normal time when Enzo Fernandez received a second yellow card, and goalkeeper Emiliano Martinez made 11 saves, a record for a World Cup final, without being able to deny Spain. The victory gave Spain its second world title.\n\nSpain also dominated the individual honours announced after the final. Midfielder Rodri was named winner of the Golden Ball as the best player of the tournament, while goalkeeper Unai Simon took the Golden Glove after Spain conceded just one goal in the whole tournament. Argentina's captain took the Silver Ball and Mbappe, of France, the Bronze Ball. Pau Cubarsi beat his Spain teammate Lamine Yamal to the best young player award, and the Fair Play award went to the Netherlands. The Golden Boot, however, went to France's Kylian Mbappe, who scored 10 goals, the most at a single World Cup since 1970, and finished two clear of the runner-up, who ended on eight goals. England's Jude Bellingham took third place in the scoring list with seven goals.\n\nFor Mbappe, the award extended a remarkable run at the sport's biggest event: he became the first player to win the Golden Boot twice, and his tally lifted him to 22 career World Cup goals, a men's all-time record. For Spain, the result capped a tournament in which its defence was breached only once. The tournament's expanded format meant that the eventual champion had to navigate a new round of 32, introduced because the top two sides from every group and the eight best third-placed teams advanced. ",
+ "sources": [
+  "https://www.theweek.in/news/sports/2026/07/20/fifa-world-cup-2026-awards-from-mbappe-to-rodri-who-won-what-full-list-of-winners.html",
+  "https://www.nbcsports.com/soccer/news/2026-world-cup-award-winners-golden-boot-golden-ball-best-young-player-golden-glove",
+  "https://santamariatimes.com/ap/sports/ferran-torres-scores-in-extra-time-as-spain-beats-argentina-1-0-to-win-the/article_a8e21e5c-8c25-54ce-b065-7ebb7225d56f.html",
+  "https://www.sortiraparis.com/en/what-to-do-in-paris/sport-wellness/articles/349129-world-cup-2026-all-results-and-the-final-score",
+  "https://www.skysports.com/football/news/12098/13552605/world-cup-2026-mexico-2-0-south-africa-julian-quinones-and-raul-jimenez-score-as-co-hosts-win-opener-in-game-of-three-red-cards",
+  "https://www.aljazeera.com/sports/2023/3/14/fifa-confirms-expanded-2026-world-cup-with-record-104-matches",
+  "https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/28783291386653-1-When-and-where-is-the-FIFA-World-Cup-2026-being-held",
+  "https://www.foxsports.com/stories/soccer/emi-martinez-breaks-record-most-saves-world-cup-final",
+  "https://www.football-espana.net/2026/07/20/mbappe-golden-boot-2026-world-cup",
+  "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final",
+  "https://www.si.com/fannation/soccer/futbol/news/lionel-messi-wins-fifa-world-cup-golden-ball-award-for-2nd-time",
+  "https://en.wikipedia.org/wiki/Silvio_Gazzaniga",
+  "https://gulfnews.com/sport/football/world-cup/fifa-world-cup-trophy-explained-why-winners-dont-get-to-keep-the-18-carat-gold-original-1.500613398"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "Spain's win over Argentina in the 2026 final was its second World Cup title. In which year did Spain win its first, beating the Netherlands 1-0 after extra time?",
+   "options": [
+    "2006",
+    "2010",
+    "2014",
+    "2008"
+   ],
+   "answer": 1,
+   "explanation": "Spain won its first World Cup on 11 July 2010 at Soccer City, Johannesburg, beating the Netherlands 1-0 after extra time through an Andres Iniesta goal.",
+   "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final ; https://salon.com/2010/07/11/soc_wcup_world_cup_final_1"
+  },
+  {
+   "type": "direct",
+   "q": "Argentina entered the 2026 final as defending champion. Which player won the Golden Ball at the 2022 World Cup, and remains the only player to have won that award twice?",
+   "options": [
+    "Luka Modric",
+    "Kylian Mbappe",
+    "Lionel Messi",
+    "Antoine Griezmann"
+   ],
+   "answer": 2,
+   "explanation": "Lionel Messi was awarded the Golden Ball at the 2022 World Cup and is the only player to have received it twice (2014 and 2022). Mbappe won the 2022 Golden Boot instead.",
+   "source": "https://www.si.com/fannation/soccer/futbol/news/lionel-messi-wins-fifa-world-cup-golden-ball-award-for-2nd-time ; https://supersport.com/football/fifa-world-cup-2022/news/74803daa-80cd-4f75-81a0-fb4fa05d6cc9/messi-wins-golden-ball-as-mbappe-claims-golden-boot"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. 2010 World Cup final",
+    "II. 2022 World Cup final",
+    "III. 2026 World Cup final",
+    "IV. 2026 World Cup opening match"
+   ],
+   "list2": [
+    "A. Soccer City, Johannesburg",
+    "B. Lusail Stadium, Lusail",
+    "C. MetLife Stadium, New Jersey",
+    "D. Estadio Azteca, Mexico City"
+   ],
+   "options": [
+    "I-B, II-A, III-C, IV-D",
+    "I-A, II-B, III-C, IV-D",
+    "I-A, II-B, III-D, IV-C",
+    "I-B, II-A, III-D, IV-C"
+   ],
+   "answer": 1,
+   "explanation": "The 2010 final (Spain v Netherlands) was at Soccer City, Johannesburg; the 2022 final (Argentina v France) at Lusail Stadium, Qatar; the 2026 final at MetLife Stadium; and the 2026 opener at the Estadio Azteca.",
+   "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final ; https://salon.com/2010/07/11/soc_wcup_world_cup_final_1 ; https://www.aa.com.tr/en/sports/messi-argentina-seize-world-cup-glory-with-epic-final-win-over-france/2767012 ; https://lbc.co.uk/news/argentina-france-world-cup-final-result-penalty-shootout ; https://santamariatimes.com/ap/sports/ferran-torres-scores-in-extra-time-as-spain-beats-argentina-1-0-to-win-the/article_a8e21e5c-8c25-54ce-b065-7ebb7225d56f.html"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. Kylian Mbappe won the Golden Boot at the 2022 World Cup with eight goals.",
+    "II. Argentina beat France in the 2022 final in regulation time, 2-1, without the need for extra time."
+   ],
+   "answer": 0,
+   "explanation": "Statement I is correct: Mbappe scored eight goals in 2022, including a hat-trick in the final. Statement II is incorrect: the 2022 final finished 3-3 after extra time and Argentina won 4-2 on penalties.",
+   "source": "https://www.si.com/soccer/2022/12/14/world-cup-golden-boot-argentina-france-mbappe-messi-alvarez-giroud ; https://www.aljazeera.com/sports/2022/12/18/kylian-mbappe-awarded-golden-boot-after-world-cup-finals ; https://lbc.co.uk/news/argentina-france-world-cup-final-result-penalty-shootout"
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. The FIFA World Cup trophy was designed by the Italian sculptor Silvio Gazzaniga.",
+    "2. The trophy is made of 18-carat gold.",
+    "3. The trophy weighs about 6.175 kg.",
+    "4. The trophy is solid gold throughout, with no hollow interior."
+   ],
+   "mode": "incorrect",
+   "answer": 0,
+   "explanation": "Statements 1, 2 and 3 are correct. Statement 4 is incorrect: the trophy is made of 18-carat gold but is hollow inside, so it is not solid gold throughout, and it weighs about 6.175 kg.",
+   "source": "https://en.wikipedia.org/wiki/Silvio_Gazzaniga ; https://abcnews.com/Sports/wireStory/italian-sculptor-created-world-cup-trophy-icon-134807547 ; https://gulfnews.com/sport/football/world-cup/fifa-world-cup-trophy-explained-why-winners-dont-get-to-keep-the-18-carat-gold-original-1.500613398 ; https://www.businesstoday.in/amp/latest/trends/photo/is-the-fifa-world-cup-trophy-real-gold-heres-everything-about-footballs-most-valuable-prize-544008-2026-07-20"
+  }
+ ]
+}

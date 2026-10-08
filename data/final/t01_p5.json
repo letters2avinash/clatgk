@@ -1,0 +1,112 @@
+{
+ "title": "PSLV-C62 failure and the road to Gaganyaan",
+ "topic_tags": [
+  "ISRO",
+  "PSLV",
+  "Gaganyaan",
+  "space",
+  "launch vehicles",
+  "spaceports"
+ ],
+ "text": "Union Finance Minister Nirmala Sitharaman presented the Union Budget for 2026-27 in Parliament on 1 February 2026, a Sunday. It was her ninth consecutive Budget. She set the fiscal deficit target for 2026-27 at 4.3 per cent of GDP, slightly below the 4.4 per cent revised estimate for 2025-26, and said she had fulfilled her 2021-22 commitment to bring the deficit below 4.5 per cent of GDP by 2025-26. The Budget raised capital expenditure to about Rs 12.2 lakh crore and projected the Centre's debt at 55.6 per cent of GDP, with the stated aim of moving towards around 50 per cent by March 2031. Total expenditure was estimated at Rs 53.47 lakh crore.\n\nFive days later, on 6 February 2026, the Reserve Bank of India's Monetary Policy Committee, chaired by Governor Sanjay Malhotra, kept the policy repo rate unchanged at 5.25 per cent with a neutral stance, leaving the standing deposit facility rate at 5.00 per cent and the marginal standing facility rate and Bank Rate at 5.50 per cent. It was the Governor's first policy review after the Budget. The Committee repeated the decision on 5 June 2026, citing elevated crude oil prices amid the West Asia conflict and concerns about the monsoon. At its meeting of 3 to 5 August 2026, the MPC voted unanimously to hold the rate at 5.25 per cent once more and retained the neutral stance. The RBI projected real GDP growth of 6.7 per cent and consumer price inflation of 5.0 per cent for 2026-27. The repo rate had been lowered in several steps during 2025 before the pause began.\n\nThe central bank's growth projection was overtaken by official data on 31 August 2026. The National Statistical Office reported that India's real GDP grew 7.8 per cent in April-June 2026, the first quarter of 2026-27, against the RBI's own estimate of 7 per cent for the quarter. Nominal GDP rose 10.3 per cent to Rs 88.27 lakh crore. Gross value added grew 8.2 per cent, led by services, and gross fixed capital formation rose 11.9 per cent. The growth rate was lower than the upwardly revised 8.6 per cent recorded in the fourth quarter of 2025-26. ICRA raised its full-year forecast to 7.1 per cent from 6.7 per cent, though it flagged a poor monsoon and prolonged West Asia tensions as downside risks.\n\nThe MPC met again from 5 to 7 October 2026. Ahead of that meeting, most economists in polls expected the Committee to raise the repo rate by 25 basis points, which would be the first increase since February 2023.\n",
+ "sources": [
+  "https://www.nasaspaceflight.com/2026/01/indias-pslv-solve-third-stage-second-failure/",
+  "https://www.businesstoday.in/amp/science/story/isros-pslv-c62-mission-fails-second-rare-setback-in-eight-months-for-workhorse-launcher-510482-2026-01-12",
+  "https://spaceflightnow.com/2026/01/12/indias-pslv-suffers-second-consecutive-launch-failure-16-satellites-lost/",
+  "https://www.newsonair.gov.in/pslv-c62-anomaly-isro-investigates-roll-disturbance-during-third-stage-of-eos-n1-mission-says-chairman-dr-v-narayanan/",
+  "https://www.thestatesman.com/india/former-principal-scientific-advisor-to-pm-and-ex-isro-chairman-to-probe-pslv-rocket-failure-1503559294.html",
+  "https://www.uniindia.com/former-principal-scientific-advisor-to-pm-and-ex-isro-chairman-to-probe-pslv-rocket-failure/south/news/3746014.html",
+  "https://www.newsonair.gov.in/isro-chairman-dr-v-narayanan-confirms-gaganyaan-g1-launch-set-for-december",
+  "https://www.tribuneindia.com/news/india/1st-non-crew-gaganyaan-mission-to-launch-in-dec-with-robot-vyommitra",
+  "https://thewire.in/space/isros-gaganyaan-mission-could-face-potential-delays-due-to-ongoing-safety-assessments",
+  "https://ianslive.in/commissioning-of-kulasekarapattinam-spaceport-targetted-for-fy-27-jitendra-singh--20250820150455",
+  "https://www.dtnext.in/news/national/commissioning-of-kulasekarapattinam-spaceport-targetted-for-fy-27-jitendra-singh-843966"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "The Sriharikota spaceport, from which PSLV-C62 was launched, is officially named after which scientist and former ISRO chairman?",
+   "options": [
+    "Vikram Sarabhai",
+    "Satish Dhawan",
+    "A. P. J. Abdul Kalam",
+    "Homi J. Bhabha"
+   ],
+   "answer": 1,
+   "explanation": "Sriharikota (earlier SHAR) hosts the Satish Dhawan Space Centre, renamed in 2002 in memory of Prof. Satish Dhawan, former ISRO chairman.",
+   "source": "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre | https://spacenews.com/?p=36011"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "India's planned second spaceport at Kulasekarapattinam is intended mainly for launching small satellites on the SSLV.",
+   "reason": "A launch site on the southern tip of the peninsula lets rockets fly directly south to polar orbits, avoiding the curved trajectory that Sriharikota launches need to stay clear of Sri Lanka.",
+   "answer": 0,
+   "explanation": "Kulasekarapattinam is planned for SSLV launches to Sun-synchronous polar orbits; its southern location allows a straight southward path, whereas launches from Sriharikota have to curve to avoid Sri Lanka.",
+   "source": "https://thewire.in/space/isro-kulasekarapattinam-thoothukudi-sdsc-sriharikota-sslv-pslv-gslv-antrix | https://en.wikipedia.org/wiki/SSLV_Launch_Complex"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. ISRO headquarters",
+    "II. Vikram Sarabhai Space Centre (lead centre for launch vehicles)",
+    "III. Satish Dhawan Space Centre (Sriharikota)",
+    "IV. Kulasekarapattinam spaceport (under construction)"
+   ],
+   "list2": [
+    "A. Thiruvananthapuram",
+    "B. Bengaluru",
+    "C. Tirupati district, Andhra Pradesh",
+    "D. Thoothukudi district, Tamil Nadu"
+   ],
+   "options": [
+    "I-B, II-A, III-C, IV-D",
+    "I-A, II-B, III-C, IV-D",
+    "I-B, II-A, III-D, IV-C",
+    "I-C, II-A, III-B, IV-D"
+   ],
+   "answer": 0,
+   "explanation": "ISRO is headquartered in Bengaluru; VSSC is in Thiruvananthapuram; Sriharikota island lies in Tirupati district of Andhra Pradesh; Kulasekarapattinam is in Thoothukudi district, Tamil Nadu.",
+   "source": "https://en.wikipedia.org/wiki/ISRO | https://www.isro.gov.in/VSSC.html | https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre | https://en.wikipedia.org/wiki/SSLV_Launch_Complex"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. The PSLV is a four-stage vehicle whose third stage (PS3) uses solid propellant.",
+    "II. The very first PSLV flight, PSLV-D1 on 20 September 1993, successfully placed its satellite in orbit."
+   ],
+   "answer": 0,
+   "explanation": "PSLV alternates solid-liquid-solid-liquid, so PS3 is solid (HTPB-based). PSLV-D1 in 1993 failed because of an attitude-control problem at stage separation, so the satellite was not placed in orbit.",
+   "source": "https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle | https://vajiramandravi.com/current-affairs/polar-satellite-launch-vehicle-pslv/"
+  },
+  {
+   "type": "statement_multi",
+   "statements": [
+    "I. ISRO was formed on 15 August 1969, succeeding the Indian National Committee for Space Research (INCOSPAR) set up in 1962.",
+    "II. ISRO's headquarters is located in Thiruvananthapuram.",
+    "III. ISRO functions under the Department of Space."
+   ],
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "All of the above"
+   ],
+   "answer": 2,
+   "explanation": "ISRO succeeded INCOSPAR on 15 August 1969 and is managed by the Department of Space; its headquarters is in Bengaluru, not Thiruvananthapuram (where VSSC is).",
+   "source": "https://en.wikipedia.org/wiki/ISRO | https://businesshistory.domain-b.com/focus/isro-s-rise-pedaling-to-the-sun-and-beyond"
+  },
+  {
+   "type": "direct",
+   "q": "The uncrewed Gaganyaan test flight G1 is planned on a human-rated version of which ISRO launch vehicle?",
+   "options": [
+    "PSLV",
+    "SSLV",
+    "LVM3",
+    "GSLV Mk II"
+   ],
+   "answer": 2,
+   "explanation": "Gaganyaan uses HLVM3, the human-rated variant of the LVM3 (formerly GSLV Mk III), launched from the Satish Dhawan Space Centre.",
+   "source": "https://www.isro.gov.in/LVM3_first_uncrewed_flight_Gaganyaan.html | https://www.deccanherald.com/science/isro-begins-assembly-of-human-rated-lvm3-for-gaganyaans-first-uncrewed-flight-3323074"
+  }
+ ]
+}

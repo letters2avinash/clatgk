@@ -1,0 +1,284 @@
+{
+ "passage_file": "data/passages/pilot_4.json",
+ "passage_claims": [
+  {
+   "claim": "India took over BRICS chair from Brazil on 1 Jan 2026, its fourth chairship",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "tribuneindia.com",
+    "visionias.in",
+    "vajiraoinstitute.com"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "13 Jan 2026 Jaishankar unveiled logo, website, theme in New Delhi; theme text",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "ianslive.in",
+    "wionews.com",
+    "newsonair.gov.in"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Theme tied to Modi's people-centric approach announced at Rio 2025",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "freepressjournal.in",
+    "cxodigitalpulse.com"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Chairship runs calendar year 1 Jan-31 Dec",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "brics.br",
+    "gov.br"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "FM meeting at Bharat Mandapam 14-15 May 2026 chaired by Jaishankar; overshadowed by West Asia crisis; delegates met Modi",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "tribuneindia.com",
+    "wionews.com",
+    "thestatesman.com"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "16th BRICS NSA meeting 22-23 June 2026 hosted by Doval; Shoigu and Wang Yi attended; theme non-traditional security",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "mfa.gov.cn",
+    "tribuneindia.com",
+    "ydyl.gansu.gov.cn"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Doval bilaterals with Iran, Brazil, Ethiopia, South Africa",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "newsonair.gov.in",
+    "etvbharat.com",
+    "newswav.com (ANI/MEA)"
+   ],
+   "note": "South Africa meeting (Ntshavheni) from MEA/ANI-based reports; kept"
+  },
+  {
+   "claim": "18th summit at Bharat Mandapam 12-13 Sept 2026; Modi announced consensus adoption on day one, no objection",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "theweek.in",
+    "sanews.gov.za",
+    "republicworld.com"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Hard negotiations to bridge Iran-UAE differences",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "outlookindia.com",
+    "theprint.in",
+    "etvbharat.com"
+   ],
+   "note": "'back-channel' not supported; reworded to hard negotiations with India mediating"
+  },
+  {
+   "claim": "140-point/paragraph declaration",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "ratopati.com",
+    "uniindia.com",
+    "outlookindia.com"
+   ],
+   "note": "Count confirmed by press, not by official text"
+  },
+  {
+   "claim": "Three chapters incl. cultural and people-to-people chapter",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "No source found for three-chapter structure; replaced with topic list"
+  },
+  {
+   "claim": "Declaration backs larger India/Brazil UN role, opposes unilateral tariffs/secondary sanctions, condemns 22 April 2025 J&K attack, Gaza ceasefire, endorses India-led initiatives (big cats, risk, AI)",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "outlookindia.com",
+    "uniindia.com",
+    "newkerala.com",
+    "swarajyamag.com"
+   ],
+   "note": "'immediate' ceasefire wording varies; reworded to 'a ceasefire'; year 2025 added"
+  },
+  {
+   "claim": "China takes over chair in 2027, declaration pledges support",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "tass.com",
+    "devdiscourse.com",
+    "en.people.cn"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Eleven full members",
+   "verdict": "DISPUTED",
+   "sources": [
+    "brics.br/gov.br list 11 incl. Saudi Arabia",
+    "businesstoday.in"
+   ],
+   "note": "Saudi Arabia status disputed in several sources; number removed"
+  },
+  {
+   "claim": "Analysts noted consensus text was main achievement",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "Reworded to reports describing it as a major diplomatic win for India (theweek.in, newsonair.gov.in)"
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "Shanghai",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://brics.unipr.it/wedit/fileman/Uploads/Agreement_on_the_New_Development.pdf",
+    "https://www.sanews.gov.za/node/22952"
+   ],
+   "fix": null,
+   "note": "Treaty text and SA govt news agree; Johannesburg is only the regional centre; Moscow/New Delhi wrong."
+  },
+  {
+   "index": 2,
+   "verdict": "FIX",
+   "my_answer": "Russia",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "GIVEAWAY",
+    "EXPLANATION_MISMATCH"
+   ],
+   "sources": [
+    "https://interfax.com/newsroom/top-stories/93857/",
+    "https://tvbrics.com/en/news/brazil-officially-becomes-brics-chair-country/"
+   ],
+   "fix": "Removed 'Kazan' from stem (names Russian city); removed unsupported 'at Brazil's request'.",
+   "note": "Fact confirmed."
+  },
+  {
+   "index": 3,
+   "verdict": "FIX",
+   "my_answer": "Both true, R does not explain A (index 1)",
+   "key_answer_correct": true,
+   "truth_values": {
+    "A": true,
+    "R": true
+   },
+   "issues": [
+    "AMBIGUOUS"
+   ],
+   "sources": [
+    "https://www.gov.br/planalto/en/latest-news/2025/01/brazil-announces-indonesia-as-full-member-of-brics",
+    "https://bernama.com/tv/news.php?id=2379869"
+   ],
+   "fix": "Original R (announcement of joining) restates A and arguably explains it; R replaced by 'Brazil held the chair in 2025' (confirmed) so index 1 is unambiguous.",
+   "note": "Indonesia full member from 6 Jan 2025 confirmed."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "I-D, II-C, III-A, IV-B",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://brics.unipr.it/en/brics-summits/156/",
+    "https://en.wikipedia.org/wiki/4th_BRICS_summit",
+    "https://www.gov.br/mre/en/contact-us/press-area/press-releases/4th-brics-summit-new-delhi-28-and-29-march-2012"
+   ],
+   "fix": null,
+   "note": "Sanya 2011, New Delhi 2012 (29 Mar), Durban 2013, Fortaleza 2014 confirmed. Giveaways from Q5/Q6 removed there."
+  },
+  {
+   "index": 5,
+   "verdict": "FIX",
+   "my_answer": "Both I and II (index 2)",
+   "key_answer_correct": true,
+   "truth_values": {
+    "I": true,
+    "II": true
+   },
+   "issues": [
+    "GIVEAWAY",
+    "EXPLANATION_MISMATCH",
+    "WEAK_SOURCE"
+   ],
+   "sources": [
+    "https://www.vajiraoinstitute.com/upsc-ias-current-affairs/brics-india-2026-fourth-chairship-18th-summit.aspx",
+    "https://industryweek.com/the-economy/article/21936576/south-africa-invited-to-join-bric"
+   ],
+   "fix": "Stmt I reworded to 'most recent chairship before 2026 was 2021' (the 2012 chair leaked Q4 New Delhi 2012; 'three times' duplicated passage's 'fourth'). Explanation corrected: SA invited Dec 2010, not Sept 2010 NY meeting (unsupported).",
+   "note": "India chairs 2012/2016/2021 confirmed."
+  },
+  {
+   "index": 6,
+   "verdict": "FIX",
+   "my_answer": "Only statement 4 incorrect (index 0)",
+   "key_answer_correct": true,
+   "truth_values": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": false
+   },
+   "issues": [
+    "GIVEAWAY"
+   ],
+   "sources": [
+    "https://www.goldmansachs.com/our-firm/history/moments/2001-brics",
+    "https://adamtooze.substack.com/p/chartbook-55-brics-twenty-years-on",
+    "https://brics.unipr.it/en/brics-summits/156/",
+    "https://www.sanews.gov.za/node/22952"
+   ],
+   "fix": "Stmt 3 no longer names Sanya (leaked Q4 I-D); stmt 4 changed from 'at the 2012 New Delhi summit' to 'in 2013' (leaked Q4 II-C), still false (signed 15 Jul 2014).",
+   "note": "O'Neill 2001, Yekaterinburg June 2009, SA first full-member summit 2011 confirmed."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "Reports said back-channel negotiations were needed",
+   "new": "Reports said hard negotiations, which ran until the early hours, were needed ... with India acting as mediator",
+   "reason": "back-channel unconfirmed"
+  },
+  {
+   "old": "The 140-point document is divided into three chapters covering ... cultural and people-to-people cooperation.",
+   "new": "The 140-paragraph document ranges across global governance reform, peace and security, trade and finance, technology, climate and people-to-people cooperation.",
+   "reason": "three-chapter structure unverified"
+  },
+  {
+   "old": "22 April terror attack ... immediate ceasefire in Gaza",
+   "new": "22 April 2025 terror attack ... a ceasefire in Gaza",
+   "reason": "wording varies across sources"
+  },
+  {
+   "old": "eleven full members",
+   "new": "expanded considerably through enlargement",
+   "reason": "Saudi status disputed"
+  },
+  {
+   "old": "Analysts noted ... main diplomatic achievement",
+   "new": "Reports described ... as a major diplomatic win for India",
+   "reason": "analyst claim unverifiable"
+  }
+ ],
+ "summary": "All 6 questions kept (0 dropped); 4 needed fixes (Q2, Q3, Q5, Q6 reworded; Q1 and Q4 OK). Passage fixed in 4 places; now 460 words. 21 searches used; WebFetch unavailable (host not resolvable), so only search snippets were used; O'Neill, 140-paragraph count and Sanya/Durban dates rest on snippets."
+}

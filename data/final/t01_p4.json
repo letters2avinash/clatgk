@@ -1,0 +1,101 @@
+{
+ "title": "India's BRICS Chairship 2026",
+ "topic_tags": [
+  "international affairs",
+  "BRICS",
+  "summits",
+  "multilateralism"
+ ],
+ "text": "India formally took over the BRICS chairship from Brazil on 1 January 2026, becoming chair of the grouping for the fourth time. Twelve days later, on 13 January, External Affairs Minister S. Jaishankar unveiled the logo, website and theme of the presidency in New Delhi. The theme, \"Building for Resilience, Innovation, Cooperation and Sustainability\", was tied by officials to the people-centric approach Prime Minister Narendra Modi had outlined at the previous year's summit in Rio de Janeiro. The chairship runs for the calendar year, from 1 January to 31 December, and the chair sets the agenda for meetings at every level, from sherpas and ministers to the leaders' summit.\n\nThe calendar of ministerial meetings began to fill in the middle of the year. Foreign ministers and heads of delegation from member and partner countries gathered at Bharat Mandapam in New Delhi on 14 and 15 May 2026. Jaishankar chaired the meeting, which was overshadowed by the crisis in West Asia, and the delegates later called on Modi. On 22 and 23 June, National Security Adviser Ajit Doval hosted the 16th meeting of BRICS national security advisers in the capital. Russia's Security Council Secretary Sergey Shoigu and Chinese Foreign Minister Wang Yi were among those who attended. The agenda was built around non-traditional security challenges, and Doval used the sidelines to hold bilateral talks with officials from Iran, Brazil, Ethiopia and South Africa.\n\nThe presidency culminated in the 18th BRICS Summit, held at Bharat Mandapam, New Delhi, on 12 and 13 September 2026. On the first day, Modi announced that leaders had adopted the New Delhi Declaration by consensus, with no member raising an objection. Reports said hard negotiations, which ran until the early hours, were needed to bridge sharp differences between Iran and the United Arab Emirates over the West Asia conflict, with India acting as mediator. The 140-paragraph document ranges across global governance reform, peace and security, trade and finance, technology, climate and people-to-people cooperation. It backed a larger role for India and Brazil at the United Nations, criticised unilateral tariffs and secondary sanctions, and condemned the 22 April 2025 terror attack in Jammu and Kashmir. It also called for a ceasefire in Gaza and endorsed India-led initiatives on financial risk, artificial intelligence and big-cat conservation.\n\nThe declaration also welcomed what it called significant progress under India's presidency and pledged support for China, which will take over the rotating chair in 2027. India's turn came at a time when the bloc, which has expanded considerably through enlargement in recent years, is trying to balance members with very different positions on the conflicts in West Asia. Reports described the ability to produce a consensus text, even after hard bargaining, as a major diplomatic win for India at the Delhi summit.",
+ "sources": [
+  "https://ianslive.in/india-launches-website-theme-and-logo-for-brics-presidency-2026--20260113145920",
+  "https://ianslive.in/brics-foreign-ministers-meet-to-kick-off-in-delhi-today--20260514064713",
+  "https://www.businesstoday.in/bt-tv/whats-hot/video/nsa-ajit-doval-hosts-16th-brics-nsa-meet-focus-on-emerging-global-security-threats-538962-2026-06-24",
+  "https://www.outlookindia.com/national/new-delhi-declaration-adopted-what-are-the-key-takeaways",
+  "https://www.sanews.gov.za/node/84282",
+  "https://en.wikipedia.org/wiki/18th_BRICS_summit"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "The BRICS grouping's own multilateral lender, the New Development Bank, has its headquarters in which city?",
+   "options": [
+    "Shanghai",
+    "New Delhi",
+    "Johannesburg",
+    "Moscow"
+   ],
+   "answer": 0,
+   "explanation": "Article 3 of the Agreement on the New Development Bank (signed at Fortaleza, 15 July 2014) places the Bank's headquarters in Shanghai; its first regional office is in Johannesburg.",
+   "source": "https://brics.unipr.it/wedit/fileman/Uploads/Agreement_on_the_New_Development.pdf ; https://www.sanews.gov.za/node/22952"
+  },
+  {
+   "type": "direct",
+   "q": "Which BRICS member held the rotating chair in 2024, the year before Brazil?",
+   "options": [
+    "Russia",
+    "South Africa",
+    "China",
+    "India"
+   ],
+   "answer": 0,
+   "explanation": "Russia chaired BRICS in 2024 (the Kazan summit, 22-24 October 2024), followed by Brazil in 2025 and India in 2026.",
+   "source": "https://interfax.com/newsroom/top-stories/93857/ ; https://tvbrics.com/en/news/brazil-officially-becomes-brics-chair-country/"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "Indonesia is a full member of BRICS.",
+   "reason": "Brazil held the rotating BRICS chair in 2025.",
+   "answer": 1,
+   "explanation": "Both statements are true: Indonesia was announced as a full member on 6 January 2025, and Brazil chaired BRICS in 2025. Brazil's holding the chair does not explain why Indonesia is a member (its entry was approved by consensus of the members), so R does not explain A.",
+   "source": "https://www.gov.br/planalto/en/latest-news/2025/01/brazil-announces-indonesia-as-full-member-of-brics ; https://bernama.com/tv/news.php?id=2379869"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. 2011 BRICS summit",
+    "II. 2012 BRICS summit",
+    "III. 2013 BRICS summit",
+    "IV. 2014 BRICS summit"
+   ],
+   "list2": [
+    "A. Durban",
+    "B. Fortaleza",
+    "C. New Delhi",
+    "D. Sanya"
+   ],
+   "options": [
+    "I-A, II-C, III-D, IV-B",
+    "I-D, II-A, III-C, IV-B",
+    "I-D, II-C, III-A, IV-B",
+    "I-C, II-D, III-B, IV-A"
+   ],
+   "answer": 2,
+   "explanation": "Sanya, China hosted the 2011 summit (South Africa's first as a full member); New Delhi hosted in 2012; Durban in 2013; Fortaleza in 2014, where the New Development Bank agreement was signed.",
+   "source": "https://brics.unipr.it/en/brics-summits/156/ ; https://en.wikipedia.org/wiki/4th_BRICS_summit ; https://www.gov.br/mre/en/contact-us/press-area/press-releases/4th-brics-summit-new-delhi-28-and-29-march-2012 ; https://www.sanews.gov.za/node/22952"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. India's most recent chairship of BRICS before 2026 was in 2021.",
+    "II. South Africa's admission in 2010 led the BRIC grouping to be renamed BRICS."
+   ],
+   "answer": 2,
+   "explanation": "India's earlier chairships were 2012, 2016 and 2021, so 2021 was its most recent before 2026. South Africa was invited to join in December 2010, and BRIC became BRICS.",
+   "source": "https://www.vajiraoinstitute.com/upsc-ias-current-affairs/brics-india-2026-fourth-chairship-18th-summit.aspx ; https://industryweek.com/the-economy/article/21936576/south-africa-invited-to-join-bric ; https://www.brandsouthafrica.com/stay-updated/quick-facts/2011/brics-in-a-nutshell/"
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. The acronym BRIC was coined in 2001 by Goldman Sachs economist Jim O'Neill.",
+    "2. The first formal BRIC leaders' summit was held in Yekaterinburg, Russia, in June 2009.",
+    "3. South Africa's first summit as a full member of the grouping was held in 2011.",
+    "4. The Agreement on the New Development Bank was signed in 2013."
+   ],
+   "mode": "incorrect",
+   "answer": 0,
+   "explanation": "Statement 4 is incorrect: the 2013 Durban summit agreed to set up the bank, and the agreement was signed at Fortaleza on 15 July 2014. Statements 1-3 are correct.",
+   "source": "https://www.goldmansachs.com/our-firm/history/moments/2001-brics ; https://adamtooze.substack.com/p/chartbook-55-brics-twenty-years-on ; https://brics.unipr.it/en/brics-summits/156/ ; https://www.sanews.gov.za/node/22952"
+  }
+ ]
+}

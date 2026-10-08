@@ -1,0 +1,303 @@
+{
+ "passage_file": "data/passages/pilot_3.json",
+ "passage_claims": [
+  {
+   "claim": "Jaya Thakur decided 30 Jan 2026 (not 20 Jan)",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://thewire.in/gender/menstrual-health-isnt-just-hygiene-its-a-constitutional-right",
+    "https://www.onmanorama.com/news/india/2026/01/30/menstrual-health-constitutional-right.html",
+    "https://theindianlawyer.in/menstrual-health-recognised-as-a-fundamental-right-by-the-supreme-court/"
+   ],
+   "note": "Only one law blog says 20 Jan; treated as error"
+  },
+  {
+   "claim": "Bench Pardiwala and Mahadevan",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://theindianlawyer.in/menstrual-health-recognised-as-a-fundamental-right-by-the-supreme-court/",
+    "https://www.iasgyan.in/daily-current-affairs/menstrual-health-as-a-fundamental-right-supreme-court-judgement"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Citation 2026 INSC 97 / WP(C) 1000 of 2022",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://thelegalquorum.com/case-summary-dr-jaya-thakur-vs-government-of-india-2026-insc-97/"
+   ],
+   "note": "Removed from passage"
+  },
+  {
+   "claim": "Menstrual health part of Art 21; Arts 14, 21, 21A barrier to education",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://theindianlawyer.in/menstrual-health-recognised-as-a-fundamental-right-by-the-supreme-court/",
+    "https://www.hhrjournal.org/2026/02/12/dignity-equality-and-menstrual-health-a-constitutional-moment-for-india/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Free napkins, functional gender-segregated toilets, safe disposal, derecognition of non-compliant private schools",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://thewire.in/gender/menstrual-health-isnt-just-hygiene-its-a-constitutional-right",
+    "https://theindianlawyer.in/menstrual-health-recognised-as-a-fundamental-right-by-the-supreme-court/"
+   ],
+   "note": "Reworded; 'biodegradable', 'disabled-friendly', Solid Waste Management Rules, 'continuing mandamus' not confirmed and removed"
+  },
+  {
+   "claim": "UP, Haryana, Rajasthan, MP filed no affidavits",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "Haryana and UP did respond in 2023; removed"
+  },
+  {
+   "claim": "Petition filed 2022 by Jaya Thakur seeking free pads (classes 6-12) and separate toilets",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://indiaenvironmentportal.org.in/in-court/order-of-the-supreme-court-regarding-menstrual-hygiene-management-for-girls-studying-in-schools-24072023",
+    "https://www.verdictum.in/court-updates/supreme-court/to-file-status-report-on-menstrual-hygiene-in-schools-1486324"
+   ],
+   "note": "Added as replacement"
+  },
+  {
+   "claim": "Rana decided 11 Mar 2026 by Pardiwala and Viswanathan",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Harish_Rana_v._Union_of_India",
+    "https://www.theweek.in/news/india/2026/03/11/euthanasia-laws-sc-implements-guidelines-calls-for-legislation.amp.html"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Rana age 31 or 32",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.tribuneindia.com/news/india/passive-euthanasia-sc-allows-withdrawal-of-life-support-to-32-year-old-in-vegetative-state-since-2013/",
+    "https://ianslive.in/sc-allows-passive-euthanasia-for-ghaziabad-man-in-vegetative-state--20260311120714"
+   ],
+   "note": "Reports differ; passage says 31 or 32"
+  },
+  {
+   "claim": "Delhi HC declined relief (not on life support, not terminally ill); SC gave liberty to return",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Harish_Rana_v._Union_of_India",
+    "https://www.tribuneindia.com/news/india/passive-euthanasia-sc-allows-withdrawal-of-life-support-to-32-year-old-in-vegetative-state-since-2013/"
+   ],
+   "note": "Year 2024 dropped"
+  },
+  {
+   "claim": "Judges met family on 13 Jan before reserving judgment",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://www.etvbharat.com/en/bharat/sc-reserves-judgment-on-fathers-plea-seeking-passive-euthanasia-for-son-enn26011505296"
+   ],
+   "note": "Meeting removed; reservation on 15 Jan confirmed (The Week, ETV Bharat, Tribune)"
+  },
+  {
+   "claim": "Judgment reserved 15 Jan 2026",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.etvbharat.com/en/bharat/sc-reserves-judgment-on-fathers-plea-seeking-passive-euthanasia-for-son-enn26011505296",
+    "https://www.theweek.in/news/india/2026/01/15/wait-continues-for-parents-as-supreme-court-reserves-order-on-passive-euthanasia-plea.amp.html"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Two medical boards found no chance of recovery",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Harish_Rana_v._Union_of_India",
+    "https://www.theweek.in/news/india/2026/03/11/euthanasia-laws-sc-implements-guidelines-calls-for-legislation.amp.html"
+   ],
+   "note": "Replacement claim"
+  },
+  {
+   "claim": "Best interest principle; CANH is medical treatment",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Harish_Rana_v._Union_of_India",
+    "https://www.theweek.in/news/india/2026/03/11/euthanasia-laws-sc-implements-guidelines-calls-for-legislation.amp.html"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Common Cause guidelines modified 2023",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.scobserver.in/court-case/euthanasia-living-wills-and-the-right-to-die-with-dignity",
+    "https://vajiramandravi.com/current-affairs/passive-euthanasia-in-india/"
+   ],
+   "note": "24 Jan 2023"
+  },
+  {
+   "claim": "30-day period waived; AIIMS directed to admit to palliative care",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Harish_Rana_v._Union_of_India",
+    "https://www.theweek.in/news/india/2026/03/11/euthanasia-laws-sc-implements-guidelines-calls-for-legislation.amp.html"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Court asked Union to consider legislation",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Harish_Rana_v._Union_of_India",
+    "https://www.theweek.in/news/india/2026/03/11/euthanasia-laws-sc-implements-guidelines-calls-for-legislation.amp.html"
+   ],
+   "note": "Replacement claim"
+  },
+  {
+   "claim": "Shifted 14 March to Rotary Cancer Hospital palliative unit; Dr Seema Mishra heads team",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.dtnext.in/news/national/harish-rana-indias-first-person-to-be-allowed-passive-euthanasia-dies-in-aiims",
+    "https://www.onmanorama.com/news/india/2026/03/24/passive-euthanasia-india-harish-rana-dies.html"
+   ],
+   "note": "'palliative sedation' removed (unconfirmed)"
+  },
+  {
+   "claim": "Died 24 March 2026",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.dtnext.in/news/national/harish-rana-indias-first-person-to-be-allowed-passive-euthanasia-dies-in-aiims",
+    "https://www.onmanorama.com/news/india/2026/03/24/passive-euthanasia-india-harish-rana-dies.html"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "First such case of passive euthanasia allowed by a court in India",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Harish_Rana_v._Union_of_India",
+    "https://www.theweek.in/news/india/2026/03/11/euthanasia-laws-sc-implements-guidelines-calls-for-legislation.amp.html"
+   ],
+   "note": "Reworded from 'first judicial implementation of framework'"
+  },
+  {
+   "claim": "Pardiwala authored both",
+   "verdict": "DISPUTED",
+   "sources": [],
+   "note": "Authorship of Rana lead opinion by Pardiwala reported but only loosely; reworded to 'sat on the bench in both'"
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "Article 15(3)",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Article_15_of_the_Constitution_of_India",
+    "https://mksy.up.gov.in/women_welfare/pdf/act3.pdf"
+   ],
+   "fix": "source replaced",
+   "note": "Distractors 16(4), 14, 19(1)(g) are wrong."
+  },
+  {
+   "index": 2,
+   "verdict": "FIX",
+   "my_answer": "Maneka Gandhi",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "GIVEAWAY (year 1978 revealed Q4 pairing); 'authored mainly' overstated"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Maneka_Gandhi_v._Union_of_India",
+    "https://legalfly.in/maneka-gandhi-v-union-of-india/"
+   ],
+   "fix": "year removed; 'leading opinion by Bhagwati' (plurality, 3 judges)",
+   "note": "Applied in final."
+  },
+  {
+   "index": 3,
+   "verdict": "FIX",
+   "my_answer": "1 (both true, R not explanation)",
+   "key_answer_correct": true,
+   "truth_values": {
+    "A": true,
+    "R": true
+   },
+   "issues": [
+    "GIVEAWAY (age 14 and year 1993 aided Q4/Q6)"
+   ],
+   "sources": [
+    "https://www.escr-net.org/caselaw/2006/unni-krishnan-jp-ors-v-state-andhra-pradesh-ors-cited-1993-air-217-1993-scr-1-594-1993-2",
+    "https://education.gov.in/rte"
+   ],
+   "fix": "year and age removed from assertion",
+   "note": "Applied in final."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "I-A, II-B, III-D, IV-C",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.scobserver.in/court-case/euthanasia-living-wills-and-the-right-to-die-with-dignity",
+    "https://nhrc.nic.in/node/111549",
+    "https://en.wikipedia.org/wiki/Maneka_Gandhi_v._Union_of_India",
+    "https://www.escr-net.org/caselaw/2006/unni-krishnan-jp-ors-v-state-andhra-pradesh-ors-cited-1993-air-217-1993-scr-1-594-1993-2"
+   ],
+   "fix": null,
+   "note": "Passage no longer states 'Common Cause (2018)'; other questions no longer give years."
+  },
+  {
+   "index": 5,
+   "verdict": "DROP",
+   "my_answer": "I only",
+   "key_answer_correct": true,
+   "truth_values": {
+    "I": true,
+    "II": false
+   },
+   "issues": [
+    "GIVEAWAY (Q3 reason states 86th Amendment 2002, age 14; statements contradict each other)",
+    "UNSUPPORTED (single govt source for 2002 and assent date 12 Dec 2002 not checked)"
+   ],
+   "sources": [
+    "https://education.gov.in/rte"
+   ],
+   "fix": null,
+   "note": "Overlaps Q3; dropped."
+  },
+  {
+   "index": 6,
+   "verdict": "FIX",
+   "my_answer": "Only one incorrect",
+   "key_answer_correct": true,
+   "truth_values": {
+    "1": true,
+    "2": true,
+    "3": false,
+    "4": true
+   },
+   "issues": [
+    "GIVEAWAY (years repeated Q4; Maneka named, answering Q2)"
+   ],
+   "sources": [
+    "https://nhrc.nic.in/node/111549",
+    "https://www.scobserver.in/court-case/euthanasia-living-wills-and-the-right-to-die-with-dignity",
+    "https://www.escr-net.org/caselaw/2006/unni-krishnan-jp-ors-v-state-andhra-pradesh-ors-cited-1993-air-217-1993-scr-1-594-1993-2"
+   ],
+   "fix": "years removed; stmt 2 rewritten to Gopalan watertight compartments",
+   "note": "Shanbaug monitoring wording from scobserver/Drishti/NHRC summaries."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "(see passage diff)",
+   "new": "see final text",
+   "reason": "Removed or softened unconfirmed claims: citation, WP number, state list, SWM Rules, disabled-friendly, continuing mandamus, 13 Jan meeting, 2024, palliative sedation, (2018) next to Common Cause, authorship; added confirmed replacements."
+  }
+ ],
+ "summary": "Passage reworded to confirmed claims, 500 words. Q5 dropped; Q2, Q3, Q6 tightened to remove cross-question giveaways; 5 questions kept. Note: Q4 and Q6 pairing facts and Art 21A details rely on search summaries, WebFetch was unavailable."
+}

@@ -1,0 +1,86 @@
+{
+ "title": "Budget 2026-27, repo rate holds and a strong Q1 GDP print",
+ "topic_tags": [
+  "economy",
+  "union budget",
+  "RBI",
+  "monetary policy",
+  "GDP",
+  "fiscal policy"
+ ],
+ "text": "Union Finance Minister Nirmala Sitharaman presented the Union Budget for 2026-27 in Parliament on 1 February 2026, a Sunday. It was her ninth consecutive Budget. She set the fiscal deficit target for 2026-27 at 4.3 per cent of GDP, or about Rs 16.95 lakh crore, slightly below the 4.4 per cent revised estimate for 2025-26, and said she had fulfilled her 2021-22 commitment to bring the deficit below 4.5 per cent of GDP by 2025-26. The Budget raised capital expenditure to about Rs 12.2 lakh crore and projected the Centre's debt at 55.6 per cent of GDP, with the stated aim of moving towards around 50 per cent by March 2031. Total expenditure was estimated at Rs 53.47 lakh crore.\n\nFive days later, on 6 February 2026, the Reserve Bank of India's Monetary Policy Committee, chaired by Governor Sanjay Malhotra, kept the policy repo rate unchanged at 5.25 per cent with a neutral stance, leaving the standing deposit facility rate at 5.00 per cent and the marginal standing facility rate and Bank Rate at 5.50 per cent. It was the Governor's first policy review after the Budget. The Committee repeated the decision on 5 June 2026, citing elevated crude oil prices amid the West Asia conflict and concerns about the monsoon. At its meeting of 3 to 5 August 2026, the MPC voted unanimously to hold the rate at 5.25 per cent once more and retained the neutral stance. The RBI projected real GDP growth of 6.7 per cent and consumer price inflation of 5.0 per cent for 2026-27. The repo rate had been lowered in several steps during 2025 before the pause began.\n\nThe central bank's growth projection was overtaken by official data on 31 August 2026. The National Statistical Office reported that India's real GDP grew 7.8 per cent in April-June 2026, the first quarter of 2026-27, against the RBI's own estimate of 7 per cent for the quarter. Nominal GDP rose 10.3 per cent to Rs 88.27 lakh crore. Gross value added grew 8.2 per cent, led by services, and gross fixed capital formation rose 11.9 per cent. The growth rate was lower than the upwardly revised 8.6 per cent recorded in the fourth quarter of 2025-26. ICRA raised its full-year forecast to 7.1 per cent from 6.7 per cent, though it flagged a poor monsoon and prolonged West Asia tensions as downside risks.\n\nThe MPC met again from 5 to 7 October 2026. Ahead of that meeting, most economists in polls expected the Committee to raise the repo rate by 25 basis points, which would be the first increase since February 2023.",
+ "sources": [
+  "https://www.outlookbusiness.com/budget/budget-2026-fm-sitharaman-raises-capex-for-fy27-to-122-lakh-crore",
+  "https://arunachaltimes.in/article/fm-presents-rs-53-47-lakh-crore-budget",
+  "https://www.wionews.com/india-news/-i-have-fulfilled-my-commitment-indian-fm-pegs-fiscal-deficit-at-4-3-of-gdp-for-fy2026-27-1769927559817/amp",
+  "https://www.businesstoday.in/amp/latest/economy/story/rbi-mpc-why-was-the-repo-rate-not-changed-gov-malhotra-calls-decision-appropriate-514917-2026-02-06",
+  "https://www.scconline.com/blog/?p=392925",
+  "https://newsonair.gov.in/rbi-projects-gdp-growth-to-6-7-in-this-fiscal-year/",
+  "https://newsonair.gov.in/indias-real-gdp-growth-rate-rises-to-7-8-in-first-quarter-of-fy-2026-27/",
+  "https://www.icra.in/Research/ViewResearchReport/q1-fy2027-gdp-growth-of-7-8-surprised-on-the-upside-fy2027-expansion-forecast-raised-to-7-1-from-6-7-indicated-earlier/7094",
+  "https://www.outlookmoney.com/banking/rbi-mpc-october-2026-key-things-to-know-ahead-of-policy-decision"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "The Union Budget presented in Parliament each year is constitutionally described as the 'annual financial statement'. Under which Article of the Constitution is it laid before Parliament?",
+   "options": [
+    "Article 110",
+    "Article 112",
+    "Article 114",
+    "Article 265"
+   ],
+   "answer": 1,
+   "explanation": "Article 112(1) requires the President to cause an estimate of receipts and expenditure for each financial year, the annual financial statement, to be laid before both Houses.",
+   "source": "https://www.indiabudget.gov.in/doc/Key_to_Budget_Document_2025.pdf ; https://rbi.org.in/SCRIPTS/PublicationsView.aspx?id=9490"
+  },
+  {
+   "type": "direct",
+   "q": "The National Statistical Office, which released the Q1 2026-27 GDP estimate, functions under which Union Ministry?",
+   "options": [
+    "Ministry of Finance",
+    "NITI Aayog",
+    "Ministry of Statistics and Programme Implementation",
+    "Ministry of Commerce and Industry"
+   ],
+   "answer": 2,
+   "explanation": "GDP estimates are released by the NSO under the Ministry of Statistics and Programme Implementation (MoSPI).",
+   "source": "https://www.thequint.com/amp/story/news/business/mospi-orders-revamp-merges-nsso-cso-into-nso ; https://thewire.in/government/nsso-cso-merger-what-will-the-centralisation-of-indian-statistics-bring-with-it"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "Salaries of Supreme Court judges are not subject to a vote by the Lok Sabha when the Budget is passed.",
+   "reason": "Such expenditure is charged on the Consolidated Fund of India.",
+   "answer": 0,
+   "explanation": "Salaries of Supreme Court judges, along with debt charges and certain other items, are charged on the Consolidated Fund and are not put to a vote in the Lok Sabha; so R correctly explains A.",
+   "source": "https://www.indiabudget.gov.in/doc/Key_to_Budget_Document_2025.pdf ; https://rbi.org.in/SCRIPTS/PublicationsView.aspx?id=9490"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. The Monetary Policy Committee has six members, three of whom are from the Reserve Bank of India including the Governor as ex-officio chairperson.",
+    "II. The inflation target for the MPC is set by the Central Government in consultation with the Reserve Bank, at 4 per cent with an upper tolerance level of 6 per cent and a lower level of 2 per cent."
+   ],
+   "answer": 2,
+   "explanation": "Both are correct: Section 45ZB provides for a six-member MPC with three RBI members and three government-appointed external members, and the target notified under Section 45ZA is 4 per cent with a 2 to 6 per cent band.",
+   "source": "https://www.business-standard.com/amp/article/news-cm/monetary-policy-committee-constitution-under-the-reserve-bank-of-india-act-1934-notified-116092900939_1.html ; https://www.scconline.com/blog/post/2016/10/01/constitution-of-monetary-policy-committee-under-the-reserve-bank-of-india-act-1934-notified ; https://www.outlookmoney.com/banking/rbi-to-maintain-4-per-cent-inflation-target-until-2031-centre"
+  },
+  {
+   "type": "statement_multi",
+   "statements": [
+    "I. The Fiscal Responsibility and Budget Management Act was enacted in 2003.",
+    "II. The Act, as amended in 2018, set a target of limiting the Centre's fiscal deficit to 3 per cent of GDP.",
+    "III. The 2018 amendment allows deviation from the fiscal deficit target by up to 1 percentage point of GDP under an escape clause."
+   ],
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "All of the above"
+   ],
+   "answer": 0,
+   "explanation": "The FRBM Act dates from 2003 (Act 39 of 2003) and, as amended, sets a 3 per cent of GDP fiscal deficit target; the escape clause permits a deviation of up to 0.5 percentage points (one-half per cent), not 1, so III is incorrect.",
+   "source": "https://www.casemine.com/act/in/5a979dbf4a93263ca60b736e ; https://cag.gov.in/uploads/PressRelease/PR-Press-Release-of-Report-no-3-in-English-0687e245649c392-56340173.pdf"
+  }
+ ]
+}

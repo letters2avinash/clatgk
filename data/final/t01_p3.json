@@ -1,0 +1,94 @@
+{
+ "title": "Article 21 Widened: Menstrual Health and Passive Euthanasia",
+ "topic_tags": [
+  "Supreme Court",
+  "Article 21",
+  "Judgments 2026",
+  "Constitution"
+ ],
+ "text": "Two rulings delivered by the Supreme Court in the first quarter of 2026 have widened the reach of the right to life in different directions, and Justice J.B. Pardiwala sat on the bench in both.\n\nOn 30 January 2026, a bench of Justices Pardiwala and R. Mahadevan decided Dr. Jaya Thakur v. Government of India. The petition, filed in 2022 by social activist Jaya Thakur, had sought free sanitary pads for girls in classes 6 to 12 and separate toilets for girls in schools. The Court held that menstrual health is part of the right to life under Article 21, and that poor menstrual hygiene management is not merely a sanitation problem but a violation of the fundamental rights to equality, dignity and education. It said the absence of gender-segregated toilets and menstrual hygiene facilities is a constitutional barrier to schooling for adolescent girls, engaging Articles 14, 21 and 21A. The bench directed the Union, the states and the Union Territories to ensure that schools, whether government-run, aided or private, provide free sanitary napkins, maintain functional, gender-segregated toilets and arrange for the safe disposal of menstrual waste. Private schools that fail to comply risk derecognition.\n\nOn 11 March 2026, a different bench of Justices Pardiwala and K.V. Viswanathan decided Harish Rana v. Union of India. Rana, reported to be about 31 or 32 years old, had been in a persistent vegetative state for over thirteen years after a fall from the fourth floor of his accommodation in 2013 left him with a severe brain injury. His parents had first approached the Delhi High Court, which declined relief on the ground that he was not on mechanical life support and was not terminally ill. They then came to the Supreme Court, which initially gave them liberty to return if further directions were needed. Two medical boards constituted by the Court later concluded that he had no chance of recovery, and the bench reserved its judgment on 15 January 2026.\n\nThe Court allowed withdrawal of life-sustaining treatment, including clinically assisted nutrition and hydration, which it treated as medical treatment rather than basic nursing care. It applied the \"best interest\" principle and the guidelines flowing from Common Cause v. Union of India, as modified in 2023. It waived the usual 30-day reconsideration period because all stakeholders agreed, and directed AIIMS, New Delhi, to admit him to its palliative care department. It also asked the Union government to consider comprehensive legislation on passive euthanasia. He was shifted on 14 March to the palliative care unit at the Dr B.R. Ambedkar Institute Rotary Cancer Hospital, AIIMS, where a team led by Dr Seema Mishra supervised the gradual withdrawal of treatment. Rana died on 24 March 2026. Reports describe it as the first such case of passive euthanasia allowed by a court in India.\n\nTaken together, the judgments show the Court continuing to read Article 21 as more than mere animal existence, covering health, bodily autonomy and dignity from the school toilet to the hospital bed.",
+ "sources": [
+  "https://thewire.in/gender/menstrual-health-isnt-just-hygiene-its-a-constitutional-right",
+  "https://www.onmanorama.com/news/india/2026/01/30/menstrual-health-constitutional-right.html",
+  "https://theindianlawyer.in/menstrual-health-recognised-as-a-fundamental-right-by-the-supreme-court/",
+  "https://en.wikipedia.org/wiki/Harish_Rana_v._Union_of_India",
+  "https://www.theweek.in/news/india/2026/03/11/euthanasia-laws-sc-implements-guidelines-calls-for-legislation.amp.html",
+  "https://www.tribuneindia.com/news/india/passive-euthanasia-sc-allows-withdrawal-of-life-support-to-32-year-old-in-vegetative-state-since-2013/",
+  "https://www.dtnext.in/news/national/harish-rana-indias-first-person-to-be-allowed-passive-euthanasia-dies-in-aiims",
+  "https://www.onmanorama.com/news/india/2026/03/24/passive-euthanasia-india-harish-rana-dies.html",
+  "https://www.etvbharat.com/en/bharat/sc-reserves-judgment-on-fathers-plea-seeking-passive-euthanasia-for-son-enn26011505296"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "The Jaya Thakur ruling stressed that menstrual hygiene facilities are linked to the education of girls. Which Article of the Constitution expressly permits the State to make special provisions for women and children despite the bar on discrimination?",
+   "options": [
+    "Article 15(3)",
+    "Article 16(4)",
+    "Article 14",
+    "Article 19(1)(g)"
+   ],
+   "answer": 0,
+   "explanation": "Article 15(3) says nothing in Article 15 prevents the State from making any special provision for women and children.",
+   "source": "https://en.wikipedia.org/wiki/Article_15_of_the_Constitution_of_India ; https://mksy.up.gov.in/women_welfare/pdf/act3.pdf"
+  },
+  {
+   "type": "direct",
+   "q": "Which seven-judge Supreme Court decision, with a leading opinion by Justice Bhagwati, read the words 'procedure established by law' in Article 21 as requiring a procedure that is fair, just and reasonable, and so underpins the wide modern reading of the right to life?",
+   "options": [
+    "Maneka Gandhi v. Union of India",
+    "A.K. Gopalan v. State of Madras",
+    "Kesavananda Bharati v. State of Kerala",
+    "Minerva Mills v. Union of India"
+   ],
+   "answer": 0,
+   "explanation": "Maneka Gandhi (25 January 1978) held procedure under Article 21 must be fair, just and reasonable, linking Articles 14, 19 and 21 and departing from Gopalan; the lead opinion was by Justice Bhagwati.",
+   "source": "https://en.wikipedia.org/wiki/Maneka_Gandhi_v._Union_of_India ; https://legalfly.in/maneka-gandhi-v-union-of-india/"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "Before Article 21A existed, the Supreme Court in Unni Krishnan, J.P. v. State of Andhra Pradesh had read a right to free education for children up to a certain age into Article 21.",
+   "reason": "Article 21A was later inserted into the Constitution by the Eighty-sixth Amendment Act, 2002, and the RTE Act 2009 is the law implementing it.",
+   "answer": 1,
+   "explanation": "Both statements are true, but the 2002 insertion of Article 21A and the 2009 RTE Act do not explain why the Court read the right into Article 21 in 1993; that was done through interpretation alongside Directive Principles (Articles 41, 45, 46).",
+   "source": "https://www.escr-net.org/caselaw/2006/unni-krishnan-jp-ors-v-state-andhra-pradesh-ors-cited-1993-air-217-1993-scr-1-594-1993-2 ; https://education.gov.in/rte"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Maneka Gandhi v. Union of India",
+    "II. Unni Krishnan v. State of Andhra Pradesh",
+    "III. Common Cause v. Union of India (Constitution Bench)",
+    "IV. Aruna Shanbaug v. Union of India"
+   ],
+   "list2": [
+    "A. 1978",
+    "B. 1993",
+    "C. 2011",
+    "D. 2018"
+   ],
+   "options": [
+    "I-A, II-B, III-D, IV-C",
+    "I-B, II-A, III-D, IV-C",
+    "I-A, II-B, III-C, IV-D",
+    "I-A, II-C, III-D, IV-B"
+   ],
+   "answer": 0,
+   "explanation": "Maneka Gandhi 1978; Unni Krishnan 1993; Aruna Shanbaug 2011; Common Cause 2018 (9 March 2018).",
+   "source": "https://www.scobserver.in/court-case/euthanasia-living-wills-and-the-right-to-die-with-dignity ; https://nhrc.nic.in/node/111549 ; https://en.wikipedia.org/wiki/Maneka_Gandhi_v._Union_of_India ; https://www.escr-net.org/caselaw/2006/unni-krishnan-jp-ors-v-state-andhra-pradesh-ors-cited-1993-air-217-1993-scr-1-594-1993-2"
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. The Common Cause judgment on the right to die with dignity was delivered by a five-judge Constitution Bench.",
+    "2. A.K. Gopalan v. State of Madras treated the fundamental rights as separate, watertight compartments, an approach the Supreme Court later departed from.",
+    "3. In Unni Krishnan, the Supreme Court held that the right to education up to a professional degree flows directly from Article 21.",
+    "4. In Aruna Shanbaug v. Union of India, the Supreme Court allowed passive euthanasia in certain circumstances under court monitoring."
+   ],
+   "mode": "incorrect",
+   "answer": 0,
+   "explanation": "Only statement 3 is incorrect: Unni Krishnan held free education until age 14 flows from Article 21, and there is no such right to a professional degree. Statements 1, 2 and 4 are correct.",
+   "source": "https://www.escr-net.org/caselaw/2006/unni-krishnan-jp-ors-v-state-andhra-pradesh-ors-cited-1993-air-217-1993-scr-1-594-1993-2 ; https://nhrc.nic.in/node/111549 ; https://www.scobserver.in/court-case/euthanasia-living-wills-and-the-right-to-die-with-dignity"
+  }
+ ]
+}

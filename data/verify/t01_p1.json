@@ -1,0 +1,334 @@
+{
+ "passage_file": "data/passages/pilot_1.json",
+ "passage_claims": [
+  {
+   "claim": "Budget 2026-27 presented 1 Feb 2026 (Sunday), ninth consecutive Budget",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "outlookindia.com",
+    "yourstory.com"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "First Budget on a Sunday in independent India",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "outlookindia.com"
+   ],
+   "note": "another outlet says 'first in over a decade'; removed"
+  },
+  {
+   "claim": "FD target 4.3% FY27, RE 4.4% FY26, commitment fulfilled",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "wionews.com",
+    "thequint.com"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Capex Rs 12.2 lakh crore",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "outlookbusiness.com",
+    "scroll.in"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Total expenditure Rs 53.47 lakh crore",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "arunachaltimes.in",
+    "greaterkashmir.com",
+    "upstox.com"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "13.6% of GDP",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "removed"
+  },
+  {
+   "claim": "Debt 55.6% GDP; ~50% by Mar 2031",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "dailypioneer.com",
+    "orissapost.com"
+   ],
+   "note": "PTI copy plus prep-site quoting budget; moderately strong"
+  },
+  {
+   "claim": "6 Feb 2026 hold at 5.25% neutral; SDF 5.00, MSF/Bank 5.50",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "businesstoday.in",
+    "sahi.com"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "5 Jun 2026 hold, crude, monsoon",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "iasgyan.in",
+    "thetaxcorp.in"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Weaker rupee as June reason",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "removed"
+  },
+  {
+   "claim": "3-5 Aug 2026 unanimous hold neutral",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "scconline.com",
+    "jmfinancialservices.in"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "RBI Aug projections GDP 6.7, CPI 5.0",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "newsonair.gov.in",
+    "theprint.in",
+    "hdfcsky.com"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "125 bp cumulative cut in 2025",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [],
+   "note": "only aggregated summaries; reworded to 'several steps during 2025'"
+  },
+  {
+   "claim": "Q1 GDP 7.8% released 31 Aug 2026 by NSO; RBI est 7.0",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "newsonair.gov.in",
+    "outlookbusiness.com",
+    "icra.in"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Reuters poll median 7.1%",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [],
+   "note": "removed (Moneycontrol 7.3 also cited)"
+  },
+  {
+   "claim": "Real GDP Rs 81.36 lakh crore",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "deccanchronicle.com"
+   ],
+   "note": "removed"
+  },
+  {
+   "claim": "Nominal GDP +10.3% to Rs 88.27 lakh crore",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "5paisa.com",
+    "deccanchronicle.com"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "GVA 8.2%, services-led; GFCF 11.9%",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "bajajbroking.in",
+    "icra.in",
+    "businesstoday.in"
+   ],
+   "note": "'public investment feeding through' removed"
+  },
+  {
+   "claim": "Q4 FY26 growth revised to 8.6%",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "icra.in",
+    "outlookbusiness.com"
+   ],
+   "note": "added; ICRA primary"
+  },
+  {
+   "claim": "ICRA FY27 forecast 7.1 from 6.7; risks poor monsoon, West Asia",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "icra.in"
+   ],
+   "note": "primary ICRA; no independent second publisher read"
+  },
+  {
+   "claim": "MPC met 5-7 Oct 2026; polls leaned to 25bp hike, first since Feb 2023",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "outlookmoney.com",
+    "goodreturns.in",
+    "business-standard.com poll (via preview)"
+   ],
+   "note": "outcome NOT found; reworded from 'divided'"
+  },
+  {
+   "claim": "Inflation target 4% +/-2% re-notified 25 Mar 2026 for 2026-31",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "drishtiias.com",
+    "outlookmoney.com",
+    "goodreturns.in"
+   ],
+   "note": "not used in passage"
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "FIX",
+   "my_answer": "Article 112",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "indiabudget.gov.in Key to Budget Document",
+    "rbi.org.in Annual Financial Statement"
+   ],
+   "fix": null,
+   "note": "Stem reworded to 'laid before Parliament' (both-Houses wording not directly confirmed). Giveaway risk from Q3/Q4 removed by dropping Q4 and the 112(3) cite."
+  },
+  {
+   "index": 2,
+   "verdict": "OK",
+   "my_answer": "MoSPI",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "thequint.com",
+    "thewire.in",
+    "newsonair.gov.in"
+   ],
+   "fix": null,
+   "note": "NSO formed 2019 by merger of CSO and NSSO within MoSPI."
+  },
+  {
+   "index": 3,
+   "verdict": "FIX",
+   "my_answer": "A true, R true, explains",
+   "key_answer_correct": true,
+   "truth_values": {
+    "A": true,
+    "R": true
+   },
+   "issues": [
+    "GIVEAWAY"
+   ],
+   "sources": [
+    "indiabudget.gov.in",
+    "rbi.org.in"
+   ],
+   "fix": null,
+   "note": "Clause number 112(3) not confirmable (constitution site unreachable); removed from reason/explanation, which also removes the Q1 giveaway."
+  },
+  {
+   "index": 4,
+   "verdict": "DROP",
+   "my_answer": "I-B,II-A,III-D,IV-C",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "GIVEAWAY",
+    "WEAK_SOURCE"
+   ],
+   "sources": [
+    "indiabudget.gov.in"
+   ],
+   "fix": null,
+   "note": "Pairings are factually right (112/113, 4%+/-2%, 45ZB) but the match reveals Q1 (Art 112) and Q5 II (target band); source cited was only a constitution site that could not be read. Dropped."
+  },
+  {
+   "index": 5,
+   "verdict": "FIX",
+   "my_answer": "Both",
+   "key_answer_correct": true,
+   "truth_values": {
+    "I": true,
+    "II": true
+   },
+   "issues": [
+    "WEAK_SOURCE"
+   ],
+   "sources": [
+    "business-standard.com",
+    "scconline.com",
+    "outlookmoney.com"
+   ],
+   "fix": null,
+   "note": "Statement II reworded: 'CPI Combined' not confirmed, so removed; set by Centre in consultation with RBI confirmed."
+  },
+  {
+   "index": 6,
+   "verdict": "FIX",
+   "my_answer": "I and II only",
+   "key_answer_correct": true,
+   "truth_values": {
+    "I": true,
+    "II": true,
+    "III": false
+   },
+   "issues": [
+    "AMBIGUOUS"
+   ],
+   "sources": [
+    "casemine.com (Act text)",
+    "cag.gov.in",
+    "anantamias.com"
+   ],
+   "fix": null,
+   "note": "Escape clause one-half per cent confirmed in Act text; III false. II reworded since the 3% sat in 2004 Rules originally; now 'as amended in 2018'."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "the first time a Budget was delivered on that day in independent India",
+   "new": "",
+   "reason": "single-source"
+  },
+  {
+   "old": "or 13.6 per cent of GDP",
+   "new": "",
+   "reason": "unverified"
+  },
+  {
+   "old": "a weaker rupee",
+   "new": "",
+   "reason": "unconfirmed"
+  },
+  {
+   "old": "cumulative 125 basis points",
+   "new": "several steps",
+   "reason": "summary-only"
+  },
+  {
+   "old": "Reuters poll median of 7.1 per cent; Rs 81.36 lakh crore real GDP; 'public investment feeding through'",
+   "new": "removed",
+   "reason": "single source / interpretation"
+  },
+  {
+   "old": "Economists were divided",
+   "new": "most economists in polls expected a 25bp hike",
+   "reason": "polls confirmed"
+  }
+ ],
+ "summary": "6 questions checked; Q4 dropped (giveaway to Q1/Q5), Q1,3,5,6 reworded, Q2 ok. Final has 5 questions, no match type. 22 searches used; Oct 2026 MPC outcome not found; Art 112(3) clause number and 'CPI Combined' not confirmable."
+}
