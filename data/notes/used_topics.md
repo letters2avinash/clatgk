@@ -20,3 +20,6 @@ T09P3 (Batch 2, Polity & governance, no clear cluster in 5-25 Mar 2026; widened 
 T09P2 (Science, space & tech, 1-21 Jan 2026): Portugal joins Artemis Accords as 60th signatory (signed 11 Jan 2026, Lisbon ceremony); static GK on Accords origin, NATO 1949, Artemis II crew/launch.
 T09P1 (Appointments & obituaries, 20 Aug-9 Sep 2026): Centre notifies Chief Justices for eight High Courts on 5 Sep 2026 (after Collegium recommendations in Aug 2026); static GK on Arts 217, 222, 129, 226, 227, 233, 214, 216, 218, 124.
 T09P3 (Polity & governance, widened to 13-18 Apr 2026; 131st Amendment defeat): draft written; status complete; writer_flags attached.
+T10P1 (Schemes, reports & indices, 1-8 Oct 2026 / Sep-Oct 2026): Cabinet approves Green Energy Corridor Phase-III, 30 Sep 2026 (Rs 1,86,405 cr; CFA Rs 54,082 cr; intra-state transmission + 50 GWh BESS; STUs implementing).
+T09P4 (Awards, books & culture, 7-27 May 2026): Pulitzer Prizes 2026 announced 4 May 2026 (Drama: Liberation; Fiction: Angel Down; History: We the People; journalism winners); static GK on Columbia/Pulitzer, Joseph Pulitzer, Goncourt, Booker, Sahitya Akademi.
+T09P5 (Economy & Budget, 9-29 Jul 2026): Cabinet 15 Jul 2026 Semicon 2.0 (Rs 1,27,500 cr) + Mobile Phone Manufacturing Scheme (Rs 62,500 cr); static GK on ISM 1.0, Arts 265/74/75/109/112/266/267/148/280.
