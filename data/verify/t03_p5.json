@@ -1,0 +1,265 @@
+{
+  "passage_file": "data/draft/t03_p5.json",
+  "passage_claims": [
+    {
+      "claim": "Gen V N Sharma died Fri 31 Jul 2026; younger brother of Maj Somnath Sharma; COAS 1988-90",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://theprint.in/india/former-army-chief-gen-vishwa-nath-sharma-passes-away-at-96/3002369/",
+        "https://newsonair.gov.in/defence-minister-rajnath-singh-expresses-grief-over-demise-of-former-coas-general-vishwa-nath-sharma/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Place of death New Delhi",
+      "verdict": "UNVERIFIABLE",
+      "sources": [],
+      "note": "removed"
+    },
+    {
+      "claim": "Rajnath Singh expressed grief",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://newsonair.gov.in/defence-minister-rajnath-singh-expresses-grief-over-demise-of-former-coas-general-vishwa-nath-sharma/",
+        "https://www.newkerala.com/news/a/rajnath-singh-condoles-demise-former-army-chief-general-236.htm"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Last rites Brar Square, Delhi Cantonment, 1 Aug 2026, full military honours",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://newsonair.gov.in/indian-army-bids-farewell-to-former-army-chief-general-v-n-sharma-with-full-military-honours/",
+        "https://www.lifeofsoldiers.com/2026/08/03/indian-army-bids-farewell-to-general-vn-sharma-former-chief-of-the-army-staff-with-full-military-honours/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "NCM notification 16 Jul 2026: Grewal Chair, S. Munawari Begum Vice-Chair, Glenn E. Souza Ticlo Member, 3 yrs",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.scconline.com/blog/?p=390725",
+        "https://www.taxheal.com/?p=136651"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Grewal assumed charge in New Delhi 21 Jul 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://newsonair.gov.in/commission-remains-committed-to-addressing-genuine-grievances-chairman-ncm/",
+        "https://psuwatch.com/amp/story/bureaucracywatch/harjit-singh-grewal-assumes-charge-as-chairman-of-national-commission-for-minorities"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Ravi Agrawal CBDT reappointment, ACC 30 Jun, 1988 IRS, six months from 1 Jul to Dec 2026, official quote on continuity",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.deccanherald.com/india/centre-extends-cbdt-chairman-ravi-agrawals-tenure-by-6-months-4057153",
+        "https://www.outlookbusiness.com/news/centre-extends-cbdt-chairman-ravi-agrawals-tenure-by-6-months"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Anurag Jain NITI CEO, ACC 22 Jul, 1989 MP cadre, two years, was MP Chief Secretary",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.etvbharat.com/en/bharat/anurag-jain-appointed-as-niti-aayog-ceo-enn26072208226",
+        "https://www.drishtiias.com/state-pcs-current-affairs/anurag-jain-appointed-ceo-of-niti-aayog/print_manually"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Ashok Barnwal 1991 batch MP cadre took over as MP CS late July (24 Jul)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.thehitavada.com//Encyc/2026/7/24/senior-ias-officer-ashok-barnwal-assumes-charge-as-36th-chief-secy-of-mp.html",
+        "https://www.freepressjournal.in/bhopal/ashok-barnwal-takes-over-as-chief-secretary-of-the-state-jain-relieved"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Misri extension 1 yr to 14 Jul 2027 (orig. 14 Jul 2026), 1989 IFS, continuity",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://ianslive.in/foreign-secretary-vikram-misris-tenure-extended-by-a-year-amid-global-challenges--20260701202308",
+        "https://www.etvbharat.com/en/bharat/foreign-secy-vikram-misri-gets-extension-till-july-14-2027-enn26070106724",
+        "https://www.businesstoday.in/amp/india/story/vikram-misri-meet-indias-new-foreign-secretary-a-1989-batch-ifs-officer-known-as-china-expert-435149-2024-06-29"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Aglawe succeeded Asit Saha as GSI DG, first woman in 176 years",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://deccanherald.com/india/varsha-ashok-aglawe-becomes-first-woman-gsi-director-general-in-176-year-history-4095124",
+        "https://www.drishtiias.com/state-pcs-current-affairs/varsha-ashok-aglawe-becomes-first-woman-director-general-of-gsi"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Aglawe took over 'at the end of July 2026'",
+      "verdict": "UNVERIFIABLE",
+      "sources": [],
+      "note": "exact date not given; removed"
+    },
+    {
+      "claim": "Justice Yogesh Khanna NCLAT officiating Chair 3 months from 5 Jul 2026 by MCA; Bhushan term ended 4 Jul",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.scconline.com/blog/post/2026/07/09/justice-yogesh-khanna-appointment-nlclat-officiating-chairperson/",
+        "https://www.barandbench.com/news/law-policy/justice-yogesh-khanna-appointed-nclat-officiating-chairperson"
+      ],
+      "note": ""
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "DROP",
+      "my_answer": "NCM Act 1992 (confirmed: indiacode, casemine, iasgyan)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "GIVEAWAY"
+      ],
+      "sources": [
+        "https://www.indiacode.nic.in/handle/123456789/1927"
+      ],
+      "fix": null,
+      "note": "Stem gives year 1992 (only one 1992 option) and option repeats body name; too easy; dropped to keep 6 distinct"
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "Six",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://vajiramandravi.com/current-affairs/minority-communities-in-india/",
+        "https://eparlib.nic.in/bitstream/123456789/770038/1/AU4276.pdf"
+      ],
+      "fix": null,
+      "note": "Lok Sabha answers (official) say six notified; Jains 2014"
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "Article 53",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-53-executive-power-of-the-union/",
+        "https://future.indiankanoon.org/doc/1597349"
+      ],
+      "fix": null,
+      "note": "Constitution text, Art 53(2)"
+    },
+    {
+      "index": 4,
+      "verdict": "FIX",
+      "my_answer": "A true, R false (index 2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false
+      ],
+      "issues": [
+        "UNSUPPORTED"
+      ],
+      "sources": [
+        "https://dor.gov.in/about-department",
+        "https://en.wikipedia.org/wiki/Central_Board_of_Direct_Taxes"
+      ],
+      "fix": "Explanation trimmed: removed unchecked Art 30 gloss; source updated",
+      "note": "Dept of Revenue site: statutory Boards; 1963 Act. Not constitutional. Independence of sources: dor.gov.in plus Wikipedia/Vajiram"
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "I-C, II-A, III-D, IV-B",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-324-superintendence-direction-and-control-of-elections-to-be-vested-in-an-election-commission/",
+        "https://ncst.nic.in/page/constitution-eighty-ninth-amendment-act-2003",
+        "https://future.indiankanoon.org/doc/559924"
+      ],
+      "fix": "Sources replaced with constitution text and NCST (official); exam-prep sites removed",
+      "note": "Art 263 Inter-State Council, 280 Finance Commission, 324 ECI, 338 NCSC confirmed in constitutional text. Other options each wrong"
+    },
+    {
+      "index": 6,
+      "verdict": "DROP",
+      "my_answer": "Both true (index 2): constitutionofindia.net Art 76(3),(4) text per search",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-76-attorney-general-for-india/"
+      ],
+      "fix": null,
+      "note": "Writer-flagged; fact appears right but only one primary text was reached (fetch blocked); cited sources were exam-prep. Dropped also for overlap with Q7 (pleasure of President)"
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://haryanarajbhavan.gov.in/?p=6736",
+        "https://vajiramandravi.com/quest-upsc-notes/governor"
+      ],
+      "fix": "Art 155/156/157 text matched via search: warrant under hand and seal; pleasure; 35 years",
+      "note": "Official Raj Bhavan page plus Vajiram; II reads 'subject to pleasure' so true"
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "Three correct (1,2,3 true; 4 false) -> index 2",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-66-election-of-vice-president/",
+        "https://future.indiankanoon.org/doc/317644",
+        "https://www.constitutionofindia.net/articles/article-93-the-speaker-and-deputy-speaker-of-the-house-of-the-people"
+      ],
+      "fix": "Sources replaced with constitution text",
+      "note": "Arts 66(1), 89, 93, 316 confirmed in text"
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "died in New Delhi on Friday, 31 July 2026",
+      "new": "died on Friday, 31 July 2026",
+      "reason": "Place of death not confirmed by sources (only the cremation in Delhi is)"
+    },
+    {
+      "old": "succeeded Asit Saha as Director General of the Geological Survey of India at the end of July 2026, becoming",
+      "new": "succeeded Asit Saha as Director General of the Geological Survey of India, becoming",
+      "reason": "Exact assumption date not stated by sources"
+    }
+  ],
+  "summary": "25 searches used. 6 of 8 kept (2,3,4,5,7,8). Q1 dropped for giveaway; Q6 dropped as writer-flagged, weakly sourced and overlapping Q7. Two passage details removed as unverifiable."
+}
