@@ -1,0 +1,211 @@
+{
+  "passage_file": "data/draft/t07_p2.json",
+  "passage_claims": [
+    {
+      "claim": "President Murmu presented SNA Fellowships and Akademi Puraskars for 2024 and 2025 at Vigyan Bhawan on 13 Aug 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.drishtiias.com/state-pcs-current-affairs/sangeet-natak-akademi-fellowship-and-awards-for-2024-2025-announced",
+        "https://www.gktoday.in/president-presents-sangeet-natak-akademi-awards-for-2024-and-2025/"
+      ],
+      "note": "Also in search summaries of newsonair/DD News; official pages unreachable."
+    },
+    {
+      "claim": "115 artists honoured (7 Fellows + 108 awardees)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.drishtiias.com/state-pcs-current-affairs/sangeet-natak-akademi-fellowship-and-awards-for-2024-2025-announced",
+        "https://www.sanskritiias.com/current-affairs/sangeet-natak-akademi-fellowship-and-awards-20242025-president-to-honour-115-performing-artists"
+      ],
+      "note": "One source said 108; reconciles with 7 Fellows."
+    },
+    {
+      "claim": "Seven Fellows with the named seven",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.drishtiias.com/state-pcs-current-affairs/sangeet-natak-akademi-fellowship-and-awards-for-2024-2025-announced",
+        "https://www.sanskritiias.com/current-affairs/sangeet-natak-akademi-fellowship-and-awards-20242025-president-to-honour-115-performing-artists"
+      ],
+      "note": "Names matched across searches; no official list read."
+    },
+    {
+      "claim": "Fellow Rs 3 lakh, Puraskar Rs 1 lakh, Tamrapatra and Angavastram",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.onmanorama.com/entertainment/entertainment-news/2024/02/28/sangeet-nataka-akademi-awards-fellowships-announced-bombay-jayashri.html",
+        "https://www.drishtiias.com/state-pcs-current-affairs/sangeet-natak-akademi-fellowship-and-awards-for-2024-2025-announced"
+      ],
+      "note": "Consistent across cycles."
+    },
+    {
+      "claim": "Disciplines: Hindustani, Carnatic, Bharatanatyam, Kathak, theatre",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.drishtiias.com/state-pcs-current-affairs/sangeet-natak-akademi-fellowship-and-awards-for-2024-2025-announced",
+        "https://www.mumbaitheatreguide.com/dramas/Articles/26/jun/sangeet-natak-akademi-awards-2024-and-2025-theatre-awardees-announced.asp"
+      ],
+      "note": "2024 list names these."
+    },
+    {
+      "claim": "Puppetry, Nautanki, Sambalpuri, Kalbeliya among disciplines honoured",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [],
+      "note": "Only generic mentions; no awardee confirmed. Deleted."
+    },
+    {
+      "claim": "SNA is the national academy for music, dance and drama",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sangeet_Natak_Akademi",
+        "https://vajiramandravi.com/current-affairs/sna/"
+      ],
+      "note": ""
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Ministry of Culture",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sangeet_Natak_Akademi",
+        "https://journalsofindia.com/sangeet-natak-akademi/?print=pdf"
+      ],
+      "fix": null,
+      "note": "Created 1952 by Ministry of Education resolution but now under Culture; present tense stem fine."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "Lalit Kala Akademi",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://lalitkala.gov.in/about",
+        "https://drishtiias.com/daily-updates/daily-news-analysis/lalit-kala-akademi-awards"
+      ],
+      "note": "5 Aug 1954 confirmed."
+    },
+    {
+      "index": 3,
+      "verdict": "FIX",
+      "my_answer": "1969",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "EXPLANATION_MISMATCH"
+      ],
+      "sources": [
+        "https://www.indianetzone.com/dadasaheb_phalke_award",
+        "https://presidentofindia.nic.in/press_releases/president-india-presents-71st-national-film-awards-confers-dadasaheb-phalke-award"
+      ],
+      "fix": "Explanation reworded to drop 'presented in the same year' (a source dates the ceremony 1970).",
+      "note": "Applied in final."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "B (both true, R does not explain A)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.britannica.com/art/Jnanpith-Award",
+        "https://en.wikipedia.org/wiki/Jnanpith_Award"
+      ],
+      "fix": null,
+      "note": "Overall contribution since 1982; sponsor Bharatiya Jnanpith."
+    },
+    {
+      "index": 5,
+      "verdict": "DROP",
+      "my_answer": "II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://www.britannica.com/art/Jnanpith-Award",
+        "https://en.wikipedia.org/wiki/Saraswati_Samman"
+      ],
+      "fix": null,
+      "note": "Correct but overlaps Q4/Q7 (Jnanpith, Saraswati); culled for variety and thin Saraswati sourcing."
+    },
+    {
+      "index": 6,
+      "verdict": "DROP",
+      "my_answer": "Only two",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://www.indianetzone.com/dadasaheb_phalke_award",
+        "https://www.sahitya-akademi.gov.in/aboutus/about.jsp"
+      ],
+      "fix": null,
+      "note": "Correct but duplicates Q7 facts (Saraswati 1991, Sahitya 1954); culled as overlapping."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "I-B, II-A, III-D, IV-C",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://nsd.gov.in/delhi/",
+        "https://www.sahitya-akademi.gov.in/aboutus/about.jsp",
+        "https://www.britannica.com/art/Jnanpith-Award"
+      ],
+      "fix": null,
+      "note": "Saraswati 1991 is Wikipedia/exam-prep only; listed in residual."
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sangeet_Natak_Akademi_Fellowship",
+        "https://en.wikipedia.org/wiki/Raja_Harishchandra",
+        "https://scroll.in/reel/836441/here-is-what-went-into-the-making-of-the-first-indian-feature-film"
+      ],
+      "note": "Raja Harishchandra 1913; Devika Rani first Phalke recipient."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "theatre, puppetry, Nautanki, Sambalpuri and Kalbeliya.",
+      "new": "and theatre.",
+      "reason": "Unconfirmed disciplines; also reworded 'Kathak, theatre' to 'Kathak and theatre'."
+    }
+  ],
+  "writer_flags_check": "All 11 flags examined: purse, names, 115/date, Q1-Q8 sourcing now covered by claims/questions above; remaining thin items in residual.",
+  "summary": "Six of eight kept (Q1,2,3,4,7,8). Q5 and Q6 dropped for overlap with Q4/Q7 and thin Saraswati sourcing. Unconfirmed discipline list trimmed from passage; searches used about 20."
+}

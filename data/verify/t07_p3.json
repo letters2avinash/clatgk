@@ -1,0 +1,207 @@
+{
+  "passage_file": "data/draft/t07_p3.json",
+  "passage_claims": [
+    {
+      "claim": "Union Cabinet approved BHAVYA Rasayan on 24 July 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-scheme-of-chemical-parks-bharat-audyogik-vikas-yojana-rasayan-bhavya-rasayan/",
+        "https://www.governancenow.com/news/regular-story/cabinet-approves-scheme-of-chemical-parks"
+      ],
+      "note": "Some prep sites date it 25 or 29 July (publication dates); PIB-derived outlets say 24 July."
+    },
+    {
+      "claim": "Full name Bharat Audyogik Vikas Yojana Rasayan",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-scheme-of-chemical-parks-bharat-audyogik-vikas-yojana-rasayan-bhavya-rasayan/",
+        "https://www.narendramodi.in/amp/category/news/bhavya-rasayan"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Outlay Rs 3,030 crore, three dedicated chemical parks",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-scheme-of-chemical-parks-bharat-audyogik-vikas-yojana-rasayan-bhavya-rasayan/",
+        "https://www.freepressjournal.in/business/cabinet-approves-3030-crore-bhavya-rasayan-scheme-to-set-up-3-chemical-parks"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Five years, FY 2026-27 to FY 2030-31",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.drishtiias.com/daily-updates/daily-news-analysis/bhavya-rasayan-scheme",
+        "https://vajiramandravi.com/current-affairs/bhavya-rasayan-scheme/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Rs 3,000 crore common infrastructure and basic utilities; Rs 30 crore administrative expenditure",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-scheme-of-chemical-parks-bharat-audyogik-vikas-yojana-rasayan-bhavya-rasayan/",
+        "https://www.drishtiias.com/daily-updates/daily-news-analysis/bhavya-rasayan-scheme",
+        "https://www.outlookbusiness.com/economy-and-policy/cabinet-clears-3030-crore-bhavya-rasayan-scheme-to-build-three-mega-chemical-parks"
+      ],
+      "note": "Resolves writer flag 2: now seen in PIB-derived text plus others (via search summaries)."
+    },
+    {
+      "claim": "Parks provide common infrastructure and basic utilities to chemical units",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-scheme-of-chemical-parks-bharat-audyogik-vikas-yojana-rasayan-bhavya-rasayan/",
+        "https://www.drishtiias.com/daily-updates/daily-news-analysis/bhavya-rasayan-scheme"
+      ],
+      "note": ""
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "DROP",
+      "my_answer": "Art 114(3) is the keyed answer, but Art 266(3) also bars appropriation from the Consolidated Fund except in accordance with law",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "AMBIGUOUS"
+      ],
+      "sources": [
+        "https://vajiramandravi.com/current-affairs/article-114-of-indian-constitution/",
+        "https://forumias.com/blog/?p=161365"
+      ],
+      "fix": null,
+      "note": "Option Article 266 is defensible via 266(3); Art 114(3) text itself not seen in snippets."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "Article 282 (index 3)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-282-expenditure-defrayable-by-the-union-or-a-state-out-of-its-revenues/",
+        "https://www.writinglaw.com/article-282-constitution-of-india/",
+        "https://vidhijudicial.com/article-282-of-the-constitution-of-india.html"
+      ],
+      "fix": null,
+      "note": "Confirmed by constitutionofindia.net, writinglaw, vidhijudicial; distractors wrong."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "Prime Minister (index 1)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.writinglaw.com/article-74-constitution-of-india/",
+        "https://aaptaxlaw.com/constitution-of-india/article-74-75-constitution-council-of-ministers-to-aid-and-advise-president-other-provisions-as-to-ministers-article-74-75-of-constitution-of-india-1949.html",
+        "https://www.law4u.in/top-answer/4598/what-is-constitution-of-india-article-74"
+      ],
+      "fix": null,
+      "note": "Source field fixed: Wikipedia dropped (not independent)."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-D, II-C, III-A, IV-B (index 2)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.drishtijudiciary.com/to-the-point/ttp-constitution-of-india/article-279a-the-gst-council",
+        "https://www.drishtijudiciary.com/to-the-point/ttp-constitution-of-india/article-280-of-the-coi",
+        "https://blog.ipleaders.in/article-360-of-the-indian-constitution/",
+        "https://vajiramandravi.com/current-affairs/emergency-provisions-in-indian-constitution/"
+      ],
+      "fix": null,
+      "note": "Resolves writer flag 4 with Drishti Judiciary, ipleaders, Vajiram; sources updated."
+    },
+    {
+      "index": 5,
+      "verdict": "FIX",
+      "my_answer": "A true, R false (index 2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-116-votes-on-account-votes-of-credit-and-exceptional-grants/",
+        "https://future.indiankanoon.org/doc/436447",
+        "https://www.icicidirect.com/union-budget/articles/what-is-vote-on-account"
+      ],
+      "fix": "Assertion reworded to 'The Lok Sabha can pass ...' since Art 116(1)(a) gives the power to the House of the People",
+      "note": "R false: Art 116 text has no CAG certification condition (absence claim; flag 5 stands as residual)."
+    },
+    {
+      "index": 6,
+      "verdict": "DROP",
+      "my_answer": "Both true (index 2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [
+        "OVERLAP"
+      ],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/",
+        "https://anantamias.com/article-110/?pdf=1",
+        "https://forumias.com/blog/article-110-of-indian-constitution/"
+      ],
+      "fix": null,
+      "note": "Both statements are true and confirmed (constitutionofindia.net Art 112, careers360/anantamias Art 110(4)); dropped to keep 6 with the best mix, as it overlaps Q5 (budget procedure)."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "All four (index 3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=114276&reg=48&lang=2",
+        "https://indiacode.nic.in/handle/123456789/2064?locale=en",
+        "https://dea.gov.in/acts-policies/fiscal-responsibility-and-budget-management-act-2003",
+        "https://future.indiankanoon.org/doc/393838",
+        "https://indiacode.nic.in/handle/123456789/2398?locale=en",
+        "https://www.vedantu.com/question-answer/rbi-establishment-692ed500fbf5b951d526ce4a"
+      ],
+      "fix": null,
+      "note": "NITI via PIB 114276 plus prep pages; FRBM indiacode + DEA (26 Aug 2003); Art 64 indiankanoon + writinglaw; RBI 1 Apr 1935 indiacode + prep."
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "I and III only (index 2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/schedules/list-ii-state-list",
+        "https://www.constitution.org/cons/india/shed072.html",
+        "https://www.livelaw.in/amp/news-updates/madras-high-court-education-42nd-constitutional-amendment-181607",
+        "https://thewire.in/education/parallel-jurisdictions-a-constitutional-innovation-to-break-the-state-vs-centre-logjam"
+      ],
+      "fix": null,
+      "note": "Resolves flag 6: entry 6 and entry 14 confirmed by constitutionofindia.net and constitution.org; education moved by 42nd Amendment per LiveLaw and The Wire."
+    }
+  ],
+  "passage_fixes": [],
+  "summary": "All passage claims confirmed by PIB-derived and independent outlets; no passage edits. Kept 6 of 8: dropped Q1 (Art 266(3) makes option 266 defensible) and Q6 (overlap with Q5, weakest for mix). Q5 assertion lightly reworded. Writer flags 1-7 each checked."
+}

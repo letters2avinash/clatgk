@@ -1,0 +1,147 @@
+{
+  "title": "BHAVYA Rasayan chemical parks scheme",
+  "topic_tags": [
+    "Economy & Budget",
+    "Union Cabinet",
+    "chemical parks",
+    "industrial scheme",
+    "BHAVYA Rasayan"
+  ],
+  "slot": "T07P3",
+  "status": "complete",
+  "word_count": 92,
+  "text": "The Union Cabinet on 24 July 2026 approved the Bharat Audyogik Vikas Yojana Rasayan (BHAVYA Rasayan) scheme, with an outlay of Rs 3,030 crore, to set up three dedicated chemical parks across the country. The scheme will be implemented over five years, from FY 2026-27 to FY 2030-31.\n\nOf the total outlay, Rs 3,000 crore is for developing common infrastructure and basic utilities inside the parks, and Rs 30 crore is for administrative expenditure. The parks are meant to provide common infrastructure and basic utilities to the chemical units located in them.",
+  "sources": [
+    "https://visionias.in/current-affairs/news-today/2026-07-25/schemes-in-news/cabinet-approves-bhavya-rasayan-scheme",
+    "https://www.ibef.org/news/cabinet-approves-bhavya-rasayan-scheme-for-chemical-parks",
+    "https://www.indiasnews.net/news/279207835/cabinet-approves-rs-3030-crore-bhavya-rasayan-scheme-to-set-up-three-chemical-parks",
+    "https://www.newsorbiter.com/cabinet-approves-bhavya-rasayan-scheme-chemical-parks/",
+    "https://clatgurukul.com/cabinet-clears-rs-3030-crore-bhavya-rasayan-scheme-for-3-chemical-parks/",
+    "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-scheme-of-chemical-parks-bharat-audyogik-vikas-yojana-rasayan-bhavya-rasayan/",
+    "https://www.governancenow.com/news/regular-story/cabinet-approves-scheme-of-chemical-parks",
+    "https://www.freepressjournal.in/business/cabinet-approves-3030-crore-bhavya-rasayan-scheme-to-set-up-3-chemical-parks"
+  ],
+  "writer_flags": [
+    "Period widened from 1-8 Oct 2026 (or Sep-Oct 2026) to 24 Jul 2026: four searches found no well-covered Sep-Oct 2026 economy cluster; widened within Economy & Budget as the brief allows.",
+    "Rs 3,000 crore infrastructure / Rs 30 crore admin split came from one aggregated search summary citing IBEF; pages could not be fetched to verify directly.",
+    "Dropped from passage as not double-verified: Centre grant up to Rs 1,000 crore per park, state minimum Rs 500 crore, 2,000-acre minimum land parcel, and the list of plug-and-play facilities.",
+    "Q4 Article 352 (National Emergency) sourced to a general compilation page (vajiramandravi); Article 360 to vhtc.org. Not double-sourced from two independent legal sites.",
+    "Q5 reason R (CAG certification requirement) is false from the text of Article 116; no source states the falsity directly.",
+    "Q8 statement III (public health and sanitation is a State List subject, entry 6) rests on one quiz-type source plus the constitutionofindia List II page; verify before release.",
+    "Q1 and Q2 article texts were checked via search snippets from constitutionofindia.net and secondary sites; constitutionofindia.net itself could not be fetched."
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Which Article of the Constitution enables the Union or a State to make grants for any public purpose, even where that purpose lies outside its legislative competence?",
+      "options": [
+        "Article 265",
+        "Article 275",
+        "Article 300",
+        "Article 282"
+      ],
+      "answer": 3,
+      "explanation": "Article 282 allows the Union or a State to make grants for any public purpose, even if the purpose is outside its legislative competence. Article 265 requires that taxes be levied only by law, Article 275 provides grants-in-aid to certain States, and Article 300 concerns suits by and against the government.",
+      "source": "https://www.constitutionofindia.net/articles/article-282-expenditure-defrayable-by-the-union-or-a-state-out-of-its-revenues/ ; https://www.writinglaw.com/article-282-constitution-of-india/ ; https://vidhijudicial.com/article-282-of-the-constitution-of-india.html"
+    },
+    {
+      "type": "direct",
+      "q": "Under Article 74 of the Constitution, a Council of Ministers headed by whom aids and advises the President in the exercise of his functions?",
+      "options": [
+        "Vice President",
+        "Prime Minister",
+        "Chief Justice of India",
+        "Finance Minister"
+      ],
+      "answer": 1,
+      "explanation": "Article 74 provides for a Council of Ministers with the Prime Minister at its head to aid and advise the President, who must act in accordance with that advice (subject to one reconsideration). The Vice President, Chief Justice of India and Finance Minister are not the head of the Council of Ministers.",
+      "source": "https://www.writinglaw.com/article-74-constitution-of-india/ ; https://aaptaxlaw.com/constitution-of-india/article-74-75-constitution-council-of-ministers-to-aid-and-advise-president-other-provisions-as-to-ministers-article-74-75-of-constitution-of-india-1949.html ; https://www.law4u.in/top-answer/4598/what-is-constitution-of-india-article-74"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Article 279A",
+        "II. Article 280",
+        "III. Article 352",
+        "IV. Article 360"
+      ],
+      "list2": [
+        "A. National Emergency",
+        "B. Financial Emergency",
+        "C. Finance Commission",
+        "D. GST Council"
+      ],
+      "options": [
+        "I-C, II-D, III-B, IV-A",
+        "I-A, II-B, III-C, IV-D",
+        "I-D, II-C, III-A, IV-B",
+        "I-B, II-A, III-D, IV-C"
+      ],
+      "answer": 2,
+      "explanation": "Article 279A establishes the GST Council (D), Article 280 provides for the Finance Commission (C), Article 352 provides for a National Emergency (A) and Article 360 for a Financial Emergency (B). So I-D, II-C, III-A, IV-B is correct.",
+      "source": "https://www.drishtijudiciary.com/to-the-point/ttp-constitution-of-india/article-279a-the-gst-council ; https://www.drishtijudiciary.com/to-the-point/ttp-constitution-of-india/article-280-of-the-coi ; https://blog.ipleaders.in/article-360-of-the-indian-constitution/ ; https://vajiramandravi.com/current-affairs/emergency-provisions-in-indian-constitution/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Lok Sabha can pass a vote on account to meet government expenditure for part of a financial year.",
+      "reason": "A vote on account can be passed only after the Comptroller and Auditor General certifies the annual accounts of the previous financial year.",
+      "answer": 2,
+      "truth": [
+        true,
+        false
+      ],
+      "explanation": "The assertion is true: a vote on account is a grant made in advance for part of a financial year, provided for by Article 116. The reason is false: no certification of accounts by the Comptroller and Auditor General is a condition for passing a vote on account.",
+      "source": "https://www.constitutionofindia.net/articles/article-116-votes-on-account-votes-of-credit-and-exceptional-grants/ ; https://future.indiankanoon.org/doc/436447 ; https://www.icicidirect.com/union-budget/articles/what-is-vote-on-account"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The NITI Aayog replaced the Planning Commission in 2015.",
+        "2. The Fiscal Responsibility and Budget Management Act was enacted in 2003.",
+        "3. The Vice President of India is ex officio Chairman of the Rajya Sabha.",
+        "4. The Reserve Bank of India was established in 1935."
+      ],
+      "mode": "correct",
+      "answer": 3,
+      "truth": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "explanation": "All four statements are correct: NITI Aayog replaced the Planning Commission in 2015; the FRBM Act was enacted in 2003 (assented 26 August 2003); under Article 64 the Vice President is ex officio Chairman of the Rajya Sabha; and the Reserve Bank of India was established on 1 April 1935. Since all four are correct, the answer is All four.",
+      "source": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=114276&reg=48&lang=2 ; https://indiacode.nic.in/handle/123456789/2064?locale=en ; https://dea.gov.in/acts-policies/fiscal-responsibility-and-budget-management-act-2003 ; https://future.indiankanoon.org/doc/393838 ; https://indiacode.nic.in/handle/123456789/2398?locale=en ; https://www.vedantu.com/question-answer/rbi-establishment-692ed500fbf5b951d526ce4a"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. Agriculture, including agricultural education and research, is a subject in the State List of the Seventh Schedule.",
+        "II. Education is a subject in the Union List of the Seventh Schedule and is not in the State List or the Concurrent List.",
+        "III. Public health and sanitation is a subject in the State List of the Seventh Schedule."
+      ],
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "All of the above"
+      ],
+      "answer": 2,
+      "truth": [
+        true,
+        false,
+        true
+      ],
+      "explanation": "Statements I and III are true: agriculture (entry 14) and public health and sanitation (entry 6) are State List subjects. Statement II is false because the 42nd Amendment (1976) moved education from the State List to the Concurrent List. So the correct combination is I and III only.",
+      "source": "https://www.constitutionofindia.net/schedules/list-ii-state-list ; https://www.constitution.org/cons/india/shed072.html ; https://www.livelaw.in/amp/news-updates/madras-high-court-education-42nd-constitutional-amendment-181607 ; https://thewire.in/education/parallel-jurisdictions-a-constitutional-innovation-to-break-the-state-vs-centre-logjam"
+    }
+  ],
+  "residual": [
+    "Passage is very short (92 words); it states only confirmed facts and none of the questions test it directly.",
+    "All checks used search summaries only; no page was fetched, so article and schedule wording rests on snippets of constitutionofindia.net, indiankanoon and similar.",
+    "Q4 Art 352/360 mapping: ipleaders and Vajiram (both secondary); Art 279A/280 from Drishti Judiciary; no primary text page read.",
+    "Q5 reason false because Art 116 text has no CAG condition: an absence claim, no source states the falsity directly.",
+    "Q7 NITI Aayog 1 Jan 2015: PIB release plus exam-prep pages; RBI 1 April 1935: indiacode (Act of 1934) plus exam-prep, rbi.org.in not rechecked.",
+    "Q8 entries 6 and 14 rest on constitution text reproductions (constitutionofindia.net, constitution.org); 42nd Amendment point on LiveLaw and The Wire.",
+    "Q3 Art 74 source set is legal-text reproductions (writinglaw, aaptaxlaw, law4u); no government page fetched."
+  ]
+}
