@@ -22,7 +22,7 @@ Types: 3 direct, 1 match, 1 assertion_reason, 1 statement_two, 1 statement_count
 - Static-GK facts: prefer constitutionofindia.net, indiacode, official sites. Never answer from memory alone.
 
 ## Search budget (important)
-The harness allows only 200 WebSearch calls per turn, shared by every agent running in that turn, and only a few agents are run at once. Use AT MOST 25 searches in total.
+The harness allows only 200 WebSearch calls per turn, shared by every agent running in that turn, and only a few agents are run at once. Use AT MOST 20 searches in total.
 1. First read `data/notes/<slot id>.md` (and `data/notes/partial_drafts.md`) if present: facts there are already double-sourced; reuse them and do not re-search them. Partial drafts in `data/draft/` may be extended.
 2. Plan your 8 questions BEFORE searching so every search has a purpose; prefer one search that can confirm two facts.
 3. WebFetch fails on constitutionofindia.net, livelaw, barandbench, scconline, newsonair; rely on search snippets.
@@ -34,3 +34,10 @@ Use WebSearch (load with ToolSearch "select:WebSearch" if not callable). WebFetc
 ## Output
 Write JSON to the path in your task: {"title": "...", "topic_tags": [...], "slot": "<id>", "text": "...", "sources": [urls], "questions": [8 question objects]}.
 Final reply: max 3 lines (path, word count, facts you could not double-source).
+
+
+## Batch 2 additions (Tests 7-20)
+- Slots for Tests 7-20 are in `plan/batch2_slots.json`. Their `niche` is open: read `data/notes/used_topics.md`, pick ONE well-covered cluster of real events in your category and window (at least 4 publishers cover it), and append one line to `data/notes/used_topics.md` naming your topic before you write.
+- Passage: 200-300 words is ideal (any length is acceptable). Never pad.
+- Add a field `"writer_flags": [..]` to the output JSON: short strings for every fact or answer that is not double-sourced or that you are unsure of. The verifier reads it.
+- Do not use constitutionofindia.net-only claims for static GK without a second source; prefer facts you can double-source in one search.

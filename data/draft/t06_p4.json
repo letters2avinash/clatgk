@@ -1,21 +1,162 @@
 {
-  "title": "March 2026 science and space news",
-  "topic_tags": ["science", "space", "health research", "biodiversity", "quantum technology", "India 2026"],
-  "slot": "T06P4",
-  "status": "INCOMPLETE - passage drafted and double-sourced; questions NOT written. The WebSearch budget for this turn was exhausted before any static-GK fact could be sourced (Article 51A, ISRO founding year, Department of Space, NQM approval/outlay, ICMR/Survey of India/IMD/AMD ministries, ZSI ministry, Biological Diversity Act). Brief forbids answering from memory, so the 8 questions are left for a re-run.",
-  "text": "In March 2026, Indian science and space agencies announced several research developments. On 10 March 2026, according to ISRO's official release, the Indian Space Research Organisation and AIIMS New Delhi signed a framework memorandum of understanding for cooperation in space medicine and research. The agreement was signed and exchanged by Dinesh Kumar Singh, Director of ISRO's Human Spaceflight Centre, and Dr M Srinivas, Director of AIIMS New Delhi, in the presence of V Narayanan, Chairman of ISRO and Secretary of the Department of Space.\n\nThe pact aims to promote joint research on human health, performance and safety during long-duration missions, such as the Bharatiya Antariksh Station and crewed missions to the Moon. The research areas named in the agreement include human physiology, cardiovascular and autonomic regulation, musculoskeletal health in microgravity, microbiome and immunology, genomics and biomarkers, and behavioural health. AIIMS is expected to handle protocol development, physiological monitoring, countermeasure testing and analysis of biological samples, working alongside ISRO's human spaceflight teams. Former AIIMS physiology head K K Deepak, who presented at the event, noted that astronauts in microgravity experience muscle loss, bone weakening and fluid shifts, and that studying these changes could also help explain ageing on Earth.Officials also said the work could benefit patients on Earth, since studying how spaceflight affects muscles, bones and circulation may help researchers understand ageing and circulatory problems.\n\nIn a separate development, the Zoological Survey of India described two new species of lichen moth from the eastern Himalaya, Caulocera hollowayi and Asura buxa, in the international taxonomic journal Zootaxa. The first was collected near Golitar in Sikkim and the second at Panijhora in West Bengal. The species were distinguished by features including body scales, bristle patterns and genital structures. Caterpillars of these moths feed almost exclusively on lichens, which are highly sensitive to air pollution, so officials said the moths can serve as indicators of air quality and of the health of mountain ecosystems. Environment Minister Bhupender Yadav called the discovery a vital contribution to documenting India's moth biodiversity, while ZSI Director Dhriti Banerjee described it as a milestone in Indian taxonomy.\n\nOn 16 March 2026, the government approved quantum teaching facilities and laboratories at 23 academic institutions across the country. The decision was announced after a joint monthly meeting of secretaries of science ministries and departments, chaired by Dr Jitendra Singh and attended by Principal Scientific Adviser Prof. Ajay Kumar Sood. The approval covers institutions spread across several states and aims to strengthen advanced research and build a skilled workforce in quantum computing, communication and sensing, through better access to specialised infrastructure and hands-on training.A further 100 quantum teaching laboratories and facilities are under consideration. The same meeting reviewed the India International Science Festival 2026, for which Pune has been proposed as the venue.",
-  "sources": [
-    "https://www.isro.gov.in/ISRO_AIIMS_NewDelhi_signs_Framework_Memorandum.html",
-    "https://health.medicaldialogues.in/health/aiims-new-delhi-and-isro-sign-historic-mou-to-advance-space-medicine-research-in-india-166139",
-    "https://www.uniindia.com/isro-aiims-ink-mou-for-space-medicine-and-research/business-economy/news/3770451.html",
-    "https://indiamedtoday.com/aiims-isro-sign-space-medicine-pact-to-boost-human-spaceflight-healthcare-research/",
-    "https://www.tribuneindia.com/news/india/zoological-survey-of-india-discovers-2-new-species-of-lichen-moth-in-eastern-himalaya/",
-    "https://theprint.in/india/indian-scientists-discover-two-new-species-of-lichen-moths-environment-minister/2879092/",
-    "https://www.thestatesman.com/bengal/zsi-scientists-discover-new-species-of-air-pollution-indicator-moths-1503569663.html",
-    "https://www.newsonair.gov.in/govt-grants-approval-for-establishing-quantum-teaching-facilities-laboratories-in-23-academic-institutions-across-country",
-    "https://www.dailyexcelsior.com/quantum-teaching-facility-to-be-established-in-23-academic-institutions-across-india-dr-jitendra/",
-    "https://opengovasia.com/india-advances-quantum-research-and-education-across-academia/"
-  ],
-  "questions": [],
-  "unconfirmed_facts": ["Exact signing day (ISRO release dated 10 March; some outlets say 9 March) - passage uses ISRO's date only.", "Zootaxa publication date (Tribune says 2 March; PTI announcement datelined 14 March) - passage gives month only."]
+ "title": "March 2026 science and space news",
+ "topic_tags": [
+  "science",
+  "space",
+  "health research",
+  "biodiversity",
+  "quantum technology",
+  "India 2026"
+ ],
+ "slot": "T06P4",
+ "status": "complete",
+ "text": "In March 2026, Indian science and space agencies announced several research developments. On 10 March 2026, according to ISRO's official release, the Indian Space Research Organisation and AIIMS New Delhi signed a framework memorandum of understanding for cooperation in space medicine and research. The agreement was signed and exchanged by Dinesh Kumar Singh, Director of ISRO's Human Spaceflight Centre, and Dr M Srinivas, Director of AIIMS New Delhi, in the presence of V Narayanan, Chairman of ISRO and Secretary of the Department of Space.\n\nThe pact aims to promote joint research on human health, performance and safety during long-duration missions, such as the Bharatiya Antariksh Station and crewed missions to the Moon. The research areas named in the agreement include human physiology, cardiovascular and autonomic regulation, musculoskeletal health in microgravity, microbiome and immunology, genomics and biomarkers, and behavioural health. AIIMS is expected to handle protocol development, physiological monitoring, countermeasure testing and analysis of biological samples, working alongside ISRO's human spaceflight teams. Former AIIMS physiology head K K Deepak, who presented at the event, noted that astronauts in microgravity experience muscle loss, bone weakening and fluid shifts, and that studying these changes could also help explain ageing on Earth. Officials also said the work could benefit patients on Earth, since studying how spaceflight affects muscles, bones and circulation may help researchers understand ageing and circulatory problems.\n\nIn a separate development, the Zoological Survey of India described two new species of lichen moth from the eastern Himalaya, Caulocera hollowayi and Asura buxa, in the international taxonomic journal Zootaxa. The first was collected near Golitar in Sikkim and the second at Panijhora in West Bengal. The species were distinguished by features including body scales, bristle patterns and genital structures. Caterpillars of these moths feed almost exclusively on lichens, which are highly sensitive to air pollution, so officials said the moths can serve as indicators of air quality and of the health of mountain ecosystems. Environment Minister Bhupender Yadav called the discovery a vital contribution to documenting India's moth biodiversity, while ZSI Director Dhriti Banerjee described it as a milestone in Indian taxonomy.\n\nOn 16 March 2026, the government approved quantum teaching facilities and laboratories at 23 academic institutions across the country. The decision was announced after a joint monthly meeting of secretaries of science ministries and departments, chaired by Dr Jitendra Singh and attended by Principal Scientific Adviser Prof. Ajay Kumar Sood. The approval covers institutions spread across several states and aims to strengthen advanced research and build a skilled workforce in quantum computing, communication and sensing, through better access to specialised infrastructure and hands-on training. A further 100 quantum teaching laboratories and facilities are under consideration. The same meeting reviewed the India International Science Festival 2026, for which Pune has been proposed as the venue.",
+ "sources": [
+  "https://www.isro.gov.in/ISRO_AIIMS_NewDelhi_signs_Framework_Memorandum.html",
+  "https://health.medicaldialogues.in/health/aiims-new-delhi-and-isro-sign-historic-mou-to-advance-space-medicine-research-in-india-166139",
+  "https://www.uniindia.com/isro-aiims-ink-mou-for-space-medicine-and-research/business-economy/news/3770451.html",
+  "https://indiamedtoday.com/aiims-isro-sign-space-medicine-pact-to-boost-human-spaceflight-healthcare-research/",
+  "https://www.tribuneindia.com/news/india/zoological-survey-of-india-discovers-2-new-species-of-lichen-moth-in-eastern-himalaya/",
+  "https://theprint.in/india/indian-scientists-discover-two-new-species-of-lichen-moths-environment-minister/2879092/",
+  "https://www.thestatesman.com/bengal/zsi-scientists-discover-new-species-of-air-pollution-indicator-moths-1503569663.html",
+  "https://www.newsonair.gov.in/govt-grants-approval-for-establishing-quantum-teaching-facilities-laboratories-in-23-academic-institutions-across-country",
+  "https://www.dailyexcelsior.com/quantum-teaching-facility-to-be-established-in-23-academic-institutions-across-india-dr-jitendra/",
+  "https://opengovasia.com/india-advances-quantum-research-and-education-across-academia/"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "Under which sub-clause of Article 51A of the Constitution is the fundamental duty \"to develop the scientific temper, humanism and the spirit of inquiry and reform\" listed?",
+   "options": [
+    "Article 51A(g)",
+    "Article 51A(h)",
+    "Article 51A(i)",
+    "Article 51A(j)"
+   ],
+   "answer": 1,
+   "explanation": "Clause (h) of Article 51A, inserted by the 42nd Amendment (1976), lists the fundamental duty to develop scientific temper, humanism and the spirit of inquiry and reform. Clause (g) concerns the environment, (i) public property and (j) excellence in activity.",
+   "source": "https://theleaflet.in/duty-to-develop-scientific-temper/ ; https://breakthroughindia.org/wp-content/uploads/2020/05/temper.pdf"
+  },
+  {
+   "type": "direct",
+   "q": "In which year was the Indian Space Research Organisation (ISRO) established?",
+   "options": [
+    "1958",
+    "1969",
+    "1975",
+    "1980"
+   ],
+   "answer": 1,
+   "explanation": "ISRO was formed on 15 August 1969, replacing INCOSPAR (set up in 1962). The other years are not its founding year.",
+   "source": "https://en.wikipedia.org/wiki/ISRO ; https://www.britannica.com/print/article/1330958"
+  },
+  {
+   "type": "direct",
+   "q": "The National Quantum Mission, which the Union Cabinet approved for the period 2023-24 to 2030-31, has a total approved outlay of approximately:",
+   "options": [
+    "Rs 600 crore",
+    "Rs 3,000 crore",
+    "Rs 6,003.65 crore",
+    "Rs 60,000 crore"
+   ],
+   "answer": 2,
+   "explanation": "The Cabinet approved the National Quantum Mission (19 April 2023) with a total outlay of Rs 6,003.65 crore for 2023-24 to 2030-31.",
+   "source": "https://dst.gov.in/cabinet-approves-national-quantum-mission-scale-scientific-industrial-rd-quantum-technologies ; https://www.businesstoday.in/amp/latest/economy/story/cabinet-approves-national-quantum-mission-for-rs-6000-cr-to-accelerate-quantum-technology-378051-2023-04-19"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Indian Council of Medical Research (ICMR)",
+    "II. Survey of India",
+    "III. India Meteorological Department (IMD)",
+    "IV. Geological Survey of India (GSI)"
+   ],
+   "list2": [
+    "A. Ministry of Mines",
+    "B. Ministry of Health and Family Welfare",
+    "C. Ministry of Earth Sciences",
+    "D. Ministry of Science and Technology"
+   ],
+   "options": [
+    "I-A, II-B, III-C, IV-D",
+    "I-B, II-D, III-C, IV-A",
+    "I-C, II-A, III-D, IV-B",
+    "I-D, II-C, III-A, IV-B"
+   ],
+   "answer": 1,
+   "explanation": "ICMR functions under the Ministry of Health and Family Welfare (I-B). Survey of India works under the Department of Science and Technology, within the Ministry of Science and Technology (II-D). IMD is under the Ministry of Earth Sciences (III-C). GSI is under the Ministry of Mines (IV-A).",
+   "source": "https://en.wikipedia.org/wiki/Indian_Council_of_Medical_Research ; https://www.icmr.gov.in/icmrobject/uploads/Static/1774347346_annualreport_230326.pdf ; https://en.wikipedia.org/wiki/Survey_of_India ; https://dst.gov.in/survey-of-india-zone ; https://en.wikipedia.org/wiki/India_Meteorological_Department ; https://moes.gov.in/about-us ; https://en.wikipedia.org/wiki/Geological_Survey_of_India ; https://en.wikipedia.org/wiki/Central_Geological_Service"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "The headquarters of the Indian Space Research Organisation is located in New Delhi.",
+   "reason": "The National Biodiversity Authority has its head office at Chennai, as provided under the Biological Diversity Act, 2002.",
+   "answer": 3,
+   "truth": [
+    false,
+    true
+   ],
+   "explanation": "A is false: ISRO is headquartered in Bengaluru. R is true: Section 8 of the Biological Diversity Act, 2002 fixes the NBA head office at Chennai.",
+   "source": "https://en.wikipedia.org/wiki/ISRO ; https://www.britannica.com/print/article/1330958 ; https://www.advocatekhoj.com/library/bareacts/biologicaldiversity/8.php ; https://en.wikipedia.org/wiki/Biological_Diversity_Act,_2002"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. The Biological Diversity Act was enacted in the year 2000.",
+    "II. The Department of Space functions directly under the Prime Minister."
+   ],
+   "answer": 1,
+   "truth": [
+    false,
+    true
+   ],
+   "explanation": "Statement I is false: the Biological Diversity Act was passed in December 2002. Statement II is true: the Department of Space sits under the Prime Minister, so only II is correct.",
+   "source": "https://en.wikipedia.org/wiki/Biological_Diversity_Act,_2002 ; https://www.advocatekhoj.com/library/bareacts/biologicaldiversity/8.php ; https://en.wikipedia.org/wiki/Department_of_Space ; https://kpiasacademy.com/department-of-space-and-isro/"
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. The Zoological Survey of India was set up in 1916.",
+    "2. The headquarters of the Zoological Survey of India is in Kolkata.",
+    "3. The Central Ground Water Board functions under the Ministry of Mines.",
+    "4. The National Quantum Mission was approved by the Union Cabinet in 2020."
+   ],
+   "mode": "correct",
+   "truth": [
+    true,
+    true,
+    false,
+    false
+   ],
+   "answer": 1,
+   "explanation": "Statements 1 and 2 are correct (ZSI set up 1 July 1916; HQ at Kolkata). Statement 3 is wrong: CGWB is under the Ministry of Jal Shakti. Statement 4 is wrong: the NQM was approved in April 2023. Exactly two are correct, so the answer is Only two.",
+   "source": "https://zsi.gov.in/uploads/Section_Photographs/RTI/2025_ZSI_Directory_Final.pdf ; https://vajiramandravi.com/current-affairs/zoological-survey-of-india/ ; https://moef.gov.in/index.php/zoological-survey-of-india ; https://cgwb.gov.in/old_website/Related-Links.html ; https://www.understandupsc.com/central-ground-water-board/ ; https://dst.gov.in/node/7008"
+  },
+  {
+   "type": "statement_multi",
+   "statements": [
+    "I. The Botanical Survey of India functions under the Ministry of Environment, Forest and Climate Change.",
+    "II. The Zoological Survey of India functions under the Ministry of Environment, Forest and Climate Change.",
+    "III. The Indian Institute of Tropical Meteorology functions under the Ministry of Environment, Forest and Climate Change."
+   ],
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "All of the above"
+   ],
+   "answer": 0,
+   "truth": [
+    true,
+    true,
+    false
+   ],
+   "explanation": "I and II are true: both BSI and ZSI are under MoEFCC. III is false: IITM is an autonomous institute under the Ministry of Earth Sciences.",
+   "source": "https://moef.gov.in/index.php/botanical-survey-of-india ; https://en.wikipedia.org/wiki/Botanical_Survey_of_India ; https://moef.gov.in/index.php/zoological-survey-of-india ; https://en.wikipedia.org/wiki/Zoological_Survey_of_India ; https://en.wikipedia.org/wiki/Indian_Institute_of_Tropical_Meteorology ; https://indiaenvironmentportal.org.in/organisations/indian-institute-of-tropical-meteorology-2"
+  }
+ ],
+ "unconfirmed_facts": [
+  "Exact signing day (ISRO release dated 10 March; some outlets say 9 March) - passage uses ISRO's date only.",
+  "Zootaxa publication date (Tribune says 2 March; PTI announcement datelined 14 March) - passage gives month only."
+ ]
 }

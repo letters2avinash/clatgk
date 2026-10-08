@@ -18,3 +18,7 @@ Final reply: max 4 lines: paths, kept count, how many of the 8 were dropped and 
 
 ## Passage length (owner decision)
 Word count is NOT a problem. Do not pad, and do not add facts just to reach a length; a shorter passage of confirmed facts is fine. Ignore any '430 words' floor in the task text.
+
+
+## Residual list (required)
+In the FINAL passage JSON add `"residual": [..]`: short strings (max ~25 words each) naming every remaining fact or answer that rests on a single publisher, a Wikipedia/exam-prep page, search snippets only, or an unreachable primary source, plus a note if the passage is very short. Use [] only if nothing is thin. Also read the draft's `writer_flags` field and check every item in it.

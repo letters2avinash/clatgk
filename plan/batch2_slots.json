@@ -1,0 +1,772 @@
+[
+ {
+  "id": "T07P1",
+  "category": "Polity & governance",
+  "period": "28 May-17 Jun 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 0,
+   "statement_two": 3,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T07P2",
+  "category": "Awards, books & culture",
+  "period": "30 Jul-19 Aug 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 1,
+   "statement_two": 1,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T07P3",
+  "category": "Economy & Budget",
+  "period": "1-8 Oct 2026 (or anywhere in Sep-Oct 2026)",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 2,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T07P4",
+  "category": "Schemes, reports & indices",
+  "period": "12 Feb-4 Mar 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 0,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T07P5",
+  "category": "Sports",
+  "period": "16 Apr-6 May 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 0,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T08P1",
+  "category": "States & regional",
+  "period": "9-29 Jul 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 2,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T08P2",
+  "category": "Environment & biodiversity",
+  "period": "10-30 Sep 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T08P3",
+  "category": "Supreme Court & High Courts",
+  "period": "22 Jan-11 Feb 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 3,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T08P4",
+  "category": "Defence & security",
+  "period": "26 Mar-15 Apr 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T08P5",
+  "category": "International affairs",
+  "period": "28 May-17 Jun 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 0,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T09P1",
+  "category": "Appointments & obituaries",
+  "period": "20 Aug-9 Sep 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 1,
+   "statement_two": 3,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T09P2",
+  "category": "Science, space & tech",
+  "period": "1-21 Jan 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 2,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T09P3",
+  "category": "Polity & governance",
+  "period": "5-25 Mar 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 0,
+   "statement_two": 3,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T09P4",
+  "category": "Awards, books & culture",
+  "period": "7-27 May 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 1,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T09P5",
+  "category": "Economy & Budget",
+  "period": "9-29 Jul 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 2,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T10P1",
+  "category": "Schemes, reports & indices",
+  "period": "1-8 Oct 2026 (or anywhere in Sep-Oct 2026)",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 0,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T10P2",
+  "category": "Sports",
+  "period": "12 Feb-4 Mar 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 1,
+   "statement_two": 2,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T10P3",
+  "category": "States & regional",
+  "period": "16 Apr-6 May 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 0,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T10P4",
+  "category": "Environment & biodiversity",
+  "period": "18 Jun-8 Jul 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 3,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T10P5",
+  "category": "Supreme Court & High Courts",
+  "period": "20 Aug-9 Sep 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T11P1",
+  "category": "Defence & security",
+  "period": "22 Jan-11 Feb 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 2,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T11P2",
+  "category": "International affairs",
+  "period": "26 Mar-15 Apr 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 0,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T11P3",
+  "category": "Appointments & obituaries",
+  "period": "28 May-17 Jun 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T11P4",
+  "category": "Science, space & tech",
+  "period": "30 Jul-19 Aug 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 0,
+   "statement_two": 3,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T11P5",
+  "category": "Polity & governance",
+  "period": "1-8 Oct 2026 (or anywhere in Sep-Oct 2026)",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 3,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T12P1",
+  "category": "Awards, books & culture",
+  "period": "5-25 Mar 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T12P2",
+  "category": "Economy & Budget",
+  "period": "7-27 May 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 2,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T12P3",
+  "category": "Schemes, reports & indices",
+  "period": "9-29 Jul 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 0,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T12P4",
+  "category": "Sports",
+  "period": "10-30 Sep 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 1,
+   "statement_two": 0,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T12P5",
+  "category": "States & regional",
+  "period": "22 Jan-11 Feb 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 1,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T13P1",
+  "category": "Environment & biodiversity",
+  "period": "16 Apr-6 May 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 0,
+   "statement_two": 3,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T13P2",
+  "category": "Supreme Court & High Courts",
+  "period": "18 Jun-8 Jul 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 2,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T13P3",
+  "category": "Defence & security",
+  "period": "20 Aug-9 Sep 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 0,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T13P4",
+  "category": "International affairs",
+  "period": "1-21 Jan 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 1,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T13P5",
+  "category": "Appointments & obituaries",
+  "period": "5-25 Mar 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 2,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T14P1",
+  "category": "Science, space & tech",
+  "period": "28 May-17 Jun 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 3,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T14P2",
+  "category": "Polity & governance",
+  "period": "30 Jul-19 Aug 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 1,
+   "statement_two": 2,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T14P3",
+  "category": "Awards, books & culture",
+  "period": "1-8 Oct 2026 (or anywhere in Sep-Oct 2026)",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T14P4",
+  "category": "Economy & Budget",
+  "period": "12 Feb-4 Mar 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 3,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T14P5",
+  "category": "Schemes, reports & indices",
+  "period": "16 Apr-6 May 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 0,
+   "statement_two": 0,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T15P1",
+  "category": "Sports",
+  "period": "9-29 Jul 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T15P2",
+  "category": "States & regional",
+  "period": "10-30 Sep 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 0,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T15P3",
+  "category": "Environment & biodiversity",
+  "period": "22 Jan-11 Feb 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 2,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T15P4",
+  "category": "Supreme Court & High Courts",
+  "period": "26 Mar-15 Apr 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 1,
+   "statement_two": 3,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T15P5",
+  "category": "Defence & security",
+  "period": "28 May-17 Jun 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 0,
+   "statement_two": 3,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T16P1",
+  "category": "International affairs",
+  "period": "20 Aug-9 Sep 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 1,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T16P2",
+  "category": "Appointments & obituaries",
+  "period": "1-21 Jan 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 2,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T16P3",
+  "category": "Science, space & tech",
+  "period": "5-25 Mar 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 0,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T16P4",
+  "category": "Polity & governance",
+  "period": "7-27 May 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 0,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T16P5",
+  "category": "Awards, books & culture",
+  "period": "9-29 Jul 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 2,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T17P1",
+  "category": "Economy & Budget",
+  "period": "1-8 Oct 2026 (or anywhere in Sep-Oct 2026)",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 1,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T17P2",
+  "category": "Schemes, reports & indices",
+  "period": "12 Feb-4 Mar 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 3,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T17P3",
+  "category": "Sports",
+  "period": "16 Apr-6 May 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 1,
+   "statement_two": 3,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T17P4",
+  "category": "States & regional",
+  "period": "18 Jun-8 Jul 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 0,
+   "statement_two": 1,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T17P5",
+  "category": "Environment & biodiversity",
+  "period": "20 Aug-9 Sep 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 0,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T18P1",
+  "category": "Supreme Court & High Courts",
+  "period": "22 Jan-11 Feb 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 2,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T18P2",
+  "category": "Defence & security",
+  "period": "26 Mar-15 Apr 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 1,
+   "statement_two": 1,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T18P3",
+  "category": "International affairs",
+  "period": "28 May-17 Jun 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 3,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T18P4",
+  "category": "Appointments & obituaries",
+  "period": "30 Jul-19 Aug 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 0,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T18P5",
+  "category": "Science, space & tech",
+  "period": "1-8 Oct 2026 (or anywhere in Sep-Oct 2026)",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 0,
+   "statement_two": 2,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T19P1",
+  "category": "Polity & governance",
+  "period": "5-25 Mar 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T19P2",
+  "category": "Awards, books & culture",
+  "period": "7-27 May 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 2,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T19P3",
+  "category": "Economy & Budget",
+  "period": "9-29 Jul 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 0,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T19P4",
+  "category": "Schemes, reports & indices",
+  "period": "10-30 Sep 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 3,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T19P5",
+  "category": "Sports",
+  "period": "22 Jan-11 Feb 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T20P1",
+  "category": "States & regional",
+  "period": "16 Apr-6 May 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 3,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T20P2",
+  "category": "Environment & biodiversity",
+  "period": "18 Jun-8 Jul 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 0,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T20P3",
+  "category": "Supreme Court & High Courts",
+  "period": "20 Aug-9 Sep 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 2,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T20P4",
+  "category": "Defence & security",
+  "period": "1-21 Jan 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 0,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T20P5",
+  "category": "International affairs",
+  "period": "5-25 Mar 2026",
+  "niche": "Any well-covered cluster of REAL events in your category and window (pick one with at least 4 publishers so a 200-300 word passage can be double-sourced). Not a topic listed in data/notes/used_topics.md.",
+  "targets": {
+   "assertion_reason": 0,
+   "statement_two": 2,
+   "statement_count": 2
+  }
+ }
+]
