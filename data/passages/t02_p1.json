@@ -1,0 +1,105 @@
+{
+  "title": "Padma Awards 2026: 131 honours on Republic Day eve",
+  "topic_tags": [
+    "Padma Awards",
+    "national honours",
+    "Ministry of Home Affairs",
+    "Republic Day",
+    "civilian honours"
+  ],
+  "text": "The Ministry of Home Affairs announced 131 Padma Awards for 2026 on 25 January, the eve of Republic Day. The list comprised five Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri awards. The Ministry administers the awards, and the list was released in the days before the national holiday.\n\nTwo of the five Padma Vibhushan honours went to recipients honoured posthumously: veteran actor Dharmendra, cited for his contribution in the field of arts, and former Kerala Chief Minister V.S. Achuthanandan, recognised for his work in public affairs. The other Vibhushan awardees were Justice K.T. Thomas in public affairs, classical violinist N. Rajam in art, and journalist P. Narayanan in literature and education.\n\nThe Padma Bhushan list of 13 spanned several fields. Mammootty and Alka Yagnik were honoured in art, as was Shatavadhani R. Ganesh. Piyush Pandey, also in art, was honoured posthumously. Medicine was represented by Kallipatti Ramasamy Palaniswamy and Nori Dattatreyudu. Public affairs was the field of Bhagat Singh Koshyari, Vellappally Natesan and Shibu Soren, who was honoured posthumously, along with V.K. Malhotra, also honoured posthumously. Uday Kotak was honoured in trade and industry, Vijay Amritraj in sports, and S.K.M. Maeilanandhan in social work.\n\nThe Padma Shri category, the largest of the three groups with 113 awards, included a substantial sports contingent. Rohit Sharma, Harmanpreet Kaur, Praveen Kumar, Baldev Singh, K. Pajanivel and Savita Punia were all named in sports. R. Madhavan was honoured in art. Armida Fernandez, a neonatologist who set up India's first human milk bank, appeared among the social work and science awardees, while Anke Gowda, a library founder, was also named.\n\nRegional names were spread across the list. From Andhra Pradesh, Rajendra Prasad, Murali Mohan and Garimella Balakrishna Prasad were included, with Balakrishna Prasad honoured posthumously. From Tamil Nadu, the names included Gayatri and Ranjini Balasubramanian, H.V. Hande, K. Ramaswami, K. Vijayakumar and Thiruttani Swaminathan. Rama Reddy Mamidi of Telangana was also honoured posthumously.\n\nTaken together, the 131 awardees included 19 women, six foreign nationals, NRIs, PIOs or OCI cardholders, and 16 posthumous honourees. Under the counting rules reported for 2026, posthumous awards and awards to foreign and overseas Indian recipients do not count against the annual cap of 120 awards that applies to the rest of the list. The cap therefore governs only part of each year's list.",
+  "sources": [
+    "https://www.business-standard.com/india-news/v-s-achuthanandhan-dharmendra-awarded-padma-vibhushan-posthumously-126012500462_1.html",
+    "https://www.newsonair.gov.in/govt-announces-131-padma-awards-with-former-kerala-cm-v-s-achuthanandan-veteran-actor-dharmendra-among-other-recipients",
+    "https://www.thenewsminute.com/amp/story/news/padma-awards-2026-131-recipients-named-mammootty-alka-yagnik-among-awardees",
+    "https://visionias.in/current-affairs/news-today/2026-05-26/polity-and-governance/padma-awards-2026",
+    "https://padmaawards.gov.in/PadmaAwards/AboutAwards"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "In which year were the Padma Awards instituted?",
+      "options": [
+        "1947",
+        "1950",
+        "1954",
+        "1971"
+      ],
+      "answer": 2,
+      "explanation": "The official Padma Awards portal records that the Government of India instituted the Bharat Ratna and Padma Vibhushan in 1954, with the Padma tiers developing from that base. The passage does not give the year. Adjacent static GK.",
+      "source": "https://padmaawards.gov.in/PadmaAwards/AboutAwards"
+    },
+    {
+      "type": "direct",
+      "q": "Which is India's highest civilian honour?",
+      "options": [
+        "Padma Vibhushan",
+        "Bharat Ratna",
+        "Param Vir Chakra",
+        "Padma Shri"
+      ],
+      "answer": 1,
+      "explanation": "The Bharat Ratna, instituted on 2 January 1954, is India's highest civilian award. The Param Vir Chakra is a military award and Padma Shri is a Padma tier, so neither is the answer. The passage mentions only the Padma tiers and never the Bharat Ratna.",
+      "source": "https://en.wikipedia.org/wiki/Bharat_Ratna"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Sixteen of the 131 Padma Awards announced for 2026 were conferred posthumously.",
+      "reason": "The Padma Awards are normally not conferred posthumously, but the Government may consider posthumous conferment in highly deserving cases.",
+      "answer": 0,
+      "explanation": "Both statements are true. The 16 posthumous honours are reported in the passage, and the official portal's rule that posthumous conferment is normally not made, with an exception for highly deserving cases, explains why such honours need a special justification.",
+      "source": "https://padmaawards.gov.in/PadmaAwards/AboutAwards"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Bharat Ratna",
+        "II. Padma Vibhushan",
+        "III. Padma Bhushan",
+        "IV. Padma Shri"
+      ],
+      "list2": [
+        "A. Distinguished service",
+        "B. Exceptional and distinguished service",
+        "C. Distinguished service of a higher order",
+        "D. India's highest civilian honour"
+      ],
+      "options": [
+        "I-D, II-B, III-C, IV-A",
+        "I-B, II-D, III-A, IV-C",
+        "I-D, II-A, III-B, IV-C",
+        "I-A, II-C, III-D, IV-B"
+      ],
+      "answer": 0,
+      "explanation": "The Padma Vibhushan is for exceptional and distinguished service, the Padma Bhushan for distinguished service of a higher order, and the Padma Shri for distinguished service, per the official portal. The Bharat Ratna is India's highest civilian award (Wikipedia).",
+      "source": "https://padmaawards.gov.in/PadmaAwards/AboutAwards"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Padma Awards and the Bharat Ratna were both instituted in 1954.",
+        "II. The Padma Awards have been announced on Republic Day every year since 1954 without any interruption."
+      ],
+      "answer": 0,
+      "explanation": "Statement I is true: both were instituted in 1954. Statement II is false because the official portal records brief interruptions in the announcement of Padma Awards in some years, so only I is correct.",
+      "source": "https://padmaawards.gov.in/PadmaAwards/AboutAwards"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. Government doctors and scientists are eligible for Padma Awards, though other government servants are not.",
+        "II. Posthumous Padma Awards are normally not conferred.",
+        "III. The Padma Shri is the highest of the three Padma tiers."
+      ],
+      "options": [
+        "I and III only",
+        "I and II only",
+        "II and III only",
+        "All of the above"
+      ],
+      "answer": 1,
+      "explanation": "Statement I is true: the portal excludes government servants, including PSU staff, except doctors and scientists. Statement II is true: posthumous conferment is normally not made. Statement III is false because the Padma Vibhushan is the highest of the three Padma tiers.",
+      "source": "https://padmaawards.gov.in/PadmaAwards/AboutAwards"
+    }
+  ]
+}
