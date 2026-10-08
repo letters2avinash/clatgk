@@ -1,0 +1,123 @@
+{
+  "title": "Industry definition and labour codes",
+  "topic_tags": [
+    "Supreme Court",
+    "Labour law",
+    "Industrial Relations Code 2020",
+    "Constitution of India"
+  ],
+  "slot": "T10P5",
+  "status": "partial",
+  "text": "A nine-judge Constitution Bench has delivered its verdict on the meaning of \"industry\" in labour law, reconsidering the 1978 judgment in Bangalore Water Supply and Sewerage Board v. A. Rajappa. That judgment had read the term widely, bringing within it establishments that are not manufacturing units.\n\nThe Supreme Court has held that the 1978 test continues to govern pending disputes under the Industrial Disputes Act, 1947, which has since been repealed. For disputes arising under the Industrial Relations Code, 2020, however, the 1978 definition will not serve as the foundation for interpreting \"industry\"; the Code's definition must be read on its own text and context. The verdict was pronounced in August 2026.",
+  "sources": [
+    "https://www.livelaw.in/buzz/livelaw-breaking-news-alerts-20-august-2026-36183",
+    "https://livelaw.in/nine-judge-bench-examine-correctness-bangalore-water-supply-case",
+    "https://superkalam.com/current-affairs/21-08-2026/1978-industry-definition-void-under-new-code-sc-pg1-ee02a799-4398-4539-b502-a35aaaee132a",
+    "https://thenewsmill.com/2026/08/supreme-court-upholds-bangalore-water-test-but-limits-future-role/",
+    "https://taxguru.in/corporate-law/1978-bangalore-water-supply-ruling-governs-pending-industrial-disputes-act-cases-sc.html",
+    "https://www.chronicleindia.in/online-magazine/csce-october-2026/sc-revisits-the-definition-of-industry-in-indian-labour-law",
+    "https://www.freepressjournal.in/business/supreme-court-63-verdict-narrows-use-of-1978-industry-definition-under-industrial-relations-code-2020"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "From which date did the Industrial Relations Code, 2020 come into force?",
+      "options": [
+        "1 April 2026",
+        "21 November 2025",
+        "15 August 2025",
+        "26 January 2026"
+      ],
+      "answer": 1,
+      "explanation": "The Ministry of Labour and Employment notified 21 November 2025 as the date the Industrial Relations Code, 2020 came into force, together with the other labour codes.",
+      "source": "https://bombaychamber.com/notification/industrial-relations-code-2020-comes-into-effect-from-21-11-25/ ; https://www.taxmann.com/post/blog/govt-notifies-enforcement-of-industrial-relations-code"
+    },
+    {
+      "type": "direct",
+      "q": "Begar, which is unpaid compulsory labour, is prohibited under which Article of the Constitution of India?",
+      "options": [
+        "Article 17",
+        "Article 23",
+        "Article 32",
+        "Article 39"
+      ],
+      "answer": 1,
+      "explanation": "Article 23 prohibits traffic in human beings, begar and other similar forms of forced labour, and makes any contravention an offence punishable under law.",
+      "source": "https://thelawgist.org/right-against-exploitation-articles-23-and-24/ ; https://aaptaxlaw.com/constitution-of-india/article-23-24-constitution-prohibition-of-traffic-in-human-beings-and-forced-labor-prohibition-of-employment-of-children-in-factories-article-23-24-of-constitution-of-india-1949.html"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Code on Wages, 2019",
+        "II. Code on Social Security, 2020",
+        "III. Occupational Safety, Health and Working Conditions Code, 2020",
+        "IV. Industrial Relations Code, 2020"
+      ],
+      "list2": [
+        "A. Employees' State Insurance Act, 1948",
+        "B. Payment of Wages Act, 1936",
+        "C. Factories Act, 1948",
+        "D. Trade Unions Act, 1926"
+      ],
+      "options": [
+        "I-B, II-A, III-C, IV-D",
+        "I-A, II-B, III-D, IV-C",
+        "I-C, II-D, III-A, IV-B",
+        "I-D, II-C, III-B, IV-A"
+      ],
+      "answer": 0,
+      "explanation": "The Code on Wages, 2019 repeals the Payment of Wages Act, 1936; the Code on Social Security, 2020 takes over the Employees' State Insurance Act, 1948; the OSH Code, 2020 replaces the Factories Act, 1948; and the Industrial Relations Code, 2020 subsumes the Trade Unions Act, 1926.",
+      "source": "https://www.advocatekhoj.com/library/bareacts/codeonwages/69.php ; https://lawgist.in/payment-of-wages-act/69 ; https://advocatetanmoy.com/list-of-statutes13repealed-by-occupational-safety-code-2020/ ; https://www.taxmann.com/post/tag/labour-codes/ ; https://thelegalquotient.com/labour-laws/industrial-relations-code/industrial-relations-code-2020/2743/ ; https://www.jsalaw.com/articles-publications/implications-of-the-industrial-relations-code-2020/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Industrial Employment (Standing Orders) Act was enacted in 1966.",
+      "reason": "The Industrial Relations Code, 2020 subsumes the Industrial Employment (Standing Orders) Act, 1946.",
+      "answer": 3,
+      "explanation": "The assertion is false because the Industrial Employment (Standing Orders) Act is a 1946 enactment, as its name states. The reason is true: the Industrial Relations Code, 2020 subsumes three central Acts, including the Standing Orders Act, 1946.",
+      "source": "https://thelegalquotient.com/labour-laws/industrial-relations-code/industrial-relations-code-2020/2743/ ; https://www.jsalaw.com/articles-publications/implications-of-the-industrial-relations-code-2020/",
+      "truth": [
+        false,
+        true
+      ]
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Equal Remuneration Act, 1976 was repealed by the Code on Social Security, 2020.",
+        "II. The Payment of Bonus Act, 1965 was repealed by the Code on Wages, 2019."
+      ],
+      "answer": 1,
+      "explanation": "Section 69(1) of the Code on Wages, 2019 repeals the Payment of Wages Act, 1936, the Minimum Wages Act, 1948, the Payment of Bonus Act, 1965 and the Equal Remuneration Act, 1976. So statement II is correct and statement I wrongly names the Code on Social Security as the repealing Code.",
+      "source": "https://www.advocatekhoj.com/library/bareacts/codeonwages/69.php ; https://taxclue.in/blog/section-1-69-code-on-wages-2019-commencement-and-repeal-of-four-wage-laws",
+      "truth": [
+        false,
+        true
+      ]
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The right against exploitation is a fundamental right under Part III of the Constitution.",
+        "2. The 1978 Bangalore Water Supply judgment on the meaning of \"industry\" was delivered by a seven-judge Bench.",
+        "3. The nine-judge Bench that heard the 2026 reference on the \"industry\" definition was headed by Justice B.V. Nagarathna."
+      ],
+      "mode": "correct",
+      "answer": 1,
+      "explanation": "Statements 1 and 2 are correct. Statement 3 is wrong because the nine-judge Bench was headed by Chief Justice of India Surya Kant, with Justice Nagarathna as a member. Two statements are correct, so the answer is Only two.",
+      "source": "https://livelaw.in/nine-judge-bench-examine-correctness-bangalore-water-supply-case ; https://elplaw.in/leadership/from-bangalore-water-supply-to-jai-bir-singh-the-evolving-definition-of-industry-2/ ; https://thelawgist.org/right-against-exploitation-articles-23-and-24/",
+      "truth": [
+        true,
+        true,
+        false
+      ]
+    }
+  ],
+  "residual": [
+    "Passage vote split omitted (5:4 vs 6:3 conflict); full judgment text unread, holdings rest on news/legal-blog summaries (verdictum, ELP, thenewsmill, taxguru, LiveLaw headline).",
+    "Q4 pair I-A/II-A mapping (SS Code takes ESI Act) rests on Taxmann plus EPFO post; OSH-Factories on advocatetanmoy/Taxmann/Wikipedia.",
+    "Q7 stmt 2 (seven-judge 1978 Bench) from search summaries and ELP; stmt 1 Part III from legal-blog pages, not constitution text.",
+    "Q1 date via bombaychamber, simpliance, taxguru; gazette not read.",
+    "Passage is very short (about 120 words); WebFetch unavailable, snippets only."
+  ]
+}

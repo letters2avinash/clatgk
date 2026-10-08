@@ -1,0 +1,112 @@
+{
+ "title": "Tiger re-introduction workshop, Alwar",
+ "topic_tags": ["Environment & biodiversity", "tigers", "NTCA", "Project Tiger", "Project Cheetah", "wildlife conservation"],
+ "slot": "T10P4",
+ "text": "Union minister Bhupender Yadav inaugurated a National Workshop on \"Tiger Re-introduction: Opportunities & Challenges\" in Alwar, Rajasthan, on 28 June 2026. The National Tiger Conservation Authority organised the event with the Rajasthan government.\n\nAt the workshop, the Road Map on Active Management of Tigers in India was released. It provides a framework for managing tiger populations across tiger reserves and wider landscapes, identifying potential source and sink areas and management actions based on local ecological conditions. A booklet on reintroduction and recovery, drawing on programmes in Sariska and Panna, was released alongside it, together with the Project Cheetah annual report covering September 2024 to December 2025.\n\nYadav asked participants to identify potential source and sink populations and build science-based long-term management strategies. He stressed keeping ecological corridors open where tiger and elephant ranges overlap, and credited community participation for the successful tiger reintroductions at Panna and Sariska. He said tiger conservation goes beyond protecting a single species.\n\nCiting national progress, Yadav said the number of tiger reserves had increased from 46 to 58 in the last decade. He also noted that India had achieved the St Petersburg Declaration goal of doubling its wild tiger population by 2022.",
+ "sources": [
+  "https://indianmasterminds.com/news/bhupender-yadav-sariska-tiger-reintroduction-workshop-213508/",
+  "https://thedailyguardian.com/india/bhupender-yadav-inaugurates-national-workshop-on-tiger-re-introduction-annual-report-of-project-cheetah20260628203834-724048/",
+  "https://thenewsmill.com/2026/06/bhupender-yadav-opens-national-workshop-on-tiger-reintroduction-and-releases-project-cheetah-report/",
+  "https://newsable.asianetnews.com/india/bhupender-yadav-opens-workshop-on-tiger-reintroduction-in-alwar-articleshow-bei4ktl",
+  "https://ddindia.co.in/2026/06/tiger-conservation-goes-beyond-protecting-a-single-species-bhupender-yadav/",
+  "https://news.webindia123.com/news/articles/India/20260628/4468518.html"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "Jim Corbett National Park, the first national park brought under Project Tiger, is located in which Indian state?",
+   "options": ["Madhya Pradesh", "Uttarakhand", "Assam", "Odisha"],
+   "answer": 1,
+   "explanation": "Jim Corbett National Park (part of Corbett Tiger Reserve) is in Uttarakhand; it was the first park brought under Project Tiger.",
+   "source": "https://www.drishtiias.com/daily-updates/daily-news-analysis/corbett-tiger-reserve-uttarakhand/print_manually ; https://www.legacyias.com/about-corbett-tiger-reserve/"
+  },
+  {
+   "type": "direct",
+   "q": "At the 2010 St Petersburg Tiger Summit, how many tiger-range governments committed to the TX2 goal of doubling wild tiger numbers?",
+   "options": ["9", "13", "18", "21"],
+   "answer": 1,
+   "explanation": "Thirteen tiger-range governments committed to TX2 at the 2010 St Petersburg Tiger Summit.",
+   "source": "https://tigers.panda.org/copy_of_home_17042019_0337/our_work/about_tx2 ; https://old.wti.org.in/tag/tx2/"
+  },
+  {
+   "type": "direct",
+   "q": "The National Tiger Conservation Authority, a statutory body, functions under which ministry of the Government of India?",
+   "options": ["Ministry of Jal Shakti", "Ministry of Rural Development", "Ministry of Environment, Forest and Climate Change", "Ministry of Agriculture and Farmers Welfare"],
+   "answer": 2,
+   "explanation": "NTCA is a statutory body under the Ministry of Environment, Forest and Climate Change, constituted under the Wildlife (Protection) Act, 1972 as amended in 2006.",
+   "source": "https://moef.gov.in/index.php/national-tiger-conservation-authority ; https://officerspulse.com/?p=20552"
+  },
+  {
+   "type": "match",
+   "list1": ["I. Project Tiger", "II. Project Elephant", "III. Project Cheetah", "IV. Wildlife Institute of India"],
+   "list2": ["A. 1973", "B. 1982", "C. 1992", "D. 2022"],
+   "options": ["I-A, II-C, III-D, IV-B", "I-B, II-A, III-C, IV-D", "I-C, II-D, III-A, IV-B", "I-D, II-B, III-C, IV-A"],
+   "answer": 0,
+   "explanation": "Project Tiger was launched in 1973; Project Elephant in 1992; Project Cheetah was formally launched at Kuno on 17 September 2022; the Wildlife Institute of India was established at Dehradun in 1982.",
+   "source": "https://www.legacyias.com/about-corbett-tiger-reserve/ ; https://www.gktoday.in/project-elephant/ ; https://www.dhyeyaias.com/current-affairs/daily-pre-pare/view/project-cheetah-four-years-cheetah-reintroduction-india ; https://moef.gov.in/index.php/wildlife-institute-of-india ; https://v1.wii.gov.in/node/2027"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "The Nilgiri Biosphere Reserve was India's first biosphere reserve.",
+   "reason": "The Nilgiri Biosphere Reserve lies entirely within the state of Kerala.",
+   "answer": 2,
+   "truth": [true, false],
+   "explanation": "A is true: Nilgiri was set up in 1986 as India's first biosphere reserve. R is false: the reserve spans Tamil Nadu, Kerala and Karnataka.",
+   "source": "https://www.careers360.com/question-the-first-biosphere-reserve-that-was-set-up-in-india-in-1986-is-lnq ; https://anantamias.com/nilgiri-biosphere-reserve/?pdf=1 ; https://www.indianetzone.com/nilgiri_biosphere_reserve"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. Kuno National Park, where Project Cheetah was launched, lies in Rajasthan.",
+    "II. Gir National Park, the main home of the Asiatic lion, lies in Rajasthan."
+   ],
+   "answer": 3,
+   "truth": [false, false],
+   "explanation": "Neither is correct: Kuno National Park is in Madhya Pradesh and Gir National Park is in Gujarat.",
+   "source": "https://www.drishtiias.com/state-pcs-current-affairs/cheetah-cubs-in-kuno-national-park/print_manually ; https://www.drishtiias.com/daily-updates/daily-news-analysis/gir-national-park/print_manually ; https://beyonder.travel/india/gir-national-park-gujarat-india/"
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. The Wildlife (Protection) Act was enacted in 1972.",
+    "2. The Ramsar Convention was adopted in 1971 in Iran.",
+    "3. Chilika Lake is located on the coast of Kerala.",
+    "4. The Global Tiger Forum was established in 1994."
+   ],
+   "mode": "incorrect",
+   "answer": 0,
+   "truth": [true, true, false, true],
+   "explanation": "Only statement 3 is incorrect: Chilika Lake is on the coast of Odisha. Statements 1, 2 and 4 are correct.",
+   "source": "https://moef.gov.in/index.php/national-tiger-conservation-authority ; https://anantamias.com/chilika-lake-odisha/ ; https://www.traffic.org/site/assets/files/6738/tiger-discussion-document.pdf ; https://cites.org/sites/default/files/common/cop/15/inf/C15i-67.pdf"
+  },
+  {
+   "type": "statement_multi",
+   "statements": [
+    "I. Ranthambore National Park lies in Rajasthan.",
+    "II. Ranthambore was among the original nine reserves taken up under Project Tiger.",
+    "III. The Wildlife Institute of India is headquartered in Mumbai."
+   ],
+   "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+   "answer": 0,
+   "truth": [true, true, false],
+   "explanation": "I and II are correct. III is false: the Wildlife Institute of India is headquartered in Dehradun, Uttarakhand.",
+   "source": "https://www.indianetzone.com/history_ranthambore_tiger_reserve ; https://v1.wii.gov.in/node/2027"
+  }
+ ],
+ "writer_flags": [
+  "Passage is 197 words, below the 220-word floor: no further double-sourced facts found for this topic within the search budget.",
+  "NTCA co-organised the workshop with the Rajasthan government: only one summary source seen.",
+  "Road Map 'source and sink areas' and 'wider landscapes' wording: from one summary, not checked against PIB.",
+  "Tiger reserves rose from 46 to 58 in the last decade: minister's remark reported by one summary.",
+  "St Petersburg Declaration goal achieved (doubling tiger population by 2022): single source.",
+  "Q2: 13 governments at the 2010 summit: supported by panda.org and WTI snippets; no second publisher page opened.",
+  "Q4 match: Project Cheetah formal launch on 17 Sep 2022 supported by exam-prep snippets only.",
+  "Q4 match: Project Tiger launched 1973 (Corbett): several exam-prep sources, no official page opened.",
+  "Q5 AR: Nilgiri first biosphere reserve in 1986 and spanning TN, Kerala, Karnataka: exam-prep sites, UNESCO not checked.",
+  "Q7 statement 2 (Ramsar Convention adopted 1971 in Iran): single source.",
+  "Q7 statement 4 (Global Tiger Forum established 1994): WWF/TRAFFIC and CITES documents say 1994; an unofficial wiki-style page says 2010. Verify against GTF records.",
+  "Q8 statement II (Ranthambore among the original nine Project Tiger reserves): single source.",
+  "Q6 Kuno in Madhya Pradesh and Gir in Gujarat: supported by several pages.",
+  "Project Elephant launched 1992 (Q4 match): supported by careers360 and gktoday snippets."
+ ]
+}

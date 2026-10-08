@@ -1,0 +1,190 @@
+{
+  "passage_file": "data/draft/t10_p5.json",
+  "passage_claims": [
+    {
+      "claim": "Nine-judge Constitution Bench delivered verdict reconsidering Bangalore Water Supply 1978",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.livelaw.in/buzz/livelaw-breaking-news-alerts-20-august-2026-36183",
+        "https://elplaw.in/leadership/from-bangalore-water-supply-to-jai-bir-singh-the-evolving-definition-of-industry-2/"
+      ],
+      "note": "Pronounced 20 Aug 2026"
+    },
+    {
+      "claim": "1978 judgment read 'industry' widely incl. hospitals, educational institutions, government departments",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [],
+      "note": "Broad reading confirmed; example list only in one summary. Examples deleted."
+    },
+    {
+      "claim": "1978 test continues to govern pending ID Act disputes",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.verdictum.in/supreme-court/upholds-reference-on-industry-definition-rules-reformulated-test-will-apply-prospectively-1620234",
+        "https://thenewsmill.com/2026/08/supreme-court-upholds-bangalore-water-test-but-limits-future-role/"
+      ],
+      "note": "Also ELP, LiveLaw headline"
+    },
+    {
+      "claim": "ID Act 1947 since repealed",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://prsindia.org/billtrack/the-industrial-relations-code-amendment-bill-2026",
+        "https://courtbook.in/industrial-relations-code-2020/section-1"
+      ],
+      "note": "Repealed by IR Code from 21 Nov 2025"
+    },
+    {
+      "claim": "IR Code definition not anchored on 1978 ruling",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.verdictum.in/supreme-court/upholds-reference-on-industry-definition-rules-reformulated-test-will-apply-prospectively-1620234",
+        "https://universalinstitutions.com/?p=62760"
+      ],
+      "note": "Reworded to 'own text and context'; 'separate statute with own purpose' clause deleted"
+    },
+    {
+      "claim": "Verdict vote split / majority",
+      "verdict": "DISPUTED",
+      "sources": [],
+      "note": "5:4 vs 6:3 reported; not in passage"
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "21 November 2025",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://bombaychamber.com/notification/industrial-relations-code-2020-comes-into-effect-from-21-11-25/",
+        "https://taxguru.in/corporate-law/major-labour-code-sections-force-notifications.html"
+      ],
+      "fix": null,
+      "note": "S.O. 5320(E)"
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "Article 23",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://thelawgist.org/right-against-exploitation-articles-23-and-24/",
+        "https://aaptaxlaw.com/constitution-of-india/article-23-24-constitution-prohibition-of-traffic-in-human-beings-and-forced-labor-prohibition-of-employment-of-children-in-factories-article-23-24-of-constitution-of-india-1949.html"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 3,
+      "verdict": "DROP",
+      "my_answer": "14 years (correct)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [],
+      "fix": null,
+      "note": "Fact fine; dropped as overlap with Q2 and Q7 stmt 1"
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-B, II-A, III-C, IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.advocatekhoj.com/library/bareacts/codeonwages/69.php",
+        "https://www.taxmann.com/post/blog/analysis-nine-acts-subsumed-in-the-code-on-social-security",
+        "https://advocatetanmoy.com/list-of-statutes13repealed-by-occupational-safety-code-2020/",
+        "https://prsindia.org/billtrack/prs-products/prs-bill-summary-1770895708"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "A false, R true (3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://prsindia.org/billtrack/prs-products/prs-bill-summary-1770895708",
+        "https://vvgnli.gov.in/en/node/49"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.advocatekhoj.com/library/bareacts/codeonwages/69.php",
+        "https://www.taxmann.com/post/blog/section-69-code-on-wages-repeal-and-savings-2026-case-law/"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 7,
+      "verdict": "FIX",
+      "my_answer": "Only two",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://livelaw.in/nine-judge-bench-examine-correctness-bangalore-water-supply-case",
+        "https://elplaw.in/leadership/from-bangalore-water-supply-to-jai-bir-singh-the-evolving-definition-of-industry-2/"
+      ],
+      "fix": "source replaced",
+      "note": "CJI Surya Kant headed bench (LiveLaw, ELP); seven-judge 1978 bench (ELP, case-law pages)"
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "unverifiable",
+      "key_answer_correct": null,
+      "truth_values": null,
+      "issues": [
+        "UNSUPPORTED"
+      ],
+      "sources": [],
+      "fix": null,
+      "note": "IR Code '14 chapters' not confirmed by any source found"
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "such as hospitals, educational institutions and government departments",
+      "new": "",
+      "reason": "single-sourced examples"
+    },
+    {
+      "old": "The Court treated the 2020 Code as a separate statute with its own text and purpose, so the older test cannot automatically be applied to it.",
+      "new": "the Code's definition must be read on its own text and context.",
+      "reason": "reword to confirmed holding"
+    }
+  ],
+  "summary": "Kept 6 of 8; dropped Q3 (overlap) and Q8 (14 chapters unconfirmed). Vote split omitted. Passage shortened to about 120 words."
+}
