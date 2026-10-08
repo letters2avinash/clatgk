@@ -1,0 +1,168 @@
+{
+  "title": "Green Energy Corridor Phase-III approved",
+  "topic_tags": [
+    "Schemes",
+    "Power sector",
+    "Green Energy Corridor",
+    "Transmission",
+    "Energy storage",
+    "Constitution"
+  ],
+  "slot": "T10P1",
+  "text": "The Union Cabinet approved the Green Energy Corridor Phase-III (GEC-III) scheme on 30 September 2026. The scheme has a total outlay of Rs 1,86,405 crore and aims to strengthen intra-state transmission so that up to 135 GW of renewable power can be evacuated by 2032-33.\n\nOf this outlay, Rs 1,36,378 crore is for intra-state transmission infrastructure. A further Rs 50,000 crore is for battery energy storage, to deploy 50 GWh of Battery Energy Storage Systems.\n\nThe Centre will provide Central Financial Assistance (CFA) of Rs 54,082 crore. Officials said this support should help keep intra-state transmission charges, and therefore electricity costs, lower for consumers.\n\nState Transmission Utilities will be the overall implementing agencies. Greenfield transmission projects will be awarded through tariff-based competitive bidding (TBCB), while brownfield upgrades will follow a cost-plus basis. Transmission service providers will take part on a build-own-operate-maintain model.",
+  "sources": [
+    "https://www.uniindia.com/national/cabinet-green-energy-corridor/198041",
+    "https://indianinfrastructure.com/2026/10/01/cabinet-approves-rs-1-86-trillion-green-energy-corridor-phase-iii-scheme/",
+    "https://renewablewatch.in/2026/10/01/cabinet-approves-green-energy-corridor-phase-iii-scheme/",
+    "https://www.newsbytesapp.com/news/business/indian-government-approves-rs186lcr-for-green-energy-corridor-phase-iii/tldr",
+    "https://www.chronicleindia.in/current-affairs/18194-approval-for-phase-iii-of-green-energy-corridor",
+    "https://c4scourses.in/national-affairs/green-energy-corridor-phase-iii-approved/",
+    "https://www.dynamitenews.com/national/green-energy-corridor-phase-iii-approved-battery-storage-jobs-and-clean-power-boost",
+    "https://superkalam.com/current-affairs/articles/green-energy-corridor-phase-iii-transmission-storage",
+    "https://www.angelone.in/news/economy/government-approves-green-energy-corridor-phase-iii-with-1-86-lakh-crore-outlay-for-renewable-energy",
+    "https://prsindia.org/policy/monthly-policy-review/september-2026"
+  ],
+  "writer_flags": [
+    "Passage is 142 words of double-sourced text, below the 220-word floor; after 11 searches no further well-sourced GEC-III detail (circuit-km, substations, state-wise allocation, briefing quotes) was found. Caller may reassign the slot.",
+    "Passage: 'Officials said' CFA lowers transmission charges/electricity costs rests on UNI and one other snippet; not verified from PIB.",
+    "Passage: 'build-own-operate-maintain' for transmission service providers comes from PRS and one other snippet; not PIB-checked.",
+    "Omitted: '900 GW non-fossil by 2035' link (single-sourced); 'historic initiative' quote (single-sourced).",
+    "Q1: Entry 38 List III placement rests on powermin.gov.in and a Kerala SEB case snippet; exact Seventh Schedule text not fetched.",
+    "Q2: Phase II Rs 12,031 crore and 33% CFA from four publisher snippets (Tribune, Daily Excelsior, Energetica, Indian Infrastructure); not PIB-checked.",
+    "Q3: 50% non-fossil share in 2025 from The Week (14 Jul 2025) and The Statesman; the Statesman dates it June 2025, so the year is 2025 under both.",
+    "Q3 and Q6 both touch non-fossil capacity (different facts: 2025 share vs 300 GW/500 GW target); possible overlap for the verifier.",
+    "Q4: A is false by the passage's own Cabinet-approval wording; R's truth rests on cea.nic.in and courtbook (Section 70).",
+    "Q5 II: 5 MMT target from Mercom and Arunachal Times snippets; the 10 MMT distractor is wrong against those sources.",
+    "Q6 stmt 1 (seven States) and stmt 4 (33% CFA) from Tribune and Energetica snippets; stmt 2 (300 GW at 31 Jul 2026) from Outlook Business / Organiser / Insights snippets; stmt 3 (500 GW by 2030) from MNRE statement via Statesman/Outlook Business.",
+    "Q7: Articles 266, 280, 282 from vajiramandravi, studyhub, latestlaws snippets; constitutionofindia.net not fetchable. Article 148 appointment from cag.gov.in.",
+    "Q7 and Q8 both draw on CAG provisions (Art 148 and Art 151); different Articles but same institution.",
+    "Q8: Article 151 wording from onlinelawconnect and cag.gov.in snippets; read from snippets only.",
+    "Art 112 was considered for the match but not double-sourced, so it was dropped."
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Electricity, as a subject, is placed at Entry 38 of the Seventh Schedule to the Constitution. Entry 38 belongs to which list?",
+      "options": [
+        "Union List (List I)",
+        "Concurrent List (List III)",
+        "Eighth Schedule",
+        "Eleventh Schedule"
+      ],
+      "answer": 1,
+      "explanation": "Entry 38 of List III (the Concurrent List) covers electricity, so both the Centre and the States can legislate on it. The Eighth and Eleventh Schedules are not lists of legislative subjects.",
+      "source": "https://powermin.gov.in/en/content/constitution-provision-relating-%E2%80%9Celectricity%E2%80%9D ; https://www.legitquest.com/case/kerala-state-electricity-board-v-indian-aluminium-co/25DD"
+    },
+    {
+      "type": "direct",
+      "q": "The Union Cabinet approved Phase II of the Green Energy Corridor in January 2022. What was the scheme's total estimated cost?",
+      "options": [
+        "Rs 1,203 crore",
+        "Rs 12,031 crore",
+        "Rs 1,20,310 crore",
+        "Rs 2,100 crore"
+      ],
+      "answer": 1,
+      "explanation": "Phase II was approved with a total estimated cost of about Rs 12,031.33 crore, with central financial assistance of 33 per cent of project cost.",
+      "source": "https://www.tribuneindia.com/news/nation/govt-nod-to-rs12k-cr-green-energy-corridor-358893 ; https://www.dailyexcelsior.com/?p=1267912 ; https://www.energetica-india.net/news/cabinet-okays-rs-12031-cr-worth-of-green-energy-corridor-phase-ii ; https://indianinfrastructure.com/2022/01/22/central-government-approves-intra-state-transmission-system-green-energy-corridor-phase-ii/"
+    },
+    {
+      "type": "direct",
+      "q": "In which year did India's non-fossil fuel sources come to account for 50 per cent of the country's total installed power capacity?",
+      "options": [
+        "2021",
+        "2023",
+        "2025",
+        "2027"
+      ],
+      "answer": 2,
+      "explanation": "The 50 per cent non-fossil share of installed capacity was reached in mid-2025 (June 2025 per The Statesman), five years ahead of the 2030 target.",
+      "source": "https://www.theweek.in/wire-updates/business/2025/07/14/dcm60-biz-renewables-energy.html ; https://www.thestatesman.com/business/govt-working-to-achieve-500-gw-non-fossil-energy-capacity-target-by-2030-1503533588.html"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Green Energy Corridor Phase-III was enacted by Parliament as a statute in September 2026.",
+      "reason": "The Central Electricity Authority is constituted under Section 70 of the Electricity Act, 2003.",
+      "answer": 3,
+      "explanation": "A is false: GEC-III was approved by the Union Cabinet, not enacted as a law by Parliament. R is true: Section 70 of the Electricity Act, 2003 constitutes the CEA as a statutory body.",
+      "source": "https://cea.nic.in/functions/?lang=en ; https://courtbook.in/electricity-act-2003/section-70",
+      "truth": [
+        false,
+        true
+      ]
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The National Green Hydrogen Mission was approved by the Union Cabinet on 4 January 2023.",
+        "II. The mission targets at least 10 million tonnes per annum of green hydrogen production capacity by 2030."
+      ],
+      "answer": 0,
+      "explanation": "Statement I is true. Statement II is false: the mission's target is at least 5 million metric tonnes per annum of green hydrogen production capacity by 2030.",
+      "source": "https://mercomindia.com/cabinet-approves-%e2%82%b9197-billion-hydrogen-mission/ ; https://arunachaltimes.in/?p=208262 ; https://currentaffairs.adda247.com/?p=147822",
+      "truth": [
+        true,
+        false
+      ]
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. Phase II of the Green Energy Corridor covered seven States.",
+        "2. India's installed non-fossil fuel-based electricity capacity crossed 300 GW as of 31 July 2026.",
+        "3. India's target is 500 GW of non-fossil fuel-based capacity by 2030.",
+        "4. Central financial assistance for Phase II of the Green Energy Corridor was set at 33 per cent of project cost."
+      ],
+      "mode": "correct",
+      "answer": 3,
+      "explanation": "All four statements are correct: Phase II covered seven States (Gujarat, Himachal Pradesh, Karnataka, Kerala, Rajasthan, Tamil Nadu, Uttar Pradesh); non-fossil capacity passed 300 GW on 31 July 2026; the 2030 target is 500 GW; and Phase II CFA was 33 per cent.",
+      "source": "https://www.tribuneindia.com/news/nation/govt-nod-to-rs12k-cr-green-energy-corridor-358893 ; https://www.outlookbusiness.com/news/india-achieves-300-gw-re-capacity-60-of-500-gw-target-by-2030 ; https://www.thestatesman.com/business/govt-working-to-achieve-500-gw-non-fossil-energy-capacity-target-by-2030-1503533588.html ; https://www.energetica-india.net/news/cabinet-okays-rs-12031-cr-worth-of-green-energy-corridor-phase-ii"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Article 266",
+        "II. Article 280",
+        "III. Article 282",
+        "IV. Article 148"
+      ],
+      "list2": [
+        "A. Constitution of a Finance Commission",
+        "B. Grants for any public purpose",
+        "C. Appointment of the Comptroller and Auditor-General by the President",
+        "D. Consolidated Fund and Public Account"
+      ],
+      "options": [
+        "I-D, II-A, III-B, IV-C",
+        "I-A, II-D, III-C, IV-B",
+        "I-B, II-C, III-D, IV-A",
+        "I-C, II-B, III-A, IV-D"
+      ],
+      "answer": 0,
+      "explanation": "Article 266 creates the Consolidated Fund and Public Account; Article 280 provides for the Finance Commission; Article 282 allows grants for public purposes; Article 148 provides for the President's appointment of the CAG.",
+      "source": "https://vajiramandravi.com/current-affairs/part-12-of-indian-constitution/ ; https://studyhub.net.in/?p=17454 ; https://www.latestlaws.com/bare-acts/central-acts-rules/part-12-constitution-of-india-finance-property-contracts-and-suits/ ; https://cag.gov.in/ag/nagpur/en/page-ag-nagpur-constitutional-arrangements"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. Under Article 151, audit reports on the accounts of the Union are submitted to the President, who lays them before each House of Parliament.",
+        "II. Under Article 151, audit reports on the accounts of a State are submitted to the Governor of that State.",
+        "III. Audit reports on the accounts of a State are laid before the Lok Sabha."
+      ],
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "I and II are correct under Article 151. III is wrong: State audit reports go to the Governor, who has them laid before the State Legislature, not the Lok Sabha.",
+      "source": "https://onlinelawconnect.com/ConstitutionOfIndia/Chapter-V-Comptroller-And-Auditorgeneral-Of-India-PART-V-The-Union.php ; https://cag.gov.in/ag/nagpur/en/page-ag-nagpur-constitutional-arrangements",
+      "truth": [
+        true,
+        true,
+        false
+      ]
+    }
+  ]
+}
