@@ -1,0 +1,26 @@
+{
+  "status": "incomplete",
+  "status_note": "WebSearch budget ran out after 12 searches (remaining searches returned 'budget used up'). Passage is under 450 words and only 0 of 8 questions are written. Facts for the remaining sources (GGGI Seoul HQ, AIIB Beijing HQ, ADB Manila HQ, Article 253, Vienna HQs of IAEA/UNODC/OPEC, Odisha/Chhattisgarh steel plant and iron ore facts) were NOT double-sourced and must not be used until re-searched.",
+  "title": "South Korean President's State Visit and Austrian Chancellor's Official Visit, April 2026",
+  "topic_tags": ["India bilateral visits", "India-South Korea", "India-Austria", "POSCO", "JSW Steel", "Special Strategic Partnership", "April 2026"],
+  "slot": "T03P2",
+  "text": "South Korean President Lee Jae Myung paid a three-day state visit to India from April 19 to 21, 2026. He was received at the airport by Union Minister of State Harsh Malhotra, and External Affairs Minister S. Jaishankar called on him. On April 20, Lee received a ceremonial welcome at Rashtrapati Bhavan. He then held bilateral talks with Prime Minister Narendra Modi at Hyderabad House in New Delhi, after which the two leaders planted a tree to symbolise the growing partnership. The two sides unveiled a Joint Strategic Vision for the India-Republic of Korea Special Strategic Partnership for 2026-2030. Three joint statements were also issued, covering shipbuilding and maritime logistics, sustainability, and energy resource security. During the visit, South Korea joined the Indo-Pacific Oceans Initiative. On April 20, business leaders from both countries held an India-Korea Business Forum in New Delhi. There, POSCO and JSW Steel signed a joint venture agreement to build a 6 million tonnes per annum greenfield integrated steel plant in Odisha. Under the structure disclosed in JSW's filing, the venture will be a 50:50 partnership between JSW and the POSCO Group. Earlier in April, Austrian Chancellor Christian Stocker made an official visit to India from April 14 to 17, 2026, his first visit to the country. The visit produced several MoUs, including one between India's FSSAI and Austria's AGES on food safety, and another between IIT Delhi and Montan University.",
+  "sources": [
+    "https://www.ddindia.co.in/2026/04/pm-modi-holds-bilateral-talks-with-south-korean-president-lee-jae-myung-at-hyderabad-house/",
+    "https://en.fnnews.com/news/202604201319224199",
+    "https://visionias.in/current-affairs/news-today/2026-04-21/international-relations/south-korean-president-visited-india-marking-a-milestone-special-strategic-partnership",
+    "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/22-04-2026/print/manual",
+    "https://gmk.center/en/news/jsw-steel-and-posco-have-announced-a-joint-venture-to-build-a-steel-plant-in-india/",
+    "https://worldsteel.org/media/industry-member-news/2026-member-news/jsw-steel-and-posco-form-landmark-joint-venture-to-set-up-6-mtpa-integrated-steel-plant-in-india/",
+    "https://odisha.plus/2026/04/jsw-steel-posco-jv-odisha-6mtpa-steel-plant/",
+    "https://www.bundeskanzleramt.gv.at/dam/jcr%3Ae7ea3a06-193b-474e-a18e-ba836c7d092c/joint_statement_india-austria.pdf",
+    "https://vajiramandravi.com/current-affairs/india-austria-relations/"
+  ],
+  "questions": [],
+  "verified_static_facts_for_next_run": [
+    {"fact": "India announced the Indo-Pacific Oceans Initiative at the East Asia Summit in Bangkok, November 2019", "sources": ["https://vajiramandravi.com/current-affairs/indo-pacific-oceans-initiative-ipoi/", "https://visionias.in/current-affairs/news-today/2024-09-11/international-relations/indo-pacific-oceans-initiative-ipoi-completes-five-years"]},
+    {"fact": "Hyderabad House, New Delhi, was built as a Delhi residence for the Nizam of Hyderabad (designed by Lutyens; later a state guesthouse)", "sources": ["https://en.wikipedia.org/wiki/Hyderabad_House", "https://www.gktoday.in/hyderabad-house/"]},
+    {"fact": "India-South Korea CEPA was signed 7 August 2009 and came into force 1 January 2010", "sources": ["https://www.indembassyseoul.gov.in/cepa", "https://www.hsfkramer.com/notes/publicinternationallaw/2010-03/korea-india-korea-bilateral-comprehensive-economic-partnership-agreement-the-most-recent-example-of-intra-asian-trade-agreements"]},
+    {"fact": "International Solar Alliance was launched by India and France at COP21 Paris (2015); headquarters in Gurugram, Haryana", "sources": ["https://en.wikipedia.org/wiki/International_Solar_Alliance", "https://vajiramandravi.com/current-affairs/international-solar-alliance-isa/"]}
+  ]
+}
