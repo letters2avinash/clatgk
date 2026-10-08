@@ -1,0 +1,307 @@
+{
+  "passage_file": "data/draft/t09_p3.json",
+  "passage_claims": [
+    {
+      "claim": "Defeated in Lok Sabha on 17 April 2026; 298 for, 230 against",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736",
+        "https://www.thehitavada.com/Encyc/2026/4/18/womens-quota-bill-defeated-in-ls-298-members-supported-the-bill-while-230-voted-against-it.html",
+        "https://moneylife.in/article/lok-sabha-rejects-constitution-amendment-bill-delimitation-push-hits-roadblock/80247.html",
+        "https://visionias.in/current-affairs/news-today/2026-04-18/polity-and-governance/constitution-131st-amendment-bill-2026-defeated-in-lok-sabha"
+      ],
+      "note": "Also Business Standard, The Wire. Threshold figure 352 vs 360 differs by source; passage avoids it."
+    },
+    {
+      "claim": "Full title Constitution (One Hundred and Thirty-first Amendment) Bill, 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.businesstoday.in/amp/india/story/parliament-session-delimitation-bill-2026-on-agenda-today-heres-what-changes-in-parliament-state-assemblies-525754-2026-04-16",
+        "https://prsindia.org/files/bills_acts/bills_parliament/2026/Constitution_(131st_Amendment)_Bill,2026.pdf"
+      ],
+      "note": "Business Today gives the full form."
+    },
+    {
+      "claim": "Tied to fresh delimitation; government pitched it as speeding women's reservation (before 2029)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://moneylife.in/article/lok-sabha-rejects-constitution-amendment-bill-delimitation-push-hits-roadblock/80247.html",
+        "https://www.businesstoday.in/amp/india/story/parliament-session-delimitation-bill-2026-on-agenda-today-heres-what-changes-in-parliament-state-assemblies-525754-2026-04-16",
+        "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Lok Sabha 543 to 850; up to 815 states, 35 UTs",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://visionias.in/current-affairs/news-today/2026-04-18/polity-and-governance/constitution-131st-amendment-bill-2026-defeated-in-lok-sabha",
+        "https://www.businesstoday.in/amp/india/story/parliament-session-delimitation-bill-2026-on-agenda-today-heres-what-changes-in-parliament-state-assemblies-525754-2026-04-16",
+        "https://www.siasat.com/centre-tables-constitution-amendment-bill-to-expand-lok-sabha-to-850-seats-3453077/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Seat distribution based on 2011 Census",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736",
+        "https://www.brut.media/in/articles/why-was-the-delimitation-bill-2026-withdrawn-what-the-electoral-reform-bill-proposed"
+      ],
+      "note": "Delimitation Bill uses latest published census, i.e. 2011."
+    },
+    {
+      "claim": "Amends Art 82 (delete third proviso, delimitation not tied to first post-2026 census)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.policyedge.in/p/constitution-131st-amendment-bill-2026-enables-seat-expansion-and-womens-reservation",
+        "https://visionias.in/current-affairs/news-today/2026-04-18/polity-and-governance/constitution-131st-amendment-bill-2026-defeated-in-lok-sabha"
+      ],
+      "note": "PRS bill Statement of Objects seen via snippet."
+    },
+    {
+      "claim": "Amends Art 334A so women's reservation can follow delimitation",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://visionias.in/current-affairs/news-today/2026-04-18/polity-and-governance/constitution-131st-amendment-bill-2026-defeated-in-lok-sabha",
+        "https://www.policyedge.in/p/constitution-131st-amendment-bill-2026-enables-seat-expansion-and-womens-reservation"
+      ],
+      "note": "Two summaries, bill text not opened; kept, listed in residual."
+    },
+    {
+      "claim": "Opposition: 2011-Census-based increase would cut southern and north-eastern representation",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736",
+        "https://moneylife.in/article/lok-sabha-rejects-constitution-amendment-bill-delimitation-push-hits-roadblock/80247.html",
+        "https://www.businesstoday.in/amp/india/story/parliament-session-delimitation-bill-2026-on-agenda-today-heres-what-changes-in-parliament-state-assemblies-525754-2026-04-16"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Government withdrew Delimitation Bill and UT Laws (Amendment) Bill after defeat",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736",
+        "https://visionias.in/current-affairs/news-today/2026-04-18/polity-and-governance/constitution-131st-amendment-bill-2026-defeated-in-lok-sabha",
+        "https://www.drishtiias.com/daily-updates/daily-news-analysis/defeat-of-the-constitution-131st-amendment-bill-2026/print_manually"
+      ],
+      "note": "Kashmir Times says bills still listed in registry; minor dispute."
+    },
+    {
+      "claim": "2023 women's reservation law not affected by the defeat",
+      "verdict": "UNVERIFIABLE",
+      "sources": [],
+      "note": "No source states it explicitly; deleted from passage."
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "A true, R true and explains (0)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736",
+        "https://www.thehitavada.com/Encyc/2026/4/18/womens-quota-bill-defeated-in-ls-298-members-supported-the-bill-while-230-voted-against-it.html",
+        "https://forumias.com/blog/article-368-of-indian-constitution/"
+      ],
+      "fix": "Passage reworded so the special-majority requirement is no longer stated",
+      "note": "Art 368(2) text confirmed by prep sites only."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "106th Amendment",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://thelegalquorum.com/an-analysis-of-the-106th-constitutional-amendment/",
+        "https://laex.in/prelims-fact-sheet/106th-constitutional-amendment-act-2023/",
+        "https://mondaq.com/india/tax-authorities/1175284/decoding-the-constitutional-provisions-behind-gst",
+        "https://www.thenewsminute.com/news/ews-reservation-judgement-here-s-what-five-judges-said-169719",
+        "https://scroll.in/latest/1003312/scroll_in"
+      ],
+      "fix": null,
+      "note": "Distractors 101 GST, 103 EWS, 105 OBC lists all confirmed."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "Election Commission of India",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://future.indiankanoon.org/doc/950881",
+        "https://vajiramandravi.com/current-affairs/?p=126106",
+        "https://www.careers360.com/question-article-of-the-indian-constitution-provides-for-superintendence-direction-and-control-of-elections-vested-in-an-election-commission-lnq"
+      ],
+      "fix": null,
+      "note": "Source replaced."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-A, II-B, III-C, IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-170-composition-of-the-legislative-assemblies/",
+        "https://www.constitutionofindia.net/constitution_of_india/the_union/articles/Article%2081",
+        "https://www.advocatekhoj.com/library/bareacts/constitutionofindia/169.php",
+        "https://www.constitutionofindia.net/articles/article-239aa-special-provisions-with-respect-to-delhi/"
+      ],
+      "fix": null,
+      "note": "Source replaced (forumias dropped)."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "Neither (3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://prsindia.org/files/bills_acts/bills_parliament/2026/Summary_Delimitation_Bill_2026.pdf",
+        "https://www.businesstoday.in/amp/india/story/parliament-session-delimitation-bill-2026-on-agenda-today-heres-what-changes-in-parliament-state-assemblies-525754-2026-04-16",
+        "https://prsindia.org/files/bills_acts/bills_parliament/2026/Summary_UT_(A)_Bill_2026.pdf",
+        "https://www.scconline.com/blog/post/2026/04/18/union-territories-laws-amendment-bill-2026-delimitation-representation/",
+        "https://www.etvbharat.com/en/bharat/govt-plans-to-make-changes-in-union-territories-laws-enn26041406627"
+      ],
+      "fix": null,
+      "note": "Bill repeals Delimitation Act 2002; UT bill covers Delhi, Puducherry, J&K."
+    },
+    {
+      "index": 6,
+      "verdict": "DROP",
+      "my_answer": "Statement 3 incorrect; statement 4 unsafe",
+      "key_answer_correct": null,
+      "truth_values": [
+        true,
+        "disputed",
+        false,
+        "disputed"
+      ],
+      "issues": [
+        "AMBIGUOUS",
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://www.barristery.in/2025/02/article-80-of-indian-constitution.html",
+        "https://vajiramandravi.com/current-affairs/4th-schedule-of-indian-constitution/"
+      ],
+      "fix": null,
+      "note": "'According to population' only 'usually' true per sources; UT members not chosen by state STV rule; blog sources."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://ies.gov.in/arthapedia/concept/money-bill",
+        "https://blog.ipleaders.in/money-bill-in-india/",
+        "https://www.careers360.com/question-a-money-bill-should-be-returned-to-the-lok-sabha-within-days-by-rajya-sabha-either-with-recommendations-or-without-recommendations-lnq"
+      ],
+      "fix": null,
+      "note": "Art 109 confirmed."
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "Speaker of Lok Sabha",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://www.geeksforgeeks.org/?p=1107075",
+        "https://unacademy.com/content/learn-about-joint-sitting-parliamentary-proceedall-about-indian-polity-and-governance-question-hourings/"
+      ],
+      "fix": null,
+      "note": "Answer correct but culled as weakest: prep/Wikipedia sources, Art 108 vs 118(4) cited inconsistently, overlaps Q7 on Parliament procedure."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "More members therefore voted for it than against, yet it failed to reach the special majority that constitutional amendments require.",
+      "new": "So more members voted for it than against, yet it was still defeated.",
+      "reason": "Remove giveaway for Q1 reason"
+    },
+    {
+      "old": "The women's reservation law enacted in 2023 was not affected by the defeat.",
+      "new": "",
+      "reason": "Not explicitly confirmed"
+    },
+    {
+      "old": "Constitution (131st Amendment) Bill, 2026 (first mention)",
+      "new": "Constitution (One Hundred and Thirty-first Amendment) Bill, 2026",
+      "reason": "Full title"
+    }
+  ],
+  "writer_flags_checked": [
+    {
+      "flag": "Arts 82/334A detail",
+      "result": "Art 82 confirmed (PRS objects, PolicyEdge, Vision); 334A two summaries only"
+    },
+    {
+      "flag": "2011 Census and southern/NE concern",
+      "result": "confirmed by LiveLaw, Moneylife, Business Today"
+    },
+    {
+      "flag": "Delimitation Act 2002 and UT coverage",
+      "result": "confirmed by PRS summaries, Business Today, SCC Online, ETV Bharat"
+    },
+    {
+      "flag": "Passage length",
+      "result": "owner decision, not padded"
+    },
+    {
+      "flag": "Date outside slot window",
+      "result": "not a factual issue; 17 Apr confirmed"
+    },
+    {
+      "flag": "Opposition party list omitted",
+      "result": "still omitted; not found by search"
+    },
+    {
+      "flag": "Art 368 threshold 352 vs 360",
+      "result": "avoided; confirmed"
+    },
+    {
+      "flag": "Q2 distractors",
+      "result": "each confirmed by two publishers"
+    },
+    {
+      "flag": "Q4 Art 170 source",
+      "result": "constitutionofindia.net result found; replaced forumias"
+    },
+    {
+      "flag": "Q6 Art 80 sources",
+      "result": "Q6 dropped"
+    },
+    {
+      "flag": "Q8 Art 108/118(4)",
+      "result": "inconsistency real; Q8 dropped"
+    }
+  ],
+  "summary": "6 of 8 kept (Q1,2,3,4,5,7). Q6 dropped as ambiguous, Q8 as weakest and overlapping. Vote and date confirmed by many publishers; 24 searches used."
+}
