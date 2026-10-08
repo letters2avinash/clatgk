@@ -1,0 +1,689 @@
+{
+ "title": "CLAT GK - Test 06",
+ "date": "2026-10-08",
+ "duration_minutes": 50,
+ "marks_correct": 1,
+ "marks_wrong": -0.25,
+ "notes": "Generated with Haiku 5.5, then independently verified question by question by separate Sonnet agents using fresh searches (two-source rule; claims that could not be confirmed were removed or reworded; ambiguous, unchecked or overlapping questions were dropped). Several primary sources were unreachable, so residual risk is listed below. Not reviewed by a human.",
+ "residual": [
+  "Passage 2: constitutionofindia.net unreachable from harness (DNS failure); all Article texts confirmed via secondary legal-text reproductions (courtbook, taxmanagementindia, writinglaw, vidhijudicial), not the primary site directly.",
+  "Passage 2: Q8 (Arts 164, 163, 158, 165) confirmed from search-result summaries of legal-text and explainer sites only; no page fetched.",
+  "Passage 2: Q6 (Art 200 reserve Bill) rests on search summaries (gktoday, forumias, aaptaxlaw, siasat); no primary text fetched.",
+  "Passage 2: Q4 (Art 239AA) rests on explainers (lotusarise, forumias, drishti) plus a 2002 Lok Sabha reply; constitution text not fetched.",
+  "Passage 2: Q5 match: Arts 155, 361, 213, 166 confirmed from legal-text/exam-prep sites via snippets; Art 361 immunity wording from vajiramandravi/iasgyan (exam-prep).",
+  "Passage 2: Passage: whether R.N. Ravi is full or acting Governor of West Bengal is unclear in reports; sentence says only 'moved ... in his place'.",
+  "Passage 2: Hasnain '43rd' confirmed by governor.bih.nic.in and newsonair; one Patna Press item says '30th' (apparent error).",
+  "Passage 2: Passage is very short (~127 words); writer flags (Shukla/Varma moves, oath dates) were checked and confirmed but not added.",
+  "Passage 3: Constitutional article questions (Art 170, 172, 326, 324/325/329, 164) rest on constitutionofindia.net, India Code mirrors and exam-prep pages; no India Code page fetched directly.",
+  "Passage 3: Q5 statement II (Rajya Sabha indirect, outside Art 326) rests on exam-prep pages (iasgyan, Drishti) plus the Supreme Court judgment snippet.",
+  "Passage 3: Bhabanipur margin: reports give 15,105 (EC tallies) and 15,114 (Statesman, ETV Bharat); passage says only 'more than 15,000', which is safe.",
+  "Passage 3: Search snippets only for most news claims; WebFetch pages not opened. Passage is short (about 108 words).",
+  "Passage 4: Q1 Art 51A(h) wording confirmed only via secondary sites (Leaflet, exam-prep); constitution text unreachable (legislative.gov.in unresolvable).",
+  "Passage 4: Q8 BSI under MoEFCC rests on moef.gov.in plus Wikipedia only.",
+  "Passage 4: Q4 ICMR-MoHFW: ICMR/DHR pages plus search summaries; Wikipedia not relied on. GSI-Mines and SoI-DST via ministry docs/PIB; primary pages unfetchable (WebFetch DNS failed).",
+  "Passage 4: Q2 ISRO 1969 rests on Wikipedia and Britannica; exact day varies across sources.",
+  "Passage 4: Q5 NBA Chennai: Act text via advocatekhoj (third-party reproduction), WII and news; indiacode unreachable.",
+  "Passage 4: Passage: ISRO-AIIMS signing date is 10 March per ISRO but 9 March per other outlets; Zootaxa date unstated. Passage is short after trimming unverified sentences.",
+  "Static-GK explanations cite Wikipedia or exam-prep pages in places where a primary text was not reachable."
+ ],
+ "passages": [
+  {
+   "title": "New CPI Series and Startup Fund",
+   "topic_tags": [
+    "Schemes, reports & indices",
+    "Economy",
+    "Inflation",
+    "Startups",
+    "Static GK"
+   ],
+   "slot": "T06P1",
+   "text": "The Ministry of Statistics and Programme Implementation (MoSPI) released the first Consumer Price Index (CPI) series with 2024 as its base year (2024=100) on 12 February 2026, replacing the series that used 2012 as its base. The revised basket has 358 weighted items, up from 299. Its weights are drawn from the Household Consumption Expenditure Survey 2023-24, and the number of major spending groups has risen from six to 12. Headline retail inflation for January 2026 was placed at 2.75 per cent on a provisional basis.\n\nIn February 2026, the Union Cabinet approved the Startup India Fund of Funds 2.0, with a corpus of Rs 10,000 crore to mobilise venture capital for startups in deep technology and innovation-led sectors. The government does not invest directly in startups. Instead, the scheme commits capital to SEBI-registered alternative investment funds (AIFs), which invest in recognised startups. The Small Industries Development Bank of India (SIDBI) is the first implementing agency, and the Department for Promotion of Industry and Internal Trade (DPIIT) oversees the scheme. DPIIT's operational guidelines sort eligible AIFs into categories that include deep-tech funds, micro venture capital funds, and funds backing innovation-led manufacturing.",
+   "sources": [
+    "https://www.etvbharat.com/en/business/government-unveils-updated-cpi-with-2024-base-year-enn26021205106",
+    "https://superkalam.com/current-affairs/13-02-2026/retail-inflation-at-2-75-in-jan-under-revised-cpi-data-series-pg13-425a3188-805f-44dc-9962-b40e9fb8fba0",
+    "https://www.ensureias.com/blog/current-affairs/indias-new-cpi-series-base-year-2024-implications-for-inflation-and-monetary-policy",
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/cpi-base-year-revised-to-2024/print_manually",
+    "https://basispointinsight.com/Story/inside-india-s-new-cpi-series--basket-revision-and-methodology_f32fd053a6df.html",
+    "https://www.outlookbusiness.com/news/revamped-cpi-basket-to-add-more-service-items-as-food-weight-is-slashed",
+    "https://entrackr.com/snippets/cabinet-approves-startup-india-fund-of-funds-20-with-rs-10000-cr-corpus-11106373",
+    "https://www.indiascienceandtechnology.gov.in/stihighlights/union-cabinet-approves-%E2%82%B910000-crore-startup-india-fund-funds-20-boost-deep-tech-innovation",
+    "https://india.entrepreneur.com/business-news/dpiit-issues-guidelines-for-inr-10000-cr-startup-india-fund-of-funds-2-0",
+    "https://www.tribuneindia.com/news/business/dpiit-issues-operational-guidelines-for-rs-10000-crore-startup-india-fund-of-funds-2-0-scheme/",
+    "https://www.biospectrumindia.com/news/20/27725/dpiit-releases-operational-guidelines-for-startup-india-fund-of-funds-2-0-of-rs-10000-cr.html"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Under the RBI's inflation-targeting framework, what CPI inflation target, with its tolerance band, did the central government notify for the period 1 April 2026 to 31 March 2031?",
+     "options": [
+      "4 per cent with a tolerance band of 2 per cent",
+      "6 per cent with a tolerance band of 2 per cent",
+      "4 per cent with a tolerance band of 1 per cent",
+      "2 per cent with a tolerance band of 1 per cent"
+     ],
+     "answer": 0,
+     "explanation": "The central government, in consultation with the RBI, retained a CPI inflation target of 4 per cent with a tolerance band of 2 per cent (upper 6 per cent, lower 2 per cent) for 1 April 2026 to 31 March 2031.",
+     "source": "https://www.outlookmoney.com/banking/rbi-to-maintain-4-per-cent-inflation-target-until-2031-centre ; https://www.basispointinsight.com/Story/government-retains-inflation-target-at-4--for-another-five-years_bb54c3fc1d9c.html ; https://www.drishtiias.com/daily-updates/daily-news-analysis/india-retains-4-inflation-target-for-rbi/print_manually"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Alternative investment funds that pursue complex trading strategies are classified as Category III AIFs under SEBI's AIF Regulations, 2012.",
+     "reason": "Category III is defined in SEBI's AIF Regulations, 2012 by reference to funds that may employ diverse or complex trading strategies and may use leverage through derivatives.",
+     "answer": 0,
+     "explanation": "Both statements are true. Category III is defined by the trading approach the regulations describe (diverse or complex strategies, including leveraged derivative use), which is the reason such funds fall in that category.",
+     "source": "https://www.sebi.gov.in/media/press-releases/may-2012/sebi-notifies-sebi-alternative-investment-funds-regulations-2012_22799.html ; https://bhattandjoshiassociates.com/sebi-aif-regulations-2012-a-comprehensive-analysis/",
+     "truth": [
+      true,
+      true
+     ]
+    },
+    {
+     "type": "direct",
+     "q": "The Department for Promotion of Industry and Internal Trade (DPIIT), which oversees the Startup India Fund of Funds 2.0, functions under which Union ministry?",
+     "options": [
+      "NITI Aayog",
+      "Ministry of Commerce and Industry",
+      "Ministry of Micro, Small and Medium Enterprises",
+      "Ministry of Finance"
+     ],
+     "answer": 1,
+     "explanation": "DPIIT is a department under the Ministry of Commerce and Industry. It was renamed from the Department of Industrial Policy and Promotion in January 2019.",
+     "source": "https://www.understandupsc.com/department-for-promotion-of-industry-and-internal-trade-dpiit/ ; https://c4scourses.in/blog/department-of-promotion-of-industry-and-internal-dpiit/ ; https://www.drishtiias.com/india-year-book/india-year-book-2024/indian-economy/chapter-11-industry/print_manually"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Securities and Exchange Board of India",
+      "II. Reserve Bank of India",
+      "III. Census of India (Registrar General and Census Commissioner)",
+      "IV. Small Industries Development Bank of India"
+     ],
+     "list2": [
+      "A. Census Act, 1948",
+      "B. Reserve Bank of India Act, 1934",
+      "C. Securities and Exchange Board of India Act, 1992",
+      "D. Small Industries Development Bank of India Act, 1989"
+     ],
+     "options": [
+      "I-D, II-B, III-C, IV-A",
+      "I-B, II-C, III-A, IV-D",
+      "I-C, II-A, III-B, IV-D",
+      "I-C, II-B, III-A, IV-D"
+     ],
+     "answer": 3,
+     "explanation": "Each body rests on its own statute: SEBI on the SEBI Act, 1992; the RBI on the RBI Act, 1934; the census on the Census Act, 1948; and SIDBI on the SIDBI Act, 1989. So I-C, II-B, III-A, IV-D.",
+     "source": "https://www.sebi.gov.in/about-sebi.html ; https://bhattandjoshiassociates.com/the-sebi-act-of-1992-foundation-of-indias-securities-market-regulation/ ; https://www.indiacode.nic.in/handle/123456789/2398 ; https://indiacode.nic.in/handle/123456789/1519 ; https://www.taxheal.com/?p=140205 ; https://www.sidbi.in/uploads/coca_reports/1. SIDBI_Act_1989.pdf ; https://www.iimb.ac.in/ccmrm/file/SIDBI_Act.pdf"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. The Monetary Policy Committee of the Reserve Bank of India has six members.",
+      "II. The Governor of the Reserve Bank of India is not a member of the Monetary Policy Committee."
+     ],
+     "answer": 0,
+     "explanation": "Statement I is true: the committee has six members (the Governor, the Deputy Governor in charge of monetary policy, one RBI officer, and three external members). Statement II is false, because the Governor is its chairperson. Only I is correct.",
+     "source": "https://www.gktoday.in/monetary-policy-committee-of-india-composition-mandate-and-workings-2/ ; https://www.scconline.com/blog/post/2016/10/01/constitution-of-monetary-policy-committee-under-the-reserve-bank-of-india-act-1934-notified ; https://unacademy.com/content/economy-notes/monetary-policy-committee/",
+     "truth": [
+      true,
+      false
+     ]
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. Census 2027 will be the eighth census taken in India since Independence.",
+      "2. Census 2027 has a single general reference date of 1 October 2026.",
+      "3. Census 2027 excludes enumeration of caste.",
+      "4. Census 2027 population enumeration is conducted in a single phase, without any preceding housing listing."
+     ],
+     "mode": "correct",
+     "answer": 0,
+     "explanation": "Only one statement is correct. Statement 1 is correct (the 16th census overall and the eighth since Independence). Statement 2 is wrong: there is no single general reference date; it is 1 March 2027 for most of the country, with different dates for some areas (for example 1 October 2026 for snow-bound areas). Statement 3 is wrong because caste data is included. Statement 4 is wrong because the census has two phases, house listing followed by population enumeration.",
+     "source": "https://www.onmanorama.com/upsc/current-affairs/2026/04/01/census-2027-explained.amp.html ; https://currentaffairs.adda247.com/census-2027-explained-which-census-is-it-check-all-indian-census-years/ ; https://visionias.in/current-affairs/news-today/2025-06-05/polity-and-governance/population-census-2027-to-be-conducted-in-india-along-with-enumeration-of-castes ; https://www.etvbharat.com/en/!bharat/census-with-caste-enumeration-enn25060405082 ; https://www.theweek.in/news/india/2025/06/04/national-population-census-with-caste-enumeration-to-begin-on-march-1-2027.amp.html ; https://www.taxheal.com/?p=140205",
+     "truth": [
+      true,
+      false,
+      false,
+      false
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Governors reshuffle of March 2026",
+   "topic_tags": [
+    "appointments",
+    "Governors",
+    "Lieutenant Governors",
+    "Constitution",
+    "Articles 153-239AA",
+    "India 2026"
+   ],
+   "slot": "T06P2",
+   "status": "complete",
+   "text": "In March 2026, the President approved a reshuffle of Governors and Lieutenant Governors across nine States and Union Territories. The reshuffle came as C.V. Ananda Bose resigned as Governor of West Bengal. R.N. Ravi, who had been Governor of Tamil Nadu, was moved to West Bengal in his place.\n\nKavinder Gupta, who had been Lieutenant Governor of Ladakh, was appointed Governor of Himachal Pradesh. Vinai Kumar Saxena, previously Lieutenant Governor of Delhi, was appointed Lieutenant Governor of Ladakh, and Taranjit Singh Sandhu was appointed Lieutenant Governor of Delhi.\n\nRetired Lieutenant General Syed Ata Hasnain was appointed Governor of Bihar, succeeding Arif Mohammed Khan. He took the oath of office on 14 March 2026, and the Bihar Governor's office lists him as the 43rd Governor of the State.",
+   "sources": [
+    "https://www.drishtiias.com/state-pcs-current-affairs/president-approves-governor-reshuffle-across-9-states-and-uts/print_manually",
+    "https://www.etvbharat.com/amp/en/bharat/president-murmu-appoints-nine-new-governors-enn26030507166",
+    "https://www.thequint.com/amp/story/news/breaking-news/president-appoints-new-governors-major-reshuffle-india",
+    "https://organiser.org/2026/03/06/342890/bharat/india-sees-major-governors-and-lieutenant-governors-reshuffle-ahead-of-rajya-sabha-elections-in-key-states/amp/",
+    "https://en.wikipedia.org/wiki/Kavinder_Gupta",
+    "https://www.deccanherald.com/india/himachal-pradesh/kavinder-gupta-sworn-in-as-himachal-pradesh-governor-says-post-belongs-to-no-political-party-3927085",
+    "https://governor.bih.nic.in/gallery/lt-gen-syed-ata-hasnain-retd-was-sworn-in-as-governor-of-bihar/",
+    "https://www.etvbharat.com/en/state/lieutenant-general-syed-ata-hasnain-takes-oath-as-bihar-governor-enn26031401666",
+    "https://www.newsonair.gov.in/bihar-lieutenant-general-retired-syed-ata-hasnain-takes-oath-as-43rd-governor-of-state",
+    "https://patnapress.com/?p=64294"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Under the Constitution, before entering upon office a Governor takes an oath or affirmation administered by whom?",
+     "options": [
+      "The Chief Justice of India",
+      "The President of India",
+      "The Chief Justice of the High Court exercising jurisdiction in the State",
+      "The Chief Minister of the State"
+     ],
+     "answer": 2,
+     "explanation": "Article 159: the Governor's oath or affirmation is taken before the Chief Justice of the High Court exercising jurisdiction in the State or, if he is absent, the senior-most available Judge of that Court. The Chief Justice of India, the President and the Chief Minister are not named in Article 159.",
+     "source": "https://www.constitutionofindia.net/articles/article-159-oath-or-affirmation-by-the-governor/ ; https://courtbook.in/constitution/article/article-159-oath-or-affirmation-by-the-governor ; https://www.newsonair.gov.in/bihar-lieutenant-general-retired-syed-ata-hasnain-takes-oath-as-43rd-governor-of-state"
+    },
+    {
+     "type": "direct",
+     "q": "What minimum age does the Constitution prescribe for appointment as Governor of a State?",
+     "options": [
+      "40 years",
+      "35 years",
+      "25 years",
+      "30 years"
+     ],
+     "answer": 1,
+     "explanation": "Article 157 provides that no person shall be eligible for appointment as Governor unless he is a citizen of India and has completed the age of 35 years.",
+     "source": "https://www.constitutionofindia.net/articles/article-157-qualifications-for-appointment-as-governor/ ; https://law.drishtiias.com/to-the-point/ttp-constitution-of-india/the-governor"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. Article 239AA makes special provision for the National Capital Territory of Delhi.",
+      "II. The Legislative Assembly of Delhi can make laws on police and public order.",
+      "III. Members of the Legislative Assembly of Delhi are chosen by direct election from territorial constituencies."
+     ],
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "All of the above"
+     ],
+     "answer": 2,
+     "truth": [
+      true,
+      false,
+      true
+     ],
+     "explanation": "Statements I and III are correct. Article 239AA(2) provides for direct election from territorial constituencies. Statement II is incorrect because Article 239AA(3)(a) excludes State List Entries 1 (public order), 2 (police) and 18 (land) from the Delhi Assembly's legislative competence.",
+     "source": "https://www.constitutionofindia.net/articles/article-239aa-special-provisions-with-respect-to-delhi/ ; https://ksandk.com/md/constitutional/article-239aa-demystified-understanding-its-significance-and-the-supreme-courts-interpretation-in-the-delhi-services-verdict/"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 155",
+      "II. Article 213",
+      "III. Article 361",
+      "IV. Article 166"
+     ],
+     "list2": [
+      "A. Ordinance-making power of the Governor when the Legislature is not in session",
+      "B. Immunity of the Governor from criminal proceedings during the term of office",
+      "C. Appointment of the Governor by the President by warrant under hand and seal",
+      "D. Executive action of the State expressed to be taken in the name of the Governor"
+     ],
+     "options": [
+      "I-C, II-A, III-B, IV-D",
+      "I-A, II-C, III-D, IV-B",
+      "I-B, II-D, III-A, IV-C",
+      "I-D, II-B, III-C, IV-A"
+     ],
+     "answer": 0,
+     "explanation": "Article 155 provides for appointment of the Governor by the President by warrant under hand and seal (C). Article 213 gives the Governor ordinance-making power when the Legislature is not in session (A). Article 361 gives the Governor immunity from criminal proceedings during his term (B). Article 166 provides that State executive action is expressed in the Governor's name (D).",
+     "source": "https://constitutionofindia.net/articles/article-155-appointment-of-governor ; https://www.understandupsc.com/governor-appointment-in-india/ ; https://vidhijudicial.com/article-213-of-the-constitution-of-india.html ; https://blog.ipleaders.in/?p=94511 ; https://www.iasgyan.in/daily-current-affairs/article-361 ; https://vajiramandravi.com/current-affairs/article-361-of-indian-constitution/ ; https://www.constitutionofindia.net/articles/article-166-conduct-of-business-of-the-government-of-a-state ; https://vidhijudicial.com/article-166-of-the-constitution-of-india.html"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "A Governor of a State may reserve a State Bill for the consideration of the President.",
+     "reason": "Article 200 of the Constitution empowers the Governor to reserve certain Bills for the consideration of the President.",
+     "answer": 0,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both statements are true. Article 200 is the direct constitutional source of the Governor's power to reserve a Bill for the President, so R explains A. Courts have since limited how this power may be used, but the power itself exists.",
+     "source": "https://www.gktoday.in/powers-of-the-governor-with-special-reference-to-article-200/ ; https://www.siasat.com/reserving-10-bills-for-president-illegal-arbitrary-sc-slams-tn-governor-3204685/"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The Chief Minister of a State is appointed by the Governor.",
+      "2. The Governor is bound to act on the advice of the Council of Ministers in every matter, without exception.",
+      "3. The Governor of a State shall not hold any other office of profit.",
+      "4. The Advocate-General for a State is appointed by the Chief Minister."
+     ],
+     "mode": "correct",
+     "answer": 1,
+     "truth": [
+      true,
+      false,
+      true,
+      false
+     ],
+     "explanation": "Two statements are correct: 1 and 3. Statement 1 reflects Article 164(1). Statement 3 reflects Article 158(2). Statement 2 is wrong because Article 163(1) excludes matters the Governor must decide in his discretion, and Article 163(2) makes his decision on that question final. Statement 4 is wrong because Article 165 provides that the Governor appoints the Advocate-General.",
+     "source": "https://www.constitutionofindia.net/articles/article-164-other-provisions-as-to-ministers/ ; https://vidhijudicial.com/article-164-of-the-constitution-of-india.html ; https://blog.ipleaders.in/article-163-of-indian-constitution/ ; https://forumias.com/blog/article-163-of-indian-constitution/ ; https://www.constitutionofindia.net/articles/article-158-conditions-of-governors-office/ ; https://www.constitutionofindia.net/articles/article-165-advocate-general-for-the-state/ ; https://anantamias.com/?p=37122"
+    }
+   ],
+   "residual": [
+    "constitutionofindia.net unreachable from harness (DNS failure); all Article texts confirmed via secondary legal-text reproductions (courtbook, taxmanagementindia, writinglaw, vidhijudicial), not the primary site directly.",
+    "Q8 (Arts 164, 163, 158, 165) confirmed from search-result summaries of legal-text and explainer sites only; no page fetched.",
+    "Q6 (Art 200 reserve Bill) rests on search summaries (gktoday, forumias, aaptaxlaw, siasat); no primary text fetched.",
+    "Q4 (Art 239AA) rests on explainers (lotusarise, forumias, drishti) plus a 2002 Lok Sabha reply; constitution text not fetched.",
+    "Q5 match: Arts 155, 361, 213, 166 confirmed from legal-text/exam-prep sites via snippets; Art 361 immunity wording from vajiramandravi/iasgyan (exam-prep).",
+    "Passage: whether R.N. Ravi is full or acting Governor of West Bengal is unclear in reports; sentence says only 'moved ... in his place'.",
+    "Hasnain '43rd' confirmed by governor.bih.nic.in and newsonair; one Patna Press item says '30th' (apparent error).",
+    "Passage is very short (~127 words); writer flags (Shukla/Varma moves, oath dates) were checked and confirmed but not added."
+   ]
+  },
+  {
+   "title": "2026 State Assembly Elections: Bengal and Kerala",
+   "topic_tags": [
+    "state elections",
+    "West Bengal",
+    "Kerala",
+    "Election Commission of India",
+    "Constitution"
+   ],
+   "slot": "T06P3",
+   "text": "The Election Commission of India declared the results of the assembly elections in West Bengal and Kerala on 4 May 2026. In West Bengal, the Commission ordered a fresh poll at all 285 polling stations of the Falta constituency after electoral offences; that repoll was held on 21 May. In Bhabanipur, Mamata Banerjee lost to Suvendu Adhikari by more than 15,000 votes. Adhikari was sworn in as Chief Minister of West Bengal on 9 May 2026 at Brigade Parade Ground in Kolkata.\n\nIn Kerala, the United Democratic Front returned to power after a decade in opposition. V.D. Satheesan was sworn in as Chief Minister on 18 May 2026.",
+   "sources": [
+    "https://www.indiatvnews.com/west-bengal/news-mamata-banerjee-loses-to-bjp-s-suvendu-adhikari-by-over-15000-votes-in-bhabanipur-in-west-bengal-assembly-elections-2026-05-04-1039923",
+    "https://www.thestatesman.com/statesman-mandate/bhabanipur-election-mamata-banerjee-defeat-suvendu-adhikari-win-kolkata-results-west-bengal-politics-bjp-tmc-upset-election-results-1503589873.html",
+    "https://deccanchronicle.com/nation/suvendu-defeats-mamata-in-bhabanipur-by-over-15000-votes-1954634",
+    "https://newsonair.gov.in/west-bengal-election-commission-orders-repolling-in-all-285-booths-of-falta-constituency/",
+    "https://www.theweek.in/news/india/2026/05/02/repolls-in-west-bengal-again-all-285-booths-falta-constituency.amp.html",
+    "https://www.indiatvnews.com/west-bengal/kolkata-election-commission-orders-repoll-in-west-bengal-falta-constituency-on-may-21-after-electoral-irregularities-2026-05-02-1039722",
+    "https://www.prabhatkhabar.com/state/west-bengal/kolkata/west-bengal-election-2026-falta-assembly-poll-cancelled-fresh-voting-21-may",
+    "https://www.thequint.com/news/breaking-news/suvendu-adhikari-sworn-in-bjp-chief-minister",
+    "https://www.thehitavada.com//Encyc/2026/5/10/suvendu-adhikari-takes-oath-as-wb-cm.html",
+    "https://www.wionews.com/india-news/vd-satheesan-sworn-in-as-kerala-cm-1779079802367/amp",
+    "https://thesouthfirst.com/keralam/vd-satheesan-to-take-oath-as-kerala-chief-minister-as-udf-returns-to-power-after-10-years/",
+    "https://www.theweek.in/news/india/2026/05/18/vd-satheesan-takes-oath-as-kerala-cm-20-ministers-also-sworn-in.amp.html",
+    "https://www.understandupsc.com/?p=15190",
+    "https://www.gktoday.in/constitutional-provisions-relating-to-state-legislatures/",
+    "https://www.constitutionofindia.net/articles/article-172-duration-of-state-legislatures",
+    "https://www.understandupsc.com/article-172/",
+    "https://www.understandupsc.com/?p=13938",
+    "https://www.understandupsc.com/?p=15684",
+    "https://api.sci.gov.in/supremecourt/2015/32225/32225_2015_Judgement_16-Feb-2018.pdf",
+    "https://www.constitutionofindia.net/articles/article-325-no-person-to-be-ineligible-for-inclusion-in-or-to-claim-to-be-included-in-a-special-electoral-roll-on-grounds-of-religion-race-caste-or-sex",
+    "https://www.constitutionofindia.net/articles/article-243za-elections-to-the-municipalities/",
+    "https://www.legitquest.com/case/aeltemesh-rein-v-chandulal-chandrakar-others/362F",
+    "https://delhihighcourt.nic.in/app/showFileJudgment/JIS24012025CW9352025_001020.pdf",
+    "https://www.constitutionofindia.net/articles/article-164-other-provisions-as-to-ministers/",
+    "https://blog.ipleaders.in/article-164-of-indian-constitution/"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Under Article 170 of the Constitution, what is the maximum permissible strength of a State Legislative Assembly?",
+     "options": [
+      "500",
+      "250",
+      "750",
+      "600"
+     ],
+     "answer": 0,
+     "explanation": "Article 170(1) caps a State Legislative Assembly at 500 members; the same clause sets a minimum of 60.",
+     "source": "https://www.understandupsc.com/?p=15190 ; https://www.gktoday.in/constitutional-provisions-relating-to-state-legislatures/"
+    },
+    {
+     "type": "direct",
+     "q": "Which party's candidate defeated Mamata Banerjee in the Bhabanipur Assembly constituency in the 2026 West Bengal Assembly election?",
+     "options": [
+      "Trinamool Congress",
+      "Bharatiya Janata Party",
+      "Indian National Congress",
+      "Communist Party of India (Marxist)"
+     ],
+     "answer": 1,
+     "explanation": "Suvendu Adhikari, the Bharatiya Janata Party candidate, won Bhabanipur by more than 15,000 votes over Mamata Banerjee.",
+     "source": "https://www.indiatvnews.com/west-bengal/news-mamata-banerjee-loses-to-bjp-s-suvendu-adhikari-by-over-15000-votes-in-bhabanipur-in-west-bengal-assembly-elections-2026-05-04-1039923 ; https://deccanchronicle.com/nation/suvendu-defeats-mamata-in-bhabanipur-by-over-15000-votes-1954634"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Parliament can extend the term of a State Legislative Assembly beyond five years even when no Proclamation of Emergency is in force.",
+     "reason": "The proviso to Article 172 allows Parliament to extend the normal five-year term of a State Legislative Assembly while a Proclamation of Emergency is in force.",
+     "answer": 3,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "Article 172(1) fixes a five-year term. The proviso allows extension only while an Emergency is in force, so the assertion is false while the reason is true.",
+     "source": "https://www.constitutionofindia.net/articles/article-172-duration-of-state-legislatures ; https://www.understandupsc.com/article-172/"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Under the Constitution, the minimum voting age for elections to the Lok Sabha and State Legislative Assemblies is 21 years.",
+      "II. Adult suffrage under Article 326 extends to elections to the Rajya Sabha."
+     ],
+     "answer": 3,
+     "truth": [
+      false,
+      false
+     ],
+     "explanation": "Article 326 sets the voting age at 18 (lowered from 21 by the 61st Amendment, 1988) and applies to the House of the People and State Legislative Assemblies, not the Rajya Sabha.",
+     "source": "https://www.understandupsc.com/?p=13938 ; https://api.sci.gov.in/supremecourt/2015/32225/32225_2015_Judgement_16-Feb-2018.pdf"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 243ZA",
+      "II. Article 324",
+      "III. Article 325",
+      "IV. Article 329"
+     ],
+     "list2": [
+      "A. Single general electoral roll with no exclusion on grounds of religion, race, caste or sex",
+      "B. Bar on courts in election matters except through an election petition",
+      "C. Superintendence of municipal electoral rolls and elections by the State Election Commission",
+      "D. Superintendence of elections to Parliament and State Legislatures by the Election Commission of India"
+     ],
+     "options": [
+      "I-C, II-D, III-A, IV-B",
+      "I-D, II-C, III-B, IV-A",
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-A, III-D, IV-C"
+     ],
+     "answer": 0,
+     "explanation": "Article 243ZA vests municipal elections in the State Election Commission; Article 324 vests superintendence of Union and State elections in the Election Commission of India; Article 325 requires one general roll; Article 329(b) bars courts except through election petitions.",
+     "source": "https://www.constitutionofindia.net/articles/article-243za-elections-to-the-municipalities/ ; https://www.understandupsc.com/?p=15684 ; https://www.constitutionofindia.net/articles/article-325-no-person-to-be-ineligible-for-inclusion-in-or-to-claim-to-be-included-in-a-special-electoral-roll-on-grounds-of-religion-race-caste-or-sex ; https://www.legitquest.com/case/aeltemesh-rein-v-chandulal-chandrakar-others/362F ; https://delhihighcourt.nic.in/app/showFileJudgment/JIS24012025CW9352025_001020.pdf"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The total number of ministers in a State government, including the Chief Minister, may not exceed 15 per cent of the Legislative Assembly's membership.",
+      "2. A State Legislative Council is liable to dissolution in the same way as the Legislative Assembly.",
+      "3. Roughly one-third of the members of a State Legislative Council retire every two years.",
+      "4. A legislator disqualified under the Tenth Schedule cannot be appointed a minister for the period of disqualification."
+     ],
+     "mode": "correct",
+     "answer": 2,
+     "truth": [
+      true,
+      false,
+      true,
+      true
+     ],
+     "explanation": "Statements 1, 3 and 4 are correct, so three statements are correct. Statement 2 is wrong because a Legislative Council is not subject to dissolution under Article 172(2).",
+     "source": "https://www.constitutionofindia.net/articles/article-164-other-provisions-as-to-ministers/ ; https://blog.ipleaders.in/article-164-of-indian-constitution/ ; https://www.constitutionofindia.net/articles/article-172-duration-of-state-legislatures"
+    }
+   ],
+   "residual": [
+    "Constitutional article questions (Art 170, 172, 326, 324/325/329, 164) rest on constitutionofindia.net, India Code mirrors and exam-prep pages; no India Code page fetched directly.",
+    "Q5 statement II (Rajya Sabha indirect, outside Art 326) rests on exam-prep pages (iasgyan, Drishti) plus the Supreme Court judgment snippet.",
+    "Bhabanipur margin: reports give 15,105 (EC tallies) and 15,114 (Statesman, ETV Bharat); passage says only 'more than 15,000', which is safe.",
+    "Search snippets only for most news claims; WebFetch pages not opened. Passage is short (about 108 words)."
+   ]
+  },
+  {
+   "title": "March 2026 science and space news",
+   "topic_tags": [
+    "science",
+    "space",
+    "health research",
+    "biodiversity",
+    "quantum technology",
+    "India 2026"
+   ],
+   "slot": "T06P4",
+   "status": "complete",
+   "text": "In March 2026, Indian science and space agencies announced several research developments. According to ISRO's official release dated 10 March 2026, the Indian Space Research Organisation and AIIMS New Delhi signed a framework memorandum of understanding for cooperation in space medicine and research. The agreement was signed and exchanged by Dinesh Kumar Singh, Director of ISRO's Human Spaceflight Centre, and Dr M Srinivas, Director of AIIMS New Delhi, in the presence of V Narayanan, Chairman of ISRO and Secretary of the Department of Space.\n\nThe pact aims to promote joint research on human health, performance and safety during long-duration missions, such as the Bharatiya Antariksh Station and crewed missions to the Moon. The research areas named in the agreement include human physiology, cardiovascular and autonomic regulation, musculoskeletal health in microgravity, microbiome and immunology, genomics and biomarkers, and behavioural health.\n\nIn a separate development, the Zoological Survey of India described two new species of lichen moth from the eastern Himalaya, Caulocera hollowayi and Asura buxa, in the international taxonomic journal Zootaxa. The first was collected near Golitar in Sikkim and the second at Panijhora in West Bengal. The species were distinguished by features including body scales, bristle patterns and genital structures. Caterpillars of these moths feed almost exclusively on lichens, which are highly sensitive to air pollution, so officials said the moths can serve as indicators of air quality and of the health of mountain ecosystems. ZSI Director Dhriti Banerjee described it as a milestone in Indian taxonomy.\n\nOn 16 March 2026, the government approved quantum teaching facilities and laboratories at 23 academic institutions across the country. The decision was announced after a joint monthly meeting of secretaries of science ministries and departments, chaired by Dr Jitendra Singh and attended by Principal Scientific Adviser Prof. Ajay Kumar Sood. The approval is part of the National Quantum Mission. A further 100 quantum teaching laboratories and facilities are under consideration. The same meeting reviewed the India International Science Festival 2026, for which Pune has been proposed as the venue.",
+   "sources": [
+    "https://www.isro.gov.in/ISRO_AIIMS_NewDelhi_signs_Framework_Memorandum.html",
+    "https://health.medicaldialogues.in/health/aiims-new-delhi-and-isro-sign-historic-mou-to-advance-space-medicine-research-in-india-166139",
+    "https://www.uniindia.com/isro-aiims-ink-mou-for-space-medicine-and-research/business-economy/news/3770451.html",
+    "https://indiamedtoday.com/aiims-isro-sign-space-medicine-pact-to-boost-human-spaceflight-healthcare-research/",
+    "https://www.tribuneindia.com/news/india/zoological-survey-of-india-discovers-2-new-species-of-lichen-moth-in-eastern-himalaya/",
+    "https://theprint.in/india/indian-scientists-discover-two-new-species-of-lichen-moths-environment-minister/2879092/",
+    "https://www.thestatesman.com/bengal/zsi-scientists-discover-new-species-of-air-pollution-indicator-moths-1503569663.html",
+    "https://www.newsonair.gov.in/govt-grants-approval-for-establishing-quantum-teaching-facilities-laboratories-in-23-academic-institutions-across-country",
+    "https://www.dailyexcelsior.com/quantum-teaching-facility-to-be-established-in-23-academic-institutions-across-india-dr-jitendra/",
+    "https://opengovasia.com/india-advances-quantum-research-and-education-across-academia/"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Under which sub-clause of Article 51A of the Constitution is the fundamental duty \"to develop the scientific temper, humanism and the spirit of inquiry and reform\" listed?",
+     "options": [
+      "Article 51A(g)",
+      "Article 51A(i)",
+      "Article 51A(j)",
+      "Article 51A(h)"
+     ],
+     "answer": 3,
+     "explanation": "Clause (h) of Article 51A, inserted by the 42nd Amendment (1976), lists the fundamental duty to develop scientific temper, humanism and the spirit of inquiry and reform. The other clauses listed concern different duties.",
+     "source": "https://theleaflet.in/constitution-day-india-needs-to-develop-scientific-temper-spirit-of-inquiry-and-humanism ; https://prepp.in/question/to-develop-the-scientific-temper-humanism-and-the-6a05f8c7bdefbc3714a0b2f9"
+    },
+    {
+     "type": "direct",
+     "q": "In which year was the Indian Space Research Organisation (ISRO) established?",
+     "options": [
+      "1975",
+      "1958",
+      "1980",
+      "1969"
+     ],
+     "answer": 3,
+     "explanation": "ISRO was formed on 15 August 1969, replacing INCOSPAR (set up in 1962). The other years are not its founding year.",
+     "source": "https://en.wikipedia.org/wiki/ISRO ; https://www.britannica.com/print/article/1330958"
+    },
+    {
+     "type": "direct",
+     "q": "The National Quantum Mission, which the Union Cabinet approved for the period 2023-24 to 2030-31, has a total approved outlay of approximately:",
+     "options": [
+      "Rs 3,000 crore",
+      "Rs 60,000 crore",
+      "Rs 6,003.65 crore",
+      "Rs 600 crore"
+     ],
+     "answer": 2,
+     "explanation": "The Cabinet approved the National Quantum Mission (19 April 2023) with a total outlay of Rs 6,003.65 crore for 2023-24 to 2030-31.",
+     "source": "https://dst.gov.in/cabinet-approves-national-quantum-mission-scale-scientific-industrial-rd-quantum-technologies ; https://www.businesstoday.in/amp/latest/economy/story/cabinet-approves-national-quantum-mission-for-rs-6000-cr-to-accelerate-quantum-technology-378051-2023-04-19"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Indian Council of Medical Research (ICMR)",
+      "II. Survey of India",
+      "III. India Meteorological Department (IMD)",
+      "IV. Geological Survey of India (GSI)"
+     ],
+     "list2": [
+      "A. Ministry of Mines",
+      "B. Ministry of Health and Family Welfare",
+      "C. Ministry of Earth Sciences",
+      "D. Ministry of Science and Technology"
+     ],
+     "options": [
+      "I-D, II-C, III-A, IV-B",
+      "I-C, II-A, III-D, IV-B",
+      "I-B, II-D, III-C, IV-A",
+      "I-A, II-B, III-C, IV-D"
+     ],
+     "answer": 2,
+     "explanation": "ICMR functions under the Ministry of Health and Family Welfare (I-B). Survey of India works under the Department of Science and Technology, within the Ministry of Science and Technology (II-D). IMD is under the Ministry of Earth Sciences (III-C). GSI is under the Ministry of Mines (IV-A).",
+     "source": "https://en.wikipedia.org/wiki/Indian_Council_of_Medical_Research ; https://www.icmr.gov.in/icmrobject/uploads/Static/1774347346_annualreport_230326.pdf ; https://en.wikipedia.org/wiki/Survey_of_India ; https://dst.gov.in/survey-of-india-zone ; https://en.wikipedia.org/wiki/India_Meteorological_Department ; https://moes.gov.in/about-us ; https://en.wikipedia.org/wiki/Geological_Survey_of_India ; https://en.wikipedia.org/wiki/Central_Geological_Service"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The headquarters of the Indian Space Research Organisation is located in New Delhi.",
+     "reason": "The National Biodiversity Authority has its head office at Chennai, as provided under the Biological Diversity Act, 2002.",
+     "answer": 3,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "A is false: ISRO is headquartered in Bengaluru. R is true: Section 8 of the Biological Diversity Act, 2002 fixes the NBA head office at Chennai.",
+     "source": "https://en.wikipedia.org/wiki/ISRO ; https://www.britannica.com/print/article/1330958 ; https://www.advocatekhoj.com/library/bareacts/biologicaldiversity/8.php ; https://en.wikipedia.org/wiki/Biological_Diversity_Act,_2002"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. The Botanical Survey of India functions under the Ministry of Environment, Forest and Climate Change.",
+      "II. The Zoological Survey of India functions under the Ministry of Environment, Forest and Climate Change.",
+      "III. The Indian Institute of Tropical Meteorology functions under the Ministry of Environment, Forest and Climate Change."
+     ],
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I and III only",
+      "All of the above"
+     ],
+     "answer": 1,
+     "truth": [
+      true,
+      true,
+      false
+     ],
+     "explanation": "I and II are true: both BSI and ZSI are under MoEFCC. III is false: IITM is an autonomous institute under the Ministry of Earth Sciences.",
+     "source": "https://moef.gov.in/index.php/botanical-survey-of-india ; https://en.wikipedia.org/wiki/Botanical_Survey_of_India ; https://moef.gov.in/index.php/zoological-survey-of-india ; https://en.wikipedia.org/wiki/Zoological_Survey_of_India ; https://en.wikipedia.org/wiki/Indian_Institute_of_Tropical_Meteorology ; https://indiaenvironmentportal.org.in/organisations/indian-institute-of-tropical-meteorology-2"
+    }
+   ],
+   "residual": [
+    "Q1 Art 51A(h) wording confirmed only via secondary sites (Leaflet, exam-prep); constitution text unreachable (legislative.gov.in unresolvable).",
+    "Q8 BSI under MoEFCC rests on moef.gov.in plus Wikipedia only.",
+    "Q4 ICMR-MoHFW: ICMR/DHR pages plus search summaries; Wikipedia not relied on. GSI-Mines and SoI-DST via ministry docs/PIB; primary pages unfetchable (WebFetch DNS failed).",
+    "Q2 ISRO 1969 rests on Wikipedia and Britannica; exact day varies across sources.",
+    "Q5 NBA Chennai: Act text via advocatekhoj (third-party reproduction), WII and news; indiacode unreachable.",
+    "Passage: ISRO-AIIMS signing date is 10 March per ISRO but 9 March per other outlets; Zootaxa date unstated. Passage is short after trimming unverified sentences."
+   ]
+  },
+  {
+   "title": "SC interim order on Jojari River",
+   "topic_tags": [
+    "Supreme Court",
+    "Jojari River",
+    "Rajasthan",
+    "environment",
+    "Constitution",
+    "NGT Act",
+    "Environment Protection Act"
+   ],
+   "slot": "T06P5",
+   "status": "complete",
+   "text": "The Supreme Court has passed an interim order on the Jojari River in Rajasthan. The order was delivered on 24 August 2026 by a bench of Justices Vikram Nath and Sandeep Mehta. It bars any construction or development within 100 metres of the river's edge until the high flood line and ecological buffer zones are demarcated. It also bars polluting or hazardous industries within 500 metres on either side of the flood line.",
+   "sources": [
+    "https://www.livelaw.in/top-stories/supreme-court-bans-construction-within-100-metres-of-jojari-river-bars-polluting-activities-within-500-metres-547085",
+    "https://www.moneylife.in/article/supreme-court-bans-construction-activities-within-100-meters-of-rajasthans-jojari-river/81450.html",
+    "https://www.barandbench.com/news/supreme-court-bans-construction-activities-within-100-meters-of-rajasthans-jojari-river",
+    "https://www.verdictum.in/supreme-court/bans-construction-100m-river-edge-polluting-units-500m-buffer-zone-jojari-river-1620491",
+    "https://www.deccanchronicle.com/nation/sc-bars-construction-within-100-metres-of-jojari-river-1981902",
+    "https://www.etvbharat.com/en/bharat/supreme-court-halts-construction-within-100m-of-jojari-river-to-protect-ecosystem-enn26082403561"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "The National Green Tribunal, which hears environmental disputes, was established under an Act of Parliament. In which year was the Tribunal set up?",
+     "options": [
+      "2006",
+      "2010",
+      "2014",
+      "2012"
+     ],
+     "answer": 1,
+     "explanation": "The National Green Tribunal was established on 18 October 2010 under the National Green Tribunal Act, 2010. The Act was enacted in 2010, and the Tribunal was set up that same year.",
+     "source": "https://www.greentribunal.gov.in/about-us ; https://indiacode.nic.in/handle/123456789/2025?locale=en"
+    },
+    {
+     "type": "direct",
+     "q": "The Environment (Protection) Act, 1986 was enacted to give effect to the decisions of which international conference?",
+     "options": [
+      "UN Conference on Environment and Development, Rio de Janeiro, 1992",
+      "UN Conference on Sustainable Development, Johannesburg, 2002",
+      "UN Climate Change Conference, Kyoto, 1997",
+      "UN Conference on the Human Environment, Stockholm, 1972"
+     ],
+     "answer": 3,
+     "explanation": "The preamble of the Environment (Protection) Act, 1986 recites that decisions were taken at the UN Conference on the Human Environment held at Stockholm in June 1972, and the Act was enacted to implement them. The Rio, Kyoto and Johannesburg conferences all took place after the 1986 Act and cannot be its source.",
+     "source": "https://en.wikipedia.org/wiki/Environment_Protection_Act,_1986 ; https://vajiramandravi.com/upsc-exam/?p=29848"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 48A",
+      "II. Article 51A(g)",
+      "III. Article 141",
+      "IV. Article 142"
+     ],
+     "list2": [
+      "A. Law declared by the Supreme Court is binding on all courts in India",
+      "B. Duty of every citizen to protect and improve the natural environment",
+      "C. State shall endeavour to protect and improve the environment and safeguard forests and wildlife",
+      "D. Supreme Court may pass any decree or order necessary for doing complete justice"
+     ],
+     "options": [
+      "I-C, II-B, III-A, IV-D",
+      "I-B, II-C, III-A, IV-D",
+      "I-C, II-B, III-D, IV-A",
+      "I-A, II-B, III-C, IV-D"
+     ],
+     "answer": 0,
+     "explanation": "Article 48A is a Directive Principle directing the State to protect and improve the environment and safeguard forests and wildlife (C). Article 51A(g) is a Fundamental Duty of every citizen to protect and improve the natural environment (B). Article 141 makes Supreme Court law binding on courts (A). Article 142 lets the Supreme Court pass orders for complete justice (D).",
+     "source": "https://www.constitutionofindia.net/?p=875 ; https://vidhijudicial.com/article-48a-of-the-constitution-of-india.html ; https://lawbhoomi.com/fundamental-duties-and-environmental-conservation/ ; https://ylcube.com/c/blogs/article-51-g-root-environment-protection/ ; https://www.constitutionofindia.net/articles/article-141-law-declared-by-supreme-court-to-be-binding-on-all-courts ; https://en.wikipedia.org/wiki/Article_141_of_the_Constitution_of_India ; https://en.wikipedia.org/wiki/Article_142_of_the_Constitution_of_India ; https://www.constitutionofindia.net/articles/article-142-enforcement-of-decrees-and-orders-of-supreme-court-and-orders-as-to-discovery-etc/"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Section 3 of the Environment (Protection) Act, 1986 confers power only on State Governments to take measures for protecting and improving the environment.",
+     "reason": "Section 3 empowers the Central Government to take all such measures as it deems necessary or expedient for protecting and improving the quality of the environment and preventing, controlling and abating environmental pollution.",
+     "answer": 3,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "The assertion is false: Section 3 vests the general power in the Central Government, not only in State Governments. The reason correctly states the Central Government's power under Section 3(1), so A is false and R is true.",
+     "source": "https://lawx.in/acts/section/49/493/4785 ; https://vidhijudicial.com/sec-3-to-6-(chapter-ii-general-powers-of-the-central-government)-the-environment-(protection)-act,-1986.html"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Under the Water (Prevention and Control of Pollution) Act, 1974, State Pollution Control Boards are constituted by the Central Government.",
+      "II. An appeal against an order of the National Green Tribunal lies to the High Court within 30 days of the order."
+     ],
+     "answer": 3,
+     "truth": [
+      false,
+      false
+     ],
+     "explanation": "Statement I is false: under Section 4 of the Water Act, 1974, State Pollution Control Boards are constituted by the State Government. Statement II is false: under Section 22 of the NGT Act, 2010, an appeal lies to the Supreme Court within 90 days, not to the High Court within 30 days. Neither statement is correct.",
+     "source": "https://bhattandjoshiassociates.com/?p=4458 ; https://lawx.in/acts/section/122/1087/9364 ; https://lawx.in/acts/section/120/1076/9282 ; https://www.advocatekhoj.com/library/bareacts/nationalgreen/22.php"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. Under Article 129, the Supreme Court is a court of record and has the power to punish for contempt of itself.",
+      "2. Under Article 137, the Supreme Court has power to review any judgment or order made by it, subject to any law made by Parliament or rules made under Article 145.",
+      "3. Under Section 25 of the Water (Prevention and Control of Pollution) Act, 1974, an industry likely to discharge trade effluent into a stream cannot be established without the previous consent of the State Board.",
+      "4. Under Article 143, the Supreme Court may give an advisory opinion on its own motion without any reference from the President."
+     ],
+     "mode": "correct",
+     "answer": 2,
+     "truth": [
+      true,
+      true,
+      true,
+      false
+     ],
+     "explanation": "Statements 1, 2 and 3 are correct: Article 129 makes the Supreme Court a court of record, Article 137 gives it a review power subject to law and Article 145 rules, and Section 25 of the Water Act requires prior consent of the State Board. Statement 4 is incorrect because Article 143 advisory opinions require a reference by the President. Three statements are correct, so the answer is Only three.",
+     "source": "https://www.constitutionofindia.net/articles/article-129-supreme-court-to-be-a-court-of-record/ ; https://www.constitutionofindia.net/articles/article-137-review-of-judgments-or-orders-by-the-supreme-court/ ; https://cdn.cseindia.org/attachments/0.40045900_1506513613_granting-consent-under-water-act1974.pdf ; https://www.scconline.com/blog/post/2025/05/18/article-143-supreme-court-advisory-jurisdiction/ ; https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/20-05-2025/print/manual"
+    }
+   ]
+  }
+ ]
+}

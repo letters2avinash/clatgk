@@ -1,0 +1,204 @@
+{
+  "passage_file": "data/draft/t06_p2.json",
+  "passage_claims": [
+    {
+      "claim": "5 Mar 2026 reshuffle of Governors/LGs across nine States and UTs",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.newsonair.gov.in/west-bengal-governor-cv-ananda-bose-resigns-from-his-post-ahead-of-upcoming-state-assembly-elections",
+        "https://news24online.com/india/rn-ravi-appointed-bengal-governor-as-cv-ananda-bose-resigns-ahead-of-polls-former-us-envoy-taranjit-singh-sandhu-is-delhis-new-lg/766454/amp"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "C.V. Ananda Bose resigned as West Bengal Governor; R.N. Ravi (TN) moved to West Bengal",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://thenewsmill.com/2026/03/bengal-governor-tenders-his-resignation-to-president-murmu-expresses-gratitude-for-love-affection-received-during-his-tenure/",
+        "https://currentaffairs.adda247.com/west-bengal-governor-ananda-bose-resigns-ahead-of-assembly-elections/"
+      ],
+      "note": "Acting vs full status unclear; sentence does not claim either."
+    },
+    {
+      "claim": "Kavinder Gupta, ex-LG Ladakh, appointed Governor of Himachal Pradesh",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.deccanherald.com/india/himachal-pradesh/kavinder-gupta-sworn-in-as-himachal-pradesh-governor-says-post-belongs-to-no-political-party-3927085",
+        "https://ladakh.gov.in/shri-saxena-set-to-take-oath-as-new-lg-of-ladakh-on-13th-march-shri-saxena-succeeds-shri-kavinder-gupta-as-4th-lg-of-ut-ladakh/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "V.K. Saxena (ex-LG Delhi) appointed LG Ladakh; Taranjit Singh Sandhu LG Delhi",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.newsonair.gov.in/former-delhi-lieutenant-governor-vinai-kumar-saxena-sworn-in-as-4th-lieutenant-governor-of-ladakh",
+        "https://newsable.asianetnews.com/india/vinai-saxena-is-new-ladakh-lg-taranjit-sandhu-appointed-delhi-lg-articleshow-gl3zyrp"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Syed Ata Hasnain (retd Lt Gen) appointed Bihar Governor succeeding Arif Mohammed Khan",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.etvbharat.com/en/state/lieutenant-general-syed-ata-hasnain-takes-oath-as-bihar-governor-enn26031401666",
+        "https://en.wikipedia.org/wiki/Arif_Mohammad_Khan"
+      ],
+      "note": "Wikipedia only supporting succession; ETV/newsonair also state it."
+    },
+    {
+      "claim": "Hasnain took oath 14 March 2026; listed as 43rd Governor",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://governor.bih.nic.in/gallery/lt-gen-syed-ata-hasnain-retd-was-sworn-in-as-governor-of-bihar/",
+        "https://www.newsonair.gov.in/bihar-lieutenant-general-retired-syed-ata-hasnain-takes-oath-as-43rd-governor-of-state"
+      ],
+      "note": "One Patna Press pre-event item says 30th; outlier."
+    },
+    {
+      "claim": "Writer flag: Shukla to Telangana, Varma to Maharashtra, oath dates (Varma 10 Mar, Shukla 11 Mar)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.newsonair.gov.in/jishnu-dev-varma-sworn-in-as-governor-of-maharashtra",
+        "https://ianslive.in/shiv-pratap-shukla-sworn-in-as-new-governor-of-telangana--20260311113839"
+      ],
+      "note": "Not in passage; checked as flagged."
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "B",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://courtbook.in/constitution/article/article-159-oath-or-affirmation-by-the-governor",
+        "https://www.newsonair.gov.in/bihar-lieutenant-general-retired-syed-ata-hasnain-takes-oath-as-43rd-governor-of-state"
+      ],
+      "fix": "source replaced",
+      "note": "Art 159 text plus real oaths before High Court CJs (Patna, J&K and Ladakh)."
+    },
+    {
+      "index": 2,
+      "verdict": "DROP",
+      "my_answer": "B (five years)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "EXPLANATION_MISMATCH"
+      ],
+      "sources": [
+        "https://www.taxmanagementindia.com/visitor/detail_act.asp?ID=9194",
+        "https://www.pmfias.com/governor-article-156-upsc-prelims-pyq-1995/"
+      ],
+      "fix": null,
+      "note": "Answer right but explanation cites 156(1) for term; five years is 156(3). Dropped as weakest/overlapping basic Governor-tenure question to reach 6."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "C (35)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://courtbook.in/constitution/article/article-157-qualifications-for-appointment-as-governor",
+        "https://vidhijudicial.com/article-157-of-the-constitution-of-india.html"
+      ],
+      "fix": null,
+      "note": "Art 157 confirmed."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I and III only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://lotusarise.com/inshorts/article-239aa-of-indian-constitution-upsc/",
+        "https://eparlib.sansad.in/bitstream/123456789/455243/1/67915.pdf"
+      ],
+      "fix": null,
+      "note": "239AA(2)(a) direct election; 239AA(3)(a) excludes entries 1, 2, 18."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "I-C, II-A, III-B, IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://constitutionofindia.net/articles/article-155-appointment-of-governor",
+        "https://vajiramandravi.com/current-affairs/article-361-of-indian-constitution/",
+        "https://www.constitutionofindia.net/articles/article-166-conduct-of-business-of-the-government-of-a-state",
+        "https://lotusarise.com/inshorts/article-213-of-indian-constitution-upsc/"
+      ],
+      "fix": null,
+      "note": "Other options each mismatch at least two pairs."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "Both true, R explains A (0)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.gktoday.in/powers-of-the-governor-with-special-reference-to-article-200/",
+        "https://aaptaxlaw.com/constitution-of-india/article-200-201-constitution-assent-to-bills-bill-reserved-for-consideration-article-200-201-of-constitution-of-india-1949.html"
+      ],
+      "fix": null,
+      "note": "Easy but valid; snippets only."
+    },
+    {
+      "index": 7,
+      "verdict": "DROP",
+      "my_answer": "Both (2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-153-governors-of-states",
+        "https://www.taxmanagementindia.com/visitor/detail_act.asp?ID=9199"
+      ],
+      "fix": null,
+      "note": "Facts confirmed (153 proviso, 161) but dropped: overlaps Q8 statement type and covers Governor powers already tested; weakest of the statement items."
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "Only two (1)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://blog.ipleaders.in/article-164-of-indian-constitution/",
+        "https://blog.ipleaders.in/article-163-of-indian-constitution/",
+        "https://www.taxmanagementindia.com/visitor/detail_act.asp?ID=9196",
+        "https://taxmanagementindia.com/visitor/detail_act.asp?ID=9203"
+      ],
+      "note": "Writer's snippet-only flag resolved: 164(1), 158(2), 163, 165 texts all confirmed."
+    }
+  ],
+  "passage_fixes": [],
+  "summary": "All passage claims and all writer flags confirmed by two publishers; no passage edits needed. All 8 questions are factually sound; Q2 (explanation clause error, basic) and Q7 (overlap) dropped to reach 6 with required mix. Primary constitution site was unreachable, so Article texts rest on secondary reproductions."
+}

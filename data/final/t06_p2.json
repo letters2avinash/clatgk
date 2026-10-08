@@ -1,0 +1,141 @@
+{
+  "title": "Governors reshuffle of March 2026",
+  "topic_tags": [
+    "appointments",
+    "Governors",
+    "Lieutenant Governors",
+    "Constitution",
+    "Articles 153-239AA",
+    "India 2026"
+  ],
+  "slot": "T06P2",
+  "status": "complete",
+  "text": "In March 2026, the President approved a reshuffle of Governors and Lieutenant Governors across nine States and Union Territories. The reshuffle came as C.V. Ananda Bose resigned as Governor of West Bengal. R.N. Ravi, who had been Governor of Tamil Nadu, was moved to West Bengal in his place.\n\nKavinder Gupta, who had been Lieutenant Governor of Ladakh, was appointed Governor of Himachal Pradesh. Vinai Kumar Saxena, previously Lieutenant Governor of Delhi, was appointed Lieutenant Governor of Ladakh, and Taranjit Singh Sandhu was appointed Lieutenant Governor of Delhi.\n\nRetired Lieutenant General Syed Ata Hasnain was appointed Governor of Bihar, succeeding Arif Mohammed Khan. He took the oath of office on 14 March 2026, and the Bihar Governor's office lists him as the 43rd Governor of the State.",
+  "sources": [
+    "https://www.drishtiias.com/state-pcs-current-affairs/president-approves-governor-reshuffle-across-9-states-and-uts/print_manually",
+    "https://www.etvbharat.com/amp/en/bharat/president-murmu-appoints-nine-new-governors-enn26030507166",
+    "https://www.thequint.com/amp/story/news/breaking-news/president-appoints-new-governors-major-reshuffle-india",
+    "https://organiser.org/2026/03/06/342890/bharat/india-sees-major-governors-and-lieutenant-governors-reshuffle-ahead-of-rajya-sabha-elections-in-key-states/amp/",
+    "https://en.wikipedia.org/wiki/Kavinder_Gupta",
+    "https://www.deccanherald.com/india/himachal-pradesh/kavinder-gupta-sworn-in-as-himachal-pradesh-governor-says-post-belongs-to-no-political-party-3927085",
+    "https://governor.bih.nic.in/gallery/lt-gen-syed-ata-hasnain-retd-was-sworn-in-as-governor-of-bihar/",
+    "https://www.etvbharat.com/en/state/lieutenant-general-syed-ata-hasnain-takes-oath-as-bihar-governor-enn26031401666",
+    "https://www.newsonair.gov.in/bihar-lieutenant-general-retired-syed-ata-hasnain-takes-oath-as-43rd-governor-of-state",
+    "https://patnapress.com/?p=64294"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Under the Constitution, before entering upon office a Governor takes an oath or affirmation administered by whom?",
+      "options": [
+        "The Chief Justice of India",
+        "The Chief Justice of the High Court exercising jurisdiction in the State",
+        "The President of India",
+        "The Chief Minister of the State"
+      ],
+      "answer": 1,
+      "explanation": "Article 159: the Governor's oath or affirmation is taken before the Chief Justice of the High Court exercising jurisdiction in the State or, if he is absent, the senior-most available Judge of that Court. The Chief Justice of India, the President and the Chief Minister are not named in Article 159.",
+      "source": "https://www.constitutionofindia.net/articles/article-159-oath-or-affirmation-by-the-governor/ ; https://courtbook.in/constitution/article/article-159-oath-or-affirmation-by-the-governor ; https://www.newsonair.gov.in/bihar-lieutenant-general-retired-syed-ata-hasnain-takes-oath-as-43rd-governor-of-state"
+    },
+    {
+      "type": "direct",
+      "q": "What minimum age does the Constitution prescribe for appointment as Governor of a State?",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": 2,
+      "explanation": "Article 157 provides that no person shall be eligible for appointment as Governor unless he is a citizen of India and has completed the age of 35 years.",
+      "source": "https://www.constitutionofindia.net/articles/article-157-qualifications-for-appointment-as-governor/ ; https://law.drishtiias.com/to-the-point/ttp-constitution-of-india/the-governor"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. Article 239AA makes special provision for the National Capital Territory of Delhi.",
+        "II. The Legislative Assembly of Delhi can make laws on police and public order.",
+        "III. Members of the Legislative Assembly of Delhi are chosen by direct election from territorial constituencies."
+      ],
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "All of the above"
+      ],
+      "answer": 2,
+      "truth": [
+        true,
+        false,
+        true
+      ],
+      "explanation": "Statements I and III are correct. Article 239AA(2) provides for direct election from territorial constituencies. Statement II is incorrect because Article 239AA(3)(a) excludes State List Entries 1 (public order), 2 (police) and 18 (land) from the Delhi Assembly's legislative competence.",
+      "source": "https://www.constitutionofindia.net/articles/article-239aa-special-provisions-with-respect-to-delhi/ ; https://ksandk.com/md/constitutional/article-239aa-demystified-understanding-its-significance-and-the-supreme-courts-interpretation-in-the-delhi-services-verdict/"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Article 155",
+        "II. Article 213",
+        "III. Article 361",
+        "IV. Article 166"
+      ],
+      "list2": [
+        "A. Ordinance-making power of the Governor when the Legislature is not in session",
+        "B. Immunity of the Governor from criminal proceedings during the term of office",
+        "C. Appointment of the Governor by the President by warrant under hand and seal",
+        "D. Executive action of the State expressed to be taken in the name of the Governor"
+      ],
+      "options": [
+        "I-C, II-A, III-B, IV-D",
+        "I-A, II-C, III-D, IV-B",
+        "I-B, II-D, III-A, IV-C",
+        "I-D, II-B, III-C, IV-A"
+      ],
+      "answer": 0,
+      "explanation": "Article 155 provides for appointment of the Governor by the President by warrant under hand and seal (C). Article 213 gives the Governor ordinance-making power when the Legislature is not in session (A). Article 361 gives the Governor immunity from criminal proceedings during his term (B). Article 166 provides that State executive action is expressed in the Governor's name (D).",
+      "source": "https://constitutionofindia.net/articles/article-155-appointment-of-governor ; https://www.understandupsc.com/governor-appointment-in-india/ ; https://vidhijudicial.com/article-213-of-the-constitution-of-india.html ; https://blog.ipleaders.in/?p=94511 ; https://www.iasgyan.in/daily-current-affairs/article-361 ; https://vajiramandravi.com/current-affairs/article-361-of-indian-constitution/ ; https://www.constitutionofindia.net/articles/article-166-conduct-of-business-of-the-government-of-a-state ; https://vidhijudicial.com/article-166-of-the-constitution-of-india.html"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "A Governor of a State may reserve a State Bill for the consideration of the President.",
+      "reason": "Article 200 of the Constitution empowers the Governor to reserve certain Bills for the consideration of the President.",
+      "answer": 0,
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "Both statements are true. Article 200 is the direct constitutional source of the Governor's power to reserve a Bill for the President, so R explains A. Courts have since limited how this power may be used, but the power itself exists.",
+      "source": "https://www.gktoday.in/powers-of-the-governor-with-special-reference-to-article-200/ ; https://www.siasat.com/reserving-10-bills-for-president-illegal-arbitrary-sc-slams-tn-governor-3204685/"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The Chief Minister of a State is appointed by the Governor.",
+        "2. The Governor is bound to act on the advice of the Council of Ministers in every matter, without exception.",
+        "3. The Governor of a State shall not hold any other office of profit.",
+        "4. The Advocate-General for a State is appointed by the Chief Minister."
+      ],
+      "mode": "correct",
+      "answer": 1,
+      "truth": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "explanation": "Two statements are correct: 1 and 3. Statement 1 reflects Article 164(1). Statement 3 reflects Article 158(2). Statement 2 is wrong because Article 163(1) excludes matters the Governor must decide in his discretion, and Article 163(2) makes his decision on that question final. Statement 4 is wrong because Article 165 provides that the Governor appoints the Advocate-General.",
+      "source": "https://www.constitutionofindia.net/articles/article-164-other-provisions-as-to-ministers/ ; https://vidhijudicial.com/article-164-of-the-constitution-of-india.html ; https://blog.ipleaders.in/article-163-of-indian-constitution/ ; https://forumias.com/blog/article-163-of-indian-constitution/ ; https://www.constitutionofindia.net/articles/article-158-conditions-of-governors-office/ ; https://www.constitutionofindia.net/articles/article-165-advocate-general-for-the-state/ ; https://anantamias.com/?p=37122"
+    }
+  ],
+  "residual": [
+    "constitutionofindia.net unreachable from harness (DNS failure); all Article texts confirmed via secondary legal-text reproductions (courtbook, taxmanagementindia, writinglaw, vidhijudicial), not the primary site directly.",
+    "Q8 (Arts 164, 163, 158, 165) confirmed from search-result summaries of legal-text and explainer sites only; no page fetched.",
+    "Q6 (Art 200 reserve Bill) rests on search summaries (gktoday, forumias, aaptaxlaw, siasat); no primary text fetched.",
+    "Q4 (Art 239AA) rests on explainers (lotusarise, forumias, drishti) plus a 2002 Lok Sabha reply; constitution text not fetched.",
+    "Q5 match: Arts 155, 361, 213, 166 confirmed from legal-text/exam-prep sites via snippets; Art 361 immunity wording from vajiramandravi/iasgyan (exam-prep).",
+    "Passage: whether R.N. Ravi is full or acting Governor of West Bengal is unclear in reports; sentence says only 'moved ... in his place'.",
+    "Hasnain '43rd' confirmed by governor.bih.nic.in and newsonair; one Patna Press item says '30th' (apparent error).",
+    "Passage is very short (~127 words); writer flags (Shukla/Varma moves, oath dates) were checked and confirmed but not added."
+  ]
+}
