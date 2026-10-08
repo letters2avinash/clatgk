@@ -1,21 +1,17 @@
-# CLAT current affairs & GK test generator
+# CLAT GK passage generator brief
 
-Produce a CLAT UG-style "Current Affairs including General Knowledge" section.
+Read `docs/clat_gk_schema.md` first (six question types, JSON shapes, build mix).
 
-## Pattern
-- Passage-based: each passage is 450-500 words, drawn from news of the last 6-12 months.
-- 4-5 MCQs per passage (a sample may use fewer), 4 options (A-D), exactly one correct.
-- Mix: fact recall from the passage, inference, static GK linked to the news
-  (Constitution, institutions, geography), and "which statement is correct" items.
-- Cover: national affairs, Supreme Court/High Court rulings, legislation, international
-  affairs, economy, awards, sports, science.
-- Each question has a one-line explanation and a source URL.
-
-## Sourcing rules
-- Use only reliable sources: PIB, The Hindu, Indian Express, LiveLaw, Bar & Bench, SCC Online, Sansad/PRS.
-- Every dated fact in a passage must be backed by a source found in this session. Never fill gaps from memory.
-- If a fact is unconfirmed (e.g. presidential assent not yet reported), leave it out of the answer key or mark it in `notes`.
-- Record in `notes` any source that could not be reached.
+## Hard rules
+1. One passage = ~450-500 words of news-style prose on events from the last 9 months, with exact dates, names and numbers.
+2. Exactly 6 questions per passage, mixing the six types (see schema "Build mix").
+3. **Golden rule: the correct answer must need a fact the passage does not state** (static GK next to the topic, or a related current-affairs fact). Passage-only answers are not allowed.
+4. Every fact in the passage and every answer must be backed by a source URL you found in this session. Never fill a gap from memory; if you cannot confirm a fact, change the question.
+5. Static-GK facts (Articles, years, institutions) should cite a primary or reference source (indiacode, legislative.gov.in, nobelprize.org, Wikipedia is acceptable as a last resort), not a news story that doesn't support the claim.
+6. Avoid ambiguous wording ("originally enacted", "latest", "first") unless the answer is unique.
+7. Distractors must be plausible: real names, real years, same category.
+8. Anything unconfirmed, or still developing, goes in the test `notes`, not in an answer key.
+9. Sources: PIB, The Hindu, Indian Express, LiveLaw, Bar & Bench, SCC Online, PRS, Sansad, official sites. Some hosts are blocked in the cloud environment (e.g. scconline.com, newsonair.gov.in); use WebSearch snippets when WebFetch fails.
 
 ## Output
-Write `tests/YYYY-MM-DD/test.json` using the schema in the sample test, then open a draft PR.
+Write the passage object (schema "Passage object", plus `title` and `topic_tags`) to the file named in the task. Do not write anything else.
