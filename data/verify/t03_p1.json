@@ -1,0 +1,242 @@
+{
+ "passage_file": "data/draft/t03_p1.json",
+ "passage_claims": [
+  {
+   "claim": "EU-India FTA negotiations concluded 27 Jan 2026 at New Delhi summit with Costa and von der Leyen; free trade zone of two billion people",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.aljazeera.com/news/2026/1/27/india-eu-agree-on-mother-of-all-trade-deals",
+    "https://www.intellinews.com/india-and-eu-seal-landmark-free-trade-agreement-422381/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "India to remove/reduce tariffs on more than 90% of EU goods; EU exporters save about 4bn euros a year",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://newsfirst.lk/2026/01/27/%e2%82%ac4-billion-in-annual-savings-96-tariff-cuts-euindia-free-trade-agreement-sealed",
+    "https://globalpost.com/stories/india-eu-seal-mother-of-all-trade-deals-in-shadow-of-trumps-tariffs/"
+   ],
+   "note": "EU says 96.6% of EU exports covered, so 'more than 90%' is true; 4bn is an estimate."
+  },
+  {
+   "claim": "Agreement concluded, not signed, not in force; phased duty cuts",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://timesofoman.com/article/175864-india-eu-fta-legal-scrubbing-completed-signing-expected-by-year-end-govt-sources",
+    "https://www.businesstoday.in/amp/latest/economy/story/india-eu-fta-talks-concluded-pact-may-come-into-force-next-year-512897-2026-01-26"
+   ],
+   "note": "As of Aug 2026 still unsigned."
+  },
+  {
+   "claim": "US-India interim framework 6 Feb 2026 (7 Feb India); tariff 50% to 18%; half was Russian-oil penalty",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.khaleejtimes.com/world/americas/us-india-unveil-interim-trade-framework",
+    "https://thewire.in/world/us-cuts-duty-on-indian-goods-to-18-india-to-slash-or-remove-tariffs-on-us-industrial-goods-says-joint-statement"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "25% duty imposed 6 Aug 2025 removed effective 7 Feb 2026; monitoring of Russian oil with reinstatement recommendation",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.cbsnews.com/news/trump-india-tariffs-25-percent-russian-oil",
+    "https://www.troutman.com/insights/us-rescinds-25-additional-duties-on-indian-origin-imports/"
+   ],
+   "note": "Sources differ whether monitoring directive is in the same or a separate order; word 'separate' removed."
+  },
+  {
+   "claim": "India to buy ~$500bn US goods over five years (energy, aircraft/parts, precious metals, technology); eliminate/reduce tariffs on industrial goods and many farm products",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.khaleejtimes.com/world/americas/us-india-unveil-interim-trade-framework",
+    "https://thewire.in/world/us-cuts-duty-on-indian-goods-to-18-india-to-slash-or-remove-tariffs-on-us-industrial-goods-says-joint-statement"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Dairy and GM crops excluded from India's concessions",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.businesstoday.in/amp/latest/economy/story/india-has-played-it-pretty-safe-deal-is-very-balanced-top-agri-economist-on-india-us-trade-agreement-515127-2026-02-08",
+    "https://www.etvbharat.com/en/bharat/india-us-trade-deal-piyush-goyal-commerce-ministry-enn26020702488"
+   ],
+   "note": "Goyal: no dairy concession; no provision for direct GM imports."
+  },
+  {
+   "claim": "Further negotiations needed; framework is interim",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.khaleejtimes.com/world/americas/us-india-unveil-interim-trade-framework",
+    "https://thewire.in/world/us-cuts-duty-on-indian-goods-to-18-india-to-slash-or-remove-tariffs-on-us-industrial-goods-says-joint-statement"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "India-GCC joint statement 24 Feb 2026 signed by Goyal and Albudaiwi launching FTA talks; ToR signed 5 Feb; scope goods/customs/services/digital",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://ianslive.in/india-gulf-cooperation-council-launch-fta-talks--20260224194504",
+    "https://www.newsonair.gov.in/india-gulf-cooperation-council-sign-joint-statement-on-india-gcc-free-trade-agreement"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "GCC six members",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gulf_Cooperation_Council",
+    "https://globaledge.msu.edu/trade-blocs/gcc/memo"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "GCC largest trading partner group; FY2024-25 trade 178.56bn, exports 56.87bn, imports 121.68bn",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://ianslive.in/india-gulf-cooperation-council-launch-fta-talks--20260224194504",
+    "https://www.newsonair.gov.in/india-gulf-cooperation-council-sign-joint-statement-on-india-gcc-free-trade-agreement",
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/indiagcc-free-trade-agreement/print_manually"
+   ],
+   "note": "Some outlets round to 178.7bn."
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "Riyadh (C)",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gulf_Cooperation_Council",
+    "https://treaties.un.org/doc/Publication/UNTS/Volume%201288/volume-1288-I-21244-English.pdf"
+   ],
+   "fix": null,
+   "note": "Abu Dhabi was charter signing place; not HQ."
+  },
+  {
+   "index": 2,
+   "verdict": "DROP",
+   "my_answer": "Seventh Schedule",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "GIVEAWAY"
+   ],
+   "sources": [],
+   "fix": null,
+   "note": "Answer appears in Q6 stem ('Seventh Schedule')."
+  },
+  {
+   "index": 3,
+   "verdict": "OK",
+   "my_answer": "Section 9A",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://lawx.in/acts/act/108",
+    "https://bhattandjoshiassociates.com/custom-tariff-act-anti-dumping-duty-add-and-countervailing-duty-cd/"
+   ],
+   "fix": null,
+   "note": "s3 additional duty, s9 CVD, s8B safeguard; none is anti-dumping."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "A true, R false (2)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://blog.ipleaders.in/freedom-trade-commerce-intercourse-articles-301-307-indian-constitution/",
+    "https://lawandotherthings.com/?p=2315"
+   ],
+   "fix": null,
+   "note": "Modelled on Australian s92."
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "I only (0)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-253-legislation-for-giving-effect-to-international-agreements/",
+    "https://blog.ipleaders.in/legislation-for-giving-effect-to-international-agreements-article-253-of-the-constitution/"
+   ],
+   "fix": null,
+   "note": ""
+  },
+  {
+   "index": 6,
+   "verdict": "OK",
+   "my_answer": "Only one correct (0)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/schedules/list-ii-state-list",
+    "https://courtbook.in/constitution/schedule/seventh-schedule-list-ii-state-list"
+   ],
+   "fix": null,
+   "note": "Entries 14, 2, 6 of State List."
+  },
+  {
+   "index": 7,
+   "verdict": "DROP",
+   "my_answer": "I and II only",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    false
+   ],
+   "issues": [
+    "GIVEAWAY"
+   ],
+   "sources": [
+    "https://trade.gov/trade-guide-marrakesh-agreement-establishing-wto",
+    "https://www.info.dfat.gov.au/Info/Treaties/treaties.nsf/alldocids/147DD8F0351BA272CA256BB70077D8F4"
+   ],
+   "fix": null,
+   "note": "Facts correct, but II and III contradict each other so options are eliminable without knowledge."
+  },
+  {
+   "index": 8,
+   "verdict": "OK",
+   "my_answer": "I-C, II-B, III-D, IV-A (2)",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-266-consolidated-funds-and-public-accounts-of-india-and-of-the-states/",
+    "https://www.constitutionofindia.net/articles/article-280-finance-commission"
+   ],
+   "fix": null,
+   "note": "Arts 112, 265, 280 also confirmed via constitutionofindia.net and indiankanoon."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "A separate order directs",
+   "new": "An order directs",
+   "reason": "Sources conflict on whether monitoring is in a separate order."
+  }
+ ],
+ "summary": "11 passage claims confirmed; one wording softened. 6 of 8 questions pass; Q2 dropped (giveaway via Q6) and Q7 dropped (statements II/III contradictory)."
+}

@@ -1,29 +1,52 @@
 {
-  "status": "partial",
-  "missing": "Search budget was exhausted before the remaining 4 questions (match, statement_two, statement_count, statement_multi) could be sourced, and the passage is short of 450 words. Resume with a fresh search budget.",
   "title": "Former Army chief dies; new minority panel chair and CBDT chief named",
-  "topic_tags": ["appointments", "obituaries", "National Commission for Minorities", "CBDT", "Army", "July 2026"],
+  "topic_tags": [
+    "appointments",
+    "obituaries",
+    "National Commission for Minorities",
+    "CBDT",
+    "NITI Aayog",
+    "Foreign Secretary",
+    "July 2026"
+  ],
   "slot": "T03P5",
-  "text": "Gen Vishwa Nath Sharma (retd), a former Chief of the Army Staff, died in New Delhi on Friday, 31 July 2026. He was the younger brother of Major Somnath Sharma, the first recipient of the Param Vir Chakra. Defence Minister Rajnath Singh said the general carried forward his family's legacy and described him as a military leader who served the nation with unwavering dedication, courage and honour. He led the Army from 1988 until 1990. He was cremated with full military honours at Brar Square Crematorium in New Delhi on Saturday, 1 August 2026.\n\nThe Centre nominated Harjit Singh Grewal as Chairperson of the National Commission for Minorities, according to a Ministry of Minority Affairs notification dated 16 July 2026. S. Munawari Begum was named Vice-Chairperson, and Glenn E. Souza Ticlo was named Member. The three will serve for three years from the date they assume office, or until further orders, whichever is earlier.\n\nOn 30 June 2026, the Appointments Committee of the Cabinet approved the reappointment of Ravi Agrawal as Chairman of the Central Board of Direct Taxes (CBDT) on a contract basis. The extension is for six months, effective 1 July 2026, as Agrawal was due to retire on 30 June. A senior finance ministry official said the move was aimed at ensuring continuity in direct tax policy formulation and enabling certain special initiatives.",
-  "word_count_note": "Approximately 245 words; below the 450-word minimum.",
+  "text": "Gen Vishwa Nath Sharma (retd), a former Chief of the Army Staff, died in New Delhi on Friday, 31 July 2026, the Indian Army said. He was the younger brother of Major Somnath Sharma, India's first Param Vir Chakra awardee. He led the Army from 1988 to 1990. Defence Minister Rajnath Singh expressed grief over the demise of the former Chief of the Army Staff. His last rites were performed with full military honours at Brar Square in Delhi Cantonment on Saturday, 1 August 2026.\n\nThe Centre has nominated Harjit Singh Grewal as Chairperson of the National Commission for Minorities. A Ministry of Minority Affairs notification dated 16 July 2026 also named S. Munawari Begum as Vice-Chairperson and Glenn E. Souza Ticlo as Member. The three will serve for three years from the date they assume office, or until further orders, whichever is earlier. Grewal assumed charge in New Delhi on 21 July 2026, days after the order.\n\nOn 30 June 2026, the Appointments Committee of the Cabinet approved the reappointment of Ravi Agrawal as Chairman of the Central Board of Direct Taxes on a contract basis. Agrawal, a 1988-batch Indian Revenue Service officer, was due to retire on 30 June. The six-month extension took effect on 1 July 2026 and runs until December 2026. A senior finance ministry official said the move was aimed at ensuring continuity in direct tax policy formulation and enabling certain special initiatives.\n\nOn 22 July 2026, the Appointments Committee of the Cabinet named Anurag Jain, a 1989-batch IAS officer of the Madhya Pradesh cadre, as Chief Executive Officer of NITI Aayog. His tenure is two years or until further orders, whichever is earlier. Jain had been Chief Secretary of Madhya Pradesh. Ashok Barnwal, a 1991-batch IAS officer of the same cadre, took over as the state's Chief Secretary in late July 2026.\n\nOn 1 July 2026, the Appointments Committee of the Cabinet approved a one-year extension for Foreign Secretary Vikram Misri, a 1989-batch Indian Foreign Service officer. His service now runs until 14 July 2027, or until further orders, whichever comes first. The extension came beyond his original tenure, which ended on 14 July 2026. Reports described the decision as a signal of continuity amid global challenges.\n\nVarsha Ashok Aglawe succeeded Asit Saha as Director General of the Geological Survey of India at the end of July 2026, becoming the first woman to lead the organisation in its 176-year history. Separately, the Ministry of Corporate Affairs made Justice (retd) Yogesh Khanna, a Member (Judicial) of the National Company Law Appellate Tribunal, its officiating Chairperson for three months from 5 July 2026, or until a regular Chairperson is appointed. The notification followed the end of Justice Ashok Bhushan's term on 4 July 2026.",
   "sources": [
     "https://www.deccanherald.com/india/former-army-chief-gen-vishwa-nath-sharma-passes-away-at-96-4094515",
-    "https://telanganatoday.com/former-army-chief-gen-vishwa-nath-sharma-dies-at-96",
     "https://theprint.in/india/former-army-chief-gen-vishwa-nath-sharma-passes-away-at-96/3002369/",
-    "https://www.gktoday.in/former-army-chief-general-v-n-sharma-passes-away/",
+    "https://telanganatoday.com/former-army-chief-gen-vishwa-nath-sharma-dies-at-96",
+    "https://www.thehitavada.com//Encyc/2026/8/1/former-army-chief-gen-sharma-no-more.html",
     "https://newsonair.gov.in/defence-minister-rajnath-singh-expresses-grief-over-demise-of-former-coas-general-vishwa-nath-sharma/",
+    "https://newsonair.gov.in/indian-army-bids-farewell-to-former-army-chief-general-v-n-sharma-with-full-military-honours/",
     "https://www.scconline.com/blog/post/2026/07/18/new-members-nominated-for-national-commission-for-minorities/",
-    "https://indialegallive.com/constitutional-law-news/courts-news/centre-appoints-harjit-singh-grewal-as-chairperson-of-national-commission-for-minorities/",
-    "https://test.uniindia.com/national-commission-for-minorities-gets-harjit-grewal-as-new-chief/north/news/3912835.html",
-    "https://www.deccanchronicle.com/amp/nation/current-affairs/cbdt-chief-ravi-agrawals-tenure-extended-by-six-months-again-1967365",
+    "https://newsonair.gov.in/commission-remains-committed-to-addressing-genuine-grievances-chairman-ncm/",
+    "https://www.gktoday.in/fact-box-harjit-singh-grewal-the-new-national-commission-for-minorities-chief/",
+    "https://www.deccanherald.com/india/centre-extends-cbdt-chairman-ravi-agrawals-tenure-by-6-months-4057153",
     "https://www.outlookbusiness.com/news/centre-extends-cbdt-chairman-ravi-agrawals-tenure-by-6-months",
-    "https://www.deccanherald.com/india/centre-extends-cbdt-chairman-ravi-agrawals-tenure-by-6-months-4057153"
+    "https://www.drishtiias.com/state-pcs-current-affairs/ravi-agrawal-reappointed-as-cbdt-chairman/print_manually",
+    "https://www.drishtiias.com/state-pcs-current-affairs/anurag-jain-appointed-ceo-of-niti-aayog/print_manually",
+    "https://www.etvbharat.com/en/bharat/anurag-jain-appointed-as-niti-aayog-ceo-enn26072208226",
+    "https://www.thehitavada.com//Encyc/2026/7/24/senior-ias-officer-ashok-barnwal-assumes-charge-as-36th-chief-secy-of-mp.html",
+    "https://www.freepressjournal.in/bhopal/ashok-barnwal-takes-over-as-chief-secretary-of-the-state-jain-relieved",
+    "https://ianslive.in/foreign-secretary-vikram-misris-tenure-extended-by-a-year-amid-global-challenges--20260701202308",
+    "https://www.deccanchronicle.com/amp/nation/foreign-secretary-vikram-misris-tenure-extended-by-one-year-1967634",
+    "https://www.etvbharat.com/en/bharat/foreign-secy-vikram-misri-gets-extension-till-july-14-2027-enn26070106724",
+    "https://www.drishtiias.com/state-pcs-current-affairs/varsha-ashok-aglawe-becomes-first-woman-director-general-of-gsi",
+    "https://swarajyamag.com/amp/story/culture/varsha-ashok-aglawe-becomes-first-woman-to-head-geological-survey-of-india-in-its-176-year-history",
+    "https://www.gktoday.in/varsha-ashok-aglawe-becomes-first-woman-gsi-director-general/",
+    "https://www.scconline.com/blog/post/2026/07/09/justice-yogesh-khanna-appointment-nlclat-officiating-chairperson/",
+    "https://www.barandbench.com/news/law-policy/justice-yogesh-khanna-appointed-nclat-officiating-chairperson"
   ],
   "questions": [
     {
       "type": "direct",
       "q": "Which Act of Parliament, enacted in 1992, made the National Commission for Minorities a statutory body?",
-      "options": ["Protection of Human Rights Act, 1993", "National Commission for Minorities Act, 1992", "National Commission for Women Act, 1990", "Right to Information Act, 2005"],
+      "options": [
+        "Protection of Human Rights Act, 1993",
+        "National Commission for Minorities Act, 1992",
+        "National Commission for Women Act, 1990",
+        "Right to Information Act, 2005"
+      ],
       "answer": 1,
       "explanation": "The National Commission for Minorities Act, 1992 converted the earlier Minorities Commission into a statutory body. The Protection of Human Rights Act, 1993 created the NHRC, and the others govern different commissions.",
       "source": "https://en.wikipedia.org/wiki/National_Commission_for_Minorities ; https://www.iasgyan.in/daily-current-affairs/national-commission-for-minorities-functions-challenges-way-forward"
@@ -31,7 +54,12 @@
     {
       "type": "direct",
       "q": "How many religious communities have been notified as minorities at the Centre's level in India?",
-      "options": ["Four", "Five", "Six", "Seven"],
+      "options": [
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
+      ],
       "answer": 2,
       "explanation": "Six communities are notified as minorities: Muslims, Christians, Sikhs, Buddhists, Zoroastrians (Parsis) and Jains. Jains were notified in 2014, after the original five.",
       "source": "https://en.wikipedia.org/wiki/National_Commission_for_Minorities ; https://vajiramandravi.com/current-affairs/minority-communities-in-india/"
@@ -39,7 +67,12 @@
     {
       "type": "direct",
       "q": "Under which Article of the Constitution of India is the supreme command of the Union's armed forces vested in the President?",
-      "options": ["Article 52", "Article 53", "Article 74", "Article 77"],
+      "options": [
+        "Article 52",
+        "Article 53",
+        "Article 74",
+        "Article 77"
+      ],
       "answer": 1,
       "explanation": "Article 53(2) vests the supreme command of the Defence Forces of the Union in the President, with its exercise regulated by law. Article 74 concerns the Council of Ministers' aid and advice.",
       "source": "https://www.constitutionofindia.net/articles/article-53-executive-power-of-the-union/"
@@ -49,9 +82,80 @@
       "assertion": "The Central Board of Direct Taxes functions under the Department of Revenue in the Ministry of Finance.",
       "reason": "The CBDT was constituted under Article 30 of the Constitution of India.",
       "answer": 2,
-      "truth": [true, false],
+      "truth": [
+        true,
+        false
+      ],
       "explanation": "The assertion is true: CBDT sits under the Department of Revenue, Ministry of Finance. The reason is false: the CBDT was created by the Central Boards of Revenue Act, 1963. Article 30 concerns minorities' right to establish educational institutions.",
       "source": "https://en.wikipedia.org/wiki/Central_Board_of_Direct_Taxes ; https://www.incometaxindia.gov.in/en/cbdt ; https://en.wikipedia.org/wiki/Article_30_of_the_Constitution_of_India"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Election Commission of India",
+        "II. Inter-State Council",
+        "III. National Commission for Scheduled Castes",
+        "IV. Finance Commission"
+      ],
+      "list2": [
+        "A. Article 263",
+        "B. Article 280",
+        "C. Article 324",
+        "D. Article 338"
+      ],
+      "options": [
+        "I-A, II-C, III-B, IV-D",
+        "I-B, II-D, III-A, IV-C",
+        "I-C, II-A, III-D, IV-B",
+        "I-D, II-B, III-C, IV-A"
+      ],
+      "answer": 2,
+      "explanation": "Article 324 vests superintendence, direction and control of elections in the Election Commission (I-C). Article 263 provides for an Inter-State Council (II-A). Article 338 establishes the National Commission for Scheduled Castes (III-D). Article 280 provides for the Finance Commission (IV-B).",
+      "source": "https://www.constitutionofindia.net/articles/article-263-provisions-with-respect-to-an-inter-state-council/ ; https://www.constitutionofindia.net/articles/article-280-finance-commission ; https://www.careers360.com/question-article-of-the-indian-constitution-provides-for-superintendence-direction-and-control-of-elections-vested-in-an-election-commission-lnq/amp ; https://www.careers360.com/question-which-of-the-following-articles-of-the-indian-constitution-provides-for-the-national-commission-for-scheduled-castes-lnq/amp ; https://ncst.nic.in/page/constitution-eighty-ninth-amendment-act-2003"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Attorney General of India has the right of audience in all courts in India.",
+        "II. The Attorney General of India holds office during the pleasure of the President."
+      ],
+      "answer": 2,
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "Both statements are true. Article 76 gives the Attorney General, the Union's chief law officer, the right of audience in all courts in India (76(3)), and provides that the Attorney General holds office during the pleasure of the President (76(4)).",
+      "source": "https://www.legacyias.com/attorney-general-of-india-article-76/ ; https://vajiramandravi.com/upsc-exam/attorney-general/ ; https://www.drishtiias.com/daily-updates/daily-news-analysis/attorney-general-of-india-1/print_manually"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. A Governor is appointed by the President by warrant under his hand and seal.",
+        "II. A Governor holds office for a term of five years from the date of entering office, subject to the pleasure of the President.",
+        "III. A person is eligible for appointment as Governor on completing 30 years of age."
+      ],
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "Statements I and II are correct under Articles 155 and 156. Statement III is wrong: Article 157 requires completion of 35 years of age, so only I and II are correct.",
+      "source": "https://vajiramandravi.com/quest-upsc-notes/governor ; https://haryanarajbhavan.gov.in/?p=6736"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The Vice-President of India is elected by an electoral college consisting of the members of both Houses of Parliament.",
+        "2. The Deputy Chairman of the Rajya Sabha is elected by the members of the Rajya Sabha from among themselves.",
+        "3. The Speaker of the Lok Sabha is chosen by the members of the Lok Sabha from among themselves.",
+        "4. The members of the Union Public Service Commission are appointed by the Prime Minister."
+      ],
+      "mode": "correct",
+      "answer": 2,
+      "explanation": "Statements 1, 2 and 3 are correct under Articles 66, 89 and 93. Statement 4 is incorrect: under Article 316 the President appoints the UPSC chairman and members. Exactly three statements are correct, so the answer is Only three.",
+      "source": "https://www.constitutionofindia.net/articles/article-66-election-of-vice-president/ ; https://www.constitutionofindia.net/articles/article-89-the-chairman-and-deputy-chairman-of-the-council-of-states/ ; https://lexibal.com/article-93-speaker-deputy-speaker/ ; https://en.wikipedia.org/wiki/Union_Public_Service_Commission"
     }
   ]
 }

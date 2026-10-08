@@ -1,0 +1,130 @@
+{
+ "status": "complete",
+ "title": "India's Trade Agreements in Early 2026",
+ "topic_tags": [
+  "trade agreements",
+  "India-EU FTA",
+  "India-US interim framework",
+  "India-GCC FTA",
+  "tariffs",
+  "Constitution Part XIII",
+  "Constitution Articles 112, 265, 266, 280"
+ ],
+ "slot": "T03P1",
+ "text": "India and the European Union concluded negotiations on a comprehensive free trade agreement on 27 January 2026, announced at a summit in New Delhi attended by European Council President Antonio Costa and European Commission President Ursula von der Leyen. Von der Leyen described the deal as creating a free trade zone of two billion people. India would remove or reduce tariffs on more than 90 per cent of goods exported from the EU, and European exporters are expected to save about 4 billion euros in duties each year. The agreement has been concluded but not yet signed, and it is not yet in force. Duty reductions are to be phased in over several years.\n\nOn 6 February 2026 in Washington, which was 7 February in India, the two governments announced a framework for an interim trade agreement. Under the framework, the United States will lower its applied tariff on Indian exports from 50 per cent to 18 per cent. Half of the earlier 50 per cent was a penalty linked to Russian oil purchases, and the other half was the reciprocal rate. An executive order removed the further 25 per cent duty, which had been imposed on 6 August 2025 over India's purchases of Russian oil, with effect from 7 February 2026. An order directs the Commerce Secretary to monitor Indian imports of Russian oil and to recommend reinstating the duty if such imports resume.\n\nIndia has committed to eliminate or reduce tariffs on US industrial goods and a range of American food and agricultural products. It intends to buy about 500 billion dollars' worth of US goods over five years, covering energy products, aircraft and aircraft parts, precious metals and technology products. Dairy and genetically modified crops remain excluded from India's tariff concessions. Both governments said further negotiations were needed to complete a broader bilateral trade agreement, so the framework is an interim step rather than a finished deal.\n\nOn 24 February 2026, India and the Gulf Cooperation Council signed a joint statement in New Delhi formally launching negotiations on a comprehensive and mutually beneficial free trade agreement. The terms of reference for the talks had been signed on 5 February 2026. Commerce and Industry Minister Piyush Goyal and GCC Secretary-General Jasem Albudaiwi signed the joint statement. The GCC comprises six member states: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates. The bloc is India's largest trading partner group, with bilateral trade of about 178.56 billion dollars in fiscal year 2024-25, including Indian exports of about 56.87 billion dollars and imports of about 121.68 billion dollars. The talks will cover trade in goods, customs procedures, trade in services and digital trade, with the stated aim of removing tariff and non-tariff barriers.",
+ "sources": [
+  "https://ianslive.in/eu-india-have-concluded-the-mother-of-all-deals-says-ursula-von-der-leyen--20260127130604",
+  "https://www.aljazeera.com/news/2026/1/27/india-eu-agree-on-mother-of-all-trade-deals",
+  "https://newsfirst.lk/2026/01/27/%e2%82%ac4-billion-in-annual-savings-96-tariff-cuts-euindia-free-trade-agreement-sealed",
+  "https://www.intellinews.com/india-and-eu-seal-landmark-free-trade-agreement-422381/",
+  "https://view.asiae.co.kr/en/article/2026012719024956640",
+  "https://www.nst.com.my/amp/business/corporate/2026/02/1373592/us-india-unveil-interim-trade-framework-move-closer-broad-pact",
+  "https://www.khaleejtimes.com/world/americas/us-india-unveil-interim-trade-framework",
+  "https://www.etvbharat.com/en/bharat/us-and-india-joint-statement-on-india-us-interim-trade-agreement-enn26020700547",
+  "https://www.troutman.com/insights/us-rescinds-25-additional-duties-on-indian-origin-imports/",
+  "https://ianslive.in/us-drops-25-tariff-on-indian-imports--20260207034504",
+  "https://www.ghy.com/trade-compliance/us-imposes-25-tariff-on-india-imports-in-response-to-russian-oil-trade/",
+  "https://www.dtnext.in/news/national/no-duty-concessions-on-sensitive-grains-fruits-dairy-meat-under-trade-pact-with-us",
+  "https://ianslive.in/india-gulf-cooperation-council-launch-fta-talks--20260224194504",
+  "https://www.newsonair.gov.in/india-gulf-cooperation-council-sign-joint-statement-on-india-gcc-free-trade-agreement",
+  "https://thepeninsulaqatar.com/article/24/02/2026/gcc-india-launch-free-trade-agreement-negotiations",
+  "https://www.outlookbusiness.com/economy-and-policy/india-gulf-cooperation-council-ink-terms-of-reference-for-starting-fta-talks",
+  "https://globaledge.msu.edu/trade-blocs/gcc/memo",
+  "https://protectingeducation.org/db-taxonomy-regional-body/gulf-cooperation-council-gcc"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "Where is the headquarters of the Gulf Cooperation Council located?",
+   "options": [
+    "Abu Dhabi",
+    "Doha",
+    "Riyadh",
+    "Muscat"
+   ],
+   "answer": 2,
+   "explanation": "The GCC treaty provides that the Cooperation Council has its headquarters in Riyadh, Saudi Arabia.",
+   "source": "https://en.wikipedia.org/wiki/Gulf_Cooperation_Council ; https://treaties.un.org/doc/Publication/UNTS/Volume%201288/volume-1288-I-21244-English.pdf"
+  },
+  {
+   "type": "direct",
+   "q": "Under which section of the Customs Tariff Act, 1975 may the Central Government impose anti-dumping duty on articles imported below their normal value?",
+   "options": [
+    "Section 3",
+    "Section 9A",
+    "Section 11",
+    "Section 12"
+   ],
+   "answer": 1,
+   "explanation": "Section 9A of the Customs Tariff Act, 1975 empowers the Central Government, by notification, to impose anti-dumping duty where an article is imported below its normal value.",
+   "source": "https://future.indiankanoon.org/doc/946858 ; https://bhattandjoshiassociates.com/anti-dumping-duty-in-india-complete-legal-framework-investigation-process-appellate-remedies/"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "Article 301 of the Constitution of India guarantees freedom of trade, commerce and intercourse throughout the territory of India.",
+   "reason": "Article 301 was borrowed from the commerce clause of the Constitution of the United States.",
+   "answer": 2,
+   "truth": [
+    true,
+    false
+   ],
+   "explanation": "Article 301 is true as a statement of the guarantee, but it was derived from Section 92 of the Australian Constitution, not from the US Constitution.",
+   "source": "https://www.mea.gov.in/Images/pdf1/Part13.pdf ; https://blog.ipleaders.in/freedom-trade-commerce-intercourse-articles-301-307-indian-constitution/"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. Article 253 empowers Parliament to make laws for implementing treaties and agreements with foreign countries.",
+    "II. Article 253 empowers only the State legislatures to make laws for implementing international treaties."
+   ],
+   "answer": 0,
+   "truth": [
+    true,
+    false
+   ],
+   "explanation": "Article 253 gives Parliament power to make any law for the whole or any part of India to implement any treaty, agreement or convention with another country. State legislatures do not hold this power under Article 253.",
+   "source": "https://www.constitutionofindia.net/articles/article-253-legislation-for-giving-effect-to-international-agreements/ ; https://constitution.org/1-Constitution/cons/india/p11253.html"
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. Agriculture is a subject in the State List of the Seventh Schedule.",
+    "2. Police is a subject in the Union List of the Seventh Schedule.",
+    "3. Public health and sanitation is a subject in the Union List of the Seventh Schedule."
+   ],
+   "mode": "correct",
+   "truth": [
+    true,
+    false,
+    false
+   ],
+   "answer": 0,
+   "explanation": "Only statement 1 is correct. Agriculture is in the State List, while police and public health and sanitation are State List subjects, not Union List subjects.",
+   "source": "https://www.constitutionofindia.net/schedules/list-ii-state-list ; https://courtbook.in/constitution/schedule/seventh-schedule-list-ii-state-list"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Article 112",
+    "II. Article 265",
+    "III. Article 266",
+    "IV. Article 280"
+   ],
+   "list2": [
+    "A. Body constituted to advise on the division of the net proceeds of taxes between the Union and the States",
+    "B. No tax may be levied or collected except by authority of law",
+    "C. Statement of estimated receipts and expenditure of the Government of India laid before Parliament each year",
+    "D. Government revenues and loans pooled into one fund, from which money may be appropriated only in accordance with law"
+   ],
+   "options": [
+    "I-A, II-B, III-C, IV-D",
+    "I-C, II-A, III-D, IV-B",
+    "I-C, II-B, III-D, IV-A",
+    "I-D, II-A, III-B, IV-C"
+   ],
+   "answer": 2,
+   "explanation": "Article 112 is the Annual Financial Statement, the Union Budget (List I-C). Article 265 provides that no tax shall be levied or collected except by authority of law (II-B). Article 266 pools government revenues and loans into the Consolidated Fund, from which money is appropriated only in accordance with law (III-D). Article 280 provides for the Finance Commission, which advises on the division of tax proceeds between the Union and the States (IV-A).",
+   "source": "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/ ; https://constitution.org/1-Constitution/cons/india/p05112.html ; https://www.constitutionofindia.net/?p=137165 ; https://future.indiankanoon.org/doc/1532561 ; https://www.constitutionofindia.net/articles/article-266-consolidated-funds-and-public-accounts-of-india-and-of-the-states/ ; https://www.constitutionofindia.net/articles/article-280-finance-commission ; https://en.wikipedia.org/wiki/Finance_Commission"
+  }
+ ]
+}
