@@ -1,0 +1,109 @@
+{
+  "title": "India's early-2026 economic data",
+  "topic_tags": ["economy", "national income", "inflation", "industrial output", "trade", "RBI Act", "Economic Survey 2025-26", "static GK"],
+  "slot": "T05P4",
+  "status": "complete",
+  "notes": "Banked facts (NSO advance estimates, Survey tabled, PFCE 61.5%, CPI Dec, trade Dec, RBI target notification) re-sourced this run with search URLs. Weaker sourcing: Q4 item II (Art 113 demands for grants) relies on lexibal and vajiramandravi summaries; Q7 potential-growth statement relies on outlookmoney plus moneylife; core-sector and IIP sector figures come from aggregator reports that agree with each other (one outlier, Policy Edge, reported 5.3% core growth and was discarded). IIP timing was deliberately not used (MoSPI moved IIP to a 28-day release in 2025).",
+  "text": "India's official economic data for early 2026 pointed to steady growth. On 7 January 2026, the National Statistical Office (NSO) released its first advance estimates for 2025-26. The estimates placed real GDP growth for FY26 at 7.4 per cent, compared with 6.5 per cent in FY25. Gross value added (GVA) was estimated to grow 7.3 per cent, with services expanding 9.1 per cent.\n\nThe Economic Survey 2025-26 was tabled in Lok Sabha on 29 January 2026 by Finance Minister Nirmala Sitharaman. The Survey put private final consumption expenditure at 61.5 per cent of GDP, the highest share since FY2011-12.\n\nPrice data showed a different pattern. Consumer Price Index (CPI) inflation for December 2025 was 1.33 per cent, a three-month high, up from 0.71 per cent in November, according to figures released on 12 January 2026. Food prices fell 2.71 per cent year on year. Headline inflation stayed below the lower tolerance band of the Reserve Bank of India's target for a fourth straight month. Wholesale price inflation was 0.83 per cent in December 2025, released on 14 January 2026, ending a two-month stretch of deflation.\n\nIndustrial output also gained pace. The Index of Industrial Production (IIP) rose 6.7 per cent year on year in November 2025, its highest in 25 months, according to the quick estimate released in late December. Manufacturing grew 8.0 per cent and mining 5.4 per cent, while electricity fell 1.5 per cent. Analysts linked the gain partly to GST rate cuts effective from 22 September 2025. The Index of Eight Core Industries rose 3.7 per cent in December 2025, its fastest pace in four months, with cement output up 13.5 per cent and steel up 6.9 per cent. Coal output rose 3.6 per cent, while crude oil and natural gas output fell 5.6 and 4.4 per cent. The index stood at 175.7 points, compared with 169.4 a year earlier, and cumulative growth for April to December 2025-26 was 2.6 per cent, provisional. The core sector data were released on 20 January 2026.\n\nOn the external front, merchandise exports rose 1.87 per cent year on year to $38.51 billion in December 2025. Imports reached $63.55 billion, leaving a merchandise trade deficit of about $25.04 billion. The trade figures were released on 15 January 2026.\n\nInflation policy also drew attention. Under the RBI Act, the government sets the inflation target in consultation with the central bank. The current target is 4 per cent, with a tolerance band of 2 to 6 per cent, for the five years from 1 April 2026 to 31 March 2031. The notification is dated 25 March 2026. If inflation stays outside the band for three consecutive quarters, the RBI must submit a report to the government explaining the reasons and remedial action.",
+  "sources": [
+    "https://deccanchronicle.com/business/gdp-to-grow-at-74-in-fy26-on-strong-manufacturing-services-govt-data-1928917",
+    "https://www.businesstoday.in/amp/union-budget/story/economic-survey-tabled-in-lok-sabha-fy27-growth-seen-at-68-72-ahead-of-budget-513403-2026-01-29",
+    "https://prsindia.org/policy/report-summaries/economic-survey-2025-26",
+    "https://www.downtoearth.org.in/amp/story/economy/economic-survey-2026-consumption-growth-to-slow-down-slightly-despite-rise-in-domestic-demand",
+    "https://www.etvbharat.com/en/business/retail-inflation-rises-in-december-govt-data-enn26011204050",
+    "https://www.outlookbusiness.com/economy-and-policy/inflation-rises-to-3-month-high-of-133-in-dec-remains-below-rbi-tolerance-band",
+    "https://www.newsonair.gov.in/wpi-inflation-rises-to-0-83-in-december-2025",
+    "https://swarajyamag.com/amp/story/economy/indias-wholesale-inflation-surges-to-083-per-cent-in-december-2025",
+    "https://www.kotakneo.com/news/market-news/iip-6-7-percent-growth-november-2025/",
+    "https://dce.visionias.in/upsc-daily-news-summary/article/2025-12-30/the-indian-express/economy/november-industrial-growth-surges-to-67-highest-in-25-months",
+    "https://www.etvbharat.com/en/business/india-industrial-output-rises-in-november-on-robust-manufacturing-enn25122903751",
+    "https://www.cholasecurities.com/news/economy-news/core-industries-index-grows-at-3-7-on-year-in-dec-25-cement-sees-excellent-spurt/1666064",
+    "https://www.ibtimes.co.in/indias-core-sector-growth-by-3-7-pc-dec-fertiliser-cement-coal-production-rise-896461",
+    "https://www.deccanherald.com/business/indias-exports-rise-187-to-385-billion-in-december-3862996",
+    "https://www.polymerupdate.com/News/Details/1438312",
+    "https://www.maritimegateway.com/imports-surge-widens-indias-trade-gap-despite-modest-export-rebound-in-december",
+    "https://dce.visionias.in/news-today/2026-03-26/economy/union-government-notifies-the-inflation-target-for-2026-2031-under-flexible-inflation-targeting-fit-framework",
+    "https://www.basispointinsight.com/Story/government-retains-inflation-target-at-4--for-another-five-years_bb54c3fc1d9c.html"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Which body prepares the Economic Survey, working under the supervision of the Chief Economic Adviser?",
+      "options": ["Economic Division of the Department of Economic Affairs", "NITI Aayog", "Reserve Bank of India", "Planning Commission"],
+      "answer": 0,
+      "explanation": "The Economic Survey is prepared by the Economic Division of the Department of Economic Affairs in the Ministry of Finance, under the supervision of the Chief Economic Adviser. NITI Aayog, the RBI and the Planning Commission are not the preparing body.",
+      "source": "https://www.businesstoday.in/amp/union-budget/story/union-budget-2026-who-are-the-minds-behind-the-economic-survey-stakeholders-and-its-components-512711-2026-01-23 ; https://anantamias.com/economic-survey/"
+    },
+    {
+      "type": "direct",
+      "q": "The Index of Industrial Production is compiled and published by the National Statistical Office. Under which ministry does the National Statistical Office function?",
+      "options": ["Ministry of Finance", "Ministry of Commerce and Industry", "Ministry of Statistics and Programme Implementation", "Ministry of Corporate Affairs"],
+      "answer": 2,
+      "explanation": "The National Statistical Office functions under the Ministry of Statistics and Programme Implementation (MoSPI), which publishes the IIP through its press releases. The other three ministries do not house the NSO.",
+      "source": "https://www.mospi.gov.in/sites/default/files/iip/IIP_PR_Jan2022.pdf ; https://www.drishtiias.com/pdf/1787427118.pdf"
+    },
+    {
+      "type": "direct",
+      "q": "Section 45ZB of the Reserve Bank of India Act, 1934 provides for the constitution of which body?",
+      "options": ["Monetary Policy Committee", "Central Board of the Reserve Bank", "Board for Financial Supervision", "Financial Stability and Development Council"],
+      "answer": 0,
+      "explanation": "Section 45ZB, inserted through the Finance Act 2016, constitutes the six-member Monetary Policy Committee, with three RBI members and three members appointed by the Central Government. The other three bodies are not constituted under that section.",
+      "source": "https://www.scconline.com/blog/post/2016/10/01/constitution-of-monetary-policy-committee-under-the-reserve-bank-of-india-act-1934-notified ; https://www.business-standard.com/amp/article/news-cm/monetary-policy-committee-constitution-under-the-reserve-bank-of-india-act-1934-notified-116092900939_1.html"
+    },
+    {
+      "type": "match",
+      "list1": ["I. Annual financial statement of the Government of India", "II. Demands for grants", "III. Appropriation of money out of the Consolidated Fund", "IV. Definition of a Money Bill"],
+      "list2": ["A. Article 110", "B. Article 112", "C. Article 113", "D. Article 114"],
+      "options": ["I-B, II-C, III-D, IV-A", "I-A, II-B, III-C, IV-D", "I-C, II-D, III-A, IV-B", "I-D, II-A, III-B, IV-C"],
+      "answer": 0,
+      "explanation": "Article 112 provides for the annual financial statement, Article 113 for demands for grants, Article 114 for withdrawal from the Consolidated Fund only under an appropriation law, and Article 110 defines money bills.",
+      "source": "https://lexibal.com/article-112-annual-financial-statement/ ; https://www.constitutionofindia.net/articles/article-114-appropriation-bills ; https://vajiramandravi.com/current-affairs/article-114-of-indian-constitution/ ; https://www.constitutionofindia.net/articles/article-110-definition-of-money-bills/ ; https://lexibal.com/article-110-money-bill-definition/"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Directorate General of Commercial Intelligence and Statistics (DGCI&S) compiles India's monthly merchandise trade statistics and functions under the Department of Commerce.",
+        "II. The DGCI&S receives daily trade returns from Customs formations and Special Economic Zones."
+      ],
+      "answer": 2,
+      "truth": [true, true],
+      "explanation": "Both statements are true. DGCI&S, under the Department of Commerce in the Ministry of Commerce and Industry, compiles monthly merchandise trade statistics from daily trade returns received from Customs formations and Special Economic Zones.",
+      "source": "https://www.commerce.gov.in/?p=3416 ; https://commerce.gov.in/trade-statistics ; https://www.dgciskol.gov.in/faq_2017.aspx"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "A Money Bill can be introduced only in the Lok Sabha.",
+      "reason": "The Rajya Sabha can only make recommendations on a Money Bill, which the Lok Sabha may accept or reject.",
+      "answer": 1,
+      "truth": [true, true],
+      "explanation": "Both statements are true. Introduction only in the Lok Sabha concerns the origin of a Money Bill under Article 109, whereas the Rajya Sabha's recommendatory role arises after the Lok Sabha has passed the bill. The reason therefore describes a later stage and does not explain the assertion.",
+      "source": "https://anantamias.com/money-bill-vs-finance-bill/ ; https://bharatnotes.com/resources/key-terms/money-bill--08-parliament/ ; https://en.wikipedia.org/wiki/Money_bill"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. The Economic Survey 2025-26 projects India's real GDP growth for FY27 in the range of 6.8 to 7.2 per cent.",
+        "II. The Economic Survey 2025-26 places India's medium-term potential growth at about 7 per cent a year.",
+        "III. The Economic Survey 2025-26 projects India's real GDP growth for FY27 above 8 per cent."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "explanation": "Statements I and II are correct, as the Survey gives a FY27 growth range of 6.8 to 7.2 per cent and a medium-term potential growth of about 7 per cent. Statement III is wrong because the Survey's FY27 range does not reach 8 per cent.",
+      "source": "https://www.businesstoday.in/amp/union-budget/story/economic-survey-tabled-in-lok-sabha-fy27-growth-seen-at-68-72-ahead-of-budget-513403-2026-01-29 ; https://www.outlookmoney.com/news/economic-survey-2026-gdp-growth-estimated-near-7-in-fy27-here-are-key-takeaways ; https://moneylife.in/article/economic-survey-projects-stable-growth-path-pegs-fy26-gdp-growth-at-74-percentage-despite-global-uncertainty/79509.html"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The Comptroller and Auditor-General of India is appointed by the President by warrant under his hand and seal.",
+        "2. The Finance Commission is constituted every five years, or earlier if the President considers it necessary.",
+        "3. No tax may be levied or collected except by authority of law.",
+        "4. All revenues received by the Union, together with certain loans, form the Consolidated Fund of India."
+      ],
+      "mode": "correct",
+      "answer": 3,
+      "truth": [true, true, true, true],
+      "explanation": "All four statements are correct. They reflect Article 148 (CAG appointed by the President by warrant), Article 280 (Finance Commission every fifth year or earlier), Article 265 (taxes only by authority of law) and Article 266(1) (Consolidated Fund of India).",
+      "source": "https://cag.gov.in/ag1/gujarat/en/page-ag1-gujarat-page-gssa-gujarat-constitutional-provisions ; https://drishtiias.com/pdf/1742212831.pdf ; https://www.constitutionofindia.net/articles/article-265-taxes-not-to-be-imposed-save-by-authority-of-law/ ; https://www.constitutionofindia.net/articles/article-266-consolidated-funds-and-public-accounts-of-india-and-of-the-states/ ; https://anantamias.com/mains-qa/the-comptroller-and-auditor-general-cag-38342/"
+    }
+  ]
+}
