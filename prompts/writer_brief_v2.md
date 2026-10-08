@@ -8,7 +8,7 @@ Other slots in that file cover other topics - do not use their niches. Also do n
 If you cannot confirm a suitable event for your period, widen to the nearest weeks in 2026 but stay in your category.
 
 ## Passage
-450-500 words (count them; under 450 is a failure), news-style, exact dates/names/numbers, every fact confirmed. No opinion, no filler. Only include facts you have confirmed from at least two independent publishers; leave out anything single-sourced.
+any length is acceptable (the owner has said word count is not a problem; aim for about 300-500 words) - never pad with unconfirmed facts to reach a length, news-style, exact dates/names/numbers, every fact confirmed. No opinion, no filler. Only include facts you have confirmed from at least two independent publishers; leave out anything single-sourced.
 
 ## Questions (exactly 8)
 Types: 3 direct, 1 match, 1 assertion_reason, 1 statement_two, 1 statement_count, 1 statement_multi.

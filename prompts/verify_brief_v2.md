@@ -14,3 +14,7 @@ Differences in v2:
 1. Write the verification record to the path given as `verify_out` (format as in prompts/verify_brief.md; questions indexed 1-8).
 2. Write the FINAL passage object (same shape as the draft, with only the kept questions, in their original relative order, `truth` fields retained) to the path given as `final_out`.
 Final reply: max 4 lines: paths, kept count, how many of the 8 were dropped and why (one phrase each), and any claim left single-sourced.
+
+
+## Passage length (owner decision)
+Word count is NOT a problem. Do not pad, and do not add facts just to reach a length; a shorter passage of confirmed facts is fine. Ignore any '430 words' floor in the task text.
