@@ -1,0 +1,136 @@
+{
+  "title": "New CPI Series and Startup Fund",
+  "topic_tags": ["Schemes, reports & indices", "Economy", "Inflation", "Startups", "Static GK"],
+  "slot": "T06P1",
+  "text": "The Ministry of Statistics and Programme Implementation (MoSPI) released the first Consumer Price Index (CPI) series with 2024 as its base year (2024=100) on 12 February 2026, replacing the series that used 2012 as its base. The revised basket has 358 weighted items, up from 299. Its weights are drawn from the Household Consumption Expenditure Survey 2023-24, and the number of major spending groups has risen from six to 12. Headline retail inflation for January 2026 was placed at 2.75 per cent on a provisional basis.\n\nIn February 2026, the Union Cabinet approved the Startup India Fund of Funds 2.0, with a corpus of Rs 10,000 crore to mobilise venture capital for startups in deep technology and innovation-led sectors. The government does not invest directly in startups. Instead, the scheme commits capital to SEBI-registered alternative investment funds (AIFs), which invest in recognised startups. The Small Industries Development Bank of India (SIDBI) is the first implementing agency, and the Department for Promotion of Industry and Internal Trade (DPIIT) oversees the scheme. DPIIT's operational guidelines sort eligible AIFs into categories that include deep-tech funds, micro venture capital funds, and funds backing innovation-led manufacturing.",
+  "sources": [
+    "https://www.etvbharat.com/en/business/government-unveils-updated-cpi-with-2024-base-year-enn26021205106",
+    "https://superkalam.com/current-affairs/13-02-2026/retail-inflation-at-2-75-in-jan-under-revised-cpi-data-series-pg13-425a3188-805f-44dc-9962-b40e9fb8fba0",
+    "https://www.ensureias.com/blog/current-affairs/indias-new-cpi-series-base-year-2024-implications-for-inflation-and-monetary-policy",
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/cpi-base-year-revised-to-2024/print_manually",
+    "https://basispointinsight.com/Story/inside-india-s-new-cpi-series--basket-revision-and-methodology_f32fd053a6df.html",
+    "https://www.outlookbusiness.com/news/revamped-cpi-basket-to-add-more-service-items-as-food-weight-is-slashed",
+    "https://entrackr.com/snippets/cabinet-approves-startup-india-fund-of-funds-20-with-rs-10000-cr-corpus-11106373",
+    "https://www.indiascienceandtechnology.gov.in/stihighlights/union-cabinet-approves-%E2%82%B910000-crore-startup-india-fund-funds-20-boost-deep-tech-innovation",
+    "https://india.entrepreneur.com/business-news/dpiit-issues-guidelines-for-inr-10000-cr-startup-india-fund-of-funds-2-0",
+    "https://www.tribuneindia.com/news/business/dpiit-issues-operational-guidelines-for-rs-10000-crore-startup-india-fund-of-funds-2-0-scheme/",
+    "https://www.biospectrumindia.com/news/20/27725/dpiit-releases-operational-guidelines-for-startup-india-fund-of-funds-2-0-of-rs-10000-cr.html"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Under the RBI's inflation-targeting framework, what CPI inflation target, with its tolerance band, did the central government notify for the period 1 April 2026 to 31 March 2031?",
+      "options": [
+        "2 per cent with a tolerance band of 1 per cent",
+        "4 per cent with a tolerance band of 2 per cent",
+        "6 per cent with a tolerance band of 2 per cent",
+        "4 per cent with a tolerance band of 1 per cent"
+      ],
+      "answer": 1,
+      "explanation": "The central government, in consultation with the RBI, retained a CPI inflation target of 4 per cent with a tolerance band of 2 per cent (upper 6 per cent, lower 2 per cent) for 1 April 2026 to 31 March 2031.",
+      "source": "https://www.outlookmoney.com/banking/rbi-to-maintain-4-per-cent-inflation-target-until-2031-centre ; https://www.basispointinsight.com/Story/government-retains-inflation-target-at-4--for-another-five-years_bb54c3fc1d9c.html"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Alternative investment funds that pursue complex trading strategies are classified as Category III AIFs under SEBI's AIF Regulations, 2012.",
+      "reason": "Category III is defined in SEBI's AIF Regulations, 2012 by reference to funds that may employ diverse or complex trading strategies and may use leverage through derivatives.",
+      "answer": 0,
+      "explanation": "Both statements are true. Category III is defined by the trading approach the regulations describe (diverse or complex strategies, including leveraged derivative use), which is the reason such funds fall in that category.",
+      "source": "https://bhattandjoshiassociates.com/sebi-aif-regulations-2012-a-comprehensive-analysis/ ; https://www.equirus.com/wealth/glossary/aif-category-3 ; https://treelife.in/finance/aif-category-i-vs-ii-vs-iii/",
+      "truth": [true, true]
+    },
+    {
+      "type": "direct",
+      "q": "The Department for Promotion of Industry and Internal Trade (DPIIT), which oversees the Startup India Fund of Funds 2.0, functions under which Union ministry?",
+      "options": [
+        "Ministry of Finance",
+        "Ministry of Micro, Small and Medium Enterprises",
+        "Ministry of Commerce and Industry",
+        "NITI Aayog"
+      ],
+      "answer": 2,
+      "explanation": "DPIIT is a department under the Ministry of Commerce and Industry. It was renamed from the Department of Industrial Policy and Promotion in January 2019.",
+      "source": "https://www.understandupsc.com/department-for-promotion-of-industry-and-internal-trade-dpiit/ ; https://c4scourses.in/blog/department-of-promotion-of-industry-and-internal-dpiit/ ; https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/aug/doc2024821378901.pdf"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Securities and Exchange Board of India",
+        "II. Reserve Bank of India",
+        "III. Census of India (Registrar General and Census Commissioner)",
+        "IV. Small Industries Development Bank of India"
+      ],
+      "list2": [
+        "A. Census Act, 1948",
+        "B. Reserve Bank of India Act, 1934",
+        "C. Securities and Exchange Board of India Act, 1992",
+        "D. Small Industries Development Bank of India Act, 1989"
+      ],
+      "options": [
+        "I-B, II-C, III-A, IV-D",
+        "I-C, II-B, III-A, IV-D",
+        "I-C, II-A, III-B, IV-D",
+        "I-D, II-B, III-C, IV-A"
+      ],
+      "answer": 1,
+      "explanation": "Each body rests on its own statute: SEBI on the SEBI Act, 1992; the RBI on the RBI Act, 1934; the census on the Census Act, 1948 (notified under its section 3); and SIDBI on the SIDBI Act, 1989. So I-C, II-B, III-A, IV-D.",
+      "source": "https://www.sebi.gov.in/about-sebi.html ; https://megpns.gov.in/gazette/2025/07/10-07-25-III.pdf ; https://www.taxheal.com/?p=140205 ; https://www.gktoday.in/monetary-policy-committee-of-india-composition-mandate-and-workings-2/ ; https://web-upsc.getmarks.app/current-affair/monetary-policy-committee-under-rbi-act-1934-8f0213/ ; https://www.iimb.ac.in/ccmrm/file/SIDBI_Act.pdf ; https://en.wikipedia.org/wiki/Small_Industries_Development_Bank_of_India"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Monetary Policy Committee of the Reserve Bank of India has six members.",
+        "II. The Governor of the Reserve Bank of India is not a member of the Monetary Policy Committee."
+      ],
+      "answer": 0,
+      "explanation": "Statement I is true: the committee has six members (the Governor, the Deputy Governor in charge of monetary policy, one RBI officer, and three external members). Statement II is false, because the Governor is its chairperson. Only I is correct.",
+      "source": "https://www.gktoday.in/monetary-policy-committee-of-india-composition-mandate-and-workings-2/ ; https://web-upsc.getmarks.app/current-affair/monetary-policy-committee-under-rbi-act-1934-8f0213/",
+      "truth": [true, false]
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. Census 2027 will be the eighth census taken in India since Independence.",
+        "2. Census 2027 has a single general reference date of 1 October 2026.",
+        "3. Census 2027 excludes enumeration of caste.",
+        "4. Census 2027 population enumeration is conducted in a single phase, without any preceding housing listing."
+      ],
+      "mode": "correct",
+      "answer": 0,
+      "explanation": "Only one statement is correct. Statement 1 is correct (eighth census since Independence). Statement 2 is wrong: the general reference date is 1 March 2027, with 1 October 2026 only for snow-bound areas. Statement 3 is wrong because caste data is included. Statement 4 is wrong because the census has two phases, housing listing followed by population enumeration.",
+      "source": "https://www.onmanorama.com/upsc/current-affairs/2026/04/01/census-2027-explained.amp.html ; https://visionias.in/current-affairs/news-today/2025-12-13/polity-and-governance/cabinet-approves-census-of-india-2027 ; https://thesouthfirst.com/news/union-government-begins-process-for-population-census-after-15-years-count-to-start-in-march-2027 ; https://megpns.gov.in/gazette/2025/07/10-07-25-III.pdf ; https://www.taxheal.com/?p=140205 ; https://thewire.in/government/census-2027-caste-enumeration-population-amit-shah-delay ; https://ddindia.co.in/2025/06/centre-to-conduct-population-census-2027-in-two-phases-including-caste-enumeration/",
+      "truth": [true, false, false, false]
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. The Startup India initiative was launched on 16 January 2016.",
+        "II. Category I AIFs under SEBI's AIF Regulations, 2012 include venture capital funds.",
+        "III. The Small Industries Development Bank of India is headquartered in Mumbai."
+      ],
+      "options": [
+        "II and III only",
+        "All of the above",
+        "I and II only",
+        "I and III only"
+      ],
+      "answer": 2,
+      "explanation": "Statements I and II are correct. Statement III is wrong: SIDBI is headquartered in Lucknow. So the answer is I and II only.",
+      "source": "https://ianslive.in/national-startup-day-celebrates-courage-spirit-of-innovation-and-entrepreneurial-zeal-of-our-people-pm-modi--20260116090733 ; https://www.understandupsc.com/union-list-entry-69/ ; https://treelife.in/finance/aif-category-i-vs-ii-vs-iii/ ; https://en.wikipedia.org/wiki/Small_Industries_Development_Bank_of_India ; https://vajiramandravi.com/current-affairs/small-industries-development-bank-of-india-sidbi/",
+      "truth": [true, true, false]
+    },
+    {
+      "type": "direct",
+      "q": "Under the Seventh Schedule to the Constitution, the subject 'Census' is placed in which of the following lists?",
+      "options": [
+        "State List",
+        "Concurrent List",
+        "Union List",
+        "Residuary powers"
+      ],
+      "answer": 2,
+      "explanation": "Census is entry 69 of List I, the Union List, so Parliament alone legislates on it under Article 246.",
+      "source": "https://www.constitutionofindia.net/schedules/list-i-union-list/ ; https://www.understandupsc.com/union-list-entry-69/ ; https://www.verdictum.in/court-updates/high-courts/caste-survey-patna-high-court-interim-order-1474872"
+    }
+  ]
+}
