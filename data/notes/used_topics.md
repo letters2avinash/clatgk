@@ -5,6 +5,7 @@ Test 3: India trade agreements (EU FTA, US framework, GCC); Lee Jae Myung state 
 Test 4: SC Kuldeep Singh anticipatory bail + M.C. Mehta NCR air pollution; India AI Impact Summit Feb 2026; UP Cabinet four expressways 21 Jul 2026; Tribunals Reforms Bill 2026 / Monsoon Session; UNGA 81st session Sept 2026.
 Test 5: Glaw Lake Ramsar + elephant corridors; Booker 2026 shortlist + 72nd National Film Awards; defence news 1-8 Oct 2026; India's economy Jan 2026 (NSO advance estimates, Economic Survey 2025-26); Milano Cortina Winter Olympics.
 Test 6 (in progress): CPI base 2024 + Startup India FoF 2.0; 5 Mar 2026 Governor reshuffle; state assembly election results May 2026; ISRO-AIIMS MoU / ZSI lichen moths / quantum labs; Jojari River SC order.
+Test 7 (T07P5): Kentucky Derby 2026 (152nd running, Golden Tempo, DeVaux first woman trainer) + Triple Crown/racecourse GK.
 Spare: Padma Awards 2026 (data/spare/padma_awards.json).
 Test 7 T07P3 (Economy & Budget, widened to 24 Jul 2026): BHAVYA Rasayan chemical-parks scheme (Rs 3,030 cr, Cabinet 24 Jul 2026).
 Test 7 (T07P2): Sangeet Natak Akademi Fellowships and Akademi Puraskar 2024-25 presented at Vigyan Bhawan, 13 Aug 2026 (Awards, books & culture).

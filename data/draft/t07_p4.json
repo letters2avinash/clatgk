@@ -1,0 +1,96 @@
+{
+  "title": "PM-RAHAT Cashless Road Accident Treatment",
+  "topic_tags": ["Schemes, reports & indices", "Road safety", "Health", "Static GK"],
+  "slot": "T07P4",
+  "text": "The Prime Minister launched the Road Accident Victim Hospitalisation and Assured Treatment (PM-RAHAT) scheme on 14 February 2026. Under the scheme, every eligible victim of a road accident is entitled to cashless treatment of up to Rs 1.5 lakh per person. The cover applies to accidents involving any motor vehicle, on any category of road in India, and it runs for seven days from the date of the accident.\n\nHospitals that treat these victims are reimbursed through the Motor Vehicle Accident Fund, according to the Ministry. The arrangement means that the injured person's family does not have to make an advance payment for covered treatment at the time of admission.",
+  "sources": [
+    "https://www.newsonair.gov.in/pm-modi-launches-pm-rahat-scheme-for-cashless-road-accident-treatment",
+    "https://www.newsonair.gov.in/government-announces-launch-of-pm-rahat-scheme-for-cashless-treatment-of-up-to-rs-1-lakh-50-thousand-for-road-accident-victims",
+    "https://swarajyamag.com/amp/story/news-brief/pm-approves-pm-rahat-scheme-for-cashless-road-accident-treatment-up-to-rs-15-lakh",
+    "https://www.outlookmoney.com/personal-finance/pm-rahat-scheme-cashless-coverage-of-rs-15-lakh-to-road-victims",
+    "https://studycafe.in/government-launches-cashless-assured-treatment-of-accident-victims-410314.html"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "In which year was the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY) launched?",
+      "options": ["2016", "2017", "2018", "2019"],
+      "answer": 2,
+      "explanation": "PM-JAY was launched on 23 September 2018 (Parliament reply confirms the 23.09.2018 launch date).",
+      "source": "https://eparlib.sansad.in/bitstream/123456789/954675/1/AU44.pdf ; https://www.shankariasparliament.com/current-affairs/ayushman-bharat-pradhan-mantri-jan-arogya-yojana-ab-pm-jay"
+    },
+    {
+      "type": "direct",
+      "q": "Which 1989 Supreme Court judgment made it obligatory for doctors and hospitals, public or private, to give immediate medical aid to road accident victims before complying with formalities?",
+      "options": ["Olga Tellis v Bombay Municipal Corporation", "Bandhua Mukti Morcha v Union of India", "Parmanand Katara v Union of India", "Vishaka v State of Rajasthan"],
+      "answer": 2,
+      "explanation": "Parmanand Katara v Union of India (decided 28 August 1989, petition under Article 32) held that doctors and hospitals must first provide immediate medical aid to accident victims, with legal formalities coming afterwards. The other three are different Supreme Court cases on other subjects.",
+      "source": "https://www.jyotijudiciary.com/?p=294681 ; https://www.legalserviceindia.com/legal/article-5314-parmanand-katara-vs-union-of-%20india.html"
+    },
+    {
+      "type": "direct",
+      "q": "In which year was the Motor Vehicles Act, 1988 enacted?",
+      "options": ["1939", "1950", "1988", "2002"],
+      "answer": 2,
+      "explanation": "The Motor Vehicles Act, 1988 was enacted in 1988 (assent 14 October 1988), consolidating the law on motor vehicles and replacing the Motor Vehicles Act, 1939. Its enforcement date (1 July 1989) is a separate fact, and the question asks about enactment.",
+      "source": "https://morth.gov.in/hi/node/2475 ; https://indiacode.nic.in/handle/123456789/1798"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Ayushman Bharat PM-JAY provides cover of up to Rs 5 lakh per family per year for secondary and tertiary hospital care.",
+      "reason": "PM-JAY is funded entirely by the Union government, and state governments contribute nothing to its cost.",
+      "answer": 2,
+      "explanation": "A is true: the scheme gives Rs 5 lakh per family per year for secondary and tertiary hospitalisation. R is false: PM-JAY is a centrally sponsored scheme funded jointly by the Centre and the states, with a 60:40 sharing for general states and 90:10 for North-Eastern and Himalayan states.",
+      "source": "https://eparlib.sansad.in/bitstream/123456789/954675/1/AU44.pdf ; https://visionias.in/current-affairs/news-today/2025-01-14/schemes-in-news/odisha-becomes-34th-state-to-implement-ayushman-bharat-pradhan-mantri-jan-arogya-yojana-ab-pm-jay-scheme",
+      "truth": [true, false]
+    },
+    {
+      "type": "match",
+      "list1": ["I. Article 32", "II. Article 41", "III. Article 47", "IV. Article 37"],
+      "list2": ["A. Duty of the State to raise the level of nutrition and public health", "B. Right to constitutional remedies", "C. Right to work, education and public assistance in certain cases", "D. Directive Principles are not enforceable by any court"],
+      "options": ["I-A, II-B, III-C, IV-D", "I-B, II-D, III-A, IV-C", "I-B, II-C, III-A, IV-D", "I-C, II-B, III-D, IV-A"],
+      "answer": 2,
+      "explanation": "Article 32 is the right to constitutional remedies (B); Article 41 is the right to work, education and public assistance (C); Article 47 is the duty to raise nutrition and public health (A); Article 37 states that Directive Principles are not enforceable by any court (D).",
+      "source": "https://www.studyhub.net.in/inshorts/article-47-of-indian-constitution-upsc-2026/ ; https://www.legacyias.com/article-41-right-to-work-education-public-assistance/ ; https://www.studyiq.com/articles/right-to-constitutional-remedies/ ; https://vidhijudicial.com/article-47-of-the-constitution-of-india.html"
+    },
+    {
+      "type": "statement_two",
+      "statements": ["I. Section 134A, inserted into the Motor Vehicles Act by the 2019 amendment, protects a Good Samaritan from civil or criminal action in certain circumstances.", "II. Under the Central Motor Vehicles Rules, a Good Samaritan can be compelled to disclose personal details to the police."],
+      "answer": 0,
+      "explanation": "Statement I is correct: Section 134A (Protection of Good Samaritans) was inserted by the Motor Vehicles (Amendment) Act, 2019. Statement II is incorrect: the 2020 Good Samaritan rules say a Good Samaritan cannot be compelled to reveal personal details. Only I is correct.",
+      "source": "https://www.livelaw.in/news-updates/lok-sabha-motor-vehicles-amendment-bill-146608 ; https://morungexpress.com/rules-for-protection-of-good-samaritans-notified ; https://www.chronicleindia.in/current-affairs/1746-rules-for-protection-of-good-samaritans",
+      "truth": [true, false]
+    },
+    {
+      "type": "statement_multi",
+      "statements": ["I. The Motor Vehicle Accident Fund is constituted under Section 164B of the Motor Vehicles Act.", "II. Money from the Motor Vehicle Accident Fund can be used for compensation in hit-and-run cases under Section 161.", "III. Compensation for death in a motor accident under Section 164 is paid out of the Motor Vehicle Accident Fund."],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "explanation": "I is correct (Section 164B creates the Fund). II is correct (Section 161 covers hit-and-run compensation, which the Fund pays). III is incorrect: under Section 164, the owner or the authorised insurer is liable to pay compensation, not the Fund.",
+      "source": "https://lawx.in/acts/section/46/468/4456 ; https://courtbook.in/motor-vehicles-act-1988/section-164",
+      "truth": [true, true, false]
+    },
+    {
+      "type": "statement_count",
+      "statements": ["1. Habeas corpus is a remedy against unlawful detention.", "2. Mandamus directs a public authority to perform a duty it has neglected.", "3. Quo warranto is issued to restrain a lower court from exceeding its jurisdiction.", "4. Certiorari quashes an order already passed by a lower body that acted beyond its jurisdiction."],
+      "mode": "incorrect",
+      "answer": 0,
+      "explanation": "Statements 1, 2 and 4 are correct. Statement 3 is incorrect: it describes Prohibition, not Quo warranto (Quo warranto tests a person's right to hold a public office). Exactly one statement is incorrect, so the answer is Only one.",
+      "source": "https://thelaw.institute/criminal-justice-system/constitutional-writs-role-empowering-justice-india ; https://lawsforum.com/administrative-law/writs-certiorari-mandamus-quo-warranto-prohibition-habeas-corpus",
+      "truth": [true, true, false, true]
+    }
+  ],
+  "writer_flags": [
+    "Launch date: newsonair (14 Feb 2026) and most sources say 14 Feb; one source (Business Standard/Swarajya) says 13-14 Feb and one says 13 Feb. Passage uses 14 Feb; verify.",
+    "Hospital reimbursement via Motor Vehicle Accident Fund: attributed to the Ministry in a single search summary; second publisher not directly confirmed in snippets.",
+    "Passage has no stabilisation (24/48 hour) or PM-JAY empanelment claims: only one or two sources, left out.",
+    "Q1 PM-JAY launch date 23.09.2018: confirmed by Parliament reply; second publisher (Shankar IAS) not verified in snippet.",
+    "Q4 PM-JAY Rs 5 lakh cover and 60:40 / 90:10 funding: from Parliament reply and Vision IAS summary; the 60:40 split appears in a secondary summary.",
+    "Q5 Articles 32, 37, 41, 47: text from constitutional study sites (constitutionofindia.net not fetchable); each has a second site in results, but Article 37 wording is from one snippet.",
+    "Q3 MV Act 1988 enactment year: MoRTH and India Code pages list the Act; the exact assent date (14 Oct 1988) came from one summary.",
+    "Q6 Good Samaritan rule (no compulsion to disclose personal details): from commentary (Morung Express, Chronicle India), not the rule text; verify against GSR 594(E).",
+    "Q7 Section 164B and Section 161 uses of the Fund, and Section 164 liability on owner/insurer: from one legal-reference site each (lawx, courtbook); verify against India Code.",
+    "Q8 writ definitions: study sites only, no official source; definitions are standard.",
+    "Passage is short (about 150 words), below the 200-300 ideal, because no further fact was double-sourced."
+  ]
+}
