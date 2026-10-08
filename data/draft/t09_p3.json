@@ -1,0 +1,108 @@
+{
+  "title": "Constitution (131st Amendment) Bill defeated in Lok Sabha",
+  "topic_tags": ["Polity & governance", "Constitution", "Parliament", "Delimitation", "Women's reservation"],
+  "slot": "T09P3",
+  "status": "complete",
+  "text": "On 17 April 2026, the Lok Sabha defeated the Constitution (131st Amendment) Bill, 2026. The bill received 298 votes in favour and 230 against. More members therefore voted for it than against, yet it failed to reach the special majority that constitutional amendments require. The bill was tied to a fresh delimitation exercise, and the government had presented it as a way to bring women's reservation into effect sooner.\n\nThe bill proposed raising the strength of the Lok Sabha from 543 to 850 seats, with up to 815 members from the states and 35 from Union Territories. It sought to base the revised seat distribution on the 2011 Census. It also proposed amending Articles 82 and 334A so that delimitation was no longer tied to the first census after 2026, and the one-third reservation for women in the Lok Sabha and state assemblies could follow delimitation.\n\nOpposition parties argued that increasing seats on the basis of the 2011 Census would reduce the representation of southern and north-eastern states.\n\nAfter the defeat, the government withdrew two companion bills: the Delimitation Bill, 2026 and the Union Territories Laws (Amendment) Bill, 2026. The women's reservation law enacted in 2023 was not affected by the defeat.",
+  "sources": [
+    "https://thesouthfirst.com/topstory/lok-sabha-defeats-constitution-131st-amendment-bill/",
+    "https://visionias.in/current-affairs/news-today/2026-04-18/polity-and-governance/constitution-131st-amendment-bill-2026-defeated-in-lok-sabha",
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/defeat-of-the-constitution-131st-amendment-bill-2026/print_manually",
+    "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736",
+    "https://visionias.in/current-affairs/news-today/2026-04-15/polity-and-governance/union-government-proposes-constitution-amendment-bill-to-change-composition-of-lok-sabha",
+    "https://www.brut.media/in/articles/why-was-the-delimitation-bill-2026-withdrawn-what-the-electoral-reform-bill-proposed",
+    "https://www.understandupsc.com/article-368-explained-why-constitutional-amendment-bill-2026-failed-in-parliament/"
+  ],
+  "questions": [
+    {
+      "type": "assertion_reason",
+      "assertion": "The Constitution (131st Amendment) Bill, 2026 was defeated in the Lok Sabha on 17 April 2026 even though more members voted for it than against it.",
+      "reason": "A constitutional amendment must be passed by a special majority: a majority of the House's total membership and a two-thirds majority of the members present and voting.",
+      "answer": 0,
+      "truth": [true, true],
+      "explanation": "Both statements are true. The bill got 298 votes for and 230 against, but the special majority under Article 368 was not met. The reason states the requirement that directly explains the defeat.",
+      "source": "https://thesouthfirst.com/topstory/lok-sabha-defeats-constitution-131st-amendment-bill/ ; https://visionias.in/current-affairs/news-today/2026-04-18/polity-and-governance/constitution-131st-amendment-bill-2026-defeated-in-lok-sabha ; https://www.understandupsc.com/article-368-explained-why-constitutional-amendment-bill-2026-failed-in-parliament/"
+    },
+    {
+      "type": "direct",
+      "q": "Which Constitution Amendment Act of 2023 provided for reserving one-third of seats for women in the Lok Sabha and State Legislative Assemblies?",
+      "options": ["101st Amendment", "103rd Amendment", "105th Amendment", "106th Amendment"],
+      "answer": 3,
+      "explanation": "The Constitution (106th Amendment) Act, 2023, known as the Nari Shakti Vandan Adhiniyam, inserted Article 334A. The 101st (GST), 103rd (EWS reservation) and 105th (state power to identify OBCs) amendments dealt with other subjects.",
+      "source": "https://www.understandupsc.com/?p=15194 ; https://www.drishtiias.com/daily-updates/daily-news-analysis/delimitation-and-womens-reservation-in-legislatures/print_manually"
+    },
+    {
+      "type": "direct",
+      "q": "Under Article 324 of the Constitution, which body is vested with the superintendence, direction and control of the preparation of electoral rolls and the conduct of elections to Parliament and State Legislatures?",
+      "options": ["Union Public Service Commission", "Election Commission of India", "Comptroller and Auditor General", "Finance Commission"],
+      "answer": 1,
+      "explanation": "Article 324 vests superintendence, direction and control of elections in the Election Commission of India. The other bodies have different constitutional functions.",
+      "source": "https://www.constitutionofindia.net/articles/article-324-superintendence-direction-and-control-of-elections-to-be-vested-in-an-election-commission/ ; https://www.understandupsc.com/?p=15684"
+    },
+    {
+      "type": "match",
+      "list1": ["I. Article 81", "II. Article 169", "III. Article 170", "IV. Article 239AA"],
+      "list2": ["A. Composition of the House of the People", "B. Creation or abolition of Legislative Councils", "C. Composition of State Legislative Assemblies", "D. Legislative Assembly of Delhi"],
+      "options": ["I-A, II-B, III-C, IV-D", "I-B, II-A, III-D, IV-C", "I-C, II-A, III-B, IV-D", "I-A, II-C, III-B, IV-D"],
+      "answer": 0,
+      "explanation": "Article 81 deals with the House of the People, Article 169 with creating or abolishing Legislative Councils, Article 170 with State Legislative Assemblies, and Article 239AA with Delhi's Legislative Assembly.",
+      "source": "https://www.constitutionofindia.net/constitution_of_india/the_union/articles/Article%2081 ; https://www.constitutionofindia.net/articles/article-169-abolition-or-creation-of-legislative-councils-in-states/ ; https://forumias.com/blog/article-170-of-indian-constitution/ ; https://www.drishtijudiciary.com/ttp-constitution-of-india/article-239aa-of-indian-constitution"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Delimitation Bill, 2026 was introduced to repeal and replace the Delimitation Act, 1952.",
+        "II. The Union Territories Laws (Amendment) Bill, 2026 extended its changes only to Ladakh."
+      ],
+      "answer": 3,
+      "explanation": "Neither statement is correct. The Delimitation Bill aimed to replace the Delimitation Act, 2002. The Union Territories Laws bill covered Delhi, Puducherry and Jammu and Kashmir, not only Ladakh.",
+      "source": "https://www.drishtiias.com/daily-updates/daily-news-analysis/defeat-of-the-constitution-131st-amendment-bill-2026/print_manually ; https://www.brut.media/in/articles/why-was-the-delimitation-bill-2026-withdrawn-what-the-electoral-reform-bill-proposed"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The Rajya Sabha can have no more than 250 members.",
+        "2. Its elected members are chosen under the single transferable vote system.",
+        "3. The 12 members nominated by the President represent particular States.",
+        "4. Seats are allotted to States in the Rajya Sabha according to population under the Fourth Schedule."
+      ],
+      "mode": "incorrect",
+      "answer": 0,
+      "explanation": "Only statement 3 is incorrect, because the President's nominees are chosen for literature, science, art and social service and do not represent any State. Statements 1, 2 and 4 are correct.",
+      "source": "https://www.barristery.in/2025/02/article-80-of-indian-constitution.html ; https://lexibal.com/article-80-composition-council-of-states/"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. A Money Bill can be introduced only in the Lok Sabha.",
+        "II. The Rajya Sabha must return a Money Bill within 14 days, with or without recommendations.",
+        "III. The Rajya Sabha has the power to reject a Money Bill outright."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "explanation": "Statements I and II are correct under Article 109. Statement III is wrong because the Rajya Sabha can only recommend amendments and cannot reject a Money Bill.",
+      "source": "https://unacademy.com/content/upsc/study-material/general-awareness-2/article-109-special-procedure-in-respect-of-money-bills/ ; https://anantamias.com/mcq/which-of-the-following-statements-are-correct-in-respect-of-a-money-bill-in-the-parliament/"
+    },
+    {
+      "type": "direct",
+      "q": "Who presides over a joint sitting of the two Houses of Parliament?",
+      "options": ["Vice-President of India", "Speaker of the Lok Sabha", "Prime Minister", "Chief Justice of India"],
+      "answer": 1,
+      "explanation": "A joint sitting is presided over by the Speaker of the Lok Sabha, or in his absence by the Deputy Speaker, or in their absence by the Deputy Chairman of the Rajya Sabha. The Vice-President does not preside.",
+      "source": "https://en.wikipedia.org/wiki/Joint_session_of_the_Parliament_of_India ; https://anantamias.com/joint-sitting-of-parliament-article-108/?pdf=1"
+    }
+  ],
+  "writer_flags": [
+    "Articles 82 and 334A amendment details in passage: from one search summary plus one commentary; not clean double-sourcing",
+    "2011 Census baseline and the Opposition southern/north-eastern concern: two sources each, summary-level only",
+    "Delimitation Act 2002 (Q5 statement I) and the Delhi/Puducherry/J&K coverage of the UT Laws bill (Q5 statement II): from one search summary; verify against the bill text",
+    "Passage is about 230 words; the 220-word double-sourced floor is only just met and the passage was not padded",
+    "Event date 17 Apr 2026 falls outside the 5-25 Mar 2026 slot window; no well-covered March polity cluster was found, so the window was widened to the nearest weeks",
+    "Opposition party list (Congress, DMK, YSRCP etc.) omitted from passage: single source",
+    "Article 368 threshold figure is disputed (352 vs 360 votes); passage and Q1 avoid the number",
+    "Q2 distractor facts (101st GST, 103rd EWS, 105th OBC states) are not separately sourced",
+    "Q4 Article 170 source is a coaching blog (forumias); verify on constitutionofindia.net",
+    "Q6 Article 80 sources are study blogs (barristery, lexibal); verify on constitutionofindia.net",
+    "Q8 Speaker presiding rule (Article 118(4) vs 108) is cited inconsistently by sources; the answer itself is consistent"
+  ]
+}

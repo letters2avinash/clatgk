@@ -1,0 +1,717 @@
+{
+ "title": "CLAT GK - Test 08",
+ "date": "2026-10-08",
+ "duration_minutes": 50,
+ "marks_correct": 1,
+ "marks_wrong": -0.25,
+ "notes": "Generated with Haiku 5.5, then independently verified question by question by separate Sonnet agents using fresh searches (two-source rule; claims that could not be confirmed were removed or reworded; ambiguous, unchecked or overlapping questions were dropped). Several primary sources were unreachable, so residual risk is listed below. Not reviewed by a human.",
+ "residual": [
+  "Passage 1: Q1,Q2,Q4,Q5,Q6,Q7 static articles confirmed from constitution-text sites plus exam-prep/explainer snippets; no judgment or gazette fetched (WebFetch unreachable).",
+  "Passage 1: Passage claims rest on search summaries of IANS, FPJ, Deccan Chronicle, Hitavada, Daily Pioneer, Madhyamam; pages could not be fetched directly.",
+  "Passage 1: Live-in one-month registration and equal-inheritance wording: several outlets agree, exact clause not seen in Bill text.",
+  "Passage 1: Assent authority (President vs Governor) conflicts across reports (LiveLaw, AIR: Governor); claim reworded to generic 'requires assent'.",
+  "Passage 1: Passage is short (about 180 words) after culling unconfirmed claims.",
+  "Passage 2: Cabinet decision (Kerala, Sep 2026) and map by environment department: Onmanorama prominent; ThePrint snippet only, content not read.",
+  "Passage 2: 2026 state-wise areas (Goa, TN, Maharashtra) and Kerala 131 villages: 2026 Wire/Drishti-type reports plus identical 2024 sixth-draft figures; no official gazette read.",
+  "Passage 2: Hydel regulated / agriculture and plantations unaffected: only exam-prep explainers (Drishti, Vajiram etc.), no primary or news confirmation.",
+  "Passage 2: Sanjay Kumar leading 2022 expert committee (Q6 explanation only): Deccan Herald 2022 and exam-prep/news sites; extension to July 2027 from Superkalam/EaseMyPrep.",
+  "Passage 2: Eco-sensitive zone legal basis (Q1): explainer sites (ClearIAS, Casemine, officerspulse) plus India Environment Portal; no gazette read.",
+  "Passage 2: Passage is short (about 200 words), SHORT.",
+  "Passage 3: Q5 (Art 226 'any other purpose') rests on exam-prep/legal-blog pages and a secondhand Common Cause quote; official text not reached.",
+  "Passage 3: Q7 statements 3 and 4 (Art 124(7), 124(1)): Lok Sabha answer plus Common Cause/LiveLaw and journalsofindia/Drishti; constitutional text itself not fetched (WebFetch unavailable).",
+  "Passage 3: Q3 match: Art 148, 217, 280, 311 confirmed via mostly exam-prep and legal-blog pages; official text not fetched.",
+  "Passage 3: Passage line on Centre/states told to comply at once with warning of serious action: seen only in search summaries of Careers360, Onmanorama/TNM-type reports, not read in full.",
+  "Passage 3: Passage ~170 words after adding two confirmed details (book title, show-cause purpose); still under the usual length but confirmed facts only. Fetching failed on all hosts, so checks used search snippets.",
+  "Passage 3: Case later closed on 1 Sept 2026 after the chapter was replaced; passage reports only Feb 2026 events.",
+  "Passage 4: Passage is very short (~126 words), SHORT; no padding added.",
+  "Passage 4: Q1 (DAC chair): confirmed by PTI report on this meeting plus exam-prep explainer iasgyan; MoD PDF not fetched.",
+  "Passage 4: AoN as first formal step (Q4 reason): IDSA plus exam-prep sites; MoD Aon_1.pdf not opened.",
+  "Passage 4: Q5 stmt II (Lyulka to NPO Saturn lineage): Wikipedia and GlobalSecurity snippet only; GlobalSecurity page unreachable by fetch.",
+  "Passage 4: Q7 Su-30MKI-HAL: licence production via Janes/PIB; 'designed by Sukhoi' only Wikipedia plus copies (not asked in kept Qs).",
+  "Passage 4: Q7 S-400 Almaz-Antey and Akash DRDO from search summaries (Wikipedia, TASS, warhistory, airforce-technology); fetches failed.",
+  "Passage 4: Q7 list item 'Ordnance Factory Board' is historic: OFB was corporatised in 2021 (successor AWEIL); Dhanush developed under OFB.",
+  "Passage 4: Q3 45-calibre: search summaries of GlobalSecurity, Janes, aviation-defence-universe; full text not fetched.",
+  "Passage 5: Passage is very short (about 120 words) after cuts; SHORT.",
+  "Passage 5: Q6 (G7 no charter/secretariat/consensus) rests on Senate paper, G7 database, Guttry paper and Model Diplomat; no official G7 statement found.",
+  "Passage 5: Q3 DRC cobalt share: USGS table not retrieved; DRC largest rests on Cobalt Institute, Mining Technology and Measured World aggregator.",
+  "Passage 5: Q7 lithium ranking: USGS table not retrieved; figures via K&L Gates, Measured World (EIA-style) and a Chilean news report citing USGS.",
+  "Passage 5: Q4 assertion Ministry of Mines administers NCMM: PIB text mirror plus news; no separate ministry page retrieved.",
+  "Passage 5: Evian dates 15-17 June confirmed (Elysee/G7 Research Group); passage kept as mid-June.",
+  "Static-GK explanations cite Wikipedia or exam-prep pages in places where a primary text was not reachable."
+ ],
+ "passages": [
+  {
+   "title": "Madhya Pradesh UCC Bill 2026",
+   "topic_tags": [
+    "States & regional",
+    "Madhya Pradesh",
+    "Uniform Civil Code",
+    "State legislature",
+    "Monsoon session 2026"
+   ],
+   "slot": "T08P1",
+   "text": "The Madhya Pradesh Legislative Assembly passed the Uniform Civil Code (UCC) Bill, 2026 on Tuesday, 21 July 2026, by voice vote. The Bill was introduced on 20 July, the first day of the state's monsoon session, and was passed amid protests by Congress MLAs who stayed in the well of the House.\n\nThe government tabled the Bill while Congress was pressing for a debate on alleged land purchases linked to Chief Minister Mohan Yadav. Congress MLAs had demanded that the Bill be sent to a Select Committee, and the government rejected that demand. Congress also argued that 27 per cent reservation for Other Backward Classes should be a higher priority than the UCC.\n\nThe Bill covers marriage, divorce and inheritance. It prohibits polygamy, makes registration of marriages and divorces compulsory, provides equal inheritance rights for men and women, and requires live-in relationships to be registered with state authorities within one month of cohabitation. Scheduled Tribe communities are exempted from its scope.\n\nYadav defended the Bill as a step towards gender equality. The Bill requires assent before it can be implemented.",
+   "sources": [
+    "https://ianslive.in/mp-assembly-passes-uniform-civil-code-bill-amid-opposition-protests-uproar--20260721154425",
+    "https://www.freepressjournal.in/amp/bhopal/mp-assembly-passes-historic-ucc-bill-2026-amid-protests-and-stormy-debates",
+    "https://www.deccanchronicle.com/nation/mp-assembly-passes-ucc-bill-2026-amid-noisy-protest-by-congress-1972779",
+    "https://www.thehitavada.com//Encyc/2026/7/22/mp-assembly-passes-ucc-bill-chief-minister-hails-passing-of-the-bill-as-golden-day.html",
+    "https://www.latestly.com/india/news/uniform-civil-code-bill-2026-passed-in-madhya-pradesh-fourth-state-to-adopt-ucc-7525817.html/amp",
+    "https://dce.visionias.in/news-today/2026-07-22/polity-and-governance/madhya-pradesh-assembly-passes-uniform-civil-code-ucc-bill-2026",
+    "https://www.deccanchronicle.com/nation/madhya-pradesh-ucc-bill-2026-tabled-in-mp-assembly-1972522",
+    "https://www.deccanchronicle.com/nation/mp-govt-pushes-ucc-bill-amid-congress-storm-over-cm-land-purchase-allegations-1972500",
+    "https://theprint.in/india/mp-govt-tables-ucc-bill-in-assembly-amid-cong-uproar-over-cm-land-purchase-allegations/2991136/",
+    "https://newsonair.gov.in/madhya-pradesh-assembly-introduces-uniform-civil-code-bill-2026/",
+    "https://thefederal.com/category/states/north/madhya-pradesh/mp-assembly-passes-uniform-civil-code-bill-amid-congress-protest-250896"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Under which list of the Seventh Schedule do the subjects of marriage and divorce fall, so that both Parliament and State legislatures can legislate on them?",
+     "options": [
+      "Union List",
+      "Concurrent List",
+      "State List",
+      "Residuary subjects"
+     ],
+     "answer": 1,
+     "explanation": "Marriage and divorce is an entry in the Concurrent List (List III) of the Seventh Schedule, which is why both Parliament and State legislatures can make laws on it. Union List and State List subjects are exclusive to the Centre and the states respectively, so neither fits.",
+     "source": "https://livelaw.in/know-the-law/concept-of-repugnancy-under-article-254-173619 ; https://www.legacyias.com/article-44-uniform-civil-code/"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 15",
+      "II. Article 16",
+      "III. Article 17",
+      "IV. Article 32"
+     ],
+     "list2": [
+      "A. Equality of opportunity in matters of public employment",
+      "B. Right to move the Supreme Court for enforcement of Fundamental Rights",
+      "C. Abolition of untouchability",
+      "D. Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth"
+     ],
+     "options": [
+      "I-B, II-A, III-C, IV-D",
+      "I-D, II-A, III-C, IV-B",
+      "I-A, II-D, III-B, IV-C",
+      "I-C, II-B, III-D, IV-A"
+     ],
+     "answer": 1,
+     "explanation": "Article 15 prohibits discrimination on grounds of religion, race, caste, sex or place of birth (D). Article 16 guarantees equality of opportunity in public employment (A). Article 17 abolishes untouchability (C). Article 32 gives the right to move the Supreme Court for enforcement of Fundamental Rights (B).",
+     "source": "https://www.pmfias.com/articles-14-17-provisions-matching-upsc-prelims-pyq-2004/ ; https://blog.ipleaders.in/significance-of-article-32-of-the-constitution-of-india-right-to-constitutional-remedies/ ; https://en.vikaspedia.in/viewcontent/education/law-and-constitution/fundamental-rights-article-14-35/articles-14-18-of-the-indian-constitution-equality-and-its-implications?lgn=en"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Under Article 200, a Governor may reserve a Bill passed by the State Legislature for the consideration of the President.",
+      "II. Under Article 213, a Governor may promulgate an ordinance when the State Legislature is not in session."
+     ],
+     "answer": 2,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both statements are correct. Article 200 gives the Governor four options on a State Bill, one of which is reserving it for the President. Article 213 allows the Governor to promulgate ordinances during the recess of the Legislature, subject to conditions.",
+     "source": "https://www.gktoday.in/powers-of-the-governor-with-special-reference-to-article-200/ ; https://www.constitutionofindia.net/constitution_of_india/the_states/articles/Article%20213 ; https://www.casemine.com/in/column/article-213-of-the-indian-constitution:-the-governor's-ordinance-making-power/view"
+    },
+    {
+     "type": "direct",
+     "q": "Which Article of the Constitution directs the State to endeavour to secure a uniform civil code for the citizens throughout the territory of India?",
+     "options": [
+      "Article 370",
+      "Article 44",
+      "Article 37",
+      "Article 51A"
+     ],
+     "answer": 1,
+     "explanation": "Article 44 is the Directive Principle that asks the State to endeavour to secure a uniform civil code for citizens. Article 37 says Directive Principles are not enforceable by courts, Article 51A lists Fundamental Duties, and Article 370 concerned Jammu and Kashmir.",
+     "source": "https://www.legacyias.com/article-44-uniform-civil-code/ ; https://www.anantamias.com/uniform-civil-code-uttarakhand/"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. Article 25 guarantees freedom of conscience and the right to freely profess, practise and propagate religion, subject to public order, morality and health.",
+      "II. Article 26 gives religious denominations the right to manage their own affairs in matters of religion.",
+      "III. Article 27 prohibits the State from providing religious instruction in educational institutions wholly maintained out of State funds."
+     ],
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I and III only",
+      "All of the above"
+     ],
+     "answer": 1,
+     "truth": [
+      true,
+      true,
+      false
+     ],
+     "explanation": "Statements I and II correctly describe Articles 25 and 26. Statement III attributes to Article 27 a rule that belongs to Article 28; Article 27 bars taxes whose proceeds are specifically appropriated to promote a particular religion. So only I and II are correct.",
+     "source": "https://lawfoyer.in/right-to-freedom-of-religion-articles-25-28/ ; https://studyhub.net.in/indian_constitution/right-to-freedom-of-religion/"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Uniform Civil Code is a Fundamental Right that citizens can directly enforce in a court under Part III of the Constitution.",
+     "reason": "Article 14 guarantees equality before the law and the equal protection of the laws to every person within the territory of India, not only to citizens.",
+     "answer": 3,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "A is false because the Uniform Civil Code is a Directive Principle in Part IV, which courts cannot enforce, not a Fundamental Right in Part III. R is true: Article 14 applies to every person, including non-citizens. A false, R true gives option 3.",
+     "source": "https://www.latestlaws.com/bare-acts/central-acts-rules/coi-article-14-equality-before-law/ ; https://en.wikipedia.org/wiki/Article_14_of_the_Constitution_of_India ; https://www.legacyias.com/article-44-uniform-civil-code/"
+    }
+   ],
+   "residual": [
+    "Q1,Q2,Q4,Q5,Q6,Q7 static articles confirmed from constitution-text sites plus exam-prep/explainer snippets; no judgment or gazette fetched (WebFetch unreachable).",
+    "Passage claims rest on search summaries of IANS, FPJ, Deccan Chronicle, Hitavada, Daily Pioneer, Madhyamam; pages could not be fetched directly.",
+    "Live-in one-month registration and equal-inheritance wording: several outlets agree, exact clause not seen in Bill text.",
+    "Assent authority (President vs Governor) conflicts across reports (LiveLaw, AIR: Governor); claim reworded to generic 'requires assent'.",
+    "Passage is short (about 180 words) after culling unconfirmed claims."
+   ]
+  },
+  {
+   "title": "Defence Acquisition Council approvals, March 2026",
+   "topic_tags": [
+    "defence",
+    "defence procurement",
+    "Defence Acquisition Council",
+    "Acceptance of Necessity",
+    "Dhanush",
+    "S-400",
+    "Su-30MKI",
+    "Akash"
+   ],
+   "slot": "T08P4",
+   "status": "complete",
+   "text": "On 27 March 2026, the Defence Acquisition Council (DAC) granted Acceptance of Necessity (AoN) to defence proposals estimated to cost about Rs 2.38 lakh crore. The proposals covered the Indian Army, the Indian Air Force and the Indian Coast Guard, according to a Defence Ministry statement.\n\nFive Army items were cleared: the Air Defence Tracked System, Armoured Piercing Tank Ammunition, High Capacity Radio Relay, the Dhanush Gun System and the Runway Independent Aerial Surveillance System.\n\nAir Force items included the Medium Transport Aircraft, additional S-400 air defence systems, Remotely Piloted Strike Aircraft and the overhaul of Su-30 aero engine aggregates.\n\nThe Indian Coast Guard received approval for Heavy Duty Air Cushion Vehicles, meant for multipurpose coastal roles such as high-speed patrolling, reconnaissance and search and rescue.",
+   "sources": [
+    "https://raksha-anirveda.com/boosting-defence-capability-dac-clears-proposals-worth-rs-2-38-lakh-crore",
+    "https://deccanchronicle.com/southern-states/telangana/rs-238-lakh-cr-defence-deals-approved-1946769",
+    "https://morungexpress.com/centre-gives-nod-for-buying-military-hardware-worth-rs-238-lakh-crore",
+    "https://www.lifeofsoldiers.com/2026/03/28/dac-clears-proposals-worth-rs-2-38-lakh-crore-to-augment-defence-capabilities/",
+    "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260327-india-pib01.htm",
+    "https://www.aviation-defence-universe.com/dac-clears-proposals-worth-rs-2-38-lakh-crore-to-augment-defence-capabilities/"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "The Dhanush Gun System was cleared for the Army in this approval. How many calibres long is the barrel of this gun?",
+     "options": [
+      "60",
+      "52",
+      "39",
+      "45"
+     ],
+     "answer": 3,
+     "explanation": "The Dhanush is a 155 mm/45 calibre gun, with a barrel lengthened from the 39-calibre barrel of the original Bofors FH-77B.",
+     "source": "https://www.globalsecurity.org/military/world/india/danush.htm ; https://www.aviation-defence-universe.com/indian-army-gets-dhanush-arty-guns-in-its-inventory ; https://www.janes.com/defence-intelligence-insights/defence-news/indian-army-receives-first-six-of-114-dhanush-howitzers"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Dhanush Gun System",
+      "II. Su-30MKI aircraft",
+      "III. S-400 air defence system",
+      "IV. Akash missile system"
+     ],
+     "list2": [
+      "A. Ordnance Factory Board",
+      "B. Hindustan Aeronautics Limited",
+      "C. Almaz-Antey",
+      "D. DRDO"
+     ],
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-A, II-C, III-B, IV-D",
+      "I-B, II-A, III-C, IV-D",
+      "I-D, II-B, III-C, IV-A"
+     ],
+     "answer": 0,
+     "explanation": "Dhanush is produced by the Ordnance Factory Board; the Su-30MKI is built under licence by HAL; the S-400 is developed by Russia's Almaz-Antey; the Akash was developed by DRDO.",
+     "source": "https://www.globalsecurity.org/military/world/india/danush.htm ; https://www.janes.com/osint-insights/defence-news/hal-completes-licensed-production-of-final-two-of-222-su-30mki-fighters-for-iaf ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2083948 ; https://www.airforce-technology.com/projects/akash-surface-to-air-missile-system/ ; https://tass.com/defense/1222467/amp ; https://warhistory.org/%40msw/article/almaz-antey-40r6-s-400-triumf"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "An Acceptance of Necessity granted by the DAC is the final sanction that releases payment to the vendor for the procurement.",
+     "reason": "AoN is the first formal approval in the procurement process, after which tendering and contracting follow.",
+     "answer": 3,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "The assertion is false: AoN is an in-principle approval of necessity, not a payment or contract sanction. The reason is true: AoN is the first formal step, followed by tendering and contracting.",
+     "source": "https://idsa.in/publisher/comments/nurturing-capital-acquisitions ; https://anantamias.com/current-affairs/dac-aon-defence-acquisition-indigenisation/?pdf=1 ; https://www.mod.gov.in/dod/sites/default/files/Aon_1.pdf"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. The AL-31FP engine that powers the Su-30MKI was designed in India by Hindustan Aeronautics Limited.",
+      "II. The AL-31FP has a design lineage from the Soviet Lyulka design bureau, now NPO Saturn in Russia."
+     ],
+     "answer": 1,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "Statement I is false: the AL-31 family was designed by Lyulka/NPO Saturn in the Soviet Union and Russia, and HAL builds it under licence in India. Statement II is true. Only II is correct.",
+     "source": "https://en.wikipedia.org/wiki/Saturn_AL-31 ; https://www.globalsecurity.org/military/world/russia/lyulka.htm ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2053088&reg=3&lang=2 ; https://www.janes.com/osint-insights/defence-news/defence/indian-mod-awards-contract-to-produce-new-su-30mki-engines"
+    },
+    {
+     "type": "direct",
+     "q": "Which functionary chairs the Defence Acquisition Council, the Ministry of Defence's highest body for approving capital acquisitions?",
+     "options": [
+      "Chief of Naval Staff",
+      "Raksha Mantri",
+      "Chief of Defence Staff",
+      "Defence Secretary"
+     ],
+     "answer": 1,
+     "explanation": "The DAC is chaired by the Raksha Mantri (Defence Minister). The Chief of Defence Staff, the Defence Secretary and the service chiefs are members, not the chair.",
+     "source": "https://www.theweek.in/wire-updates/national/2026/03/27/dac-clears-massive-rs-2.38-lakh-cr-military-procurement-including-s-400s-60-transport-aircraft.html ; https://www.iasgyan.in/daily-current-affairs/defence-acquisition-council"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The S-400 is a short-range, man-portable missile system.",
+      "2. The Akash missile system is in service with both the Indian Army and the Indian Air Force.",
+      "3. The Dhanush is a self-propelled, tracked artillery gun.",
+      "4. The Akash is a long-range ballistic missile."
+     ],
+     "mode": "correct",
+     "answer": 0,
+     "truth": [
+      false,
+      true,
+      false,
+      false
+     ],
+     "explanation": "Only statement 2 is correct. The S-400 is a long-range, mobile system; the Dhanush is a towed gun; the Akash is a medium-range surface-to-air missile, not a ballistic missile.",
+     "source": "https://www.india.com/news/india/army-inducts-indigenously-built-surface-to-air-missile-akash-373609/ ; https://www.indiandefencereview.com/indigenously-designed-surface-to-air-akash-missile-inducted-into-the-iaf/ ; https://www.globalsecurity.org/military/world/india/danush.htm ; https://alphadefense.in/encyclopedia/s-400-triumf-india-sudarshan-chakra/"
+    }
+   ],
+   "residual": [
+    "Passage is very short (~126 words), SHORT; no padding added.",
+    "Q1 (DAC chair): confirmed by PTI report on this meeting plus exam-prep explainer iasgyan; MoD PDF not fetched.",
+    "AoN as first formal step (Q4 reason): IDSA plus exam-prep sites; MoD Aon_1.pdf not opened.",
+    "Q5 stmt II (Lyulka to NPO Saturn lineage): Wikipedia and GlobalSecurity snippet only; GlobalSecurity page unreachable by fetch.",
+    "Q7 Su-30MKI-HAL: licence production via Janes/PIB; 'designed by Sukhoi' only Wikipedia plus copies (not asked in kept Qs).",
+    "Q7 S-400 Almaz-Antey and Akash DRDO from search summaries (Wikipedia, TASS, warhistory, airforce-technology); fetches failed.",
+    "Q7 list item 'Ordnance Factory Board' is historic: OFB was corporatised in 2021 (successor AWEIL); Dhanush developed under OFB.",
+    "Q3 45-calibre: search summaries of GlobalSecurity, Janes, aviation-defence-universe; full text not fetched."
+   ]
+  },
+  {
+   "title": "NCERT Textbook and the Supreme Court",
+   "topic_tags": [
+    "Supreme Court",
+    "suo motu",
+    "NCERT",
+    "judiciary",
+    "Article 129",
+    "Contempt of Courts Act",
+    "Article 136",
+    "Article 226",
+    "Article 124"
+   ],
+   "slot": "T08P3",
+   "text": "The Supreme Court of India took suo motu cognisance on 25 February 2026 of references to corruption in the judiciary in a Class 8 social science textbook published by the National Council of Educational Research and Training (NCERT). A bench led by Chief Justice of India Surya Kant took up the matter.\n\nOn 26 February 2026, the court imposed a blanket ban on any further publication, reprinting and digital circulation of the textbook. It directed that physical copies be seized and digital versions be removed, and told the Centre and state governments to act at once, warning of serious action for any violation. It also said classes should not be held on the basis of the book.\n\nThe book is titled Exploring Society: India and Beyond. Show-cause notices were issued to the Secretary of School Education in the Union Ministry of Education and to the Director of NCERT, asking why contempt or other penal action should not be taken. The Chief Justice described the matter as a deep-rooted conspiracy.",
+   "sources": [
+    "https://www.newsonair.gov.in/supreme-court-takes-cognisance-of-references-to-corruption-in-judiciary-in-class-8-ncert-textbook",
+    "https://kashmirreader.com/2026/02/25/sc-takes-cognisance-of-ncert-class-8-chapter-on-corruption-in-judiciary/",
+    "https://news.careers360.com/supreme-court-bans-class-8-social-science-textbook-judiciary-corruption-chapter-4-copies-seizure-digital-takedown-ncert-director/amp",
+    "https://www.onmanorama.com/news/india/2026/02/26/supreme-court-india-ncert-textbook-ban.amp.html",
+    "https://morungexpress.com/sc-orders-seizure-bans-ncert-book-over-corruption-in-judiciary-chapter",
+    "https://thewire.in/law/supreme-court-bans-ncert-book-with-judicial-corruption-chapter-issues-notice-to-school-education-secretary",
+    "https://www.verdictum.in/court-updates/supreme-court/deep-rooted-consipiracy-ncert-published-class-8-book-corruption-in-judiciary-1608740"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Under which Article can the Supreme Court grant special leave to appeal from a judgment, decree or order of any court or tribunal in India?",
+     "options": [
+      "Article 141",
+      "Article 134",
+      "Article 136",
+      "Article 145"
+     ],
+     "answer": 2,
+     "explanation": "Article 136 gives the Supreme Court discretion to grant special leave to appeal, except from armed forces tribunals. Article 134 deals with appeals in certain criminal cases.",
+     "source": "https://bhattandjoshiassociates.com/special-leave-petition-to-the-supreme-court-after-a-gujarat-high-court-order/ ; https://ssrana.in/litigation/special-leave-petition-india/"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 148",
+      "II. Article 217",
+      "III. Article 280",
+      "IV. Article 311"
+     ],
+     "list2": [
+      "A. Protection of civil servants against dismissal by an authority subordinate to the appointing authority",
+      "B. Constitution of a Finance Commission at intervals of five years or earlier if necessary",
+      "C. Appointment and removal of the Comptroller and Auditor-General of India",
+      "D. Appointment of High Court judges by the President"
+     ],
+     "options": [
+      "I-C, II-D, III-B, IV-A",
+      "I-B, II-A, III-D, IV-C",
+      "I-D, II-C, III-A, IV-B",
+      "I-A, II-B, III-C, IV-D"
+     ],
+     "answer": 0,
+     "explanation": "Article 148 provides for the CAG, appointed by the President and removable on the same grounds as a Supreme Court judge. Article 217 covers appointment of High Court judges. Article 280 provides for the Finance Commission. Article 311 protects civil servants from dismissal by a subordinate authority.",
+     "source": "https://www.constitutionofindia.net/articles/article-148-comptroller-and-auditor-general-of-india ; https://cag.gov.in/page-constitutional-provisions ; https://www.constitutionofindia.net/articles/article-217-appointment-and-conditions-of-the-office-of-a- ; https://vajiramandravi.com/current-affairs/article-217-of-the-indian-constitution/ ; https://www.drishtijudiciary.com/to-the-point/ttp-constitution-of-india/article-280-of-the-coi ; https://blog.ipleaders.in/article-280-of-the-indian-constitution/ ; https://blog.ipleaders.in/article-311-of-the-indian-constitution/ ; https://vajiramandravi.com/current-affairs/?p=25565"
+    },
+    {
+     "type": "statement_count",
+     "mode": "correct",
+     "statements": [
+      "1. A Supreme Court judge holds office until attaining the age of 65 years.",
+      "2. A Supreme Court judge can be removed only on grounds of proved misbehaviour or incapacity.",
+      "3. A former Supreme Court judge is barred from pleading or acting in any court within India.",
+      "4. Parliament may by law increase the number of Supreme Court judges beyond the number originally fixed."
+     ],
+     "truth": [
+      true,
+      true,
+      true,
+      true
+     ],
+     "answer": 3,
+     "explanation": "All four statements are correct. Article 124(2) sets retirement at 65, Article 124(4) sets removal on proved misbehaviour or incapacity by a special majority, Article 124(7) bars post-retirement practice, and Article 124(1) lets Parliament fix the number of other judges by law.",
+     "source": "https://drishtiias.com/pdf/1719770781.pdf ; https://www.pw.live/judiciary/exams/how-supreme-court-judges-are-appointed-in-india ; https://www.understandupsc.com/article-1241/ ; https://laex.in/prelims-fact-sheet/supreme-court-composition-strength/"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "High Courts can issue writs only for the enforcement of Fundamental Rights.",
+     "reason": "Article 226 empowers every High Court to issue writs, including habeas corpus, mandamus and certiorari, for enforcement of Fundamental Rights and for any other purpose.",
+     "answer": 3,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "The assertion is false because Article 226 extends High Court writ jurisdiction to any other purpose, beyond Fundamental Rights. The reason is true.",
+     "source": "https://anantamias.com/article-226-indian-constitution/?pdf=1 ; https://bhattandjoshiassociates.com/understanding-writ-jurisdiction-under-article-226-a-comprehensive-guide-to-constitutional-remedies-before-the-gujarat-high-court/"
+    },
+    {
+     "type": "direct",
+     "q": "Which Article of the Constitution of India declares the Supreme Court to be a court of record, with power to punish for contempt of itself?",
+     "options": [
+      "Article 129",
+      "Article 143",
+      "Article 131",
+      "Article 142"
+     ],
+     "answer": 0,
+     "explanation": "Article 129 declares the Supreme Court a court of record and gives it the power to punish for contempt of itself. Article 215 gives the same status to High Courts.",
+     "source": "https://www.constitutionofindia.net/articles/article-129-supreme-court-to-be-a-court-of-record/ ; https://www.understandupsc.com/article-129-of-indian-constitution/ ; https://main.sci.gov.in/jonew/judis/13280.pdf"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Article 21A makes free and compulsory education a Fundamental Right for children aged six to eighteen.",
+      "II. The Attorney General for India is appointed by the Chief Justice of India under Article 76."
+     ],
+     "truth": [
+      false,
+      false
+     ],
+     "answer": 3,
+     "explanation": "Neither is correct. Article 21A covers children aged six to fourteen, and Article 76 provides that the President appoints the Attorney General for India.",
+     "source": "https://blog.ipleaders.in/article-21a-of-indian-constitution/ ; https://vidhijudicial.com/article-21a-of-the-constitution-of-india.html ; https://www.constitutionofindia.net/articles/article-76-attorney-general-for-india/ ; https://vajiramandravi.com/current-affairs/article-76-of-indian-constitution/"
+    }
+   ],
+   "writer_flags": [
+    "Topic is outside the assigned window: no well-covered SC/HC cluster found for 22 Jan-11 Feb 2026 within budget; widened to the NCERT judiciary-chapter suo motu case (25-26 Feb 2026).",
+    "Passage omits the bench composition beyond CJI Surya Kant and the 11 March hearing and NCERT's apology details, since these rest on one summary each.",
+    "Q7 statement 3 (Art 124(7) post-retirement bar): wording taken from secondary sources; constitutional text not fetched.",
+    "Q8 Art 19(2) grounds: confirmed by secondary sources and a Verdictum PDF only; official text not fetched.",
+    "Q7 statement 4 (Art 124(1)): general power only; no numbers used because 2026 strength-amendment reports conflict.",
+    "Q3 option B: Art 280 sources say 'once in every five years or earlier if necessary'; match wording follows that."
+   ],
+   "status": "complete",
+   "residual": [
+    "Q5 (Art 226 'any other purpose') rests on exam-prep/legal-blog pages and a secondhand Common Cause quote; official text not reached.",
+    "Q7 statements 3 and 4 (Art 124(7), 124(1)): Lok Sabha answer plus Common Cause/LiveLaw and journalsofindia/Drishti; constitutional text itself not fetched (WebFetch unavailable).",
+    "Q3 match: Art 148, 217, 280, 311 confirmed via mostly exam-prep and legal-blog pages; official text not fetched.",
+    "Passage line on Centre/states told to comply at once with warning of serious action: seen only in search summaries of Careers360, Onmanorama/TNM-type reports, not read in full.",
+    "Passage ~170 words after adding two confirmed details (book title, show-cause purpose); still under the usual length but confirmed facts only. Fetching failed on all hosts, so checks used search snippets.",
+    "Case later closed on 1 Sept 2026 after the chapter was replaced; passage reports only Feb 2026 events."
+   ],
+   "writer_flags_checked": "All six writer_flags checked; Art 124(7), Art 19(2) (Q8 dropped), 124(1), Art 280 wording confirmed by two publishers; omitted bench/apology/March hearing items stay omitted."
+  },
+  {
+   "title": "G7 Evian summit and critical minerals",
+   "topic_tags": [
+    "International affairs",
+    "G7",
+    "critical minerals",
+    "supply chains",
+    "France"
+   ],
+   "slot": "T08P5",
+   "text": "Leaders of the Group of Seven (G7) met at Évian-les-Bains, France, in mid-June 2026, with French President Emmanuel Macron as host. Leaders discussed Russia's war in Ukraine, the situation in the Middle East and global economic imbalances.\n\nOn 17 June, the leaders issued a declaration on securing supply chains for critical minerals. The declaration expressed concern about market concentration, arbitrary trade restrictions, non-market policies and economic coercion. Members pledged to work with partners to reduce critical dependencies and to ensure that attempts to weaponise economic dependencies fail.\n\nThe declaration launched the G7 Critical Minerals Resilience and Production Alliance, a nonbinding framework supported by a new G7 platform for critical minerals cooperation. The leaders also committed to working towards harmonised ways of tracing where critical minerals come from.",
+   "sources": [
+    "https://www.elysee.fr/en/G7evian/2026/06/17/g7-leaders-declaration-on-securing-supply-chains-for-critical-minerals",
+    "https://www.mofa.go.jp/mofaj/files/101046856.pdf",
+    "https://g7.utoronto.ca/summit/2026evian/critical-minerals-annex.html",
+    "https://www.tribuneindia.com/news/vulnerabilities/g7-unveils-declaration-to-strengthen-resilience-of-critical-minerals-supply-chains",
+    "https://www.mining-technology.com/news/g7-rare-earth-targets-could-spur-investment-in-non-chinese-supply-chains/",
+    "https://www.euronews.com/my-europe/2026/06/17/six-takeaways-from-the-g7-summit-in-evian",
+    "https://www.dtnext.in/news/world/g7-leaders-open-summit-talks-on-ukraine-and-the-middle-east-as-zelenskyy-joins-in-france",
+    "https://www.aljazeera.com/news/2014/3/24/g7-nations-suspend-russia-and-scrap-g8-summit",
+    "https://www.nbcnews.com/news/amp/ncna42701",
+    "https://www.rferl.org/a/russia-g8-status-perspectives/25309385.html",
+    "https://www.cobaltinstitute.org/wp-content/uploads/2026/07/Biannual-Cobalt-Market-report-H1-2026.pdf",
+    "https://www.mining-technology.com/analyst-comment/drc-indonesia-anchor-global-cobalt-supply/",
+    "https://measuredworld.com/categories/resources/cobalt-production",
+    "https://www.bundesregierung.de/breg-en/news/g7-start-1994300",
+    "https://www.developmentaid.org/news-stream/post/145147/g7-summit-2022",
+    "https://www.arabnews.com/node/2112576",
+    "https://www.mofa.go.jp/policy/other/bluebook/2023/en_html/chapter3/c030303.html",
+    "https://en.wikipedia.org/wiki/50th_G7_summit",
+    "https://www.governo.it/en/node/25984",
+    "https://www.cbc.ca/news/politics/canada-g7-presidency-2025-1.7421639",
+    "https://cfjctoday.com/2025/01/02/canada-set-to-preside-over-g7-in-2025-what-that-means-and-whats-at-stake/",
+    "https://g7.utoronto.ca/summit/2025kananaskis/index.html",
+    "https://www.bundesregierung.de/breg-en/service/g7-at-schloss-elmau-1991596",
+    "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-national-critical-mineral-mission-to-build-a-resilient-value-chain-for-critical-mineral-resources-vital-to-green-technologies-with-an-outlay-of-rs-34300-crore-over-seven-years",
+    "https://www.narendramodi.in/cabinet-approves-national-critical-mineral-mission",
+    "https://www.outlookindia.com/national/union-cabinet-approves-national-critical-mineral-mission-with-outlay-of-rs-34-cr-over-7-years",
+    "https://www.energetica-india.net/news/union-cabinet-approves-launch-of-inr-16300-crore-national-critical-mineral-mission",
+    "https://www.sencanada.ca/media/365559/senboehm_article_2019-06-28_e.pdf",
+    "https://g7g20-documents.org/about-the-database/about-g7",
+    "https://g7.utoronto.ca/scholar/guttry1994/guttry.htm",
+    "https://modeldiplomat.com/learn/glossary/g7-leaders-summit",
+    "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf",
+    "https://www.klgates.com/thought-leadership/USGS-Discovers-23-Million-Ton-Appalachian-Lithium-Deposit-7-22-2026",
+    "https://measuredworld.com/categories/resources/lithium-production",
+    "https://www.meganoticias.cl/nacional/515760-china-desplaza-a-chile-al-tercer-lugar-en-produccion-mundial-de-litio-usgs-27-2-2026.html"
+   ],
+   "questions": [
+    {
+     "type": "match",
+     "list1": [
+      "I. Schloss Elmau summit",
+      "II. Hiroshima summit",
+      "III. Borgo Egnazia (Apulia) summit",
+      "IV. Kananaskis summit"
+     ],
+     "list2": [
+      "A. Canada",
+      "B. Germany",
+      "C. Italy",
+      "D. Japan"
+     ],
+     "options": [
+      "I-B, II-D, III-C, IV-A",
+      "I-B, II-C, III-D, IV-A",
+      "I-A, II-B, III-C, IV-D",
+      "I-D, II-C, III-B, IV-A"
+     ],
+     "answer": 0,
+     "explanation": "Germany held the G7 presidency in 2022 (Elmau, June 2022); Japan in 2023 (Hiroshima, May 2023); Italy in 2024 (Borgo Egnazia, Apulia, June 2024); Canada in 2025 (Kananaskis, June 2025).",
+     "source": "https://www.bundesregierung.de/breg-en/news/g7-start-1994300 ; https://www.developmentaid.org/news-stream/post/145147/g7-summit-2022 ; https://www.arabnews.com/node/2112576 ; https://www.mofa.go.jp/policy/other/bluebook/2023/en_html/chapter3/c030303.html ; https://en.wikipedia.org/wiki/50th_G7_summit ; https://www.governo.it/en/node/25984 ; https://www.cbc.ca/news/politics/canada-g7-presidency-2025-1.7421639 ; https://cfjctoday.com/2025/01/02/canada-set-to-preside-over-g7-in-2025-what-that-means-and-whats-at-stake/ ; https://g7.utoronto.ca/summit/2025kananaskis/index.html ; https://www.bundesregierung.de/breg-en/service/g7-at-schloss-elmau-1991596"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. Australia was the largest producer of lithium from mines in 2025.",
+      "II. Chile was the largest producer of lithium from mines in 2025.",
+      "III. China was the second-largest producer of lithium from mines in 2025."
+     ],
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "All of the above"
+     ],
+     "answer": 0,
+     "explanation": "Australia (about 92,000 t lithium content) led 2025 mine output in the USGS table, followed by China (about 62,000 t) and Chile (about 56,000 t). So I and III are correct and II is incorrect.",
+     "source": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf ; https://www.klgates.com/thought-leadership/USGS-Discovers-23-Million-Ton-Appalachian-Lithium-Deposit-7-22-2026 ; https://measuredworld.com/categories/resources/lithium-production ; https://www.meganoticias.cl/nacional/515760-china-desplaza-a-chile-al-tercer-lugar-en-produccion-mundial-de-litio-usgs-27-2-2026.html",
+     "truth": [
+      true,
+      false,
+      true
+     ]
+    },
+    {
+     "type": "direct",
+     "q": "Which country is the world's largest producer of cobalt?",
+     "options": [
+      "Indonesia",
+      "Zambia",
+      "Peru",
+      "Democratic Republic of the Congo"
+     ],
+     "answer": 3,
+     "explanation": "The Democratic Republic of the Congo produced roughly 72-75% of world cobalt in 2025 estimates, far ahead of Indonesia (about 14%). Zambia and Peru are much smaller producers.",
+     "source": "https://www.cobaltinstitute.org/wp-content/uploads/2026/07/Biannual-Cobalt-Market-report-H1-2026.pdf ; https://www.mining-technology.com/analyst-comment/drc-indonesia-anchor-global-cobalt-supply/ ; https://measuredworld.com/categories/resources/cobalt-production"
+    },
+    {
+     "type": "direct",
+     "q": "In which year did G7 leaders suspend Russia's participation in the G8 over its annexation of Crimea?",
+     "options": [
+      "2014",
+      "2008",
+      "2011",
+      "2017"
+     ],
+     "answer": 0,
+     "explanation": "At an emergency meeting in March 2014 (The Hague), G7 leaders suspended their participation in the G8 until Russia changed course, after Russia annexed Crimea. The G8 summit planned for Sochi was moved to Brussels.",
+     "source": "https://www.aljazeera.com/news/2014/3/24/g7-nations-suspend-russia-and-scrap-g8-summit ; https://www.nbcnews.com/news/amp/ncna42701 ; https://www.rferl.org/a/russia-g8-status-perspectives/25309385.html"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "India's National Critical Mineral Mission is administered by the Ministry of Mines.",
+     "reason": "The Union Cabinet approved the National Critical Mineral Mission in 2021.",
+     "answer": 2,
+     "explanation": "A is true: the mission is run by the Ministry of Mines. R is false: the Union Cabinet approved the mission in January 2025 (29 January 2025), not in 2021.",
+     "source": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-national-critical-mineral-mission-to-build-a-resilient-value-chain-for-critical-mineral-resources-vital-to-green-technologies-with-an-outlay-of-rs-34300-crore-over-seven-years ; https://www.narendramodi.in/cabinet-approves-national-critical-mineral-mission ; https://www.outlookindia.com/national/union-cabinet-approves-national-critical-mineral-mission-with-outlay-of-rs-34-cr-over-7-years ; https://www.energetica-india.net/news/union-cabinet-approves-launch-of-inr-16300-crore-national-critical-mineral-mission",
+     "truth": [
+      true,
+      false
+     ]
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The G7 operates without a charter.",
+      "2. The G7 has no permanent secretariat.",
+      "3. G7 decisions are generally taken by consensus rather than formal votes.",
+      "4. Declarations issued at G7 summits are legally binding under an international treaty."
+     ],
+     "mode": "correct",
+     "answer": 2,
+     "explanation": "Statements 1, 2 and 3 are correct: the G7 has no charter, offices or permanent administration, and decides by consensus without formal votes. Statement 4 is incorrect because G7 commitments are political rather than legally binding. Three statements are correct, so the answer is 'Only three'.",
+     "source": "https://www.sencanada.ca/media/365559/senboehm_article_2019-06-28_e.pdf ; https://g7g20-documents.org/about-the-database/about-g7 ; https://g7.utoronto.ca/scholar/guttry1994/guttry.htm ; https://modeldiplomat.com/learn/glossary/g7-leaders-summit",
+     "truth": [
+      true,
+      true,
+      true,
+      false
+     ]
+    }
+   ],
+   "residual": [
+    "Passage is very short (about 120 words) after cuts; SHORT.",
+    "Q6 (G7 no charter/secretariat/consensus) rests on Senate paper, G7 database, Guttry paper and Model Diplomat; no official G7 statement found.",
+    "Q3 DRC cobalt share: USGS table not retrieved; DRC largest rests on Cobalt Institute, Mining Technology and Measured World aggregator.",
+    "Q7 lithium ranking: USGS table not retrieved; figures via K&L Gates, Measured World (EIA-style) and a Chilean news report citing USGS.",
+    "Q4 assertion Ministry of Mines administers NCMM: PIB text mirror plus news; no separate ministry page retrieved.",
+    "Evian dates 15-17 June confirmed (Elysee/G7 Research Group); passage kept as mid-June."
+   ]
+  },
+  {
+   "title": "Western Ghats eco-sensitive draft and Kerala's exclusion plea",
+   "topic_tags": [
+    "Environment & biodiversity",
+    "Western Ghats",
+    "Eco-sensitive areas",
+    "Kerala",
+    "Mining and industry restrictions"
+   ],
+   "slot": "T08P2",
+   "status": "complete",
+   "text": "The Union environment ministry reissued the seventh draft notification for an Ecologically Sensitive Area (ESA) covering the Western Ghats in late July 2026. The draft covers 56,825.7 sq km across six states: Gujarat, Goa, Tamil Nadu, Kerala, Maharashtra and Karnataka. It proposes barring mining, quarrying and sand mining within the ESA, along with new thermal power plants, certain highly polluting industries and large construction projects. Hydel power would be regulated rather than banned, and agriculture and plantations are reported to be unaffected.\n\nThe draft is open to public objections for 60 days. The Centre and the six states have not agreed on which villages and areas should be included, a dispute that has continued since earlier drafts. An expert committee set up in 2022 to examine the states' proposals has been given an extension until July 2027.\n\nIn September 2026, Kerala's cabinet decided to ask the Centre for the complete exclusion of residential areas and the Cardamom Hill Reserve from the ESA. The state's environment department is to prepare a map of the areas it wants carved out, to be presented to the Union Environment Ministry. The Centre has so far resisted broader exclusions.",
+   "sources": [
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/western-ghats-ecologically-sensitive-area-7th-draft-notification",
+    "https://m.thewire.in/article/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats",
+    "https://www.onmanorama.com/news/kerala/2026/09/23/kerala-esa-exclusion-proposal-western-ghats-sensitive-area-plea.html",
+    "https://www.onmanorama.com/news/kerala/2026/09/25/kerala-wants-residential-agricultural-areas-excluded-from-western-ghats-esa.html",
+    "https://theprint.in/india/keralam-moves-to-exclude-residential-farm-areas-from-western-ghats-esa-limits/3047969/"
+   ],
+   "questions": [
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Sanjay Kumar headed the Western Ghats Ecology Expert Panel.",
+      "II. Madhav Gadgil headed the Western Ghats Ecology Expert Panel."
+     ],
+     "answer": 1,
+     "explanation": "Only II is correct. The WGEEP was headed by Madhav Gadgil. Sanjay Kumar leads the later expert committee formed in 2022, which is separate from the WGEEP.",
+     "source": "https://www.clearias.com/gadgil-report-kasturirangan-report-western-ghats/ ; https://vajiramandravi.com/current-affairs/western-ghats-controversy/",
+     "truth": [
+      false,
+      true
+     ]
+    },
+    {
+     "type": "direct",
+     "q": "In which year was the Western Ghats inscribed as a UNESCO World Heritage Site?",
+     "options": [
+      "2014",
+      "2012",
+      "2010",
+      "2006"
+     ],
+     "answer": 1,
+     "explanation": "The Western Ghats received UNESCO World Heritage status in 2012, at the 36th session of the World Heritage Committee in St Petersburg.",
+     "source": "https://www.downtoearth.org.in/amp/story/environment/western-ghats-get-world-heritage-site-tag-38604 ; https://www.hinduismtoday.com/hpi/2012/07/06/india-s-western-ghats-given-unesco-world-heritage-status-httpwwwbbccouknewsworld-asia-india-18669534/"
+    },
+    {
+     "type": "direct",
+     "q": "Which Act is the legal basis under which eco-sensitive zones around national parks and wildlife sanctuaries are notified?",
+     "options": [
+      "Forest (Conservation) Act, 1980",
+      "Wildlife (Protection) Act, 1972",
+      "Water (Prevention and Control of Pollution) Act, 1974",
+      "Environment (Protection) Act, 1986"
+     ],
+     "answer": 3,
+     "explanation": "Eco-sensitive zones are notified under the Environment (Protection) Act, 1986, with factors such as biodiversity, proximity to sanctuaries and national parks, and wildlife corridors considered. The other three Acts do not provide the notification basis for these zones.",
+     "source": "https://indiaenvironmentportal.org.in/reports-and-documents/question-raised-in-rajya-sabha-on-eco-sensitive-areas-25042016 ; https://www.gktoday.in/gk/eco-sensitive-zones/"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. Goa's share of the 2026 draft Western Ghats ESA is 1,461 sq km.",
+      "2. Tamil Nadu's share of the 2026 draft Western Ghats ESA is 6,914 sq km.",
+      "3. Kerala's part of the 2026 draft Western Ghats ESA covers 131 villages.",
+      "4. Maharashtra's share of the 2026 draft Western Ghats ESA is 17,430 sq km."
+     ],
+     "mode": "correct",
+     "answer": 2,
+     "explanation": "Statements 1, 2 and 3 are correct. Statement 4 is wrong: Maharashtra's share is 17,340 sq km. Three statements are correct, so the answer is Only three.",
+     "source": "https://keralakaumudi.com/en/news/news-amp.php?id=1357694 ; https://www.onmanorama.com/news/kerala/2026/09/25/kerala-wants-residential-agricultural-areas-excluded-from-western-ghats-esa.html ; https://m.thewire.in/article/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats"
+    },
+    {
+     "type": "direct",
+     "q": "Which of the six states named in the 2026 draft Western Ghats ESA has the largest area under the draft?",
+     "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Maharashtra",
+      "Karnataka"
+     ],
+     "answer": 3,
+     "explanation": "Karnataka has the largest share of the draft at 20,668 sq km, out of a total of 56,825.7 sq km across six states.",
+     "source": "https://m.thewire.in/article/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats ; https://keralakaumudi.com/en/news/news-amp.php?id=1357694"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Kasturirangan panel's report on the Western Ghats was submitted before the Gadgil panel's report.",
+     "reason": "The Gadgil panel's report on the Western Ghats was submitted to the Government of India in 2011.",
+     "answer": 3,
+     "explanation": "A is false: the Gadgil (WGEEP) report was submitted in August 2011, and the Kasturirangan report came later, in April 2013. R is true: the Gadgil report was submitted in 2011.",
+     "source": "https://www.clearias.com/gadgil-report-kasturirangan-report-western-ghats/ ; https://vajiramandravi.com/current-affairs/gadgil-report-on-western-ghats-why-the-gadgil-report-still-shapes-environmental-debate/",
+     "truth": [
+      false,
+      true
+     ]
+    }
+   ],
+   "residual": [
+    "Cabinet decision (Kerala, Sep 2026) and map by environment department: Onmanorama prominent; ThePrint snippet only, content not read.",
+    "2026 state-wise areas (Goa, TN, Maharashtra) and Kerala 131 villages: 2026 Wire/Drishti-type reports plus identical 2024 sixth-draft figures; no official gazette read.",
+    "Hydel regulated / agriculture and plantations unaffected: only exam-prep explainers (Drishti, Vajiram etc.), no primary or news confirmation.",
+    "Sanjay Kumar leading 2022 expert committee (Q6 explanation only): Deccan Herald 2022 and exam-prep/news sites; extension to July 2027 from Superkalam/EaseMyPrep.",
+    "Eco-sensitive zone legal basis (Q1): explainer sites (ClearIAS, Casemine, officerspulse) plus India Environment Portal; no gazette read.",
+    "Passage is short (about 200 words), SHORT."
+   ]
+  }
+ ]
+}

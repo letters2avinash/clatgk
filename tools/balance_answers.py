@@ -56,11 +56,29 @@ def flat(data):
     return [q for p in data["passages"] for q in p["questions"]]
 
 def balance(data, tries=200000):
+    """Try option shuffling first; if the fixed-frame answers force a violation, also
+    permute question order inside passages (then passage order) and retry."""
+    import copy
+    seq = [q["answer"] for q in flat(data)]
     for strict in (True, False):
         for band in ((0.2, 0.3), (0.15, 0.35)):
             ok, seq = _balance(data, tries, band, strict)
             if ok:
                 return True, seq, (band, "strict" if strict else "loose")
+    rng = random.Random(99)
+    orig = copy.deepcopy(data["passages"])
+    for attempt in range(400):
+        data["passages"] = copy.deepcopy(orig)
+        for p in data["passages"]:
+            rng.shuffle(p["questions"])
+        if attempt % 2:
+            rng.shuffle(data["passages"])
+        for strict in (True, False):
+            for band in ((0.2, 0.3), (0.15, 0.35)):
+                ok, seq = _balance(data, 3000, band, strict)
+                if ok:
+                    return True, seq, (band, ("strict" if strict else "loose") + "+reordered")
+    data["passages"] = orig
     return False, seq, None
 
 
