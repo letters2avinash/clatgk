@@ -1,0 +1,84 @@
+{
+  "title": "CLAT Current Affairs - Sample Test (GK passage)",
+  "date": "2026-10-08",
+  "duration_minutes": 10,
+  "marks_correct": 1,
+  "marks_wrong": -0.25,
+  "notes": "Sample generated from web-search results only. SCC Online and newsonair.gov.in were not reachable from the cloud environment, so the facts below are limited to what search results confirmed. Presidential assent to the Bill was not confirmed at the time of writing. Verify against the linked sources before relying on it.",
+  "passages": [
+    {
+      "id": "p1",
+      "text": "In August 2026, Parliament completed the legislative process for renaming the state of Kerala as \"Keralam\". The Kerala (Alteration of Name) Bill, 2026 was passed by the Lok Sabha on 11 August and by the Rajya Sabha, by voice vote and amid Opposition protests, on 12 August. The idea has a long political history, but the formal process began when the Kerala Legislative Assembly unanimously adopted a resolution on 24 June 2024 urging the Centre to change the state's name. The Union Cabinet approved the proposal in February 2026.\n\nThe Constitution gives Parliament, under Article 3, the power to alter the name of any State by law. Before a Bill for that purpose can be introduced, the President must refer it to the legislature of the affected State so that it can express its views within a specified period. Parliament is not bound by those views, but the requirement ensures that the State is consulted. In July 2026 the Kerala Assembly again unanimously approved the proposal, after which the Centre introduced the Bill during the Monsoon Session.\n\nThe Bill amends the First Schedule of the Constitution, which lists the States and Union Territories, to replace \"Kerala\" with \"Keralam\". It also allows the appropriate Government to adapt or modify existing laws for up to one year after the appointed day, and provides that in all pending legal proceedings in which the 'State of Kerala' is a party, the 'State of Keralam' will be deemed to be substituted once the Act commences. The change takes legal effect only after the President gives assent.\n\nThe Bill was one of about twelve passed during the Monsoon Session, which began on 20 July 2026 and was adjourned sine die on 13 August amid repeated disruptions. Other measures cleared in the session included the Public Examinations (Prevention of Unfair Means) Amendment Bill, the Tribunals Reforms Bill and the Taxation and Other Laws (Amendment) Bill, while the Foreign Contribution (Regulation) Amendment Bill, 2026 was referred to a Joint Parliamentary Committee for closer scrutiny.",
+      "sources": [
+        "https://www.livelaw.in/news-updates/parliament-passes-bill-to-change-kerala-as-keralam-545543",
+        "https://www.onmanorama.com/news/kerala/2026/08/12/parliament-clears-bill-to-rename-kerala-as-keralam.html",
+        "https://www.etvbharat.com/en/bharat/parliament-passes-bill-to-rename-kerala-as-keralam-enn26081206267",
+        "https://www.etvbharat.com/en/bharat/parliament-monsoon-session-2026-lok-sabha-adjourned-sine-die-enn26081301891"
+      ],
+      "questions": [
+        {
+          "q": "On which date did the Rajya Sabha pass the Kerala (Alteration of Name) Bill, 2026?",
+          "options": ["11 August 2026", "12 August 2026", "13 August 2026", "20 July 2026"],
+          "answer": 1,
+          "explanation": "The Lok Sabha passed it on 11 August; the Rajya Sabha followed on 12 August by voice vote.",
+          "source": "https://www.livelaw.in/news-updates/parliament-passes-bill-to-change-kerala-as-keralam-545543"
+        },
+        {
+          "q": "Under which Article of the Constitution does Parliament have the power to alter the name of a State?",
+          "options": ["Article 1", "Article 2", "Article 3", "Article 368"],
+          "answer": 2,
+          "explanation": "Article 3 empowers Parliament to form new States and to alter the areas, boundaries or names of existing States by law.",
+          "source": "https://www.scconline.com/blog/?p=393216"
+        },
+        {
+          "q": "According to the passage, what is the legal position of the State legislature's views on such a Bill?",
+          "options": [
+            "The Bill cannot proceed unless the State legislature agrees",
+            "The views must be obtained, but Parliament is not bound by them",
+            "The State legislature's views are irrelevant and need not be sought",
+            "The State legislature may amend the Bill before Parliament votes"
+          ],
+          "answer": 1,
+          "explanation": "The passage says the President refers the Bill to the State for its views, but Parliament is not bound by them.",
+          "source": "https://www.livelaw.in/news-updates/parliament-passes-bill-to-change-kerala-as-keralam-545543"
+        },
+        {
+          "q": "Which of the following is NOT stated in the passage as a feature of the Bill?",
+          "options": [
+            "It amends the First Schedule to replace \"Kerala\" with \"Keralam\"",
+            "It allows laws to be adapted or modified for up to one year after the appointed day",
+            "It makes 'State of Keralam' substitute 'State of Kerala' in pending legal proceedings",
+            "It reduces the number of Lok Sabha seats allotted to the State"
+          ],
+          "answer": 3,
+          "explanation": "The passage mentions the first three features. Nothing in it concerns Lok Sabha seats.",
+          "source": "https://www.scconline.com/blog/?p=393216"
+        },
+        {
+          "q": "Which Bill from the Monsoon Session 2026 was referred to a Joint Parliamentary Committee?",
+          "options": [
+            "Tribunals Reforms Bill",
+            "Taxation and Other Laws (Amendment) Bill",
+            "Foreign Contribution (Regulation) Amendment Bill, 2026",
+            "Public Examinations (Prevention of Unfair Means) Amendment Bill"
+          ],
+          "answer": 2,
+          "explanation": "The FCRA Amendment Bill, 2026 was sent to a JPC for further scrutiny. The other three were passed.",
+          "source": "https://www.etvbharat.com/en/bharat/parliament-monsoon-session-2026-lok-sabha-adjourned-sine-die-enn26081301891"
+        },
+        {
+          "q": "Which statement about the renaming, based on the passage, is correct?",
+          "options": [
+            "The name changed as soon as the Rajya Sabha passed the Bill",
+            "The name changes only after the President gives assent to the Bill",
+            "The name changes only if the Supreme Court approves the Bill",
+            "The name changes after a referendum in Kerala"
+          ],
+          "answer": 1,
+          "explanation": "The passage states that the change takes legal effect only after the President gives assent.",
+          "source": "https://www.onmanorama.com/news/kerala/2026/08/12/parliament-clears-bill-to-rename-kerala-as-keralam.html"
+        }
+      ]
+    }
+  ]
+}

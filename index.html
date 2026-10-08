@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CLAT Current Affairs Test</title>
+<style>
+body{font:16px/1.6 system-ui,sans-serif;max-width:760px;margin:0 auto;padding:16px;background:#fafafa;color:#1a1a1a}
+.passage{background:#fff;border:1px solid #ddd;padding:12px 16px;border-radius:8px;white-space:pre-line}
+.q{margin:20px 0}.opt{display:block;margin:4px 0;padding:6px 10px;border:1px solid #ddd;border-radius:6px;background:#fff;cursor:pointer}
+.ok{background:#d9f2d9}.bad{background:#f8d7d7}.exp{font-size:14px;color:#444;margin-top:6px}
+#timer{position:sticky;top:0;background:#fafafa;padding:6px 0;font-weight:600}
+button{font-size:16px;padding:8px 16px}
+@media(prefers-color-scheme:dark){body{background:#161616;color:#eee}.passage,.opt{background:#222;border-color:#444}#timer{background:#161616}.ok{background:#1f4d1f}.bad{background:#5a1f1f}.exp{color:#bbb}}
+</style></head><body>
+<h1>CLAT Current Affairs</h1>
+<select id="pick"></select> <button id="start">Start</button>
+<div id="app"></div>
+<script>
+const $=s=>document.querySelector(s);let T,timer;
+fetch('tests/index.json').then(r=>r.json()).then(l=>{$('#pick').innerHTML=l.map(d=>`<option>${d}</option>`).join('')});
+$('#start').onclick=async()=>{
+  T=await (await fetch(`tests/${$('#pick').value}/test.json`)).json();
+  let left=T.duration_minutes*60,h=`<h2>${T.title}</h2><div id="timer"></div><p><em>${T.notes}</em></p>`,n=0;
+  T.passages.forEach(p=>{h+=`<div class="passage">${p.text}</div>`;
+    p.questions.forEach(q=>{h+=`<div class="q"><b>Q${++n}. ${q.q}</b>`+q.options.map((o,i)=>`<label class="opt"><input type="radio" name="q${n}" value="${i}"> ${'ABCD'[i]}. ${o}</label>`).join('')+`<div class="exp" id="e${n}"></div></div>`})});
+  $('#app').innerHTML=h+'<button id="submit">Submit</button><h3 id="score"></h3>';
+  const tick=()=>{$('#timer').textContent=`Time left: ${Math.floor(left/60)}:${String(left%60).padStart(2,'0')}`;if(left--<=0)finish()};
+  tick();timer=setInterval(tick,1000);$('#submit').onclick=finish;
+};
+function finish(){
+  clearInterval(timer);let n=0,s=0;
+  T.passages.forEach(p=>p.questions.forEach(q=>{n++;
+    const sel=document.querySelector(`input[name=q${n}]:checked`),opts=document.querySelectorAll(`input[name=q${n}]`);
+    opts.forEach(o=>{o.disabled=true;if(+o.value===q.answer)o.parentNode.classList.add('ok')});
+    if(sel){if(+sel.value===q.answer)s+=T.marks_correct;else{s+=T.marks_wrong;sel.parentNode.classList.add('bad')}}
+    $('#e'+n).innerHTML=`${q.explanation} <a href="${q.source}" target="_blank" rel="noopener">source</a>`}));
+  $('#score').textContent=`Score: ${s} / ${n*T.marks_correct}`;$('#submit').disabled=true;
+}
+</script></body></html>
