@@ -11,7 +11,7 @@ Rules enforced on the final 1..N answer sequence:
   - (strict tier, tried first) no 4 consecutive answers that are all different, e.g. ABCD, DBCA
   - no window of 4 immediately repeated (e.g. ABAB..., ABCDABCD)
 """
-import json, random, re, sys, hashlib
+import json, os, random, re, sys, hashlib
 
 BAD_OPT = re.compile(r"\b(above|both|all of|none of|neither)\b", re.I)
 PIN = re.compile(r"\b(all|none) of the above\b", re.I)
@@ -67,7 +67,7 @@ def balance(data, tries=200000):
                 return True, seq, (band, "strict" if strict else "loose")
     rng = random.Random(99)
     orig = copy.deepcopy(data["passages"])
-    for attempt in range(400):
+    for attempt in range(int(os.environ.get("BALANCE_ATTEMPTS", "400"))):
         data["passages"] = copy.deepcopy(orig)
         for p in data["passages"]:
             rng.shuffle(p["questions"])
