@@ -1,2 +1,3 @@
 # Partial drafts (passage only, questions missing) in data/draft/
 t03_p2 (Lee Jae Myung visit, ~233 words, 0 questions); t03_p4 (WEF Energy Transition Index 2026, India 70th, ~280 words, 0 questions); t03_p5 (Jul 2026 appointments/obituaries, ~245 words, 4 of 8 questions); t05_p1 (Glaw Lake Ramsar etc, 355 words, 0 questions); t06_p4 (ISRO-AIIMS MoU, ZSI lichen moths, 23 quantum labs, 461 words, 0 questions).
+t03_p1 (India trade agreements: EU FTA 27 Jan 2026, US interim framework 7 Feb 2026, GCC joint statement 24 Feb 2026; ~315 words, 7 of 8 questions, match missing).
