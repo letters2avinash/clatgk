@@ -7,3 +7,4 @@ Test 5: Glaw Lake Ramsar + elephant corridors; Booker 2026 shortlist + 72nd Nati
 Test 6 (in progress): CPI base 2024 + Startup India FoF 2.0; 5 Mar 2026 Governor reshuffle; state assembly election results May 2026; ISRO-AIIMS MoU / ZSI lichen moths / quantum labs; Jojari River SC order.
 Spare: Padma Awards 2026 (data/spare/padma_awards.json).
 Test 7 T07P3 (Economy & Budget, widened to 24 Jul 2026): BHAVYA Rasayan chemical-parks scheme (Rs 3,030 cr, Cabinet 24 Jul 2026).
+Test 7 (T07P2): Sangeet Natak Akademi Fellowships and Akademi Puraskar 2024-25 presented at Vigyan Bhawan, 13 Aug 2026 (Awards, books & culture).
