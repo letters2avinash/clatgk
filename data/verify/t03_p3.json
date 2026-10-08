@@ -1,0 +1,335 @@
+{
+  "passage_file": "data/draft/t03_p3.json",
+  "passage_claims": [
+    {
+      "claim": "RCB beat GT by five wickets in IPL 2026 final at Narendra Modi Stadium, retaining title; third franchise to win back-to-back after CSK and MI; first title 2025",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.iplt20.com/news/article/tata-ipl-2026-final-rcb-v-gt-match-report",
+        "https://www.tribuneindia.com/news/sports/ipl-2026-final-bhuvneshwar-hazlewood-rasikh-restrict-gt-to-155-8-in-ahmedabad-rcb-need-156-to-defend-title/",
+        "https://currentaffairs.adda247.com/rcb-win-ipl-2026-final-by-5-wickets-defend-title-against-gujarat-titans/",
+        "https://www.thestatesman.com/sports/rcb-vs-gt-live-score-ipl-2026-final-updates-royal-challengers-bengaluru-vs-gujarat-titans-ahmedabad-1503600354.html"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Season opened 28 March at Chinnaswamy, RCB v SRH",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.etvbharat.com/en/sports/ipl-2026-rcb-vs-srh-in-bengaluru-on-march-28-enn26031106625",
+        "https://ianslive.in/rcb-to-host-srh-in-ipl-2026-opener-on-march-28-report--20260311181131",
+        "https://www.keralakaumudi.com/en/news/bcci-announces-ipl-season-19-schedule-rcb-and-hyderabad-to-clash-in-opening-match-1713790"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "GT 155/8; RCB 161/5 in reply",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.iplt20.com/news/article/tata-ipl-2026-final-rcb-v-gt-match-report",
+        "https://www.tribuneindia.com/news/sports/ipl-2026-final-bhuvneshwar-hazlewood-rasikh-restrict-gt-to-155-8-in-ahmedabad-rcb-need-156-to-defend-title/",
+        "https://currentaffairs.adda247.com/rcb-win-ipl-2026-final-by-5-wickets-defend-title-against-gujarat-titans/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "RCB team fifty in 3.3 overs, fastest by a team in an IPL final",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.iplt20.com/news/article/tata-ipl-2026-final-rcb-v-gt-match-report"
+      ],
+      "note": "Only IPL official report found. Removed."
+    },
+    {
+      "claim": "Qualifier 1, Dharamshala, Tue 26 May: RCB 254/5 won by 92 runs; Patidar (captain) 93* off 33",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.outlookindia.com/sports/cricket/rcb-vs-gt-ipl-match-report-who-won-yesterday-in-indian-premier-league-2026-qualifier-1-check-result",
+        "https://www.iplt20.com/news/article/tata-ipl-2026-qualifier-1-rcb-vs-gt-match-report",
+        "https://deccanchronicle.com/ipl-2026-rcb-beat-gt-by-92-runs-to-reach-second-successive-final"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "RCB, GT, SRH 18 points each, RCB top on NRR; RR 16 points last playoff spot",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://wisden.com/series/ipl-2026/cricket-news/ipl-2026-points-table-after-league-stage-latest-standings-and-net-run-rate-after-rr-beat-mi-and-dc-beat-kkr",
+        "https://www.dailymirror.lk/breaking-news/IPL-2026-Points-Table-Group-Tables-Standings/108-336628"
+      ],
+      "note": "Business Standard table (PBKS top, 19 pts) conflicts and is unreliable; not used."
+    },
+    {
+      "claim": "RR beat MI by 30 runs at Wankhede on 24 May; RR 205/8 from 119/5, MI 175/9",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.thestatesman.com/sports/ipl-2026-mumbai-indians-vs-rajasthan-royals-live-match-updates-mi-vs-rr-at-wankhede-1503597533.html",
+        "https://www.iplt20.com/news/article/tata-ipl-2026-match-69-mi-v-rr-match-report",
+        "https://www.heraldgoa.in/?p=475988"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "PBKS and KKR eliminated",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.ft.lk/sports/RR-qualify-for-IPL-2026-playoffs-PBKS-and-KKR-knocked-out/23-792375",
+        "https://www.dailymirror.lk/breaking-news/IPL-2026-Points-Table-Group-Tables-Standings/108-336628"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Eliminator 27 May: RR 243/8 beat SRH by 47; Sooryavanshi 97 off 29 with 12 sixes; SRH 196 in 19.2 overs",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.etvbharat.com/en/sports/ipl-2026-eliminator-rr-advance-into-qualifier-2-with-47-run-win-over-srh-enn26052708068",
+        "https://www.iplt20.com/news/4375/tata-ipl-2026-eliminator-srh-v-rr-match-report",
+        "https://www.wionews.com/sports/rr-vs-srh-ipl-2026-eliminator-rajasthan-royals-knock-out-sunrisers-hyderabad-to-set-up-qualifier-2-clash-with-gujarat-titans-1779903658200/amp"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Qualifier 2 Mullanpur Fri 29 May: RR 214/6, GT 219/3 in 18.4, won by 7 wkts; Gill 104 off 53",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.iplt20.com/news/4376/tata-ipl-2026-qualifier-2-gt-vs-rr-match-report",
+        "https://www.thestar.com.my/sport/cricket/2026/05/30/cricket-gill-ton-steers-gujarat-past-rajasthan-into-ipl-final",
+        "https://www.thestatesman.com/sports/ipl-2026-gujarat-titans-vs-rajasthan-royals-qualifier-2-live-match-updates-gt-vs-rr-in-new-chandigarh-1503599681.html"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Sooryavanshi, 15, Orange Cap with 776 runs in 16 matches, youngest winner",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.tribuneindia.com/news/sports/vaibhav-sooryavanshi-becomes-youngest-batter-to-win-orange-cap-in-ipl-history/",
+        "https://orgecsnew.business-standard.com/cricket/ipl/ipl-2026-orange-purple-cap-full-list-of-top-run-scorers-wicket-takers-126053100681_1.html",
+        "https://www.rajasthanroyals.com/vaibhav-sooryavanshi-ipl-2026-awards-list-orange-cap-mvp"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Strike rate 237.30",
+      "verdict": "DISPUTED",
+      "sources": [
+        "https://www.rajasthanroyals.com/vaibhav-sooryavanshi-ipl-2026-awards-list-orange-cap-mvp"
+      ],
+      "note": "237.30 vs 237.31 across outlets. Removed."
+    },
+    {
+      "claim": "Gill 732 and Sudharsan 722 runs (second, third)",
+      "verdict": "DISPUTED",
+      "sources": [
+        "https://orgecsnew.business-standard.com/cricket/ipl/ipl-2026-orange-purple-cap-full-list-of-top-run-scorers-wicket-takers-126053100681_1.html",
+        "https://sundayguardianlive.com/sports/ipl-2026-in-numbers-most-runs-wickets-fours-sixes-highest-strike-rate-and-other-key-stats-vaibhav-sooryavanshi-kagiso-rabada-199501/"
+      ],
+      "note": "Totals conflict across pages; ranks agree. Numbers removed, ranks kept."
+    },
+    {
+      "claim": "Sooryavanshi broke Gayle's season sixes record (Gayle 59 in 2012)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.rajasthanroyals.com/latest-news/vaibhav-sooryavanshi-most-sixes-record-single-ipl-season",
+        "https://wionews.com/photos/most-sixes-hit-in-an-ipl-season-balls-per-sixes-vaibhav-sooryavanshi-chris-gayle-jos-buttler-andre-russell-1779966978057",
+        "https://www.sportskeeda.com/cricket/a-look-batsmen-hit-number-sixes-single-ipl-season"
+      ],
+      "note": "His own total (71 vs 72) disputed and not in passage."
+    },
+    {
+      "claim": "Sooryavanshi MVP, Emerging Player, Super Striker, Super Sixes",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.crictracker.com/cricket-news/ipl-2026-list-of-award-winners-and-prize-money-details-2719/",
+        "https://www.deccanherald.com/sports/cricket/ipl-2026-vaibhav-sooryavanshi-is-the-mvp-sweeps-most-awards-check-full-list-of-winners-here-4022896",
+        "https://www.heraldgoa.in/?p=476762"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Sudharsan most fours; Siraj most dot balls; Manish Pandey (KKR) Catch of the Season",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.crictracker.com/cricket-news/ipl-2026-list-of-award-winners-and-prize-money-details-2719/",
+        "https://www.heraldgoa.in/?p=476762",
+        "https://currentaffairs.adda247.com/?p=315629"
+      ],
+      "note": "Exact figures 75 fours / 172 dot balls are single-list; figures removed."
+    },
+    {
+      "claim": "Final on 31 May vs 1 June",
+      "verdict": "DISPUTED",
+      "sources": [],
+      "note": "Not in passage; left out."
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Delhi Capitals",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/",
+        "https://orgecsnew.business-standard.com/cricket/ipl/2008-to-2026-full-list-of-purple-cap-winners-in-indian-premier-league-126053100787_1.html",
+        "https://www.wionews.com/photos/ipl-throwback-list-of-purple-cap-winners-284691"
+      ],
+      "fix": "source updated",
+      "note": "Distractors wrong for 2020."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "Harshal Patel",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://outlookindia.com/sports/sports-news-ipl-2021-harshal-patel-sweeps-indian-premier-league-individual-honours-news-397774",
+        "https://www.espncricinfo.com/print/story/1262194",
+        "https://wisden.com/series/indian-premier-league-2021/cricket-news/ipl-2021-purple-cap-highest-wicket-takers-and-list-of-past-winners-indian-premier-league"
+      ],
+      "fix": null,
+      "note": "Chahal 2022, Tahir 2019, Shami 2023."
+    },
+    {
+      "index": 3,
+      "verdict": "DROP",
+      "my_answer": "Pragyan Ojha",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "GIVEAWAY"
+      ],
+      "sources": [
+        "https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/",
+        "https://www.wionews.com/photos/ipl-throwback-list-of-purple-cap-winners-284691"
+      ],
+      "fix": null,
+      "note": "Answer correct, but Q4 stem gives Tanvir 2008 and RP Singh 2009, eliminating two options."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-B, II-C, III-A, IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/",
+        "https://www.wionews.com/photos/ipl-throwback-list-of-purple-cap-winners-284691",
+        "https://charlie-www.soapcentral.com/cricket/ipl-all-the-purple-cap-winners-from-2008-18-sstl"
+      ],
+      "fix": null,
+      "note": "All four pairings confirmed."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "A true, R false (2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.iplt20.com/news/article/tata-ipl-2026-final-rcb-v-gt-match-report",
+        "https://www.thestatesman.com/sports/rcb-vs-gt-live-score-ipl-2026-final-updates-royal-challengers-bengaluru-vs-gujarat-titans-ahmedabad-1503600354.html",
+        "https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/"
+      ],
+      "fix": null,
+      "note": "Kohli POM (75* off 42) multiple outlets; Shami 2023, Harshal 2024."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "Neither (3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/",
+        "https://www.gujarattitansipl.com/news/prasidh-krishna-the-purpleprint-of-comebacks",
+        "https://www.espn.com/cricket/story/_/id/45446281/virat-kohli-josh-hazlewood-finish-no-3-ipl-2025-orange-purple-cap-tables-respectively"
+      ],
+      "fix": "2025 Prasidh now confirmed by GT official site and ESPN",
+      "note": "Bhuvneshwar 2016."
+    },
+    {
+      "index": 7,
+      "verdict": "DROP",
+      "my_answer": "Only two",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "issues": [
+        "GIVEAWAY"
+      ],
+      "sources": [
+        "https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/",
+        "https://www.wionews.com/photos/ipl-throwback-list-of-purple-cap-winners-284691"
+      ],
+      "fix": null,
+      "note": "Facts correct, but Q4 (Tahir 2019 CSK) gives away statement 4; trimmed to meet 6."
+    },
+    {
+      "index": 8,
+      "verdict": "FIX",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [
+        "AMBIGUOUS"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vaibhav_Sooryavanshi",
+        "https://gulfnews.com/lifestyle/how-a-15-year-old-bihar-teenager-vaibhav-sooryavanshi-became-crickets-newest-record-breaking-force-1.500582592",
+        "https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/",
+        "https://www.wionews.com/photos/ipl-throwback-list-of-purple-cap-winners-284691"
+      ],
+      "fix": "Statement III reworded to 'Morkel 2012 for Chennai Super Kings' (false: Delhi Daredevils) so II and III no longer contradict each other (internal giveaway). Same truth values and answer.",
+      "note": "Bihar origin is not in passage."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "GT scored 155 for eight in their 20 overs. RCB reached 161 for five in reply, and their 50 came in 3.3 overs, the fastest by a team in an IPL final.",
+      "new": "GT scored 155 for eight in their 20 overs. RCB reached 161 for five in reply, with 12 balls to spare.",
+      "reason": "Single-sourced record removed"
+    },
+    {
+      "old": "at a strike rate of 237.30, ",
+      "new": "",
+      "reason": "Disputed"
+    },
+    {
+      "old": " with 732 runs",
+      "new": " ",
+      "reason": "Disputed totals (also 'with 722')"
+    },
+    {
+      "old": "75 fours, the most in the season",
+      "new": "the most fours of the season",
+      "reason": "Exact figure single list"
+    },
+    {
+      "old": "172 dot balls, the most of any bowler",
+      "new": "the most dot balls of any bowler",
+      "reason": "Exact figure single list"
+    }
+  ],
+  "summary": "Final passage 436 words, 6 questions kept (1,2,4,5,6,8). Dropped Q3 and Q7 for cross-question giveaways with Q4. Disputed figures (strike rate, run totals, sixes count, fastest-50 record, final date) removed or left out; 2025 Purple Cap now confirmed by GT site and ESPN."
+}
