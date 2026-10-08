@@ -1,0 +1,112 @@
+{
+  "title": "Golden Tempo wins the 152nd Kentucky Derby",
+  "topic_tags": ["Sports", "horse racing", "Kentucky Derby", "Churchill Downs", "Triple Crown", "2026"],
+  "slot": "T07P5",
+  "text": "The 152nd Kentucky Derby was run on 2 May 2026 at Churchill Downs and won by Golden Tempo, a 23-1 long shot. Trailing for most of the race, the colt came from last to first in the closing stretch and won by a neck over Renegade, the morning-line favorite, in a time of 2:02.27. Renegade was ridden by Irad Ortiz. The winning rider was his brother, Jose Ortiz, whose first Kentucky Derby victory came on his 11th attempt. The field numbered 19 horses.\n\nGolden Tempo was trained by Cherie DeVaux, who became the first woman to train a Kentucky Derby winner. She was only the 18th woman to saddle a starter in the race's history. Golden Tempo's victory came after a pre-race period in which the colt had been the subject of questions about his focus, and DeVaux had tried several equipment changes to sharpen him.",
+  "sources": [
+    "https://www.14news.com/2026/05/02/golden-tempo-wins-152nd-kentucky-derby/",
+    "https://www.wave3.com/2026/05/02/golden-tempo-wins-152nd-kentucky-derby/",
+    "https://www.cleveland19.com/2026/05/03/golden-tempo-takes-kentucky-derby-cherie-devaux-becomes-1st-woman-train-winner/",
+    "https://www.ftimes.com/news/national/golden-tempo-wins-kentucky-derby-in-historic-triumph-for-trainer-devaux/article_f014e086-96f6-5bfe-b7e9-d6145fed3b49.html",
+    "https://www.brisnet.com/racing/news/kentucky-derby/golden-tempo-goes-from-last-to-first-in-152nd-kentucky-derby/",
+    "https://wtop.com/sports/2026/05/kentucky-derby-is-down-to-19-horses-after-the-puma-gets-scratched/",
+    "https://www.fox13news.com/news/kentucky-derby-2026-horses-schedule"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "What is the race distance of the Kentucky Derby?",
+      "options": ["1 mile", "1 1/4 miles", "1 1/2 miles", "2 miles"],
+      "answer": 1,
+      "explanation": "The Kentucky Derby is run over 1 1/4 miles, a distance it has carried in its modern form.",
+      "source": "https://en.wikipedia.org/wiki/Kentucky_Derby ; https://www.nbcsportsbayarea.com/news/look-back-first-kentucky-derby-churchill-downs-triple-crown/1730912/"
+    },
+    {
+      "type": "direct",
+      "q": "Which horse won the inaugural Kentucky Derby in 1875?",
+      "options": ["Aristides", "Sir Barton", "Secretariat", "Seattle Slew"],
+      "answer": 0,
+      "explanation": "Aristides, ridden by Oliver Lewis, won the first Kentucky Derby in 1875 by two lengths. Sir Barton, Secretariat and Seattle Slew are Triple Crown winners who won the Derby in later years (1919, 1973 and 1977).",
+      "source": "https://www.nbcsportsbayarea.com/news/look-back-first-kentucky-derby-churchill-downs-triple-crown/1730912/ ; https://en.wikipedia.org/wiki/Kentucky_Derby"
+    },
+    {
+      "type": "direct",
+      "q": "The Kentucky Derby is open only to thoroughbreds of which age?",
+      "options": ["Two-year-olds", "Three-year-olds", "Four-year-olds", "Horses of any age"],
+      "answer": 1,
+      "explanation": "The Kentucky Derby is restricted to three-year-old thoroughbreds.",
+      "source": "https://en.wikipedia.org/wiki/Kentucky_Derby ; https://www.nbcsportsbayarea.com/news/look-back-first-kentucky-derby-churchill-downs-triple-crown/1730912/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Cherie DeVaux became the first woman to train a winner of the Kentucky Derby.",
+      "reason": "The Kentucky Derby is the final leg of the Triple Crown of American thoroughbred racing.",
+      "answer": 2,
+      "truth": [true, false],
+      "explanation": "A is true: DeVaux trained Golden Tempo, the 2026 winner, and was the first woman trainer to win the race. R is false: the Kentucky Derby is the first leg of the Triple Crown, followed by the Preakness Stakes and then the Belmont Stakes.",
+      "source": "https://www.cleveland19.com/2026/05/03/golden-tempo-takes-kentucky-derby-cherie-devaux-becomes-1st-woman-train-winner/ ; https://www.nbcsandiego.com/news/sports/triple-crown/what-is-the-triple-crown-and-how-many-horses-have-won-it/?os=nirstv"
+    },
+    {
+      "type": "match",
+      "list1": ["I. Preakness Stakes", "II. Santa Anita Derby", "III. Travers Stakes", "IV. Pegasus World Cup"],
+      "list2": ["A. Pimlico Race Course", "B. Santa Anita Park", "C. Saratoga Race Course", "D. Gulfstream Park"],
+      "options": ["I-A, II-B, III-C, IV-D", "I-B, II-A, III-D, IV-C", "I-C, II-D, III-A, IV-B", "I-D, II-C, III-B, IV-A"],
+      "answer": 0,
+      "explanation": "The Preakness Stakes is run at Pimlico Race Course in Baltimore (I-A). The Santa Anita Derby is run at Santa Anita Park in California (II-B). The Travers Stakes is run at Saratoga Race Course (III-C). The Pegasus World Cup is run at Gulfstream Park in Florida (IV-D).",
+      "source": "https://www.washingtonexaminer.com/?p=1261527 ; https://conduitstreet.mdcounties.org/2025/05/08/fun-fact-what-maryland-county-holds-the-second-horse-race-of-the-triple-crown-each-year/ ; https://en.wikipedia.org/wiki/Santa_Anita_Derby ; https://www.kentuckyderby.com/races/santa-anita-derby ; https://cms.nyra.com/saratoga/racing/stakes-schedule/travers ; https://sportnews.betflag.it/2026/01/15/pegasus-world-cup-2026/ ; https://profilemiamire.com/miamirealestate/2026/1/22/the-2026-pegasus-world-cup-celebrates-10-years-as-horse-racings-hottest-event-as-it-returns-to-gulfstream-park"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Preakness Stakes is run over a distance of 1 3/16 miles.",
+        "II. The Travers Stakes is run over a distance of 1 mile."
+      ],
+      "answer": 0,
+      "truth": [true, false],
+      "explanation": "Statement I is true: the Preakness is run over 1 3/16 miles. Statement II is false: the Travers is run over 1 1/4 miles. Only I is correct.",
+      "source": "https://www.nbcsandiego.com/news/sports/triple-crown/what-is-the-triple-crown-and-how-many-horses-have-won-it/?os=nirstv ; https://www.americasbestracing.net/the-sport/2018-beginners-guide-the-triple-crown ; https://www.wikiland.org/wiki/Travers_Stakes"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The Travers Stakes is run in August.",
+        "2. The Santa Anita Derby is run in April.",
+        "3. The Travers Stakes was first run in 1864.",
+        "4. The Preakness Stakes is held in June."
+      ],
+      "mode": "incorrect",
+      "answer": 0,
+      "truth": [true, true, true, false],
+      "explanation": "Only one statement is incorrect. Statements 1, 2 and 3 are correct. Statement 4 is incorrect because the Preakness is held on the third Saturday in May, not in June. The count of incorrect statements is one, which is 'Only one'.",
+      "source": "https://cms.nyra.com/saratoga/racing/stakes-schedule/travers ; https://en.wikipedia.org/wiki/Santa_Anita_Derby ; https://www.wikiland.org/wiki/Travers_Stakes ; https://conduitstreet.mdcounties.org/2025/05/08/fun-fact-what-maryland-county-holds-the-second-horse-race-of-the-triple-crown-each-year/ ; https://www.americasbestracing.net/the-sport/2023-the-history-the-preakness-stakes"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. A furlong is one-eighth of a mile.",
+        "II. A furlong is 220 yards long.",
+        "III. A mile is equal to 10 furlongs."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "explanation": "Statements I and II are correct: a furlong is 220 yards, or one-eighth of a mile. Statement III is incorrect because a mile is 8 furlongs.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/american_english/furlong ; https://www.britannica.com/dictionary/furlong"
+    }
+  ],
+  "writer_flags": [
+    "Derby result facts (23-1, 2:02.27, neck margin, Golden Tempo, field of 19, Jose Ortiz 11th attempt, DeVaux first woman, 18th woman starter) come mostly from syndicated AP-style copy (Fox/WTOP/KSL/Cleveland19/FTimes); the independent-publisher count is weaker than ideal - verify against a Churchill Downs or Daily Racing Form report.",
+    "Renegade ridden by Irad Ortiz and finished second: double-sourced via syndicated copy only.",
+    "Field of 19 horses: taken from syndicated headline ('down to 19 horses'); not confirmed in a results page.",
+    "Aristides as 1875 winner: NBC Sports look-back snippet; Wikipedia Kentucky Derby page not directly read.",
+    "Derby distance 1 1/4 miles: Wikipedia plus NBC snippet, not directly fetched.",
+    "Travers first run 1864 (statement 3 in Q7): single source (wikiland copy); not double-sourced.",
+    "Travers distance 1 1/4 miles (Q6 statement II): single source (wikiland copy).",
+    "Preakness third Saturday in May / not June (Q7 statement 4): aggregator and Maryland county source; check Preakness or Maryland Jockey Club page.",
+    "Santa Anita Derby run in April: Wikipedia summary snippet only; Kentucky Derby site listed but not read.",
+    "Preakness distance 1 3/16 miles: NBC explainer plus America's Best Racing guide, not a primary source.",
+    "Furlong = 1/8 mile = 220 yards: dictionary sources (Oxford Learner's, Britannica); 1 mile = 8 furlongs is derived arithmetic, not separately sourced.",
+    "Pimlico as Preakness venue: Washington Examiner and Maryland county piece; well covered.",
+    "Pegasus World Cup at Gulfstream Park: multiple outlets confirm the 2026 edition at Gulfstream.",
+    "Passage has no fact on Pimlico, Preakness, Travers or furlong, so those question answers are not leaked by the passage."
+  ]
+}
