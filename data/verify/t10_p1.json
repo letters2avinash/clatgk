@@ -1,0 +1,228 @@
+{
+  "passage_file": "data/draft/t10_p1.json",
+  "passage_claims": [
+    {
+      "claim": "Cabinet approved GEC-III on 30 Sep 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.uniindia.com/national/cabinet-green-energy-corridor/198041",
+        "https://www.chronicleindia.in/current-affairs/18194-approval-for-phase-iii-of-green-energy-corridor"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Outlay Rs 1,86,405 crore; up to 135 GW by 2032-33",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.uniindia.com/national/cabinet-green-energy-corridor/198041",
+        "https://renewablewatch.in/2026/10/01/cabinet-approves-green-energy-corridor-phase-iii-scheme/",
+        "https://indianinfrastructure.com/2026/10/01/cabinet-approves-rs-1-86-trillion-green-energy-corridor-phase-iii-scheme/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Rs 1,36,378 crore intra-state transmission; Rs 50,000 crore for 50 GWh BESS",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.chronicleindia.in/current-affairs/18194-approval-for-phase-iii-of-green-energy-corridor",
+        "https://www.dtnext.in/news/business/cabinet-approves-rs-186-lakh-cr-green-energy-corridor-to-evacuate-135gw-renewable-energy"
+      ],
+      "note": "Components sum to 1,86,378, Rs 27 crore short of outlay; unexplained."
+    },
+    {
+      "claim": "CFA Rs 54,082 crore",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.chronicleindia.in/current-affairs/18194-approval-for-phase-iii-of-green-energy-corridor",
+        "https://renewablewatch.in/2026/10/01/cabinet-approves-green-energy-corridor-phase-iii-scheme/"
+      ],
+      "note": "One outlet (superkalam) says 34,082, a typo."
+    },
+    {
+      "claim": "'Officials said' CFA keeps transmission charges/electricity costs lower",
+      "verdict": "FIX",
+      "sources": [
+        "https://www.chronicleindia.in/current-affairs/18194-approval-for-phase-iii-of-green-energy-corridor",
+        "https://renewablewatch.in/2026/10/01/cabinet-approves-green-energy-corridor-phase-iii-scheme/"
+      ],
+      "note": "Purpose confirmed (offsetting InSTS charges) but 'officials said' attribution not found; reworded to 'is intended to'."
+    },
+    {
+      "claim": "STUs overall implementing agencies; greenfield TBCB; brownfield cost-plus",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://renewablewatch.in/2026/10/01/cabinet-approves-green-energy-corridor-phase-iii-scheme/",
+        "https://www.chronicleindia.in/current-affairs/18194-approval-for-phase-iii-of-green-energy-corridor",
+        "https://indianinfrastructure.com/2026/10/01/cabinet-approves-rs-1-86-trillion-green-energy-corridor-phase-iii-scheme/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "TSPs participate on build-own-operate-maintain model",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://renewablewatch.in/2026/10/01/cabinet-approves-green-energy-corridor-phase-iii-scheme/",
+        "https://www.chronicleindia.in/current-affairs/18194-approval-for-phase-iii-of-green-energy-corridor"
+      ],
+      "note": "Two news/explainer outlets; PIB not found."
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Concurrent List (List III)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://powermin.gov.in/en/content/constitution-provision-relating-%E2%80%9Celectricity%E2%80%9D",
+        "https://www.aironline.in/legal-judgements/2007+AIR+SCW+3752"
+      ],
+      "fix": null,
+      "note": "Primary-ish govt page plus SC judgment; Constitution text not fetched. Eighth/Eleventh Schedule distractors are weak but not defensible."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "Rs 12,031 crore",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.tribuneindia.com/news/nation/govt-nod-to-rs12k-cr-green-energy-corridor-358893",
+        "https://www.dailyexcelsior.com/?p=1267912",
+        "https://indianinfrastructure.com/2022/01/22/central-government-approves-intra-state-transmission-system-green-energy-corridor-phase-ii/"
+      ],
+      "fix": null,
+      "note": "Approved 6 Jan 2022, Rs 12,031.33 crore, CFA 33%."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "2025",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.theweek.in/wire-updates/business/2025/07/14/dcm60-biz-renewables-energy.html",
+        "https://www.tribuneindia.com/news/india/beating-2030-deadline-india-attains-50-green-fuel-power-capacity",
+        "https://carbon-pulse.com/417909/"
+      ],
+      "fix": null,
+      "note": "Announced July 2025 (242.8 of 484.8 GW). Thematic overlap with Q6 resolved by dropping Q6."
+    },
+    {
+      "index": 4,
+      "verdict": "FIX",
+      "my_answer": "Assertion false, reason true (3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://courtbook.in/electricity-act-2003/section-70",
+        "https://www.advocatekhoj.com/library/bareacts/electricity/70.php",
+        "https://cea.nic.in/functions/?lang=en"
+      ],
+      "fix": null,
+      "note": "R confirmed by three sources. A is falsifiable largely from passage wording; kept for AR mix, flagged in residual."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "I only (0)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://mercomindia.com/cabinet-approves-%e2%82%b9197-billion-hydrogen-mission/",
+        "https://renewablewatch.in/2023/01/04/union-cabinet-green-lights-national-green-hydrogen-mission/",
+        "https://origin.iea.org/policies/13949-national-green-hydrogen-mission"
+      ],
+      "fix": null,
+      "note": "Approved 4 Jan 2023; target 5 MMT by 2030, so II false."
+    },
+    {
+      "index": 6,
+      "verdict": "DROP",
+      "my_answer": "All four (3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "issues": [
+        "OVERLAP"
+      ],
+      "sources": [
+        "https://renewablewatch.in/2026/08/11/india-crosses-300-gw-non-fossil-fuel-power-capacity/",
+        "https://knnindia.co.in/news/newsdetails/sectors/indias-non-fossil-power-capacity-crosses-300-gw-reaches-60-of-2030-target",
+        "https://psuwatch.com/national-news/cabinet-approves-phase-ii-green-energy-corridor-evacuation-20-gw-re"
+      ],
+      "fix": null,
+      "note": "All four statements true (seven States, 300.50 GW at 31 Jul 2026, 500 GW by 2030, 33% CFA) but overlaps Q2 (Phase II, 33% CFA in Q2 explanation) and Q3 (non-fossil capacity); dropped for diversity."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "I-D, II-A, III-B, IV-C (0)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.latestlaws.com/bare-acts/central-acts-rules/part-12-constitution-of-india-finance-property-contracts-and-suits/",
+        "https://lotusarise.com/?p=37092",
+        "https://future.indiankanoon.org/doc/824830"
+      ],
+      "fix": null,
+      "note": "Matches confirmed; distractor option combos each wrong."
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "I and II only (0)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [
+        "OVERLAP"
+      ],
+      "sources": [
+        "https://constitution.org/1-Constitution/cons/india/p05151.html",
+        "https://cag.gov.in/ag/haryana/en/page-ag-haryana-constitutional-arrangement"
+      ],
+      "fix": null,
+      "note": "Facts correct (Art 151: Union to President, State to Governor, laid before State Legislature) but overlaps Q7 on CAG; dropped as the weaker/less distinct item."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "Officials said this support should help keep intra-state transmission charges, and therefore electricity costs, lower for consumers.",
+      "new": "This support is intended to help offset intra-state transmission charges and so keep electricity costs lower for consumers.",
+      "reason": "'Officials said' attribution not found; reworded to confirmed purpose."
+    }
+  ],
+  "writer_flags_checked": {
+    "officials_said": "attribution unverified, reworded",
+    "BOOM": "confirmed by Renewable Watch and Chronicle India",
+    "Art 266/280/282/151": "confirmed by multiple commentary sites and constitution.org/CAG",
+    "Q3_Q6_overlap": "resolved, Q6 dropped",
+    "Q7_Q8_overlap": "resolved, Q8 dropped",
+    "Phase II figures": "confirmed",
+    "non-fossil 50% year": "2025 confirmed"
+  },
+  "summary": "6 of 8 kept (1,2,3,4,5,7); Q6 and Q8 dropped for overlap, Q4 kept but weak. Passage reworded in one sentence; 143 words (SHORT)."
+}

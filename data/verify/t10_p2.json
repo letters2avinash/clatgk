@@ -1,0 +1,297 @@
+{
+  "passage_file": "data/draft/t10_p2.json",
+  "passage_claims": [
+    {
+      "claim": "Co-hosted by India and Sri Lanka",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://dailymirror.lk/breaking-news/India-and-Sri-Lanka-to-co-host-Mens-T20-World-Cup-2026/108-278987",
+        "https://new.topendsports.com/events/cricket/world-twenty20/hosts/2026.htm"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Pakistan planned boycott, dropped it, played in Colombo",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.scmp.com/sport/cricket/article/3343013/pakistan-play-india-colombo-t20-world-cup-after-boycott-called",
+        "https://www.newarab.com/news/pakistan-play-india-t20-world-cup-after-boycott-called"
+      ],
+      "note": "Reversal 9 Feb; no date in passage."
+    },
+    {
+      "claim": "15 Feb, Premadasa Stadium, India beat Pakistan by 61 runs",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.aljazeera.com/amp/sports/liveblog/2026/2/15/live-india-vs-pakistan-t20-world-cup",
+        "https://www.espn.ph/cricket/scores/team/7/pak",
+        "https://jamaica-gleaner.com/article/sports/20260216/t20-world-cup-india-crush-pakistan-61-runs"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "India 175/7 batting first; Pakistan 114 in 18 overs; Kishan 77 off 40",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.aljazeera.com/amp/sports/liveblog/2026/2/15/live-india-vs-pakistan-t20-world-cup",
+        "https://www.wisden.com/live-cricket-scores/india-vs-pakistan-match-t20-inpk02152026268086"
+      ],
+      "note": "Pakistan won toss and fielded (Deccan Chronicle, Financial Express)."
+    },
+    {
+      "claim": "Match 27",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [],
+      "note": "Not confirmed independently in my searches; deleted from passage and Q4."
+    },
+    {
+      "claim": "Seven Indian bowlers shared wickets",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.aljazeera.com/amp/sports/liveblog/2026/2/15/live-india-vs-pakistan-t20-world-cup"
+      ],
+      "note": "Deleted."
+    },
+    {
+      "claim": "Kishan named player of the match",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [],
+      "note": "Deleted."
+    },
+    {
+      "claim": "India defending champions, entered Super Eight",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.aljazeera.com/amp/sports/liveblog/2026/2/15/live-india-vs-pakistan-t20-world-cup",
+        "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/t20-world-cup-2026-semi-finals-locked-after-india-s-win"
+      ],
+      "note": "Reworded to weaker form."
+    },
+    {
+      "claim": "Super Eight: two groups of four, top two to semi-finals",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.ucfb.ac.uk/news/the-super-8s-explained-how-the-2026-t20-world-cup-group-stages-work/",
+        "https://jang.com.pk/en/60194-t20-world-cup-2026-super-eights-schedule-revelead-news",
+        "https://sportsdigest.in/t20-world-cup-2026-super-8-schedule/181264/amp/"
+      ],
+      "note": "Writer flag resolved."
+    },
+    {
+      "claim": "India beat Zimbabwe by 72 runs in Chennai on 26 Feb",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.aljazeera.com/sports/2026/2/26/india-beat-zimbabwe-by-72-runs-to-chase-t20-world-cup-semifinal-spot",
+        "https://www.aol.com/articles/india-beat-zimbabwe-keep-title-171928556.html"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "1 Mar Kolkata India beat West Indies by 5 wickets, secured a semi-final place",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.newsonair.gov.in/india-storms-into-t20-world-cup-semi-final-beats-west-indies-by-5-wickets",
+        "https://guardian.co.tt/sports/samson-powers-india-to-semifinals-at-t20-world-cup-with-5wicket-win-over-west-indies-6.2.2527482.f93075c8f3",
+        "https://english.aaj.tv/news/amp/330453281"
+      ],
+      "note": "Four-team line-up (SA, NZ, India, England) confirmed by ICC and Ada Derana; writer flag resolved."
+    },
+    {
+      "claim": "Added: Samson unbeaten 97 off 50 balls",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.pakistantoday.com.pk/2026/03/03/sanju-samson-leads-india-to-t20-world-cup-semi-finals-with-unbeaten-97",
+        "https://www.flashscore.com/news/cricket-t20-world-cup-sanju-samson-fires-india-into-t20-world-cup-semi-final-clash-with-england/0hlSQvHL/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Added: India v England semi-final, Wankhede, Mumbai, 5 March",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://adaderana.lk/sports/11991/t20-world-cup-2026-semi-finals-confirmed-after-indias-win",
+        "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/t20-world-cup-2026-semi-finals-locked-after-india-s-win",
+        "https://www.wisden.com/live-cricket-scores/india-vs-england-match-t20-inen03052026268128"
+      ],
+      "note": ""
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Dubai",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://gulfnews.com/amp/story/sport%2Fcricket%2Ficc-moves-to-new-headquarters-in-sports-city-1.64511",
+        "https://icc-cricket.com/news/international-cricket-council-marks-its-official-move-to-dubai-sports-city"
+      ],
+      "fix": null,
+      "note": "Distractors wrong. Not in passage."
+    },
+    {
+      "index": 2,
+      "verdict": "DROP",
+      "my_answer": "South Africa",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "OVERLAP"
+      ],
+      "sources": [
+        "https://www.icc-cricket.com/news/icc-world-twenty20-south-africa-2007-officially-launched",
+        "https://new.topendsports.com/events/cricket/world-twenty20/hosts/2007.htm"
+      ],
+      "fix": null,
+      "note": "Correct but dropped to keep 6 distinct facts; 2007 final covered by Q4 and Q6."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "Barbados",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://barbadostoday.bb/2024/06/29/india-win-the-t20-world-cup/",
+        "https://www.skysports.com/cricket/news/12123/13042693/mens-t20-world-cup-2024-full-results-after-india-beat-south-africa-in-barbados-final-to-win-second-title"
+      ],
+      "fix": null,
+      "note": "Distractors (Trinidad, Jamaica, Guyana) are other 2024 host countries/venues but not the final."
+    },
+    {
+      "index": 4,
+      "verdict": "FIX",
+      "my_answer": "A: I-A, II-B, III-C, IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "UNSUPPORTED (Match 27 label)"
+      ],
+      "sources": [
+        "https://gulfnews.com/sport/cricket/this-day-2007-when-dhoni--co-were-crowned-world-t20-champions-1.1569316147854",
+        "https://www.latestly.com/sports/cricket/on-this-day-in-2007-ms-dhoni-led-team-india-win-inaugural-icc-t20-world-cup-title-beating-pakistan-in-final-7126702.html/amp",
+        "https://barbadostoday.bb/2024/06/29/india-win-the-toss-batting-vs-south-africa-in-t20-world-cup-final/",
+        "https://www.arabnews.com/node/2540136",
+        "https://www.deccanchronicle.com/buzz/t20-world-cup-2026-india-vs-pakistan-live-3470",
+        "https://thenewsmill.com/2026/02/suryakumar-yadav-continues-no-handshake-policy-with-pakistan-captain-at-t20-world-cup-toss/"
+      ],
+      "fix": "Removed 'Match 27' from stems",
+      "note": "Captains all two-source confirmed. Other options wrong."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "1 (both true, R does not explain A)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [
+        "WEAK_SOURCE (Dronacharya exam-prep)"
+      ],
+      "sources": [
+        "https://www.mha.gov.in/sites/default/files/2023-01/Scheme-PadmaAwards-050514.pdf",
+        "https://www.britannica.com/facts/Priyanka-Chopra",
+        "https://www.indianetzone.com/dronacharya_awardees",
+        "https://badmintonindia.org/players/awardees/3-"
+      ],
+      "fix": "Sources replaced",
+      "note": "Padma Shri fourth-highest and Dronacharya for coaches confirmed; Dronacharya rests on aggregator pages."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "2 (both true)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://en.prothomalo.com/sports/cricket/vvyqli3pa8",
+        "https://barbadostoday.bb/2024/06/29/india-win-the-t20-world-cup/",
+        "https://gulfnews.com/sport/cricket/this-day-2007-when-dhoni--co-were-crowned-world-t20-champions-1.1569316147854",
+        "https://en.wikipedia.org/wiki/2007_World_Twenty20_final"
+      ],
+      "fix": null,
+      "note": "7 runs (176/7 v 169) and 5 runs (157/5 v 152) confirmed."
+    },
+    {
+      "index": 7,
+      "verdict": "FIX",
+      "my_answer": "3 (all four correct) after rewording stmt 3",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "issues": [
+        "WRONG_STATEMENT (as drafted: 'led India' to 1928/1932/1936 golds is false)"
+      ],
+      "sources": [
+        "https://sports.yas.gov.in/assets/admin/uploads/documents/publications/Major_Dhyan_Chand_Khel_Ratna.pdf",
+        "https://www.olympics.com/en/athletes/dhyan-chand-singh",
+        "https://kids.britannica.com/students/article/Dhyan-Chand/608559",
+        "https://www.mha.gov.in/sites/default/files/2023-01/Scheme-PadmaAwards-050514.pdf"
+      ],
+      "fix": "Stmt 3 reworded to 'won Olympic hockey gold with India in 1928, 1932 and 1936'",
+      "note": "Dhyan Chand captained only in 1936. Reworded; key unchanged. Khel Ratna highest and Sports Day on weaker sources."
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "Option 0",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [
+        "GIVEAWAY",
+        "OVERLAP"
+      ],
+      "sources": [
+        "https://barbadostoday.bb/2024/06/29/india-win-the-toss-batting-vs-south-africa-in-t20-world-cup-final/",
+        "https://vajiramandravi.com/current-affairs/major-dhyan-chand-khel-ratna-awards/"
+      ],
+      "fix": null,
+      "note": "Facts true, but Q6 II and Q4 state India's 2007 win (giveaway for III false) and Khel Ratna overlaps Q7."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "in Match 27 at the R. Premadasa Stadium",
+      "new": "at the R. Premadasa Stadium",
+      "reason": "single-sourced"
+    },
+    {
+      "old": ", with seven Indian bowlers sharing the wickets",
+      "new": "",
+      "reason": "single-sourced"
+    },
+    {
+      "old": " and was named player of the match",
+      "new": "",
+      "reason": "single-sourced"
+    },
+    {
+      "old": "The win sent the defending champions into the Super Eight stage.",
+      "new": "India, the defending champions, then moved on to the Super Eight stage.",
+      "reason": "weaker, confirmed"
+    },
+    {
+      "old": "a result that secured one of the four semi-final places.",
+      "new": "with Sanju Samson unbeaten on 97 off 50 balls, a result that secured one of the four semi-final places. India were then set to meet England in the second semi-final at the Wankhede Stadium in Mumbai on 5 March.",
+      "reason": "added two-source facts not touching kept answers"
+    }
+  ],
+  "summary": "Kept 6 of 8 (Q1,3,4,5,6,7); dropped Q2 and Q8 for overlap/giveaway. Q4 and Q7 reworded. Final passage 173 words; all passage claims two-source confirmed after edits; 21 searches used."
+}

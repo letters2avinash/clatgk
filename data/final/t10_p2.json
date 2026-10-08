@@ -1,0 +1,148 @@
+{
+  "title": "T20 World Cup 2026: India's Super Eight run",
+  "topic_tags": [
+    "Sports",
+    "cricket",
+    "ICC Men's T20 World Cup 2026",
+    "India v Pakistan",
+    "Super Eight"
+  ],
+  "slot": "T10P2",
+  "text": "The ICC Men's T20 World Cup 2026 was co-hosted by India and Sri Lanka. Pakistan had planned to boycott its match against India, but it dropped the boycott and agreed to play in Colombo. On 15 February, at the R. Premadasa Stadium, India beat Pakistan by 61 runs. Batting first, India scored 175 for seven in their 20 overs. Pakistan were bowled out for 114 in 18 overs. Ishan Kishan scored 77 off 40 balls. India, the defending champions, then moved on to the Super Eight stage.\n\nThe Super Eight stage had eight teams in two groups of four, and the top two in each group advanced to the semi-finals. India next beat Zimbabwe by 72 runs in Chennai on 26 February. On 1 March, in Kolkata, India beat West Indies by five wickets, with Sanju Samson unbeaten on 97 off 50 balls, a result that secured one of the four semi-final places. India were then set to meet England in the second semi-final at the Wankhede Stadium in Mumbai on 5 March.",
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/2/26/india-beat-zimbabwe-by-72-runs-to-chase-t20-world-cup-semifinal-spot",
+    "https://www.aol.com/articles/india-beat-zimbabwe-keep-title-171928556.html",
+    "https://www.newsonair.gov.in/india-storms-into-t20-world-cup-semi-final-beats-west-indies-by-5-wickets",
+    "https://guardian.co.tt/sports/samson-powers-india-to-semifinals-at-t20-world-cup-with-5wicket-win-over-west-indies-6.2.2527482.f93075c8f3",
+    "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/t20-world-cup-2026-semi-finals-locked-after-india-s-win",
+    "https://adaderana.lk/sports/11991/t20-world-cup-2026-semi-finals-confirmed-after-indias-win",
+    "https://www.scmp.com/sport/cricket/article/3343013/pakistan-play-india-colombo-t20-world-cup-after-boycott-called",
+    "https://www.newarab.com/news/pakistan-play-india-t20-world-cup-after-boycott-called",
+    "https://dailymirror.lk/breaking-news/India-and-Sri-Lanka-to-co-host-Mens-T20-World-Cup-2026/108-278987",
+    "https://www.ucfb.ac.uk/news/the-super-8s-explained-how-the-2026-t20-world-cup-group-stages-work/",
+    "https://jang.com.pk/en/60194-t20-world-cup-2026-super-eights-schedule-revelead-news",
+    "https://www.aljazeera.com/amp/sports/liveblog/2026/2/15/live-india-vs-pakistan-t20-world-cup",
+    "https://www.wisden.com/live-cricket-scores/india-vs-pakistan-match-t20-inpk02152026268086",
+    "https://jamaica-gleaner.com/article/sports/20260216/t20-world-cup-india-crush-pakistan-61-runs",
+    "https://www.pakistantoday.com.pk/2026/03/03/sanju-samson-leads-india-to-t20-world-cup-semi-finals-with-unbeaten-97",
+    "https://www.flashscore.com/news/cricket-t20-world-cup-sanju-samson-fires-india-into-t20-world-cup-semi-final-clash-with-england/0hlSQvHL/"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "In which city is the headquarters of the International Cricket Council (ICC) located?",
+      "options": [
+        "Dubai",
+        "London",
+        "Mumbai",
+        "Johannesburg"
+      ],
+      "answer": 0,
+      "explanation": "The ICC left Lord's and moved its headquarters to Dubai Sports City, Dubai, in 2005.",
+      "source": "https://gulfnews.com/amp/story/sport%2Fcricket%2Ficc-moves-to-new-headquarters-in-sports-city-1.64511 ; https://icc-cricket.com/news/international-cricket-council-marks-its-official-move-to-dubai-sports-city ; https://sportbusiness.com/news/icc-confirms-lords-departure"
+    },
+    {
+      "type": "direct",
+      "q": "The 2024 ICC Men's T20 World Cup final, which India won, was played in which country?",
+      "options": [
+        "Trinidad and Tobago",
+        "Barbados",
+        "Jamaica",
+        "Guyana"
+      ],
+      "answer": 1,
+      "explanation": "The 2024 final was played at Kensington Oval in Barbados, where India beat South Africa.",
+      "source": "https://barbadostoday.bb/2024/06/29/india-win-the-t20-world-cup/ ; https://www.skysports.com/cricket/news/12123/13042693/mens-t20-world-cup-2024-full-results-after-india-beat-south-africa-in-barbados-final-to-win-second-title"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Captain of India when it won the inaugural 2007 ICC Men's T20 World Cup",
+        "II. Captain of India when it won the 2024 ICC Men's T20 World Cup",
+        "III. Captain of India in its match against Pakistan at Colombo in 2026",
+        "IV. Captain of Pakistan in its match against India at Colombo in 2026"
+      ],
+      "list2": [
+        "A. MS Dhoni",
+        "B. Rohit Sharma",
+        "C. Suryakumar Yadav",
+        "D. Salman Ali Agha"
+      ],
+      "options": [
+        "I-A, II-B, III-C, IV-D",
+        "I-B, II-A, III-D, IV-C",
+        "I-A, II-C, III-B, IV-D",
+        "I-C, II-B, III-A, IV-D"
+      ],
+      "answer": 0,
+      "explanation": "MS Dhoni captained India to the 2007 title, Rohit Sharma captained the 2024 title side, Suryakumar Yadav captained India against Pakistan in 2026 and Salman Ali Agha captained Pakistan in their match.",
+      "source": "https://gulfnews.com/sport/cricket/this-day-2007-when-dhoni--co-were-crowned-world-t20-champions-1.1569316147854 ; https://www.latestly.com/sports/cricket/on-this-day-in-2007-ms-dhoni-led-team-india-win-inaugural-icc-t20-world-cup-title-beating-pakistan-in-final-7126702.html/amp ; https://barbadostoday.bb/2024/06/29/india-win-the-toss-batting-vs-south-africa-in-t20-world-cup-final/ ; https://www.arabnews.com/node/2540136 ; https://www.deccanchronicle.com/buzz/t20-world-cup-2026-india-vs-pakistan-live-3470 ; https://thenewsmill.com/2026/02/suryakumar-yadav-continues-no-handshake-policy-with-pakistan-captain-at-t20-world-cup-toss/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Dronacharya Award is conferred on sports coaches.",
+      "reason": "The Padma Shri is the fourth-highest civilian award of India.",
+      "answer": 1,
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "Both statements are true. The Dronacharya Award honours coaches; the Padma Shri's rank among civilian honours does not explain who receives the Dronacharya Award.",
+      "source": "https://www.mha.gov.in/sites/default/files/2023-01/Scheme-PadmaAwards-050514.pdf ; https://www.britannica.com/facts/Priyanka-Chopra ; https://www.indianetzone.com/dronacharya_awardees ; https://badmintonindia.org/players/awardees/3-"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. India won the 2024 ICC Men's T20 World Cup final by seven runs.",
+        "II. India beat Pakistan by five runs in the final of the inaugural 2007 ICC Men's T20 World Cup."
+      ],
+      "answer": 2,
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "Both statements are true: India beat South Africa by seven runs in the 2024 final, and beat Pakistan by five runs in the 2007 final.",
+      "source": "https://en.prothomalo.com/sports/cricket/vvyqli3pa8 ; https://barbadostoday.bb/2024/06/29/india-win-the-t20-world-cup/ ; https://gulfnews.com/sport/cricket/this-day-2007-when-dhoni--co-were-crowned-world-t20-champions-1.1569316147854 ; https://www.latestly.com/sports/cricket/on-this-day-in-2007-ms-dhoni-led-team-india-win-inaugural-icc-t20-world-cup-title-beating-pakistan-in-final-7126702.html/amp"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The Major Dhyan Chand Khel Ratna is India's highest sporting honour.",
+        "2. National Sports Day in India is observed on 29 August.",
+        "3. Major Dhyan Chand won Olympic hockey gold with India in 1928, 1932 and 1936.",
+        "4. The Padma Shri was instituted in 1954."
+      ],
+      "mode": "correct",
+      "answer": 3,
+      "truth": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "explanation": "All four statements are correct: the Khel Ratna is the highest sporting honour, National Sports Day falls on 29 August (Dhyan Chand's birthday), Dhyan Chand won Olympic hockey gold with India in 1928, 1932 and 1936, and the Padma Shri was instituted in 1954.",
+      "source": "https://sports.yas.gov.in/assets/admin/uploads/documents/publications/Major_Dhyan_Chand_Khel_Ratna.pdf ; https://news24online.com/sports/major-dhyan-chand-khel-ratna-awards-2024-manu-bhaker-d-gukesh-and-others-to-get-felicitated-by-indias-highest-sports-honour/427820/ ; https://www.thequint.com/sports/national-sports-day-history-significance-and-quotes ; https://affairscloud.com/national-sports-day-2023-august-29/ ; https://www.olympics.com/en/athletes/dhyan-chand-singh ; https://kids.britannica.com/students/article/Dhyan-Chand/608559 ; https://www.mha.gov.in/sites/default/files/2023-01/Scheme-PadmaAwards-050514.pdf"
+    }
+  ],
+  "writer_flags": [
+    "Passage is 160 words, well below the 220-word double-sourced floor: only these facts reached two publishers within the search budget (15 of 20 used).",
+    "Co-hosting by India and Sri Lanka: sourced to the cricket-stats page title and one other listing only; treat as lightly sourced.",
+    "Super Eight format (two groups of four; top two advance to semi-finals): top-two rule is from one aggregator snippet; the group-size fact is from sportsdigest and one other.",
+    "'Secured one of the four semi-final places' (India v West Indies, 1 Mar): sourced to Al Jazeera live blog and AP syndication; the four-team semi-final line-up is from geosuper and an Aaj Tak table snapshot.",
+    "Pakistan dropping its boycott before the Colombo match: sourced to New Arab and Oman Observer headlines; exact date of the reversal conflicts across sources, so the passage gives no date for it.",
+    "Q4 (captains): Rohit Sharma as 2024 captain rests on Jamaica Observer and AFP-based reports; Suryakumar Yadav and Salman Ali Agha as 2026 captains rest on match reports (sportscafe, Al Jazeera).",
+    "Q5 and Q7: Dronacharya (coaches) and Khel Ratna (highest honour, instituted 1991-92) are sourced mainly to exam-preparation sites; the Padma Shri 1954 date and fourth-highest rank rest on Wion and DBpedia.",
+    "Q8 III is false by the 2007 title; Q6 and Q8 both touch the 2024 final and Q5/Q7/Q8 all touch Padma Shri or Khel Ratna facts. Overlap is limited to distinct facts but verifier should check it.",
+    "Not used anywhere: the 2026 final result (India beat New Zealand, 8 March) is outside the window and single-sourced here."
+  ],
+  "status": "complete",
+  "residual": [
+    "Dronacharya Award (coaches) rests on exam-prep/aggregator pages (indianetzone, badmintonindia, prepp); no sports-ministry page opened.",
+    "Khel Ratna 'highest sporting honour' (Q7 st.1) rests on news24, Drishti/Vajiram exam-prep and a ministry PDF seen only as a search snippet.",
+    "National Sports Day 29 August (Q7 st.2) rests on Quint plus exam-prep/current-affairs sites; no official page opened.",
+    "Padma Shri 1954 and fourth-highest: MHA scheme PDF and Britannica seen as search snippets only; MHA notes the name Padma Shri dates from 1955.",
+    "Dhyan Chand three golds: Olympics.com and Britannica Kids via snippets; draft's 'led India' wording was wrong (captain in 1936 only), reworded to 'won'.",
+    "Pakistan boycott reversal and 2026 match facts largely via search-summary snippets (SCMP, New Arab, Al Jazeera, Wisden); no full articles opened.",
+    "Passage is short (see word count); 'Match 27' and player-of-the-match claims removed as single-sourced."
+  ]
+}

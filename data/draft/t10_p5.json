@@ -1,0 +1,117 @@
+{
+  "title": "Industry definition and labour codes",
+  "topic_tags": ["Supreme Court", "Labour law", "Industrial Relations Code 2020", "Constitution of India"],
+  "slot": "T10P5",
+  "status": "partial",
+  "text": "A nine-judge Constitution Bench has delivered its verdict on the meaning of \"industry\" in labour law, reconsidering the 1978 judgment in Bangalore Water Supply and Sewerage Board v. A. Rajappa. That judgment had read the term widely, bringing within it establishments that are not manufacturing units, such as hospitals, educational institutions and government departments.\n\nThe Supreme Court has held that the 1978 test continues to govern pending disputes under the Industrial Disputes Act, 1947, which has since been repealed. For disputes arising under the Industrial Relations Code, 2020, however, the 1978 definition will not serve as the foundation for interpreting \"industry\". The Court treated the 2020 Code as a separate statute with its own text and purpose, so the older test cannot automatically be applied to it. The verdict was pronounced in August 2026.",
+  "sources": [
+    "https://www.livelaw.in/buzz/livelaw-breaking-news-alerts-20-august-2026-36183",
+    "https://livelaw.in/nine-judge-bench-examine-correctness-bangalore-water-supply-case",
+    "https://superkalam.com/current-affairs/21-08-2026/1978-industry-definition-void-under-new-code-sc-pg1-ee02a799-4398-4539-b502-a35aaaee132a",
+    "https://thenewsmill.com/2026/08/supreme-court-upholds-bangalore-water-test-but-limits-future-role/",
+    "https://taxguru.in/corporate-law/1978-bangalore-water-supply-ruling-governs-pending-industrial-disputes-act-cases-sc.html",
+    "https://www.chronicleindia.in/online-magazine/csce-october-2026/sc-revisits-the-definition-of-industry-in-indian-labour-law",
+    "https://www.freepressjournal.in/business/supreme-court-63-verdict-narrows-use-of-1978-industry-definition-under-industrial-relations-code-2020"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "From which date did the Industrial Relations Code, 2020 come into force?",
+      "options": ["1 April 2026", "21 November 2025", "15 August 2025", "26 January 2026"],
+      "answer": 1,
+      "explanation": "The Ministry of Labour and Employment notified 21 November 2025 as the date the Industrial Relations Code, 2020 came into force, together with the other labour codes.",
+      "source": "https://bombaychamber.com/notification/industrial-relations-code-2020-comes-into-effect-from-21-11-25/ ; https://www.taxmann.com/post/blog/govt-notifies-enforcement-of-industrial-relations-code"
+    },
+    {
+      "type": "direct",
+      "q": "Begar, which is unpaid compulsory labour, is prohibited under which Article of the Constitution of India?",
+      "options": ["Article 17", "Article 23", "Article 32", "Article 39"],
+      "answer": 1,
+      "explanation": "Article 23 prohibits traffic in human beings, begar and other similar forms of forced labour, and makes any contravention an offence punishable under law.",
+      "source": "https://aaptaxlaw.com/constitution-of-india/article-23-24-constitution-prohibition-of-traffic-in-human-beings-and-forced-labor-prohibition-of-employment-of-children-in-factories-article-23-24-of-constitution-of-india-1949.html ; https://www.barristery.in/2025/02/article-23-of-indian-constitution.html"
+    },
+    {
+      "type": "direct",
+      "q": "Article 24 of the Constitution prohibits the employment of children below what age in factories, mines and other hazardous work?",
+      "options": ["12 years", "14 years", "16 years", "18 years"],
+      "answer": 1,
+      "explanation": "Article 24 bars the employment of children below the age of 14 in factories, mines or any other hazardous occupation.",
+      "source": "https://lawglobalhub.com/article-23-24-indian-constitution-1949 ; https://aaptaxlaw.com/constitution-of-india/article-23-24-constitution-prohibition-of-traffic-in-human-beings-and-forced-labor-prohibition-of-employment-of-children-in-factories-article-23-24-of-constitution-of-india-1949.html"
+    },
+    {
+      "type": "match",
+      "list1": ["I. Code on Wages, 2019", "II. Code on Social Security, 2020", "III. Occupational Safety, Health and Working Conditions Code, 2020", "IV. Industrial Relations Code, 2020"],
+      "list2": ["A. Employees' State Insurance Act, 1948", "B. Payment of Wages Act, 1936", "C. Factories Act, 1948", "D. Trade Unions Act, 1926"],
+      "options": ["I-B, II-A, III-C, IV-D", "I-A, II-B, III-D, IV-C", "I-C, II-D, III-A, IV-B", "I-D, II-C, III-B, IV-A"],
+      "answer": 0,
+      "explanation": "The Code on Wages, 2019 repeals the Payment of Wages Act, 1936; the Code on Social Security, 2020 takes over the Employees' State Insurance Act, 1948; the OSH Code, 2020 replaces the Factories Act, 1948; and the Industrial Relations Code, 2020 subsumes the Trade Unions Act, 1926.",
+      "source": "https://www.advocatekhoj.com/library/bareacts/codeonwages/69.php ; https://lawgist.in/payment-of-wages-act/69 ; https://advocatetanmoy.com/list-of-statutes13repealed-by-occupational-safety-code-2020/ ; https://www.taxmann.com/post/tag/labour-codes/ ; https://thelegalquotient.com/labour-laws/industrial-relations-code/industrial-relations-code-2020/2743/ ; https://www.jsalaw.com/articles-publications/implications-of-the-industrial-relations-code-2020/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Industrial Employment (Standing Orders) Act was enacted in 1966.",
+      "reason": "The Industrial Relations Code, 2020 subsumes the Industrial Employment (Standing Orders) Act, 1946.",
+      "answer": 3,
+      "explanation": "The assertion is false because the Industrial Employment (Standing Orders) Act is a 1946 enactment, as its name states. The reason is true: the Industrial Relations Code, 2020 subsumes three central Acts, including the Standing Orders Act, 1946.",
+      "source": "https://thelegalquotient.com/labour-laws/industrial-relations-code/industrial-relations-code-2020/2743/ ; https://www.jsalaw.com/articles-publications/implications-of-the-industrial-relations-code-2020/",
+      "truth": [false, true]
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Equal Remuneration Act, 1976 was repealed by the Code on Social Security, 2020.",
+        "II. The Payment of Bonus Act, 1965 was repealed by the Code on Wages, 2019."
+      ],
+      "answer": 1,
+      "explanation": "Section 69(1) of the Code on Wages, 2019 repeals the Payment of Wages Act, 1936, the Minimum Wages Act, 1948, the Payment of Bonus Act, 1965 and the Equal Remuneration Act, 1976. So statement II is correct and statement I wrongly names the Code on Social Security as the repealing Code.",
+      "source": "https://www.advocatekhoj.com/library/bareacts/codeonwages/69.php ; https://taxclue.in/blog/section-1-69-code-on-wages-2019-commencement-and-repeal-of-four-wage-laws",
+      "truth": [false, true]
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The right against exploitation is a fundamental right under Part III of the Constitution.",
+        "2. The 1978 Bangalore Water Supply judgment on the meaning of \"industry\" was delivered by a seven-judge Bench.",
+        "3. The nine-judge Bench that heard the 2026 reference on the \"industry\" definition was headed by Justice B.V. Nagarathna."
+      ],
+      "mode": "correct",
+      "answer": 1,
+      "explanation": "Statements 1 and 2 are correct. Statement 3 is wrong because the nine-judge Bench was headed by Chief Justice of India Surya Kant, with Justice Nagarathna as a member. Two statements are correct, so the answer is Only two.",
+      "source": "https://gyansanchay.csjmu.ac.in/wp-content/uploads/2021/11/Right-Against-Exploitation.pdf ; https://livelaw.in/nine-judge-bench-examine-correctness-bangalore-water-supply-case ; https://www.barandbench.com/topic/nine-judge-bench",
+      "truth": [true, true, false]
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. The Employees' Provident Funds Act is subsumed by the Code on Social Security, 2020.",
+        "II. The Industrial Relations Code, 2020 has 14 chapters.",
+        "III. The Maternity Benefit Act is subsumed by the Code on Wages, 2019."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "explanation": "Statement I is correct, since the Code on Social Security, 2020 subsumes the Employees' Provident Funds Act. Statement II is correct, since the Industrial Relations Code has 14 chapters. Statement III is wrong: the Maternity Benefit Act falls under the Code on Social Security, not the Code on Wages.",
+      "source": "https://www.taxmann.com/post/tag/labour-codes/ ; https://www.lkslaw.com/insights/articles/code-on-social-security-2020-an-overview ; https://thelegalquotient.com/labour-laws/industrial-relations-code/industrial-relations-code-2020/2743/",
+      "truth": [true, true, false]
+    }
+  ],
+  "writer_flags": [
+    "Passage is about 140 words, below the 220 double-sourced floor; no second Aug-Sep 2026 SC cluster was found within the search budget (index thin for this window). Status set to partial.",
+    "Verdict vote split is reported differently (5:4 vs 6:3) and the operative holding was not read from the judgment text; passage omits the vote and the maintainability ruling.",
+    "Passage claim that the 1978 test governs pending disputes: reported by taxguru, thenewsmill and superkalam; full judgment text not retrieved.",
+    "Passage and Q1: IR Code in force 21 Nov 2025 - bombaychamber and taxmann; not checked against gazette.",
+    "Q2 (Article 23 begar): sourced via aaptaxlaw and barristery snippets only.",
+    "Q3 (Article 24 age 14): sourced via lawglobalhub and aaptaxlaw snippets only.",
+    "Q4 pair I-B/II-A: Code on Social Security replacing ESI Act 1948 rests on a single Taxmann summary; second source needed.",
+    "Q4 pair III-C: OSH Code replacing Factories Act 1948 rests on advocatetanmoy list and ijlmh summary.",
+    "Q4 pair IV-D: IR Code subsuming Trade Unions Act 1926 - thelegalquotient and jsalaw summaries.",
+    "Q5 reason (IR Code subsumes Standing Orders Act 1946) - thelegalquotient and jsalaw summaries; falsity of 1966 rests on the Act name.",
+    "Q6 statement I and II: Section 69 text from advocatekhoj; taxclue summary as second source.",
+    "Q7 statement 2 (1978 Bangalore Water Supply decided by seven-judge Bench): LiveLaw background only, single publisher.",
+    "Q7 statement 3 (Nagarathna not the head; CJI Surya Kant heads): LiveLaw reference article only, single publisher.",
+    "Q7 statement 1 (right against exploitation under Part III): Part III placement is not stated in the fetched snippets; two university PDFs cite the right against exploitation.",
+    "Q8 statement I (EPF Act subsumed by SS Code): summary-based; lkslaw overview not fetched.",
+    "Q8 statement II (IR Code has 14 chapters): single source (thelegalquotient) - weak.",
+    "Q8 statement III (Maternity Benefit Act under SS Code, so the Wages Code claim is false): summary-based, single source.",
+    "Passage and Q5 avoid naming the Industry case's respondent, the reserved-judgment date and the 2005/2017 referral details, which are not double-sourced."
+  ]
+}
