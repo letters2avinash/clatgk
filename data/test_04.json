@@ -1,0 +1,658 @@
+{
+ "title": "CLAT GK - Test 04",
+ "date": "2026-10-08",
+ "duration_minutes": 50,
+ "marks_correct": 1,
+ "marks_wrong": -0.25,
+ "notes": "Generated with Haiku 5.5, then independently verified question by question by separate Sonnet agents using fresh searches (two-source rule; claims that could not be confirmed were removed or reworded; ambiguous, unchecked or leaking questions were dropped). Several primary sources were unreachable, so residual risk is listed below. Not reviewed by a human.",
+ "residual": [
+  "Passage 1: the Section 187 BNSS = 167 CrPC mapping and the Water Act year rest on commentary and Act listings, not a second independent publisher.",
+  "Passage 2: the Charter for Democratic Diffusion of AI claim rests on a declaration-text reprint (Free Press Journal) plus Drishti IAS; Article 19/32 wording rests on exam-prep and iPleaders pages.",
+  "Passage 3: the Spur Link route and length differ across reports (stated as such); Q5's Article 32 limb rests on standard law with only secondary sources.",
+  "Passage 4: the constitutional-article questions rest on constitutionofindia.net, exam-prep sites and a few official pages, not the Constitution's own text; the '12 bills passed' figure is the government's (PRS-based reports say 11 of 12 introduced).",
+  "Passage 5: the June 2027 election date rests on Wikipedia plus one news report; Trump's opening-day address is preview coverage only (worded 'scheduled'); Q4's Article 109 text came via an ICJ note.",
+  "Static-GK explanations cite Wikipedia or exam-prep pages in places where a primary text was not reachable."
+ ],
+ "passages": [
+  {
+   "title": "SC Rulings on Anticipatory Bail and NCR Air Pollution",
+   "topic_tags": [
+    "Supreme Court",
+    "Anticipatory bail",
+    "SC/ST Act",
+    "Air pollution",
+    "M.C. Mehta",
+    "Constitution"
+   ],
+   "slot": "T04P1",
+   "status": "complete",
+   "text": "The Supreme Court of India on 9 March 2026 set aside an order of the Punjab and Haryana High Court that had granted anticipatory bail to accused persons in a case registered under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act. The appeal, Kuldeep Singh and another v State of Punjab and another, arose from Special Leave Petitions (Criminal) Nos. 13439-13440 of 2025 and was heard by a bench of Justices Sanjay Kumar and K. Vinod Chandran. According to case summaries, the complainants alleged that the accused fired gunshots and used caste-based slurs against members of a Scheduled Caste community in Punjab.\n\nThe High Court had observed that the first information report did not clearly disclose the ingredients of offences under the Act, and it protected the accused on that basis. Anticipatory bail is granted before an arrest is made, and it protects the accused against being taken into custody. The Supreme Court held that the High Court had not properly evaluated the material indicating that offences under the Act had been committed. It found that a prima facie case existed, and that anticipatory bail should not have been granted at that preliminary stage. The Bench stressed caution in such matters, and the protection granted to the accused was cancelled. It also held that an FIR cannot be doubted merely because it rests on a statement given to the police.\n\nThe statute at the centre of the case provides for special courts to try offences against Scheduled Castes and Scheduled Tribes, and for relief and rehabilitation of victims.\n\nSeparately, on 12 March 2026, the Supreme Court formally closed a long-running writ petition on air pollution in Delhi and the National Capital Region. The petition, M.C. Mehta v Union of India, had been filed in 1985. A bench of Chief Justice Surya Kant, Justice Joymalya Bagchi and Justice Vipul M. Pancholi passed the order. The Chief Justice had earlier remarked that the continued pendency of the case gave the wrong impression that a 1985 matter was still undecided.\n\nInstead of leaving the air pollution issues in the old file, the Registry was directed to register a fresh suo motu proceeding titled \"Re: Issues of Air Pollution in the National Capital Region\". All interlocutory applications pending in the 1985 petition were directed to be registered as separate writ petitions, each receiving its own number. Senior Advocate Aparajita Singh appeared as amicus curiae.\n\nThe order closed only the 1985 writ petition. Press reports carried by the Press Trust of India described the step as a way of correcting the impression created by the old case, while the substantive air quality issues continue before the Court in the new proceedings.\n\nBoth orders were passed only three days apart.",
+   "word_count": 456,
+   "sources": [
+    "https://theindianlawyer.in/caution-in-granting-anticipatory-bail-supreme-court-cancels-relief-in-alleged-sc-st-atrocities-case/",
+    "https://www.legalkart.com/ta/legal-blog/fir-police-statement-valid-supreme-court-cancels-anticipatory-bail",
+    "https://taxguru.in/?p=1031611",
+    "https://www.livelaw.in/amp/top-stories/supreme-court-mc-mehta-case-air-quality-delhi-ncr-formally-closed-suo-motu-case-registered-applications-to-be-registered-as-writ-petitions-526196",
+    "https://www.deccanherald.com/india/delhi/curtains-drawn-on-4-decade-old-mc-mehta-case-on-air-pollution-as-supreme-court-disposes-pil-3932512",
+    "https://www.verdictum.in/court-updates/supreme-court/recaptions-40-year-old-mc-mehta-cases-end-unending-saga-pending-applications-1609758"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Which section of the Bharatiya Nagarik Suraksha Sanhita, 2023 provides for anticipatory bail and replaces Section 438 of the Code of Criminal Procedure, 1973?",
+     "options": [
+      "Section 483 BNSS",
+      "Section 482 BNSS",
+      "Section 480 BNSS",
+      "Section 187 BNSS"
+     ],
+     "answer": 1,
+     "explanation": "Section 482 BNSS is the anticipatory bail provision and corresponds to Section 438 CrPC. Section 480 BNSS corresponds to Section 437 CrPC (bail in non-bailable offences), Section 483 BNSS to the special bail powers of the High Court and Court of Session (Section 439 CrPC), and Section 187 BNSS to remand (Section 167 CrPC).",
+     "source": "https://blog.ipleaders.in/anticipatory-bail-under-bnss-section-482/ ; https://lawsikho.com/blog/anticipatory-bail/ ; https://vakeel360.com/crpc-to-bnss/section-437-bail-non-bailable ; https://vakeel360.com/crpc-to-bnss/section-439-special-powers-of-high-court ; https://lexibal.com/bnss-section-483-bail/"
+    },
+    {
+     "type": "direct",
+     "q": "Which Article of the Constitution of India empowers the Supreme Court to pass any order necessary for doing complete justice in a cause or matter pending before it?",
+     "options": [
+      "Article 143",
+      "Article 142",
+      "Article 129",
+      "Article 144"
+     ],
+     "answer": 1,
+     "explanation": "Article 142 empowers the Supreme Court to pass such decree or order as is necessary for doing complete justice, and such orders are enforceable throughout India. Article 143 is the advisory jurisdiction, Article 144 requires civil authorities to act in aid of the Supreme Court, and Article 129 declares the Court to be a court of record.",
+     "source": "https://www.constitutionofindia.net/articles/article-142-enforcement-of-decrees-and-orders-of-supreme-court-and-orders-as-to-discovery-etc/ ; https://www.casemine.com/in/column/article-142-of-the-constitution-of-india:-a-tool-for-complete-justice/view ; https://www.scconline.com/blog/post/2025/05/18/article-143-supreme-court-advisory-jurisdiction/ ; https://www.constitutionofindia.net/articles/article-144-civil-and-judicial-authorities-to-act-in-aid-of-the-supreme-court/ ; https://www.constitutionofindia.net/articles/article-129-supreme-court-to-be-a-court-of-record/"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Article 21 of the Constitution protects the life and personal liberty of foreign nationals present in India.",
+     "reason": "Article 21 is confined to citizens, because it uses the word 'citizen' rather than 'person'.",
+     "answer": 2,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "A is true: the Supreme Court in NHRC v State of Arunachal Pradesh (1996) held that Article 21 protects non-citizens. R is false: Article 21 says 'No person shall be deprived of his life or personal liberty except according to procedure established by law'. It uses 'person', not 'citizen'.",
+     "source": "https://future.indiankanoon.org/doc/767216 ; https://lawinsider.in/judgment/national-human-rights-commission-vs-state-of-arunachal-pradesh/amp"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 32",
+      "II. Article 136",
+      "III. Article 226",
+      "IV. Article 245"
+     ],
+     "list2": [
+      "A. Special leave to appeal from any judgment or order of a court or tribunal in India",
+      "B. Writ jurisdiction of High Courts for enforcement of Fundamental Rights and for any other purpose",
+      "C. Territorial extent of laws made by Parliament and State legislatures",
+      "D. Writ jurisdiction of the Supreme Court for enforcement of Fundamental Rights"
+     ],
+     "options": [
+      "I-B, II-A, III-D, IV-C",
+      "I-A, II-D, III-C, IV-B",
+      "I-D, II-A, III-B, IV-C",
+      "I-C, II-B, III-A, IV-D"
+     ],
+     "answer": 2,
+     "explanation": "Article 32 is the Supreme Court's writ jurisdiction for Fundamental Rights (D). Article 136 is special leave to appeal (A). Article 226 gives High Courts writ power for Fundamental Rights and any other purpose (B). Article 245 defines the territorial extent of laws (C).",
+     "source": "https://www.constitutionofindia.net/articles/article-245-extent-of-laws-made-by-parliament-and-by-the-legislatures-of-states/ ; https://blog.ipleaders.in/article-136-of-the-indian-constitution/ ; https://anantamias.com/article-32/?pdf=1 ; https://en.vikaspedia.in/viewcontent/education/law-and-constitution/article-226-of-the-indian-constitution"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. The Water (Prevention and Control of Pollution) Act was enacted in 1974.",
+      "II. The Air (Prevention and Control of Pollution) Act was enacted in 1981.",
+      "III. The Commission for Air Quality Management in National Capital Region and Adjoining Areas Act was enacted in 2019."
+     ],
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I and III only",
+      "All of the above"
+     ],
+     "answer": 1,
+     "truth": [
+      true,
+      true,
+      false
+     ],
+     "explanation": "Statements I and II are correct (1974 and 1981). Statement III is incorrect: the Commission for Air Quality Management Act was enacted in 2021, so the correct combination is I and II only.",
+     "source": "https://prsindia.org (CAQM Act 2021, Act 29 of 2021, assent 12 Aug 2021) ; https://www.impriindia.com/insights/policy-update-2021/air-quality-delhi/ ; https://indiacode.nic.in/bitstream/123456789/15429/1/the_water_(prevention_and_control_of_pollution)_act,_1974.pdf ; https://leap.unep.org/en/countries/in/national-legislation/air-prevention-and-control-pollution-act-1981-no-14-1981"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act was passed by Parliament in 1989.",
+      "2. Section 18 of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act provides that Section 438 of the Code of Criminal Procedure shall not apply in cases involving arrest for offences under the Act.",
+      "3. The Supreme Court judgment in Kiran v Rajkumar Jivraj Jain (2025 INSC 1067) was delivered by a bench headed by Chief Justice B.R. Gavai.",
+      "4. Article 17 of the Constitution abolishes untouchability and forbids its practice in any form."
+     ],
+     "mode": "correct",
+     "answer": 3,
+     "truth": [
+      true,
+      true,
+      true,
+      true
+     ],
+     "explanation": "All four statements are correct: the SC/ST (PoA) Act was passed in 1989; Section 18 bars the application of Section 438 CrPC in arrest cases under the Act; the Kiran judgment (2025 INSC 1067) was decided by a bench headed by CJI B.R. Gavai; and Article 17 abolishes untouchability. Hence 'All four'.",
+     "source": "https://api.sci.gov.in/supremecourt/2025/26602/26602_2025_16_1501_63923_Judgement_01-Sep-2025.pdf ; https://www.verdictum.in/court-updates/supreme-court/kiran-v-rajkumar-jivraj-jain-2025-insc-1067-section-18-sc-st-act-anticipatory-bail-1590102 ; https://indiacode.nic.in/handle/123456789/1920?locale=en ; https://www.constitutionofindia.net/articles/article-17-abolition-of-untouchability/"
+    }
+   ]
+  },
+  {
+   "title": "India AI Impact Summit 2026",
+   "topic_tags": [
+    "India AI Impact Summit",
+    "AI summits",
+    "IndiaAI Mission",
+    "Science and technology",
+    "Constitution of India"
+   ],
+   "slot": "T04P2",
+   "status": "complete",
+   "text": "India hosted the India AI Impact Summit at Bharat Mandapam in New Delhi, where Prime Minister Narendra Modi inaugurated the event on 19 February 2026. Reports give different full dates for the event, so only the inauguration date is relied on here, and the summit is generally described as running over several days in the second half of February. The summit's theme, \"Sarvajan Hitay, Sarvajan Sukhay\", is commonly rendered as welfare and happiness for all. Its core framework was built on three Sutras, namely People, Planet and Progress.\n\nWithin that framework, the summit set out seven thematic pillars, called Chakras. The official list names Human Capital, Inclusion for Social Empowerment, Safe and Trusted AI, Science, Resilience, Innovation and Efficiency, Democratizing AI Resources, and AI for Economic Development and Social Good. Reports describe the Chakras as focused domains of international collaboration that turn the three Sutras into concrete areas of action. The declaration itself is structured around these seven pillars.\n\nThe principal outcome was the New Delhi Declaration on AI Impact, which the summit adopted in February 2026. Sources agree that the declaration is voluntary. Outlook India and other outlets describe it as non-binding, so it does not create enforceable legal obligations for the countries that endorse it. Reports say the declaration is guided by the summit's theme of welfare and happiness for all. Reported endorser figures range from 88 to 91, so the exact count should be checked against official releases. The declaration is accompanied by a Charter for the Democratic Diffusion of AI, a voluntary and non-binding framework that aims to promote access to foundational AI resources across countries.\n\nThe summit followed a series of international gatherings on AI. The first, the AI Safety Summit, was held at Bletchley Park on 1 and 2 November 2023. Prime Minister Rishi Sunak announced the venue in August 2023. The site was once the top-secret home of Second World War codebreakers who broke the Enigma code, and it is known for codebreaking and early computing. The AI Seoul Summit followed, co-hosted by the United Kingdom and South Korea on 21 and 22 May 2024. The AI Action Summit was then held at the Grand Palais in Paris on 10 and 11 February 2025.\n\nIndia's domestic programme, the IndiaAI Mission, was approved by the Union Cabinet on 7 March 2024 with an outlay of Rs 10,372 crore over five years. Union Minister Piyush Goyal announced the approval after the Cabinet meeting. The scheme is meant to provide around 10,000 graphics processing units, which Goyal described as supercomputing capacity, with access planned for startups, researchers, academia and industry. Together with the summit, the mission reflects India's effort to build computing capacity and AI skills, and to host global discussion on AI.",
+   "sources": [
+    "https://www.newsonair.gov.in/india-ai-impact-summit-2026-adopts-new-delhi-declaration",
+    "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/24-02-2026/print/manual",
+    "https://www.outlookindia.com/amp/story/national/new-delhi-declaration-marks-historic-global-push-for-collaborative-ai",
+    "https://cadeproject.org/updates/ai-impact-summit-in-new-delhi-adopts-declaration-on-inclusive-and-cooperative-ai-development/",
+    "https://currentaffairs.adda247.com/pm-modi-inaugurated-india-ai-impact-summit-2026-unveils-m-a-n-a-v-vision/",
+    "https://www.outlookbusiness.com/news/cabinet-approves-india-ai-mission-with-a-total-outlay-of-rs-10372-core-for-5-years",
+    "https://www.tribuneindia.com/news/india/indiaai-mission-gets-cabinet-nod-rs-10-372-crore-allocated-598257",
+    "https://www.gov.uk/government/topical-events/ai-safety-summit-2023/about",
+    "https://www.gov.uk/government/news/iconic-bletchley-park-to-host-uk-ai-safety-summit-in-early-november",
+    "https://www.gov.uk/government/topical-events/ai-seoul-summit-2024/about",
+    "https://www.akingump.com/en/insights/ai-law-and-regulation-tracker/UK-Co-Hosts-AI-Seoul-Summit-with-the-Republic-of-Korea",
+    "https://en.wikipedia.org/wiki/AI_Action_Summit_2025",
+    "https://www.akingump.com/en/insights/ai-law-and-regulation-tracker/france-hosts-third-international-ai-summit",
+    "https://itv.com/news/anglia/2023-08-24/home-of-war-time-codebreakers-to-host-ai-summit",
+    "https://www.digitalindia.gov.in/photo_gallery/prime-minister-shri-narendra-modi-inaugurates-india-ai-impact-summit-2026/",
+    "https://impact.indiaai.gov.in/about-summit",
+    "https://www.freepressjournal.in/amp/india/ai-impact-summit-2026-88-countries-adopt-new-delhi-declaration-on-trusted-resilient-efficient-ai-read-full-statement",
+    "https://bletchleypark.org.uk/bletchley-park-to-host-ai-safety-summit",
+    "https://yourstory.com/2024/03/cabinet-approves-india-ai-mission"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "In which year did Prime Minister Narendra Modi launch the Digital India programme?",
+     "options": [
+      "2013",
+      "2016",
+      "2015",
+      "2014"
+     ],
+     "answer": 2,
+     "explanation": "Digital India was launched by PM Narendra Modi on 1 July 2015 as a flagship programme to turn India into a digitally empowered society and knowledge economy.",
+     "source": "https://www.digitalindia.gov.in/about ; https://en.wikipedia.org/wiki/Digital_India"
+    },
+    {
+     "type": "direct",
+     "q": "Bletchley Park, the venue of the AI Safety Summit held in November 2023, is located in which English ceremonial county?",
+     "options": [
+      "Hertfordshire",
+      "Kent",
+      "Surrey",
+      "Buckinghamshire"
+     ],
+     "answer": 3,
+     "explanation": "Bletchley Park, the former wartime codebreaking centre, is in Buckinghamshire (now within the Milton Keynes unitary area, which lies in the ceremonial county of Buckinghamshire).",
+     "source": "https://www.gov.uk/government/news/iconic-bletchley-park-to-host-uk-ai-safety-summit-in-early-november ; https://itv.com/news/anglia/2023-08-24/home-of-war-time-codebreakers-to-host-ai-summit"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Article 253 of the Constitution of India empowers Parliament to make laws for implementing international treaties and agreements.",
+     "reason": "Article 253 is contained in Part IV of the Constitution, which lists the Directive Principles of State Policy.",
+     "answer": 2,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "The assertion is true: Article 253 lets Parliament legislate for the whole or any part of India to implement treaties, agreements and international decisions. The reason is false: Article 253 sits in Part XI (Union-State relations), while Part IV contains the Directive Principles.",
+     "source": "https://www.constitutionofindia.net/articles/article-253-legislation-for-giving-effect-to-international-agreements/ ; https://www.constitutionofindia.net/constitution_of_india/directive_principles_of_state_policy/articles/Article%2051 ; https://www.constitutionofindia.net/constitution_of_india/relations_between_the_union_and_the_states/articles/Article%20253"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 14",
+      "II. Article 19",
+      "III. Article 21",
+      "IV. Article 32"
+     ],
+     "list2": [
+      "A. Protection of life and personal liberty",
+      "B. Equality before the law",
+      "C. Right to constitutional remedies",
+      "D. Six freedoms, including speech and expression"
+     ],
+     "options": [
+      "I-B, II-D, III-A, IV-C",
+      "I-A, II-B, III-C, IV-D",
+      "I-D, II-C, III-B, IV-A",
+      "I-C, II-A, III-D, IV-B"
+     ],
+     "answer": 0,
+     "explanation": "Article 14 guarantees equality before the law (B); Article 19 guarantees six freedoms including speech and expression (D); Article 21 protects life and personal liberty (A); Article 32 provides the right to constitutional remedies (C).",
+     "source": "https://www.constitutionofindia.net/articles/article-14-equality-before-law ; https://blog.ipleaders.in/article-19-indian-constitution/ ; https://en.wikipedia.org/wiki/Article_21_of_the_Constitution_of_India ; https://www.pmfias.com/article-32/"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Article 51 of the Constitution directs the State to promote international peace and security.",
+      "II. The Constitution of India was adopted by the Constituent Assembly on 26 November 1949."
+     ],
+     "answer": 2,
+     "explanation": "Both statements are true: Article 51 is a directive principle on promoting international peace and security, and the Constituent Assembly completed the Constitution on 26 November 1949.",
+     "source": "https://www.constitutionofindia.net/articles/article-51-promotion-of-international-peace-and-security/ ; https://en.wikipedia.org/wiki/Constitution_of_India ; https://www.drishtiias.com/daily-updates/daily-news-analysis/70th-constitution-day"
+    },
+    {
+     "type": "statement_count",
+     "mode": "correct",
+     "statements": [
+      "1. Article 17 of the Constitution abolishes untouchability.",
+      "2. The Fundamental Duties were inserted into the Constitution by the 44th Amendment.",
+      "3. Article 368 allows the State Legislatures alone to amend the Constitution.",
+      "4. The Constitution came into effect on 26 January 1950."
+     ],
+     "answer": 1,
+     "explanation": "Statements 1 and 4 are correct. Statement 2 is wrong because the Fundamental Duties were added by the 42nd Amendment (1976). Statement 3 is wrong because amendments are made by Parliament, with ratification by half the States only for certain provisions. Only two statements are correct.",
+     "source": "https://www.constitutionofindia.net/articles/article-17-abolition-of-untouchability/ ; https://www.civilsdaily.com/fundamental-duties/ ; https://anantamias.com/article-368-constitutional-amendment-procedure/?pdf=1 ; https://en.wikipedia.org/wiki/Constitution_of_India"
+    }
+   ]
+  },
+  {
+   "title": "UP Cabinet clears four expressway projects",
+   "topic_tags": [
+    "Uttar Pradesh",
+    "expressways",
+    "state cabinet decisions",
+    "Constitution of India",
+    "Governor",
+    "Seventh Schedule"
+   ],
+   "slot": "T04P3",
+   "text": "The Uttar Pradesh Cabinet on Tuesday, 21 July 2026, approved four expressway projects at a meeting chaired by Chief Minister Yogi Adityanath. Press reports put the combined value of the package at more than Rs 47,000 crore. The approvals add to a network that already includes the Ganga Expressway, the Purvanchal Expressway and the Agra-Lucknow Expressway.\n\nTwo of the projects are link expressways. The first is a 50.98-km six-lane greenfield road that connects the Agra-Lucknow corridor to the Purvanchal Expressway, estimated at Rs 4,775.84 crore. The second is a 90.84-km six-lane greenfield link to the Ganga Expressway via Farrukhabad, estimated at Rs 7,488.74 crore. Together, the two link projects are worth more than Rs 12,264 crore. Both are designed to be six lanes, expandable to eight.\n\nThe third approval is the Vindhya Expressway, an access-controlled greenfield road of about 333 km running from Prayagraj to Sonbhadra district. It is planned as six lanes, expandable to eight, and its estimated cost is roughly Rs 26,000 crore. Reports say about 4,600 hectares of land will be needed for the corridor. The Vindhya Expressway begins in Prayagraj, where the Ganga Expressway ends, and passes through Mirzapur, Varanasi and Chandauli before ending near National Highway 39 in Sonbhadra.\n\nThe fourth project is the Vindhya-Purvanchal Spur Link, estimated at Rs 9,039 crore. Reports say it will join the Ganga, Vindhya and Purvanchal expressways into one network, and they differ on its exact route and length, with some listing its districts as Ghazipur, Mirzapur and Chandauli. The Cabinet also cleared the alignment of the Vindhya corridor. In January 2025 it had given an in-principle approval to a Vindhya Expressway of about 320 km, so the July 2026 decision is the more detailed one.\n\nThe Ganga Expressway, which one of the new links will join, was inaugurated by Prime Minister Narendra Modi on 29 April 2026 in Hardoi district. The 594-km road runs from Meerut to Prayagraj through 12 districts and was built at a cost of about Rs 36,230 crore. The road was therefore already open when the Cabinet met in July.\n\nThe Agra-Lucknow Expressway, about 302 km long, was opened on 21 November 2016 by then Chief Minister Akhilesh Yadav at an event in Unnao district, and Indian Air Force fighter jets touched down on the road during the ceremony. The Purvanchal Expressway, which runs for 341 km from Lucknow to Ghazipur, was inaugurated by Modi on 16 November 2021, at a cost of about Rs 22,500 crore.\n\nThe Cabinet's decisions are approvals rather than completed works. Coverage describes the package as a push to strengthen east-west connectivity across the state. Tendering for developers of the two link expressways is to follow, and the selected firms are expected to complete construction within about 36 months.",
+   "sources": [
+    "https://freepressjournal.in/uttar-pradesh/up-cabinet-approves-47600-crore-expressway-projects-including-agra-lucknow-link-roads-and-vindhya-expressway",
+    "https://swarajyamag.com/news-brief/uttar-pradesh-approves-rs-47000-crore-expressway-push-to-strengthen-east-west-connectivity",
+    "https://indianmasterminds.com/news/up-cabinet-approves-26000-crore-vindhya-expressway-and-vindhya-purvanchal-link-expressway-218378/",
+    "https://trak.in/stories/up-bihar-to-get-connected-via-new-333-kms-expressway/",
+    "https://theprint.in/india/up-cabinet-approves-four-expressway-projects-to-strengthen-states-road-network/2992416/",
+    "https://newsonair.gov.in/pm-modi-inaugurates-594-km-long-ganga-expressway-connecting-meerut-to-prayagraj/",
+    "https://www.thehitavada.com/Encyc/2026/4/30/pm-inaugurates-594-km-ganga-e-way-in-up.html",
+    "https://indianinfrastructure.com/2026/04/30/ganga-expressway-worth-rs-362-30-billion-gets-inaugurated/",
+    "https://en.wikipedia.org/wiki/Agra%E2%80%93Lucknow_Expressway",
+    "https://upeida.up.gov.in/en/page/agra-lucknow-expressway",
+    "https://onmanorama.com/news/india/2021/11/16/pm-modi-inaugurates-341-km-purvanchal-expressway-in-up.html",
+    "https://www.businesstoday.in/amp/latest/policy/story/pm-modi-to-inaugurate-purvanchal-expressway-today-312345-2021-11-16"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Under which Article of the Constitution of India can a State Governor promulgate ordinances while the State legislature is not in session?",
+     "options": [
+      "Article 201",
+      "Article 213",
+      "Article 216",
+      "Article 200"
+     ],
+     "answer": 1,
+     "explanation": "Article 213 lets the Governor promulgate ordinances during a recess of the State legislature when immediate action is necessary; such an ordinance lapses six weeks after the legislature reassembles unless approved. Article 200 concerns assent to bills, Article 201 bills reserved for the President, and Article 216 the constitution of High Courts.",
+     "source": "https://vidhijudicial.com/article-213-of-the-constitution-of-india.html ; https://blog.ipleaders.in/?p=94511"
+    },
+    {
+     "type": "direct",
+     "q": "In which list of the Seventh Schedule is the subject 'Acquisition and requisitioning of property' placed?",
+     "options": [
+      "Concurrent List",
+      "Residuary powers of Parliament",
+      "Union List",
+      "State List"
+     ],
+     "answer": 0,
+     "explanation": "Entry 42 of List III, the Concurrent List, reads 'Acquisition and requisitioning of property', so both Parliament and State legislatures can legislate on it. It replaced the earlier separate Union and State entries, which were deleted.",
+     "source": "https://constitutionofindia.net/schedules/list-iii-concurrent-list/ ; https://en.wikipedia.org/wiki/Seventh_Schedule_to_the_Constitution_of_India"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 163",
+      "II. Article 243K",
+      "III. Article 280",
+      "IV. Article 165"
+     ],
+     "list2": [
+      "A. Finance Commission",
+      "B. Advocate General of a State",
+      "C. State Election Commission for panchayat elections",
+      "D. Council of Ministers aiding the Governor"
+     ],
+     "options": [
+      "I-D, II-C, III-A, IV-B",
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-D, III-B, IV-A",
+      "I-B, II-A, III-D, IV-C"
+     ],
+     "answer": 0,
+     "explanation": "Article 163 provides for the Council of Ministers to aid and advise the Governor (D). Article 243K vests superintendence of panchayat elections in the State Election Commission (C). Article 280 provides for the Finance Commission (A). Article 165 provides for the Advocate General of the State (B).",
+     "source": "https://www.drishtiias.com/daily-updates/daily-news-analysis/governor-s-role-in-calling-an-assembly-session ; https://www.constitutionofindia.net/articles/article-243k-elections-to-the-panchayats/ ; https://www.constitutionofindia.net/articles/article-280-finance-commission ; https://www.constitutionofindia.net/articles/article-165-advocate-general-for-the-state/ ; https://vidhijudicial.com/article-280-of-the-constitution-of-india.html ; https://vajiramandravi.com/upsc-exam/advocate-general-of-state/"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Article 300A makes the right to property a fundamental right that can be enforced directly under Article 32.",
+     "reason": "Article 300A provides that no person shall be deprived of his property save by authority of law.",
+     "answer": 3,
+     "explanation": "The assertion is false: property ceased to be a fundamental right, and Article 300A makes it a constitutional right, so it is not directly enforceable under Article 32. The reason is true: Article 300A bars deprivation of property except by authority of law.",
+     "source": "https://barandbench.com/news/litigation/right-to-property-still-a-constitutional-right-supreme-court-reiterates ; https://www.thehitavada.com/Encyc/2025/1/4/Right-to-property-a-constitutional-right-SC.html",
+     "truth": [
+      false,
+      true
+     ]
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Under Article 174, not more than six months may intervene between the last sitting of a House of the State legislature in one session and its first sitting in the next session.",
+      "II. Under Article 154, the executive power of a State is vested in the Chief Minister, who exercises it directly."
+     ],
+     "answer": 0,
+     "explanation": "Statement I is correct: Article 174(1) provides that six months shall not intervene between the last sitting of a House in one session and its first sitting in the next. Statement II is wrong: Article 154 vests the State's executive power in the Governor, exercisable directly or through subordinate officers.",
+     "source": "https://www.drishtiias.com/daily-updates/daily-news-analysis/governor-s-role-in-calling-an-assembly-session ; https://www.scconline.com/blog/?p=72241 ; https://www.constitutionofindia.net/articles/article-154-executive-power-of-state",
+     "truth": [
+      true,
+      false
+     ]
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. Parliament can make a law to form a new State out of the territory of an existing State.",
+      "II. A bill under Article 3 that alters a State's boundaries can be introduced only after that State's legislature has consented to it.",
+      "III. A bill under Article 3 cannot be introduced in Parliament without the President's recommendation."
+     ],
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "All of the above"
+     ],
+     "answer": 0,
+     "explanation": "Statements I and III are correct: Article 3 empowers Parliament to form a new State, and the bill needs the President's recommendation. Statement II is wrong: the State legislature is only given the opportunity to express its views, not a power to consent or veto.",
+     "source": "https://www.constitutionofindia.net/articles/article-3-formation-of-new-states-and-alteration-of-areas-boundaries-or-names-of-existing-states/ ; https://www.understandupsc.com/?p=11611"
+    }
+   ]
+  },
+  {
+   "title": "Tribunals Reforms Bill, 2026",
+   "topic_tags": [
+    "polity",
+    "tribunals",
+    "Monsoon Session 2026",
+    "Parliament",
+    "judiciary"
+   ],
+   "slot": "T04P4",
+   "status": "complete",
+   "text": "Parliament has passed the Tribunals Reforms Bill, 2026, a law that repeals the Tribunals Reforms Act, 2021 and replaces it with a new framework for the appointment and supervision of tribunals. The bill was taken up during the Monsoon Session, which ran from 20 July to 13 August 2026. According to the government, both Houses passed 12 bills during the session, but most were cleared with little or no debate, as the proceedings were repeatedly disrupted, including by protests over the NEET-UG paper leak.\n\nThe bill was introduced in the Lok Sabha on 10 August 2026 and passed the same day by voice vote. Its stated purpose is to set up a National Tribunals Commission that will select chairpersons and members for tribunals across the country. Reports said it was passed without debate amid sloganeering by Opposition members. The Rajya Sabha passed the bill on 11 August 2026, and Opposition members walked out during the debate.\n\nThe central feature of the bill is a National Tribunals Commission. The Commission would oversee the appointment, administration and functioning of 16 tribunals and authorities across the country. These include the Central Administrative Tribunal, the State Administrative Tribunals, the Securities Appellate Tribunal and the Debts Recovery Tribunal. The Commission would conduct the selection process for filling vacancies in tribunals, review the performance of tribunals, and oversee inquiries into complaints against the conduct of chairpersons or members of tribunals.\n\nThe Commission would also develop and maintain a National Tribunals Data Grid, a database covering the tribunals it oversees. The Commission is thus responsible for both the selection of members and the maintenance of records on tribunals.\n\nThe Commission would have a chairperson, two judicial members and two technical members. The chairperson must be a Judge of the Supreme Court or a Chief Justice of a High Court. Appointments to the Commission rest with the Central Government, which must consult the Chief Justice of India before appointing the chairperson and the judicial members.\n\nThe legislation follows a judgment of the Supreme Court in the Madras Bar Association case. The Court struck down certain provisions of the 2021 Act, holding that they were inconsistent with the principles of judicial independence and the separation of powers. The Court also called for an independent National Tribunals Commission with professional expertise and a transparent oversight mechanism for the appointment and administration of tribunals.\n\nThe government has said that the bill does not change the jurisdiction of any tribunal. The bill seeks to give effect to these directions. Under the bill, the Commission will be created by statute, which fixes its composition, functions and selection process in law. The Court had said that the appointment and administration of tribunals should be overseen by an independent body, and the bill is the government's legislative response to that position.",
+   "sources": [
+    "https://www.barandbench.com/news/law-policy/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals",
+    "https://www.moneylife.in/article/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals/81305.html",
+    "https://www.livelaw.in/top-stories/lok-sabha-passes-tribunals-reforms-bill-2026-without-debate-545083",
+    "https://www.livelaw.in/news-updates/monsoon-session-parliament-2026-12-bills-passed-lok-sabha-rajya-sabha-545997",
+    "https://www.governancenow.com/news/regular-story/monsoon-session-of-parliament-adjourns-sine-die",
+    "https://prsindia.org/billtrack/the-tribunals-reforms-bill-2026",
+    "https://www.scconline.com/blog/?p=392972",
+    "https://supremetoday.ai/lok-sabha-passes-tribunals-reforms-bill-2026-establishing-national-tribunals-commission-after-supreme-court-ruling-20260810053",
+    "https://thewire.in/government/rajya-sabha-passes-bill-to-set-up-national-tribunal-commission-amid-opposition-walkout",
+    "https://www.etvbharat.com/en/bharat/parliament-passes-tribunals-reforms-bill-2026-enn26081104883",
+    "https://deccanherald.com/india/parliament-passes-tribunals-reforms-bill-2026-govt-says-no-changes-in-jurisdiction-of-tribunals-4107141",
+    "https://www.barandbench.com/news/tribunals-reforms-act-2026-gets-presidents-assent",
+    "https://newsonair.gov.in/both-houses-of-parliament-adjourned-sine-die-with-passage-of-12-bills-during-monsoon-session/"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Under which Article of the Constitution can Parliament and the state legislatures provide for tribunals to adjudicate disputes relating to matters such as taxation?",
+     "options": [
+      "Article 124",
+      "Article 323B",
+      "Article 368",
+      "Article 323A"
+     ],
+     "answer": 1,
+     "explanation": "Article 323B, inserted by the 42nd Amendment in 1976, lists taxation first among the matters for which tribunals may be set up. Article 323A deals with service disputes of public servants, and Articles 124 and 368 deal with the Supreme Court and constitutional amendments respectively.",
+     "source": "https://www.constitutionofindia.net/articles/article-323b-tribunals-for-other-matters/ ; https://www.gktoday.in/article-323b/ ; https://vajiramandravi.com/current-affairs/part-14a-of-indian-constitution/"
+    },
+    {
+     "type": "direct",
+     "q": "Under Article 217 of the Constitution, a permanent Judge of a High Court holds office until attaining what age?",
+     "options": [
+      "65 years",
+      "70 years",
+      "60 years",
+      "62 years"
+     ],
+     "answer": 3,
+     "explanation": "Article 217(1) provides that a permanent High Court judge holds office until attaining the age of 62 years. Additional and acting judges are governed by Article 224.",
+     "source": "https://www.constitutionofindia.net/articles/article-217-appointment-and-conditions-of-the-office-of-a-/ ; https://www.constitution.org/1-Constitution/cons/india/tamnd15.htm ; https://PRSINDIA.org/files/bills_acts/bills_parliament/2010/Constitution_114.pdf"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 76",
+      "II. Article 148",
+      "III. Article 280",
+      "IV. Article 324"
+     ],
+     "list2": [
+      "A. Attorney General of India",
+      "B. Finance Commission",
+      "C. Comptroller and Auditor-General of India",
+      "D. Election Commission"
+     ],
+     "options": [
+      "I-B, II-D, III-A, IV-C",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-B, III-C, IV-A",
+      "I-A, II-C, III-B, IV-D"
+     ],
+     "answer": 3,
+     "explanation": "Article 76 provides for the Attorney General of India, Article 148 for the Comptroller and Auditor-General, Article 280 for the Finance Commission and Article 324 for the Election Commission.",
+     "source": "https://www.clearias.com/constitutional-bodies/ ; https://vajiramandravi.com/upsc-exam/constitutional-bodies/ ; https://www.constitutionofindia.net/articles/article-76-attorney-general-for-india/ ; https://www.constitutionofindia.net/articles/article-324-superintendence-direction-and-control-of-elections-to-be-vested-in-an-election-commission/"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Tribunals Reforms Bill, 2026 was passed by the Lok Sabha on 10 August 2026 by voice vote.",
+     "reason": "Under Article 109 of the Constitution, a Money Bill may be introduced in the Rajya Sabha.",
+     "answer": 2,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "The assertion is true: the Lok Sabha passed the bill by voice vote on 10 August 2026. The reason is false: Article 109(1) bars a Money Bill from being introduced in the Rajya Sabha, so such a bill must begin in the Lok Sabha.",
+     "source": "https://www.barandbench.com/news/law-policy/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals ; https://www.livelaw.in/top-stories/lok-sabha-passes-tribunals-reforms-bill-2026-without-debate-545083 ; https://unacademy.com/content/upsc/study-material/general-awareness-2/article-109-special-procedure-in-respect-of-money-bills/ ; https://www.pmfias.com/money-bill-procedure-parliament-pyq-2024/"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. In L. Chandra Kumar v. Union of India (1997), the Supreme Court held that decisions of tribunals remain subject to the writ jurisdiction of the High Courts under Articles 226 and 227.",
+      "2. Under Article 72, the Vice-President of India may grant pardons and suspend, remit or commute sentences.",
+      "3. Article 21A guarantees free and compulsory education to all children in the age group of six to fourteen years.",
+      "4. Under Article 143, the President may seek the advisory opinion of the Supreme Court on a question of law or fact of public importance."
+     ],
+     "mode": "incorrect",
+     "answer": 0,
+     "explanation": "Only one statement is incorrect. Statement 2 is wrong because the pardoning power under Article 72 belongs to the President, not the Vice-President. Statements 1, 3 and 4 are correct.",
+     "source": "https://manupatracademy.com/LegalPost/MANU_SC_0261_1997 ; https://future.indiankanoon.org/doc/1266659 ; https://iasbaba.com/2022/07/article-72/ ; https://www.constitutionofindia.net/constitution_of_india/the_union/articles/Article%2072 ; https://www.education.gov.in/en/fundamental_rights_article-21A ; https://law.drishtiias.com/to-the-point/ttp-constitution-of-india/right-to-education-under-article-21a ; https://www.scconline.com/blog/post/2023/05/12/analysis-of-article-143-of-the-constitution-of-india-legal-research-legal-news-updates/ ; https://www.constitutionofindia.net/constitution_of_india/the_union/articles/Article%20143"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. The Supreme Court (Number of Judges) Amendment Bill, 2026 raises the sanctioned strength of the Supreme Court from 34 to 38, including the Chief Justice of India.",
+      "II. Under Article 124(1), Parliament may by law prescribe a larger number of Judges for the Supreme Court than the number fixed in the Constitution.",
+      "III. Under Article 53, the executive power of the Union is vested in the Vice-President."
+     ],
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "All of the above"
+     ],
+     "answer": 0,
+     "explanation": "Statements I and II are correct. Statement III is incorrect because Article 53 vests the executive power of the Union in the President, not the Vice-President.",
+     "source": "https://www.livelaw.in/amp/top-stories/president-grants-assent-to-law-increasing-strength-of-supreme-court-judges-to-38-545405 ; https://www.uniindia.com/news/india/parliament-clears-bill-to-raise-supreme-court-strength-to-38-judges/3933479.html ; https://www.barandbench.com/news/lok-sabha-passes-bill-to-increase-supreme-court-judge-strength-to-38 ; https://www.constitutionofindia.net/articles/article-124-establishment-and-constitution-of-supreme-court/ ; https://www.constitutionofindia.net/articles/article-53-executive-power-of-the-union/ ; https://unacademy.com/content/a-brief-understanding-of-article-53/"
+    }
+   ]
+  },
+  {
+   "title": "UN General Assembly's 81st Session",
+   "topic_tags": [
+    "UN General Assembly",
+    "81st session",
+    "General Debate 2026",
+    "Security Council",
+    "ICJ",
+    "UN Charter Articles 7, 23, 27, 92, 97, 109",
+    "GA President election rule 30"
+   ],
+   "slot": "T04P5",
+   "status": "complete",
+   "text": "The 81st session of the United Nations General Assembly opened at UN headquarters in New York on 8 September 2026. The 193-member body is led by a president for each session, and the president for this session, Khalilur Rahman, Bangladesh's foreign minister, was elected on 2 June 2026. He defeated Andreas Kakouris of Cyprus by 99 votes to 91 in a secret ballot that was described as a tight race, with 190 ballots cast. Cyprus had put forward Kakouris as its candidate for the post. The post rotated to the Asia-Pacific Group for this session, and Rahman will preside over the Assembly's proceedings for the year ahead.\n\nThe annual General Debate, in which heads of state, heads of government and ministers address the Assembly, ran from 22 to 28 September 2026. It opened on Tuesday, 22 September, and closed on Monday, 28 September. A total of 194 delegations took part. Speakers included 113 heads of state or government, one crown prince, 11 vice presidents, seven deputy prime ministers and 48 ministers. The debate was held under the theme \"Restoring Trust\", which Rahman said ran through many of the speeches. United States President Donald Trump was scheduled to address the Assembly on the opening day, and Secretary-General Antonio Guterres also delivered his final General Debate address as Secretary-General.\n\nIn his closing remarks, delivered on the last day of the debate, Rahman tied trust to reform of the United Nations. He called for a meaningful and representative reform that would let the organisation rebuild confidence and deliver for everyone. He also said that artificial intelligence, which had been a relatively peripheral issue in earlier General Assembly debates, became a major focus of this year's discussions. He urged countries to ensure that technological change serves humanity, and he called for renewed commitment to peace, sustainable development and human rights.\n\nWars were at the centre of the opening-day agenda, alongside artificial intelligence and the process of choosing a successor to Guterres. Guterres's second term ends on 31 December 2026. Later in September, the Assembly also adopted a declaration on sea-level rise at a high-level meeting held alongside the session.\n\nIndia's External Affairs Minister, S. Jaishankar, formally launched India's campaign for a non-permanent seat on the Security Council for the 2028-29 term at UN headquarters in New York in July 2026. The election for the seat is scheduled for June 2027.\n\nMeanwhile, France held the rotating presidency of the Security Council for September 2026. The month saw the opening of the General Assembly's 81st session on 8 September, followed by the Assembly's high-level week, when world leaders gather in New York to address the session.",
+   "sources": [
+    "https://www.aljazeera.com/amp/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race",
+    "https://www.app.com.pk/?p=1219424",
+    "https://un.org/en/ga/81/meetings",
+    "https://news.cgtn.com/news/2026-09-29/UN-General-Assembly-concludes-General-Debate-1QPcgWktrqM/p.html",
+    "https://www.sharesansar.com/newsdetail/unga-81st-session-general-debate-concludes-with-call-to-restore-trust-2026-09-29",
+    "https://qna.org.qa/en/News-Area/News/2026-9/22/un-unga-81st-session-general-debate-kicks-off",
+    "https://en.mercopress.com/2026/09/22/un-general-debate-opens-with-wars-artificial-intelligence-and-the-guterres-succession",
+    "https://www.bernama.com/en/world/news.php?id=2610546",
+    "https://sdg.iisd.org/news/update-on-selection-and-appointment-of-new-un-secretary-general/",
+    "https://en.wikipedia.org/wiki/2026_United_Nations_Secretary-General_selection",
+    "https://www.downtoearth.org.in/climate-change/un-adopts-first-declaration-on-sea-level-rise-backs-continued-statehood-of-island-nations",
+    "https://wmo.int/fr/node/39036",
+    "https://ianslive.in/india-pursues-parallel-bid-for-unsc-launching-candidature-for-election-while-campaigning-for-permanent-seat--20260713203603",
+    "https://www.zee5.com/articles/india-announces-candidature-for-unsc-membership-for-2028-29-term",
+    "https://peacekeeping.un.org/en/node/51307",
+    "https://un.org/securitycouncil/en/content/current-members",
+    "https://www.un.org/securitycouncil/content/voting-system",
+    "https://www.un.org/en/about-us/un-charter/chapter-5",
+    "https://www.un.org/en/node/125505",
+    "https://www.icj-cij.org/en/charter-of-the-united-nations",
+    "https://www.un.org/en/ga/about/ropga/president.shtml",
+    "https://www.dhakatribune.com/bangladesh/foreign-affairs/411554/bangladesh-cyprus-compete-for-unga-presidency-on",
+    "https://policy.un.org/en/accountability/un-charter",
+    "https://research.un.org/en/docs/uncharter/drafting",
+    "https://www.icj-cij.org/en/members",
+    "https://icj-cij.org/node/6",
+    "https://en.wikipedia.org/wiki/2023_International_Court_of_Justice_judges_election",
+    "https://www.onmanorama.com/news/world/2023/11/10/international-court-of-justice-icj-explained.amp.html",
+    "https://www.securitycouncilreport.org/research-reports/lookup-c-glkwlemtisg-b-1426023.php",
+    "https://www.un.org/pga/80/sg-selection/"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "On which date did the Charter of the United Nations enter into force?",
+     "options": [
+      "26 June 1945",
+      "10 January 1946",
+      "24 October 1945",
+      "15 October 1945"
+     ],
+     "answer": 2,
+     "explanation": "The Charter was opened for signature in San Francisco on 26 June 1945 and entered into force on 24 October 1945, under Article 110, after ratification by the five permanent members and a majority of the other signatories. 26 June 1945 is the opening-for-signature date and 15 October 1945 is the date Poland signed, so neither is the entry-into-force date.",
+     "source": "https://research.un.org/en/docs/uncharter/drafting ; https://policy.un.org/en/accountability/un-charter ; https://en.wikipedia.org/wiki/Charter_of_the_United_Nations"
+    },
+    {
+     "type": "direct",
+     "q": "For how many years is a judge of the International Court of Justice elected?",
+     "options": [
+      "Twelve years",
+      "Five years",
+      "Nine years",
+      "Six years"
+     ],
+     "answer": 2,
+     "explanation": "The ICJ has 15 judges, each elected to a nine-year term by the General Assembly and the Security Council, with one-third of the bench elected every three years.",
+     "source": "https://icj-cij.org/node/6 ; https://www.icj-cij.org/en/members ; https://en.wikipedia.org/wiki/2023_International_Court_of_Justice_judges_election"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 7 of the Charter",
+      "II. Article 92 of the Charter",
+      "III. Article 97 of the Charter",
+      "IV. Article 109 of the Charter"
+     ],
+     "list2": [
+      "A. Names the principal organs of the United Nations",
+      "B. Describes the International Court of Justice as the principal judicial organ",
+      "C. Makes the Secretary-General the chief administrative officer of the Organization",
+      "D. Provides for a general conference to review the Charter"
+     ],
+     "options": [
+      "I-B, II-A, III-D, IV-C",
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-A, III-B, IV-D",
+      "I-A, II-C, III-B, IV-D"
+     ],
+     "answer": 1,
+     "explanation": "Article 7 lists the six principal organs; Article 92 makes the ICJ the principal judicial organ; Article 97 makes the Secretary-General the chief administrative officer; Article 109 provides for a general conference to review the Charter.",
+     "source": "https://www.icj-cij.org/en/charter-of-the-united-nations ; https://www.un.org/en/node/125505 ; https://www.securitycouncilreport.org/research-reports/lookup-c-glkwlemtisg-b-1426023.php"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Security Council elects the President of the General Assembly for each session.",
+     "reason": "The General Assembly elects its President at least three months before the opening of the session the President will preside over.",
+     "answer": 3,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "The assertion is false: the General Assembly, not the Security Council, elects its President. The reason is true: Rule 30 of the Assembly's rules of procedure requires the election at least three months before the session opens.",
+     "source": "https://www.un.org/en/ga/about/ropga/president.shtml ; https://www.dhakatribune.com/bangladesh/foreign-affairs/411554/bangladesh-cyprus-compete-for-unga-presidency-on"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. A non-permanent member of the Security Council may be re-elected to the Council immediately after completing its two-year term.",
+      "II. A candidate for non-permanent membership of the Security Council must obtain a two-thirds majority of the members present and voting in the General Assembly."
+     ],
+     "answer": 1,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "Statement I is false: under Article 23 a retiring non-permanent member is not eligible for immediate re-election. Statement II is true: election requires a two-thirds majority of members present and voting in the General Assembly. Only II is correct.",
+     "source": "https://www.un.org/en/about-us/un-charter/chapter-5 ; https://peacekeeping.un.org/en/node/51307"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. On a procedural matter, the Security Council takes a decision with nine affirmative votes, without requiring the concurring votes of the permanent members.",
+      "II. On a non-procedural matter, a Security Council decision needs nine affirmative votes including the concurring votes of the permanent members.",
+      "III. The five permanent members of the Security Council are elected by the General Assembly for two-year terms."
+     ],
+     "options": [
+      "II and III only",
+      "I and III only",
+      "I and II only",
+      "All of the above"
+     ],
+     "answer": 2,
+     "truth": [
+      true,
+      true,
+      false
+     ],
+     "explanation": "Statements I and II are correct under Article 27: procedural decisions need nine votes, while non-procedural decisions also need the concurring votes of the permanent members. Statement III is false because the permanent members are named in the Charter and are not elected by the General Assembly.",
+     "source": "https://www.un.org/securitycouncil/content/voting-system ; https://un.org/securitycouncil/en/content/current-members"
+    }
+   ]
+  }
+ ]
+}

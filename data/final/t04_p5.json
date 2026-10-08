@@ -1,0 +1,147 @@
+{
+ "title": "UN General Assembly's 81st Session",
+ "topic_tags": [
+  "UN General Assembly",
+  "81st session",
+  "General Debate 2026",
+  "Security Council",
+  "ICJ",
+  "UN Charter Articles 7, 23, 27, 92, 97, 109",
+  "GA President election rule 30"
+ ],
+ "slot": "T04P5",
+ "status": "complete",
+ "text": "The 81st session of the United Nations General Assembly opened at UN headquarters in New York on 8 September 2026. The 193-member body is led by a president for each session, and the president for this session, Khalilur Rahman, Bangladesh's foreign minister, was elected on 2 June 2026. He defeated Andreas Kakouris of Cyprus by 99 votes to 91 in a secret ballot that was described as a tight race, with 190 ballots cast. Cyprus had put forward Kakouris as its candidate for the post. The post rotated to the Asia-Pacific Group for this session, and Rahman will preside over the Assembly's proceedings for the year ahead.\n\nThe annual General Debate, in which heads of state, heads of government and ministers address the Assembly, ran from 22 to 28 September 2026. It opened on Tuesday, 22 September, and closed on Monday, 28 September. A total of 194 delegations took part. Speakers included 113 heads of state or government, one crown prince, 11 vice presidents, seven deputy prime ministers and 48 ministers. The debate was held under the theme \"Restoring Trust\", which Rahman said ran through many of the speeches. United States President Donald Trump was scheduled to address the Assembly on the opening day, and Secretary-General Antonio Guterres also delivered his final General Debate address as Secretary-General.\n\nIn his closing remarks, delivered on the last day of the debate, Rahman tied trust to reform of the United Nations. He called for a meaningful and representative reform that would let the organisation rebuild confidence and deliver for everyone. He also said that artificial intelligence, which had been a relatively peripheral issue in earlier General Assembly debates, became a major focus of this year's discussions. He urged countries to ensure that technological change serves humanity, and he called for renewed commitment to peace, sustainable development and human rights.\n\nWars were at the centre of the opening-day agenda, alongside artificial intelligence and the process of choosing a successor to Guterres. Guterres's second term ends on 31 December 2026. Later in September, the Assembly also adopted a declaration on sea-level rise at a high-level meeting held alongside the session.\n\nIndia's External Affairs Minister, S. Jaishankar, formally launched India's campaign for a non-permanent seat on the Security Council for the 2028-29 term at UN headquarters in New York in July 2026. The election for the seat is scheduled for June 2027.\n\nMeanwhile, France held the rotating presidency of the Security Council for September 2026. The month saw the opening of the General Assembly's 81st session on 8 September, followed by the Assembly's high-level week, when world leaders gather in New York to address the session.",
+ "sources": [
+  "https://www.aljazeera.com/amp/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race",
+  "https://www.app.com.pk/?p=1219424",
+  "https://un.org/en/ga/81/meetings",
+  "https://news.cgtn.com/news/2026-09-29/UN-General-Assembly-concludes-General-Debate-1QPcgWktrqM/p.html",
+  "https://www.sharesansar.com/newsdetail/unga-81st-session-general-debate-concludes-with-call-to-restore-trust-2026-09-29",
+  "https://qna.org.qa/en/News-Area/News/2026-9/22/un-unga-81st-session-general-debate-kicks-off",
+  "https://en.mercopress.com/2026/09/22/un-general-debate-opens-with-wars-artificial-intelligence-and-the-guterres-succession",
+  "https://www.bernama.com/en/world/news.php?id=2610546",
+  "https://sdg.iisd.org/news/update-on-selection-and-appointment-of-new-un-secretary-general/",
+  "https://en.wikipedia.org/wiki/2026_United_Nations_Secretary-General_selection",
+  "https://www.downtoearth.org.in/climate-change/un-adopts-first-declaration-on-sea-level-rise-backs-continued-statehood-of-island-nations",
+  "https://wmo.int/fr/node/39036",
+  "https://ianslive.in/india-pursues-parallel-bid-for-unsc-launching-candidature-for-election-while-campaigning-for-permanent-seat--20260713203603",
+  "https://www.zee5.com/articles/india-announces-candidature-for-unsc-membership-for-2028-29-term",
+  "https://peacekeeping.un.org/en/node/51307",
+  "https://un.org/securitycouncil/en/content/current-members",
+  "https://www.un.org/securitycouncil/content/voting-system",
+  "https://www.un.org/en/about-us/un-charter/chapter-5",
+  "https://www.un.org/en/node/125505",
+  "https://www.icj-cij.org/en/charter-of-the-united-nations",
+  "https://www.un.org/en/ga/about/ropga/president.shtml",
+  "https://www.dhakatribune.com/bangladesh/foreign-affairs/411554/bangladesh-cyprus-compete-for-unga-presidency-on",
+  "https://policy.un.org/en/accountability/un-charter",
+  "https://research.un.org/en/docs/uncharter/drafting",
+  "https://www.icj-cij.org/en/members",
+  "https://icj-cij.org/node/6",
+  "https://en.wikipedia.org/wiki/2023_International_Court_of_Justice_judges_election",
+  "https://www.onmanorama.com/news/world/2023/11/10/international-court-of-justice-icj-explained.amp.html",
+  "https://www.securitycouncilreport.org/research-reports/lookup-c-glkwlemtisg-b-1426023.php",
+  "https://www.un.org/pga/80/sg-selection/"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "On which date did the Charter of the United Nations enter into force?",
+   "options": [
+    "26 June 1945",
+    "24 October 1945",
+    "15 October 1945",
+    "10 January 1946"
+   ],
+   "answer": 1,
+   "explanation": "The Charter was opened for signature in San Francisco on 26 June 1945 and entered into force on 24 October 1945, under Article 110, after ratification by the five permanent members and a majority of the other signatories. 26 June 1945 is the opening-for-signature date and 15 October 1945 is the date Poland signed, so neither is the entry-into-force date.",
+   "source": "https://research.un.org/en/docs/uncharter/drafting ; https://policy.un.org/en/accountability/un-charter ; https://en.wikipedia.org/wiki/Charter_of_the_United_Nations"
+  },
+  {
+   "type": "direct",
+   "q": "For how many years is a judge of the International Court of Justice elected?",
+   "options": [
+    "Five years",
+    "Six years",
+    "Nine years",
+    "Twelve years"
+   ],
+   "answer": 2,
+   "explanation": "The ICJ has 15 judges, each elected to a nine-year term by the General Assembly and the Security Council, with one-third of the bench elected every three years.",
+   "source": "https://icj-cij.org/node/6 ; https://www.icj-cij.org/en/members ; https://en.wikipedia.org/wiki/2023_International_Court_of_Justice_judges_election"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Article 7 of the Charter",
+    "II. Article 92 of the Charter",
+    "III. Article 97 of the Charter",
+    "IV. Article 109 of the Charter"
+   ],
+   "list2": [
+    "A. Names the principal organs of the United Nations",
+    "B. Describes the International Court of Justice as the principal judicial organ",
+    "C. Makes the Secretary-General the chief administrative officer of the Organization",
+    "D. Provides for a general conference to review the Charter"
+   ],
+   "options": [
+    "I-A, II-B, III-C, IV-D",
+    "I-B, II-A, III-D, IV-C",
+    "I-A, II-C, III-B, IV-D",
+    "I-C, II-A, III-B, IV-D"
+   ],
+   "answer": 0,
+   "explanation": "Article 7 lists the six principal organs; Article 92 makes the ICJ the principal judicial organ; Article 97 makes the Secretary-General the chief administrative officer; Article 109 provides for a general conference to review the Charter.",
+   "source": "https://www.icj-cij.org/en/charter-of-the-united-nations ; https://www.un.org/en/node/125505 ; https://www.securitycouncilreport.org/research-reports/lookup-c-glkwlemtisg-b-1426023.php"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "The Security Council elects the President of the General Assembly for each session.",
+   "reason": "The General Assembly elects its President at least three months before the opening of the session the President will preside over.",
+   "answer": 3,
+   "truth": [
+    false,
+    true
+   ],
+   "explanation": "The assertion is false: the General Assembly, not the Security Council, elects its President. The reason is true: Rule 30 of the Assembly's rules of procedure requires the election at least three months before the session opens.",
+   "source": "https://www.un.org/en/ga/about/ropga/president.shtml ; https://www.dhakatribune.com/bangladesh/foreign-affairs/411554/bangladesh-cyprus-compete-for-unga-presidency-on"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. A non-permanent member of the Security Council may be re-elected to the Council immediately after completing its two-year term.",
+    "II. A candidate for non-permanent membership of the Security Council must obtain a two-thirds majority of the members present and voting in the General Assembly."
+   ],
+   "answer": 1,
+   "truth": [
+    false,
+    true
+   ],
+   "explanation": "Statement I is false: under Article 23 a retiring non-permanent member is not eligible for immediate re-election. Statement II is true: election requires a two-thirds majority of members present and voting in the General Assembly. Only II is correct.",
+   "source": "https://www.un.org/en/about-us/un-charter/chapter-5 ; https://peacekeeping.un.org/en/node/51307"
+  },
+  {
+   "type": "statement_multi",
+   "statements": [
+    "I. On a procedural matter, the Security Council takes a decision with nine affirmative votes, without requiring the concurring votes of the permanent members.",
+    "II. On a non-procedural matter, a Security Council decision needs nine affirmative votes including the concurring votes of the permanent members.",
+    "III. The five permanent members of the Security Council are elected by the General Assembly for two-year terms."
+   ],
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "All of the above"
+   ],
+   "answer": 0,
+   "truth": [
+    true,
+    true,
+    false
+   ],
+   "explanation": "Statements I and II are correct under Article 27: procedural decisions need nine votes, while non-procedural decisions also need the concurring votes of the permanent members. Statement III is false because the permanent members are named in the Charter and are not elected by the General Assembly.",
+   "source": "https://www.un.org/securitycouncil/content/voting-system ; https://un.org/securitycouncil/en/content/current-members"
+  }
+ ]
+}

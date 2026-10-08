@@ -1,0 +1,272 @@
+{
+ "passage_file": "data/draft/t04_p5.json",
+ "passage_claims": [
+  {
+   "claim": "Rahman elected PGA 2 June 2026, 99-91 over Kakouris, 190 ballots, Asia-Pacific rotation",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.aljazeera.com/amp/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race",
+    "https://www.app.com.pk/?p=1219424",
+    "https://www.wam.ae/en/article/c0iu155-general-assembly-elects-bangladeshs-foreign"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "81st session opened 8 Sept 2026",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.un.org/en/ga/81",
+    "https://www.metrotvnews.com/read/N9nCyZd2-un-general-assembly-session-officially-opens-foreign-minister-sugiono-leads-indonesian-delegation"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "General Debate 22-28 Sept; 194 delegations; 113 heads of state/govt, 1 crown prince, 11 VPs, 7 deputy PMs, 48 ministers; theme Restoring Trust",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://news.cgtn.com/news/2026-09-29/UN-General-Assembly-concludes-General-Debate-1QPcgWktrqM/p.html",
+    "https://www.sharesansar.com/newsdetail/unga-81st-session-general-debate-concludes-with-call-to-restore-trust-2026-09-29",
+    "https://unb.com.bd/category/World/unga-81-general-debate-concludes-with-global-priorities-in-focus/196552"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Trump addressed the Assembly on opening day",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://www.outlookindia.com/international/unga-2026-trump-guterres-palestine-and-the-race-for-the-next-un-chief",
+    "https://www.business-standard.com/world-news/un-general-assembly-2026-who-is-speaking-agenda-126092200895_1.html"
+   ],
+   "note": "Only previews found (scheduled); reworded to 'was scheduled to address'"
+  },
+  {
+   "claim": "Guterres delivered remarks 'that day' (opening day)",
+   "verdict": "DISPUTED",
+   "sources": [
+    "https://www.ewn.co.za/2026/09/23/antonio-guterres-delivers-final-general-debate-as-un-secretary-general",
+    "https://theeastafrican.co.ke/tea/news/world/guterres-says-un-without-permanent-african-seat-unjust-5605300"
+   ],
+   "note": "Date 22 vs 23 Sept unclear; reworded to final General Debate address without date"
+  },
+  {
+   "claim": "Rahman closing remarks: meaningful, representative reform; AI moved from margins to major focus; technology to serve humanity",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.sanews.gov.za/node/84496",
+    "https://www.sharesansar.com/newsdetail/unga-81st-session-general-debate-concludes-with-call-to-restore-trust-2026-09-29",
+    "https://news.cgtn.com/news/2026-09-29/UN-General-Assembly-concludes-General-Debate-1QPcgWktrqM/p.html"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Wars, AI and Guterres succession central to opening day; Guterres term ends 31 Dec 2026",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://en.mercopress.com/2026/09/22/un-general-debate-opens-with-wars-artificial-intelligence-and-the-guterres-succession",
+    "https://www.outlookindia.com/international/unga-2026-trump-guterres-palestine-and-the-race-for-the-next-un-chief",
+    "https://gulfnews.com/world/americas/un-general-assembly-2026-trump-iran-war-gaza-ukraine-and-8-things-to-watch-1.500682887"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "GA adopted declaration on sea-level rise in late September at a high-level meeting",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.downtoearth.org.in/climate-change/un-adopts-first-declaration-on-sea-level-rise-backs-continued-statehood-of-island-nations",
+    "https://www.wam.ae/en/article/c2fav1u-world-leaders-approve-declaration-sea-level-rise",
+    "https://wmo.int/fr/node/39036"
+   ],
+   "note": "Exact date 24 vs 25 Sept not stated in passage"
+  },
+  {
+   "claim": "Jaishankar scheduled to speak 26 Sept afternoon",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://www.deccanchronicle.com/world/eam-s-jaishankar-to-address-annual-high-level-unga-session-on-september-26-1984991"
+   ],
+   "note": "All coverage is the same PTI wire; sentence removed"
+  },
+  {
+   "claim": "India campaign for UNSC 2028-29 launched July 2026 by Jaishankar at UN HQ New York",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
+    "https://thefinancialexpress.com.bd/asia/india-launches-campaign-for-non-permanent-un-security-council-seat",
+    "https://ianslive.in/india-pursues-parallel-bid-for-unsc-launching-candidature-for-election-while-campaigning-for-permanent-seat--20260713203603"
+   ],
+   "note": "Launch date 13 vs 14 July varies; passage says July only"
+  },
+  {
+   "claim": "UNSC election scheduled June 2027",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2027_United_Nations_Security_Council_election",
+    "https://thefinancialexpress.com.bd/asia/india-launches-campaign-for-non-permanent-un-security-council-seat"
+   ],
+   "note": "Thin: Wikipedia plus one news report"
+  },
+  {
+   "claim": "France held UNSC presidency Sept 2026; month included GA opening and high-level week",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://press.un.org/en/2026/260901_sc.doc.htm",
+    "https://en.apa.az/europe/france-assumes-un-security-council-presidency-for-september-522497"
+   ],
+   "note": "apa.az content only seen in search listing"
+  },
+  {
+   "claim": "Council programme of work dated 31 Aug listed GA opening 8 Sept",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "Not found; sentence reworded"
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "24 October 1945",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://research.un.org/en/unmembers/founders",
+    "https://en.wikipedia.org/wiki/Charter_of_the_United_Nations",
+    "https://journal.probeinternational.org/1945/10/24/charter-united-nations/"
+   ],
+   "fix": null,
+   "note": "Poland signed 15 Oct 1945 confirmed; source field updated"
+  },
+  {
+   "index": 2,
+   "verdict": "OK",
+   "my_answer": "Nine years",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.icj-cij.org/en/members",
+    "https://en.wikipedia.org/wiki/International_Court_of_Justice",
+    "https://news.un.org/en/story/2017/11/636752-general-assembly-security-council-fill-final-vacancy-world-court"
+   ],
+   "fix": null,
+   "note": ""
+  },
+  {
+   "index": 3,
+   "verdict": "DROP",
+   "my_answer": "Germany",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [],
+   "fix": null,
+   "note": "Correct but trivial and overlaps Q8 (P5); dropped to reach six, not searched"
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "I-A, II-B, III-C, IV-D",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.icj-cij.org/en/charter-of-the-united-nations",
+    "https://www.un.org/en/node/125514",
+    "https://hrlibrary.umn.edu/instree/aunchart.htm"
+   ],
+   "fix": null,
+   "note": "Art 7, 92, 97 text seen; Art 109 per ICJ note on amendment (general conference to review Charter)"
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "3 (A false, R true)",
+   "key_answer_correct": true,
+   "truth_values": [
+    false,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.un.org/en/ga/about/ropga/president.shtml",
+    "https://www.aljazeera.com/amp/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race"
+   ],
+   "fix": null,
+   "note": "Rule 30 primary source; GA elects PGA"
+  },
+  {
+   "index": 6,
+   "verdict": "OK",
+   "my_answer": "II only",
+   "key_answer_correct": true,
+   "truth_values": [
+    false,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.un.org/en/ga/62/plenary/election_sc/bkg.shtml",
+    "https://press.un.org/en/2008/ga10768.doc.htm"
+   ],
+   "fix": null,
+   "note": "Both UN primary sources; Art 23 chapter text also cited"
+  },
+  {
+   "index": 7,
+   "verdict": "DROP",
+   "my_answer": "1 incorrect (statement 2)",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.icj-cij.org/en/members"
+   ],
+   "fix": null,
+   "note": "Overlaps Q2 on ICJ; Peace Palace claim not independently checked; dropped"
+  },
+  {
+   "index": 8,
+   "verdict": "FIX",
+   "my_answer": "I and II only",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    false
+   ],
+   "issues": [
+    "AMBIGUOUS"
+   ],
+   "sources": [
+    "https://www.un.org/securitycouncil/en/content/voting-system",
+    "https://research.un.org/en/docs/sc/voting"
+   ],
+   "fix": "Statement II reworded from 'all five permanent members' to 'the permanent members' since abstention counts as concurrence",
+   "note": "Answer unchanged"
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "was among the leaders who addressed the Assembly on the opening day, and Secretary-General Antonio Guterres also delivered remarks that day.",
+   "new": "was scheduled to address the Assembly on the opening day, and Secretary-General Antonio Guterres also delivered his final General Debate address as Secretary-General.",
+   "reason": "Trump delivery unconfirmed; Guterres date disputed"
+  },
+  {
+   "old": ", according to UN-linked reports.",
+   "new": ".",
+   "reason": "hedge removed; claim confirmed"
+  },
+  {
+   "old": "Jaishankar scheduled to address 26 September sentence",
+   "new": "Jaishankar launched India's UNSC campaign in New York in July 2026",
+   "reason": "single wire source replaced with confirmed claim"
+  },
+  {
+   "old": "programme of work dated 31 August sentence",
+   "new": "month saw GA opening on 8 September and high-level week",
+   "reason": "POW unverifiable"
+  }
+ ],
+ "summary": "Six of eight questions kept (Q3 and Q7 dropped for overlap/triviality, Q8 reworded). Passage reworded where claims were single-sourced (Trump, Guterres date, Jaishankar schedule, programme of work). The June 2027 election date rests on Wikipedia plus one news report."
+}
