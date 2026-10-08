@@ -1,0 +1,351 @@
+{
+  "passage_file": "data/draft/t03_p2.json",
+  "passage_claims": [
+    {
+      "claim": "Lee state visit April 19-21 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.newsonair.gov.in/south-korean-president-lee-jae-myung-to-visit-india-from-april-19-21/",
+        "https://www.freepressjournal.in/amp/world/south-korean-president-lee-jae-myung-arrives-in-new-delhi-for-3-day-state-visit"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "First visit to India since taking office June 2025",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.pmindia.gov.in/?p=16831474",
+        "https://en.wikipedia.org/wiki/President_of_South_Korea"
+      ],
+      "note": "PMO says earliest visit by a Korean president after assuming office; office date from Wikipedia only"
+    },
+    {
+      "claim": "Received at airport by MoS Harsh Malhotra; Jaishankar called on him",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://newsonair.gov.in/south-korean-president-lee-jae-myung-to-pay-state-visit-to-india-today/",
+        "https://en.fnnews.com/news/202604200144105538"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Ceremonial welcome at Rashtrapati Bhavan April 20, Murmu",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.presidentofindia.gov.in/node/25396",
+        "https://www.freepressjournal.in/india/south-korean-president-lee-jae-myung-accorded-ceremonial-welcome-at-rashtrapati-bhavan-holds-key-talks-with-pm-modi-to-deepen-strategic-partnership"
+      ],
+      "note": "Murmu welcome confirmed; Modi greeting on arrival and tree planting not confirmed independently, removed"
+    },
+    {
+      "claim": "Talks with Modi at Hyderabad House",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://ianslive.in/pm-narendra-modi-south-korean-president-lee-jae-myung-hold-talks-in-delhi--20260420121742",
+        "https://www.freepressjournal.in/amp/india/south-korean-president-lee-jae-myung-accorded-ceremonial-welcome-at-rashtrapati-bhavan-holds-key-talks-with-pm-modi-to-deepen-strategic-partnership"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Joint Strategic Vision for India-ROK Special Strategic Partnership",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.pmindia.gov.in/?p=16831474",
+        "https://www.drishtiias.com/daily-updates/daily-news-analysis/india-republic-of-korea-strategic-vision-2026-2030/print_manually"
+      ],
+      "note": "Official outcomes list plus independent explainer; exact title consistent"
+    },
+    {
+      "claim": "Shipbuilding/shipping/maritime logistics framework (draft said joint statement) and energy resource security joint statement",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.narendramodi.in/list-of-outcomes-state-visit-of-president-of-republic-of-korea-to-india",
+        "https://www.koreaherald.com/article/10721540"
+      ],
+      "note": "Shipbuilding document is a comprehensive framework; passage reworded. Detail about resilient supply chains/clean energy not verified, reworded"
+    },
+    {
+      "claim": "South Korea joined IPOI and ISA",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.koreatimes.co.kr/amp/opinion/20260421/2-leaders-usher-in-new-era-for-korea-india-relations",
+        "https://www.narendramodi.in/list-of-outcomes-state-visit-of-president-of-republic-of-korea-to-india"
+      ],
+      "note": "Moderate: both reports found via search summaries"
+    },
+    {
+      "claim": "20 MoUs signed at India-Korea Business Forum",
+      "verdict": "DISPUTED",
+      "sources": [
+        "https://www.koreatimes.co.kr/amp/business/companies/20260421/korea-india-sign-20-mous-in-steel-shipbuilding-energy-sectors",
+        "https://www.koreajoongangdaily.com/business/lee-calls-on-korea-india-to-double-trade-through-synergy-in-chips-ai/12516062"
+      ],
+      "note": "Korean outlets say 20, an Indian summary says 16; number removed"
+    },
+    {
+      "claim": "Business forum on April 20 with MoUs in steel, shipbuilding, digital, energy",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.koreatimes.co.kr/amp/business/companies/20260421/korea-india-sign-20-mous-in-steel-shipbuilding-energy-sectors",
+        "https://www.koreajoongangdaily.com/business/lee-calls-on-korea-india-to-double-trade-through-synergy-in-chips-ai/12516062"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "JSW-POSCO 50:50 JV, 6 MTPA greenfield plant in Odisha via Saffron Resources",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://gmk.center/en/news/jsw-steel-and-posco-have-announced-a-joint-venture-to-build-a-steel-plant-in-india/",
+        "https://www.outlookbusiness.com/corporate/jsw-steel-south-koreas-posco-enter-into-jv-pact-to-set-up-6-mtpa-steel-plant-in-odisha"
+      ],
+      "note": "Also NSE filing 17 Apr 2026"
+    },
+    {
+      "claim": "POSCO stake Rs 508.8 crore subject to closing adjustments",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://nsearchives.nseindia.com/corporate/Supriya_17042026135142_Stock_Exchange_Intimation.pdf",
+        "https://www.bigmint.co/insights/detail/india-jsw-steel-joins-hands-with-posco-for-6-mnt-integrated-steel-plant-in-odisha-743088"
+      ],
+      "note": "Primary filing + trade press"
+    },
+    {
+      "claim": "Saffron holds about 887 acres",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://nsearchives.nseindia.com/corporate/Supriya_17042026135142_Stock_Exchange_Intimation.pdf",
+        "https://gmk.center/en/news/jsw-steel-and-posco-have-announced-a-joint-venture-to-build-a-steel-plant-in-india/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Plant commissioning by 2031",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.bigmint.co/insights/detail/india-jsw-steel-joins-hands-with-posco-for-6-mnt-integrated-steel-plant-in-odisha-743088"
+      ],
+      "note": "Only one clear report; removed"
+    },
+    {
+      "claim": "Transaction completion by 31 Dec 2026",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://odisha.plus/2026/04/jsw-steel-posco-jv-odisha-6mtpa-steel-plant/"
+      ],
+      "note": "One report; removed"
+    },
+    {
+      "claim": "JSW and POSCO first signed MoU in October 2024",
+      "verdict": "WRONG",
+      "sources": [
+        "https://www.bigmint.co/insights/detail/india-jsw-steel-joins-hands-with-posco-for-6-mnt-integrated-steel-plant-in-odisha-743088"
+      ],
+      "note": "Bigmint dates the earlier non-binding agreement to August 2025 (cited theweek URL is 2025/08/18); October 2024 unsupported; removed"
+    },
+    {
+      "claim": "Stocker official visit April 14-17",
+      "verdict": "DISPUTED",
+      "sources": [
+        "https://www.uniindia.com/news/india/austria-india-ties/3810676.html",
+        "https://ianslive.in/austrian-chancellor-christian-stocker-arrives-in-india-to-boost-bilateral-ties-strategic-partnership--20260415074910"
+      ],
+      "note": "UNI says 14-18 and Indian govt called it four-day; 14-17 not supported; dates removed"
+    },
+    {
+      "claim": "Stocker first visit to India",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://ianslive.in/austrian-chancellor-christian-stocker-arrives-in-india-to-boost-bilateral-ties-strategic-partnership--20260415074910",
+        "https://www.chronicleindia.in/current-affairs/16498-india-and-austria-sign-multiple-agreements"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "April 16 talks with Modi at Hyderabad House, agreements signed",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.tribuneindia.com/news/world/pm-modi-holds-bilateral-talks-with-austrian-federal-chancellor-stocker-at-hyderabad-house/",
+        "https://www.newsonair.gov.in/austria-chancellor-christian-stocker-begins-official-visit-to-india/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Austria LoIs/agreements: vocational training LoI, defence LoI, audiovisual co-production, FSSAI-AGES MoU",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.pmindia.gov.in/en/news_updates/list-of-outcomes-visit-of-federal-chancellor-of-austria-dr-christian-stocker-to-india/",
+        "https://www.chronicleindia.in/current-affairs/16498-india-and-austria-sign-multiple-agreements"
+      ],
+      "note": ""
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Article 253 (index 1)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-253-legislation-for-giving-effect-to-international-agreements/",
+        "https://constitution.org/1-Constitution/cons/india/p11253.html"
+      ],
+      "fix": null,
+      "note": "Distractors wrong by title/subject."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "2010 (index 2)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://indembassyseoul.gov.in/cepa",
+        "https://prod.iea.org/policies/18726-india-korea-comprehensive-economic-partnership-agreement-ikcepa"
+      ],
+      "fix": null,
+      "note": "Signed 7 Aug 2009, in force 1 Jan 2010."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "Nizam of Hyderabad (index 2)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hyderabad_House",
+        "https://culturenow.org/site/hyderabad-house",
+        "https://www.gktoday.in/hyderabad-house/"
+      ],
+      "fix": null,
+      "note": "Wikipedia and gktoday likely overlap; culturenow independent."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-D, II-B, III-A, IV-C (index 0)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.mea.gov.in/Portal/ForeignRelation/Indo_Feb_07_2020.pdf",
+        "https://unfccc.int/news/international-solar-energy-alliance-launched-at-cop21",
+        "https://www.aiib.org/en/contact/",
+        "https://newsonair.gov.in/pm-modi-launches-global-biofuels-alliance-at-g20-summit-in-new-delhi"
+      ],
+      "fix": null,
+      "note": "Each pairing confirmed by two sources; no other pairing defensible."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "A false, R true (index 3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.iaea.org/node/16956",
+        "https://www.unvienna.org/unvienna/en/multi-lang-link/history/index.html"
+      ],
+      "fix": null,
+      "note": "IAEA is in Vienna; Austria's invitation, 1957."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "II only (index 1)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Declaration_of_Neutrality",
+        "https://www.globalsecurity.org/military/world/europe/at-forrel.htm"
+      ],
+      "fix": null,
+      "note": "Austria not in NATO (PfP only); joined EU 1 Jan 1995."
+    },
+    {
+      "index": 7,
+      "verdict": "DROP",
+      "my_answer": "Only three (index 2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://www.adb.org/contacts/main",
+        "https://constitutionnet.org/news/op-ed-south-koreas-president-should-push-constitutional-amendment-term-limits"
+      ],
+      "fix": null,
+      "note": "Facts appear correct but dropped to keep 6: overlaps Q1 (constitution) and Q4 (bank HQ); Lok Sabha 543 backed mostly by exam-prep sites."
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "I and II only (index 0)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [
+        "AMBIGUOUS"
+      ],
+      "sources": [
+        "https://www.britannica.com/print/article/475252",
+        "https://en.wikipedia.org/wiki/Rajpath"
+      ],
+      "fix": null,
+      "note": "Statement I uses 'Rajpath', renamed Kartavya Path in 2022; dropped to keep 6."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "held talks with Modi at Hyderabad House in New Delhi, after which the two leaders planted a tree to mark the growing partnership.",
+      "new": "held talks with Prime Minister Narendra Modi at Hyderabad House in New Delhi.",
+      "reason": "tree planting unverified"
+    },
+    {
+      "old": "where President Droupadi Murmu and Prime Minister Narendra Modi greeted him.",
+      "new": "from President Droupadi Murmu.",
+      "reason": "Murmu confirmed; Modi greeting not independently confirmed"
+    },
+    {
+      "old": "joint statements on shipbuilding...",
+      "new": "framework for partnership in shipbuilding... and a joint statement on energy",
+      "reason": "official list calls shipbuilding document a framework"
+    },
+    {
+      "old": "20 memorandums",
+      "new": "memorandums",
+      "reason": "15/16/20 disputed"
+    },
+    {
+      "old": "2031 sentence; Dec 31 2026 clause; Oct 2024 MoU sentence",
+      "new": "",
+      "reason": "single-sourced or wrong"
+    },
+    {
+      "old": "from April 14 to 17, 2026",
+      "new": "in April 2026",
+      "reason": "end date disputed"
+    }
+  ],
+  "summary": "6 of 8 questions kept (1-6 OK); 7 and 8 dropped. Passage trimmed of unconfirmed claims, so it is about 385 words, below the 430 target, since no new facts may be added."
+}
