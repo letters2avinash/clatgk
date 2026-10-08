@@ -1,0 +1,104 @@
+{
+  "title": "India tests Agni missiles in May 2026",
+  "topic_tags": [
+    "Defence & security",
+    "missiles",
+    "DRDO",
+    "Agni",
+    "nuclear command"
+  ],
+  "text": "India carried out a flight test of an advanced Agni missile fitted with MIRV technology on 8 May 2026, the Ministry of Defence said in a statement. The launch took place from Dr APJ Abdul Kalam Island, off the coast of Odisha, which hosts the Integrated Test Range, the country's main missile testing complex. The missile carried multiple payloads, each aimed at a different target spread over a large geographical area in the Indian Ocean Region. Telemetry from several ground-based and ship-based stations tracked the entire trajectory, from lift-off until the impact of all payloads. The ministry said all mission objectives were met.\n\nThe missile was developed by DRDO laboratories with the support of industries across the country. Senior DRDO scientists and Indian Army personnel witnessed the trial. Defence Minister Rajnath Singh congratulated DRDO, the Army and the participating industries. He said the test would add a significant capability to the country's defence preparedness in the face of growing threat perceptions. The official statements did not give the missile's range, the number of payloads or the exact target locations.\n\nTwo weeks later, on 22 May 2026, the Ministry announced a second launch. An Agni-1 short-range ballistic missile was test-launched from the Integrated Test Range at Chandipur, Odisha. The trial was carried out under the aegis of the Strategic Forces Command, and the ministry said the launch validated all operational and technical parameters of the missile.\n\nReports on the Agni-1 launch placed the Strategic Forces Command at the centre of India's nuclear command arrangements. Swarajya described it as a critical component of the Nuclear Command Authority. The same report said the May launch followed a similar trial in July 2025, and that the advanced Agni missile with MIRV technology had been tested on 8 May.\n\nThe island that hosted the 8 May trial was named after former President APJ Abdul Kalam, who had served as the first director of the test range. Before the renaming, it was known by a British colonial name. The land was handed to the Defence Research and Development Organisation for missile testing, and a Prithvi missile test landed on the island in 1993. Test ranges on the Odisha coast have since hosted launches of several systems, including the Akash, Prithvi and Agni missiles.\n\nSome details remain unclear. One report dated the Agni-1 launch to 21 May, while most sources give 22 May. Some reports also describe the Chandipur site differently. Both ministry-confirmed dates, however, are consistent across the sources reviewed. The official statements focused on mission outcomes rather than technical specifications, so performance data for both missiles remain limited to what the ministry released.",
+  "sources": [
+    "https://www.drishtiias.com/state-pcs-current-affairs/advanced-agni-missile-with-mirv-technology-successfully-tested-in-odisha/print_manually",
+    "https://www.etvbharat.com/en/bharat/india-conducts-successful-flight-trial-of-advanced-agni-missile-enn26050903923",
+    "https://www.newsonair.gov.in/india-successfully-tests-advanced-agni-missile-with-mirv-capability-from-odisha/",
+    "https://newsonair.gov.in/short-range-ballistic-missile-agni-1-successfully-test-launched-from-chandipur-in-odisha/",
+    "https://www.etvbharat.com/en/bharat/india-successfully-test-launches-agni-1-ballistic-missile-enn26052206438",
+    "https://swarajyamag.com/amp/story/defence/india-successfully-tests-nuclear-capable-agni-1-missile-from-itr-chandipur",
+    "https://en.wikipedia.org/wiki/Abdul_Kalam_Island",
+    "https://www.tribuneindia.com/news/archive/nation/wheeler-island-in-odisha-named-after-kalam-128676"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "In which year was the island that hosted the 8 May 2026 Agni trial renamed Dr APJ Abdul Kalam Island?",
+      "options": [
+        "2003",
+        "2009",
+        "2015",
+        "2019"
+      ],
+      "answer": 2,
+      "explanation": "The island, formerly Wheeler Island, was renamed on 4 September 2015 to honour former President APJ Abdul Kalam.",
+      "source": "https://en.wikipedia.org/wiki/Abdul_Kalam_Island"
+    },
+    {
+      "type": "direct",
+      "q": "On which date was the Strategic Forces Command, which conducted the 22 May 2026 Agni-1 test, created?",
+      "options": [
+        "4 January 2003",
+        "17 August 1999",
+        "25 January 2002",
+        "15 August 2003"
+      ],
+      "answer": 0,
+      "explanation": "The Cabinet Committee on Security approved the creation of the Strategic Forces Command, with a Commander-in-Chief, on 4 January 2003.",
+      "source": "https://en.wikipedia.org/wiki/Strategic_Forces_Command"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Agni-1 test of 22 May 2026 was carried out under the Strategic Forces Command.",
+      "reason": "The Strategic Forces Command is an integrated tri-service command responsible for managing and administering India's strategic forces.",
+      "answer": 0,
+      "explanation": "Both statements are true. The reason explains the assertion: the command that manages the strategic forces is the one that conducted the launch.",
+      "source": "https://en.wikipedia.org/wiki/Strategic_Forces_Command"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Executive Council of the Nuclear Command Authority",
+        "II. Political Council of the Nuclear Command Authority",
+        "III. Dr APJ Abdul Kalam Island",
+        "IV. Agni-I missile"
+      ],
+      "list2": [
+        "A. Chaired by the National Security Adviser",
+        "B. Located in Bhadrak district, Odisha",
+        "C. Single-stage, solid-fuel missile",
+        "D. Chaired by the Prime Minister"
+      ],
+      "options": [
+        "I-A, II-D, III-B, IV-C",
+        "I-D, II-A, III-B, IV-C",
+        "I-A, II-B, III-D, IV-C",
+        "I-B, II-A, III-C, IV-D"
+      ],
+      "answer": 0,
+      "explanation": "The Executive Council is chaired by the National Security Adviser and the Political Council by the Prime Minister. The island lies in Bhadrak district, and Agni-I is a single-stage, solid-fuel missile.",
+      "source": "https://www.globalsecurity.org/wmd/world/india/nuclearcommandauthority.htm"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Agni-I missile was first launched from a road mobile launcher at the Integrated Test Range on Wheeler Island on 25 January 2002.",
+        "II. The Political Council of the Nuclear Command Authority is chaired by the Defence Minister."
+      ],
+      "answer": 0,
+      "explanation": "Statement I is true. Statement II is false: the Political Council is chaired by the Prime Minister, so only I is correct.",
+      "source": "https://en.wikipedia.org/wiki/Agni-I"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. Only the Political Council of the Nuclear Command Authority can authorise the use of nuclear weapons.",
+        "2. The Executive Council of the Nuclear Command Authority is chaired by the Chief of Defence Staff.",
+        "3. The Strategic Forces Command is headed by a Commander-in-Chief.",
+        "4. The Nuclear Command Authority's 2003 framework was approved by the Cabinet Committee on Security on 4 January 2003."
+      ],
+      "mode": "incorrect",
+      "answer": 0,
+      "explanation": "Only statement 2 is incorrect: the Executive Council is chaired by the National Security Adviser. Statements 1, 3 and 4 are correct, so exactly one statement is incorrect.",
+      "source": "https://www.globalsecurity.org/wmd/world/india/nuclearcommandauthority.htm"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+ "title": "Supreme Court warns against AI-generated fake judgments",
+ "topic_tags": [
+  "Supreme Court",
+  "judiciary",
+  "artificial intelligence",
+  "Bar Council of India",
+  "Attorney General",
+  "fake citations",
+  "amicus curiae"
+ ],
+ "text": "The Supreme Court of India has treated reliance on non-existent, artificial intelligence-generated judgments as a serious judicial lapse. On 27 February 2026, the Court said that a decision resting on such fake case law is not merely an error in decision-making but amounts to misconduct, and that legal consequences would follow.\n\nThe case began as an ordinary civil dispute. It arose from an injunction suit over a property, in which a trial court passed an order in August 2025 dismissing the defendants' challenge to a report filed by an Advocate Commissioner. That order relied on four decisions which the petitioners said did not exist and had been generated using artificial intelligence. The High Court, after noting that the judgments were AI-generated, went on to decide the matter on its merits, dismissed the civil revision petition, and issued a word of caution.\n\nThe Supreme Court's order went further. Pending disposal of the petition before it, the Court stayed any reliance on the Advocate Commissioner's report and directed that the trial court shall not proceed on the basis of that report. The Court issued notice to the Attorney General for India, the Solicitor General of India and the Bar Council of India, asking for their responses on the issue.\n\nTo assist it in examining the question in detail, the Court appointed senior advocate Shyam Divan as amicus curiae. The notice was made returnable on 10 March 2026, when the matter was listed for further hearing.\n\nThe case puts a basic question before the highest court in the country: how a citation is verified before it is relied upon in a judicial decision, and who bears responsibility when a citation turns out to be fictitious. Judges depend on counsel and on the record placed before them, and the Court's order makes clear that the source of an authority matters as much as the reasoning built upon it. The notices to the Attorney General, the Solicitor General and the Bar Council of India mean that each will be heard on the issue, and the amicus's assistance is expected to shape any guidance the Court may later consider for advocates and courts.\n\nFor practising lawyers, the episode is a reminder that every authority cited in a petition, a written submission or an order must be checked against the official report before it is placed on the record. For litigants, the stay on the Advocate Commissioner's report shows that a decision built on unreliable material can be halted before it takes effect. The order does not yet settle the consequences for the trial court or the High Court. Those questions will depend on the responses the Court receives and on the findings it makes once the petition is decided, and until then the stay on the Advocate Commissioner's report remains in force.",
+ "sources": [
+  "https://www.letsdatascience.com/news/supreme-court-declares-ai-generated-judgments-misconduct-44b93449",
+  "https://www.livelaw.in/amp/top-stories/use-of-ai-generated-fake-judgments-supreme-court-urges-bci-to-form-expert-panel-to-examine-issue-533023",
+  "https://moneylife.in/article/judges-citing-fake-aigenerated-case-laws-amounts-to-misconduct-supreme-court/79828.html",
+  "https://www.scconline.com/blog/post/2026/03/11/sc-raises-concern-use-ai-generated-fake-precedents/"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "Under which Article of the Constitution of India is the Supreme Court declared a court of record, with power to punish for contempt of itself?",
+   "options": [
+    "Article 124",
+    "Article 129",
+    "Article 136",
+    "Article 142"
+   ],
+   "answer": 1,
+   "explanation": "Article 129 declares the Supreme Court a Court of Record with power to punish for contempt of itself. The passage does not mention the Article. Article 124 sets the qualifications for Supreme Court judges, as the Article 76 commentary notes, and is not the court-of-record provision.",
+   "source": "https://www.constitutionofindia.net/articles/article-129-supreme-court-to-be-a-court-of-record/"
+  },
+  {
+   "type": "direct",
+   "q": "The Attorney General for India is provided for under Article 76. For appointment as Attorney General, the Constitution requires the same qualifications as for a judge of which court?",
+   "options": [
+    "High Court judge",
+    "Supreme Court judge",
+    "Election Commission member",
+    "Comptroller and Auditor General"
+   ],
+   "answer": 1,
+   "explanation": "Article 76 ties eligibility for the office of Attorney General to the qualifications for appointment as a Supreme Court judge, which are set out in Article 124. The passage names the Attorney General but does not state the eligibility rule.",
+   "source": "https://www.constitutionofindia.net/articles/article-76-attorney-general-for-india/"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "A High Court can issue writs for purposes that go beyond the enforcement of fundamental rights.",
+   "reason": "Article 226 empowers every High Court to issue writs for the enforcement of Part III rights and for any other purpose.",
+   "answer": 0,
+   "explanation": "Both statements are true. Article 226 allows writs for 'any other purpose', which is the textual basis for the High Court's wider writ jurisdiction compared with Article 32, so the reason explains the assertion.",
+   "source": "https://www.constitutionofindia.net/articles/article-226/"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Article 32",
+    "II. Article 76",
+    "III. Article 129",
+    "IV. Article 215"
+   ],
+   "list2": [
+    "A. Attorney General for India",
+    "B. Supreme Court as a court of record",
+    "C. High Court as a court of record",
+    "D. Writs for enforcement of fundamental rights by the Supreme Court"
+   ],
+   "options": [
+    "I-D, II-A, III-B, IV-C",
+    "I-A, II-D, III-C, IV-B",
+    "I-B, II-C, III-D, IV-A",
+    "I-C, II-B, III-A, IV-D"
+   ],
+   "answer": 0,
+   "explanation": "Article 32 gives the Supreme Court power to issue writs for enforcement of Part III rights (I-D). Article 76 provides for the Attorney General (II-A). Article 129 makes the Supreme Court a court of record (III-B). Article 215 makes each High Court a court of record (IV-C). Sources: Article 32 bare act, Article 76, Article 129 and Article 215 pages.",
+   "source": "https://www.advocatekhoj.com/library/bareacts/constitutionofindia/32.php"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. The Bar Council of India is constituted under section 4 of the Advocates Act, 1961.",
+    "II. Article 215 declares the Supreme Court a court of record and empowers it to punish for contempt of itself."
+   ],
+   "answer": 0,
+   "explanation": "Statement I is true: section 4 of the Advocates Act, 1961 provides for the Bar Council of India, as the Act's table of contents shows. Statement II is false: the Supreme Court's court-of-record status is in Article 129, while Article 215 concerns the High Courts.",
+   "source": "https://indiacode.nic.in/bitstream/123456789/1631/4/A1961-25.pdf"
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. Article 129 declares the Supreme Court a court of record.",
+    "2. Article 215 declares each High Court a court of record.",
+    "3. The Attorney General for India is provided for under Article 124.",
+    "4. Article 226 empowers a High Court to issue writs only for the enforcement of fundamental rights."
+   ],
+   "mode": "incorrect",
+   "answer": 1,
+   "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because the Attorney General is provided for under Article 76; Article 124 sets qualifications for Supreme Court judges. Statement 4 is incorrect because Article 226 also covers 'any other purpose'. Two statements are incorrect, so the answer is 'Only two'.",
+   "source": "https://www.constitutionofindia.net/articles/article-226/"
+  }
+ ]
+}
