@@ -82,6 +82,25 @@
    "answer": 0,
    "explanation": "Statement I is true. Statement II is false: Marathi is written in Devanagari, the official writing system; Modi was a historical script used for administration and business records.",
    "source": "https://en.wikipedia.org/wiki/Marathi_language"
+  },
+  {
+   "type": "statement_count",
+   "statements": [
+    "1. The Jnanpith Award was first given in 1965, to the Malayalam poet G. Sankara Kurup.",
+    "2. The Sahitya Akademi Translation Prize was instituted in 1989.",
+    "3. V. S. Khandekar became the first Marathi writer to win the Jnanpith Award, for his novel Yayati.",
+    "4. Bhalchandra Nemade was selected for the 50th Jnanpith Award, for the year 2014."
+   ],
+   "mode": "correct",
+   "answer": 3,
+   "truth": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "explanation": "All four are correct. The Jnanpith was instituted in 1961 and first awarded in 1965 to G. Sankara Kurup (Odakkuzhal). The Sahitya Akademi Translation Prize began in 1989. Khandekar won the 1974 Jnanpith for Yayati, the first for a Marathi writer. Nemade (Kosala, 1963) was chosen for the 50th Jnanpith, for 2014.",
+   "source": "https://www.britannica.com/print/article/1912776 ; https://en.wikipedia.org/wiki/Jnanpith_Award ; https://sahitya-akademi.gov.in/awards/sahitya_akademi_prize.jsp ; https://en.wikipedia.org/wiki/Sahitya_Akademi_Award ; https://en.wikipedia.org/wiki/Vishnu_Sakharam_Khandekar ; https://www.indianphilatelics.com/stamps/commemorative-stamps/1998-1999/item/12205-birth-centenary-of-vishnu-sakharam-khandekar-click-for-stamp-information.html ; https://gktoday.in/eminent-marathi-writer-bhalchandra-nemade-selected-jnanpith-award-2014/ ; https://www.deccanherald.com/india/jnanpith-marathi-litterateur-2111085"
   }
  ]
 }

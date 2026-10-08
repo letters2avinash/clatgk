@@ -1,0 +1,31 @@
+{
+ "passage_file": "data/topup/t02_p3.json",
+ "passage_claims": [],
+ "questions": [
+  {"index": 0, "verdict": "OK", "my_answer": "Only three (statements 1, 2, 3 correct; 4 false)", "key_answer_correct": true,
+   "truth_values": [true, true, true, false],
+   "issues": [],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kuno_National_Park (1981 sanctuary, 2018 national park, Kuno River tributary of Chambal)",
+    "https://www.outlookindia.com/outlooktraveller/explore/story/50636/madhya-pradesh-kuno-palpur-wildlife-sanctuary",
+    "https://india.mongabay.com/2019/11/kuno-indias-second-home-for-the-asiatic-lion-is-ready/ (Kuno identified for lions about 29 years before 2019, i.e. 1990; WII early-1990s assessment; thewire.in carries same)",
+    "https://www.deccanherald.com/amp/story/india%2Fmadhya-pradesh%2Fcheetahs-prabhash-and-pavak-to-get-new-home-in-madhya-pradesh-3501511",
+    "https://www.etvbharat.com/en/!bharat/cheetahs-prabhash-and-pavak-get-new-home-in-mps-gandhi-sagar-sanctuary-enn25042003167",
+    "https://www.thehitavada.com/Encyc/2025/4/21/MP-CM-releases-two-cheetahs-in-Gandhi-Sagar-Sanctuary-in-Mandsaur-district.html",
+    "https://www.mppcb.mp.gov.in/proc/Tech/DEP%20SHIVPURI.pdf (state pollution board district plan; Kuno among Chambal tributaries)"],
+   "fix": null,
+   "note": "S1: sanctuary 1981 (Wikipedia, Outlook Traveller, Mongabay/Wire), national park Dec 2018 (several news/ref sources). S2: Kuno-Palpur picked as lion site early 1990s (WII; Mongabay 2019 says 29 years, i.e. 1990), within 'the 1990s' and not contradicted; 1995 WII report followed. S3: Prabhas and Pavak released at Gandhi Sagar 20 Apr 2025 (Deccan Herald, ETV Bharat, PTI via The Week, Hitavada). S4: false, Kuno is a Chambal tributary (Wikipedia Kuno River, MPPCB doc, Britannica/Wikipedia Sheopur district drainage). No distractor ambiguity. Passage check: passage says only 'Gwalior Chambal region' and that the Kuno River flows through the park, nothing on sanctuary history, lions, Gandhi Sagar, or the river's parent; not a giveaway. Mild cross-hint: 'Chambal' appears in the passage as a region name, but it does not state the tributary link. Minor overlap with Q2 (Gandhi Sagar appears in both; Q1 S3 does not give its state, so Q2 III is not answered by it). The 1981 and Chambal-tributary facts, flagged as UPSC-site-only by the writer, are backed by non-prep sources (Wikipedia, Outlook Traveller, Mongabay/Wire, state PCB). Wikipedia is the single root for the exact 1981 sanctuary/2018 wording; Outlook Traveller independently gives Kuno-Palpur sanctuary. Acceptable."},
+  {"index": 1, "verdict": "FIX", "my_answer": "I and II only (option 0)", "key_answer_correct": true,
+   "truth_values": [true, true, false],
+   "issues": ["WEAK_SOURCE"],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kuno_National_Park (1981 sanctuary; Vindhyan hills description)",
+    "https://www.outlookindia.com/outlooktraveller/explore/story/50636/madhya-pradesh-kuno-palpur-wildlife-sanctuary",
+    "https://www.deccanherald.com/india/madhya-pradesh/preparations-completed-for-cheetahs-second-home-in-madhya-pradeshs-gandhi-sagar-sanctuary-3062310",
+    "https://www.thehitavada.com/Encyc/2025/4/21/MP-CM-releases-two-cheetahs-in-Gandhi-Sagar-Sanctuary-in-Mandsaur-district.html"],
+   "fix": null,
+   "note": "Answer logic is correct. II (1981) is supported by Wikipedia plus Outlook Traveller and Mongabay/Wire. III is false: Gandhi Sagar is in Mandsaur and Neemuch districts of Madhya Pradesh on the Rajasthan border (Deccan Herald, Hitavada, PTI), though note that it does abut Rajasthan, so wording 'is located in Rajasthan' is clearly false but is a plausible trap; fine. I (Vindhyan) is the problem: I found it only on exam-prep sites and Wikipedia-derived text, with no forest department, WII, PIB or news source stating it (sheopur.nic.in and kunonationalpark.org could not be fetched here, so unverified). Not shown to be wrong, but fails the two-independent-source bar. Recommend: either confirm statement I from the Madhya Pradesh forest department/Kuno park site, or replace statement I with another independently sourced true statement not in the passage. Also overlaps with Q1 S3 on Gandhi Sagar; acceptable but consider swapping III to a different topic if the pair is used in the same test."}
+ ],
+ "passage_fixes": [],
+ "summary": "Q1 is accurate and sourced beyond UPSC sites (1981 sanctuary, 2018 park, Chambal tributary, early-1990s lion siting, Gandhi Sagar move all confirmed). Q2's key is correct, but the Vindhyan claim could not be confirmed by any non-prep, non-Wikipedia source, so it needs an official source or a replacement statement. Neither question restates passage facts."
+}

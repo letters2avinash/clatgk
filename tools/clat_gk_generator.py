@@ -192,6 +192,10 @@ def build_key_pdf(data, out_path):
     story.append(HRFlowable(width="100%", thickness=1, color=colors.HexColor("#999999")))
     if data.get("notes"):
         story.append(Paragraph("<b>Note:</b> " + esc(data["notes"]), st["notes"]))
+    if data.get("residual"):
+        story.append(Paragraph("<b>Facts resting on a single or secondary source (residual risk):</b>", st["notes"]))
+        for r in data["residual"]:
+            story.append(Paragraph("- " + esc(r), st["exp"]))
     allq = [q for p in data["passages"] for q in p["questions"]]
     row, rows = [], []
     for i, q in enumerate(allq, 1):

@@ -12,8 +12,10 @@ def check(data):
         if not p.get("sources"):
             errs.append(f"P{pi}: no passage sources")
         qs = p["questions"]
-        if len(qs) != 6:
-            errs.append(f"P{pi}: {len(qs)} questions, expected 6")
+        if len(qs) not in (5, 6):
+            errs.append(f"P{pi}: {len(qs)} questions, expected 5-6")
+        elif len(qs) == 5:
+            warns.append(f"P{pi}: only 5 questions (one slot dropped in verification)")
         types = [q["type"] for q in qs]
         if len(set(types)) < 4:
             warns.append(f"P{pi}: only {len(set(types))} distinct question types")

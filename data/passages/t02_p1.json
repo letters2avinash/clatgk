@@ -83,6 +83,18 @@
    "answer": 1,
    "explanation": "Statements 1 and 2 are correct (Article 368(2) and the Article 111 proviso). Statement 3 is wrong because Article 32 is a Supreme Court power, while High Courts have writ power under Article 226. Statement 4 is wrong because Article 368(2) says the President shall give assent. Two statements are incorrect.",
    "source": "https://www.constitutionofindia.net/articles/article-368-power-of-parliament-to-amend-the-constitution/"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "The Rajya Sabha has the power to reject a Money Bill that has been passed by the Lok Sabha.",
+   "reason": "Under Article 109, the Rajya Sabha must return a Money Bill to the Lok Sabha, with or without recommendations, within fourteen days of receiving it.",
+   "answer": 3,
+   "truth": [
+    false,
+    true
+   ],
+   "explanation": "The assertion is false: the Rajya Sabha can neither reject nor amend a Money Bill, it can only make recommendations, which the Lok Sabha may accept or reject. The reason is true: Article 109 sets a 14-day limit, after which the Bill is deemed passed in the form the Lok Sabha sent it.",
+   "source": "https://ies.gov.in/arthapedia/concept/money-bill ; https://blog.ipleaders.in/money-bill-in-india/ ; https://www.pmfias.com/?p=737287"
   }
  ],
  "title": "Transgender Rights Amendment Bill",

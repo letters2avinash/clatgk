@@ -91,6 +91,18 @@
    "answer": 0,
    "explanation": "Only statement 2 is incorrect: the Executive Council is chaired by the National Security Adviser. Statements 1, 3 and 4 are correct.",
    "source": "https://en.wikipedia.org/wiki/Nuclear_Command_Authority_(India)"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "The Integrated Guided Missile Development Programme (IGMDP), under which DRDO built India's early indigenous missiles, was approved by the Government of India in 1983.",
+   "reason": "The IGMDP was confined to surface-to-surface ballistic missiles, namely Prithvi and Agni.",
+   "answer": 2,
+   "truth": [
+    true,
+    false
+   ],
+   "explanation": "The assertion is true: the IGMDP was approved on 1983 with Abdul Kalam as its driving figure. The reason is false: the programme covered five systems, Prithvi, Agni, Trishul, Akash and Nag, which include surface-to-air missiles (Trishul, Akash) and an anti-tank missile (Nag).",
+   "source": "https://en.wikipedia.org/wiki/Integrated_Guided_Missile_Development_Programme ; https://vajiramandravi.com/upsc-exam/integrated-guided-missile-development-programme ; https://anantamias.com/integrated-guided-missile-development-programme-igmdp/?pdf=1"
   }
  ]
 }
