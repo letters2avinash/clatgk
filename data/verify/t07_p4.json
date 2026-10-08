@@ -1,0 +1,204 @@
+{
+  "passage_file": "data/draft/t07_p4.json",
+  "passage_claims": [
+    {
+      "claim": "Launched on 14 February 2026",
+      "verdict": "DISPUTED",
+      "sources": [
+        "https://www.newsonair.gov.in/pm-modi-launches-pm-rahat-scheme-for-cashless-road-accident-treatment",
+        "https://www.newsonair.gov.in/government-announces-launch-of-pm-rahat-scheme-for-cashless-treatment-of-up-to-rs-1-lakh-50-thousand-for-road-accident-victims",
+        "https://www.pmindia.gov.in/en/news_updates/pm-shares-glimpses-from-the-inaugural-event-of-seva-teerth-and-kartavya-bhavan-1-2-in-new-delhi/"
+      ],
+      "note": "PM's posts dated 13 Feb (approval at Seva Teerth); MoRTH announced 14 Feb; some sources say launched 13 Feb. Reworded to approved launch in February 2026."
+    },
+    {
+      "claim": "Up to Rs 1.5 lakh cashless per victim",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.newsonair.gov.in/pm-modi-launches-pm-rahat-scheme-for-cashless-road-accident-treatment",
+        "https://www.pmindia.gov.in/en/news_updates/pm-shares-glimpses-from-the-inaugural-event-of-seva-teerth-and-kartavya-bhavan-1-2-in-new-delhi/"
+      ],
+      "note": "AIR and PMO."
+    },
+    {
+      "claim": "Seven days from date of accident; any category of road",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.newsonair.gov.in/government-announces-launch-of-pm-rahat-scheme-for-cashless-treatment-of-up-to-rs-1-lakh-50-thousand-for-road-accident-victims",
+        "https://westkhasihills.gov.in/scheme/prime-minister-road-accident-victims-hospitalisation-assured-treatment-pm-rahat/"
+      ],
+      "note": "AIR and state govt copy of notification."
+    },
+    {
+      "claim": "Accidents involving any motor vehicle",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://westkhasihills.gov.in/scheme/prime-minister-road-accident-victims-hospitalisation-assured-treatment-pm-rahat/",
+        "https://en.vikaspedia.in/viewcontent/schemesall/central-government-schemes/pm-rahat"
+      ],
+      "note": "Notification says road accidents caused by use of motor vehicle(s). Derived from govt text; PIB not opened."
+    },
+    {
+      "claim": "Hospitals reimbursed through Motor Vehicle Accident Fund, per Ministry",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.newsonair.gov.in/government-announces-launch-of-pm-rahat-scheme-for-cashless-treatment-of-up-to-rs-1-lakh-50-thousand-for-road-accident-victims",
+        "https://en.vikaspedia.in/viewcontent/schemesall/central-government-schemes/pm-rahat"
+      ],
+      "note": "AIR quotes the Ministry; vikaspedia (govt portal) repeats. Both trace to the MoRTH release."
+    },
+    {
+      "claim": "Family need not make advance payment at admission",
+      "verdict": "UNVERIFIABLE",
+      "sources": [],
+      "note": "Inference; deleted."
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "2018",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.pmindia.gov.in/?p=4206411 ; https://medicaldialogues.in/pm-to-launch-ayushman-bharat-health-scheme-from-ranchi-on-september-23 ; https://eparlib.sansad.in/bitstream/123456789/954675/1/AU44.pdf"
+      ],
+      "fix": null,
+      "note": "PMO captions and Medical Dialogues confirm 23 Sep 2018 at Ranchi."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "Parmanand Katara v Union of India",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://future.indiankanoon.org/doc/498126 ; https://bnblegal.com/landmark/pt-parmanand-katara-vs-union-india-ors/ ; https://www.globalhealthrights.org/?p=298"
+      ],
+      "fix": null,
+      "note": "Decided 28 Aug 1989; Olga Tellis, Bandhua Mukti Morcha, Vishaka are different cases."
+    },
+    {
+      "index": 3,
+      "verdict": "DROP",
+      "my_answer": "1988",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "GIVEAWAY"
+      ],
+      "sources": [],
+      "fix": null,
+      "note": "Answer 1988 is in the stem ('Motor Vehicles Act, 1988'); trivial."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "A true, R false (2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://cag.gov.in/uploads/download_audit_report/2023/10_Chapter-VI-064d22bab42d081.64642773.pdf ; https://sha.uk.gov.in/ScannedDocs/WebSite/Uploads/OTHERS_OTH/Revised Guidelines for Release of Grant in Aid to States & UT's for Implementation.pdf ; https://eparlib.sansad.in/bitstream/123456789/954675/1/AU44.pdf"
+      ],
+      "fix": null,
+      "note": "Funding shared 60:40 / 90:10 per CAG and SHA document; Rs 5 lakh cover confirmed."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "I-B, II-C, III-A, IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-37-application-of-the-principles-contained-in-this-part/ ; https://blog.ipleaders.in/significance-of-article-32-of-the-constitution-of-india-right-to-constitutional-remedies/ ; https://unacademy.com/content/study-material/general-knowledge/directive-principles-of-state-policy-article-41/ ; https://www.civilsdaily.com/directive-principles-of-state-policy/ ; https://blog.ipleaders.in/article-46-and-47-of-the-indian-constitution/"
+      ],
+      "fix": null,
+      "note": "Single matching combination; study-site sources flagged in residual."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "I only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://lawx.in/acts/section/46/465/4423 ; https://www.legitquest.com/act/central-motor-vehicles-twelfth-amendment-rules-2020/8F2C ; https://morungexpress.com/rules-for-protection-of-good-samaritans-notified ; https://www.chronicleindia.in/current-affairs/1746-rules-for-protection-of-good-samaritans"
+      ],
+      "fix": null,
+      "note": "s134A inserted by 2019 Act (w.e.f. 1-10-2020); 2020 rules bar compelling disclosure."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://lawx.in/acts/section/46/468/4456 ; https://lawx.in/acts/section/46/468/4454 ; https://courtbook.in/motor-vehicles-act-1988/section-164 ; https://www.caseon.in/section/section-164-the-motor-vehicles-act-1988 ; https://www.gktoday.in/motor-vehicle-accident-fund/"
+      ],
+      "fix": null,
+      "note": "164B creates Fund and covers s161 hit-and-run; s164 liability on owner/insurer. Legal-reference sites, not India Code."
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "Only one",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "https://lawsforum.com/administrative-law/writs-certiorari-mandamus-quo-warranto-prohibition-habeas-corpus",
+        "https://bhattandjoshiassociates.com/types-of-writs-explained-mandamus-certiorari-prohibition-quo-warranto/"
+      ],
+      "fix": null,
+      "note": "Answer correct but study/blog sources only and least related to passage; culled to reach 6 with mix."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "The Prime Minister launched the Road Accident Victim Hospitalisation and Assured Treatment (PM-RAHAT) scheme on 14 February 2026.",
+      "new": "The Prime Minister approved the launch of the Road Accident Victim Hospitalisation and Assured Treatment (PM-RAHAT) scheme in February 2026.",
+      "reason": "Launch date DISPUTED: PM's own posts and one source say 13 Feb; MoRTH/AIR announcement 14 Feb. Only 'February 2026' is common to all."
+    },
+    {
+      "old": " The arrangement means that the injured person's family does not have to make an advance payment for covered treatment at the time of admission.",
+      "new": "",
+      "reason": "Inference not stated by any source checked (admission-time advance payment); deleted."
+    }
+  ],
+  "writer_flags_checked": {
+    "launch date": "DISPUTED 13 vs 14 Feb; reworded to February 2026",
+    "MVAF reimbursement": "confirmed by AIR + vikaspedia/state copy",
+    "PM-JAY launch": "confirmed 23 Sep 2018 (PMO, Medical Dialogues)",
+    "PM-JAY funding": "confirmed 60:40 / 90:10 (CAG report, SHA document)",
+    "Art 37 wording": "confirmed 'not enforceable by any court' (constitutionofindia.net, law4u/lexibal)",
+    "Good Samaritan rule": "confirmed (LegitQuest rule text, Morung Express, Chronicle India)",
+    "MV Act ss161/164/164B": "confirmed via lawx, courtbook, caseon, GKToday; India Code not opened",
+    "writ definitions": "confirmed (lawsforum, Bhatt & Joshi, ForumIAS); Q8 dropped anyway"
+  },
+  "summary": "Dropped Q3 (answer in stem) and Q8 (weak sources, culled). Launch date disputed so reworded; unsupported advance-payment sentence deleted. 6 questions kept; ~7 searches' facts single-publisher listed in residual."
+}

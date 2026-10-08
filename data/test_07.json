@@ -1,0 +1,702 @@
+{
+ "title": "CLAT GK - Test 07",
+ "date": "2026-10-08",
+ "duration_minutes": 50,
+ "marks_correct": 1,
+ "marks_wrong": -0.25,
+ "notes": "Generated with Haiku 5.5, then independently verified question by question by separate Sonnet agents using fresh searches (two-source rule; claims that could not be confirmed were removed or reworded; ambiguous, unchecked or overlapping questions were dropped). Several primary sources were unreachable, so residual risk is listed below. Not reviewed by a human.",
+ "residual": [
+  "Passage 1: Article 66 (nominated RS members vote in VP election) rests on exam-prep/explainer sites (prepp, vajiram, lexibal); constitution text not fetched.",
+  "Passage 1: Articles 64, 85, 89(2), 108 confirmed via text-reproduction and summary sites (indiankanoon, taxmanagementindia, understandupsc, lexibal), not official government text.",
+  "Passage 1: Section 53(2) RP Act applied to Rajya Sabha: The News Minute (TN) plus legal-summary sites; no 2026 Karnataka report cites the section.",
+  "Passage 1: Art 75(5), 84, 80 (250, 12 nominees) rest on constitutionofindia.net/exam-prep snippets; Art 80 STV on same.",
+  "Passage 1: Nagaraj/Nagaraja and Sharda/Sarda spellings vary across outlets; passage uses Nagaraj and Sharda.",
+  "Passage 1: Passage is short (about 150 words) after deleting the unsupported closing sentence.",
+  "Passage 2: Passage: fellow names, 13 Aug 2026 date, 115 artists, Rs 3 lakh/1 lakh rest on Drishti, GKToday, Sanskriti and search summaries of newsonair/DD News; official pages unreachable.",
+  "Passage 2: Passage: 7 Fellows + 108 awardees = 115 reconciled from search summaries only; no official post-event release read.",
+  "Passage 2: Q3: Phalke 1969 from exam-prep/guild pages and a President's Office release; no dff.gov.in page read. Devika Rani ceremony sometimes dated 1970.",
+  "Passage 2: Q4/Q7: Jnanpith 1961, first award 1965, 1982 shift rest on Britannica snippet plus Wikipedia.",
+  "Passage 2: Q7: Saraswati Samman instituted 1991 rests on Wikipedia, GKToday, Drishti; K. K. Birla Foundation site unreachable.",
+  "Passage 2: Q8: Akademi Ratna as highest honour from Wikipedia and exam-prep pages; no sangeetnatak.gov.in rules page read.",
+  "Passage 2: Q1: SNA under Ministry of Culture from Wikipedia, GKToday and Journals of India; official site not read.",
+  "Passage 2: Passage is short (about 120 words).",
+  "Passage 3: Passage is very short (92 words); it states only confirmed facts and none of the questions test it directly.",
+  "Passage 3: All checks used search summaries only; no page was fetched, so article and schedule wording rests on snippets of constitutionofindia.net, indiankanoon and similar.",
+  "Passage 3: Q4 Art 352/360 mapping: ipleaders and Vajiram (both secondary); Art 279A/280 from Drishti Judiciary; no primary text page read.",
+  "Passage 3: Q5 reason false because Art 116 text has no CAG condition: an absence claim, no source states the falsity directly.",
+  "Passage 3: Q7 NITI Aayog 1 Jan 2015: PIB release plus exam-prep pages; RBI 1 April 1935: indiacode (Act of 1934) plus exam-prep, rbi.org.in not rechecked.",
+  "Passage 3: Q8 entries 6 and 14 rest on constitution text reproductions (constitutionofindia.net, constitution.org); 42nd Amendment point on LiveLaw and The Wire.",
+  "Passage 3: Q3 Art 74 source set is legal-text reproductions (writinglaw, aaptaxlaw, law4u); no government page fetched.",
+  "Passage 4: Passage is very short (about 90 words) because only double-sourced facts were kept.",
+  "Passage 4: Passage: PM approval/launch only 'February 2026'; exact date (13 vs 14 Feb) disputed; PMO says approval 13 Feb, MoRTH announced 14 Feb.",
+  "Passage 4: Passage: MVAF reimbursement and any-road/any-motor-vehicle coverage rest on AIR plus a state-government copy of notification and exam-prep summaries; PIB release not opened.",
+  "Passage 4: Q5 Articles 37/41/47 wording from study sites and constitutionofindia.net snippet; official text not fetched.",
+  "Passage 4: Q7 Sections 164B/161/164 rest on legal reference sites (lawx, courtbook, caseon) and a GKToday Bill summary; India Code not opened.",
+  "Passage 4: Q4 60:40/90:10 from CAG report and state health agency document; NHA primary guidelines not opened.",
+  "Passage 4: Q6 Good Samaritan rule text from LegitQuest and press summaries, not the Gazette GSR 594(E).",
+  "Passage 5: Field of 19 horses: AP headline (via KSL/Click2Houston) plus lineup previews; no results-page count read; AP-syndicated copy is effectively one publisher.",
+  "Passage 5: Golden Tempo win, last-to-first, neck margin, Renegade/Irad Ortiz: ESPN plus AP-syndicated copy; ESPN snippet only, not fetched.",
+  "Passage 5: Preakness 1 3/16 miles: FanDuel and America's Best Racing explainers (search snippets); no primary Preakness/Pimlico page read.",
+  "Passage 5: Travers 1 1/4 miles: NYRA and DraftKings 2026 previews via snippets; no fetched primary page.",
+  "Passage 5: Santa Anita Park and Gulfstream Park venues: snippets only; Pegasus venue rests on Betflag and DraftKings.",
+  "Passage 5: Furlong facts: dictionaries and Wikipedia via snippets; 8 furlongs per mile is arithmetic from 1/8 mile, also stated by Simple Wikipedia.",
+  "Passage 5: Passage is very short (about 80 words) after deleting unconfirmed claims; Q4 assertion (first woman trainer) is also stated in the passage, so only R is discriminating.",
+  "Static-GK explanations cite Wikipedia or exam-prep pages in places where a primary text was not reachable."
+ ],
+ "passages": [
+  {
+   "title": "Rajya Sabha biennial polls: unopposed returns, June 2026",
+   "topic_tags": [
+    "Polity & governance",
+    "Rajya Sabha",
+    "Election Commission",
+    "Parliament",
+    "Elections 2026"
+   ],
+   "slot": "T07P1",
+   "status": "complete",
+   "text": "The Election Commission of India has scheduled biennial elections to 24 Rajya Sabha seats across 10 States, with polling on 18 June 2026 for the seats that are contested. Scrutiny of nominations was held on 9 June, and candidates could withdraw their nominations till 11 June.\n\nCandidates who were the only ones left in the fray for their seats were declared elected on 11 June without a poll. In Karnataka, all four seats were filled this way. The winners were Congress nominees Mallikarjun Kharge, Pawan Khera and Mansoor Ali Khan, along with M. Nagaraj of the BJP.\n\nRajasthan's three seats were also filled unopposed. BJP nominees Satish Poonia and Alka Singh Gurjar, and Congress nominee Neeraj Dangi, were declared elected.\n\nIn Manipur, the lone seat went to Adhikarimayum Sharda Devi, the BJP's State president, who was the only candidate to file nomination papers. She was declared elected unopposed on the same day.",
+   "sources": [
+    "https://www.newsonair.gov.in/ec-announces-schedule-for-biennial-elections-to-24-seats-of-rajya-sabha/",
+    "https://morungexpress.com/eci-announces-rajya-sabha-polls-for-24-seats-in-10-states-on-june-18",
+    "https://swarajyamag.com/amp/story/politics/election-commission-announces-rajya-sabha-polls-for-24-seats-across-10-states-on-18-june",
+    "https://www.socialnews.xyz/2026/06/11/ktaka-kharge-khera-mansoor-ali-khan-and-bjps-nagaraj-elected-unopposed-to-rs/",
+    "https://test.uniindia.com/kharge-returns-to-rs-as-four-karnataka-candidates-elected-unopposed/south/news/3873590.html",
+    "https://uniindia.com/satish-poonia-alka-gurjar--neeraj-dangi-elected-unopposed-to-rajya-sabha-from-rajasthan/north/news/3873329.html",
+    "https://www.amarujala.com/rajasthan/rajya-sabha-election-poonia-alka-and-dangi-elected-unopposed-rajasthan-s-political-balance-remains-intact-2026-06-11",
+    "https://nenow.in/north-east-news/manipur-bjps-sharda-devi-set-to-be-elected-unopposed-to-rajya-sabha.html",
+    "https://thenewsmill.com/2026/06/manipur-bjp-chief-sharda-devi-arrives-in-delhi-after-unopposed-rajya-sabha-election/"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "What is the maximum permissible strength of the Rajya Sabha under the Constitution?",
+     "options": [
+      "238",
+      "552",
+      "260",
+      "250"
+     ],
+     "answer": 3,
+     "explanation": "Article 80 caps the Rajya Sabha at 250 members: up to 238 representatives of States and Union Territories, and 12 nominated by the President. 552 is the maximum for the Lok Sabha; 238 is the elected-seat component only, not the total cap; 260 exceeds the cap.",
+     "source": "https://en.wikipedia.org/wiki/Rajya_Sabha ; https://sansad.in/uploads/CHAPTER_2_00fa091868.pdf ; https://iasgyan.in/daily-current-affairs/article-80"
+    },
+    {
+     "type": "direct",
+     "q": "What is the minimum age prescribed for membership of the Rajya Sabha?",
+     "options": [
+      "21 years",
+      "35 years",
+      "25 years",
+      "30 years"
+     ],
+     "answer": 3,
+     "explanation": "Article 84 requires a Rajya Sabha member to be at least 30 years old. 25 is the Lok Sabha minimum; 35 is the minimum for the office of President; 21 is not the threshold for either House.",
+     "source": "https://vajiramandravi.com/current-affairs/article-84-of-indian-constitution/ ; https://www.law4u.in/top-answer/4608/what-is-constitution-of-india-article-84"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Vice-President is barred from holding any other office of profit",
+      "II. Maximum gap permitted between the last sitting of one session and the first sitting of the next",
+      "III. Joint sitting of both Houses of Parliament",
+      "IV. Election of the Deputy Chairman of the Rajya Sabha"
+     ],
+     "list2": [
+      "A. Article 64",
+      "B. Article 85",
+      "C. Article 108",
+      "D. Article 89"
+     ],
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-D, III-A, IV-B",
+      "I-B, II-A, III-D, IV-C",
+      "I-D, II-C, III-B, IV-A"
+     ],
+     "answer": 0,
+     "explanation": "Article 64 bars the Vice-President from any other office of profit. Article 85 limits the gap between sessions to six months. Article 108 provides for a joint sitting. Article 89(2) provides for the Deputy Chairman, chosen by the House from among its members.",
+     "source": "https://www.law4u.in/top-answer/4586/what-is-constitution-of-india-article-64 ; https://www.constitutionofindia.net/articles/article-85-sessions-of-parliament-prorogation-and-dissolution ; https://www.understandupsc.com/article-85/ ; https://forumias.com/blog/article-108-of-indian-constitution/ ; https://www.law4u.in/top-answer/4922/what-is-constitution-of-india-article-108 ; https://lexibal.com/?p=42554 ; https://www.understandupsc.com/article-892/"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Four Karnataka Rajya Sabha seats were filled on 11 June 2026 without any voting being held.",
+     "reason": "Under Section 53(2) of the Representation of the People Act, 1951, when the number of valid candidates equals the number of seats, the returning officer declares them duly elected.",
+     "answer": 0,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both statements are true. Section 53(2) is the legal basis for declaring candidates elected when their number equals the seats to be filled, which is why no poll was held in Karnataka. R explains A.",
+     "source": "https://www.socialnews.xyz/2026/06/11/ktaka-kharge-khera-mansoor-ali-khan-and-bjps-nagaraj-elected-unopposed-to-rs/ ; https://test.uniindia.com/kharge-returns-to-rs-as-four-karnataka-candidates-elected-unopposed/south/news/3873590.html ; https://aaptaxlaw.com/rp-act-1951/section-53-rp-act-procedure-in-contested-and-uncontested-elections-section-53-representation-of-the-people-act-1951.html ; https://courtbook.in/representation-of-the-people-act-1951/section-53"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The President nominates 12 members to the Rajya Sabha from persons with special knowledge or practical experience in literature, science, art and social service.",
+      "2. One-third of the members of the Rajya Sabha retire every second year.",
+      "3. A Minister who is not a member of either House of Parliament for six consecutive months ceases to be a Minister.",
+      "4. The anti-defection law is contained in the Ninth Schedule of the Constitution."
+     ],
+     "mode": "correct",
+     "answer": 2,
+     "truth": [
+      true,
+      true,
+      true,
+      false
+     ],
+     "explanation": "Statements 1, 2 and 3 are correct: Article 80(3) for nominations, Article 83(1) for staggered retirement, and Article 75(5) for the six-month rule for ministers. Statement 4 is wrong because the anti-defection law is in the Tenth Schedule, not the Ninth. Three statements are correct, so the answer is Only three.",
+     "source": "https://iasgyan.in/daily-current-affairs/article-80 ; https://www.onmanorama.com/upsc/current-affairs/2026/04/11/nominated-members-in-rajya-sabha.amp.html ; https://lexibal.com/article-83-duration-houses-parliament/ ; https://vajiramandravi.com/current-affairs/article-83-of-indian-constitution/ ; https://www.constitutionofindia.net/articles/article-75-other-provisions-as-to-ministers/ ; https://prepp.in/question/a-minister-who-for-any-period-of-six-6-consecutive-68bd6b72d16d798ae6ecb505 ; https://anantamias.com/anti-defection-law/?pdf=1 ; https://pwonlyias.com/udaan/anti-defection-law/"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. The electoral college for the election of the President includes the elected members of both Houses of Parliament.",
+      "II. Nominated members of Parliament form part of the electoral college for the election of the President.",
+      "III. Nominated members of the Rajya Sabha form part of the electoral college for the election of the Vice-President."
+     ],
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I and III only",
+      "All of the above"
+     ],
+     "answer": 2,
+     "explanation": "Statement I is correct: Article 54 uses elected members of both Houses. Statement II is wrong because the word 'elected' excludes nominated members from the presidential electoral college. Statement III is correct: the Vice-President is elected by an electoral college of all members of both Houses, including nominated Rajya Sabha members (Article 66).",
+     "source": "https://www.law4u.in/top-answer/4358/what-is-constitution-of-india-article-54 ; https://www.constitutionofindia.net/articles/article-54-election-of-president/ ; https://www.constitutionofindia.net/articles/article-66-election-of-vice-president/ ; https://anantamias.com/election-of-the-vice-president-of-india-2025/?pdf=1"
+    }
+   ],
+   "residual": [
+    "Article 66 (nominated RS members vote in VP election) rests on exam-prep/explainer sites (prepp, vajiram, lexibal); constitution text not fetched.",
+    "Articles 64, 85, 89(2), 108 confirmed via text-reproduction and summary sites (indiankanoon, taxmanagementindia, understandupsc, lexibal), not official government text.",
+    "Section 53(2) RP Act applied to Rajya Sabha: The News Minute (TN) plus legal-summary sites; no 2026 Karnataka report cites the section.",
+    "Art 75(5), 84, 80 (250, 12 nominees) rest on constitutionofindia.net/exam-prep snippets; Art 80 STV on same.",
+    "Nagaraj/Nagaraja and Sharda/Sarda spellings vary across outlets; passage uses Nagaraj and Sharda.",
+    "Passage is short (about 150 words) after deleting the unsupported closing sentence."
+   ]
+  },
+  {
+   "title": "Sangeet Natak Akademi Awards 2024-25",
+   "topic_tags": [
+    "awards",
+    "culture",
+    "performing arts",
+    "Sangeet Natak Akademi",
+    "Vigyan Bhawan",
+    "Dadasaheb Phalke Award",
+    "Jnanpith Award",
+    "Saraswati Samman"
+   ],
+   "slot": "T07P2",
+   "text": "President Droupadi Murmu presented the Sangeet Natak Akademi Fellowships and Akademi Puraskars for 2024 and 2025 at Vigyan Bhawan in New Delhi on 13 August 2026. A total of 115 artists were honoured across the two award cycles, covering disciplines such as Hindustani music, Carnatic music, Bharatanatyam, Kathak and theatre.\n\nSeven artists were named Fellows of the Akademi. They are Ramlal Bareth, A V Anand, Rita Ganguly, Puru Dadheech, Chittaranjan Jyotishi, Pasumarthi Rattaiah Sarma and Sudharani Raghupathy. The remaining honourees received the Akademi Puraskar. Each Fellow receives a purse of Rs 3 lakh, a Tamrapatra and an Angavastram, while each Puraskar awardee receives Rs 1 lakh with the same honours.\n\nThe Sangeet Natak Akademi is the national academy for music, dance and drama. Its fellowships and awards recognise artists for their sustained contribution to the performing arts.",
+   "sources": [
+    "https://www.drishtiias.com/state-pcs-current-affairs/sangeet-natak-akademi-fellowship-and-awards-for-2024-2025-announced",
+    "https://www.gktoday.in/president-presents-sangeet-natak-akademi-awards-for-2024-and-2025/",
+    "https://www.sanskritiias.com/current-affairs/sangeet-natak-akademi-fellowship-and-awards-20242025-president-to-honour-115-performing-artists"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Under which Union ministry does the Sangeet Natak Akademi function as an autonomous body?",
+     "options": [
+      "Ministry of Tourism",
+      "Ministry of Education",
+      "Ministry of Youth Affairs and Sports",
+      "Ministry of Culture"
+     ],
+     "answer": 3,
+     "explanation": "The Sangeet Natak Akademi is an autonomous body of the Ministry of Culture and is funded by the Government for its schemes and programmes.",
+     "source": "https://en.wikipedia.org/wiki/Sangeet_Natak_Akademi ; https://journalsofindia.com/sangeet-natak-akademi/?print=pdf ; https://www.gktoday.in/indian-cultural-institutions/"
+    },
+    {
+     "type": "direct",
+     "q": "Which of the following is India's national academy of art?",
+     "options": [
+      "Sahitya Akademi",
+      "Lalit Kala Akademi",
+      "Sangeet Natak Akademi",
+      "National Book Trust"
+     ],
+     "answer": 1,
+     "explanation": "Lalit Kala Akademi (National Academy of Art) was inaugurated in New Delhi on 5 August 1954. Sahitya Akademi promotes literature and Sangeet Natak Akademi covers music, dance and drama.",
+     "source": "https://lalitkala.gov.in/about ; https://drishtiias.com/daily-updates/daily-news-analysis/lalit-kala-akademi-awards"
+    },
+    {
+     "type": "direct",
+     "q": "In which year was the Dadasaheb Phalke Award instituted by the Government of India?",
+     "options": [
+      "1958",
+      "1913",
+      "1975",
+      "1969"
+     ],
+     "answer": 3,
+     "explanation": "The Dadasaheb Phalke Award was instituted by the Government of India in 1969, the birth centenary year of Dadasaheb Phalke. Devika Rani was its first recipient.",
+     "source": "https://www.indianetzone.com/dadasaheb_phalke_award ; https://producersguildindia.com/Home/DadasahebAward ; https://presidentofindia.nic.in/press_releases/president-india-presents-71st-national-film-awards-confers-dadasaheb-phalke-award"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Jnanpith Award is given for a writer's overall contribution to literature.",
+     "reason": "The Bharatiya Jnanpith sponsors the Jnanpith Award.",
+     "answer": 1,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both statements are true. The award moved from a single work to a writer's overall contribution in 1982, but sponsorship by Bharatiya Jnanpith does not explain why the award is given for overall contribution.",
+     "source": "https://www.britannica.com/art/Jnanpith-Award ; https://en.wikipedia.org/wiki/Jnanpith_Award"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The Dadasaheb Phalke Award is presented by the President of India.",
+      "2. The Dadasaheb Phalke Award is administered by the Directorate of Film Festivals.",
+      "3. The Saraswati Samman was instituted in 1984.",
+      "4. The Sahitya Akademi was founded in 1959."
+     ],
+     "mode": "correct",
+     "answer": 1,
+     "truth": [
+      true,
+      true,
+      false,
+      false
+     ],
+     "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because the Saraswati Samman was set up in 1991. Statement 4 is incorrect because Sahitya Akademi was inaugurated on 12 March 1954. Exactly two statements are correct, so the answer is Only two.",
+     "source": "https://nsd.gov.in/delhi/ ; https://www.sahitya-akademi.gov.in/aboutus/about.jsp ; https://www.britannica.com/art/Jnanpith-Award ; https://en.wikipedia.org/wiki/Saraswati_Samman ; https://www.gktoday.in/saraswati-samman/"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. Akademi Ratna is the highest honour conferred by the Sangeet Natak Akademi.",
+      "II. Devika Rani was the first recipient of the Dadasaheb Phalke Award.",
+      "III. Raja Harishchandra, India's first feature film, was released in 1931."
+     ],
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "All of the above"
+     ],
+     "answer": 0,
+     "truth": [
+      true,
+      true,
+      false
+     ],
+     "explanation": "Statements I and II are correct. Statement III is incorrect because Raja Harishchandra was released in 1913, so only I and II are correct.",
+     "source": "https://en.wikipedia.org/wiki/Sangeet_Natak_Akademi_Fellowship ; https://www.iasgyan.in/daily-current-affairs/sangeet-natak-akademi-awards-indias-highest-honour-in-performing-arts ; https://en.wikipedia.org/wiki/Raja_Harishchandra ; https://scroll.in/reel/836441/here-is-what-went-into-the-making-of-the-first-indian-feature-film"
+    }
+   ],
+   "residual": [
+    "Passage: fellow names, 13 Aug 2026 date, 115 artists, Rs 3 lakh/1 lakh rest on Drishti, GKToday, Sanskriti and search summaries of newsonair/DD News; official pages unreachable.",
+    "Passage: 7 Fellows + 108 awardees = 115 reconciled from search summaries only; no official post-event release read.",
+    "Q3: Phalke 1969 from exam-prep/guild pages and a President's Office release; no dff.gov.in page read. Devika Rani ceremony sometimes dated 1970.",
+    "Q4/Q7: Jnanpith 1961, first award 1965, 1982 shift rest on Britannica snippet plus Wikipedia.",
+    "Q7: Saraswati Samman instituted 1991 rests on Wikipedia, GKToday, Drishti; K. K. Birla Foundation site unreachable.",
+    "Q8: Akademi Ratna as highest honour from Wikipedia and exam-prep pages; no sangeetnatak.gov.in rules page read.",
+    "Q1: SNA under Ministry of Culture from Wikipedia, GKToday and Journals of India; official site not read.",
+    "Passage is short (about 120 words)."
+   ]
+  },
+  {
+   "title": "BHAVYA Rasayan chemical parks scheme",
+   "topic_tags": [
+    "Economy & Budget",
+    "Union Cabinet",
+    "chemical parks",
+    "industrial scheme",
+    "BHAVYA Rasayan"
+   ],
+   "slot": "T07P3",
+   "status": "complete",
+   "word_count": 92,
+   "text": "The Union Cabinet on 24 July 2026 approved the Bharat Audyogik Vikas Yojana Rasayan (BHAVYA Rasayan) scheme, with an outlay of Rs 3,030 crore, to set up three dedicated chemical parks across the country. The scheme will be implemented over five years, from FY 2026-27 to FY 2030-31.\n\nOf the total outlay, Rs 3,000 crore is for developing common infrastructure and basic utilities inside the parks, and Rs 30 crore is for administrative expenditure. The parks are meant to provide common infrastructure and basic utilities to the chemical units located in them.",
+   "sources": [
+    "https://visionias.in/current-affairs/news-today/2026-07-25/schemes-in-news/cabinet-approves-bhavya-rasayan-scheme",
+    "https://www.ibef.org/news/cabinet-approves-bhavya-rasayan-scheme-for-chemical-parks",
+    "https://www.indiasnews.net/news/279207835/cabinet-approves-rs-3030-crore-bhavya-rasayan-scheme-to-set-up-three-chemical-parks",
+    "https://www.newsorbiter.com/cabinet-approves-bhavya-rasayan-scheme-chemical-parks/",
+    "https://clatgurukul.com/cabinet-clears-rs-3030-crore-bhavya-rasayan-scheme-for-3-chemical-parks/",
+    "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-scheme-of-chemical-parks-bharat-audyogik-vikas-yojana-rasayan-bhavya-rasayan/",
+    "https://www.governancenow.com/news/regular-story/cabinet-approves-scheme-of-chemical-parks",
+    "https://www.freepressjournal.in/business/cabinet-approves-3030-crore-bhavya-rasayan-scheme-to-set-up-3-chemical-parks"
+   ],
+   "writer_flags": [
+    "Period widened from 1-8 Oct 2026 (or Sep-Oct 2026) to 24 Jul 2026: four searches found no well-covered Sep-Oct 2026 economy cluster; widened within Economy & Budget as the brief allows.",
+    "Rs 3,000 crore infrastructure / Rs 30 crore admin split came from one aggregated search summary citing IBEF; pages could not be fetched to verify directly.",
+    "Dropped from passage as not double-verified: Centre grant up to Rs 1,000 crore per park, state minimum Rs 500 crore, 2,000-acre minimum land parcel, and the list of plug-and-play facilities.",
+    "Q4 Article 352 (National Emergency) sourced to a general compilation page (vajiramandravi); Article 360 to vhtc.org. Not double-sourced from two independent legal sites.",
+    "Q5 reason R (CAG certification requirement) is false from the text of Article 116; no source states the falsity directly.",
+    "Q8 statement III (public health and sanitation is a State List subject, entry 6) rests on one quiz-type source plus the constitutionofindia List II page; verify before release.",
+    "Q1 and Q2 article texts were checked via search snippets from constitutionofindia.net and secondary sites; constitutionofindia.net itself could not be fetched."
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Which Article of the Constitution enables the Union or a State to make grants for any public purpose, even where that purpose lies outside its legislative competence?",
+     "options": [
+      "Article 265",
+      "Article 282",
+      "Article 300",
+      "Article 275"
+     ],
+     "answer": 1,
+     "explanation": "Article 282 allows the Union or a State to make grants for any public purpose, even if the purpose is outside its legislative competence. Article 265 requires that taxes be levied only by law, Article 275 provides grants-in-aid to certain States, and Article 300 concerns suits by and against the government.",
+     "source": "https://www.constitutionofindia.net/articles/article-282-expenditure-defrayable-by-the-union-or-a-state-out-of-its-revenues/ ; https://www.writinglaw.com/article-282-constitution-of-india/ ; https://vidhijudicial.com/article-282-of-the-constitution-of-india.html"
+    },
+    {
+     "type": "direct",
+     "q": "Under Article 74 of the Constitution, a Council of Ministers headed by whom aids and advises the President in the exercise of his functions?",
+     "options": [
+      "Vice President",
+      "Prime Minister",
+      "Finance Minister",
+      "Chief Justice of India"
+     ],
+     "answer": 1,
+     "explanation": "Article 74 provides for a Council of Ministers with the Prime Minister at its head to aid and advise the President, who must act in accordance with that advice (subject to one reconsideration). The Vice President, Chief Justice of India and Finance Minister are not the head of the Council of Ministers.",
+     "source": "https://www.writinglaw.com/article-74-constitution-of-india/ ; https://aaptaxlaw.com/constitution-of-india/article-74-75-constitution-council-of-ministers-to-aid-and-advise-president-other-provisions-as-to-ministers-article-74-75-of-constitution-of-india-1949.html ; https://www.law4u.in/top-answer/4598/what-is-constitution-of-india-article-74"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 279A",
+      "II. Article 280",
+      "III. Article 352",
+      "IV. Article 360"
+     ],
+     "list2": [
+      "A. National Emergency",
+      "B. Financial Emergency",
+      "C. Finance Commission",
+      "D. GST Council"
+     ],
+     "options": [
+      "I-C, II-D, III-B, IV-A",
+      "I-A, II-B, III-C, IV-D",
+      "I-D, II-C, III-A, IV-B",
+      "I-B, II-A, III-D, IV-C"
+     ],
+     "answer": 2,
+     "explanation": "Article 279A establishes the GST Council (D), Article 280 provides for the Finance Commission (C), Article 352 provides for a National Emergency (A) and Article 360 for a Financial Emergency (B). So I-D, II-C, III-A, IV-B is correct.",
+     "source": "https://www.drishtijudiciary.com/to-the-point/ttp-constitution-of-india/article-279a-the-gst-council ; https://www.drishtijudiciary.com/to-the-point/ttp-constitution-of-india/article-280-of-the-coi ; https://blog.ipleaders.in/article-360-of-the-indian-constitution/ ; https://vajiramandravi.com/current-affairs/emergency-provisions-in-indian-constitution/"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Lok Sabha can pass a vote on account to meet government expenditure for part of a financial year.",
+     "reason": "A vote on account can be passed only after the Comptroller and Auditor General certifies the annual accounts of the previous financial year.",
+     "answer": 2,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "The assertion is true: a vote on account is a grant made in advance for part of a financial year, provided for by Article 116. The reason is false: no certification of accounts by the Comptroller and Auditor General is a condition for passing a vote on account.",
+     "source": "https://www.constitutionofindia.net/articles/article-116-votes-on-account-votes-of-credit-and-exceptional-grants/ ; https://future.indiankanoon.org/doc/436447 ; https://www.icicidirect.com/union-budget/articles/what-is-vote-on-account"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The NITI Aayog replaced the Planning Commission in 2015.",
+      "2. The Fiscal Responsibility and Budget Management Act was enacted in 2003.",
+      "3. The Vice President of India is ex officio Chairman of the Rajya Sabha.",
+      "4. The Reserve Bank of India was established in 1935."
+     ],
+     "mode": "correct",
+     "answer": 3,
+     "truth": [
+      true,
+      true,
+      true,
+      true
+     ],
+     "explanation": "All four statements are correct: NITI Aayog replaced the Planning Commission in 2015; the FRBM Act was enacted in 2003 (assented 26 August 2003); under Article 64 the Vice President is ex officio Chairman of the Rajya Sabha; and the Reserve Bank of India was established on 1 April 1935. Since all four are correct, the answer is All four.",
+     "source": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=114276&reg=48&lang=2 ; https://indiacode.nic.in/handle/123456789/2064?locale=en ; https://dea.gov.in/acts-policies/fiscal-responsibility-and-budget-management-act-2003 ; https://future.indiankanoon.org/doc/393838 ; https://indiacode.nic.in/handle/123456789/2398?locale=en ; https://www.vedantu.com/question-answer/rbi-establishment-692ed500fbf5b951d526ce4a"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. Agriculture, including agricultural education and research, is a subject in the State List of the Seventh Schedule.",
+      "II. Education is a subject in the Union List of the Seventh Schedule and is not in the State List or the Concurrent List.",
+      "III. Public health and sanitation is a subject in the State List of the Seventh Schedule."
+     ],
+     "options": [
+      "II and III only",
+      "I and III only",
+      "I and II only",
+      "All of the above"
+     ],
+     "answer": 1,
+     "truth": [
+      true,
+      false,
+      true
+     ],
+     "explanation": "Statements I and III are true: agriculture (entry 14) and public health and sanitation (entry 6) are State List subjects. Statement II is false because the 42nd Amendment (1976) moved education from the State List to the Concurrent List. So the correct combination is I and III only.",
+     "source": "https://www.constitutionofindia.net/schedules/list-ii-state-list ; https://www.constitution.org/cons/india/shed072.html ; https://www.livelaw.in/amp/news-updates/madras-high-court-education-42nd-constitutional-amendment-181607 ; https://thewire.in/education/parallel-jurisdictions-a-constitutional-innovation-to-break-the-state-vs-centre-logjam"
+    }
+   ],
+   "residual": [
+    "Passage is very short (92 words); it states only confirmed facts and none of the questions test it directly.",
+    "All checks used search summaries only; no page was fetched, so article and schedule wording rests on snippets of constitutionofindia.net, indiankanoon and similar.",
+    "Q4 Art 352/360 mapping: ipleaders and Vajiram (both secondary); Art 279A/280 from Drishti Judiciary; no primary text page read.",
+    "Q5 reason false because Art 116 text has no CAG condition: an absence claim, no source states the falsity directly.",
+    "Q7 NITI Aayog 1 Jan 2015: PIB release plus exam-prep pages; RBI 1 April 1935: indiacode (Act of 1934) plus exam-prep, rbi.org.in not rechecked.",
+    "Q8 entries 6 and 14 rest on constitution text reproductions (constitutionofindia.net, constitution.org); 42nd Amendment point on LiveLaw and The Wire.",
+    "Q3 Art 74 source set is legal-text reproductions (writinglaw, aaptaxlaw, law4u); no government page fetched."
+   ]
+  },
+  {
+   "title": "PM-RAHAT Cashless Road Accident Treatment",
+   "topic_tags": [
+    "Schemes, reports & indices",
+    "Road safety",
+    "Health",
+    "Static GK"
+   ],
+   "slot": "T07P4",
+   "text": "The Prime Minister approved the launch of the Road Accident Victim Hospitalisation and Assured Treatment (PM-RAHAT) scheme in February 2026. Under the scheme, every eligible victim of a road accident is entitled to cashless treatment of up to Rs 1.5 lakh per person. The cover applies to accidents involving any motor vehicle, on any category of road in India, and it runs for seven days from the date of the accident.\n\nHospitals that treat these victims are reimbursed through the Motor Vehicle Accident Fund, according to the Ministry.",
+   "sources": [
+    "https://www.newsonair.gov.in/pm-modi-launches-pm-rahat-scheme-for-cashless-road-accident-treatment",
+    "https://www.newsonair.gov.in/government-announces-launch-of-pm-rahat-scheme-for-cashless-treatment-of-up-to-rs-1-lakh-50-thousand-for-road-accident-victims",
+    "https://westkhasihills.gov.in/scheme/prime-minister-road-accident-victims-hospitalisation-assured-treatment-pm-rahat/",
+    "https://en.vikaspedia.in/viewcontent/schemesall/central-government-schemes/pm-rahat"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "In which year was the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY) launched?",
+     "options": [
+      "2019",
+      "2018",
+      "2016",
+      "2017"
+     ],
+     "answer": 1,
+     "explanation": "PM-JAY was launched by the Prime Minister at Ranchi on 23 September 2018.",
+     "source": "https://www.pmindia.gov.in/?p=4206411 ; https://medicaldialogues.in/pm-to-launch-ayushman-bharat-health-scheme-from-ranchi-on-september-23 ; https://eparlib.sansad.in/bitstream/123456789/954675/1/AU44.pdf"
+    },
+    {
+     "type": "direct",
+     "q": "Which 1989 Supreme Court judgment made it obligatory for doctors and hospitals, public or private, to give immediate medical aid to road accident victims before complying with formalities?",
+     "options": [
+      "Vishaka v State of Rajasthan",
+      "Olga Tellis v Bombay Municipal Corporation",
+      "Bandhua Mukti Morcha v Union of India",
+      "Parmanand Katara v Union of India"
+     ],
+     "answer": 3,
+     "explanation": "Parmanand Katara v Union of India (decided 28 August 1989, petition under Article 32) held that doctors and hospitals must first provide immediate medical aid to accident victims, with legal formalities coming afterwards. The other three are different Supreme Court cases on other subjects.",
+     "source": "https://future.indiankanoon.org/doc/498126 ; https://bnblegal.com/landmark/pt-parmanand-katara-vs-union-india-ors/ ; https://www.globalhealthrights.org/?p=298"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Ayushman Bharat PM-JAY provides cover of up to Rs 5 lakh per family per year for secondary and tertiary hospital care.",
+     "reason": "PM-JAY is funded entirely by the Union government, and state governments contribute nothing to its cost.",
+     "answer": 2,
+     "explanation": "A is true: the scheme gives Rs 5 lakh per family per year for secondary and tertiary hospitalisation. R is false: PM-JAY is a centrally sponsored scheme funded jointly by the Centre and the states, with a 60:40 sharing for general states and 90:10 for North-Eastern and Himalayan states.",
+     "source": "https://cag.gov.in/uploads/download_audit_report/2023/10_Chapter-VI-064d22bab42d081.64642773.pdf ; https://sha.uk.gov.in/ScannedDocs/WebSite/Uploads/OTHERS_OTH/Revised Guidelines for Release of Grant in Aid to States & UT's for Implementation.pdf ; https://eparlib.sansad.in/bitstream/123456789/954675/1/AU44.pdf",
+     "truth": [
+      true,
+      false
+     ]
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 32",
+      "II. Article 41",
+      "III. Article 47",
+      "IV. Article 37"
+     ],
+     "list2": [
+      "A. Duty of the State to raise the level of nutrition and public health",
+      "B. Right to constitutional remedies",
+      "C. Right to work, education and public assistance in certain cases",
+      "D. Directive Principles are not enforceable by any court"
+     ],
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-D, III-A, IV-C",
+      "I-B, II-C, III-A, IV-D",
+      "I-C, II-B, III-D, IV-A"
+     ],
+     "answer": 2,
+     "explanation": "Article 32 is the right to constitutional remedies (B); Article 41 is the right to work, education and public assistance (C); Article 47 is the duty to raise nutrition and public health (A); Article 37 states that Directive Principles are not enforceable by any court (D).",
+     "source": "https://www.constitutionofindia.net/articles/article-37-application-of-the-principles-contained-in-this-part/ ; https://blog.ipleaders.in/significance-of-article-32-of-the-constitution-of-india-right-to-constitutional-remedies/ ; https://unacademy.com/content/study-material/general-knowledge/directive-principles-of-state-policy-article-41/ ; https://www.civilsdaily.com/directive-principles-of-state-policy/ ; https://blog.ipleaders.in/article-46-and-47-of-the-indian-constitution/"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Section 134A, inserted into the Motor Vehicles Act by the 2019 amendment, protects a Good Samaritan from civil or criminal action in certain circumstances.",
+      "II. Under the Central Motor Vehicles Rules, a Good Samaritan can be compelled to disclose personal details to the police."
+     ],
+     "answer": 0,
+     "explanation": "Statement I is correct: Section 134A (Protection of Good Samaritans) was inserted by the Motor Vehicles (Amendment) Act, 2019. Statement II is incorrect: the 2020 Good Samaritan rules say a Good Samaritan cannot be compelled to reveal personal details. Only I is correct.",
+     "source": "https://lawx.in/acts/section/46/465/4423 ; https://www.legitquest.com/act/central-motor-vehicles-twelfth-amendment-rules-2020/8F2C ; https://morungexpress.com/rules-for-protection-of-good-samaritans-notified ; https://www.chronicleindia.in/current-affairs/1746-rules-for-protection-of-good-samaritans",
+     "truth": [
+      true,
+      false
+     ]
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. The Motor Vehicle Accident Fund is constituted under Section 164B of the Motor Vehicles Act.",
+      "II. Money from the Motor Vehicle Accident Fund can be used for compensation in hit-and-run cases under Section 161.",
+      "III. Compensation for death in a motor accident under Section 164 is paid out of the Motor Vehicle Accident Fund."
+     ],
+     "options": [
+      "I and III only",
+      "II and III only",
+      "I and II only",
+      "All of the above"
+     ],
+     "answer": 2,
+     "explanation": "I is correct (Section 164B creates the Fund). II is correct (Section 161 covers hit-and-run compensation, which the Fund pays). III is incorrect: under Section 164, the owner or the authorised insurer is liable to pay compensation, not the Fund.",
+     "source": "https://lawx.in/acts/section/46/468/4456 ; https://lawx.in/acts/section/46/468/4454 ; https://courtbook.in/motor-vehicles-act-1988/section-164 ; https://www.caseon.in/section/section-164-the-motor-vehicles-act-1988 ; https://www.gktoday.in/motor-vehicle-accident-fund/",
+     "truth": [
+      true,
+      true,
+      false
+     ]
+    }
+   ],
+   "residual": [
+    "Passage is very short (about 90 words) because only double-sourced facts were kept.",
+    "Passage: PM approval/launch only 'February 2026'; exact date (13 vs 14 Feb) disputed; PMO says approval 13 Feb, MoRTH announced 14 Feb.",
+    "Passage: MVAF reimbursement and any-road/any-motor-vehicle coverage rest on AIR plus a state-government copy of notification and exam-prep summaries; PIB release not opened.",
+    "Q5 Articles 37/41/47 wording from study sites and constitutionofindia.net snippet; official text not fetched.",
+    "Q7 Sections 164B/161/164 rest on legal reference sites (lawx, courtbook, caseon) and a GKToday Bill summary; India Code not opened.",
+    "Q4 60:40/90:10 from CAG report and state health agency document; NHA primary guidelines not opened.",
+    "Q6 Good Samaritan rule text from LegitQuest and press summaries, not the Gazette GSR 594(E)."
+   ]
+  },
+  {
+   "title": "Golden Tempo wins the 152nd Kentucky Derby",
+   "topic_tags": [
+    "Sports",
+    "horse racing",
+    "Kentucky Derby",
+    "Churchill Downs",
+    "Triple Crown",
+    "2026"
+   ],
+   "slot": "T07P5",
+   "text": "The 152nd Kentucky Derby was run on 2 May 2026 at Churchill Downs and won by Golden Tempo, a long shot. Trailing for most of the race, the colt came from last to first in the closing stretch and won by a neck over Renegade, the morning-line favorite. Renegade was ridden by Irad Ortiz. The winning rider was his brother, Jose Ortiz. The field numbered 19 horses.\n\nGolden Tempo was trained by Cherie DeVaux, who became the first woman to train a Kentucky Derby winner.",
+   "sources": [
+    "https://africa.espn.com/horse-racing/story/_/id/48660708/golden-tempo-edges-renegade-win-kentucky-derby",
+    "https://www.wave3.com/2026/05/03/cherie-devaux-makes-racing-history-first-female-trainer-win-kentucky-derby/",
+    "https://www.cleveland19.com/2026/05/03/golden-tempo-takes-kentucky-derby-cherie-devaux-becomes-1st-woman-train-winner/",
+    "https://www.ksl.com/article/51492150/kentucky-derby-is-down-to-19-horses-after-the-puma-gets-scratched",
+    "https://www.click2houston.com/sports/2026/05/02/kentucky-derby-is-down-to-19-horses-after-the-puma-gets-scratched/",
+    "https://www.fanduel.com/research/2026-kentucky-derby-contenders-and-odds"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "What is the current race distance of the Kentucky Derby?",
+     "options": [
+      "1 1/4 miles",
+      "2 miles",
+      "1 1/2 miles",
+      "1 mile"
+     ],
+     "answer": 0,
+     "explanation": "The Kentucky Derby has been run over 1 1/4 miles since 1896; its first 21 runnings (1875-95) were over 1 1/2 miles.",
+     "source": "https://www.kentuckyderby.com/wp-content/uploads/sites/2/2025/08/One-and-One-Quarter-Miles-2026.pdf ; https://www.aol.com/long-kentucky-derby-many-miles-120229794.html ; https://www.americasbestracing.net/the-sport/2018-beginners-guide-the-triple-crown"
+    },
+    {
+     "type": "direct",
+     "q": "Which horse won the inaugural Kentucky Derby in 1875?",
+     "options": [
+      "Secretariat",
+      "Sir Barton",
+      "Aristides",
+      "Seattle Slew"
+     ],
+     "answer": 2,
+     "explanation": "Aristides, ridden by Oliver Lewis and trained by Ansel Williamson, won the first Kentucky Derby on 17 May 1875. Sir Barton, Secretariat and Seattle Slew are Triple Crown winners who won the Derby in later years.",
+     "source": "https://www.kentuckyderby.com/horses/news/aristides-part-2-kentucky-derby-day-1875/ ; https://en.wikipedia.org/wiki/1875_Kentucky_Derby ; https://americanheritage.com/content/first-kentucky-derby"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Cherie DeVaux became the first woman to train a winner of the Kentucky Derby.",
+     "reason": "The Kentucky Derby is the final leg of the Triple Crown of American thoroughbred racing.",
+     "answer": 2,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "A is true: DeVaux trained Golden Tempo, the 2026 winner, and was the first woman trainer to win the race. R is false: the Kentucky Derby is the first leg of the Triple Crown, followed by the Preakness Stakes and then the Belmont Stakes.",
+     "source": "https://africa.espn.com/horse-racing/story/_/id/48660708/golden-tempo-edges-renegade-win-kentucky-derby ; https://www.wave3.com/2026/05/03/cherie-devaux-makes-racing-history-first-female-trainer-win-kentucky-derby/ ; https://www.americasbestracing.net/the-sport/2018-beginners-guide-the-triple-crown ; https://unanswered.io/guide/triple-crown-horse-racing"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Preakness Stakes (traditional home)",
+      "II. Santa Anita Derby",
+      "III. Travers Stakes",
+      "IV. Pegasus World Cup"
+     ],
+     "list2": [
+      "A. Pimlico Race Course",
+      "B. Santa Anita Park",
+      "C. Saratoga Race Course",
+      "D. Gulfstream Park"
+     ],
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-D, III-A, IV-B",
+      "I-D, II-C, III-B, IV-A",
+      "I-B, II-A, III-D, IV-C"
+     ],
+     "answer": 0,
+     "explanation": "The Preakness Stakes is traditionally run at Pimlico Race Course in Baltimore (I-A); the 2026 edition was a one-year exception at Laurel Park while Pimlico is rebuilt. The Santa Anita Derby is run at Santa Anita Park in California (II-B). The Travers Stakes is run at Saratoga Race Course (III-C). The Pegasus World Cup is run at Gulfstream Park in Florida (IV-D).",
+     "source": "https://www.britannica.com/print/article/474283 ; https://www.fanduel.com/research/why-is-the-2026-preakness-stakes-at-laurel-park-instead-of-pimlico ; https://www.kentuckyderby.com/races/santa-anita-derby ; https://www.americasbestracing.net/races/2026-santa-anita-derby ; https://cms.nyra.com/saratoga/racing/stakes-schedule/travers ; https://dknetwork.draftkings.com/2026/08/29/2026-travers-stakes-start-time-how-to-watch/ ; https://sportnews.betflag.it/2026/01/15/pegasus-world-cup-2026/ ; https://dknetwork.draftkings.com/2026/01/24/who-is-favored-to-win-the-2026-pegasus-world-cup-full-odds-horses/"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. The Preakness Stakes is run over a distance of 1 3/16 miles.",
+      "II. The Travers Stakes is run over a distance of 1 mile."
+     ],
+     "answer": 0,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "Statement I is true: the Preakness is run over 1 3/16 miles (9.5 furlongs). Statement II is false: the Travers is run over 1 1/4 miles. Only I is correct.",
+     "source": "https://www.fanduel.com/research/how-long-is-the-preakness-how-many-miles-and-how-much-time-will-it-take-in-2024 ; https://www.americasbestracing.net/the-sport/2018-beginners-guide-the-triple-crown ; https://dknetwork.draftkings.com/2026/08/29/2026-travers-stakes-start-time-how-to-watch/ ; https://www.nyra.com/saratoga/racing/stakes-schedule/travers/"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. A furlong is one-eighth of a mile.",
+      "II. A furlong is 220 yards long.",
+      "III. A mile is equal to 10 furlongs."
+     ],
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I and III only",
+      "All of the above"
+     ],
+     "answer": 1,
+     "explanation": "Statements I and II are correct: a furlong is 220 yards, or one-eighth of a mile. Statement III is incorrect because a mile is 8 furlongs.",
+     "source": "https://www.oxfordlearnersdictionaries.com/definition/american_english/furlong ; https://www.merriam-webster.com/dictionary/furlongs ; https://www.britannica.com/dictionary/furlong"
+    }
+   ],
+   "residual": [
+    "Field of 19 horses: AP headline (via KSL/Click2Houston) plus lineup previews; no results-page count read; AP-syndicated copy is effectively one publisher.",
+    "Golden Tempo win, last-to-first, neck margin, Renegade/Irad Ortiz: ESPN plus AP-syndicated copy; ESPN snippet only, not fetched.",
+    "Preakness 1 3/16 miles: FanDuel and America's Best Racing explainers (search snippets); no primary Preakness/Pimlico page read.",
+    "Travers 1 1/4 miles: NYRA and DraftKings 2026 previews via snippets; no fetched primary page.",
+    "Santa Anita Park and Gulfstream Park venues: snippets only; Pegasus venue rests on Betflag and DraftKings.",
+    "Furlong facts: dictionaries and Wikipedia via snippets; 8 furlongs per mile is arithmetic from 1/8 mile, also stated by Simple Wikipedia.",
+    "Passage is very short (about 80 words) after deleting unconfirmed claims; Q4 assertion (first woman trainer) is also stated in the passage, so only R is discriminating."
+   ]
+  }
+ ]
+}

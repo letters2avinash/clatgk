@@ -1,0 +1,126 @@
+{
+  "title": "PM-RAHAT Cashless Road Accident Treatment",
+  "topic_tags": [
+    "Schemes, reports & indices",
+    "Road safety",
+    "Health",
+    "Static GK"
+  ],
+  "slot": "T07P4",
+  "text": "The Prime Minister approved the launch of the Road Accident Victim Hospitalisation and Assured Treatment (PM-RAHAT) scheme in February 2026. Under the scheme, every eligible victim of a road accident is entitled to cashless treatment of up to Rs 1.5 lakh per person. The cover applies to accidents involving any motor vehicle, on any category of road in India, and it runs for seven days from the date of the accident.\n\nHospitals that treat these victims are reimbursed through the Motor Vehicle Accident Fund, according to the Ministry.",
+  "sources": [
+    "https://www.newsonair.gov.in/pm-modi-launches-pm-rahat-scheme-for-cashless-road-accident-treatment",
+    "https://www.newsonair.gov.in/government-announces-launch-of-pm-rahat-scheme-for-cashless-treatment-of-up-to-rs-1-lakh-50-thousand-for-road-accident-victims",
+    "https://westkhasihills.gov.in/scheme/prime-minister-road-accident-victims-hospitalisation-assured-treatment-pm-rahat/",
+    "https://en.vikaspedia.in/viewcontent/schemesall/central-government-schemes/pm-rahat"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "In which year was the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY) launched?",
+      "options": [
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "answer": 2,
+      "explanation": "PM-JAY was launched by the Prime Minister at Ranchi on 23 September 2018.",
+      "source": "https://www.pmindia.gov.in/?p=4206411 ; https://medicaldialogues.in/pm-to-launch-ayushman-bharat-health-scheme-from-ranchi-on-september-23 ; https://eparlib.sansad.in/bitstream/123456789/954675/1/AU44.pdf"
+    },
+    {
+      "type": "direct",
+      "q": "Which 1989 Supreme Court judgment made it obligatory for doctors and hospitals, public or private, to give immediate medical aid to road accident victims before complying with formalities?",
+      "options": [
+        "Olga Tellis v Bombay Municipal Corporation",
+        "Bandhua Mukti Morcha v Union of India",
+        "Parmanand Katara v Union of India",
+        "Vishaka v State of Rajasthan"
+      ],
+      "answer": 2,
+      "explanation": "Parmanand Katara v Union of India (decided 28 August 1989, petition under Article 32) held that doctors and hospitals must first provide immediate medical aid to accident victims, with legal formalities coming afterwards. The other three are different Supreme Court cases on other subjects.",
+      "source": "https://future.indiankanoon.org/doc/498126 ; https://bnblegal.com/landmark/pt-parmanand-katara-vs-union-india-ors/ ; https://www.globalhealthrights.org/?p=298"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Ayushman Bharat PM-JAY provides cover of up to Rs 5 lakh per family per year for secondary and tertiary hospital care.",
+      "reason": "PM-JAY is funded entirely by the Union government, and state governments contribute nothing to its cost.",
+      "answer": 2,
+      "explanation": "A is true: the scheme gives Rs 5 lakh per family per year for secondary and tertiary hospitalisation. R is false: PM-JAY is a centrally sponsored scheme funded jointly by the Centre and the states, with a 60:40 sharing for general states and 90:10 for North-Eastern and Himalayan states.",
+      "source": "https://cag.gov.in/uploads/download_audit_report/2023/10_Chapter-VI-064d22bab42d081.64642773.pdf ; https://sha.uk.gov.in/ScannedDocs/WebSite/Uploads/OTHERS_OTH/Revised Guidelines for Release of Grant in Aid to States & UT's for Implementation.pdf ; https://eparlib.sansad.in/bitstream/123456789/954675/1/AU44.pdf",
+      "truth": [
+        true,
+        false
+      ]
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Article 32",
+        "II. Article 41",
+        "III. Article 47",
+        "IV. Article 37"
+      ],
+      "list2": [
+        "A. Duty of the State to raise the level of nutrition and public health",
+        "B. Right to constitutional remedies",
+        "C. Right to work, education and public assistance in certain cases",
+        "D. Directive Principles are not enforceable by any court"
+      ],
+      "options": [
+        "I-A, II-B, III-C, IV-D",
+        "I-B, II-D, III-A, IV-C",
+        "I-B, II-C, III-A, IV-D",
+        "I-C, II-B, III-D, IV-A"
+      ],
+      "answer": 2,
+      "explanation": "Article 32 is the right to constitutional remedies (B); Article 41 is the right to work, education and public assistance (C); Article 47 is the duty to raise nutrition and public health (A); Article 37 states that Directive Principles are not enforceable by any court (D).",
+      "source": "https://www.constitutionofindia.net/articles/article-37-application-of-the-principles-contained-in-this-part/ ; https://blog.ipleaders.in/significance-of-article-32-of-the-constitution-of-india-right-to-constitutional-remedies/ ; https://unacademy.com/content/study-material/general-knowledge/directive-principles-of-state-policy-article-41/ ; https://www.civilsdaily.com/directive-principles-of-state-policy/ ; https://blog.ipleaders.in/article-46-and-47-of-the-indian-constitution/"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. Section 134A, inserted into the Motor Vehicles Act by the 2019 amendment, protects a Good Samaritan from civil or criminal action in certain circumstances.",
+        "II. Under the Central Motor Vehicles Rules, a Good Samaritan can be compelled to disclose personal details to the police."
+      ],
+      "answer": 0,
+      "explanation": "Statement I is correct: Section 134A (Protection of Good Samaritans) was inserted by the Motor Vehicles (Amendment) Act, 2019. Statement II is incorrect: the 2020 Good Samaritan rules say a Good Samaritan cannot be compelled to reveal personal details. Only I is correct.",
+      "source": "https://lawx.in/acts/section/46/465/4423 ; https://www.legitquest.com/act/central-motor-vehicles-twelfth-amendment-rules-2020/8F2C ; https://morungexpress.com/rules-for-protection-of-good-samaritans-notified ; https://www.chronicleindia.in/current-affairs/1746-rules-for-protection-of-good-samaritans",
+      "truth": [
+        true,
+        false
+      ]
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. The Motor Vehicle Accident Fund is constituted under Section 164B of the Motor Vehicles Act.",
+        "II. Money from the Motor Vehicle Accident Fund can be used for compensation in hit-and-run cases under Section 161.",
+        "III. Compensation for death in a motor accident under Section 164 is paid out of the Motor Vehicle Accident Fund."
+      ],
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "I is correct (Section 164B creates the Fund). II is correct (Section 161 covers hit-and-run compensation, which the Fund pays). III is incorrect: under Section 164, the owner or the authorised insurer is liable to pay compensation, not the Fund.",
+      "source": "https://lawx.in/acts/section/46/468/4456 ; https://lawx.in/acts/section/46/468/4454 ; https://courtbook.in/motor-vehicles-act-1988/section-164 ; https://www.caseon.in/section/section-164-the-motor-vehicles-act-1988 ; https://www.gktoday.in/motor-vehicle-accident-fund/",
+      "truth": [
+        true,
+        true,
+        false
+      ]
+    }
+  ],
+  "residual": [
+    "Passage is very short (about 90 words) because only double-sourced facts were kept.",
+    "Passage: PM approval/launch only 'February 2026'; exact date (13 vs 14 Feb) disputed; PMO says approval 13 Feb, MoRTH announced 14 Feb.",
+    "Passage: MVAF reimbursement and any-road/any-motor-vehicle coverage rest on AIR plus a state-government copy of notification and exam-prep summaries; PIB release not opened.",
+    "Q5 Articles 37/41/47 wording from study sites and constitutionofindia.net snippet; official text not fetched.",
+    "Q7 Sections 164B/161/164 rest on legal reference sites (lawx, courtbook, caseon) and a GKToday Bill summary; India Code not opened.",
+    "Q4 60:40/90:10 from CAG report and state health agency document; NHA primary guidelines not opened.",
+    "Q6 Good Samaritan rule text from LegitQuest and press summaries, not the Gazette GSR 594(E)."
+  ]
+}
