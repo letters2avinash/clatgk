@@ -23,7 +23,7 @@
   {"type": "direct",
    "q": "Argentina entered the 2026 final as defending champion. Which player won the Golden Ball at the 2022 World Cup, and remains the only player to have won that award twice?",
    "options": ["Luka Modric", "Kylian Mbappe", "Lionel Messi", "Antoine Griezmann"], "answer": 2,
-   "explanation": "Lionel Messi was awarded the Golden Ball at the 2022 World Cup (he had also won it in 2014) and is the only player to receive it twice. Mbappe won the 2022 Golden Boot instead.",
+   "explanation": "Lionel Messi was awarded the Golden Ball at the 2022 World Cup and is the only player to receive it twice. Mbappe won the 2022 Golden Boot instead.",
    "source": "https://www.cbsnews.com/amp/miami/news/argentina-france-2022-world-cup-final"},
   {"type": "assertion_reason",
    "assertion": "The Estadio Azteca in Mexico City became the first stadium in football history to host matches at three different FIFA World Cups when the 2026 tournament opened there.",
