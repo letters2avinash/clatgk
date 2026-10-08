@@ -6,3 +6,4 @@ Test 4: SC Kuldeep Singh anticipatory bail + M.C. Mehta NCR air pollution; India
 Test 5: Glaw Lake Ramsar + elephant corridors; Booker 2026 shortlist + 72nd National Film Awards; defence news 1-8 Oct 2026; India's economy Jan 2026 (NSO advance estimates, Economic Survey 2025-26); Milano Cortina Winter Olympics.
 Test 6 (in progress): CPI base 2024 + Startup India FoF 2.0; 5 Mar 2026 Governor reshuffle; state assembly election results May 2026; ISRO-AIIMS MoU / ZSI lichen moths / quantum labs; Jojari River SC order.
 Spare: Padma Awards 2026 (data/spare/padma_awards.json).
+Test 7 T07P3 (Economy & Budget, widened to 24 Jul 2026): BHAVYA Rasayan chemical-parks scheme (Rs 3,030 cr, Cabinet 24 Jul 2026).

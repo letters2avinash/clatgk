@@ -1,0 +1,241 @@
+{
+ "passage_file": "data/draft/t06_p4.json",
+ "passage_claims": [
+  {
+   "claim": "ISRO-AIIMS framework MoU, signed by D K Singh and M Srinivas in presence of V Narayanan; ISRO release dated 10 March 2026",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.isro.gov.in/ISRO_AIIMS_NewDelhi_signs_Framework_Memorandum.html",
+    "https://health.medicaldialogues.in/health/aiims-new-delhi-and-isro-sign-historic-mou-to-advance-space-medicine-research-in-india-166139"
+   ],
+   "note": "Other outlets say 9 March; passage reworded to cite ISRO's release date."
+  },
+  {
+   "claim": "Research areas list and BAS/Moon mission context",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.isro.gov.in/ISRO_AIIMS_NewDelhi_signs_Framework_Memorandum.html",
+    "https://www.digitalhealthnews.com/aiims-isro-partner-to-advance-space-medicine-research-in-india"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "AIIMS role: protocol development, monitoring, countermeasure testing, sample analysis",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://indiamedtoday.com/aiims-isro-sign-space-medicine-pact-to-boost-human-spaceflight-healthcare-research/"
+   ],
+   "note": "Deleted."
+  },
+  {
+   "claim": "K K Deepak remarks on muscle loss, bone weakening, ageing; officials' patient benefit remark",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "Searches confirm Deepak presented but not the remarks. Deleted."
+  },
+  {
+   "claim": "ZSI described Caulocera hollowayi (Golitar, Sikkim) and Asura buxa (Panijhora, WB) in Zootaxa; features; lichen indicator role",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.tribuneindia.com/news/india/zoological-survey-of-india-discovers-2-new-species-of-lichen-moth-in-eastern-himalaya/",
+    "https://theprint.in/india/indian-scientists-discover-two-new-species-of-lichen-moths-environment-minister/2879092/",
+    "https://mapress.com/zt/article/view/zootaxa.5763.1.4"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Dhriti Banerjee called it a milestone in Indian taxonomy",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.thestatesman.com/bengal/zsi-scientists-discover-new-species-of-air-pollution-indicator-moths-1503569663.html",
+    "https://www.tribuneindia.com/news/india/zoological-survey-of-india-discovers-2-new-species-of-lichen-moth-in-eastern-himalaya/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Environment Minister Bhupender Yadav quote",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "Not checked; deleted because it hints MoEFCC for the ZSI/BSI question (giveaway)."
+  },
+  {
+   "claim": "16 March 2026: 23 institutions approved for quantum teaching labs; Jitendra Singh chair; Ajay Sood attended; 100 more under consideration; IISF 2026 Pune proposed",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.newsonair.gov.in/govt-grants-approval-for-establishing-quantum-teaching-facilities-laboratories-in-23-academic-institutions-across-country",
+    "https://www.dailyexcelsior.com/quantum-teaching-facility-to-be-established-in-23-academic-institutions-across-india-dr-jitendra/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Approval spread across several states; aims for workforce in computing, communication, sensing via hands-on training",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "Replaced by 'part of the National Quantum Mission' (confirmed)."
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "B (51A(h))",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "WEAK_SOURCE"
+   ],
+   "sources": [
+    "https://theleaflet.in/constitution-day-india-needs-to-develop-scientific-temper-spirit-of-inquiry-and-humanism",
+    "https://prepp.in/question/to-develop-the-scientific-temper-humanism-and-the-6a05f8c7bdefbc3714a0b2f9"
+   ],
+   "fix": "explanation trimmed of unverified other-clause detail; source updated",
+   "note": "Constitution text unreachable; multiple independent secondary sites agree on (h)."
+  },
+  {
+   "index": 2,
+   "verdict": "OK",
+   "my_answer": "1969",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://en.wikipedia.org/wiki/ISRO",
+    "https://www.britannica.com/print/article/1330958"
+   ],
+   "fix": null,
+   "note": ""
+  },
+  {
+   "index": 3,
+   "verdict": "OK",
+   "my_answer": "Rs 6,003.65 crore",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://dst.gov.in/node/7008",
+    "https://www.businesstoday.in/amp/latest/economy/story/cabinet-approves-national-quantum-mission-for-rs-6000-cr-to-accelerate-quantum-technology-378051-2023-04-19"
+   ],
+   "fix": null,
+   "note": "Stem year hint would give away Q7 stmt 4; Q7 dropped so no conflict."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "I-B, II-D, III-C, IV-A",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2160028",
+    "https://dst.gov.in/survey-of-india-zone",
+    "https://mausam.imd.gov.in/responsive/orgStructure.php",
+    "https://mines.gov.in/admin/download/65d843ec4cbf11708671980.pdf"
+   ],
+   "fix": null,
+   "note": "Each pair has a primary or official source plus another; only option 2 correct."
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "3 (A false, R true)",
+   "key_answer_correct": true,
+   "truth_values": [
+    false,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.britannica.com/print/article/1330958",
+    "https://www.advocatekhoj.com/library/bareacts/biologicaldiversity/8.php",
+    "https://v1.wii.gov.in/node/1744"
+   ],
+   "fix": null,
+   "note": ""
+  },
+  {
+   "index": 6,
+   "verdict": "DROP",
+   "my_answer": "1 (II only)",
+   "key_answer_correct": true,
+   "truth_values": [
+    false,
+    true
+   ],
+   "issues": [
+    "GIVEAWAY",
+    "OVERLAP"
+   ],
+   "sources": [
+    "https://www.isro.gov.in/Powers_and_duties.html",
+    "https://en.wikipedia.org/wiki/Department_of_Space"
+   ],
+   "fix": null,
+   "note": "Stmt I (Act year) is given away by Q5's reason citing the 2002 Act; overlaps Q5; 'directly under PM' wording weaker. Dropped to reach 6."
+  },
+  {
+   "index": 7,
+   "verdict": "DROP",
+   "my_answer": "2 (only two)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    false,
+    false
+   ],
+   "issues": [
+    "GIVEAWAY",
+    "WEAK_SOURCE"
+   ],
+   "sources": [
+    "https://moef.gov.in/index.php/zoological-survey-of-india",
+    "https://cgwb.gov.in/node/1904"
+   ],
+   "fix": null,
+   "note": "Stmt 4 hinted by Q3 stem (2023-24); CGWB-Jal Shakti rests on CGWB's own pages only; overlaps Q8 on ZSI. Dropped to reach 6."
+  },
+  {
+   "index": 8,
+   "verdict": "OK",
+   "my_answer": "I and II only",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://moef.gov.in/index.php/botanical-survey-of-india",
+    "https://moef.gov.in/index.php/zoological-survey-of-india",
+    "https://tropmet.res.in/event_data/IITM-Info_flyer-2024_English.pdf"
+   ],
+   "fix": null,
+   "note": "Giveaway risk from Environment Minister mention removed from passage. BSI claim rests on MoEF + Wikipedia."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "On 10 March 2026, according to ISRO's official release,",
+   "new": "According to ISRO's official release dated 10 March 2026,",
+   "reason": "date disagreement across outlets"
+  },
+  {
+   "old": "AIIMS is expected to handle ... circulatory problems.",
+   "new": "",
+   "reason": "unconfirmed by two publishers"
+  },
+  {
+   "old": "Environment Minister Bhupender Yadav called ... while ZSI Director",
+   "new": "ZSI Director",
+   "reason": "unverified and hints MoEFCC"
+  },
+  {
+   "old": "The approval covers institutions spread across ... hands-on training.",
+   "new": "The approval is part of the National Quantum Mission.",
+   "reason": "unconfirmed detail"
+  }
+ ],
+ "summary": "Kept 6 of 8; Q6 and Q7 dropped for giveaway/overlap/thin sourcing. Many primary pages unfetchable (DNS), so confirmations rely on search results; 23 searches used."
+}
