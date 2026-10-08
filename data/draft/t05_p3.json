@@ -1,0 +1,98 @@
+{
+  "title": "India-UAE drill and Air Force Day",
+  "topic_tags": ["defence", "security", "military exercise", "Indian Air Force", "Make-II procurement"],
+  "slot": "T05P3",
+  "text": "An India-UAE joint military exercise, Mountain Guardian 2026, began on 5 October 2026 at the Foreign Training Node in Chaubatia, Uttarakhand. The exercise will run until 18 October and focuses on mountain warfare, with the aim of improving the ability of the two armies to work together in sub-conventional operations. Each side has deployed 46 personnel, bringing the strength of the exercise to 92. The Indian contingent is drawn from a Bhairav Battalion, while the UAE Army's contingent comes from a Mountain Infantry Battalion. Women officers and combatants from both armies are taking part in specialist roles. Planned training includes joint planning, tactical drills, firing practice, surveillance grids, drone operations, rock climbing, obstacle training and integrated field exercises.\n\nOn 8 October 2026, the Indian Air Force will observe Air Force Day, marking the 94th anniversary of the force. The main parade is scheduled at Hindon Air Force Station in Ghaziabad, Uttar Pradesh, and a full-dress rehearsal was held there on 6 October. The day is marked each year with a parade, a flypast and air displays. This year's theme is \"Indian Air Force - Infallible, Impervious and Precise.\" Air Chief Marshal A.P. Singh has said the day is an occasion to review the past year and to thank the veterans who built the force.\n\nEarlier, on 21 September 2026, the Ministry of Defence signed a contract worth about Rs 586 crore with Accurate Industrial Controls Private Limited in New Delhi. The contract covers auxiliary power units for the Army's T-72 and T-90 tanks and was placed under the Make-II category, which is meant for industry-led research and development. Defence Secretary Rajesh Kumar Singh was present at the signing. Officials said the units supply secondary electricity to the tank's fire control system, firing circuit and gun stabilisation system, and help conserve the main engine during surveillance and training. The ministry said the project is a step toward indigenising critical tank subsystems and reducing reliance on imports, and could generate domestic and export business beyond this order.",
+  "sources": [
+    "https://newsonair.gov.in/india-uae-joint-military-exercise-mountain-guardian-2026-begins-in-uttarakhand/",
+    "https://www.uniindia.com/national/defence-uae-joint-military-exercise/203689",
+    "https://utkarsh.com/current-affairs/national/importants-day/indian-air-force-day-2026-8-october-theme-history-and-celebration",
+    "https://indianmasterminds.com/news/defence/indian-air-force-day-2026-94th-anniversary-239832/",
+    "https://ddindia.co.in/2026/10/iaf-conducts-full-dress-rehearsal-at-hindon-airbase-ahead-of-air-force-day-parade-on-oct-8/",
+    "https://newsonair.gov.in/defence-ministry-signs-%e2%82%b9586-crore-contract-for-apus-for-t-72-and-t-90-tanks/",
+    "https://theprint.in/india/defence-ministry-inks-rs-586-cr-contract-to-procure-power-units-for-t-72-t-90-tanks/3048820/",
+    "https://www.thehansindia.com/news/cities/new-delhi/defence-ministry-inks-rs-586-crore-deal-to-buy-auxiliary-power-units-for-t-72-t-90-tanks-1124131"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Which aircraft does the Surya Kiran aerobatic team of the Indian Air Force currently fly?",
+      "options": ["Dassault Rafale", "BAE Hawk Mk.132", "Sukhoi Su-30MKI", "HAL Tejas"],
+      "answer": 1,
+      "explanation": "The Surya Kiran team flies the BAE Hawk Mk.132, an advanced jet trainer that HAL licence-builds for the IAF.",
+      "source": "https://en.wikipedia.org/wiki/Surya_Kiran ; https://aerobaticteams.net/en/teams/i170/Surya-Kiran.html"
+    },
+    {
+      "type": "direct",
+      "q": "In which state was the Indian Coast Guard vessel ICGS Akshay commissioned in June 2026?",
+      "options": ["Kerala", "Gujarat", "Odisha", "Goa"],
+      "answer": 3,
+      "explanation": "ICGS Akshay, a fast patrol vessel built by Goa Shipyard Limited, was commissioned in Goa on 27 June 2026.",
+      "source": "https://newsonair.gov.in/indian-coast-guard-commissions-fast-patrol-vessel-icgs-akshay-in-goa/ ; https://swarajyamag.com/amp/story/news-brief/built-in-goa-under-atmanirbhar-bharat-fast-patrol-vessel-icgs-akshay-commissioned-into-indian-coast-guard"
+    },
+    {
+      "type": "direct",
+      "q": "In which month and year was the first edition of the India-UAE army exercise Desert Cyclone held?",
+      "options": ["March 2023", "November 2024", "January 2024", "October 2026"],
+      "answer": 2,
+      "explanation": "Desert Cyclone I was held at Mahajan, Rajasthan, from 2 to 15 January 2024.",
+      "source": "https://www.globalsecurity.org/wmd/library/news/india/2024/india-240102-india-pib01.htm ; https://www.business-standard.com/industry/news/india-uae-joint-military-exercise-desert-cyclone-underway-in-rajasthan-124010500111_1.html"
+    },
+    {
+      "type": "match",
+      "list1": ["I. Desert Cyclone II (2025 edition)", "II. No. 1 Squadron, Indian Air Force (raised 1933)", "III. Surya Kiran aerobatic team", "IV. Desert Cyclone I (2024 edition)"],
+      "list2": ["A. Bidar, Karnataka", "B. Abu Dhabi, UAE", "C. Drigh Road, Karachi", "D. Mahajan, Rajasthan"],
+      "options": ["I-B, II-C, III-A, IV-D", "I-A, II-B, III-C, IV-D", "I-B, II-A, III-D, IV-C", "I-D, II-C, III-A, IV-B"],
+      "answer": 0,
+      "explanation": "Desert Cyclone II was held at Al-Hamra Training City, Abu Dhabi, in December 2025; No. 1 Squadron was raised at Drigh Road, Karachi, on 1 April 1933; the Surya Kiran team began at Bidar, Karnataka; Desert Cyclone I was held at Mahajan, Rajasthan.",
+      "source": "https://www.newsonair.gov.in/india-uae-desert-cyclone-ii-exercise-concludes-in-abu-dhabi ; https://en.wikipedia.org/wiki/No._1_Squadron_IAF ; https://migflug.com/afterburner/?p=26665176 ; https://en.wikipedia.org/wiki/Surya_Kiran ; https://aerobaticteams.net/en/teams/i170/Surya-Kiran.html ; https://www.globalsecurity.org/wmd/library/news/india/2024/india-240102-india-pib01.htm"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "ICGS Akshay, a fast patrol vessel of the Indian Coast Guard, was built by Cochin Shipyard Limited.",
+      "reason": "ICGS Akshay was commissioned into the Indian Coast Guard in June 2026.",
+      "answer": 3,
+      "explanation": "The assertion is false: ICGS Akshay was built by Goa Shipyard Limited, not Cochin Shipyard. The reason is true: the vessel was commissioned on 27 June 2026. A false, R true gives answer 3.",
+      "truth": [false, true],
+      "source": "https://newsonair.gov.in/indian-coast-guard-commissions-fast-patrol-vessel-icgs-akshay-in-goa/ ; https://swarajyamag.com/amp/story/news-brief/built-in-goa-under-atmanirbhar-bharat-fast-patrol-vessel-icgs-akshay-commissioned-into-indian-coast-guard"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Surya Kiran aerobatic team is based at Hindon Air Force Station, Ghaziabad.",
+        "II. Bidar Air Force Station is located in Kerala."
+      ],
+      "answer": 3,
+      "explanation": "Neither statement is correct. The Surya Kiran team is based at Bidar, Karnataka, not Hindon, and Bidar lies in Karnataka, not Kerala.",
+      "truth": [false, false],
+      "source": "https://en.wikipedia.org/wiki/Surya_Kiran ; https://aerobaticteams.net/en/teams/i170/Surya-Kiran.html"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. ICGS Achal was commissioned in May 2026.",
+        "2. ICGS Achal was built by Goa Shipyard Limited.",
+        "3. ICGS Achal belongs to the Adamya-class series of fast patrol vessels.",
+        "4. ICGS Achal was commissioned in 2025."
+      ],
+      "mode": "correct",
+      "answer": 2,
+      "explanation": "Statements 1, 2 and 3 are correct; statement 4 is incorrect because ICGS Achal was commissioned in May 2026. Three statements are correct, so the answer is Only three.",
+      "truth": [true, true, true, false],
+      "source": "https://www.newsonair.gov.in/indian-coast-guard-commissions-icgs-achal-at-goa-shipyard-limited/ ; https://uniindia.com/icgs-achal-inducted-boosts-coast-guard-s-maritime-surveillance-capabilities/india/news/3838223.html"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. Desert Cyclone II was a bilateral army exercise between India and the UAE.",
+        "II. Desert Cyclone II was held in December 2025.",
+        "III. Desert Cyclone II was a naval exercise."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "explanation": "I and II are correct. III is wrong because Desert Cyclone is an army exercise, not a naval one.",
+      "truth": [true, true, false],
+      "source": "https://www.newsonair.gov.in/india-uae-desert-cyclone-ii-exercise-concludes-in-abu-dhabi ; https://web-upsc.getmarks.app/current-affair/india-uae-desert-cyclone-ii-army-exercise-concludes-in-abu-dhabi-on-de-88f5f4/"
+    }
+  ]
+}
