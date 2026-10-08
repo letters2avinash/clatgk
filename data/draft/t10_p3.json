@@ -1,0 +1,165 @@
+{
+ "title": "Chhattisgarh UCC panel",
+ "topic_tags": [
+  "States & regional",
+  "Uniform Civil Code",
+  "Chhattisgarh",
+  "Directive Principles"
+ ],
+ "slot": "T10P3",
+ "status": "complete",
+ "text": "The Chhattisgarh cabinet, chaired by Chief Minister Vishnu Deo Sai, decided in April 2026 to set up a high-level committee to prepare a draft Uniform Civil Code for the state. Retired judge Ranjana Prakash Desai was named to lead the panel, and the Chief Minister was authorised to nominate its other members.\n\nThe General Administration Department issued the formal order on 25 June 2026, constituting a five-member panel. Its members include retired IAS officers Shatrughan Singh and M.K. Raut, senior advocate Mohan Pawar and retired principal Jyoti Rani Singh.\n\nThe committee is to study the feasibility of a Uniform Civil Code, review the personal laws governing marriage, divorce, maintenance, inheritance, succession and adoption, and recommend a legislative framework. It is to seek suggestions from citizens, social organisations and legal experts before finalising its recommendations.\n\nThe first meeting was scheduled for 24 July 2026. Chief Minister Sai has said the government intends to introduce the Bill in the Assembly's winter session, expected in December, once the committee submits its recommendations.",
+ "sources": [
+  "https://newsonair.gov.in/chhattisgarh-cabinet-approves-constitution-of-high-level-committee-to-prepare-draft-of-uniform-civil-code/",
+  "https://www.pgurus.com/chhattisgarh-moves-towards-uniform-civil-code-forms-high-level-panel-to-draft-legislation/",
+  "https://www.thehitavada.com/Encyc/2026/6/27/state-forms-high-powered-panel-to-draft-uniform-civil-code.html",
+  "https://www.deccanherald.com/india/chhattisgarh/chhattisgarh-sets-up-5-member-panel-to-prepare-ucc-draft-justice-desai-to-head-it-4052839",
+  "https://www.etvbharat.com/en/state/chhattisgarh-begins-preparations-to-implement-uniform-civil-code-enn26062604740",
+  "https://www.etvbharat.com/en/bharat/chhattisgarh-panel-to-hold-first-meeting-to-draft-uniform-civil-code-enn26072403681",
+  "https://www.deccanherald.com/india/chhattisgarh/chhattisgarh-govt-to-table-uniform-civil-code-bill-in-winter-session-of-state-assembly-cm-sai-4085709",
+  "https://www.siasat.com/chhattisgarh-govt-to-table-ucc-bill-in-winter-session-cm-sai-3512637/"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "Which Article of the Constitution directs the State to endeavour to secure a Uniform Civil Code for citizens throughout India?",
+   "options": [
+    "Article 19",
+    "Article 44",
+    "Article 300A",
+    "Article 370"
+   ],
+   "answer": 1,
+   "explanation": "Article 44, a Directive Principle in Part IV, directs the State to endeavour to secure a Uniform Civil Code throughout India. Article 19 lists certain freedoms, Article 300A protects property as a legal right, and Article 370 dealt with the special status of Jammu and Kashmir.",
+   "source": "https://www.understandupsc.com/article-44-uniform-civil-code/ ; https://www.law4u.in/top-answer/4230/what-is-constitution-of-india-article-44"
+  },
+  {
+   "type": "direct",
+   "q": "Which Article guarantees freedom of conscience and the right to freely profess, practise and propagate religion, subject to public order, morality and health?",
+   "options": [
+    "Article 16",
+    "Article 25",
+    "Article 29",
+    "Article 300A"
+   ],
+   "answer": 1,
+   "explanation": "Article 25(1) guarantees freedom of conscience and the right to profess, practise and propagate religion, subject to public order, morality, health and other Part III provisions. Article 16 concerns equality of opportunity in public employment, Article 29 concerns cultural and educational rights, and Article 300A concerns property.",
+   "source": "https://advocategandhi.com/faith-and-freedom-understanding-article-25-of-the-indian-constitution/ ; https://forumias.com/blog/article-25-of-indian-constitution/"
+  },
+  {
+   "type": "direct",
+   "q": "Chhattisgarh was formed in 2000 as India's 26th state after being carved out of which existing state?",
+   "options": [
+    "Bihar",
+    "Madhya Pradesh",
+    "Odisha",
+    "Uttar Pradesh"
+   ],
+   "answer": 1,
+   "explanation": "Chhattisgarh was formed on 1 November 2000 by partitioning southeastern districts of Madhya Pradesh under the Madhya Pradesh Reorganisation Act. Bihar, Odisha and Uttar Pradesh were not its parent state.",
+   "source": "https://en.dharmapedia.net/wiki/Chhattisgarh ; https://www.bankbazaar.com/indian-holidays/chhattisgarh-formation-day.html"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Article 39A",
+    "II. Article 40",
+    "III. Article 48A",
+    "IV. Article 51A"
+   ],
+   "list2": [
+    "A. Organisation of village panchayats",
+    "B. Protection of environment and wildlife",
+    "C. Equal justice and free legal aid",
+    "D. Fundamental duties of citizens"
+   ],
+   "options": [
+    "I-C, II-A, III-B, IV-D",
+    "I-A, II-C, III-D, IV-B",
+    "I-B, II-D, III-A, IV-C",
+    "I-D, II-B, III-C, IV-A"
+   ],
+   "answer": 0,
+   "explanation": "Article 39A provides for equal justice and free legal aid; Article 40 for organisation of village panchayats; Article 48A for protection of environment and wildlife; Article 51A lists the Fundamental Duties (Part IVA).",
+   "source": "https://www.gktoday.in/article-39a/ ; https://affairscloud.com/indian-polity-part-iv-directive-principal-of-state-policy-article-36-to-article-51 ; https://studyhub.net.in/inshorts/article-51a-of-indian-constitution-upsc-2026/"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "Directive Principles of State Policy cannot be enforced by any court.",
+   "reason": "Directive Principles can be enforced through writ petitions filed in the High Courts.",
+   "answer": 2,
+   "explanation": "A is true: Article 37 states that the Directive Principles are not enforceable by any court. R is false: writ petitions are not the remedy for Directive Principles, which remain non-justiciable.",
+   "truth": [
+    true,
+    false
+   ],
+   "source": "https://www.gktoday.in/article-44-in-the-constitution-of-india-is-mere-sy/ ; https://www.understandupsc.com/article-44-uniform-civil-code/"
+  },
+  {
+   "type": "statement_multi",
+   "statements": [
+    "I. Article 50 directs the State to take steps to separate the judiciary from the executive in public services.",
+    "II. Article 48 directs the State to organise agriculture and animal husbandry on modern and scientific lines."
+   ],
+   "options": [
+    "I only",
+    "II only",
+    "Neither I nor II",
+    "I and II only"
+   ],
+   "answer": 3,
+   "explanation": "Both statements describe Directive Principles in Part IV: Article 50 on separating the judiciary from the executive, and Article 48 on modern and scientific agriculture and animal husbandry.",
+   "truth": [
+    true,
+    true
+   ],
+   "source": "https://affairscloud.com/indian-polity-part-iv-directive-principal-of-state-policy-article-36-to-article-51 ; https://ruralindiaonline.org/en/library/resource/directive-principles-of-state-policy/"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. Article 32 provides remedies for enforcement of the Fundamental Rights conferred by Part III.",
+    "II. Article 32 is placed in Part IV of the Constitution, which contains the Directive Principles of State Policy."
+   ],
+   "answer": 0,
+   "explanation": "Statement I is correct: Article 32 is the remedy for enforcing rights under Part III. Statement II is wrong because Article 32 sits in Part III, not Part IV. Answer: I only.",
+   "truth": [
+    true,
+    false
+   ],
+   "source": "https://www.constitutionofindia.net/parts/part-iii/ ; https://www.constitutionofindia.net/constitution_of_india/fundamental_rights/articles"
+  },
+  {
+   "type": "statement_count",
+   "mode": "correct",
+   "statements": [
+    "1. Article 14 says the State shall not deny to any person equality before the law.",
+    "2. Article 17 forbids the practice of untouchability in any form.",
+    "3. Article 21A makes free and compulsory education a right for children aged six to fourteen.",
+    "4. Article 17 applies only to members of the Scheduled Castes."
+   ],
+   "answer": 2,
+   "explanation": "Statements 1, 2 and 3 are correct. Statement 4 is wrong because Article 17 abolishes untouchability and is not limited to Scheduled Castes. Exactly three statements are correct: Only three.",
+   "truth": [
+    true,
+    true,
+    true,
+    false
+   ],
+   "source": "https://www.lawzone.in/2025/02/article-14-of-indian-constitution.html ; https://studyhub.net.in/inshorts/article-17-of-indian-constitution-upsc-2026/ ; https://www.lawzone.in/2025/02/article-21a-of-indian-constitution.html"
+  }
+ ],
+ "writer_flags": [
+  "Cabinet decision date: AIR dated 16 Apr 2026, one report says 15 Apr; passage says only 'April 2026'.",
+  "First meeting on 24 Jul 2026: ETV Bharat plus one further report; not fully double-sourced.",
+  "Passage is 169 words, below the 260-word pre-verification floor and the 220 double-sourced target; no further double-sourced Chhattisgarh facts found within budget.",
+  "Article 44 and Article 37 facts rest on exam-prep and explainer sites; constitutionofindia.net was not retrievable.",
+  "Article 48A (environment) and Article 40 (panchayats) subject lines rest on a single explainer (affairscloud).",
+  "Article 48 and Article 50 subject lines rest on exam-prep explainers only.",
+  "Article 32 in Part III rests on a constitutionofindia.net listing snippet only.",
+  "Chhattisgarh formation (1 Nov 2000, from Madhya Pradesh) sourced to Dharmapedia, BankBazaar and Elets snippets, not to an official source.",
+  "Article 17 and 21A statements (statement_count) sourced to lawzone/studyhub explainers only.",
+  "Theme overlap: Madhya Pradesh UCC Bill (T08P1, Test 8) covers the same policy area; Chhattisgarh panel is a distinct event.",
+  "Public-suggestion portal and 15 Oct deadline found in one report only; left out of passage."
+ ]
+}
