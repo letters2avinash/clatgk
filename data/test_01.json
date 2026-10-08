@@ -1,10 +1,10 @@
 {
- "title": "CLAT GK - Pilot Test 1",
+ "title": "CLAT GK - Test 01",
  "date": "2026-10-08",
  "duration_minutes": 50,
  "marks_correct": 1,
  "marks_wrong": -0.25,
- "notes": "PILOT. Facts come from web-search snippets only (several news/legal sites are blocked in this environment). Verify against the linked sources before use.",
+ "notes": "PILOT test written by Sonnet 5.5 agents from web-search snippets. It has NOT gone through the independent verification pass that Tests 2 and 3 received, so treat every fact as unverified. Known weak spots: the Budget figures (capex and expenditure totals), FRBM details and Articles 112/113 rest on secondary sources; the Jaya Thakur judgment date is disputed (30 Jan vs 20 Jan 2026); BRICS 'New Delhi 2012' and the member count are unconfirmed; the PSLV-C62 inquiry committee and Gaganyaan timeline rest on press reports.",
  "passages": [
   {
    "title": "Budget 2026-27, repo rate holds and a strong Q1 GDP print",
@@ -31,12 +31,12 @@
      "type": "direct",
      "q": "The Union Budget presented in Parliament each year is constitutionally described as the 'annual financial statement'. Which Article of the Constitution of India requires it to be laid before both Houses?",
      "options": [
-      "Article 110",
       "Article 112",
       "Article 265",
-      "Article 114"
+      "Article 114",
+      "Article 110"
      ],
-     "answer": 1,
+     "answer": 0,
      "explanation": "Article 112(1) requires the President to cause an estimate of receipts and expenditure for each financial year, the annual financial statement, to be laid before both Houses.",
      "source": "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/"
     },
@@ -76,10 +76,10 @@
       "D. 4 per cent with a tolerance band of 2 per cent either side"
      ],
      "options": [
-      "I-B, II-A, III-C, IV-D",
+      "I-D, II-A, III-B, IV-C",
       "I-A, II-B, III-D, IV-C",
       "I-B, II-A, III-D, IV-C",
-      "I-D, II-A, III-B, IV-C"
+      "I-B, II-A, III-C, IV-D"
      ],
      "answer": 2,
      "explanation": "Article 112 covers the annual financial statement and Article 113 the Demands for Grants; the inflation target is 4 per cent (2 to 6 per cent band); Section 45ZB of the RBI Act provides for the MPC.",
@@ -103,12 +103,12 @@
       "III. The 2018 amendment allows deviation from the fiscal deficit target by up to 1 percentage point of GDP under an escape clause."
      ],
      "options": [
-      "I and II only",
       "II and III only",
+      "I and II only",
       "I and III only",
       "All of the above"
      ],
-     "answer": 0,
+     "answer": 1,
      "explanation": "The FRBM Act dates from 2003 and prescribed a 3 per cent of GDP fiscal deficit; the escape clause permits a deviation of up to 0.5 percentage points, not 1, so III is incorrect.",
      "source": "https://compass.rauias.com/current-affairs/re-evaluating-frbm-act-2003/"
     }
@@ -141,10 +141,10 @@
      "options": [
       "2008",
       "2014",
-      "2010",
-      "2006"
+      "2006",
+      "2010"
      ],
-     "answer": 2,
+     "answer": 3,
      "explanation": "Spain won its first World Cup on 11 July 2010 at Soccer City, Johannesburg, beating the Netherlands 1-0 after extra time through an Andres Iniesta goal.",
      "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final"
     },
@@ -154,10 +154,10 @@
      "options": [
       "Kylian Mbappe",
       "Antoine Griezmann",
-      "Lionel Messi",
-      "Luka Modric"
+      "Luka Modric",
+      "Lionel Messi"
      ],
-     "answer": 2,
+     "answer": 3,
      "explanation": "Lionel Messi was awarded the Golden Ball at the 2022 World Cup and is the only player to receive it twice. Mbappe won the 2022 Golden Boot instead.",
      "source": "https://www.cbsnews.com/amp/miami/news/argentina-france-2022-world-cup-final"
     },
@@ -184,9 +184,9 @@
       "D. Estadio Azteca, Mexico City"
      ],
      "options": [
-      "I-B, II-A, III-D, IV-C",
-      "I-B, II-A, III-C, IV-D",
       "I-A, II-B, III-D, IV-C",
+      "I-B, II-A, III-C, IV-D",
+      "I-B, II-A, III-D, IV-C",
       "I-A, II-B, III-C, IV-D"
      ],
      "answer": 3,
@@ -240,9 +240,9 @@
      "type": "direct",
      "q": "The Jaya Thakur ruling stressed that menstrual hygiene facilities are linked to the education of girls. Which Article of the Constitution expressly permits the State to make special provisions for women and children despite the bar on discrimination?",
      "options": [
-      "Article 14",
       "Article 19(1)(g)",
       "Article 16(4)",
+      "Article 14",
       "Article 15(3)"
      ],
      "answer": 3,
@@ -253,12 +253,12 @@
      "type": "direct",
      "q": "Which 1978 seven-judge Supreme Court decision, authored mainly by Justice Bhagwati, read the words 'procedure established by law' in Article 21 as requiring a procedure that is fair, just and reasonable, and so underpins the wide modern reading of the right to life?",
      "options": [
-      "Minerva Mills v. Union of India",
-      "Maneka Gandhi v. Union of India",
       "Kesavananda Bharati v. State of Kerala",
-      "A.K. Gopalan v. State of Madras"
+      "A.K. Gopalan v. State of Madras",
+      "Minerva Mills v. Union of India",
+      "Maneka Gandhi v. Union of India"
      ],
-     "answer": 1,
+     "answer": 3,
      "explanation": "Maneka Gandhi (25 January 1978) held procedure under Article 21 must be fair, just and reasonable, linking Articles 14, 19 and 21 and departing from Gopalan.",
      "source": "https://en.wikipedia.org/wiki/Maneka_Gandhi_v._Union_of_India"
     },
@@ -285,12 +285,12 @@
       "D. 2018"
      ],
      "options": [
-      "I-B, II-A, III-D, IV-C",
       "I-A, II-B, III-C, IV-D",
       "I-A, II-B, III-D, IV-C",
+      "I-B, II-A, III-D, IV-C",
       "I-A, II-C, III-D, IV-B"
      ],
-     "answer": 2,
+     "answer": 1,
      "explanation": "Maneka Gandhi 1978; Unni Krishnan 1993; Aruna Shanbaug 2011; Common Cause 2018 (9 March 2018).",
      "source": "https://www.scobserver.in/court-case/euthanasia-living-wills-and-the-right-to-die-with-dignity"
     },
@@ -342,8 +342,8 @@
      "q": "The BRICS grouping's own multilateral lender, the New Development Bank, has its headquarters in which city?",
      "options": [
       "Johannesburg",
-      "New Delhi",
       "Moscow",
+      "New Delhi",
       "Shanghai"
      ],
      "answer": 3,
@@ -355,11 +355,11 @@
      "q": "Brazil chaired BRICS in 2025 before handing over to India. Which member held the chair in 2024, the year of the Kazan summit?",
      "options": [
       "India",
-      "Russia",
       "China",
-      "South Africa"
+      "South Africa",
+      "Russia"
      ],
-     "answer": 1,
+     "answer": 3,
      "explanation": "Russia chaired BRICS in 2024 (at Brazil's request), followed by Brazil in 2025 and India in 2026.",
      "source": "https://www.insightsonindia.com/2025/12/18/indias-brics-presidency-2026/"
     },
@@ -386,10 +386,10 @@
       "D. Sanya"
      ],
      "options": [
-      "I-C, II-D, III-B, IV-A",
       "I-A, II-C, III-D, IV-B",
+      "I-D, II-A, III-C, IV-B",
       "I-D, II-C, III-A, IV-B",
-      "I-D, II-A, III-C, IV-B"
+      "I-C, II-D, III-B, IV-A"
      ],
      "answer": 2,
      "explanation": "Sanya, China hosted the 2011 summit (South Africa's first as a full member); New Delhi hosted in 2012; Durban in 2013; Fortaleza in 2014, where the New Development Bank agreement was signed.",
@@ -447,12 +447,12 @@
      "type": "direct",
      "q": "The Sriharikota spaceport, from which PSLV-C62 was launched, is officially named after which scientist and former ISRO chairman?",
      "options": [
-      "Homi J. Bhabha",
-      "Vikram Sarabhai",
       "A. P. J. Abdul Kalam",
-      "Satish Dhawan"
+      "Satish Dhawan",
+      "Homi J. Bhabha",
+      "Vikram Sarabhai"
      ],
-     "answer": 3,
+     "answer": 1,
      "explanation": "Sriharikota (earlier SHAR) hosts the Satish Dhawan Space Centre, renamed in 2002 in memory of Prof. Satish Dhawan, former ISRO chairman.",
      "source": "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre"
     },
@@ -480,11 +480,11 @@
      ],
      "options": [
       "I-C, II-A, III-B, IV-D",
-      "I-B, II-A, III-D, IV-C",
+      "I-B, II-A, III-C, IV-D",
       "I-A, II-B, III-C, IV-D",
-      "I-B, II-A, III-C, IV-D"
+      "I-B, II-A, III-D, IV-C"
      ],
-     "answer": 3,
+     "answer": 1,
      "explanation": "ISRO is headquartered in Bengaluru; VSSC is in Thiruvananthapuram; Sriharikota island lies in Tirupati district of Andhra Pradesh; Kulasekarapattinam is in Thoothukudi district, Tamil Nadu.",
      "source": "https://en.wikipedia.org/wiki/ISRO"
     },
@@ -506,8 +506,8 @@
       "III. ISRO functions under the Department of Space."
      ],
      "options": [
-      "I and II only",
       "II and III only",
+      "I and II only",
       "I and III only",
       "All of the above"
      ],
