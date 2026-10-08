@@ -1,0 +1,231 @@
+{
+  "passage_file": "data/draft/t08_p1.json",
+  "passage_claims": [
+    {
+      "claim": "Passed by voice vote on Tue 21 Jul 2026 in monsoon session",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://ianslive.in/mp-assembly-passes-uniform-civil-code-bill-amid-opposition-protests-uproar--20260721154425",
+        "https://www.deccanchronicle.com/nation/mp-assembly-passes-ucc-bill-2026-amid-noisy-protest-by-congress-1972779"
+      ],
+      "note": "Also Hitavada, Deccan Herald, Pioneer via search"
+    },
+    {
+      "claim": "Introduced 20 Jul, first day of session; Congress in the well; land purchase allegations against Yadav",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.deccanchronicle.com/nation/mp-govt-pushes-ucc-bill-amid-congress-storm-over-cm-land-purchase-allegations-1972500",
+        "https://theprint.in/india/mp-govt-tables-ucc-bill-in-assembly-amid-cong-uproar-over-cm-land-purchase-allegations/2991136/"
+      ],
+      "note": "Hitavada 21 Jul also"
+    },
+    {
+      "claim": "Congress demanded Select Committee; government rejected",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://ianslive.in/mp-assembly-passes-uniform-civil-code-bill-amid-opposition-protests-uproar--20260721154425",
+        "https://www.deccanchronicle.com/nation/mp-assembly-passes-ucc-bill-2026-amid-noisy-protest-by-congress-1972779"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Congress insisted 27% OBC reservation (reworded: higher priority than UCC)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://madhyamamonline.com/india/mp-assembly-passes-ucc-bill-amid-congress-attack-over-obc-reservation-1539681",
+        "https://www.thehitavada.com/Encyc/2026/7/22/mp-assembly-ucc-sparks-fierce-political-feud-bjp-slams-opposition-over-appeasement-congress-raises-27-obc-rese.html"
+      ],
+      "note": "Original 'implemented alongside' wording softened"
+    },
+    {
+      "claim": "Congress criticised Bill as targeting a specific community",
+      "verdict": "UNVERIFIABLE",
+      "sources": [],
+      "note": "Search found no report saying so; deleted"
+    },
+    {
+      "claim": "Bill covers marriage, divorce, inheritance (adoption; replacing religious personal laws)",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [],
+      "note": "Adoption and 'replacing personal laws' not confirmed by two; deleted"
+    },
+    {
+      "claim": "Bans polygamy; compulsory registration of marriage/divorce; equal inheritance; live-in registration within one month; ST exempt",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.nationalheraldindia.com/national/mp-clears-draft-ucc-proposes-mandatory-registration-of-live-in-relationships",
+        "https://www.livelaw.in/amp/news-updates/mp-passes-ucc-mandatory-livein-relationship-registration-judicial-divorce-uniform-civil-code-542486"
+      ],
+      "note": "Corroborated by IANS/Deccan Chronicle snippets"
+    },
+    {
+      "claim": "Yadav defended Bill as step towards gender equality",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.thehitavada.com//Encyc/2026/7/22/mp-assembly-passes-ucc-bill-chief-minister-hails-passing-of-the-bill-as-golden-day.html",
+        "https://indianmasterminds.com/news/madhya-pradesh-ucc-bill-2026-passed-mohan-yadav-218448/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Bill to be sent to President Murmu for assent",
+      "verdict": "DISPUTED",
+      "sources": [
+        "https://newsonair.gov.in/mp-assembly-passes-uniform-civil-code-bill-will-be-enforced-after-governors-nod/"
+      ],
+      "note": "IANS/DC/Madhyamam say President; AIR, LiveLaw say Governor. Reworded to 'requires assent'"
+    },
+    {
+      "claim": "Fourth state after Uttarakhand, Gujarat, Assam",
+      "verdict": "DISPUTED",
+      "sources": [],
+      "note": "Left out; reports vary (fourth/fifth, Goa); not added"
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Article 44",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.lawzone.in/2025/02/article-44-of-indian-constitution.html",
+        "https://www.law4u.in/top-answer/4230/what-is-constitution-of-india-article-44"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "Concurrent List",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://constitutionofindia.net/schedules/list-iii-concurrent-list/",
+        "https://theleaflet.in/marriage-equality-petitions-union-government-seeks-that-all-states-and-union-territories-be-made-parties/"
+      ],
+      "fix": null,
+      "note": "Entry 5"
+    },
+    {
+      "index": 3,
+      "verdict": "DROP",
+      "my_answer": "Article 254",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "GIVEAWAY"
+      ],
+      "sources": [],
+      "fix": null,
+      "note": "Stem says 'Concurrent List', giving away Q2; overlaps Q2/Q7; not rechecked against text. Dropped in cull"
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://compass.rauias.com/polity/article-25-28",
+        "https://www.constitutionofindia.net/parts/right-to-freedom-of-religion/",
+        "https://pwonlyias.com/upsc-notes/freedom-of-religion-articles-27-28-india/"
+      ],
+      "fix": null,
+      "note": "III describes Art 28"
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "I-D, II-A, III-C, IV-B",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://anantamias.com/fundamental-rights-and-articles/?pdf=1",
+        "https://lexibal.com/fundamental-rights-part-iii/"
+      ],
+      "fix": null,
+      "note": "Exam-prep sources only"
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "A false, R true (3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://compass.rauias.com/polity/article-14/",
+        "https://www.constitutionofindia.net/articles/article-37-application-of-the-principles-contained-in-this-part/"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 7,
+      "verdict": "FIX",
+      "my_answer": "Both",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-213-power-of-governor-to-promulgate-ordinances-during-recess-of-legislature/",
+        "https://theleaflet.in/article-200-of-the-constitution-of-india-and-the-powers-of-the-governor-the-kerala-context/"
+      ],
+      "fix": "Statement II 'Legislative Assembly' -> 'Legislature' (bicameral precision)",
+      "note": ""
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "Only two",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "issues": [
+        "GIVEAWAY"
+      ],
+      "sources": [],
+      "fix": null,
+      "note": "Stmt 4 (DPSP unenforceable) gives away Q6 assertion; Sixth Schedule/Eleventh Schedule/Art 368 not rechecked. Dropped in cull"
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "Congress also insisted that 27 per cent reservation for Other Backward Classes be implemented alongside the UCC, and it criticised the Bill as targeting a specific community.",
+      "new": "Congress also argued that 27 per cent reservation for Other Backward Classes should be a higher priority than the UCC.",
+      "reason": "unconfirmed or disputed claim"
+    },
+    {
+      "old": "The Bill covers marriage, divorce, inheritance and adoption, replacing religious personal laws.",
+      "new": "The Bill covers marriage, divorce and inheritance.",
+      "reason": "unconfirmed or disputed claim"
+    },
+    {
+      "old": "The Bill is to be sent to President Draupadi Murmu for her assent before it can be implemented.",
+      "new": "The Bill requires assent before it can be implemented.",
+      "reason": "unconfirmed or disputed claim"
+    }
+  ],
+  "summary": "Kept 6 of 8 (Q1,2,4,5,6,7); dropped Q3 and Q8 for giveaway/overlap. Three passage claims reworded or deleted. 18 searches used; direct page fetches failed."
+}
