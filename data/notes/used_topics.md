@@ -8,3 +8,5 @@ Test 6 (in progress): CPI base 2024 + Startup India FoF 2.0; 5 Mar 2026 Governor
 Spare: Padma Awards 2026 (data/spare/padma_awards.json).
 Test 7 T07P3 (Economy & Budget, widened to 24 Jul 2026): BHAVYA Rasayan chemical-parks scheme (Rs 3,030 cr, Cabinet 24 Jul 2026).
 Test 7 (T07P2): Sangeet Natak Akademi Fellowships and Akademi Puraskar 2024-25 presented at Vigyan Bhawan, 13 Aug 2026 (Awards, books & culture).
+T07P1 (Batch 2, Polity & governance 28 May-17 Jun 2026): Rajya Sabha biennial polls 2026 - 11 Jun unopposed returns (Karnataka, Rajasthan, Manipur); 22 May ECI schedule for 24 seats.
+Test 7 (T07P4): PM-RAHAT road accident cashless treatment scheme (launched 14 Feb 2026); PM-JAY/Katara/MV Act context as static GK.
