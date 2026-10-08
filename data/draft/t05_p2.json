@@ -1,0 +1,111 @@
+{
+  "title": "Booker and National Film Awards",
+  "topic_tags": ["awards", "books", "film", "culture", "Aug-Sep 2026"],
+  "slot": "T05P2",
+  "status": "partial",
+  "word_count_note": "Passage is 284 words, below the 450 minimum. Search budget (25) was exhausted before enough double-sourced facts were found to reach 450. Not padded.",
+  "text": "The Booker Prize announced its 2026 shortlist on 22 September 2026, choosing six novels from a longlist of 13 titles. The longlist had been drawn from 163 submissions. The judging panel is chaired by Mary Beard, and its other members are Raymond Antrobus, Jarvis Cocker, Rebecca Liu and Patricia Lockwood. The shortlisted titles are Black Bag by Luke Kennard, The Disappearers by Marlon James, The End of Everything by M. John Harrison, May We Feed the King by Rebecca Perry, John of John by Douglas Stuart, and The Things We Never Say by Elizabeth Strout. Black Bag follows a penniless actor who is hired by a university professor to sit inside a black bag at the back of a lecture hall. The Disappearers is set in Kingston, Jamaica, in the late 1980s. Two of the shortlisted writers have won the prize before. Marlon James won in 2015 for A Brief History of Seven Killings, and Douglas Stuart won in 2020 for Shuggie Bain. Elizabeth Strout was shortlisted in 2022 for Oh William!. The 72nd National Film Awards winners were announced on 18 July 2026. Article 370 was named Best Feature Film, and Yami Gautam won Best Actress. The Best Actor award was shared by Mammootty, for Bramayugam, and Kartik Aaryan, for Chandu Champion. Sanjay Mishra won Best Supporting Actor for Bhakshak. Rajkumar Periasamy won Best Direction for Amaran, Srikanth won Best Hindi Feature Film, and Kalki 2898 AD won Best Popular Film. The Dadasaheb Phalke Award went to Anant Nag. The awards will be presented on 22 September 2026 at Ekta Nagar, formerly Kevadia, in Gujarat, by President Droupadi Murmu. It will be the first time the ceremony has been held outside New Delhi.",
+  "sources": [
+    "https://www.irishexaminer.com/lifestyle/artsandculture/arid-41914570.html",
+    "https://www.dtnext.in/news/world/booker-prize-2026-shortlist-announced-six-novels-explore-isolation-identity-and-survival",
+    "https://thebookerprizes.com/media-centre/press-releases/shocking-understated-discomfiting-hilarious-shortlist-for-booker-prize",
+    "https://lithub.com/heres-the-shortlist-for-the-2026-booker-prize/",
+    "https://www.penguinrandomhouse.com/books/742603/",
+    "https://www.gulfnews.com/entertainment/72nd-national-film-awards-2026-winners-announced-list-of-winners-1.500612349",
+    "https://outlookindia.com/art-entertainment/72nd-national-film-awards-winners-full-list",
+    "https://www.hollywoodreporterindia.com/features/insight/72nd-national-film-awards-full-winners-list-article-370-mammootty-kartik-aaryan-and-yami-gautam-win-honours",
+    "https://pib.gov.in/FactsheetDetails.aspx?Id=151027"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "In which year did the Government of India institute the Dadasaheb Phalke Award, which was conferred on Anant Nag at the 72nd National Film Awards?",
+      "options": ["1957", "1969", "1975", "1982"],
+      "answer": 1,
+      "explanation": "The Dadasaheb Phalke Award was instituted by the Government of India in 1969.",
+      "source": "https://unacademy.com/content/indias-highest-cinema-award-given-in-the-name-of-dadasaheb-phalke/ ; https://compass.rauias.com/current-affairs/dadasaheb-phalke-award"
+    },
+    {
+      "type": "direct",
+      "q": "What is the height of the Statue of Unity, the monument to Sardar Vallabhbhai Patel near Kevadia in Gujarat?",
+      "options": ["150 metres", "165 metres", "182 metres", "210 metres"],
+      "answer": 2,
+      "explanation": "The Statue of Unity stands 182 metres tall, in the Narmada district of Gujarat.",
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Unity ; https://drishtiias.com/pdf/1585087893-statue-of-unity.pdf"
+    },
+    {
+      "type": "direct",
+      "q": "In which year was the Sahitya Akademi formally inaugurated under a Government of India resolution?",
+      "options": ["1947", "1950", "1954", "1958"],
+      "answer": 2,
+      "explanation": "The Sahitya Akademi was formally inaugurated on 12 March 1954 under a Government of India resolution. It was registered as a society in 1956.",
+      "source": "https://www.sahitya-akademi.gov.in/aboutus/about.jsp ; https://anantamias.com/?p=9403"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. The God of Small Things (Arundhati Roy)",
+        "II. The Inheritance of Loss (Kiran Desai)",
+        "III. The White Tiger (Aravind Adiga)",
+        "IV. The Sellout (Paul Beatty)"
+      ],
+      "list2": ["A. 1997", "B. 2006", "C. 2008", "D. 2016"],
+      "options": [
+        "I-A, II-B, III-C, IV-D",
+        "I-B, II-A, III-C, IV-D",
+        "I-A, II-C, III-B, IV-D",
+        "I-D, II-B, III-A, IV-C"
+      ],
+      "answer": 0,
+      "explanation": "Roy won the Booker Prize in 1997, Desai in 2006, Adiga in 2008 and Beatty in 2016. Beatty was the first American winner.",
+      "source": "https://thebookbag.co.uk/reviews/Booker_Prize_Winners ; https://anzlitlovers.com/projects/the-complete-booker/ ; https://www.aljazeera.com/news/2006/10/11/indian-novelist-desai-wins-booker ; https://mg.co.za/article/2008-10-15-firsttime-indian-novelist-wins-uks-booker-prize ; https://www.nbcnews.com/news/amp/ncna672816"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Central Board of Film Certification confers the National Film Awards on the films it has certified each year.",
+      "reason": "The Central Board of Film Certification sanctions films for public exhibition under the Cinematograph Act, 1952.",
+      "answer": 3,
+      "truth": [false, true],
+      "explanation": "A is false: the National Film Awards are conferred by the Ministry of Information and Broadcasting, not by the CBFC. R is true: the CBFC is constituted under Section 3 of the Cinematograph Act, 1952 to sanction films for public exhibition.",
+      "source": "https://mib.gov.in/ministry/organizations/central-board-film-certification ; https://www.wipo.int/wipolex/ar/text/207160 ; https://pib.gov.in/FactsheetDetails.aspx?Id=151027"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Jnanpith Award was first presented in 1965.",
+        "II. The Jnanpith Award is confined to writers who write in Hindi."
+      ],
+      "answer": 0,
+      "truth": [true, false],
+      "explanation": "Statement I is true: G. Sankara Kurup received the first Jnanpith Award in 1965 for Odakkuzhal. Statement II is false: the award is open to writers in the languages of the Eighth Schedule of the Constitution.",
+      "source": "https://en.wikipedia.org/wiki/Jnanpith_Award ; https://en.wikipedia.org/wiki/G._Sankara_Kurup ; https://anantamias.com/jnanpith-award/?pdf=1"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The Dadasaheb Phalke Award is given for lifetime contribution to Indian cinema rather than for a single film.",
+        "2. The Dadasaheb Phalke Award is presented annually at the National Film Awards ceremony.",
+        "3. The Dadasaheb Phalke Award includes a Swarna Kamal (Golden Lotus) medallion.",
+        "4. The Dadasaheb Phalke Award is named after Dhundiraj Govind Phalke, who directed Raja Harishchandra (1913)."
+      ],
+      "mode": "correct",
+      "answer": 3,
+      "truth": [true, true, true, true],
+      "explanation": "All four statements are correct: the award recognises lifetime work, is presented each year at the National Film Awards, carries a Swarna Kamal medallion, and is named after Dhundiraj Govind Phalke. So the count of correct statements is four.",
+      "source": "https://en.wikipedia.org/wiki/Dadasaheb_Phalke_Award ; https://anantamias.com/dadasaheb-phalke-award/?pdf=1 ; https://www.iasgyan.in/daily-current-affairs/dadasaheb-phalke-lifetime-achievement-award-35"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. The Sangeet Natak Akademi is an autonomous body under the Ministry of Culture.",
+        "II. The Sangeet Natak Akademi has its headquarters at Rabindra Bhavan, New Delhi.",
+        "III. The Chairman of the Sangeet Natak Akademi is appointed by the Prime Minister for a term of five years."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "truth": [true, true, false],
+      "explanation": "Statements I and II are true. Statement III is false: the Chairman is appointed by the President of India for a term of five years.",
+      "source": "https://vajiramandravi.com/current-affairs/sna/ ; https://www.sangeetnatak.gov.in/about-us ; https://www.pib.gov.in/newsite/erelcontent.aspx?relid=9620"
+    }
+  ]
+}
