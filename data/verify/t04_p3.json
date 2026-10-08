@@ -1,0 +1,257 @@
+{
+ "passage_file": "data/draft/t04_p3.json",
+ "passage_claims": [
+  {
+   "claim": "UP Cabinet approved four expressway projects on Tuesday 21 Jul 2026, chaired by Yogi Adityanath; package over Rs 47,000 cr",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://freepressjournal.in/uttar-pradesh/up-cabinet-approves-47600-crore-expressway-projects-including-agra-lucknow-link-roads-and-vindhya-expressway",
+    "https://swarajyamag.com/news-brief/uttar-pradesh-approves-rs-47000-crore-expressway-push-to-strengthen-east-west-connectivity",
+    "https://www.constructionworld.in/transport-infrastructure/highways-and-roads-infrastructure/up-cabinet-approves-four-expressway-projects/94986"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Link 1: 50.98 km, six-lane, Rs 4,775.84 cr; Link 2: 90.84 km via Farrukhabad, Rs 7,488.74 cr; together over Rs 12,264 cr",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://swarajyamag.com/news-brief/uttar-pradesh-approves-rs-47000-crore-expressway-push-to-strengthen-east-west-connectivity",
+    "https://theprint.in/india/up-cabinet-approves-four-expressway-projects-to-strengthen-states-road-network/2992416/",
+    "https://freepressjournal.in/uttar-pradesh/up-cabinet-approves-47600-crore-expressway-projects-including-agra-lucknow-link-roads-and-vindhya-expressway"
+   ],
+   "note": "one PTI report gives 49.96 km for link 1; passage uses 50.98 km (majority)"
+  },
+  {
+   "claim": "Vindhya Expressway about 333 km Prayagraj-Sonbhadra, six lanes expandable to eight, roughly Rs 26,000 cr",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://indianmasterminds.com/news/up-cabinet-approves-26000-crore-vindhya-expressway-and-vindhya-purvanchal-link-expressway-218378/",
+    "https://swarajyamag.com/news-brief/uttar-pradesh-approves-rs-47000-crore-expressway-push-to-strengthen-east-west-connectivity"
+   ],
+   "note": "26,000 vs 26,315 incl. taxes; length 330-333 in places; 'about/roughly' kept"
+  },
+  {
+   "claim": "About 4,600 hectares land needed",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://swarajyamag.com/news-brief/uttar-pradesh-approves-rs-47000-crore-expressway-push-to-strengthen-east-west-connectivity",
+    "https://news24online.com/photos/india/up-expressway-map-yogi-govts-big-gift-for-uttar-pradesh-three-new-expressways-to-boost-east-west-connectivity-in-up-will-become-operational-by-land-acquisition-begins-in-vindhya-purvanchal-879754"
+   ],
+   "note": "4,614 ha / around 4,600"
+  },
+  {
+   "claim": "Route begins at Sonwar tehsil, passes Bhadohi",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://swarajyamag.com/news-brief/uttar-pradesh-approves-rs-47000-crore-expressway-push-to-strengthen-east-west-connectivity"
+   ],
+   "note": "Sonwar and Bhadohi only in one report; deleted. Start at end of Ganga Expressway in Prayagraj, via Mirzapur, Varanasi, Chandauli, ends near NH39 Sonbhadra confirmed by Jan 2025 reports (Drishti, Swarajya) and July 2026 reports"
+  },
+  {
+   "claim": "Vindhya-Purvanchal Spur Link Rs 9,039 cr, joins Ganga/Vindhya/Purvanchal",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://theprint.in/india/up-cabinet-approves-four-expressway-projects-to-strengthen-states-road-network/2992416/",
+    "https://freepressjournal.in/uttar-pradesh/up-cabinet-approves-47600-crore-expressway-projects-including-agra-lucknow-link-roads-and-vindhya-expressway",
+    "https://swarajyamag.com/news-brief/uttar-pradesh-approves-rs-47000-crore-expressway-push-to-strengthen-east-west-connectivity"
+   ],
+   "note": "route/length (100 vs 117 km) and districts differ between reports; passage reworded to say reports differ"
+  },
+  {
+   "claim": "Cabinet cleared Vindhya alignment; Jan 2025 in-principle approval of ~320 km Vindhya Expressway",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.drishtiias.com/state-pcs-current-affairs/up-cabinet-approves-key-projects-at-maha-kumbh/print_manually",
+    "https://swarajyamag.com/amp/story/news-brief/at-maha-kumbh-mela-yogi-adityanath-cabinet-approves-320-km-vindhya-expressway-linking-prayagraj-to-sonbhadra-in-up"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "36-month construction term",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.constructionworld.in/transport-infrastructure/highways-and-roads-infrastructure/up-cabinet-approves-four-expressway-projects/94986",
+    "https://theprint.in/india/up-cabinet-approves-four-expressway-projects-to-strengthen-states-road-network/2992416/"
+   ],
+   "note": "stated for the two link expressways' developers (about 36 months); passage narrowed to them"
+  },
+  {
+   "claim": "Ganga Expressway inaugurated by Modi 29 Apr 2026 in Hardoi; 594 km Meerut-Prayagraj; 12 districts; ~Rs 36,230 cr",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://newsonair.gov.in/pm-modi-inaugurates-594-km-long-ganga-expressway-connecting-meerut-to-prayagraj/",
+    "https://www.etvbharat.com/en/videos/watch-live-pm-modi-inaugurates-ganga-expressway-in-up-hardoi-enn26042902206",
+    "https://www.narendramodi.in/amp/category/news/hardoi"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Agra-Lucknow Expressway ~302 km opened 21 Nov 2016 by Akhilesh Yadav in Unnao; IAF jets landed",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.businesstoday.in/amp/latest/economy-politics/story/agra-lucknow-expressway-inaugurated-uttar-pradesh-poll-66754-2016-11-21",
+    "https://www.tribuneindia.com/news/archive/nation/iaf-jets-touch-down-on-agra-lucknow-expressway-on-its-opening-326343"
+   ],
+   "note": "jets did touch-and-go; 'touched down' ok"
+  },
+  {
+   "claim": "Purvanchal Expressway 341 km Lucknow-Ghazipur, inaugurated by Modi 16 Nov 2021, ~Rs 22,500 cr",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://onmanorama.com/news/india/2021/11/16/pm-modi-inaugurates-341-km-purvanchal-expressway-in-up.html",
+    "https://invest.up.gov.in/wp-content/uploads/2021/11/press-release-16nov21-1.pdf"
+   ],
+   "note": ""
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "Article 213",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-213-power-of-governor-to-promulgate-ordinances-during-recess-of-legislature/",
+    "https://vidhijudicial.com/article-213-of-the-constitution-of-india.html"
+   ],
+   "fix": null,
+   "note": "Distractors 200/201/216 clearly different."
+  },
+  {
+   "index": 2,
+   "verdict": "DROP",
+   "my_answer": "Article 356",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "UNSUPPORTED"
+   ],
+   "sources": [],
+   "fix": null,
+   "note": "Not independently checked (search budget) and tangential; Art 370 distractor dated. Dropped to reach 6."
+  },
+  {
+   "index": 3,
+   "verdict": "OK",
+   "my_answer": "Concurrent List (Entry 42)",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/schedules/list-iii-concurrent-list/",
+    "https://www.casemine.com/judgement/in/5609addfe4b014971141269e"
+   ],
+   "fix": null,
+   "note": "Entry 42 List III after 7th Amendment; R.C. Cooper reading confirms."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "I-D, II-C, III-A, IV-B",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-163-council-of-ministers-to-aid-and-advise-governor/",
+    "https://www.constitutionofindia.net/articles/article-165-advocate-general-for-the-state/",
+    "https://www.constitutionofindia.net/articles/article-243k-elections-to-the-panchayats/",
+    "https://www.constitutionofindia.net/articles/article-280-finance-commission"
+   ],
+   "fix": null,
+   "note": "Constitution text for all four; other options each mis-pair."
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "A false, R true (3)",
+   "key_answer_correct": true,
+   "truth_values": [
+    false,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://barandbench.com/news/litigation/right-to-property-still-a-constitutional-right-supreme-court-reiterates",
+    "https://www.thehitavada.com/Encyc/2025/1/4/Right-to-property-a-constitutional-right-SC.html"
+   ],
+   "fix": null,
+   "note": "Assertion false because 300A is not a fundamental right (SC 2020, 2025); Art 32 limb is standard law, secondary source only."
+  },
+  {
+   "index": 6,
+   "verdict": "FIX",
+   "my_answer": "I only (0)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [
+    "WEAK_SOURCE"
+   ],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-174-sessions-of-the-state-legislature-prorogation-and-dissolution/",
+    "https://www.constitutionofindia.net/articles/article-154-executive-power-of-state",
+    "https://rajbhavanodisha.gov.in/view/governerRole.php"
+   ],
+   "fix": "Statement I reworded to the constitutional text (six months shall not intervene between sessions); answer unchanged.",
+   "note": "Art 154 vests executive power in Governor; confirmed."
+  },
+  {
+   "index": 7,
+   "verdict": "DROP",
+   "my_answer": "Only two (1)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    false
+   ],
+   "issues": [
+    "WEAK_SOURCE"
+   ],
+   "sources": [],
+   "fix": null,
+   "note": "Overlaps Art 3/4 with Q8; statement 2 and sources were snippet-only; not independently checked. Dropped."
+  },
+  {
+   "index": 8,
+   "verdict": "OK",
+   "my_answer": "I and III only (2)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/constitution_of_india/the_union_and_its_territory/articles/Article%203",
+    "https://www.understandupsc.com/?p=11611",
+    "https://www.casemine.com/in/column/article-3-of-the-constitution-of-india/view"
+   ],
+   "fix": null,
+   "note": "Babulal Parate (1960): State views not binding."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "The Vindhya Expressway begins at Sonwar tehsil in Prayagraj, where the Ganga Expressway ends, and passes through Bhadohi, Mirzapur, Varanasi and Chandauli before ending near National Highway 39 in Sonbhadra.",
+   "new": "The Vindhya Expressway begins in Prayagraj, where the Ganga Expressway ends, and passes through Mirzapur, Varanasi and Chandauli before ending near National Highway 39 in Sonbhadra.",
+   "reason": "Sonwar tehsil and Bhadohi single-sourced"
+  },
+  {
+   "old": "Reports say it will join the Ganga, Vindhya and Purvanchal expressways into one network through Chandauli and Varanasi. Most reports list its districts as Ghazipur, Mirzapur and Chandauli.",
+   "new": "Reports say it will join the Ganga, Vindhya and Purvanchal expressways into one network, and they differ on its exact route and length, with some listing its districts as Ghazipur, Mirzapur and Chandauli.",
+   "reason": "Route/districts of spur link disputed between reports"
+  },
+  {
+   "old": "Tendering for developers is to follow, and the selected firms are expected to complete construction within 36 months.",
+   "new": "Tendering for developers of the two link expressways is to follow, and the selected firms are expected to complete construction within about 36 months.",
+   "reason": "36-month term confirmed only for the link expressways"
+  }
+ ],
+ "summary": "Passage facts largely confirmed by two or more publishers; three sentences reworded for single-source or disputed details. Six questions kept (Q1,3,4,5,6,8); Q2 and Q7 dropped. Searches used: 15 of 25."
+}

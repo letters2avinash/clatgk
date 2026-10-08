@@ -1,0 +1,216 @@
+{
+ "passage_file": "data/draft/t04_p1.json",
+ "passage_claims": [
+  {
+   "claim": "SC on 9 Mar 2026 set aside HC anticipatory bail, SC/ST Act, Kuldeep Singh v State of Punjab, SLP(Crl) 13439-13440/2025, Bench Sanjay Kumar and K. Vinod Chandran",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.verdictum.in/court-updates/supreme-court/kuldeep-singh-v-state-of-punjab-slp-no-crl-13439-of-2025-1610001",
+    "https://theindianlawyer.in/caution-in-granting-anticipatory-bail-supreme-court-cancels-relief-in-alleged-sc-st-atrocities-case/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Gunshots and caste slurs alleged; HC doubted FIR disclosed offences; SC held prima facie case, FIR not doubted merely for resting on police statement",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.livelaw.in/amp/supreme-court/fir-cant-be-doubted-merely-because-it-is-based-on-police-statement-supreme-court-cancels-anticipatory-bail-in-scst-case-526319",
+    "https://www.legalkart.com/en/legal-blog/fir-police-statement-valid-supreme-court-cancels-anticipatory-bail"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "12 Mar 2026 closure of 1985 M.C. Mehta writ; bench CJI Surya Kant, Bagchi, Pancholi; suo motu 'Re: Issues of Air Pollution in the National Capital Region'; IAs to be registered as writ petitions; CJI wrong-impression remark; PTI report",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.livelaw.in/amp/top-stories/supreme-court-mc-mehta-case-air-quality-delhi-ncr-formally-closed-suo-motu-case-registered-applications-to-be-registered-as-writ-petitions-526196",
+    "https://theprint.in/india/curtains-drawn-on-4-decade-old-mc-mehta-case-on-air-pollution-as-sc-disposes-pil/2879512/",
+    "https://api.sci.gov.in/supremecourt/1985/63998/63998_1985_1_44_69169_Order_12-Mar-2026.pdf"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Senior Advocate Aparajita Singh amicus",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://api.sci.gov.in/supremecourt/1985/63998/63998_1985_1_44_69169_Order_12-Mar-2026.pdf",
+    "https://www.livelaw.in/amp/top-stories/supreme-court-mc-mehta-case-air-quality-delhi-ncr-formally-closed-suo-motu-case-registered-applications-to-be-registered-as-writ-petitions-526196"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "ASG Aishwarya Bhati appeared",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [],
+   "note": "Not in the order excerpt; removed from passage."
+  },
+  {
+   "claim": "SC/ST Act provides special courts (s.14) and relief/rehabilitation",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://indiacode.nic.in/handle/123456789/1920?locale=en",
+    "https://nyaaya.org/legal-explainer/relief-and-rehabilitation-for-victims-of-atrocities/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Orders four days apart",
+   "verdict": "CONFIRMED",
+   "sources": [],
+   "note": "9 and 12 Mar is three days; reworded to 'only three days apart'."
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "Section 482 BNSS",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://blog.ipleaders.in/anticipatory-bail-under-bnss-section-482/",
+    "https://lawsikho.com/blog/anticipatory-bail/",
+    "https://vakeel360.com/crpc-to-bnss/section-439-special-powers-of-high-court",
+    "https://lexibal.com/bnss-section-483-bail/"
+   ],
+   "fix": null,
+   "note": "480=437, 483=439, 187=167 all confirmed. Kept."
+  },
+  {
+   "index": 2,
+   "verdict": "OK",
+   "my_answer": "Article 142",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.casemine.com/in/column/article-142-of-the-constitution-of-india:-a-tool-for-complete-justice/view",
+    "https://www.scconline.com/blog/post/2025/05/18/article-143-supreme-court-advisory-jurisdiction/",
+    "https://www.constitutionofindia.net/articles/article-144-civil-and-judicial-authorities-to-act-in-aid-of-the-supreme-court/",
+    "https://www.constitutionofindia.net/articles/article-129-supreme-court-to-be-a-court-of-record/"
+   ],
+   "fix": null,
+   "note": "Distractor explanations now sourced (129 court of record, 143 advisory, 144 aid). Kept."
+  },
+  {
+   "index": 3,
+   "verdict": "DROP",
+   "my_answer": "Article 21A",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Eighty-sixth_Amendment_of_the_Constitution_of_India",
+    "https://blog.ipleaders.in/86th-constitutional-amendment/",
+    "https://www.constitutionofindia.net/articles/article-45-provision-for-early-childhood-care-and-education-to-children-below-the-age-of-six-years/"
+   ],
+   "fix": null,
+   "note": "Fact confirmed and distractors wrong, but dropped in the cull to 6: least connected to passage; the only direct question beyond Q1/Q2."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "A true, R false (index 2)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://future.indiankanoon.org/doc/767216",
+    "https://webarchive.archive.unhcr.org/20221005121238if_/https://www.refworld.org/pdfid/5c62ce034.pdf"
+   ],
+   "fix": null,
+   "note": "NHRC v Arunachal 1996 confirmed. Kept."
+  },
+  {
+   "index": 5,
+   "verdict": "DROP",
+   "my_answer": "I only (index 0)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/constitution_of_india/fundamental_rights/articles/Article 22",
+    "https://blog.ipleaders.in/article-22-of-the-indian-constitution/"
+   ],
+   "fix": null,
+   "note": "Fact confirmed (22(2), 22(3)(b)); dropped in cull as overlapping with Q4 (personal liberty) and weakly tied to passage."
+  },
+  {
+   "index": 6,
+   "verdict": "OK",
+   "my_answer": "I-D, II-A, III-B, IV-C",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-226/",
+    "https://www.constitutionofindia.net/articles/article-245-extent-of-laws-made-by-parliament-and-by-the-legislatures-of-states/",
+    "https://blog.ipleaders.in/article-136-of-the-indian-constitution/",
+    "https://blog.ipleaders.in/difference-article-32-article-226/"
+   ],
+   "fix": null,
+   "note": "Kept."
+  },
+  {
+   "index": 7,
+   "verdict": "OK",
+   "my_answer": "I and II only",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://prsindia.org (CAQM Act 2021, Act 29 of 2021, assent 12 Aug 2021)",
+    "https://www.impriindia.com/insights/policy-update-2021/air-quality-delhi/",
+    "https://leap.unep.org/en/countries/in/national-legislation/air-prevention-and-control-pollution-act-1981-no-14-1981",
+    "https://indiacode.nic.in/bitstream/123456789/15429/1/the_water_(prevention_and_control_of_pollution)_act,_1974.pdf"
+   ],
+   "fix": null,
+   "note": "CAQM Act is 2021 (Act 29 of 2021), so III false. Water Act 1974 / Air Act 1981 confirmed. Kept."
+  },
+  {
+   "index": 8,
+   "verdict": "OK",
+   "my_answer": "All four (index 3)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://api.sci.gov.in/supremecourt/2025/26602/26602_2025_16_1501_63923_Judgement_01-Sep-2025.pdf",
+    "https://www.verdictum.in/court-updates/supreme-court/kiran-v-rajkumar-jivraj-jain-2025-insc-1067-section-18-sc-st-act-anticipatory-bail-1590102",
+    "https://indiacode.nic.in/handle/123456789/1920?locale=en",
+    "https://www.constitutionofindia.net/articles/article-17-abolition-of-untouchability/"
+   ],
+   "fix": null,
+   "note": "Kiran re-checked: 3-judge bench of CJI Gavai, Vinod Chandran, Anjaria, 1 Sep 2025. Act passed 11 Sep 1989. Kept."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": ", and Additional Solicitor General Aishwarya Bhati also appeared before the Bench",
+   "new": "",
+   "reason": "ASG appearance not confirmed by order or two publishers"
+  },
+  {
+   "old": "within four days of each other",
+   "new": "only three days apart",
+   "reason": "9 to 12 March is three days"
+  }
+ ],
+ "summary": "6 of 8 kept (7 OK before cull; Q3 and Q5 passed but dropped as least relevant/overlapping; Q8 Kiran and Q7 CAQM-2021 now confirmed). One passage claim (ASG Bhati) removed; passage 458 words."
+}

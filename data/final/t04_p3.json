@@ -1,0 +1,122 @@
+{
+ "title": "UP Cabinet clears four expressway projects",
+ "topic_tags": [
+  "Uttar Pradesh",
+  "expressways",
+  "state cabinet decisions",
+  "Constitution of India",
+  "Governor",
+  "Seventh Schedule"
+ ],
+ "slot": "T04P3",
+ "text": "The Uttar Pradesh Cabinet on Tuesday, 21 July 2026, approved four expressway projects at a meeting chaired by Chief Minister Yogi Adityanath. Press reports put the combined value of the package at more than Rs 47,000 crore. The approvals add to a network that already includes the Ganga Expressway, the Purvanchal Expressway and the Agra-Lucknow Expressway.\n\nTwo of the projects are link expressways. The first is a 50.98-km six-lane greenfield road that connects the Agra-Lucknow corridor to the Purvanchal Expressway, estimated at Rs 4,775.84 crore. The second is a 90.84-km six-lane greenfield link to the Ganga Expressway via Farrukhabad, estimated at Rs 7,488.74 crore. Together, the two link projects are worth more than Rs 12,264 crore. Both are designed to be six lanes, expandable to eight.\n\nThe third approval is the Vindhya Expressway, an access-controlled greenfield road of about 333 km running from Prayagraj to Sonbhadra district. It is planned as six lanes, expandable to eight, and its estimated cost is roughly Rs 26,000 crore. Reports say about 4,600 hectares of land will be needed for the corridor. The Vindhya Expressway begins in Prayagraj, where the Ganga Expressway ends, and passes through Mirzapur, Varanasi and Chandauli before ending near National Highway 39 in Sonbhadra.\n\nThe fourth project is the Vindhya-Purvanchal Spur Link, estimated at Rs 9,039 crore. Reports say it will join the Ganga, Vindhya and Purvanchal expressways into one network, and they differ on its exact route and length, with some listing its districts as Ghazipur, Mirzapur and Chandauli. The Cabinet also cleared the alignment of the Vindhya corridor. In January 2025 it had given an in-principle approval to a Vindhya Expressway of about 320 km, so the July 2026 decision is the more detailed one.\n\nThe Ganga Expressway, which one of the new links will join, was inaugurated by Prime Minister Narendra Modi on 29 April 2026 in Hardoi district. The 594-km road runs from Meerut to Prayagraj through 12 districts and was built at a cost of about Rs 36,230 crore. The road was therefore already open when the Cabinet met in July.\n\nThe Agra-Lucknow Expressway, about 302 km long, was opened on 21 November 2016 by then Chief Minister Akhilesh Yadav at an event in Unnao district, and Indian Air Force fighter jets touched down on the road during the ceremony. The Purvanchal Expressway, which runs for 341 km from Lucknow to Ghazipur, was inaugurated by Modi on 16 November 2021, at a cost of about Rs 22,500 crore.\n\nThe Cabinet's decisions are approvals rather than completed works. Coverage describes the package as a push to strengthen east-west connectivity across the state. Tendering for developers of the two link expressways is to follow, and the selected firms are expected to complete construction within about 36 months.",
+ "sources": [
+  "https://freepressjournal.in/uttar-pradesh/up-cabinet-approves-47600-crore-expressway-projects-including-agra-lucknow-link-roads-and-vindhya-expressway",
+  "https://swarajyamag.com/news-brief/uttar-pradesh-approves-rs-47000-crore-expressway-push-to-strengthen-east-west-connectivity",
+  "https://indianmasterminds.com/news/up-cabinet-approves-26000-crore-vindhya-expressway-and-vindhya-purvanchal-link-expressway-218378/",
+  "https://trak.in/stories/up-bihar-to-get-connected-via-new-333-kms-expressway/",
+  "https://theprint.in/india/up-cabinet-approves-four-expressway-projects-to-strengthen-states-road-network/2992416/",
+  "https://newsonair.gov.in/pm-modi-inaugurates-594-km-long-ganga-expressway-connecting-meerut-to-prayagraj/",
+  "https://www.thehitavada.com/Encyc/2026/4/30/pm-inaugurates-594-km-ganga-e-way-in-up.html",
+  "https://indianinfrastructure.com/2026/04/30/ganga-expressway-worth-rs-362-30-billion-gets-inaugurated/",
+  "https://en.wikipedia.org/wiki/Agra%E2%80%93Lucknow_Expressway",
+  "https://upeida.up.gov.in/en/page/agra-lucknow-expressway",
+  "https://onmanorama.com/news/india/2021/11/16/pm-modi-inaugurates-341-km-purvanchal-expressway-in-up.html",
+  "https://www.businesstoday.in/amp/latest/policy/story/pm-modi-to-inaugurate-purvanchal-expressway-today-312345-2021-11-16"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "Under which Article of the Constitution of India can a State Governor promulgate ordinances while the State legislature is not in session?",
+   "options": [
+    "Article 200",
+    "Article 201",
+    "Article 213",
+    "Article 216"
+   ],
+   "answer": 2,
+   "explanation": "Article 213 lets the Governor promulgate ordinances during a recess of the State legislature when immediate action is necessary; such an ordinance lapses six weeks after the legislature reassembles unless approved. Article 200 concerns assent to bills, Article 201 bills reserved for the President, and Article 216 the constitution of High Courts.",
+   "source": "https://vidhijudicial.com/article-213-of-the-constitution-of-india.html ; https://blog.ipleaders.in/?p=94511"
+  },
+  {
+   "type": "direct",
+   "q": "In which list of the Seventh Schedule is the subject 'Acquisition and requisitioning of property' placed?",
+   "options": [
+    "Union List",
+    "State List",
+    "Concurrent List",
+    "Residuary powers of Parliament"
+   ],
+   "answer": 2,
+   "explanation": "Entry 42 of List III, the Concurrent List, reads 'Acquisition and requisitioning of property', so both Parliament and State legislatures can legislate on it. It replaced the earlier separate Union and State entries, which were deleted.",
+   "source": "https://constitutionofindia.net/schedules/list-iii-concurrent-list/ ; https://en.wikipedia.org/wiki/Seventh_Schedule_to_the_Constitution_of_India"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Article 163",
+    "II. Article 243K",
+    "III. Article 280",
+    "IV. Article 165"
+   ],
+   "list2": [
+    "A. Finance Commission",
+    "B. Advocate General of a State",
+    "C. State Election Commission for panchayat elections",
+    "D. Council of Ministers aiding the Governor"
+   ],
+   "options": [
+    "I-D, II-C, III-A, IV-B",
+    "I-A, II-B, III-C, IV-D",
+    "I-C, II-D, III-B, IV-A",
+    "I-B, II-A, III-D, IV-C"
+   ],
+   "answer": 0,
+   "explanation": "Article 163 provides for the Council of Ministers to aid and advise the Governor (D). Article 243K vests superintendence of panchayat elections in the State Election Commission (C). Article 280 provides for the Finance Commission (A). Article 165 provides for the Advocate General of the State (B).",
+   "source": "https://www.drishtiias.com/daily-updates/daily-news-analysis/governor-s-role-in-calling-an-assembly-session ; https://www.constitutionofindia.net/articles/article-243k-elections-to-the-panchayats/ ; https://www.constitutionofindia.net/articles/article-280-finance-commission ; https://www.constitutionofindia.net/articles/article-165-advocate-general-for-the-state/ ; https://vidhijudicial.com/article-280-of-the-constitution-of-india.html ; https://vajiramandravi.com/upsc-exam/advocate-general-of-state/"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "Article 300A makes the right to property a fundamental right that can be enforced directly under Article 32.",
+   "reason": "Article 300A provides that no person shall be deprived of his property save by authority of law.",
+   "answer": 3,
+   "explanation": "The assertion is false: property ceased to be a fundamental right, and Article 300A makes it a constitutional right, so it is not directly enforceable under Article 32. The reason is true: Article 300A bars deprivation of property except by authority of law.",
+   "source": "https://barandbench.com/news/litigation/right-to-property-still-a-constitutional-right-supreme-court-reiterates ; https://www.thehitavada.com/Encyc/2025/1/4/Right-to-property-a-constitutional-right-SC.html",
+   "truth": [
+    false,
+    true
+   ]
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. Under Article 174, not more than six months may intervene between the last sitting of a House of the State legislature in one session and its first sitting in the next session.",
+    "II. Under Article 154, the executive power of a State is vested in the Chief Minister, who exercises it directly."
+   ],
+   "answer": 0,
+   "explanation": "Statement I is correct: Article 174(1) provides that six months shall not intervene between the last sitting of a House in one session and its first sitting in the next. Statement II is wrong: Article 154 vests the State's executive power in the Governor, exercisable directly or through subordinate officers.",
+   "source": "https://www.drishtiias.com/daily-updates/daily-news-analysis/governor-s-role-in-calling-an-assembly-session ; https://www.scconline.com/blog/?p=72241 ; https://www.constitutionofindia.net/articles/article-154-executive-power-of-state",
+   "truth": [
+    true,
+    false
+   ]
+  },
+  {
+   "type": "statement_multi",
+   "statements": [
+    "I. Parliament can make a law to form a new State out of the territory of an existing State.",
+    "II. A bill under Article 3 that alters a State's boundaries can be introduced only after that State's legislature has consented to it.",
+    "III. A bill under Article 3 cannot be introduced in Parliament without the President's recommendation."
+   ],
+   "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "All of the above"
+   ],
+   "answer": 2,
+   "explanation": "Statements I and III are correct: Article 3 empowers Parliament to form a new State, and the bill needs the President's recommendation. Statement II is wrong: the State legislature is only given the opportunity to express its views, not a power to consent or veto.",
+   "source": "https://www.constitutionofindia.net/articles/article-3-formation-of-new-states-and-alteration-of-areas-boundaries-or-names-of-existing-states/ ; https://www.understandupsc.com/?p=11611"
+  }
+ ]
+}
