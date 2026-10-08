@@ -1,26 +1,179 @@
 {
-  "status": "incomplete",
-  "status_note": "WebSearch budget ran out after 12 searches (remaining searches returned 'budget used up'). Passage is under 450 words and only 0 of 8 questions are written. Facts for the remaining sources (GGGI Seoul HQ, AIIB Beijing HQ, ADB Manila HQ, Article 253, Vienna HQs of IAEA/UNODC/OPEC, Odisha/Chhattisgarh steel plant and iron ore facts) were NOT double-sourced and must not be used until re-searched.",
-  "title": "South Korean President's State Visit and Austrian Chancellor's Official Visit, April 2026",
-  "topic_tags": ["India bilateral visits", "India-South Korea", "India-Austria", "POSCO", "JSW Steel", "Special Strategic Partnership", "April 2026"],
+  "status": "complete",
+  "title": "South Korean President's State Visit and Austrian Chancellor's Visit, April 2026",
+  "topic_tags": [
+    "India bilateral visits",
+    "India-South Korea",
+    "India-Austria",
+    "POSCO",
+    "JSW Steel",
+    "Special Strategic Partnership",
+    "April 2026"
+  ],
   "slot": "T03P2",
-  "text": "South Korean President Lee Jae Myung paid a three-day state visit to India from April 19 to 21, 2026. He was received at the airport by Union Minister of State Harsh Malhotra, and External Affairs Minister S. Jaishankar called on him. On April 20, Lee received a ceremonial welcome at Rashtrapati Bhavan. He then held bilateral talks with Prime Minister Narendra Modi at Hyderabad House in New Delhi, after which the two leaders planted a tree to symbolise the growing partnership. The two sides unveiled a Joint Strategic Vision for the India-Republic of Korea Special Strategic Partnership for 2026-2030. Three joint statements were also issued, covering shipbuilding and maritime logistics, sustainability, and energy resource security. During the visit, South Korea joined the Indo-Pacific Oceans Initiative. On April 20, business leaders from both countries held an India-Korea Business Forum in New Delhi. There, POSCO and JSW Steel signed a joint venture agreement to build a 6 million tonnes per annum greenfield integrated steel plant in Odisha. Under the structure disclosed in JSW's filing, the venture will be a 50:50 partnership between JSW and the POSCO Group. Earlier in April, Austrian Chancellor Christian Stocker made an official visit to India from April 14 to 17, 2026, his first visit to the country. The visit produced several MoUs, including one between India's FSSAI and Austria's AGES on food safety, and another between IIT Delhi and Montan University.",
+  "text": "South Korean President Lee Jae Myung made a three-day state visit to India from April 19 to 21, 2026. It was his first visit to India since he took office in June 2025. On arrival in New Delhi, he was received at the airport by Minister of State Harsh Malhotra, and External Affairs Minister S. Jaishankar called on him.\n\nOn April 20, Lee received a ceremonial welcome at Rashtrapati Bhavan, where President Droupadi Murmu and Prime Minister Narendra Modi greeted him. He then held talks with Modi at Hyderabad House in New Delhi, after which the two leaders planted a tree to mark the growing partnership. Their discussions produced a Joint Strategic Vision for the India-Republic of Korea Special Strategic Partnership. The leaders also issued joint statements on shipbuilding, shipping and maritime logistics, and on energy resource security. The energy statement committed both countries to build resilient supply chains, ensure stable access to energy resources and cooperate on clean energy. During the visit, South Korea also joined the Indo-Pacific Oceans Initiative and the International Solar Alliance.\n\nThe same day, business leaders from both countries held an India-Korea Business Forum in New Delhi, where 20 memorandums of understanding were signed in steel, shipbuilding, digital services and energy. Among the business deals, JSW Steel and the POSCO Group agreed to form a 50:50 joint venture to build a greenfield integrated steel plant with a capacity of 6 million tonnes per annum in Odisha. The plant is expected to be commissioned by 2031, subject to regulatory clearances. The venture will be formed through Saffron Resources Private Limited, a JSW Steel subsidiary, which will become an equal partnership between the two companies. POSCO will acquire its stake for Rs 508.8 crore, subject to closing adjustments, and the transaction is expected to be completed by December 31, 2026. Saffron Resources holds about 887 acres of land in Odisha. The two companies had first signed a memorandum of understanding in October 2024.\n\nEarlier in April, Austrian Chancellor Christian Stocker made an official visit to India from April 14 to 17, 2026. It was his first visit to the country. On April 16, he held bilateral talks with Prime Minister Modi at Hyderabad House, New Delhi, followed by the signing of agreements and joint press statements. The documents signed included a joint letter of intent on dual vocational training, skills development and the recognition of vocational qualifications. A separate letter of intent was signed between India's Ministry of Defence and the Austrian defence ministry on military cooperation. The package also covered an audiovisual co-production agreement for films, and a memorandum between India's Food Safety and Standards Authority and Austria's Agency for Health and Food Safety, known as AGES, on food safety cooperation.",
   "sources": [
-    "https://www.ddindia.co.in/2026/04/pm-modi-holds-bilateral-talks-with-south-korean-president-lee-jae-myung-at-hyderabad-house/",
-    "https://en.fnnews.com/news/202604201319224199",
-    "https://visionias.in/current-affairs/news-today/2026-04-21/international-relations/south-korean-president-visited-india-marking-a-milestone-special-strategic-partnership",
-    "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/22-04-2026/print/manual",
-    "https://gmk.center/en/news/jsw-steel-and-posco-have-announced-a-joint-venture-to-build-a-steel-plant-in-india/",
+    "https://www.freepressjournal.in/india/south-korean-president-lee-jae-myung-accorded-ceremonial-welcome-at-rashtrapati-bhavan-holds-key-talks-with-pm-modi-to-deepen-strategic-partnership",
+    "https://www.koreaherald.com/article/10721540",
+    "https://www.narendramodi.in/amp/category/news/india-rok-partnership",
+    "https://www.koreatimes.co.kr/amp/business/companies/20260420/korea-india-to-bolster-ties-in-steel-shipbuilding-digital-services-energy",
     "https://worldsteel.org/media/industry-member-news/2026-member-news/jsw-steel-and-posco-form-landmark-joint-venture-to-set-up-6-mtpa-integrated-steel-plant-in-india/",
     "https://odisha.plus/2026/04/jsw-steel-posco-jv-odisha-6mtpa-steel-plant/",
+    "https://www.outlookbusiness.com/amp/story/corporate/jsw-steel-board-approves-proposal-to-ink-pact-with-posco-to-enter-into-jv-for-6-mtpa-steel-plant",
+    "https://www.theweek.in/wire-updates/business/2025/08/18/del6-biz-jsw-steel-posco.html",
     "https://www.bundeskanzleramt.gv.at/dam/jcr%3Ae7ea3a06-193b-474e-a18e-ba836c7d092c/joint_statement_india-austria.pdf",
-    "https://vajiramandravi.com/current-affairs/india-austria-relations/"
+    "https://www.tribuneindia.com/news/world/pm-modi-holds-bilateral-talks-with-austrian-federal-chancellor-stocker-at-hyderabad-house/",
+    "https://www.chronicleindia.in/current-affairs/16498-india-and-austria-sign-multiple-agreements",
+    "https://www.narendramodi.in/amp/category/news/austria",
+    "https://www.koreatimes.co.kr/amp/business/companies/20260421/korea-india-sign-20-mous-in-steel-shipbuilding-energy-sectors",
+    "https://www.constitutionofindia.net/articles/article-253-legislation-for-giving-effect-to-international-agreements/",
+    "https://blog.ipleaders.in/legislation-for-giving-effect-to-international-agreements-article-253-of-the-constitution/",
+    "https://indembassyseoul.gov.in/cepa",
+    "https://www.hsfkramer.com/notes/publicinternationallaw/2010-03/korea-india-korea-bilateral-comprehensive-economic-partnership-agreement-the-most-recent-example-of-intra-asian-trade-agreements",
+    "https://en.wikipedia.org/wiki/Hyderabad_House",
+    "https://www.gktoday.in/hyderabad-house/",
+    "https://vajiramandravi.com/current-affairs/indo-pacific-oceans-initiative-ipoi/",
+    "https://www.mea.gov.in/Portal/ForeignRelation/Indo_Feb_07_2020.pdf",
+    "https://en.wikipedia.org/wiki/International_Solar_Alliance",
+    "https://vajiramandravi.com/current-affairs/international-solar-alliance-isa/",
+    "https://en.wikipedia.org/wiki/Asian_Infrastructure_Investment_Bank",
+    "https://govt.chinadaily.com.cn/s/201910/24/WS5db69f9f498ebcb19057a41b/aiib-headquarters-construction-completed-in-beijing.html",
+    "https://biodieselmagazine.com/articles/global-biofuels-alliance-launches-at-g20-summit",
+    "https://newsonair.gov.in/pm-modi-launches-global-biofuels-alliance-at-g20-summit-in-new-delhi",
+    "https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency",
+    "https://www.unvienna.org/unvienna/en/multi-lang-link/history/index.html",
+    "https://en.wikipedia.org/wiki/Declaration_of_Neutrality",
+    "https://www.ankasam.org/the-impact-of-the-russia-ukraine-war-on-austrias-foreign-policy/?lang=en",
+    "https://en.wikipedia.org/wiki/President_of_South_Korea",
+    "https://constitutionnet.org/news/op-ed-south-koreas-president-should-push-constitutional-amendment-term-limits",
+    "https://www.constitutionofindia.net/articles/article-51-promotion-of-international-peace-and-security/",
+    "https://blog.ipleaders.in/article-51-of-the-indian-constitution/",
+    "https://www.india.gov.in/my-government/indian-parliament/lok-sabha",
+    "https://vajiramandravi.com/current-affairs/lok-sabha/",
+    "https://en.wikipedia.org/wiki/AsDB",
+    "https://opinion.inquirer.net/27815/adb-headquarters-manila-not-tokyo",
+    "https://en.wikipedia.org/wiki/Rashtrapati_Bhavan",
+    "https://www.britannica.com/print/article/475252"
   ],
-  "questions": [],
-  "verified_static_facts_for_next_run": [
-    {"fact": "India announced the Indo-Pacific Oceans Initiative at the East Asia Summit in Bangkok, November 2019", "sources": ["https://vajiramandravi.com/current-affairs/indo-pacific-oceans-initiative-ipoi/", "https://visionias.in/current-affairs/news-today/2024-09-11/international-relations/indo-pacific-oceans-initiative-ipoi-completes-five-years"]},
-    {"fact": "Hyderabad House, New Delhi, was built as a Delhi residence for the Nizam of Hyderabad (designed by Lutyens; later a state guesthouse)", "sources": ["https://en.wikipedia.org/wiki/Hyderabad_House", "https://www.gktoday.in/hyderabad-house/"]},
-    {"fact": "India-South Korea CEPA was signed 7 August 2009 and came into force 1 January 2010", "sources": ["https://www.indembassyseoul.gov.in/cepa", "https://www.hsfkramer.com/notes/publicinternationallaw/2010-03/korea-india-korea-bilateral-comprehensive-economic-partnership-agreement-the-most-recent-example-of-intra-asian-trade-agreements"]},
-    {"fact": "International Solar Alliance was launched by India and France at COP21 Paris (2015); headquarters in Gurugram, Haryana", "sources": ["https://en.wikipedia.org/wiki/International_Solar_Alliance", "https://vajiramandravi.com/current-affairs/international-solar-alliance-isa/"]}
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Which Article of the Constitution of India empowers Parliament to make laws for giving effect to international treaties, agreements and decisions taken at international conferences?",
+      "options": [
+        "Article 245",
+        "Article 253",
+        "Article 256",
+        "Article 262"
+      ],
+      "answer": 1,
+      "explanation": "Article 253 lets Parliament make laws for the whole or any part of India to implement treaties, agreements and conference decisions, even on matters otherwise in state competence. Article 245 deals with the extent of laws, Article 256 with the obligation of states to comply with Union laws, and Article 262 with adjudication of inter-state water disputes.",
+      "source": "https://www.constitutionofindia.net/articles/article-253-legislation-for-giving-effect-to-international-agreements/ ; https://blog.ipleaders.in/legislation-for-giving-effect-to-international-agreements-article-253-of-the-constitution/"
+    },
+    {
+      "type": "direct",
+      "q": "In which year did the India-South Korea Comprehensive Economic Partnership Agreement (CEPA) come into force?",
+      "options": [
+        "2007",
+        "2009",
+        "2010",
+        "2012"
+      ],
+      "answer": 2,
+      "explanation": "The India-South Korea CEPA was signed in Seoul on 7 August 2009 and took effect on 1 January 2010. The 2009 option is the signing year, not the year of entry into force.",
+      "source": "https://indembassyseoul.gov.in/cepa ; https://www.hsfkramer.com/notes/publicinternationallaw/2010-03/korea-india-korea-bilateral-comprehensive-economic-partnership-agreement-the-most-recent-example-of-intra-asian-trade-agreements"
+    },
+    {
+      "type": "direct",
+      "q": "Hyderabad House in New Delhi, the venue of the India-South Korea talks, was originally built as a residence for which ruler?",
+      "options": [
+        "Maharaja of Mysore",
+        "Nawab of Bhopal",
+        "Nizam of Hyderabad",
+        "Nawab of Rampur"
+      ],
+      "answer": 2,
+      "explanation": "Hyderabad House was built in the 1920s as a Delhi residence for the Nizam of Hyderabad and was later taken over by the Government of India, which now uses it for state functions.",
+      "source": "https://en.wikipedia.org/wiki/Hyderabad_House ; https://www.gktoday.in/hyderabad-house/"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Indo-Pacific Oceans Initiative",
+        "II. International Solar Alliance",
+        "III. Asian Infrastructure Investment Bank",
+        "IV. Global Biofuels Alliance"
+      ],
+      "list2": [
+        "A. Headquartered in Beijing",
+        "B. Launched at COP21 in Paris",
+        "C. Launched on the sidelines of the G20 summit in New Delhi",
+        "D. Unveiled at the East Asia Summit in Bangkok"
+      ],
+      "options": [
+        "I-D, II-B, III-A, IV-C",
+        "I-B, II-D, III-C, IV-A",
+        "I-A, II-C, III-D, IV-B",
+        "I-C, II-A, III-B, IV-D"
+      ],
+      "answer": 0,
+      "explanation": "India unveiled the Indo-Pacific Oceans Initiative at the 14th East Asia Summit in Bangkok on 4 November 2019. The International Solar Alliance was launched by India and France at COP21 in Paris in 2015. The Asian Infrastructure Investment Bank is headquartered in Beijing. The Global Biofuels Alliance was launched on 9 September 2023 on the sidelines of the G20 summit in New Delhi.",
+      "source": "https://vajiramandravi.com/current-affairs/indo-pacific-oceans-initiative-ipoi/ ; https://www.mea.gov.in/Portal/ForeignRelation/Indo_Feb_07_2020.pdf ; https://en.wikipedia.org/wiki/International_Solar_Alliance ; https://vajiramandravi.com/current-affairs/international-solar-alliance-isa/ ; https://en.wikipedia.org/wiki/Asian_Infrastructure_Investment_Bank ; https://govt.chinadaily.com.cn/s/201910/24/WS5db69f9f498ebcb19057a41b/aiib-headquarters-construction-completed-in-beijing.html ; https://biodieselmagazine.com/articles/global-biofuels-alliance-launches-at-g20-summit ; https://newsonair.gov.in/pm-modi-launches-global-biofuels-alliance-at-g20-summit-in-new-delhi"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The International Atomic Energy Agency is headquartered in Geneva, Switzerland.",
+      "reason": "The IAEA's headquarters were established in Vienna, Austria, in 1957 at the invitation of the Austrian government.",
+      "answer": 3,
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "Assertion is false: the IAEA is headquartered in Vienna, not Geneva. Reason is true: at the invitation of the Government of Austria, the IAEA set up its headquarters in Vienna in 1957.",
+      "source": "https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency ; https://www.unvienna.org/unvienna/en/multi-lang-link/history/index.html"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. Austria is a member of the North Atlantic Treaty Organization (NATO).",
+        "II. Austria joined the European Union in 1995."
+      ],
+      "answer": 1,
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "Statement I is false: Austria has not joined NATO and keeps constitutional permanent neutrality under its 1955 law. Statement II is true: Austria joined the EU on 1 January 1995, so II only is correct.",
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_Neutrality ; https://www.ankasam.org/the-impact-of-the-russia-ukraine-war-on-austrias-foreign-policy/?lang=en"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. South Korea's president is elected for a single five-year term.",
+        "2. Article 51 of the Constitution of India directs the State to endeavour to promote international peace and security.",
+        "3. The Lok Sabha has 543 elected members.",
+        "4. The Asian Development Bank is headquartered in Tokyo, Japan."
+      ],
+      "mode": "correct",
+      "answer": 2,
+      "explanation": "Statements 1, 2 and 3 are correct, and statement 4 is incorrect because the Asian Development Bank is headquartered in Mandaluyong, Metro Manila, Philippines. Three statements are correct, so the answer is Only three.",
+      "source": "https://en.wikipedia.org/wiki/President_of_South_Korea ; https://constitutionnet.org/news/op-ed-south-koreas-president-should-push-constitutional-amendment-term-limits ; https://www.constitutionofindia.net/articles/article-51-promotion-of-international-peace-and-security/ ; https://blog.ipleaders.in/article-51-of-the-indian-constitution/ ; https://www.india.gov.in/my-government/indian-parliament/lok-sabha ; https://vajiramandravi.com/current-affairs/lok-sabha/ ; https://en.wikipedia.org/wiki/AsDB ; https://opinion.inquirer.net/27815/adb-headquarters-manila-not-tokyo"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. Rashtrapati Bhavan stands on Raisina Hill at the end of Rajpath in New Delhi.",
+        "II. Rashtrapati Bhavan was designed by Sir Edwin Lutyens.",
+        "III. Rashtrapati Bhavan is the official residence of the Prime Minister of India."
+      ],
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "Statements I and II are true: the building stands on Raisina Hill and was designed by Lutyens, with construction from 1912 to 1929. Statement III is false: Rashtrapati Bhavan is the official residence of the President of India.",
+      "source": "https://en.wikipedia.org/wiki/Rashtrapati_Bhavan ; https://www.britannica.com/print/article/475252"
+    }
   ]
 }

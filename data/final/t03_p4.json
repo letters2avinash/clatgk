@@ -1,0 +1,130 @@
+{
+  "title": "WEF Energy Transition Index 2026",
+  "topic_tags": [
+    "schemes-reports-indices",
+    "energy-transition",
+    "WEF",
+    "India",
+    "June 2026"
+  ],
+  "slot": "T03P4",
+  "status": "verified",
+  "text": "The World Economic Forum (WEF) released its Energy Transition Index 2026 in June 2026. The index was produced by the WEF with Accenture and covers 120 countries. It uses 44 indicators to rank national energy systems on three core dimensions, security, sustainability and equity, and it also measures the readiness of the enabling environment that supports the transition.\n\nSweden, Finland and Denmark retained the top three positions in the 2026 ranking. India ranked 70th. Among G20 members, China placed fourteenth, Brazil seventeenth and the United States nineteenth.\n\nThe global findings were less encouraging. Total global energy investment reached a record 3.3 trillion US dollars, including 2.3 trillion dollars in clean energy. Energy security deteriorated, and transition readiness declined for the first time in more than a decade. The WEF said investment alone was no longer enough to sustain momentum.",
+  "sources": [
+    "https://www.weforum.org/publications/energy-transition-index-2026/digest/",
+    "https://www.weforum.org/publications/energy-transition-index-2026/in-full/2-overall-results-energy-transition-index-2026/",
+    "https://x.com/wef/status/2067551807618867576",
+    "https://reports.weforum.org/docs/WEF_Energy_Transition_Index_2026.pdf",
+    "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "The World Economic Forum, which publishes the Energy Transition Index, is headquartered in which city?",
+      "options": [
+        "Zurich",
+        "Vienna",
+        "Geneva",
+        "Brussels"
+      ],
+      "answer": 2,
+      "explanation": "The WEF is based in Cologny, in the canton of Geneva, Switzerland. Its annual meeting is held in Davos, but Davos is not its headquarters.",
+      "source": "https://weforum.org/contact-us/office-locations ; https://www.weforum.org/publications/annual-report-2025-2026/our-offices/ ; https://www.swissinfo.ch/eng/business/nonprofit_wef-to-expand-geneva-hq/43556302"
+    },
+    {
+      "type": "direct",
+      "q": "On which date did the Union Cabinet approve the National Green Hydrogen Mission with an initial outlay of Rs 19,744 crore?",
+      "options": [
+        "4 January 2023",
+        "4 January 2022",
+        "14 January 2023",
+        "4 July 2023"
+      ],
+      "answer": 0,
+      "explanation": "The Union Cabinet approved the National Green Hydrogen Mission on 4 January 2023 with an outlay of Rs 19,744 crore.",
+      "source": "https://www.narendramodi.in/cabinet-approves-national-green-hydrogen-mission ; https://www.businesstoday.in/amp/latest/economy/story/cabinet-approves-national-green-hydrogen-mission-with-provisions-worth-rs-19700-cr-358893-2023-01-04 ; https://www.downtoearth.org.in/news/energy/union-cabinet-approves-national-green-hydrogen-mission-86949"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Global Innovation Index",
+        "II. Environmental Performance Index",
+        "III. Global Hunger Index",
+        "IV. Human Development Report"
+      ],
+      "list2": [
+        "A. United Nations Development Programme",
+        "B. Concern Worldwide and Welthungerhilfe",
+        "C. World Intellectual Property Organization",
+        "D. Yale University and Columbia University"
+      ],
+      "options": [
+        "I-C, II-D, III-B, IV-A",
+        "I-A, II-D, III-B, IV-C",
+        "I-C, II-B, III-D, IV-A",
+        "I-B, II-A, III-C, IV-D"
+      ],
+      "answer": 0,
+      "explanation": "The Global Innovation Index is co-published by WIPO with Cornell University and INSEAD (I-C). The Environmental Performance Index is run by Yale's environmental law centre and Columbia's CIESIN (II-D). The Global Hunger Index is published by Concern Worldwide and Welthungerhilfe (III-B). The Human Development Report is produced by UNDP (IV-A).",
+      "source": "https://globaledge.msu.edu/global-resources/resource/56359 ; https://www.wipo.int/publications/en/series/index.jsp?id=129 ; https://epi.yale.edu/node/356 ; https://ciesin.columbia.edu/news/environmental-performance-index-celebrates-25-years-release-2026-epi ; https://www.welthungerhilfe.org/news/latest-articles/launch-of-global-hunger-index-2022 ; https://www.concern.net/insights/global-hunger-index-2017 ; https://digitallibrary.un.org/record/92382/files/hdr1990encompletenostats.pdf"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The secretariat of the International Solar Alliance is located in Gurugram, Haryana.",
+      "reason": "Switzerland is a landlocked country.",
+      "answer": 1,
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "Both statements are true. The ISA secretariat sits on the National Institute of Solar Energy campus in Gurugram. Switzerland's lack of a coastline has no bearing on where the ISA secretariat is located, so R does not explain A.",
+      "source": "https://isa.int/pillar-platform ; https://themachinist.in/news/1649/international-solar-alliance-hq-india ; https://simple.wikipedia.com/wiki/Landlocked ; https://www.expatica.com/ch/about/basics/35-facts-about-switzerland-100041/"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. At COP26 in Glasgow in 2021, India announced that it would take its non-fossil energy capacity to 500 GW by 2030.",
+        "2. The Ease of Living Index 2020 covers 139 cities.",
+        "3. The SDG India Index is prepared by the Ministry of Statistics and Programme Implementation.",
+        "4. The first Human Development Report was published in 2000."
+      ],
+      "mode": "correct",
+      "answer": 0,
+      "truth": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "explanation": "Only statement 1 is correct. The 2020 Ease of Living Index covered 111 cities, not 139. The SDG India Index is prepared by NITI Aayog. The first Human Development Report was published in 1990.",
+      "source": "https://wnn.world-nuclear.org/articles/india-sets-target-for-net-zero ; https://www.roedl.com/insights/india-modi-panchamrit-cop26-implication-industrial-perspective ; https://www.orfonline.org/research/results-of-ease-of-living-and-municipal-performance-indices ; https://hardeepsinghpuri.com/single-media/business-standard-ease-of-living-index-bengaluru-shimla-adjudged-best-among-111-cities ; https://www.niti.gov.in/sites/default/files/2020-07/SDX_Index_India_Baseline_Report_21-12-2018.pdf ; https://sdg.iisd.org/news/india-index-report-provides-baseline-for-performance-across-sdgs/ ; https://digitallibrary.un.org/record/92382/files/hdr1990encompletenostats.pdf"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. The International Solar Alliance was launched by India and France at the 2015 Paris climate conference.",
+        "II. The Union Cabinet approved the PM Surya Ghar Muft Bijli Yojana on 29 February 2024.",
+        "III. The Global Hunger Index was first published in 2016."
+      ],
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "All of the above"
+      ],
+      "answer": 0,
+      "truth": [
+        true,
+        true,
+        false
+      ],
+      "explanation": "Statements I and II are correct. The ISA was launched at COP21 in Paris in 2015, and the Cabinet approved the Surya Ghar scheme on 29 February 2024. The Global Hunger Index first appeared in 2006, so III is incorrect.",
+      "source": "https://www.mondaq.com/india/energy-law/1334100/international-solar-alliance-paving-way-for-sharing-world-resourceslaunch-of-isa ; https://www.iasgyan.in/daily-current-affairs/international-solar-alliance-objectives-challenges-way-forward ; https://narendramodi.in/cabinet-approves-pm-surya-ghar-muft-bijli-yojana-for-installing-rooftop-solar-in-one-crore-households ; https://etvbharat.com/en/!bharat/cabinet-approves-rs-75000-cr-rooftop-solar-scheme-for-1-cr-households-enn24022904442 ; https://www.globalhungerindex.org/pdf/en/2006.pdf ; https://www.welthungerhilfe.org/news/latest-articles/launch-of-global-hunger-index-2022"
+    }
+  ],
+  "notes": {
+    "passage_word_count": 139,
+    "shortfall": "Passage is well under 430 words because claims not confirmed by two independent publishers were deleted and no facts were added.",
+    "verifier": "verify_brief_v2; 25 searches used"
+  }
+}

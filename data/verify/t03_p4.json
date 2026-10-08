@@ -1,0 +1,300 @@
+{
+  "passage_file": "data/draft/t03_p4.json",
+  "passage_claims": [
+    {
+      "claim": "Released 18 June 2026",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": "Exact day only from PTI-derived coverage; WEF report says June 2026. Reworded to 'in June 2026'."
+    },
+    {
+      "claim": "Produced with Accenture; covers 120 countries",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://x.com/wef/status/2067551807618867576",
+        "https://www.weforum.org/publications/energy-transition-index-2026/digest/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "44 indicators; security, sustainability, equity plus enabling environment readiness",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.weforum.org/publications/energy-transition-index-2026/digest/",
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Sweden, Finland, Denmark retained top three",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://x.com/wef/status/2067551807618867576",
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "India ranked 70th",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.weforum.org/publications/energy-transition-index-2026/digest/",
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": "Outlook Business says 67th; WEF digest and PTI say 70th. 67th is a DISPUTED outlier; 70th kept."
+    },
+    {
+      "claim": "India moved up two places",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": "PTI and derivatives only. Deleted."
+    },
+    {
+      "claim": "India score +1.9 per cent; strongest improvers; sharp rise in infrastructure",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": "PTI only. Deleted."
+    },
+    {
+      "claim": "India drivers: universal electricity access, clean cooking, renewables",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": "PTI only. Deleted."
+    },
+    {
+      "claim": "Renewable jobs 1.3 million (2024, +25%), hydropower largest; low-carbon jobs share +24%",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": "PTI only. Deleted."
+    },
+    {
+      "claim": "Singapore up 10 places to 42nd",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": "WEF text not found; others PTI-derived. Deleted."
+    },
+    {
+      "claim": "Germany 9th, France 10th, UK 11th",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": "Not in WEF excerpts; only PTI-derived and Baidu Baike. Deleted."
+    },
+    {
+      "claim": "China 14th, Brazil 17th, US 19th",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.weforum.org/publications/energy-transition-index-2026/in-full/2-overall-results-energy-transition-index-2026/",
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Record 3.3 trillion USD energy investment incl 2.3 trillion clean",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.weforum.org/publications/energy-transition-index-2026/in-full/2-overall-results-energy-transition-index-2026/",
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Energy security deteriorated; readiness fell first time in over a decade",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.weforum.org/publications/energy-transition-index-2026/digest/",
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Investment alone no longer enough to sustain momentum",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.weforum.org/publications/energy-transition-index-2026/in-full/2-overall-results-energy-transition-index-2026/",
+        "https://www.etvbharat.com/en/business/global-energy-transition-readiness-dips-india-among-top-gainers-wef-enn26061803354"
+      ],
+      "note": "'Growing gap between capital deployment and readiness' wording deleted as unconfirmed."
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Geneva",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://weforum.org/contact-us/office-locations",
+        "https://www.swissinfo.ch/eng/business/nonprofit_wef-to-expand-geneva-hq/43556302"
+      ],
+      "fix": null,
+      "note": "Cologny, Geneva."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "4 January 2023",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.narendramodi.in/cabinet-approves-national-green-hydrogen-mission",
+        "https://www.businesstoday.in/amp/latest/economy/story/cabinet-approves-national-green-hydrogen-mission-with-provisions-worth-rs-19700-cr-358893-2023-01-04"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 3,
+      "verdict": "DROP",
+      "my_answer": "1 crore",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://narendramodi.in/cabinet-approves-pm-surya-ghar-muft-bijli-yojana-for-installing-rooftop-solar-in-one-crore-households",
+        "https://etvbharat.com/en/!bharat/cabinet-approves-rs-75000-cr-rooftop-solar-scheme-for-1-cr-households-enn24022904442"
+      ],
+      "fix": null,
+      "note": "Correct but dropped as weakest overlap (Surya Ghar also in Q8 II) to reach 6."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-C, II-D, III-B, IV-A",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://globaledge.msu.edu/global-resources/resource/56359",
+        "https://epi.yale.edu/node/356",
+        "https://www.welthungerhilfe.org/news/latest-articles/launch-of-global-hunger-index-2022",
+        "https://digitallibrary.un.org/record/92382/files/hdr1990encompletenostats.pdf"
+      ],
+      "fix": null,
+      "note": "All pairs confirmed; distractors wrong."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "1 (both true, R does not explain A)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://isa.int/pillar-platform",
+        "https://themachinist.in/news/1649/international-solar-alliance-hq-india",
+        "https://www.expatica.com/ch/about/basics/35-facts-about-switzerland-100041/"
+      ],
+      "fix": null,
+      "note": "ISA HQ on NISE campus, Gurugram; Switzerland landlocked."
+    },
+    {
+      "index": 6,
+      "verdict": "DROP",
+      "my_answer": "3 (neither)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        false
+      ],
+      "issues": [
+        "GIVEAWAY"
+      ],
+      "sources": [
+        "https://www.downtoearth.org.in/news/energy/union-cabinet-approves-national-green-hydrogen-mission-86949",
+        "https://www.ipsos.com/sites/default/files/ct/publication/documents/2018-08/ease-of-living-national-report.pdf"
+      ],
+      "fix": null,
+      "note": "Facts correct but Q2 stem states the Rs 19,744 crore outlay, giving away statement I."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "1 (only statement 1)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://wnn.world-nuclear.org/articles/india-sets-target-for-net-zero",
+        "https://www.orfonline.org/research/results-of-ease-of-living-and-municipal-performance-indices",
+        "https://www.niti.gov.in/sites/default/files/2020-07/SDX_Index_India_Baseline_Report_21-12-2018.pdf",
+        "https://sdg.iisd.org/news/india-index-report-provides-baseline-for-performance-across-sdgs/",
+        "https://digitallibrary.un.org/record/92382/files/hdr1990encompletenostats.pdf"
+      ],
+      "fix": null,
+      "note": "EoLI 2020 covered 111 cities; SDG India Index by NITI Aayog (MoSPI partner); HDR 1990 rests on UN library copy plus Wikipedia."
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.mondaq.com/india/energy-law/1334100/international-solar-alliance-paving-way-for-sharing-world-resourceslaunch-of-isa",
+        "https://narendramodi.in/cabinet-approves-pm-surya-ghar-muft-bijli-yojana-for-installing-rooftop-solar-in-one-crore-households",
+        "https://www.globalhungerindex.org/pdf/en/2006.pdf",
+        "https://www.welthungerhilfe.org/news/latest-articles/launch-of-global-hunger-index-2022"
+      ],
+      "fix": null,
+      "note": "GHI first edition 2006."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "on 18 June 2026",
+      "new": "in June 2026",
+      "reason": "exact day single-sourced"
+    },
+    {
+      "old": "India ranked 70th, moving up two places, and its overall score improved by 1.9 per cent over the year. The WEF described India as one of the strongest improvers globally, citing a sharp rise in infrastructure and broad-based gains across the energy system.",
+      "new": "India ranked 70th.",
+      "reason": "single-source (PTI)"
+    },
+    {
+      "old": "According to the report, the main drivers of India's improved performance ... 24 per cent in the same year. (whole paragraph)",
+      "new": "",
+      "reason": "single-source (PTI)"
+    },
+    {
+      "old": "Singapore was among the biggest climbers, rising 10 places to 42nd. Among G20 members, Germany placed ninth, France tenth, the United Kingdom eleventh, China fourteenth,",
+      "new": "Among G20 members, China placed fourteenth,",
+      "reason": "not confirmed by two independent publishers"
+    },
+    {
+      "old": "The WEF said a growing gap between capital deployment and transition readiness meant that investment alone no longer sustained momentum.",
+      "new": "The WEF said investment alone was no longer enough to sustain momentum.",
+      "reason": "gap wording unconfirmed"
+    }
+  ],
+  "summary": "25 searches used. WebFetch failed (DNS) so WEF text was seen only via search snippets. Q3 and Q6 dropped; 6 kept (2 direct, 1 match, 1 AR, 2 statement). Passage is short (139 words) after deleting single-sourced claims."
+}
