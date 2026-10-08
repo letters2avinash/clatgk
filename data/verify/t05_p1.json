@@ -1,0 +1,276 @@
+{
+ "passage_file": "data/draft/t05_p1.json",
+ "passage_claims": [
+  {
+   "claim": "Glaw Lake designated Ramsar site, announced 3 Aug 2026; 101st; first in Arunachal",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "newsonair/PIB-based reports",
+    "https://arunachaltimes.in/index.php/2026/08/04/glaw-lake-is-arunachals-first-ramsar-site/",
+    "https://www.freepressjournal.in/lifestyle/arunachal-pradeshs-glaw-lake-becomes-indias-101st-ramsar-site-state-gets-first-international-wetland"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Yadav: network grew from 26 (2014) to 101",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "multiple news reports in search"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Lake in Kamlang Tiger Reserve and WLS, Lohit district, near Wakro; fed by perennial streams",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.deccanherald.com/india/arunachal-pradesh/glaw-lake-recognised-as-indias-101st-arunachal-pradeshs-first-ramsar-site-tag-boost-for-conservation-tourism-4099112",
+    "https://www.onmanorama.com/upsc/current-affairs/2026/08/05/glaw-lake-becomes-arunachal-pradesh-s-first-ramsar-site.amp.html"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Lake sacred to Mishmi",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://south-asia.wetlands.org/101-and-counting-glaw-lake-brings-arunachal-pradesh-its-first-ramsar-site/",
+    "news reports in search"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Designation to strengthen biodiversity, climate resilience, water security, livelihoods",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/glaw-lake-becomes-indias-101st-ramsar-site",
+    "Yadav post on X via news reports"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Elevation 1,168 m; Eastern Himalayas; 'dense forest'; 'freshwater'; Mishmi restoration plan",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://www.deccanherald.com/india/arunachal-pradesh/glaw-lake-recognised-as-indias-101st-arunachal-pradeshs-first-ramsar-site-tag-boost-for-conservation-tourism-4099112"
+   ],
+   "note": "Deleted from passage (restoration plan only Deccan Herald; others only one source or unconfirmed)."
+  },
+  {
+   "claim": "SC order 17 Aug 2026: ministry nationwide survey; report on measures to prevent obstructions; crop damage no justification; no state can block; fireballs/mashaals barred; states to enforce",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.deccanchronicle.com/legalnews/sc-orders-nationwide-survey-of-elephant-corridors-bans-fireballs-1979857",
+    "https://www.livelaw.in/top-stories/supreme-court-orders-nationwide-survey-human-elephant-conflict-burning-mashaal-iron-spike-there-cant-be-blockade-of-elephant-corridors-546149",
+    "https://visionias.in/current-affairs/upsc-daily-news-summary/article/2026-08-18/the-hindu/environment/no-state-can-block-traditional-routes-of-elephants-supreme-court"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Report due by 14 October 2026",
+   "verdict": "DISPUTED",
+   "sources": [
+    "https://india.mongabay.com/short-article/2026/08/court-orders-survey-of-elephant-corridors-seeks-ban-on-fireball-use/"
+   ],
+   "note": "Mongabay says 14 Oct; PTI/Deccan Chronicle/ThePrint say six weeks; Vision IAS says eight weeks. Deleted."
+  },
+  {
+   "claim": "Bench found corridors blocked despite existing ministry guidelines",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "Deleted."
+  },
+  {
+   "claim": "Bench headed by CJI Surya Kant; Prerna Singh Bindra matter",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.barandbench.com/news/supreme-court-says-states-cannot-obstruct-elephant-corridors-citing-crop-damage-orders-nationwide-survey",
+    "https://www.deccanchronicle.com/legalnews/sc-orders-nationwide-survey-of-elephant-corridors-bans-fireballs-1979857"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "WII 2023 report: 150 corridors (88 in 2010); 59 increased, 29 stable, 29 decreased, 15 impaired, 18 no info; regions 52/48/32/18",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.nationalheraldindia.com/national/150-elephant-corridors-identified-in-india-west-bengal-leads-report",
+    "https://www.nextias.com/current-affairs/20-09-2023/report-on-elephant-corridors-of-india/",
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/elephant-corridors-1"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "'Many corridors lie outside protected areas'",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "No source found. Deleted."
+  },
+  {
+   "claim": "Tamil Nadu notified three corridors in Cauvery North WLS, Hosur division, late Aug 2026; names; trans-Cauvery route; Madras HC proceedings",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://www.gktoday.in/tamil-nadu-notifies-three-new-elephant-corridors",
+    "https://currentaffairs.adda247.com/tamil-nadu-notifies-three-elephant-corridors-in-hosur-forest-division/",
+    "https://www.dtnext.in/news/tamilnadu/madras-high-court-gives-tamil-nadu-three-months-to-identify-more-elephant-corridors"
+   ],
+   "note": "Only aggregators (likely one underlying report) plus DT Next on HC context; no mainstream report found. Date reworded to 'late August' since DT Next gives 27 Aug vs aggregators 28 Aug. Event kept in weakened form; remains the weakest claim."
+  },
+  {
+   "claim": "Corridor lengths/hectares (20.9 km/6,881.47 ha etc.), Chief Wildlife Warden land-status statement, officials' purpose",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://www.gktoday.in/tamil-nadu-notifies-three-new-elephant-corridors"
+   ],
+   "note": "Aggregators only; precise figures deleted."
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "Iran (Ramsar)",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ramsar_Convention",
+    "https://anantamias.com/ramsar-convention/?pdf=1",
+    "https://www.theweek.in/wire-updates/national/2025/06/05/del90-env-ramsar.html"
+   ],
+   "note": "Wikipedia + several exam/news sources; ramsar.org not surfaced."
+  },
+  {
+   "index": 2,
+   "verdict": "DROP",
+   "my_answer": "MoEFCC",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "GIVEAWAY"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Project_Elephant",
+    "https://www.data.gov.in/catalog/elephant-reserve-and-population-status"
+   ],
+   "note": "Answer correct and confirmed, but the passage names the Union Environment Ministry throughout, making option B guessable; also overlaps with Q1/Q3 theme. Dropped to reach 6."
+  },
+  {
+   "index": 3,
+   "verdict": "OK",
+   "my_answer": "NGT Act 2010",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.greentribunal.gov.in/sites/default/files/rti_gazette_notification/RTI MANUAL upto31.12.2025.pdf",
+    "https://www.indiacode.nic.in/bitstream/123456789/2025/1/A201019.pdf"
+   ],
+   "note": "Primary sources."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "I-C, II-D, III-B, IV-A",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://lawbhoomi.com/constitutional-provisions-relating-to-environment-in-india/",
+    "https://blog.ipleaders.in/right-to-constitutional-remedies-2/",
+    "https://www.thelegallock.com/resources/law-notes/in-detail-article-14-of-the-indian-constitution",
+    "https://visionias.in/current-affairs/monthly-magazine/2024-05-21/environment/constitutionalization-of-environmental-issues"
+   ],
+   "note": "Article 14/32 now backed by several publishers; official Constitution text not retrieved."
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "A true, R false (index 2)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.theweek.in/wire-updates/national/2025/06/05/del90-env-ramsar.html",
+    "https://www.gktoday.in/india-and-the-ramsar-convention/",
+    "https://en.wikipedia.org/wiki/Ramsar_Convention"
+   ],
+   "note": "India joined 1 Feb 1982; convention agreed at 1971 conference in Ramsar."
+  },
+  {
+   "index": 6,
+   "verdict": "OK",
+   "my_answer": "II only",
+   "key_answer_correct": true,
+   "truth_values": [
+    false,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.pmfias.com/wild-life-protection-biodiversity-forest-conservation-rights/",
+    "https://www.vikaspedia.in/energy/policy-support/environment-1/forests/acts-pertaining-to-forests",
+    "https://ebooks.inflibnet.ac.in/esp13/?p=46"
+   ],
+   "note": "WPA 1972, FCA 1980."
+  },
+  {
+   "index": 7,
+   "verdict": "DROP",
+   "my_answer": "not verified",
+   "key_answer_correct": null,
+   "truth_values": null,
+   "issues": [
+    "UNSUPPORTED"
+   ],
+   "sources": [],
+   "note": "Writer flagged Project Tiger 1973 as thin; NBA Chennai, BDA 2002 and Water Act 1974 not checked within search budget. Unchecked, so dropped."
+  },
+  {
+   "index": 8,
+   "verdict": "OK",
+   "my_answer": "I and III only",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.scconline.com/blog/?p=231621",
+    "https://vajiramandravi.com/current-affairs/part-4a-of-indian-constitution/",
+    "https://anantamias.com/fundamental-duties/"
+   ],
+   "note": "42nd Amend. inserted Art 51A; 86th added 11th duty; non-justiciable. Sources are legal/exam-prep sites; constitution text not retrieved."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "by 14 October 2026",
+   "new": "",
+   "reason": "disputed deadline"
+  },
+  {
+   "old": "150 elephant corridors ... many corridors lie outside protected areas",
+   "new": "removed",
+   "reason": "unverifiable"
+  },
+  {
+   "old": "about 1,168 metres ... Eastern Himalayas ... surrounded by dense forest ... restoration plan",
+   "new": "removed/reworded",
+   "reason": "single source"
+  },
+  {
+   "old": "Tamil Nadu paragraph figures, date 28 August, land-status",
+   "new": "reworded to late August, names only",
+   "reason": "aggregator-only"
+  },
+  {
+   "old": "(added)",
+   "new": "WII breakdown, 88 in 2010, bench head, Bindra, Mishmi sacred",
+   "reason": "replacements confirmed by 2+ publishers to keep length >=430 words (433)"
+  }
+ ],
+ "summary": "Final passage 433 words; 6 questions kept (2 direct, match, AR, statement_two, statement_multi). Q2 dropped (giveaway), Q7 dropped (unchecked/thin). 14 of 25 searches used; Tamil Nadu notification only supported by aggregators."
+}

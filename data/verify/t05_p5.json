@@ -1,0 +1,251 @@
+{
+ "passage_file": "data/draft/t05_p5.json",
+ "passage_claims": [
+  {
+   "claim": "Opened 6 Feb 2026 with ceremony at San Siro, Milan",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.flashscore.com/news/winter-olympics-to-open-at-san-siro-with-tribute-to-giorgio-armani/GEqDFxXI",
+    "https://www.panamsports.org/en/news-sport/learn-more-about-the-opening-ceremony-of-milan-cortina-2026/",
+    "https://www.9colonne.it/590511/milano-cortina-2026-opens-tonight-with-a-historic-ceremony-at-san-siro"
+   ],
+   "note": "Mostly pre-event previews; photo captions confirm it took place."
+  },
+  {
+   "claim": "Closed Sunday 22 Feb at Verona Arena; 17 days of competition 6-22 Feb",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.bostonglobe.com/2026/02/22/sports/milan-cortina-olympics-to-close-at-verona-arena-as-olympic-flag-passes-to-france",
+    "https://www.nbcnews.com/sports/olympics/live-blog/winter-olympics-2026-closing-ceremony-milan-team-usa-live-updates-rcna259626"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Venue assignments (Milan arenas, Cortina Sliding/Tofane/Curling, Bormio Stelvio men's alpine, Livigno parks, Anterselva biathlon)",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.nbcboston.com/olympics-2026-milan-cortina/where-are-winter-olympics-venues-italy",
+    "https://www.npr.org/2026/01/19/nx-s1-5621791/winter-olympics-venues-milan-cortina",
+    "https://www.bormio.eu/en/eventi/milano-cortina-olympics-2026-men-s-slalom"
+   ],
+   "note": "Pre-Games venue guides; Stelvio World Cup history per Bormio tourism."
+  },
+  {
+   "claim": "Predazzo most populated municipality in Val di Fiemme; ski jumping there",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://milanocortina2026.olympics.com/en/predazzo",
+    "https://www.visitfiemme.it/en/more-info/fiemme/towns-and-villages/predazzo"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Medal table: Norway 41 (18-12-11), USA 33 (12-12-9), Netherlands 20 (10-7-3), Italy 30 (10-6-14), ranked in that order",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.francsjeux.com/en/short/Milan-Cortina-2026-Norway-USA-Netherlands%3A-The-final-medal-table-of-the-Winter-Olympic-Games/",
+    "https://www.gamereactor.eu/who-won-the-winter-olympics-final-medal-table-of-the-2026-olympics-in-milano-cortina-1679063/",
+    "https://sport.quotidiano.net/en/olimpiadi/il-medagliere-finale-delle-olimpiadi-invernali-2026-italia-quarta-ma-da-record-ef4624e5"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "12 golds a US record at a Winter Games",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.usopc.org/news/2026/february/22/a-golden-games-team-usa-sets-record-with-12-gold-medals-at-olympic-winter-games-milano-cortina-2026",
+    "https://www.nbcboston.com/olympics/2026-milan-cortina/team-usa-most-golds-one-winter-olympics/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Klaebo won all six men's XC events, six golds, no man previously six at one Games",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://cyprus-mail.com/2026/02/21/king-klaebo-wins-50km-classic-to-clinch-record-sixth-milano-cortina-gold",
+    "https://www.flashscore.com/news/cross-country-mass-start-free-men-king-klaebo-wins-50km-classic-to-clinch-record-sixth-olympic-gold-in-norwegian-sweep/KOiyaqPr"
+   ],
+   "note": "Previous record Heiden 5 (1980)."
+  },
+  {
+   "claim": "Men's hockey final 22 Feb: USA beat Canada 2-1 OT, Hughes winner",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.nhl.com/news/united-states-canada-2026-olympics-gold-medal-game-recap-february-22-2026",
+    "https://www.espn.com/olympics/story/_/id/48005562/jack-hughes-connor-hellebuyck-lift-us-olympic-hockey-gold",
+    "https://www.olympics.com/en/milano-cortina-2026/news/winter-olympics-2026-united-states-defeat-canada-overtime"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Flames extinguished at Milan and Cortina cauldrons on closing night",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.pbs.org/newshour/world/olympic-cauldrons-extinguished-in-milan-and-cortina-dampezzo-signaling-end-of-2026-winter-olympics",
+    "https://www.nbcnews.com/sports/olympics/live-blog/winter-olympics-2026-closing-ceremony-milan-team-usa-live-updates-rcna259626"
+   ],
+   "note": "PBS text is AP copy; NBC independent."
+  },
+  {
+   "claim": "Verona ceremony linked to cauldrons by video",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://www.pbs.org/newshour/world/olympic-cauldrons-extinguished-in-milan-and-cortina-dampezzo-signaling-end-of-2026-winter-olympics"
+   ],
+   "note": "Only AP found; removed from passage."
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "Citius, Altius, Fortius",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://libreriamo.it/frasi/motto-olimpico-citius-altius-fortius/",
+    "https://www.ncregister.com/cna/french-dominican-friar-created-the-motto-for-the-olympic-games"
+   ],
+   "fix": null,
+   "note": "Communiter added in 2021 but 'traditional motto' still correct."
+  },
+  {
+   "index": 2,
+   "verdict": "OK",
+   "my_answer": "French Alps",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://opb.org/article/2024/07/24/french-alps-is-chosen-for-the-2030-winter-olympics-2034-goes-to-salt-lake-city",
+    "https://planetski.eu/2024/07/24/france-awarded-2030-winter-olympics-with-salt-lake-city-set-to-get-2034-games/",
+    "https://www.fil-luge.org/en/news/ioc-selects-french-alps-2030-and-utah-2034-to-host-the-olympic-and-paralympic-winter-games"
+   ],
+   "fix": null,
+   "note": "Awarded 24 Jul 2024, conditional."
+  },
+  {
+   "index": 3,
+   "verdict": "DROP",
+   "my_answer": "Chamonix",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://olympics.com/en/news/winter-games-given-stamp-of-approval",
+    "https://olympic.ca/games/1924-chamonix"
+   ],
+   "fix": null,
+   "note": "Fact correct but overlaps host-city match (Q4) and is the easiest item; dropped to reach 6."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "I-B, II-D, III-A, IV-C",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.olympics.com/en/olympic-games/sapporo-1972",
+    "https://www.olympics.com/en/olympic-games/lillehammer-1994",
+    "https://www.olympics.com/en/olympic-games/sochi-2014",
+    "https://www.olympics.com/ioc/news/beijing-named-host-city-of-olympic-winter-games-2022",
+    "https://www.worldatlas.com/articles/which-cities-have-hosted-the-winter-olympic-games.html"
+   ],
+   "fix": null,
+   "note": ""
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "A true, R false (2)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://olympics.com/ioc/olympic-house",
+    "https://olympics.com/ioc/2019-inauguration-of-the-new-olympic-house",
+    "https://www.euronews.com/2019/06/23/ioc-inaugurates-new-headquarters-as-2026-games-vote-looms",
+    "https://www.iamexpat.ch/expat-info/swiss-expat-news/bern-capital-switzerland"
+   ],
+   "fix": null,
+   "note": "Bern is the federal city; Switzerland has no formally designated capital, but Lausanne is clearly not it."
+  },
+  {
+   "index": 6,
+   "verdict": "DROP",
+   "my_answer": "II only",
+   "key_answer_correct": true,
+   "truth_values": [
+    false,
+    true
+   ],
+   "issues": [
+    "AMBIGUOUS"
+   ],
+   "sources": [
+    "https://opb.org/article/2024/07/24/french-alps-is-chosen-for-the-2030-winter-olympics-2034-goes-to-salt-lake-city",
+    "https://planetski.eu/2024/07/24/france-awarded-2030-winter-olympics-with-salt-lake-city-set-to-get-2034-games/"
+   ],
+   "fix": null,
+   "note": "Fact confirmed but same July 2024 session as Q2 (overlap; Q2 stem gives the date); dropped to reach 6."
+  },
+  {
+   "index": 7,
+   "verdict": "OK",
+   "my_answer": "All four",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://olympics.com/ioc/paris-1894-olympic-congress",
+    "https://www.paris.fr/en/pages/pierre-de-coubertin-and-the-origin-of-the-olympic-games-27628",
+    "https://olympics.com/ioc/olympic-flag",
+    "https://olympics.com/ioc/news/flying-the-flag",
+    "https://olympic-museum.de/various/flag.php",
+    "https://vnews.com/2017/09/13/doubling-down-paris-awarded-24-olympics-la-gets-28-12481877/",
+    "https://athleticsweekly.com/news/paris-and-la-to-host-2024-and-2028-olympics-68854/",
+    "https://www.history.co.uk/this-day-in-history/06-april/first-modern-olympic-games",
+    "https://ehistory.osu.edu/node/290043"
+   ],
+   "fix": null,
+   "note": "IOC founded at Paris congress June 1894; flag first flown at Games Antwerp 1920 (a 1914 Alexandria display was not an Olympic Games); LA 2028 ratified Lima Sept 2017; Athens 1896."
+  },
+  {
+   "index": 8,
+   "verdict": "OK",
+   "my_answer": "I and II only",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.olympedia.org/editions/2",
+    "https://athleticsweekly.com/meeting/1900-paris-olympic-games/",
+    "https://www.cbc.ca/sports/2.720/paris-almost-put-an-end-to-the-olympic-movement-1.709776"
+   ],
+   "fix": null,
+   "note": "14 May-28 Oct 1900; writer flag resolved with Olympedia and Athletics Weekly."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "On the closing evening, the Olympic flames were extinguished at the cauldrons in Milan and Cortina d'Ampezzo, and the ceremony in Verona was linked to those cauldrons by video. The ceremony marked",
+   "new": "On the closing evening, the Olympic flames at the cauldrons in Milan and Cortina d'Ampezzo were extinguished as the Verona ceremony took place. The ceremony marked",
+   "reason": "Video-link detail single-sourced (AP only)."
+  }
+ ],
+ "summary": "Passage facts confirmed by two publishers except the Verona-cauldron video link, reworded away. Six questions kept (Q1,2,4,5,7,8); Q3 and Q6 dropped for overlap. Passage is 457 words."
+}

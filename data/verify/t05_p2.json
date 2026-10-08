@@ -1,0 +1,224 @@
+{
+  "passage_file": "data/draft/t05_p2.json",
+  "passage_claims": [
+    {
+      "claim": "Shortlist announced 22 Sep 2026; six novels; 13 longlisted; 163 submissions",
+      "verdict": "CONFIRMED",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "claim": "Panel: Beard (chair), Antrobus, Cocker, Liu, Lockwood",
+      "verdict": "CONFIRMED",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "claim": "Six titles and authors",
+      "verdict": "CONFIRMED",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "claim": "Black Bag premise (actor, professor, black bag, lecture hall)",
+      "verdict": "CONFIRMED",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "claim": "The Disappearers set in Kingston, late 1980s (opens 1988)",
+      "verdict": "CONFIRMED",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "claim": "Marlon James won 2015; Douglas Stuart won 2020",
+      "verdict": "CONFIRMED",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "claim": "Strout shortlisted 2022 for Oh William!",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "claim": "72nd NFA winners announced 18 July 2026; Article 370 Best Feature Film; Yami Gautam Best Actress; Best Actor shared; Sanjay Mishra; Periasamy; Srikanth; Kalki 2898 AD",
+      "verdict": "CONFIRMED",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "claim": "Dadasaheb Phalke Award to Anant Nag",
+      "verdict": "CONFIRMED",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "claim": "Awards presented 22 Sep 2026 at Ekta Nagar by President Murmu",
+      "verdict": "CONFIRMED",
+      "sources": [],
+      "note": ""
+    },
+    {
+      "claim": "First time ceremony held outside New Delhi",
+      "verdict": "DISPUTED",
+      "sources": [],
+      "note": ""
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "1969",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "wikipedia Dadasaheb_Phalke_Award",
+        "dff.gov.in/PhalkeAward.aspx",
+        "pib.gov.in PressNoteDetails 153260"
+      ],
+      "fix": null,
+      "note": "Source replaced."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "182 m",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "wikipedia Statue_of_Unity",
+        "guinnessworldrecords.com",
+        "incredibleindia.gov.in"
+      ],
+      "fix": null,
+      "note": "Not in passage; no giveaway."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "1954",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "sahitya-akademi.gov.in about",
+        "wikipedia Sahitya_Akademi"
+      ],
+      "fix": null,
+      "note": "Resolution Dec 1952; inaugurated 12 Mar 1954."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-A II-B III-C IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "thebookerprizes.com",
+        "aljazeera",
+        "npr"
+      ],
+      "fix": null,
+      "note": "Source list tightened."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "3",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "mib.gov.in films-wing",
+        "wipo.int Cinematograph Act",
+        "pib factsheet 151027"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 6,
+      "verdict": "FIX",
+      "my_answer": "I only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false
+      ],
+      "issues": [
+        "AMBIGUOUS"
+      ],
+      "sources": [
+        "jnanpith.net laureates",
+        "wikipedia Jnanpith_Award",
+        "pib 2011 PM speech"
+      ],
+      "fix": "Statement I reworded to 'given for the year 1965' (ceremony was in 1966); explanation notes English also eligible.",
+      "note": ""
+    },
+    {
+      "index": 7,
+      "verdict": "DROP",
+      "my_answer": "4",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "wikipedia",
+        "pib",
+        "dff"
+      ],
+      "fix": null,
+      "note": "Facts OK but overlaps Q1 (same award); dropped as weakest overlap."
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [
+        "UNSUPPORTED"
+      ],
+      "sources": [
+        "sangeetnatak.gov.in about-us",
+        "wikipedia Sangeet_Natak_Akademi",
+        "pib relid 115048"
+      ],
+      "fix": null,
+      "note": "Official site says Chairman appointed by President; PIB says by Ministry of Culture order. Explanation not double-confirmed. Founding year conflict not tested here."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": " Elizabeth Strout was shortlisted in 2022 for Oh William!.",
+      "new": "",
+      "reason": "Only bookseller/publisher listings found"
+    },
+    {
+      "old": "The awards will be presented on 22 September 2026 at Ekta Nagar, formerly Kevadia, in Gujarat, by President Droupadi Murmu. It will be the first time the ceremony has been held outside New Delhi.",
+      "new": "The awards were presented on 22 September 2026 at Ekta Nagar, formerly Kevadia, in Gujarat, by President Droupadi Murmu.",
+      "reason": "Tense (date has passed); 'first outside Delhi' disputed (17th NFA held in Chennai, 1971 per Onmanorama)"
+    }
+  ],
+  "summary": "6 of 8 kept (Q1-Q6). Q7 dropped for overlap with Q1, Q8 dropped for conflicting appointing-authority sources. Two passage sentences edited."
+}
