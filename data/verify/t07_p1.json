@@ -1,0 +1,224 @@
+{
+  "passage_file": "data/draft/t07_p1.json",
+  "passage_claims": [
+    {
+      "claim": "ECI scheduled biennial elections to 24 RS seats across 10 States, poll 18 June 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://swarajyamag.com/amp/story/politics/election-commission-announces-rajya-sabha-polls-for-24-seats-across-10-states-on-18-june",
+        "https://www.thestatesman.com/india/ec-announces-rajya-sabha-poll-schedule-for-24-seats-across-10-states-1503596889.html"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Scrutiny 9 June; withdrawal till 11 June",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.dynamitenews.com/politics/rajya-sabha-elections-for-24-seats-across-10-states-key-dates-announced",
+        "https://uniindia.com/satish-poonia-alka-gurjar--neeraj-dangi-elected-unopposed-to-rajya-sabha-from-rajasthan/north/news/3873329.html"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Candidates left unchallenged after withdrawal deadline declared elected 11 June",
+      "verdict": "FIX",
+      "sources": [
+        "https://www.tribuneindia.com/news/india/congress-chief-mallikarjun-kharge-3-others-elected-to-rajya-sabha-from-karnataka/"
+      ],
+      "note": "Karnataka: independent rejected at scrutiny, not withdrawal; reworded"
+    },
+    {
+      "claim": "Karnataka four seats unopposed: Kharge, Khera, Mansoor Ali Khan (Cong), M. Nagaraj (BJP)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.socialnews.xyz/2026/06/11/ktaka-kharge-khera-mansoor-ali-khan-and-bjps-nagaraj-elected-unopposed-to-rs/",
+        "https://www.tribuneindia.com/news/india/congress-chief-mallikarjun-kharge-3-others-elected-to-rajya-sabha-from-karnataka/"
+      ],
+      "note": "Spelling Nagaraj/Nagaraja varies"
+    },
+    {
+      "claim": "Rajasthan three seats unopposed: Poonia, Alka Singh Gurjar (BJP), Dangi (Cong)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://uniindia.com/satish-poonia-alka-gurjar--neeraj-dangi-elected-unopposed-to-rajya-sabha-from-rajasthan/north/news/3873329.html",
+        "https://www.amarujala.com/rajasthan/rajya-sabha-election-poonia-alka-and-dangi-elected-unopposed-rajasthan-s-political-balance-remains-intact-2026-06-11"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Manipur lone seat: Adhikarimayum Sharda Devi, BJP State president, only nominee, elected unopposed 11 June",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://nenow.in/north-east-news/manipur-bjps-sharda-devi-set-to-be-elected-unopposed-to-rajya-sabha.html",
+        "https://www.socialnews.xyz/2026/06/11/bjp-secures-rajya-sabha-seats-in-manipur-arunachal-pradesh-unopposed/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Across the remaining States, polls were set for 18 June",
+      "verdict": "WRONG",
+      "sources": [
+        "https://kashmirreader.com/2026/06/12/kharge-khera-bjps-poonia-tarun-chugh-among-24-elected-unopposed-to-rajya-sabha/",
+        "https://newsonair.gov.in/polling-for-two-rajya-sabha-seats-from-jharkhand-one-from-mizoram-to-take-place-today/"
+      ],
+      "note": "Only Jharkhand (2) and Mizoram (1) went to poll on 18 June; others unopposed. Deleted."
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "250",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-80-composition-of-the-council-of-states/",
+        "https://studyhub.net.in/inshorts/article-80-of-indian-constitution-upsc-2026/"
+      ],
+      "fix": null,
+      "note": "238+12"
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "30 years",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://vajiramandravi.com/current-affairs/article-84-of-indian-constitution/",
+        "https://www.law4u.in/top-answer/4608/what-is-constitution-of-india-article-84"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 3,
+      "verdict": "DROP",
+      "my_answer": "STV",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-80-composition-of-the-council-of-states/"
+      ],
+      "fix": null,
+      "note": "Correct but dropped to cut Art 80 overlap with Q1 and Q8 (cull to 6)"
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-A, II-B, III-C, IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://future.indiankanoon.org/doc/393838",
+        "https://www.understandupsc.com/article-85/",
+        "https://www.constitutionofindia.net/articles/article-108-joint-sitting-of-both-houses-in-certain-cases",
+        "https://www.constitutionofindia.net/articles/article-89-the-chairman-and-deputy-chairman-of-the-council-of-states/"
+      ],
+      "fix": null,
+      "note": "Art 85 via summaries"
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "0",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.thenewsminute.com/tamil-nadu/six-leaders-elected-unopposed-to-rajya-sabha-from-tamil-nadu",
+        "https://aaptaxlaw.com/rp-act-1951/section-53-rp-act-procedure-in-contested-and-uncontested-elections-section-53-representation-of-the-people-act-1951.html"
+      ],
+      "fix": null,
+      "note": "Karnataka sources confirm no poll"
+    },
+    {
+      "index": 6,
+      "verdict": "DROP",
+      "my_answer": "3",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-83-duration-of-houses-of-parliament",
+        "https://www.pmfias.com/money-bill-procedure-parliament-pyq-2024/"
+      ],
+      "fix": null,
+      "note": "Correct but weakest: both-false is guessable; overlaps Art 83 with Q8"
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "I and III only (2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://future.indiankanoon.org/doc/887242",
+        "https://vajiramandravi.com/upsc-exam/who-elects-the-vice-president-of-india/",
+        "https://prepp.in/news/e-492-election-of-vice-president-of-india-indian-polity-notes"
+      ],
+      "fix": null,
+      "note": "Art 66 via secondary"
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "Only three (2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-75-other-provisions-as-to-ministers/",
+        "https://www.constitutionofindia.net/articles/article-83-duration-of-houses-of-parliament",
+        "https://www.constitutionofindia.net/articles/article-80-composition-of-the-council-of-states/",
+        "https://www.pmfias.com/tenth-schedule-anti-defection-pyq-2014/"
+      ],
+      "fix": null,
+      "note": ""
+    }
+  ],
+  "writer_flags_checked": [
+    "Nagaraj/Nagaraja: both spellings in reports; kept Nagaraj (Socialnews, UNI, Tribune variants)",
+    "Sharda/Sarda: Sharda majority (Wikipedia, nenow, UNI); kept",
+    "Art 66: secondary only (prepp, vajiram, lexibal); listed in residual",
+    "Art 64/85: confirmed via indiankanoon/taxmanagementindia text and understandupsc/law4u; not official gov text",
+    "Art 89(2): constitutionofindia.net and constitution.org text found; confirmed",
+    "Art 75(5): constitutionofindia.net/indiankanoon text found; confirmed",
+    "8 June nomination deadline: confirmed by Dynamite News, but omitted from passage anyway; no change",
+    "Polling hours: 9am-4pm, count 5pm (Swarajya); not used",
+    "Art 80(3)/(4): constitutionofindia.net text found; STV and 12 nominees confirmed"
+  ],
+  "passage_fixes": [
+    {
+      "old": "Candidates left unchallenged after the withdrawal deadline were declared elected on 11 June without a poll.",
+      "new": "Candidates who were the only ones left in the fray for their seats were declared elected on 11 June without a poll.",
+      "reason": "Karnataka seats were unopposed partly via scrutiny rejection"
+    },
+    {
+      "old": "Across the remaining States, the polls were set for 18 June.",
+      "new": "",
+      "reason": "WRONG: only Jharkhand and Mizoram polled on 18 June"
+    }
+  ],
+  "summary": "Passage facts confirmed except last sentence (wrong) and one imprecise phrase, both fixed. Six of eight questions kept; Q3 and Q6 culled for overlap and weakness. Several constitutional articles rest on secondary text sites."
+}

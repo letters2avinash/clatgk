@@ -1,0 +1,82 @@
+{
+  "title": "Golden Tempo wins the 152nd Kentucky Derby",
+  "topic_tags": ["Sports", "horse racing", "Kentucky Derby", "Churchill Downs", "Triple Crown", "2026"],
+  "slot": "T07P5",
+  "text": "The 152nd Kentucky Derby was run on 2 May 2026 at Churchill Downs and won by Golden Tempo, a long shot. Trailing for most of the race, the colt came from last to first in the closing stretch and won by a neck over Renegade, the morning-line favorite. Renegade was ridden by Irad Ortiz. The winning rider was his brother, Jose Ortiz. The field numbered 19 horses.\n\nGolden Tempo was trained by Cherie DeVaux, who became the first woman to train a Kentucky Derby winner.",
+  "sources": [
+    "https://africa.espn.com/horse-racing/story/_/id/48660708/golden-tempo-edges-renegade-win-kentucky-derby",
+    "https://www.wave3.com/2026/05/03/cherie-devaux-makes-racing-history-first-female-trainer-win-kentucky-derby/",
+    "https://www.cleveland19.com/2026/05/03/golden-tempo-takes-kentucky-derby-cherie-devaux-becomes-1st-woman-train-winner/",
+    "https://www.ksl.com/article/51492150/kentucky-derby-is-down-to-19-horses-after-the-puma-gets-scratched",
+    "https://www.click2houston.com/sports/2026/05/02/kentucky-derby-is-down-to-19-horses-after-the-puma-gets-scratched/",
+    "https://www.fanduel.com/research/2026-kentucky-derby-contenders-and-odds"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "What is the current race distance of the Kentucky Derby?",
+      "options": ["1 mile", "1 1/4 miles", "1 1/2 miles", "2 miles"],
+      "answer": 1,
+      "explanation": "The Kentucky Derby has been run over 1 1/4 miles since 1896; its first 21 runnings (1875-95) were over 1 1/2 miles.",
+      "source": "https://www.kentuckyderby.com/wp-content/uploads/sites/2/2025/08/One-and-One-Quarter-Miles-2026.pdf ; https://www.aol.com/long-kentucky-derby-many-miles-120229794.html ; https://www.americasbestracing.net/the-sport/2018-beginners-guide-the-triple-crown"
+    },
+    {
+      "type": "direct",
+      "q": "Which horse won the inaugural Kentucky Derby in 1875?",
+      "options": ["Aristides", "Sir Barton", "Secretariat", "Seattle Slew"],
+      "answer": 0,
+      "explanation": "Aristides, ridden by Oliver Lewis and trained by Ansel Williamson, won the first Kentucky Derby on 17 May 1875. Sir Barton, Secretariat and Seattle Slew are Triple Crown winners who won the Derby in later years.",
+      "source": "https://www.kentuckyderby.com/horses/news/aristides-part-2-kentucky-derby-day-1875/ ; https://en.wikipedia.org/wiki/1875_Kentucky_Derby ; https://americanheritage.com/content/first-kentucky-derby"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Cherie DeVaux became the first woman to train a winner of the Kentucky Derby.",
+      "reason": "The Kentucky Derby is the final leg of the Triple Crown of American thoroughbred racing.",
+      "answer": 2,
+      "truth": [true, false],
+      "explanation": "A is true: DeVaux trained Golden Tempo, the 2026 winner, and was the first woman trainer to win the race. R is false: the Kentucky Derby is the first leg of the Triple Crown, followed by the Preakness Stakes and then the Belmont Stakes.",
+      "source": "https://africa.espn.com/horse-racing/story/_/id/48660708/golden-tempo-edges-renegade-win-kentucky-derby ; https://www.wave3.com/2026/05/03/cherie-devaux-makes-racing-history-first-female-trainer-win-kentucky-derby/ ; https://www.americasbestracing.net/the-sport/2018-beginners-guide-the-triple-crown ; https://unanswered.io/guide/triple-crown-horse-racing"
+    },
+    {
+      "type": "match",
+      "list1": ["I. Preakness Stakes (traditional home)", "II. Santa Anita Derby", "III. Travers Stakes", "IV. Pegasus World Cup"],
+      "list2": ["A. Pimlico Race Course", "B. Santa Anita Park", "C. Saratoga Race Course", "D. Gulfstream Park"],
+      "options": ["I-A, II-B, III-C, IV-D", "I-B, II-A, III-D, IV-C", "I-C, II-D, III-A, IV-B", "I-D, II-C, III-B, IV-A"],
+      "answer": 0,
+      "explanation": "The Preakness Stakes is traditionally run at Pimlico Race Course in Baltimore (I-A); the 2026 edition was a one-year exception at Laurel Park while Pimlico is rebuilt. The Santa Anita Derby is run at Santa Anita Park in California (II-B). The Travers Stakes is run at Saratoga Race Course (III-C). The Pegasus World Cup is run at Gulfstream Park in Florida (IV-D).",
+      "source": "https://www.britannica.com/print/article/474283 ; https://www.fanduel.com/research/why-is-the-2026-preakness-stakes-at-laurel-park-instead-of-pimlico ; https://www.kentuckyderby.com/races/santa-anita-derby ; https://www.americasbestracing.net/races/2026-santa-anita-derby ; https://cms.nyra.com/saratoga/racing/stakes-schedule/travers ; https://dknetwork.draftkings.com/2026/08/29/2026-travers-stakes-start-time-how-to-watch/ ; https://sportnews.betflag.it/2026/01/15/pegasus-world-cup-2026/ ; https://dknetwork.draftkings.com/2026/01/24/who-is-favored-to-win-the-2026-pegasus-world-cup-full-odds-horses/"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Preakness Stakes is run over a distance of 1 3/16 miles.",
+        "II. The Travers Stakes is run over a distance of 1 mile."
+      ],
+      "answer": 0,
+      "truth": [true, false],
+      "explanation": "Statement I is true: the Preakness is run over 1 3/16 miles (9.5 furlongs). Statement II is false: the Travers is run over 1 1/4 miles. Only I is correct.",
+      "source": "https://www.fanduel.com/research/how-long-is-the-preakness-how-many-miles-and-how-much-time-will-it-take-in-2024 ; https://www.americasbestracing.net/the-sport/2018-beginners-guide-the-triple-crown ; https://dknetwork.draftkings.com/2026/08/29/2026-travers-stakes-start-time-how-to-watch/ ; https://www.nyra.com/saratoga/racing/stakes-schedule/travers/"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. A furlong is one-eighth of a mile.",
+        "II. A furlong is 220 yards long.",
+        "III. A mile is equal to 10 furlongs."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "explanation": "Statements I and II are correct: a furlong is 220 yards, or one-eighth of a mile. Statement III is incorrect because a mile is 8 furlongs.",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/american_english/furlong ; https://www.merriam-webster.com/dictionary/furlongs ; https://www.britannica.com/dictionary/furlong"
+    }
+  ],
+  "residual": [
+    "Field of 19 horses: AP headline (via KSL/Click2Houston) plus lineup previews; no results-page count read; AP-syndicated copy is effectively one publisher.",
+    "Golden Tempo win, last-to-first, neck margin, Renegade/Irad Ortiz: ESPN plus AP-syndicated copy; ESPN snippet only, not fetched.",
+    "Preakness 1 3/16 miles: FanDuel and America's Best Racing explainers (search snippets); no primary Preakness/Pimlico page read.",
+    "Travers 1 1/4 miles: NYRA and DraftKings 2026 previews via snippets; no fetched primary page.",
+    "Santa Anita Park and Gulfstream Park venues: snippets only; Pegasus venue rests on Betflag and DraftKings.",
+    "Furlong facts: dictionaries and Wikipedia via snippets; 8 furlongs per mile is arithmetic from 1/8 mile, also stated by Simple Wikipedia.",
+    "Passage is very short (about 80 words) after deleting unconfirmed claims; Q4 assertion (first woman trainer) is also stated in the passage, so only R is discriminating."
+  ]
+}

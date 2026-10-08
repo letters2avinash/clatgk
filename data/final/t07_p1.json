@@ -1,0 +1,132 @@
+{
+  "title": "Rajya Sabha biennial polls: unopposed returns, June 2026",
+  "topic_tags": [
+    "Polity & governance",
+    "Rajya Sabha",
+    "Election Commission",
+    "Parliament",
+    "Elections 2026"
+  ],
+  "slot": "T07P1",
+  "status": "complete",
+  "text": "The Election Commission of India has scheduled biennial elections to 24 Rajya Sabha seats across 10 States, with polling on 18 June 2026 for the seats that are contested. Scrutiny of nominations was held on 9 June, and candidates could withdraw their nominations till 11 June.\n\nCandidates who were the only ones left in the fray for their seats were declared elected on 11 June without a poll. In Karnataka, all four seats were filled this way. The winners were Congress nominees Mallikarjun Kharge, Pawan Khera and Mansoor Ali Khan, along with M. Nagaraj of the BJP.\n\nRajasthan's three seats were also filled unopposed. BJP nominees Satish Poonia and Alka Singh Gurjar, and Congress nominee Neeraj Dangi, were declared elected.\n\nIn Manipur, the lone seat went to Adhikarimayum Sharda Devi, the BJP's State president, who was the only candidate to file nomination papers. She was declared elected unopposed on the same day.",
+  "sources": [
+    "https://www.newsonair.gov.in/ec-announces-schedule-for-biennial-elections-to-24-seats-of-rajya-sabha/",
+    "https://morungexpress.com/eci-announces-rajya-sabha-polls-for-24-seats-in-10-states-on-june-18",
+    "https://swarajyamag.com/amp/story/politics/election-commission-announces-rajya-sabha-polls-for-24-seats-across-10-states-on-18-june",
+    "https://www.socialnews.xyz/2026/06/11/ktaka-kharge-khera-mansoor-ali-khan-and-bjps-nagaraj-elected-unopposed-to-rs/",
+    "https://test.uniindia.com/kharge-returns-to-rs-as-four-karnataka-candidates-elected-unopposed/south/news/3873590.html",
+    "https://uniindia.com/satish-poonia-alka-gurjar--neeraj-dangi-elected-unopposed-to-rajya-sabha-from-rajasthan/north/news/3873329.html",
+    "https://www.amarujala.com/rajasthan/rajya-sabha-election-poonia-alka-and-dangi-elected-unopposed-rajasthan-s-political-balance-remains-intact-2026-06-11",
+    "https://nenow.in/north-east-news/manipur-bjps-sharda-devi-set-to-be-elected-unopposed-to-rajya-sabha.html",
+    "https://thenewsmill.com/2026/06/manipur-bjp-chief-sharda-devi-arrives-in-delhi-after-unopposed-rajya-sabha-election/"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "What is the maximum permissible strength of the Rajya Sabha under the Constitution?",
+      "options": [
+        "238",
+        "260",
+        "250",
+        "552"
+      ],
+      "answer": 2,
+      "explanation": "Article 80 caps the Rajya Sabha at 250 members: up to 238 representatives of States and Union Territories, and 12 nominated by the President. 552 is the maximum for the Lok Sabha; 238 is the elected-seat component only, not the total cap; 260 exceeds the cap.",
+      "source": "https://en.wikipedia.org/wiki/Rajya_Sabha ; https://sansad.in/uploads/CHAPTER_2_00fa091868.pdf ; https://iasgyan.in/daily-current-affairs/article-80"
+    },
+    {
+      "type": "direct",
+      "q": "What is the minimum age prescribed for membership of the Rajya Sabha?",
+      "options": [
+        "21 years",
+        "25 years",
+        "30 years",
+        "35 years"
+      ],
+      "answer": 2,
+      "explanation": "Article 84 requires a Rajya Sabha member to be at least 30 years old. 25 is the Lok Sabha minimum; 35 is the minimum for the office of President; 21 is not the threshold for either House.",
+      "source": "https://vajiramandravi.com/current-affairs/article-84-of-indian-constitution/ ; https://www.law4u.in/top-answer/4608/what-is-constitution-of-india-article-84"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Vice-President is barred from holding any other office of profit",
+        "II. Maximum gap permitted between the last sitting of one session and the first sitting of the next",
+        "III. Joint sitting of both Houses of Parliament",
+        "IV. Election of the Deputy Chairman of the Rajya Sabha"
+      ],
+      "list2": [
+        "A. Article 64",
+        "B. Article 85",
+        "C. Article 108",
+        "D. Article 89"
+      ],
+      "options": [
+        "I-A, II-B, III-C, IV-D",
+        "I-B, II-A, III-D, IV-C",
+        "I-C, II-D, III-A, IV-B",
+        "I-D, II-C, III-B, IV-A"
+      ],
+      "answer": 0,
+      "explanation": "Article 64 bars the Vice-President from any other office of profit. Article 85 limits the gap between sessions to six months. Article 108 provides for a joint sitting. Article 89(2) provides for the Deputy Chairman, chosen by the House from among its members.",
+      "source": "https://www.law4u.in/top-answer/4586/what-is-constitution-of-india-article-64 ; https://www.constitutionofindia.net/articles/article-85-sessions-of-parliament-prorogation-and-dissolution ; https://www.understandupsc.com/article-85/ ; https://forumias.com/blog/article-108-of-indian-constitution/ ; https://www.law4u.in/top-answer/4922/what-is-constitution-of-india-article-108 ; https://lexibal.com/?p=42554 ; https://www.understandupsc.com/article-892/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Four Karnataka Rajya Sabha seats were filled on 11 June 2026 without any voting being held.",
+      "reason": "Under Section 53(2) of the Representation of the People Act, 1951, when the number of valid candidates equals the number of seats, the returning officer declares them duly elected.",
+      "answer": 0,
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "Both statements are true. Section 53(2) is the legal basis for declaring candidates elected when their number equals the seats to be filled, which is why no poll was held in Karnataka. R explains A.",
+      "source": "https://www.socialnews.xyz/2026/06/11/ktaka-kharge-khera-mansoor-ali-khan-and-bjps-nagaraj-elected-unopposed-to-rs/ ; https://test.uniindia.com/kharge-returns-to-rs-as-four-karnataka-candidates-elected-unopposed/south/news/3873590.html ; https://aaptaxlaw.com/rp-act-1951/section-53-rp-act-procedure-in-contested-and-uncontested-elections-section-53-representation-of-the-people-act-1951.html ; https://courtbook.in/representation-of-the-people-act-1951/section-53"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The President nominates 12 members to the Rajya Sabha from persons with special knowledge or practical experience in literature, science, art and social service.",
+        "2. One-third of the members of the Rajya Sabha retire every second year.",
+        "3. A Minister who is not a member of either House of Parliament for six consecutive months ceases to be a Minister.",
+        "4. The anti-defection law is contained in the Ninth Schedule of the Constitution."
+      ],
+      "mode": "correct",
+      "answer": 2,
+      "truth": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "explanation": "Statements 1, 2 and 3 are correct: Article 80(3) for nominations, Article 83(1) for staggered retirement, and Article 75(5) for the six-month rule for ministers. Statement 4 is wrong because the anti-defection law is in the Tenth Schedule, not the Ninth. Three statements are correct, so the answer is Only three.",
+      "source": "https://iasgyan.in/daily-current-affairs/article-80 ; https://www.onmanorama.com/upsc/current-affairs/2026/04/11/nominated-members-in-rajya-sabha.amp.html ; https://lexibal.com/article-83-duration-houses-parliament/ ; https://vajiramandravi.com/current-affairs/article-83-of-indian-constitution/ ; https://www.constitutionofindia.net/articles/article-75-other-provisions-as-to-ministers/ ; https://prepp.in/question/a-minister-who-for-any-period-of-six-6-consecutive-68bd6b72d16d798ae6ecb505 ; https://anantamias.com/anti-defection-law/?pdf=1 ; https://pwonlyias.com/udaan/anti-defection-law/"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. The electoral college for the election of the President includes the elected members of both Houses of Parliament.",
+        "II. Nominated members of Parliament form part of the electoral college for the election of the President.",
+        "III. Nominated members of the Rajya Sabha form part of the electoral college for the election of the Vice-President."
+      ],
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "Statement I is correct: Article 54 uses elected members of both Houses. Statement II is wrong because the word 'elected' excludes nominated members from the presidential electoral college. Statement III is correct: the Vice-President is elected by an electoral college of all members of both Houses, including nominated Rajya Sabha members (Article 66).",
+      "source": "https://www.law4u.in/top-answer/4358/what-is-constitution-of-india-article-54 ; https://www.constitutionofindia.net/articles/article-54-election-of-president/ ; https://www.constitutionofindia.net/articles/article-66-election-of-vice-president/ ; https://anantamias.com/election-of-the-vice-president-of-india-2025/?pdf=1"
+    }
+  ],
+  "residual": [
+    "Article 66 (nominated RS members vote in VP election) rests on exam-prep/explainer sites (prepp, vajiram, lexibal); constitution text not fetched.",
+    "Articles 64, 85, 89(2), 108 confirmed via text-reproduction and summary sites (indiankanoon, taxmanagementindia, understandupsc, lexibal), not official government text.",
+    "Section 53(2) RP Act applied to Rajya Sabha: The News Minute (TN) plus legal-summary sites; no 2026 Karnataka report cites the section.",
+    "Art 75(5), 84, 80 (250, 12 nominees) rest on constitutionofindia.net/exam-prep snippets; Art 80 STV on same.",
+    "Nagaraj/Nagaraja and Sharda/Sarda spellings vary across outlets; passage uses Nagaraj and Sharda.",
+    "Passage is short (about 150 words) after deleting the unsupported closing sentence."
+  ]
+}
