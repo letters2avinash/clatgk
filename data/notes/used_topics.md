@@ -13,3 +13,4 @@ T07P1 (Batch 2, Polity & governance 28 May-17 Jun 2026): Rajya Sabha biennial po
 Test 7 (T07P4): PM-RAHAT road accident cashless treatment scheme (launched 14 Feb 2026); PM-JAY/Katara/MV Act context as static GK.
 T08P3 (Batch 2, Supreme Court & High Courts; no clear cluster in 22 Jan-11 Feb, widened to 24-26 Feb 2026): SC suo motu on NCERT Class 8 chapter on corruption in judiciary (cognisance 25 Feb 2026; blanket ban 26 Feb).
 T08P5 (International affairs, 28 May-17 Jun 2026): G7 Evian summit (France) critical minerals declaration, 17 Jun 2026 + Critical Minerals Resilience and Production Alliance; static GK on NCMM, G8 2014 suspension, G7 structure, cobalt/lithium producers.
+Test 8 (T08P4, Defence & security, 26 Mar-15 Apr 2026): DAC AoN approvals of 27 Mar 2026 (Rs 2.38 lakh crore) with Dhanush, S-400, Su-30MKI and Akash static GK.

@@ -1,0 +1,106 @@
+{
+  "title": "Defence Acquisition Council approvals, March 2026",
+  "topic_tags": ["defence", "defence procurement", "Defence Acquisition Council", "Acceptance of Necessity", "Dhanush", "S-400", "Su-30MKI", "Akash"],
+  "slot": "T08P4",
+  "status": "complete",
+  "text": "On 27 March 2026, the Defence Acquisition Council (DAC) granted Acceptance of Necessity (AoN) to defence proposals estimated to cost about Rs 2.38 lakh crore. The proposals covered the Indian Army and the Indian Air Force, according to a Defence Ministry statement.\n\nFive Army items were cleared: the Air Defence Tracked System, Armoured Piercing Tank Ammunition, High Capacity Radio Relay, the Dhanush Gun System and the Runway Independent Aerial Surveillance System.\n\nAir Force items included the Medium Transport Aircraft, additional S-400 air defence systems, Remotely Piloted Strike Aircraft and the overhaul of Su-30 aero engine aggregates.",
+  "sources": [
+    "https://raksha-anirveda.com/boosting-defence-capability-dac-clears-proposals-worth-rs-2-38-lakh-crore",
+    "https://deccanchronicle.com/southern-states/telangana/rs-238-lakh-cr-defence-deals-approved-1946769",
+    "https://morungexpress.com/centre-gives-nod-for-buying-military-hardware-worth-rs-238-lakh-crore",
+    "https://www.lifeofsoldiers.com/2026/03/28/dac-clears-proposals-worth-rs-2-38-lakh-crore-to-augment-defence-capabilities/"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Which functionary chairs the Defence Acquisition Council, the Ministry of Defence's highest body for approving capital acquisitions?",
+      "options": ["Raksha Mantri", "Chief of Defence Staff", "Defence Secretary", "Chief of Naval Staff"],
+      "answer": 0,
+      "explanation": "The DAC is chaired by the Raksha Mantri (Defence Minister). The Chief of Defence Staff, the Defence Secretary and the service chiefs are members, not the chair.",
+      "source": "https://www.mod.gov.in/dod/sites/default/files/DEFENCE_PROCUREMENT_ORGANISATION.pdf ; https://www.cavalier.in/nda-current-affairs/2026-07-03/dac-52000-crore-defence-acquisitions-2026"
+    },
+    {
+      "type": "direct",
+      "q": "The Dhanush Gun System, cleared for the Army in this approval, was developed by the Ordnance Factory Board from which foreign-origin howitzer?",
+      "options": ["Bofors FH-77B", "M777 ultralight howitzer", "K9 Thunder", "PzH 2000"],
+      "answer": 0,
+      "explanation": "The Dhanush is an Indian-built gun developed by the Ordnance Factory Board from the Bofors FH-77B, using Bofors blueprints supplied in the 1980s. The other options are different foreign howitzers.",
+      "source": "https://swarajyamag.com/amp/story/politics/finally-army-to-get-its-dhanush ; https://forumias.com/blog/army-gets-first-batch-of-dhanush-home-made-bofors-artillery-guns-from-ofb/"
+    },
+    {
+      "type": "direct",
+      "q": "The Dhanush is an Indian-built 155 mm towed gun. How many calibres long is its barrel?",
+      "options": ["39", "45", "52", "60"],
+      "answer": 1,
+      "explanation": "The Dhanush has a 155 mm/45 calibre barrel, lengthened from the 39-calibre barrel of the original Bofors FH-77B.",
+      "source": "https://swarajyamag.com/amp/story/politics/finally-army-to-get-its-dhanush ; https://forumias.com/blog/army-gets-first-batch-of-dhanush-home-made-bofors-artillery-guns-from-ofb/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "An Acceptance of Necessity granted by the DAC is the final sanction that releases payment to the vendor for the procurement.",
+      "reason": "AoN is the first formal approval in the procurement process, after which tendering and contracting follow.",
+      "answer": 3,
+      "truth": [false, true],
+      "explanation": "The assertion is false: AoN is an in-principle approval of necessity, not a payment or contract sanction. The reason is true: AoN is the first formal step, followed by tendering and contracting.",
+      "source": "https://www.mod.gov.in/dod/sites/default/files/Aon_1.pdf ; https://anantamias.com/current-affairs/dac-aon-defence-acquisition-indigenisation/?pdf=1"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The AL-31FP engine that powers the Su-30MKI was designed in India by Hindustan Aeronautics Limited.",
+        "II. The AL-31FP has a design lineage from the Soviet Lyulka design bureau, now NPO Saturn in Russia."
+      ],
+      "answer": 1,
+      "truth": [false, true],
+      "explanation": "Statement I is false: the AL-31 family was designed by Lyulka/NPO Saturn in the Soviet Union and Russia, and HAL builds it under licence in India. Statement II is true. Only II is correct.",
+      "source": "https://en.wikipedia.org/wiki/Saturn_AL-31 ; https://www.defensenews.com/global/asia-pacific/2024/09/17/india-orders-hundreds-of-new-engines-for-su-30mki-fighters/"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The S-400 is a short-range, man-portable missile system.",
+        "2. The Akash missile system is in service with both the Indian Army and the Indian Air Force.",
+        "3. The Dhanush is a self-propelled, tracked artillery gun.",
+        "4. The Akash is a long-range ballistic missile."
+      ],
+      "mode": "correct",
+      "answer": 0,
+      "truth": [false, true, false, false],
+      "explanation": "Only statement 2 is correct. The S-400 is a long-range, mobile system; the Dhanush is a towed gun; the Akash is a medium-range surface-to-air missile, not a ballistic missile.",
+      "source": "https://www.janes.com/osint-insights/defence-news/industry/russia-begins-s-400-deliveries-to-india ; https://alphadefense.in/encyclopedia/s-400-triumf-india-sudarshan-chakra/ ; https://www.airforce-technology.com/projects/akash-surface-to-air-missile-system/ ; https://indiandefencereview.com/indigenously-designed-surface-to-air-akash-missile-inducted-into-the-iaf/ ; https://swarajyamag.com/amp/story/politics/finally-army-to-get-its-dhanush ; https://en.wikipedia.org/wiki/Akash_(missile)"
+    },
+    {
+      "type": "match",
+      "list1": ["I. Dhanush Gun System", "II. Su-30MKI aircraft", "III. S-400 air defence system", "IV. Akash missile system"],
+      "list2": ["A. Ordnance Factory Board", "B. Hindustan Aeronautics Limited", "C. Almaz-Antey", "D. DRDO"],
+      "options": ["I-A, II-B, III-C, IV-D", "I-B, II-A, III-C, IV-D", "I-A, II-C, III-B, IV-D", "I-D, II-B, III-C, IV-A"],
+      "answer": 0,
+      "explanation": "Dhanush is produced by the Ordnance Factory Board; the Su-30MKI is built under licence by HAL; the S-400 is developed by Russia's Almaz-Antey; the Akash was developed by DRDO.",
+      "source": "https://forumias.com/blog/army-gets-first-batch-of-dhanush-home-made-bofors-artillery-guns-from-ofb/ ; https://en.wikipedia.org/wiki/Sukhoi_Su-30MKI ; https://www.airforce-technology.com/?p=211113 ; https://alphadefense.in/encyclopedia/s-400-triumf-india-sudarshan-chakra/ ; https://en.wikipedia.org/wiki/Akash_(missile)"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. The first six Dhanush guns were handed over to the Indian Army in April 2019.",
+        "II. The Su-30MKI was designed by Sukhoi.",
+        "III. The Dhanush is a 105 mm towed gun."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "truth": [true, true, false],
+      "explanation": "Statements I and II are true. Statement III is false because the Dhanush is a 155 mm gun.",
+      "source": "https://en.wikipedia.org/wiki/Dhanush_(howitzer) ; https://thehitavada.com/Encyc/2019/4/9/1st-batch-of-6-Dhanush-guns-handed-over-to-Army.html ; https://en.wikipedia.org/wiki/Sukhoi_Su-30MKI ; https://swarajyamag.com/amp/story/politics/finally-army-to-get-its-dhanush"
+    }
+  ],
+  "writer_flags": [
+    "Dhanush 45-calibre barrel (Q3): rests on search summaries of swarajya/forumias; not confirmed in full text",
+    "Su-30MKI built under licence by HAL (match II): Wikipedia and airforce-technology snippets only",
+    "Su-30MKI designed by Sukhoi (statement_multi II): Wikipedia snippet only",
+    "Dhanush first batch handover date April 2019 (statement_multi I): one report gave 26 March 2019 for the same event; Wikipedia and Hitavada give 8 April",
+    "Dhanush 155 mm calibre (statement_multi III and Q3 stem): from search summaries, not full text",
+    "AoN as first formal step (assertion_reason R): MoD PDF plus secondary explainer",
+    "Coast Guard approvals omitted from passage: reported by only one headline-level source",
+    "Akash in service with both Army and IAF (statement_count 2): sources give 2012 and 2015 fielding dates, not checked against a primary source",
+    "Passage is short (about 110 words); no further facts added because the second-source check for them was not completed"
+  ]
+}
