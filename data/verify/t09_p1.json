@@ -1,0 +1,201 @@
+{
+  "passage_file": "data/draft/t09_p1.json",
+  "passage_claims": [
+    {
+      "claim": "Centre notified eight Chief Justice appointments on 5 Sep 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.scconline.com/blog/post/2026/09/07/chief-justice-8-high-courts-appointed-scc-times/",
+        "https://www.livelaw.in/high-court/all-high-courts/centre-notifies-appointments-for-chief-justices-at-eight-high-courts-548759"
+      ],
+      "note": "Search results only; pages unfetchable."
+    },
+    {
+      "claim": "Meghwal announced on X; President acted 'in consultation with CJI'",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [],
+      "note": "X post wording not seen; consultation phrase dropped, 'in exercise of constitutional powers' kept (reported by several outlets)."
+    },
+    {
+      "claim": "Collegium recommendations in August 2026 (6 Aug round: Patna, Calcutta, Bombay, P&H, Chhattisgarh; 31 Aug round: Rajasthan, MP, J&K)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.livelaw.in/news-updates/supreme-court-collegium-recommends-appointment-of-chief-justices-to-3-high-courts-547999",
+        "https://www.scconline.com/blog/post/2026/09/01/sc-collegium-recommends-appointment-chief-justices/"
+      ],
+      "note": "Date conflict resolved: two rounds; passage says only August."
+    },
+    {
+      "claim": "Four names recommended for Calcutta, Bombay, Patna, P&H",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.thelawadvice.com/news/sc-collegium-recommends-new-chief-justices-for-bombay-calcutta-patna-and-punjab-haryana-high-courts",
+        "https://telanganatoday.com/sc-collegium-recommends-four-judges-for-elevation-as-high-court-chief-justices"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Appointees and origin courts (Rao/Delhi, Ghuge/Calcutta, Tripathi/Allahabad->Bombay, Mishra/P&H, Mohapatra/Orissa->Chhattisgarh, Kogje/Gujarat->MP, Bhati/Rajasthan->J&K&L)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.deccanherald.com/india/centre-appoints-chief-justices-of-eight-high-courts-3201084",
+        "https://www.scconline.com/blog/post/2026/09/07/chief-justice-8-high-courts-appointed-scc-times/",
+        "https://www.barandbench.com/news/collegium-recommends-justice-krushna-ram-mohapatra-as-chief-justice-of-chhattisgarh-high-court"
+      ],
+      "note": "Ghuge was acting CJ of Bombay (elevation of CJ Chandrashekhar, 1 Jun); passage says only 'named for Calcutta'."
+    },
+    {
+      "claim": "Several HCs run by acting CJs after retirements, transfers and SC elevations",
+      "verdict": "CONFIRMED (partly)",
+      "sources": [
+        "https://www.scconline.com/blog/post/2026/06/22/president-appoints-justice-tapabrata-chakraborty-to-perform-duties-of-chief-justice-of-calcutta-high-court/",
+        "https://www.barandbench.com/news/litigation/justice-rv-ghuge-appointed-chief-justice-of-calcutta-high-court"
+      ],
+      "note": "Retirements and elevations confirmed; 'transfers' not, so deleted."
+    },
+    {
+      "claim": "Rajasthan appointee omitted",
+      "verdict": "CONFIRMED omission",
+      "sources": [],
+      "note": "Agrawal named for Rajasthan in SCC Online; acting-CJ status of Chhattisgarh conflicts; omission harmless."
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Article 217",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-217-appointment-and-conditions-of-the-office-of-a- ; https://vajiramandravi.com/current-affairs/article-217-of-the-indian-constitution/"
+      ],
+      "fix": null,
+      "note": "Distractors 214, 216, 219 wrong."
+    },
+    {
+      "index": 2,
+      "verdict": "DROP",
+      "my_answer": "62 years",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "OVERLAP"
+      ],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-217-appointment-and-conditions-of-the-office-of-a- ; https://vajiramandravi.com/current-affairs/article-217-of-the-indian-constitution/"
+      ],
+      "fix": null,
+      "note": "Correct but same Article as Q1; dropped to keep 6 distinct facts."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "Article 222",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-222-transfer-of-a-judge-from-one-high-court-to-another ; https://lawyersupdate.co.in/?p=2909"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-C, II-A, III-D, IV-B",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.apnilaw.com/upsc/indian-constitution/article-129-supreme-court-as-court-of-record/ ; https://www.lawweb.in/2024/03/what-is-distinction-between-article-226.html ; https://vidhijudicial.com/article-227-of-the-constitution-of-india.html ; https://www.livelaw.in/amp/top-stories/governor-can-consult-only-high-court-on-district-judges-appointment-supreme-court-faults-haryana-govt-for-seeking-unions-opinion-252567"
+      ],
+      "fix": null,
+      "note": ""
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "1",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://future.indiankanoon.org/doc/1995948 ; https://forumias.com/blog/article-124-of-indian-constitution/"
+      ],
+      "fix": null,
+      "note": "Secondary sources plus indiankanoon text."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "3 (neither)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://future.indiankanoon.org/doc/570782 ; https://forumias.com/blog/article-224-of-indian-constitution/ ; https://www.constitutionofindia.net/?p=1451 ; https://lawyersupdate.co.in/?p=203"
+      ],
+      "fix": null,
+      "note": "Art 224 two years; Art 223 President, not Governor."
+    },
+    {
+      "index": 7,
+      "verdict": "DROP",
+      "my_answer": "3 correct",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "issues": [
+        "OVERLAP"
+      ],
+      "sources": [
+        "https://www.apnilaw.com/upsc/indian-constitution/article-129-supreme-court-as-court-of-record/ ; https://www.lawweb.in/2024/03/what-is-distinction-between-article-226.html ; https://vidhijudicial.com/article-227-of-the-constitution-of-india.html ; https://www.livelaw.in/amp/top-stories/governor-can-consult-only-high-court-on-district-judges-appointment-supreme-court-faults-haryana-govt-for-seeking-unions-opinion-252567"
+      ],
+      "fix": null,
+      "note": "Facts correct but statements 1 and 4 mirror each other on Art 214; weakest, dropped."
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "I and III only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://future.indiankanoon.org/doc/1995948 ; https://vajiramandravi.com/current-affairs/?p=90483 ; https://studyhub.net.in/?p=17234"
+      ],
+      "fix": null,
+      "note": ""
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "in consultation with the Chief Justice of India",
+      "new": "in exercise of constitutional powers",
+      "reason": "unverified X wording"
+    },
+    {
+      "old": "retirements, transfers and elevations",
+      "new": "retirements and elevations",
+      "reason": "transfers unconfirmed"
+    }
+  ],
+  "summary": "All 8 questions factually sound; 6 kept, Q2 and Q7 dropped for overlap. Two passage claims reworded. About 17 searches used."
+}

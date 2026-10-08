@@ -1,0 +1,122 @@
+{
+  "title": "Eight High Courts get new Chief Justices",
+  "topic_tags": [
+    "Appointments",
+    "High Courts",
+    "Judiciary",
+    "Constitution"
+  ],
+  "slot": "T09P1",
+  "text": "The Centre notified the appointment of Chief Justices for eight High Courts on 5 September 2026. Law Minister Arjun Ram Meghwal announced the appointments on X, saying the President had made them in exercise of constitutional powers.\n\nThe appointments followed Supreme Court Collegium recommendations made in August 2026. Four of the names had been recommended for the High Courts of Calcutta, Bombay, Patna and Punjab and Haryana. Among the appointees, Justice V. Kameswar Rao, a Delhi High Court judge, was named Chief Justice of the Patna High Court. Justice Ravindra Vithalrao Ghuge was named for Calcutta, and Justice Mahesh Chandra Tripathi, of the Allahabad High Court, for Bombay.\n\nJustice Ashwani Kumar Mishra was named Chief Justice of the Punjab and Haryana High Court. Justice Krushna Ram Mohapatra, of the Orissa High Court, was named for Chhattisgarh. Justice Alpesh Yeshvant Kogje, of the Gujarat High Court, was named for Madhya Pradesh, and Justice Pushpendra Singh Bhati, of the Rajasthan High Court, for Jammu and Kashmir and Ladakh.\n\nThe Collegium's recommendations came as several High Courts were being run by acting Chief Justices after retirements and elevations to the Supreme Court.",
+  "sources": [
+    "https://www.scconline.com/blog/post/2026/09/07/chief-justice-8-high-courts-appointed-scc-times/",
+    "https://www.livelaw.in/high-court/all-high-courts/centre-notifies-appointments-for-chief-justices-at-eight-high-courts-548759",
+    "https://www.deccanherald.com/india/centre-appoints-chief-justices-of-eight-high-courts-3201084",
+    "https://www.verdictum.in/court-updates/high-courts/appointment-of-chief-justice-across-eight-high-courts-1621457",
+    "https://www.livelaw.in/news-updates/supreme-court-collegium-recommends-appointment-of-chief-justices-to-3-high-courts-547999",
+    "https://www.scconline.com/blog/post/2026/09/01/sc-collegium-recommends-appointment-chief-justices/",
+    "https://www.barandbench.com/news/litigation/justice-rv-ghuge-appointed-chief-justice-of-calcutta-high-court"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Under which Article of the Constitution is every High Court judge appointed by the President through a warrant under his hand and seal?",
+      "options": [
+        "Article 214",
+        "Article 216",
+        "Article 217",
+        "Article 219"
+      ],
+      "answer": 2,
+      "explanation": "Article 217(1) provides that every High Court judge is appointed by the President by warrant under his hand and seal, after consultation with the CJI, the Governor of the State and, for judges other than the Chief Justice, the Chief Justice of that High Court.",
+      "source": "https://www.constitutionofindia.net/articles/article-217-appointment-and-conditions-of-the-office-of-a- ; https://vajiramandravi.com/current-affairs/article-217-of-the-indian-constitution/"
+    },
+    {
+      "type": "direct",
+      "q": "Which Article empowers the President, after consulting the Chief Justice of India, to transfer a High Court judge from one High Court to another?",
+      "options": [
+        "Article 216",
+        "Article 219",
+        "Article 222",
+        "Article 224"
+      ],
+      "answer": 2,
+      "explanation": "Article 222 allows the President, after consultation with the Chief Justice of India, to transfer a judge from one High Court to any other High Court. Article 224 deals with additional and acting judges.",
+      "source": "https://www.constitutionofindia.net/articles/article-222-transfer-of-a-judge-from-one-high-court-to-another ; https://lawyersupdate.co.in/?p=2909"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Article 129",
+        "II. Article 226",
+        "III. Article 227",
+        "IV. Article 233"
+      ],
+      "list2": [
+        "A. Power of a High Court to issue writs for enforcing fundamental rights or for any other purpose",
+        "B. Appointment and posting of district judges in a State",
+        "C. Supreme Court declared to be a court of record",
+        "D. Superintendence over all courts and tribunals in the High Court's territory"
+      ],
+      "options": [
+        "I-A, II-B, III-C, IV-D",
+        "I-C, II-A, III-D, IV-B",
+        "I-D, II-C, III-A, IV-B",
+        "I-B, II-D, III-C, IV-A"
+      ],
+      "answer": 1,
+      "explanation": "Article 129 makes the Supreme Court a court of record (C). Article 226 gives High Courts writ jurisdiction (A). Article 227 gives superintendence over subordinate courts and tribunals (D). Article 233 covers appointment and posting of district judges (B).",
+      "source": "https://www.apnilaw.com/upsc/indian-constitution/article-129-supreme-court-as-court-of-record/ ; https://www.lawweb.in/2024/03/what-is-distinction-between-article-226.html ; https://vidhijudicial.com/article-227-of-the-constitution-of-india.html ; https://www.livelaw.in/amp/top-stories/governor-can-consult-only-high-court-on-district-judges-appointment-supreme-court-faults-haryana-govt-for-seeking-unions-opinion-252567"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Parliament may by law increase the number of judges of the Supreme Court beyond the number initially fixed in the Constitution.",
+      "reason": "Supreme Court judges hold office until the age of 65 years.",
+      "answer": 1,
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "Both are true: Article 124(1) lets Parliament prescribe a larger number of judges by law, and Article 124(2) fixes tenure to age 65. The tenure age does not explain why Parliament can change the strength of the Court, so R is true but not the reason for A.",
+      "source": "https://future.indiankanoon.org/doc/1995948 ; https://forumias.com/blog/article-124-of-indian-constitution/"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. Under Article 224, the President may appoint additional judges of a High Court for a term of up to five years.",
+        "II. Under Article 223, the Governor of a State appoints the acting Chief Justice of a High Court."
+      ],
+      "answer": 3,
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "Neither is correct. Article 224(1) limits additional judges' term to not more than two years. Article 223 empowers the President, not the Governor, to appoint a High Court judge to act as Chief Justice.",
+      "source": "https://future.indiankanoon.org/doc/570782 ; https://forumias.com/blog/article-224-of-indian-constitution/ ; https://www.constitutionofindia.net/?p=1451 ; https://lawyersupdate.co.in/?p=203"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. Under Article 124, Supreme Court judges are appointed by the President.",
+        "II. A Supreme Court judge may resign only with the prior approval of Parliament.",
+        "III. Parliament may by law provide the authority and manner for determining a Supreme Court judge's age."
+      ],
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "Statements I and III are correct: Article 124(2) provides for presidential appointment, and Article 124(2A) leaves age determination to Parliament's law. Statement II is wrong because under Article 124(2) a judge resigns by writing to the President.",
+      "source": "https://future.indiankanoon.org/doc/1995948 ; https://vajiramandravi.com/current-affairs/?p=90483 ; https://studyhub.net.in/?p=17234"
+    }
+  ],
+  "residual": [
+    "Meghwal's X post not read directly; passage reworded to 'in exercise of constitutional powers' (consultation-with-CJI wording dropped).",
+    "Appointee origins for Mohapatra, Kogje, Bhati, Mishra, Rao, Tripathi: pages not fetchable (hosts unreachable); confirmed from search snippets of several publishers.",
+    "Acting-CJ reasons confirmed only for Bombay, P&H, Calcutta, Chhattisgarh via snippets; 'transfers' dropped from last sentence.",
+    "Constitutional-text questions rest on constitutionofindia.net/indiankanoon snippets plus exam-prep explainers; official text pages were not fetched (WebFetch failed).",
+    "Rajasthan appointee (Agrawal) still omitted; passage names seven of the eight courts."
+  ]
+}
