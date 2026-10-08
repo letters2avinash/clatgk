@@ -1,0 +1,268 @@
+{
+  "passage_file": "data/draft/t03_p4.json",
+  "passage_claims": [
+    {
+      "claim": "Cabinet approved Samudra Manthan, Rs 84,084 crore up to FY2030-31, central sector scheme of MoPNG, on Fri 31 July 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://ianslive.in/cabinet-okays-samudra-manthan-scheme-with-rs-84084-crore-outlay-to-boost-oil-exploration--20260731162703",
+        "https://www.outlookbusiness.com/economy-and-policy/cabinet-approves-rs-84084-crore-for-samudra-manthan-scheme-to-boost-offshore-oil-gas-exploration"
+      ],
+      "note": "Also Deccan Chronicle, PIB doc"
+    },
+    {
+      "claim": "Rs 28,534 crore for offshore seismic data acquisition/processing",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.outlookindia.com/national/samudra-manthan-how-84084-cr-scheme-aims-to-unlock-offshore-energy",
+        "https://anantamias.com/current-affairs/national-offshore-exploration-samudra-manthan/"
+      ],
+      "note": "Breakdown 12,000+12,534+4,000 sums to 28,534; PIB doc also"
+    },
+    {
+      "claim": "Rs 10,000 crore common offshore production and evacuation infrastructure",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.outlookindia.com/national/samudra-manthan-how-84084-cr-scheme-aims-to-unlock-offshore-energy",
+        "https://www.angelone.in/news/economy/union-cabinet-approves-samudra-manthan-scheme-to-boost-domestic-offshore-oil-and-gas-production"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "60 deepwater wells; support up to 50% of eligible drilling cost or Rs 675 crore per well",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.outlookindia.com/national/samudra-manthan-how-84084-cr-scheme-aims-to-unlock-offshore-energy",
+        "https://indiasworld.in/samudra-manthan-explainer-indias-%E2%82%B984084-crore-bet-on-offshore-oil-and-gas/"
+      ],
+      "note": "The Federal reports Rs 650 crore (disputed figure), so the Rs 675 crore figure was dropped from the passage; 60 wells and 50% kept"
+    },
+    {
+      "claim": "600 MMTOE reserve accretion expected",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.outlookbusiness.com/economy-and-policy/cabinet-approves-rs-84084-crore-for-samudra-manthan-scheme-to-boost-offshore-oil-gas-exploration",
+        "https://www.angelone.in/news/economy/union-cabinet-approves-samudra-manthan-scheme-to-boost-domestic-offshore-oil-and-gas-production"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Reports linked approval to Middle East crisis",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://www.outlookbusiness.com/economy-and-policy/cabinet-approves-rs-84084-crore-for-samudra-manthan-scheme-to-boost-offshore-oil-gas-exploration"
+      ],
+      "note": "Second source only says geopolitical conflicts/global supply uncertainty; reworded accordingly"
+    },
+    {
+      "claim": "Targeted basins include Krishna-Godavari, Cauvery, Mahanadi, Andaman",
+      "verdict": "UNVERIFIABLE",
+      "sources": [],
+      "note": "Official coverage names only Mahanadi and Kutch (infrastructure); sentence deleted"
+    },
+    {
+      "claim": "ONGC spudded MN-DW18-1-H-D in Mahanadi offshore basin on 25 July 2026 under Samudra Manthan",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.outlookbusiness.com/news/ongc-starts-drilling-first-deepwater-well-in-mahanadi-basin-under-samudra-manthan-mission",
+        "https://www.deccanchronicle.com/amp/business/ongc-begins-first-deepwater-well-drilling-in-mahanadi-basin-under-samudra-manthan-mission-1973914"
+      ],
+      "note": "Also ONGC NSE release dated 25 Jul 2026. Spud is six days BEFORE the 31 July approval; wording changed from 'Drilling has already started' to make sequence explicit"
+    },
+    {
+      "claim": "First of four planned deepwater projects in the basin",
+      "verdict": "UNVERIFIABLE",
+      "sources": [],
+      "note": "No source found with a count of planned wells; deleted"
+    },
+    {
+      "claim": "Khelo India expanded + NSF assistance, Rs 36,441 crore, 2026-27 to 2030-31; components; Feeder Schools, Utkrishta Vidyalayas; E-KIAs; nearly eight times previous outlay",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://newsonair.gov.in/cabinet-approves-expanded-khelo-india-scheme-with-%E2%82%B936441-crore-outlay/",
+        "https://thebridge.in/athletics/cabinet-approves-revamped-khelo-india-scheme-57133"
+      ],
+      "note": "Also Telangana Today, SCC Online, PIB via pmindia.gov.in. 'ANSFs' abbreviation removed"
+    },
+    {
+      "claim": "Vaishnaw quote: every talented youth clear pathway; facilities from grassroots to TOPS",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://newsonair.gov.in/cabinet-approves-expanded-khelo-india-scheme-with-%E2%82%B936441-crore-outlay/",
+        "https://www.latestly.com/agency-news/sports-news-cabinet-approves-revamped-khelo-india-scheme-ansfs-with-outlay-of-rs-36441-crore-7540466.html"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "PM-KISAN continuation 2026-27 to 2030-31, Rs 3,15,614 crore, announced by Vaishnaw",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://deccanherald.com/india/cabinet-approves-extension-of-pm-kisan-scheme-till-fy31-with-outlay-of-rs-315-lakh-crore-4094567",
+        "https://ianslive.in/govt-working-towards-our-welfare-farmers-on-cabinets-decision-to-continue-pm-kisan-scheme--20260731205622"
+      ],
+      "note": ""
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Odisha",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.maritimegateway.com/ongc-strikes-gas-in-deepwater-well-off-odisha-coast/",
+        "https://filingreader.com/news-wire/mumbai/2026-07-25/ongc-spuds-first-deepwater-well-in-mahanadi-basin"
+      ],
+      "fix": null,
+      "note": "Well ~23 nm from Konark off Odisha; other options wrong; state not in passage"
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "2047",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://thebridge.in/news/national-sports-policy-2025-approved-53718",
+        "https://www.theweek.in/news/sports/2025/07/01/union-cabinet-gives-nod-to-national-sports-policy-2025-as-india-eyes-2036-olympics.amp.html"
+      ],
+      "fix": null,
+      "note": "One India CSR page mentions top-10 by 2036 interim, not a conflict"
+    },
+    {
+      "index": 3,
+      "verdict": "DROP",
+      "my_answer": "Ministry of Youth Affairs and Sports",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://nss.gov.in/sites/default/files/Khelo%20India%20Scheme%20Dated%2022.04.2016.pdf",
+        "https://factly.in/explainer-what-is-khelo-india"
+      ],
+      "fix": null,
+      "note": "Correct but weakest/easiest; dropped to reach 6 and avoid overlap (Q7 also tests ministry of TOPS)"
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-C, II-A, III-B, IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://icar.org.in/en/node/11512",
+        "https://www.iasgyan.in/daily-current-affairs/target-olympic-podium-schemetops",
+        "https://factly.in/explainer-what-is-khelo-india",
+        "https://thebridge.in/news/national-sports-policy-2025-approved-53718"
+      ],
+      "fix": null,
+      "note": "PM-KISAN 24 Feb 2019; TOPS Sept 2014; Khelo India 2016-17; NSP 1 Jul 2025"
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "1",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.outlookbusiness.com/news/ongc-starts-drilling-first-deepwater-well-in-mahanadi-basin-under-samudra-manthan-mission",
+        "https://www.constitutionofindia.net/articles/article-282-expenditure-defrayable-by-the-union-or-a-state-out-of-its-revenues/"
+      ],
+      "fix": null,
+      "note": "A and R true (Art 282 per constitution text and LiveLaw/Bhim Singh); R unrelated"
+    },
+    {
+      "index": 6,
+      "verdict": "FIX",
+      "my_answer": "3 (neither)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        false
+      ],
+      "issues": [
+        "AMBIGUOUS",
+        "GIVEAWAY"
+      ],
+      "sources": [
+        "https://thesouthfirst.com/news/oil-production-starts-at-krishna-godavari-basins-deep-water-block-in-the-bay-of-bengal",
+        "https://indianinfrastructure.com/2019/10/16/ongc-proposes-drilling-24-wells-in-cauvery-basin-in-tamil-nadu/"
+      ],
+      "fix": "Statements reworded to Tamil Nadu (KG) and West Bengal (Cauvery), both false; original II (Cauvery off Andhra Pradesh) was defensible since the Cauvery basin partly overlaps AP, and original I named Odisha, which is Q1's answer",
+      "note": "Answer index 3 unchanged"
+    },
+    {
+      "index": 7,
+      "verdict": "FIX",
+      "my_answer": "Only one (statement 1)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "issues": [
+        "AMBIGUOUS"
+      ],
+      "sources": [
+        "https://www.deccanherald.com/india/gujarat/ahmedabad-formally-awarded-hosting-rights-for-2030-commonwealth-games-3811206",
+        "https://www.thehitavada.com/Encyc/2025/11/27/its-official-ahmedabad-formally-awarded-hosting-rights-of-2030-cwg.html",
+        "https://icar.org.in/en/node/11512",
+        "https://www.iasgyan.in/daily-current-affairs/target-olympic-podium-schemetops"
+      ],
+      "fix": "Statement 4 replaced: 'replaces the policy first introduced in 1984' was defensibly true (2001 policy succeeded the 1984 one); now 'approved by the Union Cabinet in 2023', false (1 July 2025)",
+      "note": "Answer index 0 unchanged"
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "I true, II unconfirmed, III false",
+      "key_answer_correct": false,
+      "truth_values": [
+        true,
+        null,
+        false
+      ],
+      "issues": [
+        "UNSUPPORTED"
+      ],
+      "sources": [
+        "https://abcnews.com/Sports/wireStory/ioc-confirms-india-qatar-7-bidders-host-2036-137038016"
+      ],
+      "fix": null,
+      "note": "I confirmed (AP/ABC, TSN); 2010 Delhi CWG confirmed (Outlook India, Kerala Kaumudi); but statement II (IOA oversees the bid) found in no source; key unverifiable"
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "with assistance capped at 50 per cent of eligible drilling cost or ₹675 crore per well, whichever is lower.",
+      "new": "with government assistance of up to 50 per cent of the eligible drilling cost of each well.",
+      "reason": "Rs 675 crore disputed (one outlet says 650)"
+    },
+    {
+      "old": "and reports linked the approval to the Middle East crisis and global energy supply concerns. Targeted basins include the Krishna-Godavari, Cauvery, Mahanadi and Andaman basins.",
+      "new": "and reports linked the approval to global energy supply concerns driven by geopolitical conflicts.",
+      "reason": "Middle East link single-sourced; basin list unverifiable"
+    },
+    {
+      "old": "Drilling has already started. ... It is the first of four planned deepwater exploration projects in that basin.",
+      "new": "Drilling had already started before the approval. ... six days before the Cabinet cleared the scheme.",
+      "reason": "Clarify sequence (spud 25 Jul precedes 31 Jul approval); delete unconfirmed 'first of four'"
+    },
+    {
+      "old": "National Sports Federations (ANSFs), with a combined outlay of ₹36,441 crore for 2026-27 to 2030-31.",
+      "new": "National Sports Federations, with a combined outlay of ₹36,441 crore for 2026-27 to 2030-31. The government described this outlay as nearly eight times that of the previous Khelo India scheme.",
+      "reason": "Drop unverified abbreviation; add confirmed fact to keep length"
+    }
+  ],
+  "summary": "Passage had three unsupported claims (Middle East link, target basin list, first of four wells); all fixed or deleted, 675 crore figure dropped as disputed. 6 of 8 questions kept (Q6, Q7 reworded); Q3 dropped as weakest, Q8 dropped as statement II is unsupported. Final passage is 464 words."
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Cabinet Clears Samudra Manthan, Khelo India Revamp and PM-KISAN Extension",
+  "topic_tags": [
+    "Schemes",
+    "Union Cabinet",
+    "Samudra Manthan",
+    "Khelo India",
+    "PM-KISAN",
+    "Offshore exploration"
+  ],
+  "slot": "T03P4",
+  "status": "complete",
+  "text": "The Union Cabinet, chaired by Prime Minister Narendra Modi, approved three major decisions on Friday, 31 July 2026. Information and Broadcasting Minister Ashwini Vaishnaw briefed reporters on them. Among these was the National Offshore Exploration Scheme, named Samudra Manthan, with an outlay of ₹84,084 crore running up to FY 2030-31. It is a central sector scheme of the Ministry of Petroleum and Natural Gas.\n\nThe scheme covers the full offshore exploration chain. Its components include seismic surveys, deepwater drilling, scientific drilling in frontier basins, shared offshore production and evacuation infrastructure, and an integrated Oil and Gas Manufacturing and Services Zone. About ₹28,534 crore has been earmarked for offshore seismic data acquisition and processing, and ₹10,000 crore for common offshore production and evacuation infrastructure. The scheme also supports 60 deepwater exploration wells, with government assistance of up to 50 per cent of the eligible drilling cost of each well. Its interventions include large-scale acquisition, processing and interpretation of high-quality seismic data, and accelerated deepwater and ultra-deepwater exploratory drilling.\n\nThe government said the scheme is expected to catalyse reserve accretion of over 600 million metric tonnes of oil equivalent (MMTOE). That figure is a projection, not a confirmed discovery. The government presented the scheme as a step towards energy security, and reports linked the approval to global energy supply concerns driven by geopolitical conflicts.\n\nDrilling had already started before the approval. ONGC spudded its first deepwater exploratory well, MN-DW18-1-H-D, in the Mahanadi offshore basin on 25 July 2026 under the Samudra Manthan mission, six days before the Cabinet cleared the scheme.\n\nThe Cabinet also approved an expanded Khelo India Scheme and enhanced assistance to National Sports Federations, with a combined outlay of ₹36,441 crore for 2026-27 to 2030-31. The government described this outlay as nearly eight times that of the previous Khelo India scheme. The revamp creates a network of National Centres of Excellence, Khelo India Centres of Excellence, SAI Training Centres, Khelo India Accredited Academies, Khelo India Centres and Youth Sports Companies of the Armed Forces. The package is meant to cover talent identification, scientific training, competition exposure and Olympic preparation.\n\nTwo new school-level initiatives, Khelo India Feeder Schools and Khelo India Utkrishta Vidyalayas, will link sport with mainstream education. An Emerging Khelo India Athletes category is meant to widen the athlete pipeline. Vaishnaw said every talented youth should get a clear pathway to excellence, and that the scheme would build training facilities from the grassroots level up to the Target Olympic Podium Scheme (TOPS).\n\nThe same meeting also approved the continuation of PM-KISAN for five financial years, 2026-27 to 2030-31, with an outlay of ₹3,15,614 crore. Vaishnaw announced the decision, which keeps the income-support scheme for farmers running through the period. The Samudra Manthan and Khelo India decisions were taken at the same meeting.",
+  "sources": [
+    "https://www.outlookbusiness.com/economy-and-policy/cabinet-approves-rs-84084-crore-for-samudra-manthan-scheme-to-boost-offshore-oil-gas-exploration",
+    "https://ianslive.in/cabinet-okays-samudra-manthan-scheme-with-rs-84084-crore-outlay-to-boost-oil-exploration--20260731162703",
+    "https://www.deccanchronicle.com/nation/current-affairs/cabinet-approves-rs-84084-cr-samudra-manthan-scheme-to-explore-offshore-oil-and-gas-exploration-1975557",
+    "https://www.outlookindia.com/national/samudra-manthan-how-84084-cr-scheme-aims-to-unlock-offshore-energy",
+    "https://www.outlookbusiness.com/news/ongc-starts-drilling-first-deepwater-well-in-mahanadi-basin-under-samudra-manthan-mission",
+    "https://www.deccanchronicle.com/amp/business/ongc-begins-first-deepwater-well-drilling-in-mahanadi-basin-under-samudra-manthan-mission-1973914",
+    "https://newsonair.gov.in/cabinet-approves-expanded-khelo-india-scheme-with-%E2%82%B936441-crore-outlay/",
+    "https://www.scconline.com/blog/post/2026/08/06/cabinet-approves-revamped-khelo-india-scheme/",
+    "https://www.policyedge.in/p/revamped-khelo-india-scheme-creates-a-pathway-from-schools-to-olympic-preparation",
+    "https://deccanherald.com/india/cabinet-approves-extension-of-pm-kisan-scheme-till-fy31-with-outlay-of-rs-315-lakh-crore-4094567",
+    "https://ianslive.in/govt-working-towards-our-welfare-farmers-on-cabinets-decision-to-continue-pm-kisan-scheme--20260731205622"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "ONGC began drilling its first deepwater exploratory well under the Samudra Manthan mission in the Mahanadi offshore basin in July 2026. On which Indian state's coast does the Mahanadi basin lie?",
+      "options": [
+        "Andhra Pradesh",
+        "Gujarat",
+        "Tamil Nadu",
+        "Odisha"
+      ],
+      "answer": 3,
+      "explanation": "The Mahanadi basin lies off the Odisha coast; ONGC's Konark discovery is also off Odisha. The passage does not state the state.",
+      "source": "https://www.ft.lk/front-page/ONGC-starts-India-s-first-deepwater-exploration-well-off-Odisha-coast/44-795282 ; https://www.outlookbusiness.com/news/ongc-starts-drilling-first-deepwater-well-in-mahanadi-basin-under-samudra-manthan-mission"
+    },
+    {
+      "type": "direct",
+      "q": "The National Sports Policy 2025 (Khelo Bharat Niti) aims to make India one of the top five sporting nations by which year?",
+      "options": [
+        "2036",
+        "2040",
+        "2047",
+        "2050"
+      ],
+      "answer": 2,
+      "explanation": "The policy's stated goal is to make India one of the top five sporting nations by 2047. 2036 is the year linked to India's Olympic bid, not the policy target.",
+      "source": "https://thebridge.in/news/national-sports-policy-2025-approved-53718 ; https://www.theweek.in/news/sports/2025/07/01/union-cabinet-gives-nod-to-national-sports-policy-2025-as-india-eyes-2036-olympics.amp.html"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. PM-KISAN",
+        "II. Target Olympic Podium Scheme",
+        "III. Khelo India Scheme",
+        "IV. National Sports Policy 2025"
+      ],
+      "list2": [
+        "A. 2014",
+        "B. 2016-17",
+        "C. 2019",
+        "D. 2025"
+      ],
+      "options": [
+        "I-C, II-A, III-B, IV-D",
+        "I-A, II-C, III-B, IV-D",
+        "I-B, II-A, III-C, IV-D",
+        "I-C, II-B, III-A, IV-D"
+      ],
+      "answer": 0,
+      "explanation": "PM-KISAN was launched on 24 February 2019; the Target Olympic Podium Scheme was launched in September 2014; Khelo India was launched in 2016-17 by merging three older schemes; the National Sports Policy 2025 was approved by the Cabinet on 1 July 2025.",
+      "source": "https://icar.org.in/en/node/11512 ; https://saijobs.sportsauthorityofindia.gov.in/index1.asp?ls_id=3812 ; https://www.impriindia.com/insights/policy-update/khelo-india-2016/ ; https://www.tribuneindia.com/news/mandaviya/union-cabinet-approves-national-sports-policy-2025-says-it-will-establish-india-as-formidable-force-in-global-sports"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "ONGC began drilling its first deepwater exploratory well in the Mahanadi offshore basin in July 2026.",
+      "reason": "Article 282 of the Constitution allows the Union or a State to make grants for any public purpose, even outside its legislative subjects.",
+      "answer": 1,
+      "truth": [
+        true,
+        true
+      ],
+      "explanation": "Both statements are true, but Article 282 concerns the power to make grants and does not explain why the well was drilled.",
+      "source": "https://www.outlookbusiness.com/news/ongc-starts-drilling-first-deepwater-well-in-mahanadi-basin-under-samudra-manthan-mission ; https://www.constitutionofindia.net/articles/article-282-expenditure-defrayable-by-the-union-or-a-state-out-of-its-revenues/ ; https://www.livelaw.in/amp/columns/a-long-standing-discord-on-article-282-223997"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The Krishna-Godavari basin lies off the coast of Tamil Nadu.",
+        "II. The Cauvery basin lies off the coast of West Bengal."
+      ],
+      "truth": [
+        false,
+        false
+      ],
+      "answer": 3,
+      "explanation": "The Krishna-Godavari basin lies off the Andhra Pradesh coast, near Kakinada. The Cauvery basin lies off Tamil Nadu and Puducherry. Both statements are false, so the answer is neither.",
+      "source": "https://thesouthfirst.com/news/oil-production-starts-at-krishna-godavari-basins-deep-water-block-in-the-bay-of-bengal ; https://compass.rauias.com/current-affairs/oil-production-krishna-godavari-deep-sea-project-ongc/ ; https://indianinfrastructure.com/2019/10/16/ongc-proposes-drilling-24-wells-in-cauvery-basin-in-tamil-nadu/ ; https://www.clearias.com/sedimentary-basins-of-india/"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The 2030 Commonwealth Games will be hosted by Ahmedabad.",
+        "2. PM-KISAN pays Rs 12,000 per year to eligible farmer families.",
+        "3. The Target Olympic Podium Scheme was launched by the Ministry of Health and Family Welfare.",
+        "4. The National Sports Policy 2025 was approved by the Union Cabinet in 2023."
+      ],
+      "mode": "correct",
+      "answer": 0,
+      "explanation": "Only statement 1 is correct. Ahmedabad was formally awarded the 2030 Commonwealth Games on 26 November 2025. PM-KISAN pays Rs 6,000 a year in three instalments of Rs 2,000. TOPS was launched by the Ministry of Youth Affairs and Sports. The National Sports Policy 2025 was approved by the Cabinet on 1 July 2025.",
+      "source": "https://www.deccanherald.com/india/gujarat/ahmedabad-formally-awarded-hosting-rights-for-2030-commonwealth-games-3811206 ; https://www.thehitavada.com/Encyc/2025/11/27/its-official-ahmedabad-formally-awarded-hosting-rights-of-2030-cwg.html ; https://icar.org.in/en/node/11512 ; https://www.drishtiias.com/pdf/1783953805.pdf ; https://www.iasgyan.in/daily-current-affairs/target-olympic-podium-schemetops ; https://thebridge.in/news/national-sports-policy-2025-approved-53718 ; https://www.theweek.in/news/sports/2025/07/01/union-cabinet-gives-nod-to-national-sports-policy-2025-as-india-eyes-2036-olympics.amp.html"
+    }
+  ]
+}

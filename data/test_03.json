@@ -1,0 +1,673 @@
+{
+ "title": "CLAT GK - Test 03",
+ "date": "2026-10-08",
+ "duration_minutes": 50,
+ "marks_correct": 1,
+ "marks_wrong": -0.25,
+ "notes": "Generated with Haiku 5.5, then independently verified question by question by separate Sonnet agents using fresh searches (two-source rule; claims that could not be confirmed were removed or reworded; ambiguous or leaking questions were dropped). Several primary sources were unreachable, so residual risk is listed below. Not reviewed by a human.",
+ "residual": [
+  "Passage 1: the dairy/GM-crop exclusion and the EU 'more than 90 per cent' tariff-cut wording rest on looser wording (two sources each).",
+  "Passage 2 is shorter than the CLAT norm (about 394 words) because unconfirmed figures were removed.",
+  "Passage 3: the Purple Cap history behind most questions rests on several list pages read only as search snippets; Sooryavanshi's Bihar origin rests on Wikipedia, Gulf News and the franchise site.",
+  "Passage 4: offshore-basin locations and the seismic-programme figures were removed; the Khelo India and 2010 Commonwealth Games facts rest on two secondary outlets.",
+  "Passage 5: the Article 66/93/316 checks and the Articles 263/280/324/338 match rest on search-result text of constitutional pages that could not be opened in full.",
+  "Static-GK explanations cite Wikipedia or exam-prep pages in places where a primary text was not reachable."
+ ],
+ "passages": [
+  {
+   "status": "complete",
+   "title": "India's Trade Agreements in Early 2026",
+   "topic_tags": [
+    "trade agreements",
+    "India-EU FTA",
+    "India-US interim framework",
+    "India-GCC FTA",
+    "tariffs",
+    "Constitution Part XIII",
+    "Constitution Articles 112, 265, 266, 280"
+   ],
+   "slot": "T03P1",
+   "text": "India and the European Union concluded negotiations on a comprehensive free trade agreement on 27 January 2026, announced at a summit in New Delhi attended by European Council President Antonio Costa and European Commission President Ursula von der Leyen. Von der Leyen described the deal as creating a free trade zone of two billion people. India would remove or reduce tariffs on more than 90 per cent of goods exported from the EU, and European exporters are expected to save about 4 billion euros in duties each year. The agreement has been concluded but not yet signed, and it is not yet in force. Duty reductions are to be phased in over several years.\n\nOn 6 February 2026 in Washington, which was 7 February in India, the two governments announced a framework for an interim trade agreement. Under the framework, the United States will lower its applied tariff on Indian exports from 50 per cent to 18 per cent. Half of the earlier 50 per cent was a penalty linked to Russian oil purchases, and the other half was the reciprocal rate. An executive order removed the further 25 per cent duty, which had been imposed on 6 August 2025 over India's purchases of Russian oil, with effect from 7 February 2026. An order directs the Commerce Secretary to monitor Indian imports of Russian oil and to recommend reinstating the duty if such imports resume.\n\nIndia has committed to eliminate or reduce tariffs on US industrial goods and a range of American food and agricultural products. It intends to buy about 500 billion dollars' worth of US goods over five years, covering energy products, aircraft and aircraft parts, precious metals and technology products. Dairy and genetically modified crops remain excluded from India's tariff concessions. Both governments said further negotiations were needed to complete a broader bilateral trade agreement, so the framework is an interim step rather than a finished deal.\n\nOn 24 February 2026, India and the Gulf Cooperation Council signed a joint statement in New Delhi formally launching negotiations on a comprehensive and mutually beneficial free trade agreement. The terms of reference for the talks had been signed on 5 February 2026. Commerce and Industry Minister Piyush Goyal and GCC Secretary-General Jasem Albudaiwi signed the joint statement. The GCC comprises six member states: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates. The bloc is India's largest trading partner group, with bilateral trade of about 178.56 billion dollars in fiscal year 2024-25, including Indian exports of about 56.87 billion dollars and imports of about 121.68 billion dollars. The talks will cover trade in goods, customs procedures, trade in services and digital trade, with the stated aim of removing tariff and non-tariff barriers.",
+   "sources": [
+    "https://ianslive.in/eu-india-have-concluded-the-mother-of-all-deals-says-ursula-von-der-leyen--20260127130604",
+    "https://www.aljazeera.com/news/2026/1/27/india-eu-agree-on-mother-of-all-trade-deals",
+    "https://newsfirst.lk/2026/01/27/%e2%82%ac4-billion-in-annual-savings-96-tariff-cuts-euindia-free-trade-agreement-sealed",
+    "https://www.intellinews.com/india-and-eu-seal-landmark-free-trade-agreement-422381/",
+    "https://view.asiae.co.kr/en/article/2026012719024956640",
+    "https://www.nst.com.my/amp/business/corporate/2026/02/1373592/us-india-unveil-interim-trade-framework-move-closer-broad-pact",
+    "https://www.khaleejtimes.com/world/americas/us-india-unveil-interim-trade-framework",
+    "https://www.etvbharat.com/en/bharat/us-and-india-joint-statement-on-india-us-interim-trade-agreement-enn26020700547",
+    "https://www.troutman.com/insights/us-rescinds-25-additional-duties-on-indian-origin-imports/",
+    "https://ianslive.in/us-drops-25-tariff-on-indian-imports--20260207034504",
+    "https://www.ghy.com/trade-compliance/us-imposes-25-tariff-on-india-imports-in-response-to-russian-oil-trade/",
+    "https://www.dtnext.in/news/national/no-duty-concessions-on-sensitive-grains-fruits-dairy-meat-under-trade-pact-with-us",
+    "https://ianslive.in/india-gulf-cooperation-council-launch-fta-talks--20260224194504",
+    "https://www.newsonair.gov.in/india-gulf-cooperation-council-sign-joint-statement-on-india-gcc-free-trade-agreement",
+    "https://thepeninsulaqatar.com/article/24/02/2026/gcc-india-launch-free-trade-agreement-negotiations",
+    "https://www.outlookbusiness.com/economy-and-policy/india-gulf-cooperation-council-ink-terms-of-reference-for-starting-fta-talks",
+    "https://globaledge.msu.edu/trade-blocs/gcc/memo",
+    "https://protectingeducation.org/db-taxonomy-regional-body/gulf-cooperation-council-gcc"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Where is the headquarters of the Gulf Cooperation Council located?",
+     "options": [
+      "Abu Dhabi",
+      "Muscat",
+      "Riyadh",
+      "Doha"
+     ],
+     "answer": 2,
+     "explanation": "The GCC treaty provides that the Cooperation Council has its headquarters in Riyadh, Saudi Arabia.",
+     "source": "https://en.wikipedia.org/wiki/Gulf_Cooperation_Council ; https://treaties.un.org/doc/Publication/UNTS/Volume%201288/volume-1288-I-21244-English.pdf"
+    },
+    {
+     "type": "direct",
+     "q": "Under which section of the Customs Tariff Act, 1975 may the Central Government impose anti-dumping duty on articles imported below their normal value?",
+     "options": [
+      "Section 3",
+      "Section 9A",
+      "Section 12",
+      "Section 11"
+     ],
+     "answer": 1,
+     "explanation": "Section 9A of the Customs Tariff Act, 1975 empowers the Central Government, by notification, to impose anti-dumping duty where an article is imported below its normal value.",
+     "source": "https://future.indiankanoon.org/doc/946858 ; https://bhattandjoshiassociates.com/anti-dumping-duty-in-india-complete-legal-framework-investigation-process-appellate-remedies/"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Article 301 of the Constitution of India guarantees freedom of trade, commerce and intercourse throughout the territory of India.",
+     "reason": "Article 301 was borrowed from the commerce clause of the Constitution of the United States.",
+     "answer": 2,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "Article 301 is true as a statement of the guarantee, but it was derived from Section 92 of the Australian Constitution, not from the US Constitution.",
+     "source": "https://www.mea.gov.in/Images/pdf1/Part13.pdf ; https://blog.ipleaders.in/freedom-trade-commerce-intercourse-articles-301-307-indian-constitution/"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Article 253 empowers Parliament to make laws for implementing treaties and agreements with foreign countries.",
+      "II. Article 253 empowers only the State legislatures to make laws for implementing international treaties."
+     ],
+     "answer": 0,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "Article 253 gives Parliament power to make any law for the whole or any part of India to implement any treaty, agreement or convention with another country. State legislatures do not hold this power under Article 253.",
+     "source": "https://www.constitutionofindia.net/articles/article-253-legislation-for-giving-effect-to-international-agreements/ ; https://constitution.org/1-Constitution/cons/india/p11253.html"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. Agriculture is a subject in the State List of the Seventh Schedule.",
+      "2. Police is a subject in the Union List of the Seventh Schedule.",
+      "3. Public health and sanitation is a subject in the Union List of the Seventh Schedule."
+     ],
+     "mode": "correct",
+     "truth": [
+      true,
+      false,
+      false
+     ],
+     "answer": 0,
+     "explanation": "Only statement 1 is correct. Agriculture is in the State List, while police and public health and sanitation are State List subjects, not Union List subjects.",
+     "source": "https://www.constitutionofindia.net/schedules/list-ii-state-list ; https://courtbook.in/constitution/schedule/seventh-schedule-list-ii-state-list"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 112",
+      "II. Article 265",
+      "III. Article 266",
+      "IV. Article 280"
+     ],
+     "list2": [
+      "A. Body constituted to advise on the division of the net proceeds of taxes between the Union and the States",
+      "B. No tax may be levied or collected except by authority of law",
+      "C. Statement of estimated receipts and expenditure of the Government of India laid before Parliament each year",
+      "D. Government revenues and loans pooled into one fund, from which money may be appropriated only in accordance with law"
+     ],
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-B, III-D, IV-A",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-A, III-B, IV-C"
+     ],
+     "answer": 1,
+     "explanation": "Article 112 is the Annual Financial Statement, the Union Budget (List I-C). Article 265 provides that no tax shall be levied or collected except by authority of law (II-B). Article 266 pools government revenues and loans into the Consolidated Fund, from which money is appropriated only in accordance with law (III-D). Article 280 provides for the Finance Commission, which advises on the division of tax proceeds between the Union and the States (IV-A).",
+     "source": "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/ ; https://constitution.org/1-Constitution/cons/india/p05112.html ; https://www.constitutionofindia.net/?p=137165 ; https://future.indiankanoon.org/doc/1532561 ; https://www.constitutionofindia.net/articles/article-266-consolidated-funds-and-public-accounts-of-india-and-of-the-states/ ; https://www.constitutionofindia.net/articles/article-280-finance-commission ; https://en.wikipedia.org/wiki/Finance_Commission"
+    }
+   ]
+  },
+  {
+   "status": "complete",
+   "title": "South Korean President's State Visit and Austrian Chancellor's Visit, April 2026",
+   "topic_tags": [
+    "India bilateral visits",
+    "India-South Korea",
+    "India-Austria",
+    "POSCO",
+    "JSW Steel",
+    "Special Strategic Partnership",
+    "April 2026"
+   ],
+   "slot": "T03P2",
+   "text": "South Korean President Lee Jae Myung made a three-day state visit to India from April 19 to 21, 2026. It was his first visit to India since he took office in June 2025. On arrival in New Delhi, he was received at the airport by Minister of State Harsh Malhotra, and External Affairs Minister S. Jaishankar called on him.\n\nOn April 20, Lee received a ceremonial welcome at Rashtrapati Bhavan from President Droupadi Murmu. He then held talks with Prime Minister Narendra Modi at Hyderabad House in New Delhi. Their discussions produced a Joint Strategic Vision for the India-Republic of Korea Special Strategic Partnership. The leaders also adopted a framework for partnership in shipbuilding, shipping and maritime logistics, and issued a joint statement on energy resource security. The energy statement focused on stable energy supply chains and cooperation on energy resource trade and investment. During the visit, South Korea also joined the Indo-Pacific Oceans Initiative and the International Solar Alliance.\n\nThe same day, business leaders from both countries held an India-Korea Business Forum in New Delhi, where memorandums of understanding were signed in steel, shipbuilding, digital services and energy. JSW Steel and the POSCO Group also agreed to form a 50:50 joint venture to build a greenfield integrated steel plant with a capacity of 6 million tonnes per annum in Odisha. The venture will be formed through Saffron Resources Private Limited, a JSW Steel subsidiary, which will become an equal partnership between the two companies. POSCO will acquire its stake for Rs 508.8 crore, subject to closing adjustments. Saffron Resources holds about 887 acres of land in Odisha.\n\nEarlier in April, Austrian Chancellor Christian Stocker made an official visit to India in April 2026. It was his first visit to the country. On April 16, he held bilateral talks with Prime Minister Modi at Hyderabad House, New Delhi, followed by the signing of agreements and joint press statements. The documents signed included a joint letter of intent on dual vocational training, skills development and the recognition of vocational qualifications. A separate letter of intent was signed between India's Ministry of Defence and the Austrian defence ministry on military cooperation. The package also covered an audiovisual co-production agreement for films, and a memorandum between India's Food Safety and Standards Authority and Austria's Agency for Health and Food Safety, known as AGES, on food safety cooperation.",
+   "sources": [
+    "https://www.freepressjournal.in/india/south-korean-president-lee-jae-myung-accorded-ceremonial-welcome-at-rashtrapati-bhavan-holds-key-talks-with-pm-modi-to-deepen-strategic-partnership",
+    "https://www.koreaherald.com/article/10721540",
+    "https://www.narendramodi.in/amp/category/news/india-rok-partnership",
+    "https://www.koreatimes.co.kr/amp/business/companies/20260420/korea-india-to-bolster-ties-in-steel-shipbuilding-digital-services-energy",
+    "https://worldsteel.org/media/industry-member-news/2026-member-news/jsw-steel-and-posco-form-landmark-joint-venture-to-set-up-6-mtpa-integrated-steel-plant-in-india/",
+    "https://odisha.plus/2026/04/jsw-steel-posco-jv-odisha-6mtpa-steel-plant/",
+    "https://www.outlookbusiness.com/amp/story/corporate/jsw-steel-board-approves-proposal-to-ink-pact-with-posco-to-enter-into-jv-for-6-mtpa-steel-plant",
+    "https://www.bundeskanzleramt.gv.at/dam/jcr%3Ae7ea3a06-193b-474e-a18e-ba836c7d092c/joint_statement_india-austria.pdf",
+    "https://www.tribuneindia.com/news/world/pm-modi-holds-bilateral-talks-with-austrian-federal-chancellor-stocker-at-hyderabad-house/",
+    "https://www.chronicleindia.in/current-affairs/16498-india-and-austria-sign-multiple-agreements",
+    "https://www.narendramodi.in/amp/category/news/austria",
+    "https://www.koreatimes.co.kr/amp/business/companies/20260421/korea-india-sign-20-mous-in-steel-shipbuilding-energy-sectors",
+    "https://www.constitutionofindia.net/articles/article-253-legislation-for-giving-effect-to-international-agreements/",
+    "https://blog.ipleaders.in/legislation-for-giving-effect-to-international-agreements-article-253-of-the-constitution/",
+    "https://indembassyseoul.gov.in/cepa",
+    "https://www.hsfkramer.com/notes/publicinternationallaw/2010-03/korea-india-korea-bilateral-comprehensive-economic-partnership-agreement-the-most-recent-example-of-intra-asian-trade-agreements",
+    "https://en.wikipedia.org/wiki/Hyderabad_House",
+    "https://www.gktoday.in/hyderabad-house/",
+    "https://vajiramandravi.com/current-affairs/indo-pacific-oceans-initiative-ipoi/",
+    "https://www.mea.gov.in/Portal/ForeignRelation/Indo_Feb_07_2020.pdf",
+    "https://en.wikipedia.org/wiki/International_Solar_Alliance",
+    "https://vajiramandravi.com/current-affairs/international-solar-alliance-isa/",
+    "https://en.wikipedia.org/wiki/Asian_Infrastructure_Investment_Bank",
+    "https://govt.chinadaily.com.cn/s/201910/24/WS5db69f9f498ebcb19057a41b/aiib-headquarters-construction-completed-in-beijing.html",
+    "https://biodieselmagazine.com/articles/global-biofuels-alliance-launches-at-g20-summit",
+    "https://newsonair.gov.in/pm-modi-launches-global-biofuels-alliance-at-g20-summit-in-new-delhi",
+    "https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency",
+    "https://www.unvienna.org/unvienna/en/multi-lang-link/history/index.html",
+    "https://en.wikipedia.org/wiki/Declaration_of_Neutrality",
+    "https://www.ankasam.org/the-impact-of-the-russia-ukraine-war-on-austrias-foreign-policy/?lang=en",
+    "https://en.wikipedia.org/wiki/President_of_South_Korea"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Which Article of the Constitution of India empowers Parliament to make laws for giving effect to international treaties, agreements and decisions taken at international conferences?",
+     "options": [
+      "Article 262",
+      "Article 253",
+      "Article 256",
+      "Article 245"
+     ],
+     "answer": 1,
+     "explanation": "Article 253 lets Parliament make laws for the whole or any part of India to implement treaties, agreements and conference decisions, even on matters otherwise in state competence. Article 245 deals with the extent of laws, Article 256 with the obligation of states to comply with Union laws, and Article 262 with adjudication of inter-state water disputes.",
+     "source": "https://www.constitutionofindia.net/articles/article-253-legislation-for-giving-effect-to-international-agreements/ ; https://blog.ipleaders.in/legislation-for-giving-effect-to-international-agreements-article-253-of-the-constitution/"
+    },
+    {
+     "type": "direct",
+     "q": "In which year did the India-South Korea Comprehensive Economic Partnership Agreement (CEPA) come into force?",
+     "options": [
+      "2010",
+      "2007",
+      "2012",
+      "2009"
+     ],
+     "answer": 0,
+     "explanation": "The India-South Korea CEPA was signed in Seoul on 7 August 2009 and took effect on 1 January 2010. The 2009 option is the signing year, not the year of entry into force.",
+     "source": "https://indembassyseoul.gov.in/cepa ; https://prod.iea.org/policies/18726-india-korea-comprehensive-economic-partnership-agreement-ikcepa"
+    },
+    {
+     "type": "direct",
+     "q": "Hyderabad House in New Delhi, the venue of the India-South Korea talks, was originally built as a residence for which ruler?",
+     "options": [
+      "Maharaja of Mysore",
+      "Nizam of Hyderabad",
+      "Nawab of Rampur",
+      "Nawab of Bhopal"
+     ],
+     "answer": 1,
+     "explanation": "Hyderabad House was built in the 1920s as a Delhi residence for the Nizam of Hyderabad and was later taken over by the Government of India, which now uses it for state functions.",
+     "source": "https://en.wikipedia.org/wiki/Hyderabad_House ; https://www.gktoday.in/hyderabad-house/ ; https://culturenow.org/site/hyderabad-house"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Indo-Pacific Oceans Initiative",
+      "II. International Solar Alliance",
+      "III. Asian Infrastructure Investment Bank",
+      "IV. Global Biofuels Alliance"
+     ],
+     "list2": [
+      "A. Headquartered in Beijing",
+      "B. Launched at COP21 in Paris",
+      "C. Launched on the sidelines of the G20 summit in New Delhi",
+      "D. Unveiled at the East Asia Summit in Bangkok"
+     ],
+     "options": [
+      "I-C, II-A, III-B, IV-D",
+      "I-A, II-C, III-D, IV-B",
+      "I-B, II-D, III-C, IV-A",
+      "I-D, II-B, III-A, IV-C"
+     ],
+     "answer": 3,
+     "explanation": "India unveiled the Indo-Pacific Oceans Initiative at the 14th East Asia Summit in Bangkok on 4 November 2019. The International Solar Alliance was launched by India and France at COP21 in Paris in 2015. The Asian Infrastructure Investment Bank is headquartered in Beijing. The Global Biofuels Alliance was launched on 9 September 2023 on the sidelines of the G20 summit in New Delhi.",
+     "source": "https://www.mea.gov.in/Portal/ForeignRelation/Indo_Feb_07_2020.pdf ; https://usiofindia.org/strategic-perspective/indo-pacific-oceans-initiative-ipoi-indias-indo-pacific-concept-translated-into-action.html ; https://unfccc.int/news/international-solar-energy-alliance-launched-at-cop21 ; https://www.downtoearth.org.in/news/energy/solar-alliance-launched-51926 ; https://www.aiib.org/en/contact/ ; https://govt.chinadaily.com.cn/s/201910/24/WS5db69f9f498ebcb19057a41b/aiib-headquarters-construction-completed-in-beijing.html ; https://newsonair.gov.in/pm-modi-launches-global-biofuels-alliance-at-g20-summit-in-new-delhi ; https://biodieselmagazine.com/articles/global-biofuels-alliance-launches-at-g20-summit"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The International Atomic Energy Agency is headquartered in Geneva, Switzerland.",
+     "reason": "The IAEA's headquarters were established in Vienna, Austria, in 1957 at the invitation of the Austrian government.",
+     "answer": 3,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "Assertion is false: the IAEA is headquartered in Vienna, not Geneva. Reason is true: at the invitation of the Government of Austria, the IAEA set up its headquarters in Vienna in 1957.",
+     "source": "https://www.iaea.org/node/16956 ; https://www.unvienna.org/unvienna/en/multi-lang-link/history/index.html"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Austria is a member of the North Atlantic Treaty Organization (NATO).",
+      "II. Austria joined the European Union in 1995."
+     ],
+     "answer": 1,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "Statement I is false: Austria has not joined NATO and keeps constitutional permanent neutrality under its 1955 law. Statement II is true: Austria joined the EU on 1 January 1995, so II only is correct.",
+     "source": "https://en.wikipedia.org/wiki/Declaration_of_Neutrality ; https://en.wikipedia.org/wiki/Foreign_relations_of_Austria ; https://www.globalsecurity.org/military/world/europe/at-forrel.htm"
+    }
+   ]
+  },
+  {
+   "title": "IPL 2026 Final and Season Awards",
+   "topic_tags": [
+    "Sports",
+    "Cricket",
+    "IPL 2026",
+    "Purple Cap"
+   ],
+   "slot": "T03P3",
+   "status": "complete",
+   "text": "Royal Challengers Bengaluru (RCB) retained the Indian Premier League (IPL) title after beating Gujarat Titans (GT) by five wickets in the IPL 2026 final at the Narendra Modi Stadium in Ahmedabad. It was RCB's second straight final, and they became only the third franchise to win back-to-back titles, after Chennai Super Kings and Mumbai Indians. They had won their first trophy in 2025.\n\nThe season had opened on 28 March at the M. Chinnaswamy Stadium in Bengaluru, where RCB hosted Sunrisers Hyderabad (SRH).\n\nBatting first in the final, GT scored 155 for eight in their 20 overs. RCB reached 161 for five in reply, with 12 balls to spare.\n\nThe two finalists had already met in Qualifier 1 at Dharamshala on Tuesday, 26 May. RCB made 254 for five and won by 92 runs. Rajat Patidar, the RCB captain, was unbeaten on 93 off 33 balls.\n\nFour teams reached the playoffs from the league stage. RCB, GT and SRH each finished on 18 points, with RCB top on net run rate. Rajasthan Royals (RR) took the last spot with 16 points. RR had sealed their place on 24 May with a 30-run win over Mumbai Indians (MI) at the Wankhede Stadium, their final league match. RR scored 205 for eight after recovering from 119 for five, and MI were held to 175 for nine. Punjab Kings and Kolkata Knight Riders were eliminated.\n\nIn the Eliminator on 27 May, RR beat SRH by 47 runs. Rajasthan made 243 for eight in 20 overs, with Rajasthan opener Vaibhav Sooryavanshi scoring 97 off 29 balls, including 12 sixes. SRH were bowled out for 196 in 19.2 overs, and their season ended there.\n\nQualifier 2 was played at Mullanpur on Friday, 29 May. Rajasthan made 214 for six, and GT reached 219 for three in 18.4 overs to win by seven wickets. Shubman Gill scored 104 off 53 balls, and the win sent GT into the final against RCB.\n\nSooryavanshi, aged 15, won the Orange Cap with 776 runs in 16 matches, becoming the youngest winner of the award. Gill finished second on the run charts, and Sai Sudharsan of Gujarat Titans third. Sooryavanshi also broke Chris Gayle's record for the most sixes in a season, surpassing the 59 Gayle hit in 2012. He was named the Most Valuable Player and the Emerging Player of the Season, and also won the Super Striker and Super Sixes awards.\n\nSai Sudharsan hit the most fours of the season, while Mohammed Siraj bowled the most dot balls of any bowler. Manish Pandey of Kolkata Knight Riders won the Catch of the Season award.",
+   "word_count": 436,
+   "sources": [
+    "https://www.thestatesman.com/sports/rcb-vs-gt-live-score-ipl-2026-final-updates-royal-challengers-bengaluru-vs-gujarat-titans-ahmedabad-1503600354.html",
+    "https://www.iplt20.com/news/article/tata-ipl-2026-final-rcb-v-gt-match-report",
+    "https://www.tribuneindia.com/news/sports/rcb-reaches-second-consecutive-ipl-final-with-92-run-win-over-gt-bowlers-skipper-patidar-shine/",
+    "https://www.outlookindia.com/sports/cricket/rcb-vs-gt-ipl-match-report-who-won-yesterday-in-indian-premier-league-2026-qualifier-1-check-result",
+    "https://www.etvbharat.com/en/sports/ipl-2026-rcb-vs-srh-in-bengaluru-on-march-28-enn26031106625",
+    "https://ianslive.in/rcb-to-host-srh-in-ipl-2026-opener-on-march-28-report--20260311193303",
+    "https://www.dailymirror.lk/breaking-news/IPL-2026-Points-Table-Group-Tables-Standings/108-336628",
+    "https://www.outlookindia.com/sports/cricket-series/ipl-2026/points-table",
+    "https://www.thestatesman.com/sports/ipl-2026-mumbai-indians-vs-rajasthan-royals-live-match-updates-mi-vs-rr-at-wankhede-1503597533.html",
+    "https://www.heraldgoa.in/?p=475988",
+    "https://www.ft.lk/sports/RR-qualify-for-IPL-2026-playoffs-PBKS-and-KKR-knocked-out/23-792375",
+    "https://wtop.com/news/2026/05/sooryavanshi-shines-as-rajasthan-beats-hyderabad-in-indian-premier-league-eliminator/",
+    "https://www.etvbharat.com/en/sports/ipl-2026-eliminator-rr-advance-into-qualifier-2-with-47-run-win-over-srh-enn26052708068",
+    "https://www.deccanherald.com/sports/cricket/ipl-2026-vaibhav-sooryavanshis-heroic-96-goes-in-vain-as-shubman-gills-104-powers-gujarat-titans-into-final-4021076",
+    "https://telanganatoday.com/rr-guillotined-gujarat-storm-into-finals-against-rcb-royals-crushed-in-7-wicket-loss",
+    "https://orgecsnew.business-standard.com/cricket/ipl/ipl-2026-orange-purple-cap-full-list-of-top-run-scorers-wicket-takers-126053100681_1.html",
+    "https://www.deccanherald.com/sports/cricket/ipl-2026-72-sixes-776-runs-the-jaw-dropping-ipl-season-of-vaibhav-sooryavanshi-4021392",
+    "https://www.heraldgoa.in/?p=476410",
+    "https://www.crictracker.com/cricket-news/ipl-2026-list-of-award-winners-and-prize-money-details-2719/"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Which franchise did Kagiso Rabada play for when he won the IPL Purple Cap in 2020?",
+     "options": [
+      "Rajasthan Royals",
+      "Gujarat Titans",
+      "Delhi Capitals",
+      "Sunrisers Hyderabad"
+     ],
+     "answer": 2,
+     "explanation": "Rabada took 30 wickets for Delhi Capitals in IPL 2020 and won the Purple Cap for that season.",
+     "source": "https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/ ; https://orgecsnew.business-standard.com/cricket/ipl/2008-to-2026-full-list-of-purple-cap-winners-in-indian-premier-league-126053100787_1.html ; https://www.wionews.com/photos/ipl-throwback-list-of-purple-cap-winners-284691"
+    },
+    {
+     "type": "direct",
+     "q": "Who won the IPL Purple Cap for the 2021 season?",
+     "options": [
+      "Yuzvendra Chahal",
+      "Harshal Patel",
+      "Mohammed Shami",
+      "Imran Tahir"
+     ],
+     "answer": 1,
+     "explanation": "Harshal Patel, playing for Royal Challengers Bangalore, took 32 wickets in IPL 2021 to win the Purple Cap.",
+     "source": "https://wisden.com/series/indian-premier-league-2021/cricket-news/ipl-2021-purple-cap-highest-wicket-takers-and-list-of-past-winners-indian-premier-league ; https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Sohail Tanvir (2008 Purple Cap)",
+      "II. RP Singh (2009 Purple Cap)",
+      "III. Bhuvneshwar Kumar (2017 Purple Cap)",
+      "IV. Imran Tahir (2019 Purple Cap)"
+     ],
+     "list2": [
+      "A. Sunrisers Hyderabad",
+      "B. Rajasthan Royals",
+      "C. Deccan Chargers",
+      "D. Chennai Super Kings"
+     ],
+     "options": [
+      "I-C, II-B, III-A, IV-D",
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-C, III-A, IV-D",
+      "I-B, II-A, III-D, IV-C"
+     ],
+     "answer": 2,
+     "explanation": "Tanvir won the 2008 Purple Cap for Rajasthan Royals, RP Singh the 2009 cap for Deccan Chargers, Bhuvneshwar Kumar the 2017 cap for Sunrisers Hyderabad and Imran Tahir the 2019 cap for Chennai Super Kings.",
+     "source": "https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/ ; https://www.wionews.com/sports/from-dwayne-bravo-to-harshal-patel-list-of-all-purple-cap-winners-in-ipl-history-421191/amp"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Virat Kohli was named Player of the Match in the IPL 2026 final.",
+     "reason": "Mohammed Shami won the IPL Purple Cap in 2024.",
+     "answer": 2,
+     "explanation": "The assertion is true: Kohli was named Player of the Match after an unbeaten 75 off 42 balls. The reason is false: Shami won the Purple Cap in 2023 with Gujarat Titans, and a different bowler won it in 2024.",
+     "truth": [
+      true,
+      false
+     ],
+     "source": "https://www.thestatesman.com/sports/rcb-vs-gt-live-score-ipl-2026-final-updates-royal-challengers-bengaluru-vs-gujarat-titans-ahmedabad-1503600354.html ; https://www.mykhel.com/cricket/bangalore-vs-gujarat-2026-final-live-score-67588/ ; https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Dwayne Bravo won the IPL Purple Cap in 2016.",
+      "II. Kagiso Rabada won the IPL Purple Cap in 2025."
+     ],
+     "answer": 3,
+     "explanation": "Neither is correct. The 2016 Purple Cap went to Bhuvneshwar Kumar, and the 2025 cap went to Prasidh Krishna.",
+     "truth": [
+      false,
+      false
+     ],
+     "source": "https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/ ; https://www.cricket.com/news/ipl-2025-full-list-of-purple-cap-winners-in-indian-premier-league-3162025-1742146865579"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. Vaibhav Sooryavanshi comes from Bihar.",
+      "II. Lasith Malinga won the IPL Purple Cap in 2011 while playing for Mumbai Indians.",
+      "III. Morne Morkel won the IPL Purple Cap in 2012 while playing for Chennai Super Kings."
+     ],
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "All of the above"
+     ],
+     "answer": 1,
+     "explanation": "Sooryavanshi is from Tajpur in Samastipur district, Bihar, and Malinga won the 2011 cap for Mumbai Indians. Morkel won the 2012 cap for Delhi Daredevils, not Chennai Super Kings.",
+     "truth": [
+      true,
+      true,
+      false
+     ],
+     "source": "https://en.wikipedia.org/wiki/Vaibhav_Sooryavanshi ; https://gulfnews.com/lifestyle/how-a-15-year-old-bihar-teenager-vaibhav-sooryavanshi-became-crickets-newest-record-breaking-force-1.500582592 ; https://cricketgeek.it.com/complete-ipl-purple-cap-winners-list/ ; https://www.wionews.com/photos/ipl-throwback-list-of-purple-cap-winners-284691"
+    }
+   ]
+  },
+  {
+   "title": "Cabinet Clears Samudra Manthan, Khelo India Revamp and PM-KISAN Extension",
+   "topic_tags": [
+    "Schemes",
+    "Union Cabinet",
+    "Samudra Manthan",
+    "Khelo India",
+    "PM-KISAN",
+    "Offshore exploration"
+   ],
+   "slot": "T03P4",
+   "status": "complete",
+   "text": "The Union Cabinet, chaired by Prime Minister Narendra Modi, approved three major decisions on Friday, 31 July 2026. Information and Broadcasting Minister Ashwini Vaishnaw briefed reporters on them. Among these was the National Offshore Exploration Scheme, named Samudra Manthan, with an outlay of ₹84,084 crore running up to FY 2030-31. It is a central sector scheme of the Ministry of Petroleum and Natural Gas.\n\nThe scheme covers the full offshore exploration chain. Its components include seismic surveys, deepwater drilling, scientific drilling in frontier basins, shared offshore production and evacuation infrastructure, and an integrated Oil and Gas Manufacturing and Services Zone. About ₹28,534 crore has been earmarked for offshore seismic data acquisition and processing, and ₹10,000 crore for common offshore production and evacuation infrastructure. The scheme also supports 60 deepwater exploration wells, with government assistance of up to 50 per cent of the eligible drilling cost of each well. Its interventions include large-scale acquisition, processing and interpretation of high-quality seismic data, and accelerated deepwater and ultra-deepwater exploratory drilling.\n\nThe government said the scheme is expected to catalyse reserve accretion of over 600 million metric tonnes of oil equivalent (MMTOE). That figure is a projection, not a confirmed discovery. The government presented the scheme as a step towards energy security, and reports linked the approval to global energy supply concerns driven by geopolitical conflicts.\n\nDrilling had already started before the approval. ONGC spudded its first deepwater exploratory well, MN-DW18-1-H-D, in the Mahanadi offshore basin on 25 July 2026 under the Samudra Manthan mission, six days before the Cabinet cleared the scheme.\n\nThe Cabinet also approved an expanded Khelo India Scheme and enhanced assistance to National Sports Federations, with a combined outlay of ₹36,441 crore for 2026-27 to 2030-31. The government described this outlay as nearly eight times that of the previous Khelo India scheme. The revamp creates a network of National Centres of Excellence, Khelo India Centres of Excellence, SAI Training Centres, Khelo India Accredited Academies, Khelo India Centres and Youth Sports Companies of the Armed Forces. The package is meant to cover talent identification, scientific training, competition exposure and Olympic preparation.\n\nTwo new school-level initiatives, Khelo India Feeder Schools and Khelo India Utkrishta Vidyalayas, will link sport with mainstream education. An Emerging Khelo India Athletes category is meant to widen the athlete pipeline. Vaishnaw said every talented youth should get a clear pathway to excellence, and that the scheme would build training facilities from the grassroots level up to the Target Olympic Podium Scheme (TOPS).\n\nThe same meeting also approved the continuation of PM-KISAN for five financial years, 2026-27 to 2030-31, with an outlay of ₹3,15,614 crore. Vaishnaw announced the decision, which keeps the income-support scheme for farmers running through the period. The Samudra Manthan and Khelo India decisions were taken at the same meeting.",
+   "sources": [
+    "https://www.outlookbusiness.com/economy-and-policy/cabinet-approves-rs-84084-crore-for-samudra-manthan-scheme-to-boost-offshore-oil-gas-exploration",
+    "https://ianslive.in/cabinet-okays-samudra-manthan-scheme-with-rs-84084-crore-outlay-to-boost-oil-exploration--20260731162703",
+    "https://www.deccanchronicle.com/nation/current-affairs/cabinet-approves-rs-84084-cr-samudra-manthan-scheme-to-explore-offshore-oil-and-gas-exploration-1975557",
+    "https://www.outlookindia.com/national/samudra-manthan-how-84084-cr-scheme-aims-to-unlock-offshore-energy",
+    "https://www.outlookbusiness.com/news/ongc-starts-drilling-first-deepwater-well-in-mahanadi-basin-under-samudra-manthan-mission",
+    "https://www.deccanchronicle.com/amp/business/ongc-begins-first-deepwater-well-drilling-in-mahanadi-basin-under-samudra-manthan-mission-1973914",
+    "https://newsonair.gov.in/cabinet-approves-expanded-khelo-india-scheme-with-%E2%82%B936441-crore-outlay/",
+    "https://www.scconline.com/blog/post/2026/08/06/cabinet-approves-revamped-khelo-india-scheme/",
+    "https://www.policyedge.in/p/revamped-khelo-india-scheme-creates-a-pathway-from-schools-to-olympic-preparation",
+    "https://deccanherald.com/india/cabinet-approves-extension-of-pm-kisan-scheme-till-fy31-with-outlay-of-rs-315-lakh-crore-4094567",
+    "https://ianslive.in/govt-working-towards-our-welfare-farmers-on-cabinets-decision-to-continue-pm-kisan-scheme--20260731205622"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "ONGC began drilling its first deepwater exploratory well under the Samudra Manthan mission in the Mahanadi offshore basin in July 2026. On which Indian state's coast does the Mahanadi basin lie?",
+     "options": [
+      "Tamil Nadu",
+      "Odisha",
+      "Andhra Pradesh",
+      "Gujarat"
+     ],
+     "answer": 1,
+     "explanation": "The Mahanadi basin lies off the Odisha coast; ONGC's Konark discovery is also off Odisha. The passage does not state the state.",
+     "source": "https://www.ft.lk/front-page/ONGC-starts-India-s-first-deepwater-exploration-well-off-Odisha-coast/44-795282 ; https://www.outlookbusiness.com/news/ongc-starts-drilling-first-deepwater-well-in-mahanadi-basin-under-samudra-manthan-mission"
+    },
+    {
+     "type": "direct",
+     "q": "The National Sports Policy 2025 (Khelo Bharat Niti) aims to make India one of the top five sporting nations by which year?",
+     "options": [
+      "2047",
+      "2050",
+      "2036",
+      "2040"
+     ],
+     "answer": 0,
+     "explanation": "The policy's stated goal is to make India one of the top five sporting nations by 2047. 2036 is the year linked to India's Olympic bid, not the policy target.",
+     "source": "https://thebridge.in/news/national-sports-policy-2025-approved-53718 ; https://www.theweek.in/news/sports/2025/07/01/union-cabinet-gives-nod-to-national-sports-policy-2025-as-india-eyes-2036-olympics.amp.html"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. PM-KISAN",
+      "II. Target Olympic Podium Scheme",
+      "III. Khelo India Scheme",
+      "IV. National Sports Policy 2025"
+     ],
+     "list2": [
+      "A. 2014",
+      "B. 2016-17",
+      "C. 2019",
+      "D. 2025"
+     ],
+     "options": [
+      "I-C, II-A, III-B, IV-D",
+      "I-A, II-C, III-B, IV-D",
+      "I-C, II-B, III-A, IV-D",
+      "I-B, II-A, III-C, IV-D"
+     ],
+     "answer": 0,
+     "explanation": "PM-KISAN was launched on 24 February 2019; the Target Olympic Podium Scheme was launched in September 2014; Khelo India was launched in 2016-17 by merging three older schemes; the National Sports Policy 2025 was approved by the Cabinet on 1 July 2025.",
+     "source": "https://icar.org.in/en/node/11512 ; https://saijobs.sportsauthorityofindia.gov.in/index1.asp?ls_id=3812 ; https://www.impriindia.com/insights/policy-update/khelo-india-2016/ ; https://www.tribuneindia.com/news/mandaviya/union-cabinet-approves-national-sports-policy-2025-says-it-will-establish-india-as-formidable-force-in-global-sports"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "ONGC began drilling its first deepwater exploratory well in the Mahanadi offshore basin in July 2026.",
+     "reason": "Article 282 of the Constitution allows the Union or a State to make grants for any public purpose, even outside its legislative subjects.",
+     "answer": 1,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both statements are true, but Article 282 concerns the power to make grants and does not explain why the well was drilled.",
+     "source": "https://www.outlookbusiness.com/news/ongc-starts-drilling-first-deepwater-well-in-mahanadi-basin-under-samudra-manthan-mission ; https://www.constitutionofindia.net/articles/article-282-expenditure-defrayable-by-the-union-or-a-state-out-of-its-revenues/ ; https://www.livelaw.in/amp/columns/a-long-standing-discord-on-article-282-223997"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. The Krishna-Godavari basin lies off the coast of Tamil Nadu.",
+      "II. The Cauvery basin lies off the coast of West Bengal."
+     ],
+     "truth": [
+      false,
+      false
+     ],
+     "answer": 3,
+     "explanation": "The Krishna-Godavari basin lies off the Andhra Pradesh coast, near Kakinada. The Cauvery basin lies off Tamil Nadu and Puducherry. Both statements are false, so the answer is neither.",
+     "source": "https://thesouthfirst.com/news/oil-production-starts-at-krishna-godavari-basins-deep-water-block-in-the-bay-of-bengal ; https://compass.rauias.com/current-affairs/oil-production-krishna-godavari-deep-sea-project-ongc/ ; https://indianinfrastructure.com/2019/10/16/ongc-proposes-drilling-24-wells-in-cauvery-basin-in-tamil-nadu/ ; https://www.clearias.com/sedimentary-basins-of-india/"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The 2030 Commonwealth Games will be hosted by Ahmedabad.",
+      "2. PM-KISAN pays Rs 12,000 per year to eligible farmer families.",
+      "3. The Target Olympic Podium Scheme was launched by the Ministry of Health and Family Welfare.",
+      "4. The National Sports Policy 2025 was approved by the Union Cabinet in 2023."
+     ],
+     "mode": "correct",
+     "answer": 0,
+     "explanation": "Only statement 1 is correct. Ahmedabad was formally awarded the 2030 Commonwealth Games on 26 November 2025. PM-KISAN pays Rs 6,000 a year in three instalments of Rs 2,000. TOPS was launched by the Ministry of Youth Affairs and Sports. The National Sports Policy 2025 was approved by the Cabinet on 1 July 2025.",
+     "source": "https://www.deccanherald.com/india/gujarat/ahmedabad-formally-awarded-hosting-rights-for-2030-commonwealth-games-3811206 ; https://www.thehitavada.com/Encyc/2025/11/27/its-official-ahmedabad-formally-awarded-hosting-rights-of-2030-cwg.html ; https://icar.org.in/en/node/11512 ; https://www.drishtiias.com/pdf/1783953805.pdf ; https://www.iasgyan.in/daily-current-affairs/target-olympic-podium-schemetops ; https://thebridge.in/news/national-sports-policy-2025-approved-53718 ; https://www.theweek.in/news/sports/2025/07/01/union-cabinet-gives-nod-to-national-sports-policy-2025-as-india-eyes-2036-olympics.amp.html"
+    }
+   ]
+  },
+  {
+   "title": "Former Army chief dies; new minority panel chair and CBDT chief named",
+   "topic_tags": [
+    "appointments",
+    "obituaries",
+    "National Commission for Minorities",
+    "CBDT",
+    "NITI Aayog",
+    "Foreign Secretary",
+    "July 2026"
+   ],
+   "slot": "T03P5",
+   "text": "Gen Vishwa Nath Sharma (retd), a former Chief of the Army Staff, died on Friday, 31 July 2026, the Indian Army said. He was the younger brother of Major Somnath Sharma, India's first Param Vir Chakra awardee. He led the Army from 1988 to 1990. Defence Minister Rajnath Singh expressed grief over the demise of the former Chief of the Army Staff. His last rites were performed with full military honours at Brar Square in Delhi Cantonment on Saturday, 1 August 2026.\n\nThe Centre has nominated Harjit Singh Grewal as Chairperson of the National Commission for Minorities. A Ministry of Minority Affairs notification dated 16 July 2026 also named S. Munawari Begum as Vice-Chairperson and Glenn E. Souza Ticlo as Member. The three will serve for three years from the date they assume office, or until further orders, whichever is earlier. Grewal assumed charge in New Delhi on 21 July 2026, days after the order.\n\nOn 30 June 2026, the Appointments Committee of the Cabinet approved the reappointment of Ravi Agrawal as Chairman of the Central Board of Direct Taxes on a contract basis. Agrawal, a 1988-batch Indian Revenue Service officer, was due to retire on 30 June. The six-month extension took effect on 1 July 2026 and runs until December 2026. A senior finance ministry official said the move was aimed at ensuring continuity in direct tax policy formulation and enabling certain special initiatives.\n\nOn 22 July 2026, the Appointments Committee of the Cabinet named Anurag Jain, a 1989-batch IAS officer of the Madhya Pradesh cadre, as Chief Executive Officer of NITI Aayog. His tenure is two years or until further orders, whichever is earlier. Jain had been Chief Secretary of Madhya Pradesh. Ashok Barnwal, a 1991-batch IAS officer of the same cadre, took over as the state's Chief Secretary in late July 2026.\n\nOn 1 July 2026, the Appointments Committee of the Cabinet approved a one-year extension for Foreign Secretary Vikram Misri, a 1989-batch Indian Foreign Service officer. His service now runs until 14 July 2027, or until further orders, whichever comes first. The extension came beyond his original tenure, which ended on 14 July 2026. Reports described the decision as a signal of continuity amid global challenges.\n\nVarsha Ashok Aglawe succeeded Asit Saha as Director General of the Geological Survey of India, becoming the first woman to lead the organisation in its 176-year history. Separately, the Ministry of Corporate Affairs made Justice (retd) Yogesh Khanna, a Member (Judicial) of the National Company Law Appellate Tribunal, its officiating Chairperson for three months from 5 July 2026, or until a regular Chairperson is appointed. The notification followed the end of Justice Ashok Bhushan's term on 4 July 2026.",
+   "sources": [
+    "https://www.deccanherald.com/india/former-army-chief-gen-vishwa-nath-sharma-passes-away-at-96-4094515",
+    "https://theprint.in/india/former-army-chief-gen-vishwa-nath-sharma-passes-away-at-96/3002369/",
+    "https://telanganatoday.com/former-army-chief-gen-vishwa-nath-sharma-dies-at-96",
+    "https://www.thehitavada.com//Encyc/2026/8/1/former-army-chief-gen-sharma-no-more.html",
+    "https://newsonair.gov.in/defence-minister-rajnath-singh-expresses-grief-over-demise-of-former-coas-general-vishwa-nath-sharma/",
+    "https://newsonair.gov.in/indian-army-bids-farewell-to-former-army-chief-general-v-n-sharma-with-full-military-honours/",
+    "https://www.scconline.com/blog/post/2026/07/18/new-members-nominated-for-national-commission-for-minorities/",
+    "https://newsonair.gov.in/commission-remains-committed-to-addressing-genuine-grievances-chairman-ncm/",
+    "https://www.gktoday.in/fact-box-harjit-singh-grewal-the-new-national-commission-for-minorities-chief/",
+    "https://www.deccanherald.com/india/centre-extends-cbdt-chairman-ravi-agrawals-tenure-by-6-months-4057153",
+    "https://www.outlookbusiness.com/news/centre-extends-cbdt-chairman-ravi-agrawals-tenure-by-6-months",
+    "https://www.drishtiias.com/state-pcs-current-affairs/ravi-agrawal-reappointed-as-cbdt-chairman/print_manually",
+    "https://www.drishtiias.com/state-pcs-current-affairs/anurag-jain-appointed-ceo-of-niti-aayog/print_manually",
+    "https://www.etvbharat.com/en/bharat/anurag-jain-appointed-as-niti-aayog-ceo-enn26072208226",
+    "https://www.thehitavada.com//Encyc/2026/7/24/senior-ias-officer-ashok-barnwal-assumes-charge-as-36th-chief-secy-of-mp.html",
+    "https://www.freepressjournal.in/bhopal/ashok-barnwal-takes-over-as-chief-secretary-of-the-state-jain-relieved",
+    "https://ianslive.in/foreign-secretary-vikram-misris-tenure-extended-by-a-year-amid-global-challenges--20260701202308",
+    "https://www.deccanchronicle.com/amp/nation/foreign-secretary-vikram-misris-tenure-extended-by-one-year-1967634",
+    "https://www.etvbharat.com/en/bharat/foreign-secy-vikram-misri-gets-extension-till-july-14-2027-enn26070106724",
+    "https://www.drishtiias.com/state-pcs-current-affairs/varsha-ashok-aglawe-becomes-first-woman-director-general-of-gsi",
+    "https://swarajyamag.com/amp/story/culture/varsha-ashok-aglawe-becomes-first-woman-to-head-geological-survey-of-india-in-its-176-year-history",
+    "https://www.gktoday.in/varsha-ashok-aglawe-becomes-first-woman-gsi-director-general/",
+    "https://www.scconline.com/blog/post/2026/07/09/justice-yogesh-khanna-appointment-nlclat-officiating-chairperson/",
+    "https://www.barandbench.com/news/law-policy/justice-yogesh-khanna-appointed-nclat-officiating-chairperson"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "How many religious communities have been notified as minorities at the Centre's level in India?",
+     "options": [
+      "Five",
+      "Four",
+      "Seven",
+      "Six"
+     ],
+     "answer": 3,
+     "explanation": "Six communities are notified as minorities: Muslims, Christians, Sikhs, Buddhists, Zoroastrians (Parsis) and Jains. Jains were notified in 2014, after the original five.",
+     "source": "https://vajiramandravi.com/current-affairs/minority-communities-in-india/ ; https://eparlib.nic.in/bitstream/123456789/770038/1/AU4276.pdf"
+    },
+    {
+     "type": "direct",
+     "q": "Under which Article of the Constitution of India is the supreme command of the Union's armed forces vested in the President?",
+     "options": [
+      "Article 74",
+      "Article 77",
+      "Article 52",
+      "Article 53"
+     ],
+     "answer": 3,
+     "explanation": "Article 53(2) vests the supreme command of the Defence Forces of the Union in the President, with its exercise regulated by law. Article 74 concerns the Council of Ministers' aid and advice.",
+     "source": "https://www.constitutionofindia.net/articles/article-53-executive-power-of-the-union/ ; https://future.indiankanoon.org/doc/1597349"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Central Board of Direct Taxes functions under the Department of Revenue in the Ministry of Finance.",
+     "reason": "The CBDT was constituted under Article 30 of the Constitution of India.",
+     "answer": 2,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "The assertion is true: CBDT sits under the Department of Revenue, Ministry of Finance. The reason is false: the CBDT is a statutory board created under the Central Boards of Revenue Act, 1963, not under the Constitution.",
+     "source": "https://en.wikipedia.org/wiki/Central_Board_of_Direct_Taxes ; https://dor.gov.in/about-department"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Election Commission of India",
+      "II. Inter-State Council",
+      "III. National Commission for Scheduled Castes",
+      "IV. Finance Commission"
+     ],
+     "list2": [
+      "A. Article 263",
+      "B. Article 280",
+      "C. Article 324",
+      "D. Article 338"
+     ],
+     "options": [
+      "I-C, II-A, III-D, IV-B",
+      "I-B, II-D, III-A, IV-C",
+      "I-D, II-B, III-C, IV-A",
+      "I-A, II-C, III-B, IV-D"
+     ],
+     "answer": 0,
+     "explanation": "Article 324 vests superintendence, direction and control of elections in the Election Commission (I-C). Article 263 provides for an Inter-State Council (II-A). Article 338 establishes the National Commission for Scheduled Castes (III-D). Article 280 provides for the Finance Commission (IV-B).",
+     "source": "https://www.constitutionofindia.net/articles/article-263-provisions-with-respect-to-an-inter-state-council/ ; https://www.constitutionofindia.net/articles/article-280-finance-commission ; https://www.constitutionofindia.net/articles/article-324-superintendence-direction-and-control-of-elections-to-be-vested-in-an-election-commission/ ; https://ncst.nic.in/page/constitution-eighty-ninth-amendment-act-2003"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. A Governor is appointed by the President by warrant under his hand and seal.",
+      "II. A Governor holds office for a term of five years from the date of entering office, subject to the pleasure of the President.",
+      "III. A person is eligible for appointment as Governor on completing 30 years of age."
+     ],
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "All of the above"
+     ],
+     "answer": 0,
+     "explanation": "Statements I and II are correct under Articles 155 and 156. Statement III is wrong: Article 157 requires completion of 35 years of age, so only I and II are correct.",
+     "source": "https://haryanarajbhavan.gov.in/?p=6736 ; https://vajiramandravi.com/quest-upsc-notes/governor"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The Vice-President of India is elected by an electoral college consisting of the members of both Houses of Parliament.",
+      "2. The Deputy Chairman of the Rajya Sabha is elected by the members of the Rajya Sabha from among themselves.",
+      "3. The Speaker of the Lok Sabha is chosen by the members of the Lok Sabha from among themselves.",
+      "4. The members of the Union Public Service Commission are appointed by the Prime Minister."
+     ],
+     "mode": "correct",
+     "answer": 2,
+     "explanation": "Statements 1, 2 and 3 are correct under Articles 66, 89 and 93. Statement 4 is incorrect: under Article 316 the President appoints the UPSC chairman and members. Exactly three statements are correct, so the answer is Only three.",
+     "source": "https://www.constitutionofindia.net/articles/article-66-election-of-vice-president/ ; https://www.legislative.gov.in/static/uploads/2025/07/288b285129a41d9fbe4c7c9c517e1629.pdf ; https://www.constitutionofindia.net/articles/article-93-the-speaker-and-deputy-speaker-of-the-house-of-the-people ; https://future.indiankanoon.org/doc/317644"
+    }
+   ]
+  }
+ ]
+}

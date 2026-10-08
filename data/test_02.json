@@ -35,12 +35,12 @@
      "type": "direct",
      "q": "The landmark Supreme Court judgment that recognised the right to self-perceived gender identity was delivered in which year?",
      "options": [
-      "2018",
+      "2009",
       "2020",
-      "2014",
-      "2009"
+      "2018",
+      "2014"
      ],
-     "answer": 2,
+     "answer": 3,
      "explanation": "The NALSA judgment, which upheld self-perceived gender identity and recognised a third gender, was delivered in 2014. The 2019 Act was enacted to build on it. The passage does not give the year.",
      "source": "https://en.wikipedia.org/wiki/Transgender_Persons_(Protection_of_Rights)_Act,_2019"
     },
@@ -48,9 +48,9 @@
      "type": "direct",
      "q": "Under which Article of the Constitution of India does the President give or withhold assent to a Bill passed by Parliament?",
      "options": [
+      "Article 110",
       "Article 113",
       "Article 112",
-      "Article 110",
       "Article 111"
      ],
      "answer": 3,
@@ -72,12 +72,12 @@
       "D. Protection of life and personal liberty"
      ],
      "options": [
-      "I-A, II-C, III-D, IV-B",
       "I-C, II-A, III-B, IV-D",
       "I-D, II-B, III-C, IV-A",
+      "I-A, II-C, III-D, IV-B",
       "I-B, II-D, III-A, IV-C"
      ],
-     "answer": 2,
+     "answer": 1,
      "explanation": "Article 21 protects life and personal liberty; Article 32 lets a person move the Supreme Court for enforcement of Part III rights; Article 111 covers assent to Bills; Article 368 sets the amendment procedure.",
      "source": "https://en.wikipedia.org/wiki/Article_21_of_the_Constitution_of_India | https://en.vikaspedia.in/viewcontent/education/law-and-constitution/article-32-of-the-indian-constitution | https://www.constitutionofindia.net/articles/article-111-assent-to-bills | https://www.constitutionofindia.net/articles/article-368-power-of-parliament-to-amend-the-constitution/"
     },
@@ -149,12 +149,12 @@
      "type": "direct",
      "q": "Under which Article of the Constitution of India is the Supreme Court declared a court of record, with power to punish for contempt of itself?",
      "options": [
-      "Article 142",
       "Article 124",
-      "Article 136",
-      "Article 129"
+      "Article 129",
+      "Article 142",
+      "Article 136"
      ],
-     "answer": 3,
+     "answer": 1,
      "explanation": "Article 129 declares the Supreme Court a Court of Record with power to punish for contempt of itself. The passage does not mention the Article. Article 124 sets the qualifications for Supreme Court judges, as the Article 76 commentary notes, and is not the court-of-record provision.",
      "source": "https://www.constitutionofindia.net/articles/article-129-supreme-court-to-be-a-court-of-record/"
     },
@@ -162,12 +162,12 @@
      "type": "direct",
      "q": "For appointment as Attorney General for India, the Constitution requires qualifications equal to those required for a judge of which court?",
      "options": [
+      "Supreme Court judge",
       "Comptroller and Auditor General",
       "Election Commission member",
-      "Supreme Court judge",
       "High Court judge"
      ],
-     "answer": 2,
+     "answer": 0,
      "explanation": "Article 76 ties eligibility for the office of Attorney General to the qualifications for appointment as a Supreme Court judge, which are set out in Article 124. The passage names the Attorney General but does not state the eligibility rule.",
      "source": "https://www.constitutionofindia.net/articles/article-76-attorney-general-for-india/"
     },
@@ -196,8 +196,8 @@
      "options": [
       "I-B, II-C, III-D, IV-A",
       "I-D, II-A, III-B, IV-C",
-      "I-C, II-B, III-A, IV-D",
-      "I-A, II-D, III-C, IV-B"
+      "I-A, II-D, III-C, IV-B",
+      "I-C, II-B, III-A, IV-D"
      ],
      "answer": 1,
      "explanation": "Article 32 gives the Supreme Court power to issue writs for enforcement of Part III rights (I-D). Article 76 provides for the Attorney General (II-A). Article 129 makes the Supreme Court a court of record (III-B). Article 215 makes each High Court a court of record (IV-C). Sources: Article 32 bare act, Article 76, Article 129 and Article 215 pages.",
@@ -256,12 +256,12 @@
      "type": "direct",
      "q": "In which year did the Government of India officially declare the cheetah extinct in the country?",
      "options": [
+      "1947",
       "1961",
-      "1952",
       "1972",
-      "1947"
+      "1952"
      ],
-     "answer": 1,
+     "answer": 3,
      "explanation": "The cheetah was officially declared extinct in India in 1952. The passage refers to the species only as having been absent for decades, so the year must come from outside the passage.",
      "source": "https://news.yahoo.com/animal-declared-extinct-india-1952-230654142.html"
     },
@@ -280,12 +280,12 @@
       "D. 6,517"
      ],
      "options": [
-      "I-B, II-A, III-D, IV-C",
-      "I-D, II-B, III-A, IV-C",
       "I-A, II-C, III-B, IV-D",
-      "I-A, II-B, III-C, IV-D"
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-A, III-D, IV-C",
+      "I-D, II-B, III-A, IV-C"
      ],
-     "answer": 3,
+     "answer": 1,
      "explanation": "The Asiatic cheetah (A. j. venaticus) is found in Iran and is rated Critically Endangered by the IUCN. The cheetah species as a whole is rated Vulnerable, with an estimated 6,517 mature individuals in the 2021 assessment.",
      "source": "https://www.cms.int/sites/default/files/document/cites-cms_aci2_inf.10_cheetah-iucn-red-list_e.pdf ; https://wwf.org.uk/node/44961"
     },
@@ -349,10 +349,10 @@
      "type": "direct",
      "q": "On what date did B. R. Ambedkar convert to Buddhism in a mass ceremony at Deekshabhoomi, Nagpur?",
      "options": [
-      "14 April 1956",
       "6 December 1956",
+      "26 January 1950",
       "14 October 1956",
-      "26 January 1950"
+      "14 April 1956"
      ],
      "answer": 2,
      "explanation": "Ambedkar converted to Buddhism at Deekshabhoomi in Nagpur on 14 October 1956; the annual observance is Dhammachakra Pravartan Din. The other options are distractors and are not supported by the source.",
@@ -362,12 +362,12 @@
      "type": "direct",
      "q": "In which year was the Sahitya Akademi, India's National Academy of Letters, formally inaugurated by the Government of India?",
      "options": [
-      "1947",
-      "1952",
       "1956",
-      "1954"
+      "1954",
+      "1952",
+      "1947"
      ],
-     "answer": 3,
+     "answer": 1,
      "explanation": "The Akademi's official website states it was formally inaugurated on 12 March 1954. It was registered as a society under the Societies Registration Act, 1860 on 7 January 1956, which is why 1956 is a distractor.",
      "source": "https://www.sahitya-akademi.gov.in/aboutus/about.jsp"
     },
@@ -394,12 +394,12 @@
       "D. Arundhati Roy"
      ],
      "options": [
-      "I-C, II-D, III-B, IV-A",
       "I-A, II-B, III-C, IV-D",
       "I-B, II-A, III-D, IV-C",
-      "I-D, II-C, III-A, IV-B"
+      "I-D, II-C, III-A, IV-B",
+      "I-C, II-D, III-B, IV-A"
      ],
-     "answer": 0,
+     "answer": 3,
      "explanation": "Rushdie won the Booker Prize in 1981 for Midnight's Children; Arundhati Roy won in 1997 for The God of Small Things; Jhabvala won in 1975 for Heat and Dust; William Golding won in 1980 for Rites of Passage.",
      "source": "https://en.wikipedia.org/wiki/List_of_winners_and_nominated_authors_of_the_Booker_Prize"
     },
@@ -459,12 +459,12 @@
      "type": "direct",
      "q": "In which year was the island that hosted the 8 May 2026 Agni trial renamed Dr APJ Abdul Kalam Island?",
      "options": [
-      "2009",
       "2015",
+      "2009",
       "2019",
       "2003"
      ],
-     "answer": 1,
+     "answer": 0,
      "explanation": "The island, formerly Wheeler Island, was renamed on 4 September 2015 to honour former President APJ Abdul Kalam.",
      "source": "https://en.wikipedia.org/wiki/Abdul_Kalam_Island"
     },
@@ -472,12 +472,12 @@
      "type": "direct",
      "q": "On which date was the Strategic Forces Command, which conducted the 22 May 2026 Agni-1 test, created?",
      "options": [
-      "17 August 1999",
-      "25 January 2002",
       "15 August 2003",
-      "4 January 2003"
+      "17 August 1999",
+      "4 January 2003",
+      "25 January 2002"
      ],
-     "answer": 3,
+     "answer": 2,
      "explanation": "The Cabinet Committee on Security approved the creation of the Strategic Forces Command, with a Commander-in-Chief, on 4 January 2003.",
      "source": "https://en.wikipedia.org/wiki/Strategic_Forces_Command"
     },
@@ -496,12 +496,12 @@
       "D. Chaired by the Prime Minister"
      ],
      "options": [
-      "I-D, II-A, III-B, IV-C",
       "I-B, II-A, III-C, IV-D",
-      "I-A, II-B, III-D, IV-C",
-      "I-A, II-D, III-B, IV-C"
+      "I-D, II-A, III-B, IV-C",
+      "I-A, II-D, III-B, IV-C",
+      "I-A, II-B, III-D, IV-C"
      ],
-     "answer": 3,
+     "answer": 2,
      "explanation": "The Executive Council is chaired by the National Security Adviser and the Political Council by the Prime Minister. The island lies in Bhadrak district, and Agni-I is a single-stage, solid-fuel missile.",
      "source": "https://www.globalsecurity.org/wmd/world/india/nuclearcommandauthority.htm ; https://en.wikipedia.org/wiki/Nuclear_Command_Authority_(India) ; https://en.wikipedia.org/wiki/Abdul_Kalam_Island ; https://en.wikipedia.org/wiki/Agni-I"
     },

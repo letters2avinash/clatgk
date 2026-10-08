@@ -8,30 +8,42 @@ Rules enforced on the final 1..N answer sequence:
   - each of A-D is 20-30% of answers (when N >= 20); falls back to 15-35% and says so
   - no 3 identical answers in a row
   - no 3 consecutive answers stepping by +1 or -1 around A-B-C-D (ABC, BCD, CDA, DAB, DCB, CBA, BAD, ADC)
+  - (strict tier, tried first) no 4 consecutive answers that are all different, e.g. ABCD, DBCA
   - no window of 4 immediately repeated (e.g. ABAB..., ABCDABCD)
 """
 import json, random, re, sys, hashlib
 
 BAD_OPT = re.compile(r"\b(above|both|all of|none of|neither)\b", re.I)
+PIN = re.compile(r"\b(all|none) of the above\b", re.I)
+
+
+def pinned_idx(q):
+    return [i for i, o in enumerate(q["options"]) if PIN.search(o)]
 LETTER_REF = re.compile(r"\(([A-D])\)|\boption ([A-D])\b", re.I)
 
 def shufflable(q):
     t = q["type"]
     if t not in ("direct", "match", "statement_multi"):
         return False
-    if any(BAD_OPT.search(o) for o in q["options"]):
+    if any(BAD_OPT.search(o) and not PIN.search(o) for o in q["options"]):
+        return False
+    if q["answer"] in pinned_idx(q):
         return False
     if LETTER_REF.search(q.get("explanation", "")):
         return False
     return True
 
-def violations(seq, band=(0.2, 0.3)):
+def violations(seq, band=(0.2, 0.3), strict=False):
     n = len(seq); out = []
     for i in range(n - 2):
         a, b, c = seq[i:i + 3]
         if a == b == c: out.append(f"3 identical at Q{i+1}")
         if (b - a) % 4 == 1 and (c - b) % 4 == 1: out.append(f"ascending cycle at Q{i+1}")
         if (b - a) % 4 == 3 and (c - b) % 4 == 3: out.append(f"descending cycle at Q{i+1}")
+    if strict:
+        for i in range(n - 3):
+            if len(set(seq[i:i + 4])) == 4:
+                out.append(f"four different answers in a row at Q{i+1}")
     for i in range(n - 7):
         if seq[i:i + 4] == seq[i + 4:i + 8]: out.append(f"repeated 4-block at Q{i+1}")
     if n >= 20:
@@ -44,14 +56,15 @@ def flat(data):
     return [q for p in data["passages"] for q in p["questions"]]
 
 def balance(data, tries=200000):
-    for band in ((0.2, 0.3), (0.15, 0.35)):
-        ok, seq = _balance(data, tries, band)
-        if ok:
-            return True, seq, band
+    for strict in (True, False):
+        for band in ((0.2, 0.3), (0.15, 0.35)):
+            ok, seq = _balance(data, tries, band, strict)
+            if ok:
+                return True, seq, (band, "strict" if strict else "loose")
     return False, seq, None
 
 
-def _balance(data, tries, band):
+def _balance(data, tries, band, strict):
     qs = flat(data)
     seed = int(hashlib.sha256(data["title"].encode()).hexdigest(), 16) % (2**32)
     rng = random.Random(seed)
@@ -61,8 +74,8 @@ def _balance(data, tries, band):
     for _ in range(tries):
         seq = base[:]
         for i in free:
-            seq[i] = rng.randrange(4)
-        v = violations(seq, band)
+            seq[i] = rng.randrange(4 - len(pinned_idx(qs[i])))
+        v = violations(seq, band, strict)
         if not v:
             best = seq; break
     if best is None:
@@ -70,9 +83,10 @@ def _balance(data, tries, band):
     for i in free:
         q = qs[i]; target = best[i]
         opts = q["options"]; right = opts[q["answer"]]
+        pins = [opts[j] for j in pinned_idx(q)]
         order = list(range(4)); rng.shuffle(order)
-        others = [opts[j] for j in order if opts[j] != right]
-        new = others[:target] + [right] + others[target:]
+        others = [opts[j] for j in order if opts[j] != right and opts[j] not in pins]
+        new = others[:target] + [right] + others[target:] + pins
         q["options"] = new; q["answer"] = target
     return True, best
 
