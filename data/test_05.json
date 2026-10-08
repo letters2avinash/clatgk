@@ -1,0 +1,665 @@
+{
+ "title": "CLAT GK - Test 05",
+ "date": "2026-10-08",
+ "duration_minutes": 50,
+ "marks_correct": 1,
+ "marks_wrong": -0.25,
+ "notes": "Generated with Haiku 5.5, then independently verified question by question by separate Sonnet agents using fresh searches (two-source rule; claims that could not be confirmed were removed or reworded; ambiguous, unchecked or overlapping questions were dropped). Several primary sources were unreachable, so residual risk is listed below. Not reviewed by a human.",
+ "residual": [
+  "Passage 1: the Tamil Nadu elephant-corridor notification is backed only by exam-prep aggregators plus one newspaper; the Article 14/32 match items and the fundamental-duties question rest on legal and exam-prep sites (constitution text not retrieved); the Ramsar Convention fact was not confirmed on ramsar.org.",
+  "Passage 2: the Sahitya Akademi 1954 date rests on the official site plus Wikipedia; the Phalke 1969 date on Wikipedia, the DFF page and a PIB note.",
+  "Passage 3 is short (about 297 words); the 'Foreign Training Node' name and the Mountain Guardian details all trace back to one official release carried by UNI, GKToday and AIR.",
+  "Passage 4: the 9.1% services-growth figure rests on Deccan Chronicle and the FM's statement via AIR (a thinner pairing); the core-sector figure is the provisional release (the official December figure was later revised to 4.7%).",
+  "Passage 5: the opening-ceremony detail rests mostly on pre-event previews (photo captions confirm it took place).",
+  "Static-GK explanations cite Wikipedia or exam-prep pages in places where a primary text was not reachable."
+ ],
+ "passages": [
+  {
+   "title": "Glaw Lake and Elephant Corridor Orders",
+   "topic_tags": [
+    "environment",
+    "biodiversity",
+    "ramsar",
+    "elephant corridors",
+    "wetlands",
+    "August 2026"
+   ],
+   "slot": "T05P1",
+   "status": "complete",
+   "text": "Glaw Lake in Arunachal Pradesh has been designated a Ramsar site, the Union Environment Ministry announced on 3 August 2026. Ramsar designation recognises a wetland as being of international importance. The lake is India's 101st Ramsar site and the first in Arunachal Pradesh. The Ministry's press release confirmed the designation. Union Environment Minister Bhupender Yadav said India's Ramsar network had grown from 26 sites in 2014 to 101 sites, describing the designation as a significant milestone for the state.\n\nThe lake lies within the Kamlang Tiger Reserve and Wildlife Sanctuary in Lohit district, near the town of Wakro, and is fed by perennial mountain streams. The Mishmi community regards the lake as sacred. The Ministry said the designation would strengthen biodiversity conservation, climate resilience, water security and sustainable livelihoods for communities that depend on the wetland.\n\nElephant corridors also drew attention this month. On 17 August 2026, the Supreme Court directed the Union Environment Ministry to conduct a fresh nationwide survey of elephant corridors and to report on obstructions within them, in a matter raised by conservationist Prerna Singh Bindra. The Court also asked for a report on the steps taken to prevent such obstructions. The bench, headed by Chief Justice Surya Kant, said states could not justify barriers in corridors by pointing to crop damage, and that no state could block the traditional routes of elephants. The court prohibited the use of fireballs and mashaals, or torches, to drive elephants away from human-dominated areas, and directed state authorities to enforce its directions.\n\nThe court's concern follows a 2023 Wildlife Institute of India report that counted 150 elephant corridors across the country, against 88 listed in the 2010 Elephant Task Force report. The report, compiled by the Elephant Cell of the institute and based on ground validation, found that elephant use had increased in 59 corridors and remained stable in 29, while 29 others were being used with decreasing frequency. It also found that 15 corridors were impaired and needed restoration, and that no information was available on the current use of another 18. The East-Central region held the largest number of corridors at 52, followed by the Northeast with 48, the South with 32 and the North with 18.\n\nIn late August 2026, Tamil Nadu notified three elephant corridors in the Hosur forest division, in the Cauvery North Wildlife Sanctuary. The notification followed proceedings before the Madras High Court on the identification of corridors in the state. The three corridors are the Jawalagiri-Thaggatti, Jawalagiri-Anchetty and Bilikkal-Jawalagiri corridors. They sit on the trans-Cauvery route used by elephants moving between Tamil Nadu and Karnataka.",
+   "sources": [
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2294036&reg=48&lang=1",
+    "https://arunachaltimes.in/index.php/2026/08/04/glaw-lake-is-arunachals-first-ramsar-site/",
+    "https://www.aninews.in/news/national/general-news/india-gets-101st-ramsar-site-in-arunachal-pradeshs-glaw-lake20260805095851/",
+    "https://www.deccanherald.com/amp/story/india/arunachal-pradesh/glaw-lake-recognised-as-indias-101st-arunachal-pradeshs-first-ramsar-site-tag-boost-for-conservation-tourism-4099112",
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/glaw-lake-becomes-indias-101st-ramsar-site",
+    "https://www.aninews.in/news/national/general-news/supreme-court-directs-nationwide-survey-of-elephant-corridors-seeks-report-on-measures-to-prevent-obstructions20260817190745/",
+    "https://india.mongabay.com/short-article/2026/08/court-orders-survey-of-elephant-corridors-seeks-ban-on-fireball-use/",
+    "https://www.deccanchronicle.com/legalnews/sc-orders-nationwide-survey-of-elephant-corridors-bans-fireballs-1979857",
+    "https://assamtribune.com/national/sc-directs-centre-to-survey-elephant-corridors-nationwide-bans-barriers-fireballs-1615746",
+    "https://www.nationalheraldindia.com/national/150-elephant-corridors-identified-in-india-west-bengal-leads-report",
+    "https://www.gktoday.in/tamil-nadu-notifies-three-new-elephant-corridors",
+    "https://currentaffairs.adda247.com/tamil-nadu-notifies-three-elephant-corridors-in-hosur-forest-division/",
+    "https://www.indiabix.com/current-affairs/state/discussion-59807",
+    "https://www.tnpscthervupettagam.com//currentaffairs-detail/three-elephant-corridors-in-tn"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "The international wetlands treaty behind the term 'Ramsar site' takes its name from a city. In which country is that city located?",
+     "options": [
+      "Turkey",
+      "Egypt",
+      "Japan",
+      "Iran"
+     ],
+     "answer": 3,
+     "explanation": "The Ramsar Convention is named after the Iranian city of Ramsar on the Caspian coast, where its text was agreed in 1971.",
+     "source": "https://en.wikipedia.org/wiki/Ramsar_Convention ; https://anantamias.com/ramsar-convention/?pdf=1 ; https://www.theweek.in/wire-updates/national/2025/06/05/del90-env-ramsar.html"
+    },
+    {
+     "type": "direct",
+     "q": "Under which legislation was the National Green Tribunal established?",
+     "options": [
+      "Environment (Protection) Act, 1986",
+      "Air (Prevention and Control of Pollution) Act, 1981",
+      "National Green Tribunal Act, 2010",
+      "Forest (Conservation) Act, 1980"
+     ],
+     "answer": 2,
+     "explanation": "The NGT was set up under Section 3 of the National Green Tribunal Act, 2010, which came into force on 18 October 2010.",
+     "source": "https://www.greentribunal.gov.in/sites/default/files/rti_gazette_notification/RTI MANUAL upto31.12.2025.pdf ; https://www.indiacode.nic.in/bitstream/123456789/2025/1/A201019.pdf"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 48A",
+      "II. Article 51A(g)",
+      "III. Article 32",
+      "IV. Article 14"
+     ],
+     "list2": [
+      "A. Right to equality before law",
+      "B. Right to constitutional remedies",
+      "C. Directive principle to protect and improve the environment and wildlife",
+      "D. Fundamental duty to protect and improve the natural environment"
+     ],
+     "options": [
+      "I-C, II-D, III-B, IV-A",
+      "I-D, II-C, III-A, IV-B",
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-A, III-D, IV-C"
+     ],
+     "answer": 0,
+     "explanation": "Article 48A is a Directive Principle asking the State to protect the environment and wildlife (C). Article 51A(g) in Part IVA makes it a citizen's fundamental duty (D). Article 32 is the right to constitutional remedies (B). Article 14 guarantees equality before the law (A).",
+     "source": "https://lawbhoomi.com/constitutional-provisions-relating-to-environment-in-india/ ; https://blog.ipleaders.in/right-to-constitutional-remedies-2/ ; https://www.thelegallock.com/resources/law-notes/in-detail-article-14-of-the-indian-constitution ; https://visionias.in/current-affairs/monthly-magazine/2024-05-21/environment/constitutionalization-of-environmental-issues"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "India is a party to the Ramsar Convention on Wetlands.",
+     "reason": "The Ramsar Convention was adopted by the United Nations Security Council.",
+     "answer": 2,
+     "explanation": "India is a party to the Convention, which it joined in 1982 (A true). The Convention was agreed at a 1971 conference, not by the UN Security Council, so R is false. Answer: A true, R false.",
+     "source": "https://www.theweek.in/wire-updates/national/2025/06/05/del90-env-ramsar.html ; https://www.gktoday.in/india-and-the-ramsar-convention/ ; https://en.wikipedia.org/wiki/Ramsar_Convention",
+     "truth": [
+      true,
+      false
+     ]
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. The Forest (Conservation) Act was enacted in 1972.",
+      "II. The Wildlife (Protection) Act was enacted in 1972."
+     ],
+     "answer": 1,
+     "explanation": "The Wildlife (Protection) Act was enacted in 1972 (II true). The Forest (Conservation) Act was enacted in 1980, so I is false. Answer: II only.",
+     "source": "https://www.pmfias.com/wild-life-protection-biodiversity-forest-conservation-rights/ ; https://www.vikaspedia.in/energy/policy-support/environment-1/forests/acts-pertaining-to-forests ; https://ebooks.inflibnet.ac.in/esp13/?p=46",
+     "truth": [
+      false,
+      true
+     ]
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. Fundamental duties were inserted into the Constitution by the 42nd Amendment, 1976.",
+      "II. Fundamental duties are enforceable in courts in the same way as fundamental rights.",
+      "III. Article 51A lists eleven fundamental duties."
+     ],
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I and III only",
+      "All of the above"
+     ],
+     "answer": 2,
+     "explanation": "I and III are correct: the 42nd Amendment (1976) inserted Article 51A, and the 86th Amendment (2002) brought the total to eleven duties. II is false because fundamental duties are non-justiciable.",
+     "source": "https://www.scconline.com/blog/?p=231621 ; https://vajiramandravi.com/current-affairs/part-4a-of-indian-constitution/ ; https://anantamias.com/fundamental-duties/",
+     "truth": [
+      true,
+      false,
+      true
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Booker and National Film Awards",
+   "topic_tags": [
+    "awards",
+    "books",
+    "film",
+    "culture",
+    "Aug-Sep 2026"
+   ],
+   "slot": "T05P2",
+   "status": "verified",
+   "text": "The Booker Prize announced its 2026 shortlist on 22 September 2026, choosing six novels from a longlist of 13 titles. The longlist had been drawn from 163 submissions. The judging panel is chaired by Mary Beard, and its other members are Raymond Antrobus, Jarvis Cocker, Rebecca Liu and Patricia Lockwood. The shortlisted titles are Black Bag by Luke Kennard, The Disappearers by Marlon James, The End of Everything by M. John Harrison, May We Feed the King by Rebecca Perry, John of John by Douglas Stuart, and The Things We Never Say by Elizabeth Strout. Black Bag follows a penniless actor who is hired by a university professor to sit inside a black bag at the back of a lecture hall. The Disappearers is set in Kingston, Jamaica, in the late 1980s. Two of the shortlisted writers have won the prize before. Marlon James won in 2015 for A Brief History of Seven Killings, and Douglas Stuart won in 2020 for Shuggie Bain. The 72nd National Film Awards winners were announced on 18 July 2026. Article 370 was named Best Feature Film, and Yami Gautam won Best Actress. The Best Actor award was shared by Mammootty, for Bramayugam, and Kartik Aaryan, for Chandu Champion. Sanjay Mishra won Best Supporting Actor for Bhakshak. Rajkumar Periasamy won Best Direction for Amaran, Srikanth won Best Hindi Feature Film, and Kalki 2898 AD won Best Popular Film. The Dadasaheb Phalke Award went to Anant Nag. The awards were presented on 22 September 2026 at Ekta Nagar, formerly Kevadia, in Gujarat, by President Droupadi Murmu.",
+   "sources": [
+    "https://www.irishexaminer.com/lifestyle/artsandculture/arid-41914570.html",
+    "https://www.dtnext.in/news/world/booker-prize-2026-shortlist-announced-six-novels-explore-isolation-identity-and-survival",
+    "https://thebookerprizes.com/media-centre/press-releases/shocking-understated-discomfiting-hilarious-shortlist-for-booker-prize",
+    "https://lithub.com/heres-the-shortlist-for-the-2026-booker-prize/",
+    "https://www.penguinrandomhouse.com/books/742603/",
+    "https://www.gulfnews.com/entertainment/72nd-national-film-awards-2026-winners-announced-list-of-winners-1.500612349",
+    "https://outlookindia.com/art-entertainment/72nd-national-film-awards-winners-full-list",
+    "https://www.hollywoodreporterindia.com/features/insight/72nd-national-film-awards-full-winners-list-article-370-mammootty-kartik-aaryan-and-yami-gautam-win-honours",
+    "https://pib.gov.in/FactsheetDetails.aspx?Id=151027"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "In which year did the Government of India institute the Dadasaheb Phalke Award, which was conferred on Anant Nag at the 72nd National Film Awards?",
+     "options": [
+      "1975",
+      "1969",
+      "1957",
+      "1982"
+     ],
+     "answer": 1,
+     "explanation": "The Dadasaheb Phalke Award was instituted by the Government of India in 1969.",
+     "source": "https://en.wikipedia.org/wiki/Dadasaheb_Phalke_Award ; https://dff.gov.in/PhalkeAward.aspx ; https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=153260"
+    },
+    {
+     "type": "direct",
+     "q": "What is the height of the Statue of Unity, the monument to Sardar Vallabhbhai Patel near Kevadia in Gujarat?",
+     "options": [
+      "210 metres",
+      "150 metres",
+      "165 metres",
+      "182 metres"
+     ],
+     "answer": 3,
+     "explanation": "The Statue of Unity stands 182 metres tall, in the Narmada district of Gujarat.",
+     "source": "https://en.wikipedia.org/wiki/Statue_of_Unity ; https://www.guinnessworldrecords.com/world-records/70181-tallest-statue ; https://www.incredibleindia.gov.in/en/gujarat/vadodara/statue-of-unity"
+    },
+    {
+     "type": "direct",
+     "q": "In which year was the Sahitya Akademi formally inaugurated under a Government of India resolution?",
+     "options": [
+      "1947",
+      "1950",
+      "1958",
+      "1954"
+     ],
+     "answer": 3,
+     "explanation": "The Sahitya Akademi was formally inaugurated on 12 March 1954 under a Government of India resolution. It was registered as a society in 1956.",
+     "source": "https://www.sahitya-akademi.gov.in/aboutus/about.jsp ; https://en.wikipedia.org/wiki/Sahitya_Akademi"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. The God of Small Things (Arundhati Roy)",
+      "II. The Inheritance of Loss (Kiran Desai)",
+      "III. The White Tiger (Aravind Adiga)",
+      "IV. The Sellout (Paul Beatty)"
+     ],
+     "list2": [
+      "A. 1997",
+      "B. 2006",
+      "C. 2008",
+      "D. 2016"
+     ],
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-A, III-C, IV-D",
+      "I-D, II-B, III-A, IV-C",
+      "I-A, II-C, III-B, IV-D"
+     ],
+     "answer": 0,
+     "explanation": "Roy won the Booker Prize in 1997, Desai in 2006, Adiga in 2008 and Beatty in 2016. Beatty was the first American winner.",
+     "source": "https://thebookerprizes.com/the-booker-library/prize-years/2006 ; https://thebookerprizes.com/the-booker-library/books/the-god-of-small-things ; https://thebookerprizes.com/the-booker-library/books/the-white-tiger ; https://www.aljazeera.com/news/2006/10/11/indian-novelist-desai-wins-booker ; https://www.npr.org/sections/thetwo-way/2016/10/25/499368241/novelist-paul-beatty-is-first-american-to-win-britains-man-booker-prize"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Central Board of Film Certification confers the National Film Awards on the films it has certified each year.",
+     "reason": "The Central Board of Film Certification sanctions films for public exhibition under the Cinematograph Act, 1952.",
+     "answer": 3,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "A is false: the National Film Awards are conferred by the Ministry of Information and Broadcasting, not by the CBFC. R is true: the CBFC is constituted under Section 3 of the Cinematograph Act, 1952 to sanction films for public exhibition.",
+     "source": "https://mib.gov.in/ministry/organizations/central-board-film-certification ; https://www.wipo.int/wipolex/ar/text/207160 ; https://pib.gov.in/FactsheetDetails.aspx?Id=151027"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. The first Jnanpith Award was given for the year 1965.",
+      "II. The Jnanpith Award is confined to writers who write in Hindi."
+     ],
+     "answer": 0,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "Statement I is true: G. Sankara Kurup received the first Jnanpith Award, for 1965, for Odakkuzhal. Statement II is false: the award is not confined to Hindi writers; it is open to writers in the Eighth Schedule languages (and English).",
+     "source": "https://www.jnanpith.net/laureates.html?id=3 ; https://en.wikipedia.org/wiki/Jnanpith_Award"
+    }
+   ]
+  },
+  {
+   "title": "Defence news, early October",
+   "topic_tags": [
+    "defence",
+    "security",
+    "military exercise",
+    "Indian Air Force",
+    "Make-II procurement"
+   ],
+   "slot": "T05P3",
+   "status": "verified",
+   "word_count": 297,
+   "text": "An India-UAE joint military exercise, Mountain Guardian 2026, began on 5 October 2026 at the Foreign Training Node in Chaubatia, Uttarakhand. The exercise will run until 18 October and focuses on mountain warfare. It is aimed at enhancing interoperability, mutual understanding and cooperation between the two armies. Each side has deployed 46 personnel, bringing the total strength of the exercise to 92. The Indian contingent is drawn from a Bhairav Battalion, while the UAE contingent comes from a Mountain Infantry Battalion. Women officers and combatants from both armies are taking part in specialist roles. Planned training includes joint planning, tactical drills, firing practice, surveillance grids, drone operations, physical endurance training, rock climbing, obstacle training and integrated field exercises.\n\nOn 8 October 2026, the Indian Air Force will observe Air Force Day, marking the 94th anniversary of the force. The force was established on 8 October 1932. The main parade is scheduled at Hindon Air Force Station in Ghaziabad, Uttar Pradesh. The day is marked each year with a parade, a flypast and air displays. This year's theme is \"Indian Air Force - Infallible, Impervious and Precise.\"\n\nOn 6 October 2026, the first Fleet Support Ship, FSS-1, was launched at Hindustan Shipyard Limited in Visakhapatnam.\n\nEarlier, on 21 September 2026, the Ministry of Defence signed a contract worth about Rs 586 crore with Accurate Industrial Controls Private Limited in New Delhi. The contract covers auxiliary power units for the Army's T-72 and T-90 tanks and was placed under the Make-II category, which is meant for industry-led research and development. Defence Secretary Rajesh Kumar Singh was present at the signing. The units supply electricity to the tank's fire control system, firing circuit and gun stabilisation system. The ministry said the project is a step toward indigenising critical tank subsystems.",
+   "sources": [
+    "https://www.uniindia.com/national/defence-uae-joint-military-exercise/203689",
+    "https://www.gktoday.in/india-uae-mountain-guardian-2026-exercise-begins-in-uttarakhand/",
+    "https://newsonair.gov.in/india-uae-joint-military-exercise-mountain-guardian-2026-begins-in-uttarakhand/",
+    "https://utkarsh.com/current-affairs/national/importants-day/indian-air-force-day-2026-8-october-theme-history-and-celebration",
+    "https://vajiramandravi.com/current-affairs/?p=127629",
+    "https://en.wikipedia.org/wiki/History_of_the_Indian_Air_Force",
+    "https://www.uniindia.com/national/defence-navy-support-ship/204982",
+    "https://www.psuconnect.in/psu-news/defence-minister-rajnath-singh-to-launch-first-fleet-support-ship-fss-1-at-hsl-today",
+    "https://newsonair.gov.in/defence-ministry-signs-%e2%82%b9586-crore-contract-for-apus-for-t-72-and-t-90-tanks/",
+    "https://theprint.in/india/defence-ministry-inks-rs-586-cr-contract-to-procure-power-units-for-t-72-t-90-tanks/3048820/",
+    "https://www.thehansindia.com/news/cities/new-delhi/defence-ministry-inks-rs-586-crore-deal-to-buy-auxiliary-power-units-for-t-72-t-90-tanks-1124131"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Desert Cyclone, the India-UAE army exercise, was first held in which Indian state?",
+     "options": [
+      "Rajasthan",
+      "Uttarakhand",
+      "Ladakh",
+      "Gujarat"
+     ],
+     "answer": 0,
+     "explanation": "The first edition of Desert Cyclone was held at Mahajan in Rajasthan.",
+     "source": "https://www.business-standard.com/industry/news/india-uae-joint-military-exercise-desert-cyclone-underway-in-rajasthan-124010500111_1.html ; https://timesofoman.com/article/140498-india-uae-joint-military-exercise-desert-cyclone-underway-in-rajasthan"
+    },
+    {
+     "type": "direct",
+     "q": "Which aircraft does the Indian Air Force's Surya Kiran aerobatic team fly?",
+     "options": [
+      "Sukhoi Su-30MKI",
+      "BAE Hawk Mk.132",
+      "HAL Tejas",
+      "Dassault Rafale"
+     ],
+     "answer": 1,
+     "explanation": "Surya Kiran flies the BAE Hawk Mk.132, an advanced jet trainer that HAL licence-builds for the IAF.",
+     "source": "https://aerobaticteams.net/en/teams/i170/Surya-Kiran.html ; https://milavia.net/airshows/display-teams/surya-kiran/"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "ICGS Akshay, a fast patrol vessel of the Indian Coast Guard, was built by Cochin Shipyard Limited.",
+     "reason": "ICGS Akshay was commissioned into the Indian Coast Guard in June 2026.",
+     "answer": 3,
+     "explanation": "The assertion is false: ICGS Akshay was not built by Cochin Shipyard Limited. The reason is true: the ship was commissioned in June 2026. A false and R true gives answer 3.",
+     "truth": [
+      false,
+      true
+     ],
+     "source": "https://newsonair.gov.in/indian-coast-guard-commissions-fast-patrol-vessel-icgs-akshay-in-goa/ ; https://indiancoastguard.gov.in/sites/default/files/PRESS%20RELEASE%20REGARDING%20-%20ICGS%20AKSHAY%20JOINS%20THE%20BHARATIYA%20TATRAKSHAK%20FLEET.pdf"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Desert Cyclone II (December 2025 edition)",
+      "II. Surya Kiran aerobatic team",
+      "III. No. 1 Squadron, Indian Air Force (raised 1933)",
+      "IV. ICGS Akshay (Indian Coast Guard fast patrol vessel)"
+     ],
+     "list2": [
+      "A. Bidar, Karnataka",
+      "B. Abu Dhabi, UAE",
+      "C. Drigh Road, Karachi",
+      "D. Goa"
+     ],
+     "options": [
+      "I-D, II-A, III-C, IV-B",
+      "I-B, II-A, III-C, IV-D",
+      "I-B, II-C, III-A, IV-D",
+      "I-A, II-B, III-D, IV-C"
+     ],
+     "answer": 1,
+     "explanation": "Desert Cyclone II was held at Al-Hamra Training City, Abu Dhabi; Surya Kiran is based at Bidar, Karnataka; No. 1 Squadron was raised at Drigh Road, Karachi; ICGS Akshay was commissioned at Goa Shipyard in Vasco, Goa.",
+     "source": "https://www.newsonair.gov.in/india-uae-desert-cyclone-ii-exercise-concludes-in-abu-dhabi ; https://www.milavia.net/airshows/display-teams/surya-kiran/ ; https://airpowerasia.com/2020/10/07/tiger-squadron-birth-of-military-aviation-in-india/ ; https://indiancoastguard.gov.in/sites/default/files/PRESS%20RELEASE%20REGARDING%20-%20ICGS%20AKSHAY%20JOINS%20THE%20BHARATIYA%20TATRAKSHAK%20FLEET.pdf"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The Defence Acquisition Procedure 2020 superseded the Defence Procurement Procedure 2016 as the Ministry of Defence's capital acquisition framework.",
+      "2. Under the Make-I route, the government funds prototype development for projects led by Indian companies.",
+      "3. The Make-III route covers products that are designed and developed indigenously in India.",
+      "4. Make-II projects receive no government funding for prototype creation."
+     ],
+     "mode": "correct",
+     "answer": 2,
+     "explanation": "Statements 1, 2 and 4 are correct. Statement 3 is wrong because Make-III covers import substitution for designs that are not indigenous. Three statements are correct, so the answer is Only three.",
+     "truth": [
+      true,
+      true,
+      false,
+      true
+     ],
+     "source": "https://www.makeinindiadefence.gov.in/projects/index/1 ; https://www.drishtiias.com/daily-news-analysis/defence-acquisition-procedure-1 ; https://superkalam.com/current-affairs/articles/defence-indigenisation-dap-2020-make-routes-and-srijan-portal-explained"
+    },
+    {
+     "type": "direct",
+     "q": "No. 1 Squadron of the Indian Air Force, its oldest squadron, is known by which nickname?",
+     "options": [
+      "Eagles",
+      "Tigers",
+      "Cobras",
+      "Falcons"
+     ],
+     "answer": 1,
+     "explanation": "No. 1 Squadron is known as the Tigers and is the IAF's oldest squadron.",
+     "source": "https://en.wikipedia.org/wiki/No._1_Squadron_IAF ; https://natotigers.org/tiger-unit/no-1-squadron ; https://airpowerasia.com/2020/10/07/tiger-squadron-birth-of-military-aviation-in-india/"
+    }
+   ],
+   "notes": "Verified; 6 of 8 questions kept. Foreign Training Node name rests on PIB-derived reports (UNI, GKToday, NewsOnAir)."
+  },
+  {
+   "title": "India's early-2026 economic data",
+   "topic_tags": [
+    "economy",
+    "national income",
+    "inflation",
+    "industrial output",
+    "trade",
+    "RBI Act",
+    "Economic Survey 2025-26",
+    "static GK"
+   ],
+   "slot": "T05P4",
+   "status": "complete",
+   "notes": "Verified independently (v2). Dropped Q2 (trivial NSO-ministry item) and Q8 (overlaps Q4 on Consolidated Fund, off-passage static).",
+   "text": "India's official economic data for early 2026 pointed to steady growth. On 7 January 2026, the National Statistical Office (NSO) released its first advance estimates for 2025-26. The estimates placed real GDP growth for FY26 at 7.4 per cent, compared with 6.5 per cent in FY25. Gross value added (GVA) was estimated to grow 7.3 per cent, with services expanding 9.1 per cent.\n\nThe Economic Survey 2025-26 was tabled in Lok Sabha on 29 January 2026 by Finance Minister Nirmala Sitharaman. The Survey put private final consumption expenditure at 61.5 per cent of GDP, the highest share since FY2011-12.\n\nPrice data showed a different pattern. Consumer Price Index (CPI) inflation for December 2025 was 1.33 per cent, a three-month high, up from 0.71 per cent in November, according to figures released on 12 January 2026. Food prices fell 2.71 per cent year on year. Headline inflation stayed below the lower tolerance band of the Reserve Bank of India's target for a fourth straight month. Wholesale price inflation was 0.83 per cent in December 2025, released on 14 January 2026, ending a two-month stretch of deflation.\n\nIndustrial output also gained pace. The Index of Industrial Production (IIP) rose 6.7 per cent year on year in November 2025, its highest in 25 months, according to the quick estimate released in late December. Manufacturing grew 8.0 per cent and mining 5.4 per cent, while electricity fell 1.5 per cent. Analysts linked the gain partly to GST rate cuts effective from 22 September 2025. The Index of Eight Core Industries rose 3.7 per cent in December 2025, with cement output up 13.5 per cent and steel up 6.9 per cent. Coal output rose 3.6 per cent, while crude oil and natural gas output fell 5.6 and 4.4 per cent. The index stood at 175.7 points, compared with 169.4 a year earlier, and cumulative growth for April to December 2025-26 was 2.6 per cent, provisional. The core sector data were released on 20 January 2026.\n\nOn the external front, merchandise exports rose 1.87 per cent year on year to $38.51 billion in December 2025. Imports reached $63.55 billion, leaving a merchandise trade deficit of about $25.04 billion. The trade figures were released on 15 January 2026.\n\nInflation policy also drew attention. Under the RBI Act, the government sets the inflation target in consultation with the central bank. The current target is 4 per cent, with a tolerance band of 2 to 6 per cent, for the five years from 1 April 2026 to 31 March 2031. The notification is dated 25 March 2026. If inflation stays outside the band for three consecutive quarters, the RBI must submit a report to the government explaining the reasons and remedial action.",
+   "sources": [
+    "https://deccanchronicle.com/business/gdp-to-grow-at-74-in-fy26-on-strong-manufacturing-services-govt-data-1928917",
+    "https://www.businesstoday.in/amp/union-budget/story/economic-survey-tabled-in-lok-sabha-fy27-growth-seen-at-68-72-ahead-of-budget-513403-2026-01-29",
+    "https://prsindia.org/policy/report-summaries/economic-survey-2025-26",
+    "https://www.downtoearth.org.in/amp/story/economy/economic-survey-2026-consumption-growth-to-slow-down-slightly-despite-rise-in-domestic-demand",
+    "https://www.etvbharat.com/en/business/retail-inflation-rises-in-december-govt-data-enn26011204050",
+    "https://www.outlookbusiness.com/economy-and-policy/inflation-rises-to-3-month-high-of-133-in-dec-remains-below-rbi-tolerance-band",
+    "https://www.newsonair.gov.in/wpi-inflation-rises-to-0-83-in-december-2025",
+    "https://swarajyamag.com/amp/story/economy/indias-wholesale-inflation-surges-to-083-per-cent-in-december-2025",
+    "https://www.kotakneo.com/news/market-news/iip-6-7-percent-growth-november-2025/",
+    "https://dce.visionias.in/upsc-daily-news-summary/article/2025-12-30/the-indian-express/economy/november-industrial-growth-surges-to-67-highest-in-25-months",
+    "https://www.etvbharat.com/en/business/india-industrial-output-rises-in-november-on-robust-manufacturing-enn25122903751",
+    "https://www.cholasecurities.com/news/economy-news/core-industries-index-grows-at-3-7-on-year-in-dec-25-cement-sees-excellent-spurt/1666064",
+    "https://www.ibtimes.co.in/indias-core-sector-growth-by-3-7-pc-dec-fertiliser-cement-coal-production-rise-896461",
+    "https://www.deccanherald.com/business/indias-exports-rise-187-to-385-billion-in-december-3862996",
+    "https://www.polymerupdate.com/News/Details/1438312",
+    "https://www.maritimegateway.com/imports-surge-widens-indias-trade-gap-despite-modest-export-rebound-in-december",
+    "https://dce.visionias.in/news-today/2026-03-26/economy/union-government-notifies-the-inflation-target-for-2026-2031-under-flexible-inflation-targeting-fit-framework",
+    "https://www.basispointinsight.com/Story/government-retains-inflation-target-at-4--for-another-five-years_bb54c3fc1d9c.html"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Which body prepares the Economic Survey, working under the supervision of the Chief Economic Adviser?",
+     "options": [
+      "Planning Commission",
+      "Economic Division of the Department of Economic Affairs",
+      "NITI Aayog",
+      "Reserve Bank of India"
+     ],
+     "answer": 1,
+     "explanation": "The Economic Survey is prepared by the Economic Division of the Department of Economic Affairs in the Ministry of Finance, under the supervision of the Chief Economic Adviser. NITI Aayog, the RBI and the Planning Commission are not the preparing body.",
+     "source": "https://www.businesstoday.in/amp/union-budget/story/union-budget-2026-who-are-the-minds-behind-the-economic-survey-stakeholders-and-its-components-512711-2026-01-23 ; https://anantamias.com/economic-survey/"
+    },
+    {
+     "type": "direct",
+     "q": "Section 45ZB of the Reserve Bank of India Act, 1934 provides for the constitution of which body?",
+     "options": [
+      "Board for Financial Supervision",
+      "Financial Stability and Development Council",
+      "Monetary Policy Committee",
+      "Central Board of the Reserve Bank"
+     ],
+     "answer": 2,
+     "explanation": "Section 45ZB, inserted through the Finance Act 2016, constitutes the six-member Monetary Policy Committee, with three RBI members and three members appointed by the Central Government. The other three bodies are not constituted under that section.",
+     "source": "https://www.scconline.com/blog/post/2016/10/01/constitution-of-monetary-policy-committee-under-the-reserve-bank-of-india-act-1934-notified ; https://www.business-standard.com/amp/article/news-cm/monetary-policy-committee-constitution-under-the-reserve-bank-of-india-act-1934-notified-116092900939_1.html ; https://lawx.in/acts/section/48/489/4740"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Annual financial statement of the Government of India",
+      "II. Demands for grants",
+      "III. Appropriation Bills (withdrawal of money from the Consolidated Fund)",
+      "IV. Definition of a Money Bill"
+     ],
+     "list2": [
+      "A. Article 110",
+      "B. Article 112",
+      "C. Article 113",
+      "D. Article 114"
+     ],
+     "options": [
+      "I-B, II-C, III-D, IV-A",
+      "I-D, II-A, III-B, IV-C",
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-D, III-A, IV-B"
+     ],
+     "answer": 0,
+     "explanation": "Article 112 provides for the annual financial statement, Article 113 for demands for grants, Article 114 for withdrawal from the Consolidated Fund only under an appropriation law, and Article 110 defines money bills.",
+     "source": "https://vajiramandravi.com/current-affairs/article-113-of-indian-constitution/ ; https://ies.gov.in/arthapedia/concept/demand-grants ; https://www.constitutionofindia.net/articles/article-114-appropriation-bills ; https://www.constitutionofindia.net/articles/article-110-definition-of-money-bills/ ; https://lexibal.com/article-112-annual-financial-statement/"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. The Directorate General of Commercial Intelligence and Statistics (DGCI&S) compiles India's monthly merchandise trade statistics and functions under the Department of Commerce.",
+      "II. The DGCI&S receives daily trade returns from Customs formations and Special Economic Zones."
+     ],
+     "answer": 2,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both statements are true. DGCI&S, under the Department of Commerce in the Ministry of Commerce and Industry, compiles monthly merchandise trade statistics from daily trade returns received from Customs formations and Special Economic Zones.",
+     "source": "https://www.commerce.gov.in/?p=3416 ; https://commerce.gov.in/trade-statistics ; https://www.dgciskol.gov.in/faq_2017.aspx"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "A Money Bill can be introduced only in the Lok Sabha.",
+     "reason": "The Rajya Sabha can only make recommendations on a Money Bill, which the Lok Sabha may accept or reject.",
+     "answer": 1,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both statements are true. Introduction only in the Lok Sabha concerns the origin of a Money Bill under Article 109, whereas the Rajya Sabha's recommendatory role arises after the Lok Sabha has passed the bill. The reason therefore describes a later stage and does not explain the assertion.",
+     "source": "https://anantamias.com/money-bill-vs-finance-bill/ ; https://bharatnotes.com/resources/key-terms/money-bill--08-parliament/ ; https://en.wikipedia.org/wiki/Money_bill"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. The Economic Survey 2025-26 projects India's real GDP growth for FY27 in the range of 6.8 to 7.2 per cent.",
+      "II. The Economic Survey 2025-26 places India's medium-term potential growth at about 7 per cent a year.",
+      "III. The Economic Survey 2025-26 projects India's real GDP growth for FY27 above 8 per cent."
+     ],
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I and III only",
+      "All of the above"
+     ],
+     "answer": 1,
+     "explanation": "Statements I and II are correct, as the Survey gives a FY27 growth range of 6.8 to 7.2 per cent and a medium-term potential growth of about 7 per cent. Statement III is wrong because the Survey's FY27 range does not reach 8 per cent.",
+     "source": "https://www.businesstoday.in/amp/union-budget/story/economic-survey-tabled-in-lok-sabha-fy27-growth-seen-at-68-72-ahead-of-budget-513403-2026-01-29 ; https://www.outlookmoney.com/news/economic-survey-2026-gdp-growth-estimated-near-7-in-fy27-here-are-key-takeaways ; https://moneylife.in/article/economic-survey-projects-stable-growth-path-pegs-fy26-gdp-growth-at-74-percentage-despite-global-uncertainty/79509.html ; https://vajiramandravi.com/current-affairs/?p=85052 ; https://www.basispointinsight.com/Story/economic-survey-sees-stable-economy--growth-potential-near-7-_f8b171db2522.html ; https://www.theweek.in/wire-updates/business/2026/01/29/economic-survey-delivers-powerful-message-of-indias-growth-say-experts.amp.html"
+    }
+   ]
+  },
+  {
+   "title": "Milano Cortina 2026 Winter Olympics: Venues, Medals and Final Day",
+   "topic_tags": [
+    "Milano Cortina 2026",
+    "Winter Olympics",
+    "medal table",
+    "Klaebo",
+    "ice hockey final",
+    "IOC headquarters",
+    "Olympic motto",
+    "2030 Winter Games",
+    "Chamonix 1924",
+    "Winter host cities",
+    "2028 Summer Games",
+    "Paris 1900"
+   ],
+   "slot": "T05P5",
+   "status": "complete",
+   "text": "The Milano Cortina 2026 Winter Olympics opened on 6 February 2026 with a ceremony at the San Siro stadium in Milan. The Games closed on Sunday, 22 February, with a ceremony at the ancient Verona Arena in the city of Verona. Because the programme was spread across northern Italy rather than concentrated in one place, athletes travelled between several clusters of venues over the 17 days of competition, which ran from 6 to 22 February 2026.\n\nMilan and Cortina d'Ampezzo were the two main clusters of the Games. Milan hosted figure skating and short-track speed skating at the Milano Ice Skating Arena, speed skating at the Milano Ice Park, and ice hockey at the Santagiulia Ice Hockey Arena. Cortina d'Ampezzo hosted the sliding sports at the Cortina Sliding Center, women's alpine skiing at the Tofane Alpine Skiing Center, and curling at the Cortina Curling Olympic Stadium. Men's alpine skiing took place on the Stelvio course at Bormio, a fixture of the World Cup circuit. Freestyle skiing and snowboarding were held at the Livigno Snow Park and the Livigno Aerials and Moguls Park. Ski jumping was staged at Predazzo, the most populated municipality in the Val di Fiemme, and biathlon was contested at the Anterselva Biathlon Arena.\n\nThe final medal table was headed by Norway, which won 41 medals, including 18 gold, 12 silver and 11 bronze. The United States was second with 33 medals, made up of 12 gold, 12 silver and nine bronze. The 12 gold medals were a record for the United States at a Winter Games. The Netherlands placed third with 20 medals, including 10 gold, seven silver and three bronze. Italy, the host nation, finished fourth with 30 medals, comprising 10 gold, six silver and 14 bronze. The table therefore ranked Norway, the United States, the Netherlands and Italy in that order.\n\nThe Norwegian cross-country skier Johannes Klaebo was the standout individual performer of the Games. He won all six men's cross-country skiing events he entered, taking six gold medals in total. No man had previously won six golds at a single Winter Games, which made the result a piece of Winter Olympic history.\n\nThe men's ice hockey final was played on 22 February, the last day of the competition. The United States beat Canada 2-1 in overtime, with Jack Hughes scoring the winning goal in extra time. Canada took the silver medal, and the result gave the United States the men's ice hockey gold at these Games.\n\nOn the closing evening, the Olympic flames at the cauldrons in Milan and Cortina d'Ampezzo were extinguished as the Verona ceremony took place. The ceremony marked the formal end of 17 days of competition that had covered mountain, valley and city venues across northern Italy.",
+   "sources": [
+    "https://www.wcax.com/2025/10/29/milan-cortina-glance-2026-winter-olympics-venues/",
+    "https://www.nbcsportsboston.com/olympics-2026-milan-cortina/where-are-winter-olympics-venues-italy",
+    "https://www.am800cklw.com/news/milano-cortina-2026-comes-to-a-close-at-verona-arena-as-olympic-flag-passes-to-france.html",
+    "https://www.bostonglobe.com/2026/02/22/sports/milan-cortina-olympics-to-close-at-verona-arena-as-olympic-flag-passes-to-france",
+    "https://www.news4jax.com/sports/2026/02/22/twin-milan-and-cortina-olympic-cauldrons-are-extinguished-signaling-the-end-of-winter-games/",
+    "https://www.francsjeux.com/en/short/Milan-Cortina-2026-Norway-USA-Netherlands%3A-The-final-medal-table-of-the-Winter-Olympic-Games/",
+    "https://www.gamereactor.eu/who-won-the-winter-olympics-final-medal-table-of-the-2026-olympics-in-milano-cortina-1679063/",
+    "https://www.usspeedskating.org/news/2026/february/23/a-golden-games-team-usa-sets-record-with-12-gold-medals-at-olympic-winter-games-milano-cortina-2026",
+    "https://www.usopc.org/news/2026/february/22/a-golden-games-team-usa-sets-record-with-12-gold-medals-at-olympic-winter-games-milano-cortina-2026",
+    "https://www.gamereactor.eu/johannes-hoesflot-klaebo-achieves-a-clean-sweep-in-milano-cortina-olympics-6-6-gold-medals-1678993/",
+    "https://www.kq2.com/sports/nbc-olympics-2026/2026/02/21/johannes-klaebo-makes-winter-olympic-history-with-6-golds/",
+    "https://olympic.ca/?p=350702",
+    "https://www.thebiglead.com/?p=125118",
+    "https://www.aol.com/articles/usa-win-mens-olympic-ice-161411377.html",
+    "https://www.nhl.com/news/united-states-canada-2026-olympics-gold-medal-game-recap-february-22-2026",
+    "https://www.espn.com/olympics/story/_/id/48005562/jack-hughes-connor-hellebuyck-lift-us-olympic-hockey-gold",
+    "https://www.olympics.com/en/milano-cortina-2026/news/winter-olympics-2026-united-states-defeat-canada-overtime",
+    "https://www.nbcnews.com/sports/olympics/live-blog/winter-olympics-2026-closing-ceremony-milan-team-usa-live-updates-rcna259626",
+    "https://milanocortina2026.olympics.com/en/predazzo"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Which Latin phrase is the traditional motto of the Olympic Games?",
+     "options": [
+      "Semper Fidelis",
+      "Veni, Vidi, Vici",
+      "Citius, Altius, Fortius",
+      "Ad Astra"
+     ],
+     "answer": 2,
+     "explanation": "'Citius, Altius, Fortius' (swifter, higher, stronger) is the traditional Olympic motto, conceived by Pierre de Coubertin. 'Veni, Vidi, Vici', 'Ad Astra' and 'Semper Fidelis' are not Olympic mottos.",
+     "source": "https://libreriamo.it/frasi/motto-olimpico-citius-altius-fortius/ ; https://www.ncregister.com/cna/french-dominican-friar-created-the-motto-for-the-olympic-games"
+    },
+    {
+     "type": "direct",
+     "q": "The International Olympic Committee awarded the 2030 Winter Olympic Games in July 2024 to which territory?",
+     "options": [
+      "French Alps",
+      "Stockholm-Åre",
+      "Lake Placid",
+      "Turin"
+     ],
+     "answer": 0,
+     "explanation": "The IOC awarded the 2030 Winter Games to the French Alps on 24 July 2024, conditionally on French government financial guarantees. Stockholm-Åre was a rival bid that was not awarded the Games. Lake Placid and Turin were not awarded the 2030 Games.",
+     "source": "https://opb.org/article/2024/07/24/french-alps-is-chosen-for-the-2030-winter-olympics-2034-goes-to-salt-lake-city ; https://planetski.eu/2024/07/24/france-awarded-2030-winter-olympics-with-salt-lake-city-set-to-get-2034-games/ ; https://www.fil-luge.org/en/news/ioc-selects-french-alps-2030-and-utah-2034-to-host-the-olympic-and-paralympic-winter-games"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Sapporo",
+      "II. Lillehammer",
+      "III. Sochi",
+      "IV. Beijing"
+     ],
+     "list2": [
+      "A. 2014",
+      "B. 1972",
+      "C. 2022",
+      "D. 1994"
+     ],
+     "options": [
+      "I-B, II-D, III-A, IV-C",
+      "I-D, II-C, III-B, IV-A",
+      "I-C, II-A, III-D, IV-B",
+      "I-A, II-B, III-C, IV-D"
+     ],
+     "answer": 0,
+     "explanation": "Sapporo hosted the Winter Games in 1972 (I-B), Lillehammer in 1994 (II-D), Sochi in 2014 (III-A) and Beijing in 2022 (IV-C). Each other option pairs at least one host with a wrong year.",
+     "source": "https://www.olympics.com/en/olympic-games/sapporo-1972 ; https://www.olympics.com/en/olympic-games/lillehammer-1994 ; https://www.olympics.com/en/olympic-games/sochi-2014 ; https://www.olympics.com/ioc/news/beijing-named-host-city-of-olympic-winter-games-2022 ; https://www.worldatlas.com/articles/which-cities-have-hosted-the-winter-olympic-games.html"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The International Olympic Committee is headquartered in Lausanne, Switzerland.",
+     "reason": "Lausanne is the capital city of Switzerland.",
+     "answer": 2,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "A is true: the IOC's headquarters, Olympic House, is in Lausanne on the shore of Lake Geneva and was formally opened in June 2019. R is false: Lausanne is a city on Lake Geneva and is not the national capital of Switzerland.",
+     "source": "https://olympics.com/ioc/olympic-house ; https://olympics.com/ioc/2019-inauguration-of-the-new-olympic-house ; https://www.euronews.com/2019/06/23/ioc-inaugurates-new-headquarters-as-2026-games-vote-looms ; https://www.iamexpat.ch/expat-info/swiss-expat-news/bern-capital-switzerland"
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The International Olympic Committee was founded in 1894 at a congress held in Paris.",
+      "2. The Olympic flag was first used at the Olympic Games in Antwerp in 1920.",
+      "3. The IOC awarded the 2028 Summer Olympic Games to Los Angeles in 2017.",
+      "4. Athens hosted the first modern Olympic Games, in 1896."
+     ],
+     "mode": "correct",
+     "answer": 3,
+     "truth": [
+      true,
+      true,
+      true,
+      true
+     ],
+     "explanation": "All four statements are correct. The IOC was founded at a Paris congress in 1894; the Olympic flag debuted at Antwerp in 1920; the IOC awarded the 2028 Summer Games to Los Angeles in September 2017; and Athens hosted the first modern Games in 1896. The answer is All four.",
+     "source": "https://olympics.com/ioc/paris-1894-olympic-congress ; https://www.paris.fr/en/pages/pierre-de-coubertin-and-the-origin-of-the-olympic-games-27628 ; https://olympics.com/ioc/olympic-flag ; https://olympics.com/ioc/news/flying-the-flag ; https://olympic-museum.de/various/flag.php ; https://vnews.com/2017/09/13/doubling-down-paris-awarded-24-olympics-la-gets-28-12481877/ ; https://athleticsweekly.com/news/paris-and-la-to-host-2024-and-2028-olympics-68854/ ; https://www.history.co.uk/this-day-in-history/06-april/first-modern-olympic-games ; https://ehistory.osu.edu/node/290043"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. The 1900 Olympic Games were held in Paris as part of the 1900 World's Fair.",
+      "II. The 1900 Olympic Games were spread over a period of about five months.",
+      "III. The 1900 Olympic Games were held in London."
+     ],
+     "options": [
+      "I and III only",
+      "II and III only",
+      "I and II only",
+      "All of the above"
+     ],
+     "answer": 2,
+     "truth": [
+      true,
+      true,
+      false
+     ],
+     "explanation": "Statements I and II are correct: the 1900 Games were held in Paris within the Exposition Universelle and were spread over about five months. Statement III is false because the 1900 Games were held in Paris, not London. The answer is 'I and II only'.",
+     "source": "https://www.olympedia.org/editions/2 ; https://athleticsweekly.com/meeting/1900-paris-olympic-games/ ; https://www.cbc.ca/sports/2.720/paris-almost-put-an-end-to-the-olympic-movement-1.709776"
+    }
+   ]
+  }
+ ]
+}

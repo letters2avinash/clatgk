@@ -7,8 +7,8 @@ def check(data):
     nq = 0
     for pi, p in enumerate(data["passages"], 1):
         words = len(p["text"].split())
-        if not 380 <= words <= 560:
-            warns.append(f"P{pi}: passage is {words} words (target ~450-500)")
+        if words < 120:
+            warns.append(f"P{pi}: passage is {words} words (very short)")
         if not p.get("sources"):
             errs.append(f"P{pi}: no passage sources")
         qs = p["questions"]

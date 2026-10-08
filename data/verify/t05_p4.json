@@ -1,0 +1,243 @@
+{
+  "passage_file": "data/draft/t05_p4.json",
+  "passage_claims": [
+    {
+      "claim": "NSO first advance estimates 7 Jan 2026: GDP 7.4% vs 6.5%, GVA 7.3%",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://deccanchronicle.com/business/gdp-to-grow-at-74-in-fy26-on-strong-manufacturing-services-govt-data-1928917",
+        "https://www.india-briefing.com/news/india-gdp-growth-forecast-fy-2025-26-41786.html/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Services 9.1%",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://deccanchronicle.com/business/gdp-to-grow-at-74-in-fy26-on-strong-manufacturing-services-govt-data-1928917",
+        "https://www.newsonair.gov.in/india-a-global-bright-spot-with-7-4-gdp-growth-outlook-fm-nirmala-sitharaman"
+      ],
+      "note": "FM statement via AIR plus Deccan Chronicle"
+    },
+    {
+      "claim": "Survey tabled 29 Jan 2026 by Sitharaman; PFCE 61.5%, highest since FY12",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.downtoearth.org.in/amp/story/economy/economic-survey-2026-consumption-growth-to-slow-down-slightly-despite-rise-in-domestic-demand",
+        "https://prsindia.org/policy/report-summaries/economic-survey-2025-26"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "CPI Dec 2025 1.33%, Nov 0.71%, food -2.71%, below lower band 4th month, released 12 Jan",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.fibre2fashion.com/news/retail-policy/india-s-cpi-inflation-rate-1-33-in-dec-2025-307696-newsdetails.htm",
+        "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026112755001.pdf"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "WPI Dec 0.83%, released 14 Jan, ended two months of deflation",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.newsonair.gov.in/wpi-inflation-rises-to-0-83-in-december-2025",
+        "https://www.outlookbusiness.com/economy-and-policy/wholesale-price-inflation-rises-marginally-to-083-in-december"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "IIP Nov 2025 6.7%, 25-month high, mfg 8.0, mining 5.4, electricity -1.5, GST cuts 22 Sep",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/dec/doc20251229747001.pdf",
+        "https://www.etvbharat.com/en/business/india-industrial-output-rises-in-november-on-robust-manufacturing-enn25122903751",
+        "https://www.businesstoday.in/amp/latest/economy/story/gst-rate-cuts-notified-by-centre-effective-sept-22-companies-prepare-for-simplified-structure-494452-2025-09-17"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Core industries Dec 2025: 3.7%, cement 13.5, steel 6.9, coal 3.6, crude -5.6, gas -4.4, index 175.7 vs 169.4, Apr-Dec 2.6%, released 20 Jan",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.cholasecurities.com/news/economy-news/core-industries-index-grows-at-3-7-on-year-in-dec-25-cement-sees-excellent-spurt/1666064",
+        "https://www.ibtimes.co.in/indias-core-sector-growth-by-3-7-pc-dec-fertiliser-cement-coal-production-rise-896461"
+      ],
+      "note": "Policy Edge 5.3% outlier rejected; later revised to 4.7% but passage states provisional."
+    },
+    {
+      "claim": "Core 'fastest pace in four months'",
+      "verdict": "UNVERIFIABLE",
+      "sources": [],
+      "note": "Deleted from passage."
+    },
+    {
+      "claim": "Trade Dec 2025: exports $38.51bn +1.87%, imports $63.55bn, deficit $25.04bn, released 15 Jan",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.deccanherald.com/business/indias-exports-rise-187-to-385-billion-in-december-3862996",
+        "https://www.maritimegateway.com/imports-surge-widens-indias-trade-gap-despite-modest-export-rebound-in-december"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Inflation target 4% (2-6%) for 1 Apr 2026-31 Mar 2031, notification 25 Mar 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.basispointinsight.com/Story/government-retains-inflation-target-at-4--for-another-five-years_bb54c3fc1d9c.html",
+        "https://dce.visionias.in/news-today/2026-03-26/economy/union-government-notifies-the-inflation-target-for-2026-2031-under-flexible-inflation-targeting-fit-framework"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Three consecutive quarters outside band: RBI report with reasons and remedial action (s45ZN)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://vajiramandravi.com/current-affairs/section-45zn-of-the-reserve-bank-of-india-rbi-act-1934/",
+        "https://www.businesstoday.in/amp/latest/economy/story/rbis-report-on-breach-of-inflation-target-for-three-straight-quarters-not-to-be-made-public-govt-356070-2022-12-12"
+      ],
+      "note": ""
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Economic Division of DEA",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.businesstoday.in/amp/union-budget/story/union-budget-2026-who-are-the-minds-behind-the-economic-survey-stakeholders-and-its-components-512711-2026-01-23",
+        "https://anantamias.com/economic-survey/"
+      ],
+      "fix": null,
+      "note": "Kept."
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "MoSPI",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.thequint.com/news/business/mospi-orders-revamp-merges-nsso-cso-into-nso",
+        "https://www.drishtiias.com/daily-updates/daily-news-analysis/restructuring-of-indian-statistical-system/print_manually"
+      ],
+      "fix": null,
+      "note": "Correct but trivial and stem hands over context; dropped in the cull."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "MPC",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.scconline.com/blog/post/2016/10/01/constitution-of-monetary-policy-committee-under-the-reserve-bank-of-india-act-1934-notified",
+        "https://lawx.in/acts/section/48/489/4740"
+      ],
+      "fix": null,
+      "note": "Kept."
+    },
+    {
+      "index": 4,
+      "verdict": "FIX",
+      "my_answer": "I-B, II-C, III-D, IV-A",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "AMBIGUOUS"
+      ],
+      "sources": [
+        "https://vajiramandravi.com/current-affairs/article-113-of-indian-constitution/",
+        "https://ies.gov.in/arthapedia/concept/demand-grants",
+        "https://www.constitutionofindia.net/articles/article-114-appropriation-bills"
+      ],
+      "fix": "Item III reworded to 'Appropriation Bills (withdrawal of money from the Consolidated Fund)' because Art 110(1)(d) also mentions appropriation.",
+      "note": "Art 113 now backed by 3+ independent publishers. Kept."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "Both",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.commerce.gov.in/?p=3416",
+        "https://unstats.un.org/unsd/trade/events/2017/maldives/presentations/Day 1 India - Data Compilation Practices.pdf"
+      ],
+      "fix": null,
+      "note": "Kept."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "1 (both true, R does not explain A)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://ies.gov.in/index.php/arthapedia/concept/money-bill",
+        "https://blog.ipleaders.in/money-bill-in-india/"
+      ],
+      "fix": null,
+      "note": "Kept."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.businesstoday.in/amp/union-budget/story/economic-survey-tabled-in-lok-sabha-fy27-growth-seen-at-68-72-ahead-of-budget-513403-2026-01-29",
+        "https://vajiramandravi.com/current-affairs/?p=85052",
+        "https://www.basispointinsight.com/Story/economic-survey-sees-stable-economy--growth-potential-near-7-_f8b171db2522.html"
+      ],
+      "fix": null,
+      "note": "Potential growth ~7% now has 4 publishers. Kept."
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "All four",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-148-comptroller-and-auditor-general-of-india",
+        "https://www.constitutionofindia.net/articles/article-280-finance-commission"
+      ],
+      "fix": null,
+      "note": "Correct, but overlaps Q4 on Consolidated Fund and is off-passage; dropped in the cull."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": " rose 3.7 per cent in December 2025, its fastest pace in four months, with",
+      "new": " rose 3.7 per cent in December 2025, with",
+      "reason": "Four-month claim not found in any source"
+    }
+  ],
+  "summary": "All passage claims confirmed except 'fastest pace in four months', which was deleted. Six questions kept (Q1,3,4,5,6,7); Q2 and Q8 dropped as weak/overlapping though correct."
+}
