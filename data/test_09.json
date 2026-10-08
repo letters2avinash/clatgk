@@ -1,0 +1,727 @@
+{
+ "title": "CLAT GK - Test 09",
+ "date": "2026-10-08",
+ "duration_minutes": 50,
+ "marks_correct": 1,
+ "marks_wrong": -0.25,
+ "notes": "Generated with Haiku 5.5, then independently verified question by question by separate Sonnet agents using fresh searches (two-source rule; claims that could not be confirmed were removed or reworded; ambiguous, unchecked or overlapping questions were dropped). Several primary sources were unreachable, so residual risk is listed below. Not reviewed by a human.",
+ "residual": [
+  "Passage 1: Meghwal's X post not read directly; passage reworded to 'in exercise of constitutional powers' (consultation-with-CJI wording dropped).",
+  "Passage 1: Appointee origins for Mohapatra, Kogje, Bhati, Mishra, Rao, Tripathi: pages not fetchable (hosts unreachable); confirmed from search snippets of several publishers.",
+  "Passage 1: Acting-CJ reasons confirmed only for Bombay, P&H, Calcutta, Chhattisgarh via snippets; 'transfers' dropped from last sentence.",
+  "Passage 1: Constitutional-text questions rest on constitutionofindia.net/indiankanoon snippets plus exam-prep explainers; official text pages were not fetched (WebFetch failed).",
+  "Passage 1: Rajasthan appointee (Agrawal) still omitted; passage names seven of the eight courts.",
+  "Passage 2: Passage is very short (~115 words); not padded.",
+  "Passage 2: Ceremony date: signature 11 Jan (NASA, Portuguese media) vs ceremony 12 Jan; passage states only the 11 Jan signing.",
+  "Passage 2: Arrigo and Costa remarks and Isaacman welcome rest on NASA release plus ptspace.pt/search summaries; NASA/SpacePolicyOnline pages not fetchable (WebFetch blocked).",
+  "Passage 2: Semi-annual meeting: Innovation News plus Portuguese media (RTP/eco) via snippets only.",
+  "Passage 2: Artemis II launch 1 April 2026 18:35 EDT from KSC: AP-syndicated and Sky at Night via snippets; NASA page not fetched.",
+  "Passage 2: Accords non-binding/no enforcement (Q5 reason): academic and commentary sources, no CRS or State Dept page found.",
+  "Passage 2: Ten principles (Q4): GeekWire/NASA-document summaries via snippets; NASA PDF not fetched directly.",
+  "Passage 3: Q1 reason (Art 368 special majority wording): confirmed only by exam-prep sites quoting the text; no primary text page opened.",
+  "Passage 3: Passage 334A claim (reservation could follow delimitation): rests on Vision IAS and PolicyEdge summaries plus PRS snippet; bill text PDF not opened.",
+  "Passage 3: Withdrawal of companion bills: LiveLaw, Vision IAS, Drishti, Brut agree, but Kashmir Times reports the bills remain listed in the Lok Sabha registry.",
+  "Passage 3: Q3 Article 324: confirmed via Indian Kanoon constitution text and Vajiram only; constitutionofindia.net page not reached.",
+  "Passage 3: Q4 Articles 81, 169, 170, 239AA: constitutionofindia.net pages seen only as search results, not opened.",
+  "Passage 3: Q2 distractors 101st/103rd/105th: confirmed by news and tax sites, not by primary text.",
+  "Passage 3: Passage is very short (about 190 words); not padded.",
+  "Passage 4: Judges' 'stylistic tour-de-force' wording: iSchool page plus search-tool summary of pulitzer.org citation; pulitzer.org page could not be fetched directly.",
+  "Passage 4: $15,000 award for Drama and Fiction: pulitzer.org (2017 raise, Fiction category text) and iSchool/Broadway sources; no 2026-specific board statement seen.",
+  "Passage 4: Q6 Sahitya Akademi inaugurated 12 March 1954: Scroll plus official site seen only as search snippet (fetch failed); Wikipedia and exam sites agree.",
+  "Passage 4: Q3: 2022 filing year rests on Free Beacon, Editor & Publisher, Bloomberg Law and Fox; December month from one source; defendants were board members.",
+  "Passage 4: Q4 country pairings are trivial static facts; Sahitya Akademi in India rests on the Akademi's own page and encyclopedic sources.",
+  "Passage 4: Q5 reason's falsity: pulitzer.org rules page seen via search summary only; iSchool and Chicago Humanities snippets say 'American author'.",
+  "Passage 4: Passage is short (about 171 words) because only confirmed facts were kept.",
+  "Passage 5: Article 109, 74(1), 75(3), 148, 266, 267, 112 and 280 confirmed only via legal-text reproduction sites and exam-prep explainers; official constitution text not opened.",
+  "Passage 5: Urea-sector decision rests on Vajiram and press headlines/summaries; no PIB release opened.",
+  "Passage 5: Semicon 2.0 figures and six pillars from news and explainer sites; PIB release not opened.",
+  "Passage 5: ISM 1.0 under MeitY rests on exam-prep explainers (ForumIAS, Anantam) and ISM-in-Digital India Corporation descriptions; Dec 2021 date and Rs 76,000 crore have several news publishers.",
+  "Passage 5: Passage is very short (about 125 words) but all claims confirmed.",
+  "Static-GK explanations cite Wikipedia or exam-prep pages in places where a primary text was not reachable."
+ ],
+ "passages": [
+  {
+   "title": "Eight High Courts get new Chief Justices",
+   "topic_tags": [
+    "Appointments",
+    "High Courts",
+    "Judiciary",
+    "Constitution"
+   ],
+   "slot": "T09P1",
+   "text": "The Centre notified the appointment of Chief Justices for eight High Courts on 5 September 2026. Law Minister Arjun Ram Meghwal announced the appointments on X, saying the President had made them in exercise of constitutional powers.\n\nThe appointments followed Supreme Court Collegium recommendations made in August 2026. Four of the names had been recommended for the High Courts of Calcutta, Bombay, Patna and Punjab and Haryana. Among the appointees, Justice V. Kameswar Rao, a Delhi High Court judge, was named Chief Justice of the Patna High Court. Justice Ravindra Vithalrao Ghuge was named for Calcutta, and Justice Mahesh Chandra Tripathi, of the Allahabad High Court, for Bombay.\n\nJustice Ashwani Kumar Mishra was named Chief Justice of the Punjab and Haryana High Court. Justice Krushna Ram Mohapatra, of the Orissa High Court, was named for Chhattisgarh. Justice Alpesh Yeshvant Kogje, of the Gujarat High Court, was named for Madhya Pradesh, and Justice Pushpendra Singh Bhati, of the Rajasthan High Court, for Jammu and Kashmir and Ladakh.\n\nThe Collegium's recommendations came as several High Courts were being run by acting Chief Justices after retirements and elevations to the Supreme Court.",
+   "sources": [
+    "https://www.scconline.com/blog/post/2026/09/07/chief-justice-8-high-courts-appointed-scc-times/",
+    "https://www.livelaw.in/high-court/all-high-courts/centre-notifies-appointments-for-chief-justices-at-eight-high-courts-548759",
+    "https://www.deccanherald.com/india/centre-appoints-chief-justices-of-eight-high-courts-3201084",
+    "https://www.verdictum.in/court-updates/high-courts/appointment-of-chief-justice-across-eight-high-courts-1621457",
+    "https://www.livelaw.in/news-updates/supreme-court-collegium-recommends-appointment-of-chief-justices-to-3-high-courts-547999",
+    "https://www.scconline.com/blog/post/2026/09/01/sc-collegium-recommends-appointment-chief-justices/",
+    "https://www.barandbench.com/news/litigation/justice-rv-ghuge-appointed-chief-justice-of-calcutta-high-court"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Under which Article of the Constitution is every High Court judge appointed by the President through a warrant under his hand and seal?",
+     "options": [
+      "Article 216",
+      "Article 219",
+      "Article 217",
+      "Article 214"
+     ],
+     "answer": 2,
+     "explanation": "Article 217(1) provides that every High Court judge is appointed by the President by warrant under his hand and seal, after consultation with the CJI, the Governor of the State and, for judges other than the Chief Justice, the Chief Justice of that High Court.",
+     "source": "https://www.constitutionofindia.net/articles/article-217-appointment-and-conditions-of-the-office-of-a- ; https://vajiramandravi.com/current-affairs/article-217-of-the-indian-constitution/"
+    },
+    {
+     "type": "direct",
+     "q": "Which Article empowers the President, after consulting the Chief Justice of India, to transfer a High Court judge from one High Court to another?",
+     "options": [
+      "Article 216",
+      "Article 219",
+      "Article 222",
+      "Article 224"
+     ],
+     "answer": 2,
+     "explanation": "Article 222 allows the President, after consultation with the Chief Justice of India, to transfer a judge from one High Court to any other High Court. Article 224 deals with additional and acting judges.",
+     "source": "https://www.constitutionofindia.net/articles/article-222-transfer-of-a-judge-from-one-high-court-to-another ; https://lawyersupdate.co.in/?p=2909"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 129",
+      "II. Article 226",
+      "III. Article 227",
+      "IV. Article 233"
+     ],
+     "list2": [
+      "A. Power of a High Court to issue writs for enforcing fundamental rights or for any other purpose",
+      "B. Appointment and posting of district judges in a State",
+      "C. Supreme Court declared to be a court of record",
+      "D. Superintendence over all courts and tribunals in the High Court's territory"
+     ],
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-C, III-A, IV-B",
+      "I-B, II-D, III-C, IV-A"
+     ],
+     "answer": 1,
+     "explanation": "Article 129 makes the Supreme Court a court of record (C). Article 226 gives High Courts writ jurisdiction (A). Article 227 gives superintendence over subordinate courts and tribunals (D). Article 233 covers appointment and posting of district judges (B).",
+     "source": "https://www.apnilaw.com/upsc/indian-constitution/article-129-supreme-court-as-court-of-record/ ; https://www.lawweb.in/2024/03/what-is-distinction-between-article-226.html ; https://vidhijudicial.com/article-227-of-the-constitution-of-india.html ; https://www.livelaw.in/amp/top-stories/governor-can-consult-only-high-court-on-district-judges-appointment-supreme-court-faults-haryana-govt-for-seeking-unions-opinion-252567"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Parliament may by law increase the number of judges of the Supreme Court beyond the number initially fixed in the Constitution.",
+     "reason": "Supreme Court judges hold office until the age of 65 years.",
+     "answer": 1,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both are true: Article 124(1) lets Parliament prescribe a larger number of judges by law, and Article 124(2) fixes tenure to age 65. The tenure age does not explain why Parliament can change the strength of the Court, so R is true but not the reason for A.",
+     "source": "https://future.indiankanoon.org/doc/1995948 ; https://forumias.com/blog/article-124-of-indian-constitution/"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Under Article 224, the President may appoint additional judges of a High Court for a term of up to five years.",
+      "II. Under Article 223, the Governor of a State appoints the acting Chief Justice of a High Court."
+     ],
+     "answer": 3,
+     "truth": [
+      false,
+      false
+     ],
+     "explanation": "Neither is correct. Article 224(1) limits additional judges' term to not more than two years. Article 223 empowers the President, not the Governor, to appoint a High Court judge to act as Chief Justice.",
+     "source": "https://future.indiankanoon.org/doc/570782 ; https://forumias.com/blog/article-224-of-indian-constitution/ ; https://www.constitutionofindia.net/?p=1451 ; https://lawyersupdate.co.in/?p=203"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. Under Article 124, Supreme Court judges are appointed by the President.",
+      "II. A Supreme Court judge may resign only with the prior approval of Parliament.",
+      "III. Parliament may by law provide the authority and manner for determining a Supreme Court judge's age."
+     ],
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "All of the above"
+     ],
+     "answer": 2,
+     "explanation": "Statements I and III are correct: Article 124(2) provides for presidential appointment, and Article 124(2A) leaves age determination to Parliament's law. Statement II is wrong because under Article 124(2) a judge resigns by writing to the President.",
+     "source": "https://future.indiankanoon.org/doc/1995948 ; https://vajiramandravi.com/current-affairs/?p=90483 ; https://studyhub.net.in/?p=17234"
+    }
+   ],
+   "residual": [
+    "Meghwal's X post not read directly; passage reworded to 'in exercise of constitutional powers' (consultation-with-CJI wording dropped).",
+    "Appointee origins for Mohapatra, Kogje, Bhati, Mishra, Rao, Tripathi: pages not fetchable (hosts unreachable); confirmed from search snippets of several publishers.",
+    "Acting-CJ reasons confirmed only for Bombay, P&H, Calcutta, Chhattisgarh via snippets; 'transfers' dropped from last sentence.",
+    "Constitutional-text questions rest on constitutionofindia.net/indiankanoon snippets plus exam-prep explainers; official text pages were not fetched (WebFetch failed).",
+    "Rajasthan appointee (Agrawal) still omitted; passage names seven of the eight courts."
+   ]
+  },
+  {
+   "title": "Portugal Joins the Artemis Accords",
+   "topic_tags": [
+    "Science, space & tech",
+    "Space",
+    "International cooperation",
+    "Static GK"
+   ],
+   "slot": "T09P2",
+   "status": "verified",
+   "text": "Portugal became the 60th signatory to the Artemis Accords in January 2026. Helena Canhão, Portugal's Secretary of State for Science and Innovation, signed the accords on behalf of the country on 11 January. A ceremony in Lisbon was attended by John J. Arrigo, the United States Ambassador to Portugal, and Hugo Costa, executive director of the Portuguese Space Agency. The event coincided with a semi-annual meeting on cooperation between the United States and Portugal. NASA Administrator Jared Isaacman welcomed Portugal as the newest signatory. Arrigo called Portugal's decision a meaningful step forward for responsible space exploration. Costa said that 2026 is the year humans return to the Moon, which will mark the beginning of a new era of space exploration, recalling Portuguese explorers such as Magellan.",
+   "sources": [
+    "https://www.nasa.gov/news-release/nasa-welcomes-portugal-as-60th-artemis-accords-signatory",
+    "https://ptspace.pt/?p=86347",
+    "https://spacepolicyonline.com/news/artemis-accords-reach-another-milestone-with-portugal/",
+    "https://www.innovationnewsnetwork.com/portugal-joins-global-space-exploration-efforts-by-signing-artemis-accords/65407/",
+    "https://observador.pt/2026/01/12/portugal-assina-acordos-artemis-e-torna-se-no-60-o-pais-comprometido-com-exploracao-responsavel-da-lua-e-de-marte/",
+    "https://eco.sapo.pt/2026/01/12/portugal-assina-acordos-artemis-com-eua-para-exploracao-do-espaco/"
+   ],
+   "writer_flags": [
+    "Passage is about 120 words of double-sourced text, below the 220-word floor; no topic switch was made because the search budget (11 of 20 used) was tight",
+    "Ceremony date conflicts: NASA dates the Lisbon ceremony 12 Jan 2026, Universe Magazine dates it 11 Jan; passage avoids stating a ceremony date",
+    "Arrigo 'significant move towards responsible space exploration' quote: wording differs across sources; treat as single-sourced",
+    "Semi-annual US-Portugal meeting: from Innovation News and one search summary only; the '52nd Standing Bilateral Commission' label is single-sourced and omitted",
+    "Hugo Costa's remarks about returning humans to the Moon and Magellan: NASA release only; omitted from passage",
+    "Latvia counting dispute (Behind the Black, Oct 2025 Latvian claim): single-sourced; omitted",
+    "Q1 Artemis II commander Reid Wiseman, Q6 Canadian and Christina Koch crew membership: from NASA live-coverage summary and secondary sites; NASA's own crew page not fetched (WebFetch blocked)",
+    "Q7 Artemis II launch on 1 April 2026 at KSC: from a NASA live-coverage summary only; second outlet confirms only the planned April 1 target",
+    "Q3, Q4, Q5: 'eight original signatories', '10 principles', '1967 Outer Space Treaty basis', 'launched 13 Oct 2020' rest on search snippets (Wikipedia copy, NBC, Brighter Side, Space Odyssey Hub); the 13 Oct 2020 launch date was not in every snippet and is not used in any question",
+    "Q2: Washington signing city for North Atlantic Treaty (4 Apr 1949): CVCE and NATO snippets",
+    "Q8: 24 Aug 1949 entry into force from a NATO snippet; 1 Jan 1950 is a distractor only",
+    "Q4 match: distractor 10 principles is unverified beyond one snippet; retain if the verifier can confirm the principles count"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Who was the commander of NASA's Artemis II crewed mission?",
+     "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Eugene Cernan",
+      "Reid Wiseman"
+     ],
+     "answer": 3,
+     "explanation": "Reid Wiseman commanded Artemis II, which launched in April 2026. The other three names are Apollo-era astronauts who did not fly on Artemis II.",
+     "source": "https://spacepolicyonline.com/news/wiseman-glover-koch-and-hansen-the-crew-of-artemis-ii/ ; https://www.asc-csa.gc.ca/eng/multimedia/search/image/17687 ; https://www.nasa.gov/image-article/artemis-ii-crew-revealed/"
+    },
+    {
+     "type": "direct",
+     "q": "Which of the following countries was NOT among the original signatories of the Artemis Accords?",
+     "options": [
+      "Japan",
+      "Luxembourg",
+      "Italy",
+      "France"
+     ],
+     "answer": 3,
+     "explanation": "The original signatories were Australia, Canada, Italy, Japan, Luxembourg, the UAE, the UK and the US. France was not among them.",
+     "source": "https://spacepolicyonline.com/news/eight-countries-sign-artemis-accords/ ; https://www.nbcnews.com/science/space/eight-nations-sign-nasa-led-artemis-accords-guide-moon-exploration-n1243398 ; https://eco.sapo.pt/2026/01/12/portugal-assina-acordos-artemis-com-eua-para-exploracao-do-espaco/"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Year in which the Artemis Accords were launched",
+      "II. Year of the Outer Space Treaty on which the Accords' principles are grounded",
+      "III. Number of original signatories of the Artemis Accords",
+      "IV. Number of principles in the Artemis Accords"
+     ],
+     "list2": [
+      "A. 1967",
+      "B. 2020",
+      "C. 8",
+      "D. 10"
+     ],
+     "options": [
+      "I-B, II-A, III-C, IV-D",
+      "I-A, II-B, III-D, IV-C",
+      "I-C, II-A, III-B, IV-D",
+      "I-B, II-D, III-A, IV-C"
+     ],
+     "answer": 0,
+     "explanation": "The Accords were launched in 2020 (B) by eight original signatories (C). They set out ten principles (D) and are grounded in the 1967 Outer Space Treaty (A).",
+     "source": "https://www.geekwire.com/2020/nasa-lays-artemis-accords-international-cooperation-moon-missions/ ; https://spacepolicyonline.com/news/eight-countries-sign-artemis-accords/ ; https://www3.nasa.gov/specials/artemis-accords/img/Artemis-Accords-signed-13Oct2020.pdf"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The Artemis Accords are a legally binding treaty that the UN Security Council enforces against any signatory that breaks them.",
+     "reason": "The Artemis Accords are non-binding and provide no formal means of enforcement.",
+     "answer": 3,
+     "explanation": "Assertion is false: the Accords are not a binding treaty and the UN Security Council does not enforce them. Reason is true: the Accords are non-binding and have no formal enforcement mechanism, unlike the Outer Space Treaty.",
+     "source": "https://newspaceeconomy.ca/2026/04/06/the-artemis-accords-explained/ ; https://www.diplomacyandlaw.com/post/the-artemis-accords-and-international-space-law ; https://research.ceu.edu/en/publications/introductory-note-to-the-artemis-accords/",
+     "truth": [
+      false,
+      true
+     ]
+    },
+    {
+     "type": "statement_count",
+     "statements": [
+      "1. The Artemis II mission lifted off on 1 April 2026.",
+      "2. Artemis II was a crewed flight around the Moon that did not land on it.",
+      "3. Artemis II landed astronauts on the lunar surface.",
+      "4. Artemis II launched from Vandenberg Space Force Base in California."
+     ],
+     "mode": "correct",
+     "answer": 1,
+     "explanation": "Statements 1 and 2 are correct. Statement 3 is false because Artemis II was a flyby without landing, and statement 4 is false because the launch was from Kennedy Space Center in Florida. Two statements are correct, so the answer is 'Only two'.",
+     "source": "https://www.skyatnightmagazine.com/news/artemis-ii-launch-video ; https://www.idahopress.com/ap_news/us/nasa-fuels-rocket-to-launch-astronauts-on-the-first-lunar-trip-in-half-a-century/article_d36a34ce-6136-506a-a521-76c39bdf71c2.html ; https://wtop.com/?p=29134254",
+     "truth": [
+      true,
+      true,
+      false,
+      false
+     ]
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. The North Atlantic Treaty was signed on 4 April 1949.",
+      "II. The North Atlantic Treaty entered into force on 1 January 1950.",
+      "III. Portugal was one of the original signatories of the North Atlantic Treaty."
+     ],
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "All of the above"
+     ],
+     "answer": 1,
+     "explanation": "Statements I and III are true. The treaty was signed on 4 April 1949 and Portugal was an original signatory. Statement II is false because the treaty entered into force on 24 August 1949.",
+     "source": "https://treaties.un.org/doc/Publication/UNTS/Volume%2034/volume-34-I-541-English.pdf ; https://www.cvce.eu/en/recherche/unit-content/-/unit/a7b75b14-91dc-48dd-9df0-a0d51a9edfef/a815319b-8421-412c-a006-79c314af0fd2 ; https://www.nato.int/cps/en/natohq/topics_67656.htm",
+     "truth": [
+      true,
+      false,
+      true
+     ]
+    }
+   ],
+   "residual": [
+    "Passage is very short (~115 words); not padded.",
+    "Ceremony date: signature 11 Jan (NASA, Portuguese media) vs ceremony 12 Jan; passage states only the 11 Jan signing.",
+    "Arrigo and Costa remarks and Isaacman welcome rest on NASA release plus ptspace.pt/search summaries; NASA/SpacePolicyOnline pages not fetchable (WebFetch blocked).",
+    "Semi-annual meeting: Innovation News plus Portuguese media (RTP/eco) via snippets only.",
+    "Artemis II launch 1 April 2026 18:35 EDT from KSC: AP-syndicated and Sky at Night via snippets; NASA page not fetched.",
+    "Accords non-binding/no enforcement (Q5 reason): academic and commentary sources, no CRS or State Dept page found.",
+    "Ten principles (Q4): GeekWire/NASA-document summaries via snippets; NASA PDF not fetched directly."
+   ]
+  },
+  {
+   "title": "Constitution (131st Amendment) Bill defeated in Lok Sabha",
+   "topic_tags": [
+    "Polity & governance",
+    "Constitution",
+    "Parliament",
+    "Delimitation",
+    "Women's reservation"
+   ],
+   "slot": "T09P3",
+   "status": "complete",
+   "text": "On 17 April 2026, the Lok Sabha defeated the Constitution (One Hundred and Thirty-first Amendment) Bill, 2026. The bill received 298 votes in favour and 230 against, so more members voted for it than against, yet it was still defeated. The bill was tied to a fresh delimitation exercise, and the government had presented it as a way to bring women's reservation into effect sooner.\n\nThe bill proposed raising the strength of the Lok Sabha from 543 to 850 seats, with up to 815 members from the states and 35 from Union Territories. It sought to base the revised seat distribution on the 2011 Census. It also proposed amending Articles 82 and 334A so that delimitation was no longer tied to the first census after 2026, and the one-third reservation for women in the Lok Sabha and state assemblies could follow delimitation.\n\nOpposition parties argued that increasing seats on the basis of the 2011 Census would reduce the representation of southern and north-eastern states.\n\nAfter the defeat, the government withdrew two companion bills: the Delimitation Bill, 2026 and the Union Territories Laws (Amendment) Bill, 2026.",
+   "sources": [
+    "https://thesouthfirst.com/topstory/lok-sabha-defeats-constitution-131st-amendment-bill/",
+    "https://visionias.in/current-affairs/news-today/2026-04-18/polity-and-governance/constitution-131st-amendment-bill-2026-defeated-in-lok-sabha",
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/defeat-of-the-constitution-131st-amendment-bill-2026/print_manually",
+    "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736",
+    "https://visionias.in/current-affairs/news-today/2026-04-15/polity-and-governance/union-government-proposes-constitution-amendment-bill-to-change-composition-of-lok-sabha",
+    "https://www.brut.media/in/articles/why-was-the-delimitation-bill-2026-withdrawn-what-the-electoral-reform-bill-proposed",
+    "https://www.understandupsc.com/article-368-explained-why-constitutional-amendment-bill-2026-failed-in-parliament/",
+    "https://www.business-standard.com/politics/nari-shakti-amendment-bill-gets-defeated-in-lok-sabha-after-voting-126041701157_1.html",
+    "https://moneylife.in/article/lok-sabha-rejects-constitution-amendment-bill-delimitation-push-hits-roadblock/80247.html"
+   ],
+   "questions": [
+    {
+     "type": "assertion_reason",
+     "assertion": "The Constitution (131st Amendment) Bill, 2026 was defeated in the Lok Sabha on 17 April 2026 even though more members voted for it than against it.",
+     "reason": "A constitutional amendment must be passed by a special majority: a majority of the House's total membership and a two-thirds majority of the members present and voting.",
+     "answer": 0,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both statements are true. The bill got 298 votes for and 230 against, but the special majority under Article 368 was not met. The reason states the requirement that directly explains the defeat.",
+     "source": "https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736 ; https://www.thehitavada.com/Encyc/2026/4/18/womens-quota-bill-defeated-in-ls-298-members-supported-the-bill-while-230-voted-against-it.html ; https://forumias.com/blog/article-368-of-indian-constitution/ ; https://unacademy.com/content/special-majority-of-parliament/"
+    },
+    {
+     "type": "direct",
+     "q": "Which Constitution Amendment Act of 2023 provided for reserving one-third of seats for women in the Lok Sabha and State Legislative Assemblies?",
+     "options": [
+      "106th Amendment",
+      "105th Amendment",
+      "103rd Amendment",
+      "101st Amendment"
+     ],
+     "answer": 0,
+     "explanation": "The Constitution (106th Amendment) Act, 2023, known as the Nari Shakti Vandan Adhiniyam, inserted Article 334A. The 101st (GST), 103rd (EWS reservation) and 105th (state power to identify OBCs) amendments dealt with other subjects.",
+     "source": "https://thelegalquorum.com/an-analysis-of-the-106th-constitutional-amendment/ ; https://laex.in/prelims-fact-sheet/106th-constitutional-amendment-act-2023/ ; https://mondaq.com/india/tax-authorities/1175284/decoding-the-constitutional-provisions-behind-gst ; https://www.thenewsminute.com/news/ews-reservation-judgement-here-s-what-five-judges-said-169719 ; https://scroll.in/latest/1003312/scroll_in"
+    },
+    {
+     "type": "direct",
+     "q": "Under Article 324 of the Constitution, which body is vested with the superintendence, direction and control of the preparation of electoral rolls and the conduct of elections to Parliament and State Legislatures?",
+     "options": [
+      "Union Public Service Commission",
+      "Comptroller and Auditor General",
+      "Finance Commission",
+      "Election Commission of India"
+     ],
+     "answer": 3,
+     "explanation": "Article 324 vests superintendence, direction and control of elections in the Election Commission of India. The other bodies have different constitutional functions.",
+     "source": "https://future.indiankanoon.org/doc/950881 ; https://vajiramandravi.com/current-affairs/?p=126106 ; https://www.careers360.com/question-article-of-the-indian-constitution-provides-for-superintendence-direction-and-control-of-elections-vested-in-an-election-commission-lnq"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 81",
+      "II. Article 169",
+      "III. Article 170",
+      "IV. Article 239AA"
+     ],
+     "list2": [
+      "A. Composition of the House of the People",
+      "B. Creation or abolition of Legislative Councils",
+      "C. Composition of State Legislative Assemblies",
+      "D. Legislative Assembly of Delhi"
+     ],
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-A, II-C, III-B, IV-D",
+      "I-C, II-A, III-B, IV-D",
+      "I-B, II-A, III-D, IV-C"
+     ],
+     "answer": 0,
+     "explanation": "Article 81 deals with the House of the People, Article 169 with creating or abolishing Legislative Councils, Article 170 with State Legislative Assemblies, and Article 239AA with Delhi's Legislative Assembly.",
+     "source": "https://www.constitutionofindia.net/articles/article-170-composition-of-the-legislative-assemblies/ ; https://www.constitutionofindia.net/constitution_of_india/the_union/articles/Article%2081 ; https://www.advocatekhoj.com/library/bareacts/constitutionofindia/169.php ; https://www.constitutionofindia.net/articles/article-239aa-special-provisions-with-respect-to-delhi/"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. The Delimitation Bill, 2026 was introduced to repeal and replace the Delimitation Act, 1952.",
+      "II. The Union Territories Laws (Amendment) Bill, 2026 extended its changes only to Ladakh."
+     ],
+     "answer": 3,
+     "explanation": "Neither statement is correct. The Delimitation Bill aimed to replace the Delimitation Act, 2002. The Union Territories Laws bill covered Delhi, Puducherry and Jammu and Kashmir, not only Ladakh.",
+     "source": "https://prsindia.org/files/bills_acts/bills_parliament/2026/Summary_Delimitation_Bill_2026.pdf ; https://www.businesstoday.in/amp/india/story/parliament-session-delimitation-bill-2026-on-agenda-today-heres-what-changes-in-parliament-state-assemblies-525754-2026-04-16 ; https://prsindia.org/files/bills_acts/bills_parliament/2026/Summary_UT_(A)_Bill_2026.pdf ; https://www.scconline.com/blog/post/2026/04/18/union-territories-laws-amendment-bill-2026-delimitation-representation/ ; https://www.etvbharat.com/en/bharat/govt-plans-to-make-changes-in-union-territories-laws-enn26041406627"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. A Money Bill can be introduced only in the Lok Sabha.",
+      "II. The Rajya Sabha must return a Money Bill within 14 days, with or without recommendations.",
+      "III. The Rajya Sabha has the power to reject a Money Bill outright."
+     ],
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I and III only",
+      "All of the above"
+     ],
+     "answer": 1,
+     "explanation": "Statements I and II are correct under Article 109. Statement III is wrong because the Rajya Sabha can only recommend amendments and cannot reject a Money Bill.",
+     "source": "https://ies.gov.in/arthapedia/concept/money-bill ; https://blog.ipleaders.in/money-bill-in-india/ ; https://www.careers360.com/question-a-money-bill-should-be-returned-to-the-lok-sabha-within-days-by-rajya-sabha-either-with-recommendations-or-without-recommendations-lnq"
+    }
+   ],
+   "residual": [
+    "Q1 reason (Art 368 special majority wording): confirmed only by exam-prep sites quoting the text; no primary text page opened.",
+    "Passage 334A claim (reservation could follow delimitation): rests on Vision IAS and PolicyEdge summaries plus PRS snippet; bill text PDF not opened.",
+    "Withdrawal of companion bills: LiveLaw, Vision IAS, Drishti, Brut agree, but Kashmir Times reports the bills remain listed in the Lok Sabha registry.",
+    "Q3 Article 324: confirmed via Indian Kanoon constitution text and Vajiram only; constitutionofindia.net page not reached.",
+    "Q4 Articles 81, 169, 170, 239AA: constitutionofindia.net pages seen only as search results, not opened.",
+    "Q2 distractors 101st/103rd/105th: confirmed by news and tax sites, not by primary text.",
+    "Passage is very short (about 190 words); not padded."
+   ]
+  },
+  {
+   "title": "2026 Pulitzer Prizes announced",
+   "topic_tags": [
+    "Awards",
+    "Pulitzer Prize",
+    "Literature",
+    "Drama",
+    "Journalism"
+   ],
+   "slot": "T09P4",
+   "status": "complete",
+   "text": "The Pulitzer Prize Board announced the 2026 Pulitzer Prizes on 4 May 2026. In journalism, the Minnesota Star Tribune staff won Breaking News Reporting, and Mark Lamster of The Dallas Morning News won Criticism. Aaron Parsley of Texas Monthly won Feature Writing. The Washington Post won Public Service, with The Wall Street Journal and the Chicago Tribune as finalists. The New York Times staff won Investigative Reporting, with ProPublica's Debbie Cenziper, Megan Rose and Brandon Roberts as finalists. Reuters staff won National Reporting.\n\nIn the arts, Bess Wohl won the Drama prize for Liberation, a play that examines the legacy of the consciousness-raising feminist groups of the 1970s. Daniel Kraus won the Fiction prize for Angel Down, a World War I novel told in a single sentence. The judges called it a stylistic tour-de-force that blends allegory, magical realism and science fiction into a cohesive whole. Jill Lepore won the History prize for We the People: A History of the U.S. Constitution.\n\nDrama and fiction winners each receive a $15,000 award.",
+   "sources": [
+    "https://www.npr.org/2026/05/04/nx-s1-5803483/pulitzer-prize-winners-2026",
+    "https://www.pulitzer.org/news/2026-pulitzer-prize-announcement",
+    "https://www.washingtonpost.com/pr/2026/05/04/read-washington-posts-2026-pulitzer-prize-winners/",
+    "https://www.propublica.org/about/pulitzer-prize-winners-and-finalists",
+    "https://www.keranews.org/arts-culture/2026-05-04/dallas-morning-news-and-texas-monthly-journalists-win-pulitzer-prizes",
+    "https://www.texasmonthly.com/press-room/senior-editor-aaron-parsley-wins-2026-pulitzer-prize-for-feature-writing/",
+    "https://www.broadwaynews.com/liberation-wins-2026-pulitzer-prize-for-drama/",
+    "https://www.broadway.com/buzz/207086/bess-wohls-liberation-wins-the-2026-pulitzer-prize-for-drama/",
+    "https://ischool.illinois.edu/news-events/news/2026/05/kraus-wins-2026-pulitzer-prize-award-fiction",
+    "https://www.bostonglobe.com/2026/05/18/arts/jill-lepore-pulitzer/"
+   ],
+   "writer_flags": [
+    "Passage is about 185 words; only facts with two publishers are included, so it falls short of the 220-word floor",
+    "Judges' quote 'stylistic tour-de-force' rests on mande.net plus the iSchool page; second source is thin",
+    "Fiction and Drama $15,000 award: iSchool (fiction) and Playbill (drama) only",
+    "Q1 Columbia administers the Pulitzers: idealist and academia-lab only; pulitzer.org not confirmed for this",
+    "Q2 Joseph Pulitzer died 1911: idealist, hungaricana and anniversaire-celebrite; one archival source",
+    "Q3 lawsuit against Pulitzer board filed 2022: NPR plus cswnewstest.duckdns.org (unclear publisher)",
+    "Q4 Sahitya Akademi / Booker / Goncourt country pairings: encyclopedic and aggregator sources",
+    "Q6 Prix Goncourt awarded since 1903: fnac and vikidia; founding dates disputed in sources",
+    "Q6 Sahitya Akademi inaugurated 1954: cheggindia and visionias; sources differ on institution year",
+    "Q7 Sahitya Akademi first given 1955: single aggregator source",
+    "Q7 Booker Prize founded 1969 by Booker McConnell: fantasticfiction and one other",
+    "Q7 Prix Goncourt first awarded 1913 is the false statement; relies on 1903 date above",
+    "Q8 Booker eligibility (English-language novels): sources partly dated; pre-2014 rules differ"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "Which US university administers the Pulitzer Prizes?",
+     "options": [
+      "Princeton University",
+      "Yale University",
+      "Harvard University",
+      "Columbia University"
+     ],
+     "answer": 3,
+     "explanation": "The Pulitzer Prizes are administered by Columbia University, which Joseph Pulitzer's will and bequest made the seat of the prizes and of its School of Journalism.",
+     "source": "https://www.britannica.com/topic/Pulitzer-Prize ; https://magazine.columbia.edu/article/first-pulitzer-prize"
+    },
+    {
+     "type": "direct",
+     "q": "In which year did the publisher Joseph Pulitzer, whose estate endowed the Pulitzer Prizes, die?",
+     "options": [
+      "1911",
+      "1917",
+      "1923",
+      "1898"
+     ],
+     "answer": 0,
+     "explanation": "Joseph Pulitzer died on 29 October 1911 aboard his yacht in Charleston harbor; the first Pulitzer Prizes followed in 1917.",
+     "source": "https://www.britannica.com/biography/Joseph-Pulitzer ; https://historicnewspapers.sc.edu/lccn/sn86063774/1911-11-02/ed-1/seq-6/"
+    },
+    {
+     "type": "direct",
+     "q": "In which year did a former US president file a defamation lawsuit in a Florida court against members of the Pulitzer Prize board over its refusal to rescind the 2018 prizes for Russia-related reporting?",
+     "options": [
+      "2022",
+      "2020",
+      "2024",
+      "2018"
+     ],
+     "answer": 0,
+     "explanation": "Donald Trump filed the suit in Florida in December 2022 against Pulitzer board members, over the board's refusal to rescind the 2018 prizes given to The New York Times and The Washington Post for their reporting on Russian interference in the 2016 election.",
+     "source": "https://freebeacon.com/media/florida-judge-rejects-pulitzer-prize-boards-attempt-to-delay-trump-russiagate-lawsuit/ ; https://editorandpublisher.com/stories/judge-rejects-bid-to-dismiss-trump-libel-suit-against-pulitzer-board,251026 ; https://news.bloomberglaw.com/litigation/trump-heads-to-discovery-phase-in-pulitzer-defamation-suit"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Pulitzer Prize",
+      "II. Booker Prize",
+      "III. Prix Goncourt",
+      "IV. Sahitya Akademi Award"
+     ],
+     "list2": [
+      "A. India",
+      "B. France",
+      "C. United Kingdom",
+      "D. United States"
+     ],
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-D, III-A, IV-C",
+      "I-D, II-C, III-B, IV-A",
+      "I-C, II-A, III-D, IV-B"
+     ],
+     "answer": 2,
+     "explanation": "The Pulitzer Prize is American (I-D), the Booker Prize is British (II-C), the Prix Goncourt is French (III-B) and the Sahitya Akademi Award is Indian (IV-A).",
+     "source": "https://thebookerprizes.com/the-booker-library/prize-years/1969 ; https://www.herodote.net/21_decembre_1903-evenement-19031221.php ; https://sahitya-akademi.gov.in/aboutus/about.jsp ; https://www.britannica.com/topic/Pulitzer-Prize"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "Daniel Kraus won the 2026 Pulitzer Prize for Fiction for the novel Angel Down.",
+     "reason": "The Pulitzer Prize for Fiction is open only to authors who are not citizens of the United States.",
+     "answer": 2,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "The assertion is true, but the reason is false: the Fiction prize is awarded for distinguished fiction by an American author, and eligibility covers US citizens, permanent residents and those with the US as longtime primary home, so it is not restricted to non-citizens.",
+     "source": "https://ischool.illinois.edu/news-events/news/2026/05/kraus-wins-2026-pulitzer-prize-award-fiction ; https://www.pulitzer.org/node/books-submission-faq-guidelines-and-requirements ; https://www.pulitzer.org/news/pulitzer-prize-board-amending-citizenship-requirement-books-drama-and-music"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Joseph Pulitzer was born in the United States.",
+      "II. The Sahitya Akademi was inaugurated in 1954."
+     ],
+     "answer": 1,
+     "truth": [
+      false,
+      true
+     ],
+     "explanation": "Statement I is false because Joseph Pulitzer was born in Makó, Hungary. Statement II is true: the Sahitya Akademi was formally inaugurated on 12 March 1954, so only II is correct.",
+     "source": "https://www.britannica.com/biography/Joseph-Pulitzer ; https://library.hungaricana.hu/en/view/MEGY_CSON_MMF_112/?pg=43 ; https://scroll.in/article/764479/seven-things-you-may-not-have-known-about-the-sahitya-akademi ; https://sahitya-akademi.gov.in/aboutus/about.jsp"
+    }
+   ],
+   "residual": [
+    "Judges' 'stylistic tour-de-force' wording: iSchool page plus search-tool summary of pulitzer.org citation; pulitzer.org page could not be fetched directly.",
+    "$15,000 award for Drama and Fiction: pulitzer.org (2017 raise, Fiction category text) and iSchool/Broadway sources; no 2026-specific board statement seen.",
+    "Q6 Sahitya Akademi inaugurated 12 March 1954: Scroll plus official site seen only as search snippet (fetch failed); Wikipedia and exam sites agree.",
+    "Q3: 2022 filing year rests on Free Beacon, Editor & Publisher, Bloomberg Law and Fox; December month from one source; defendants were board members.",
+    "Q4 country pairings are trivial static facts; Sahitya Akademi in India rests on the Akademi's own page and encyclopedic sources.",
+    "Q5 reason's falsity: pulitzer.org rules page seen via search summary only; iSchool and Chicago Humanities snippets say 'American author'.",
+    "Passage is short (about 171 words) because only confirmed facts were kept."
+   ],
+   "questions_dropped_note": "Original Q7 (statement_count) and Q8 (statement_multi) dropped."
+  },
+  {
+   "title": "Semicon 2.0 and Mobile Phone Manufacturing Scheme",
+   "topic_tags": [
+    "Economy & Budget",
+    "Cabinet decisions",
+    "Semiconductors",
+    "Electronics manufacturing",
+    "Static GK: Articles 74, 75, 109, 112, 148, 265, 266, 267, 280"
+   ],
+   "slot": "T09P5",
+   "text": "The Union Cabinet on 15 July 2026 approved seven decisions with a combined outlay of about ₹2.19 lakh crore. Two electronics schemes made up most of that amount.\n\nThe first is Semicon 2.0, the second phase of the India Semiconductor Mission, with an outlay of ₹1,27,500 crore. The government expects it to draw about ₹4 lakh crore in investment and to support semiconductor production worth ₹2 lakh crore during the scheme period. Its six focus areas are chip design, equipment and materials, new fabs, assembly and packaging, research and development, and talent. Support therefore extends beyond chip fabrication.\n\nThe second is the Mobile Phone Manufacturing Scheme, with a budgetary outlay of ₹62,500 crore for FY 2026-27 to FY 2030-31. It has two target segments: manufacturing in India, and Indian mobile phone brands. Its aim is to scale up domestic mobile phone production.\n\nTogether, the two schemes come to about ₹1.9 lakh crore. The same meeting also cleared highway projects and urea-sector decisions.",
+   "sources": [
+    "https://www.freepressjournal.in/business/cabinet-approves-219-lakh-crore-projects-including-semicon-20-and-mobile-scheme",
+    "https://www.republicworld.com/tech/union-cabinet-clears-rs-127-lakh-crore-semicon-20-mission-approves-rs-219-lakh-crore-package-of-key-projects-2026-07-15-132383",
+    "https://vajiramandravi.com/current-affairs/cabinet-approves-semicon-2-0/",
+    "https://dce.visionias.in/upsc-daily-news-summary/article/2026-07-16/the-hindu/economy/cabinet-approves-rs127-lakh-crore-for-semicon-mission-20-for-mobile-manufacturing-new-highways",
+    "https://www.thehitavada.com//Encyc/2026/7/16/government-unveils-rs-19-lakh-crore-semiconductor-mobile-manufacturing-push.html",
+    "https://www.cxodigitalpulse.com/cabinet-approves-%E2%82%B91-9-lakh-crore-semiconductor-and-mobile-manufacturing-push/",
+    "https://www.chronicleindia.in/current-affairs/17461-cabinet-approves-several-projects",
+    "https://startuptalky.com/news/cabinet-greenlights-inr-1-27-lakh-crore-semicon-mission-2-0/",
+    "https://openthemagazine.com/business/what-is-india-semiconductor-mission-ism-20-heres-why-the-127-lakh-crore-push-matters",
+    "https://www.sahi.com/news/india-targets-local-phone-brand-boost-with-new-62-500-crore-incentive-program-3872-PE1_COR",
+    "https://superkalam.com/current-affairs/22-08-2026/government-notifies-62-500-cr-mobile-phone-manufacturing-scheme-to-boost-global-competitiveness-and-deepen-domestic-value-addition-fb780ec7-cdaf-4659-b886-86dd4b9cbc47"
+   ],
+   "questions": [
+    {
+     "type": "direct",
+     "q": "What was the initial outlay of the first phase of the India Semiconductor Mission (ISM 1.0), approved by the Union Cabinet?",
+     "options": [
+      "₹10,000 crore",
+      "₹50,000 crore",
+      "₹65,000 crore",
+      "₹76,000 crore"
+     ],
+     "answer": 3,
+     "explanation": "The Union Cabinet approved ISM 1.0 on 15 December 2021 with an initial outlay of ₹76,000 crore. The other figures do not match the outlay of the approved programme.",
+     "source": "https://www.powersys.com/2022/01/cabinet-okays-rs-76000-cr-semiconductor-plan/ ; https://www.businesstoday.in/amp/latest/economy/story/cabinet-approves-rs-76000-cr-scheme-for-development-of-semiconduct-display-manufacturing-ecosystem-315683-2021-12-15 ; https://www.devdiscourse.com/article/business/1848494-cabinet-approves-rs-76000-cr-policy-push-for-semiconductor-display-mfg"
+    },
+    {
+     "type": "direct",
+     "q": "Under Article 280 of the Constitution, the Finance Commission is constituted by the President at the expiration of every how many years, unless an earlier time is considered necessary?",
+     "options": [
+      "Three years",
+      "Seven years",
+      "Ten years",
+      "Five years"
+     ],
+     "answer": 3,
+     "explanation": "Article 280 requires the President to constitute a Finance Commission at the expiry of every fifth year, or earlier if the President considers it necessary.",
+     "source": "https://www.constitutionofindia.net/articles/article-280-finance-commission ; https://vajiramandravi.com/current-affairs/what-is-the-finance-commission/"
+    },
+    {
+     "type": "match",
+     "list1": [
+      "I. Article 112",
+      "II. Article 266",
+      "III. Article 267",
+      "IV. Article 148"
+     ],
+     "list2": [
+      "A. Contingency Fund of India",
+      "B. Annual Financial Statement",
+      "C. Comptroller and Auditor General",
+      "D. Consolidated Fund of India"
+     ],
+     "options": [
+      "I-B, II-D, III-A, IV-C",
+      "I-C, II-A, III-B, IV-D",
+      "I-D, II-B, III-C, IV-A",
+      "I-A, II-C, III-D, IV-B"
+     ],
+     "answer": 0,
+     "explanation": "Article 112 provides for the Annual Financial Statement (the Budget); Article 266 creates the Consolidated Fund of India; Article 267 creates the Contingency Fund of India; Article 148 provides for the Comptroller and Auditor General.",
+     "source": "https://aaptaxlaw.com/constitution-of-india/article-148-149-constitution-comptroller-and-auditor-general-of-India-duties-powers-of-the-comptroller-and-auditor-general-article-148-149-of-constitution-of-india-1949.html ; https://aaptaxlaw.com/constitution-of-india/article-267-268-constitution-contingency-fund-duties-levied-by-the-union-but-collected-and-appropriated-by-the-states-article-267-268-of-constitution-of-india-1949.html ; https://www.drishtijudiciary.com/to-the-point/ttp-constitution-of-india/the-contingency-fund-of-india ; https://studyhub.net.in/inshorts/article-112-of-indian-constitution-upsc-2026/ ; https://lotusarise.com/?p=37092"
+    },
+    {
+     "type": "assertion_reason",
+     "assertion": "The first phase of the India Semiconductor Mission was approved by the Union Cabinet in December 2021.",
+     "reason": "The India Semiconductor Mission functions under the Ministry of Finance.",
+     "answer": 2,
+     "truth": [
+      true,
+      false
+     ],
+     "explanation": "The assertion is true: the Cabinet approved the ISM 1.0 package on 15 December 2021. The reason is false: the ISM is run under the Ministry of Electronics and Information Technology (MeitY), not the Ministry of Finance.",
+     "source": "https://www.powersys.com/2022/01/cabinet-okays-rs-76000-cr-semiconductor-plan/ ; https://www.businesstoday.in/amp/latest/economy/story/cabinet-approves-rs-76000-cr-scheme-for-development-of-semiconduct-display-manufacturing-ecosystem-315683-2021-12-15 ; https://www.devdiscourse.com/article/business/1848494-cabinet-approves-rs-76000-cr-policy-push-for-semiconductor-display-mfg ; https://www.electronicsforyou.biz/industry-buzz/meity-to-boost-chip-assembly-testing-with-%E2%82%B976k-crores/ ; https://forumias.com/blog/india-semiconductor-mission/"
+    },
+    {
+     "type": "statement_two",
+     "statements": [
+      "I. Under Article 75(3), the Council of Ministers is collectively responsible to the House of the People (Lok Sabha).",
+      "II. A Money Bill may be returned by the Rajya Sabha with its recommendations within a period of fourteen days."
+     ],
+     "answer": 2,
+     "truth": [
+      true,
+      true
+     ],
+     "explanation": "Both statements are correct. Article 75(3) makes the Council of Ministers collectively responsible to the Lok Sabha. Under Article 109, the Rajya Sabha has up to fourteen days to return a Money Bill with recommendations.",
+     "source": "https://www.careers360.com/question-the-council-of-ministers-is-collectively-responsible-to-the-lnq ; https://www.pmfias.com/council-of-ministers-responsibility-lok-sabha-pyq-2007/ ; https://anantamias.com/mcq/which-of-the-following-statements-are-correct-in-respect-of-a-money-bill-in-the-parliament/ ; https://lotusarise.com/qna/?p=2287"
+    },
+    {
+     "type": "statement_multi",
+     "statements": [
+      "I. Article 265 provides that no tax may be levied or collected except by authority of law.",
+      "II. Article 265 allows a tax to be collected on the strength of executive circulars alone.",
+      "III. Under Article 74(1), the President must act in accordance with the advice of the Council of Ministers, subject to the proviso on reconsideration."
+     ],
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "All of the above"
+     ],
+     "answer": 1,
+     "truth": [
+      true,
+      false,
+      true
+     ],
+     "explanation": "Statement I is correct: Article 265 requires legal authority for any tax. Statement II is wrong: executive circulars are not enough, and collection must rest on law. Statement III is correct: Article 74(1) binds the President to the Council of Ministers' advice. So 'I and III only' is the answer.",
+     "source": "https://www.constitutionofindia.net/constitution_of_india/finance__property__contracts_and_suits/articles/Article%20265 ; https://www.writinglaw.com/article-265-constitution-of-india/ ; https://studyhub.net.in/inshorts/article-74-of-indian-constitution-upsc-2026/ ; https://www.writinglaw.com/article-74-constitution-of-india/"
+    }
+   ],
+   "writer_flags": [
+    "Passage is about 175 words, below the 220-word floor: no further facts were double-sourced within the search budget (about 11 of 20 searches used).",
+    "'Urea plant decisions' appears only in press headlines (Vajiram and Free Press Journal); amounts not stated, so kept vague.",
+    "Semicon 2.0 investment (~Rs 4 lakh crore) and production (~Rs 2 lakh crore) figures appear consistently in press summaries but the official PIB release was not opened.",
+    "Semicon 2.0 six focus areas come from search summaries and secondary explainers, not the official text.",
+    "MPMS administered by MeitY: from search summaries of superkalam, sahi and motilal; pages not opened in full.",
+    "MPMS statement 3 (not notified in 2019): notification date 21 Aug 2026 is reported by several summaries but the Gazette was not checked.",
+    "MPMS incentive band 2.25-5% and 3% for Indian-brand design/R&D: from sahi/motilal/corpseed summaries; the 3% R&D figure is secondary.",
+    "ISM 1.0 Rs 76,000 crore and 15 Dec 2021 Cabinet approval: Tribune and Powersys only; the 'run under MeitY' detail (basis of the false reason in the assertion_reason item) rests on Powersys alone.",
+    "Article 267 Contingency Fund attribution: single budget-document source, not double-sourced.",
+    "Article 266 Consolidated Fund: budget document and Lexibal, both secondary for the constitutional text.",
+    "Article 148 CAG functions: Lotus Arise and Careers360 explainers, not constitutionofindia.net (fetch failed).",
+    "Article 109 fourteen-day Rajya Sabha return: sourced only to MCQ and explainer sites, not the constitutional text.",
+    "Articles 74(1) and 75(3): sourced to explainer sites (Studyhub, Writinglaw, Careers360, PMFIAS), not the constitutional text.",
+    "Article 265 'executive circulars alone' is false by the text of the Article; the secondary summary confirms it, but this is a textual inference."
+   ],
+   "residual": [
+    "Article 109, 74(1), 75(3), 148, 266, 267, 112 and 280 confirmed only via legal-text reproduction sites and exam-prep explainers; official constitution text not opened.",
+    "Urea-sector decision rests on Vajiram and press headlines/summaries; no PIB release opened.",
+    "Semicon 2.0 figures and six pillars from news and explainer sites; PIB release not opened.",
+    "ISM 1.0 under MeitY rests on exam-prep explainers (ForumIAS, Anantam) and ISM-in-Digital India Corporation descriptions; Dec 2021 date and Rs 76,000 crore have several news publishers.",
+    "Passage is very short (about 125 words) but all claims confirmed."
+   ]
+  }
+ ]
+}
