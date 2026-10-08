@@ -1,68 +1,81 @@
 {
-  "title": "Botswana cheetahs reach Kuno",
-  "topic_tags": ["Environment & biodiversity", "Project Cheetah", "Kuno National Park", "India-Botswana cooperation", "Wildlife conservation"],
-  "text": "Nine cheetahs from Botswana arrived at Kuno National Park in Madhya Pradesh on February 28, 2026, adding a new international batch to Project Cheetah, the programme that is bringing the big cat back to Indian forests. Union Environment Minister Bhupender Yadav welcomed the animals at the park, and All India Radio carried the report the same evening. Reports at the time put India's cheetah population at 48 after the arrival, a figure that has since risen.\n\nThe move came about three months after the handover. On November 13, 2025, Botswana formally handed over eight cheetahs to India at Mokolodi Nature Reserve, near Gaborone, during the state visit of President Droupadi Murmu. The cheetahs had been brought from the Ghanzi region in the Kalahari desert and included adults and sub-adults. Officials from both countries briefed the two presidents at the ceremony, and the Ministry of External Affairs said the transfer was made under the next phase of Project Cheetah. President Murmu said the animals would join their relatives at Kuno National Park. Officials described the handover as a boost to wildlife cooperation between the two countries.\n\nThe nine animals were welcomed at Kuno on February 28, and Yadav released them into quarantine enclosures there. Officials said they would undergo health monitoring and acclimatisation before being moved to larger soft-release areas, and that they would not be moved into the open until that period ended. Acclimatisation gives reintroduced animals time to adjust to a new habitat and food supply before they roam freely, which is why the step is standard in translocation work. Yadav described the arrival in a social media post.\n\nThe Botswana group follows earlier batches, and the programme has relied on African partners for its animals. The cheetah had been absent from India for decades before the reintroduction began. In September 2022, eight cheetahs from an African country were released at Kuno, the first batch under the programme. A flight carrying a second batch of 12 cheetahs from South Africa took off in February 2023, and those animals were also taken to Kuno.\n\nKuno National Park spreads across Sheopur district in Madhya Pradesh and lies in the Gwalior Chambal region. Its core area covers about 748.76 square kilometres, and the park takes its name from the Kuno River that flows through it.\n\nFurther transfers are under discussion. Business Standard reported in September 2025 that talks were under way with Botswana, Namibia and Kenya to translocate 8 to 10 cheetahs from each country. India and Botswana had also announced a cheetah translocation pact before the November handover.\n\nThe national count has changed since February. On October 5, 2026, five cubs were born at Kuno, taking the national total to 60.",
-  "sources": [
-    "https://www.newsonair.gov.in/kuno-national-park-receives-six-female-and-three-male-cheetahs-from-botswana/",
-    "https://www.tripurastarnews.com/union-environment-minister-shri-bhupender-yadav-welcomes-9-cheetahs-from-botswana-at-kuno-national-park/",
-    "https://www.thehitavada.com/Encyc/2026/3/1/9-cheetahs-from-botswana-released-into-kuno-national-park.html",
-    "https://www.outlooktraveller.com/amp/story/News/india-adds-nine-more-botswana-cheetahs-to-kuno-population-reaches-48",
-    "https://www.newsonair.gov.in/botswana-to-hand-over-eight-cheetahs-to-india-under-project-cheetah-today/",
-    "https://www.tribuneindia.com/news/world/botswana-hands-over-eight-cheetahs-to-india-during-president-murmus-historic-visit",
-    "https://en.wikipedia.org/wiki/Kuno_National_Park",
-    "https://www.business-standard.com/article/current-affairs/flight-bringing-cheetahs-to-kuno-national-park-takes-off-from-south-africa-123021800139_1.html",
-    "https://www.aljazeera.com/news/2022/9/17/india-welcomes-back-cheetahs-70-years-after-local-extinction",
-    "https://www.business-standard.com/india-news/project-cheetah-new-big-cats-expected-by-year-end-talks-underway-125092500131_1.html",
-    "https://newsonair.gov.in/cheetah-population-in-india-rises-to-60-with-birth-of-five-cubs-at-kuno-national-park/"
-  ],
-  "questions": [
-    {
-      "type": "direct",
-      "q": "The Wild Life (Protection) Act, 1972, which governs the protection of wild animals in India, was enacted in which year?",
-      "options": ["1960", "1972", "1980", "1986"],
-      "answer": 1,
-      "explanation": "The Wild Life (Protection) Act was enacted in 1972 (Act No. 53 of 1972). The passage does not mention the Act; the answer is static GK on the statute protecting the animals in the passage.",
-      "source": "https://sherloc.unodc.org/cld/zh/legislation/ind/the_wildlife_protection_act_1972/chapter_i/article_1-2.html"
-    },
-    {
-      "type": "direct",
-      "q": "In which year did the Government of India officially declare the cheetah extinct in the country?",
-      "options": ["1947", "1952", "1961", "1972"],
-      "answer": 1,
-      "explanation": "The cheetah was officially declared extinct in India in 1952. The passage refers to the species only as having been absent for decades, so the year must come from outside the passage.",
-      "source": "https://news.yahoo.com/animal-declared-extinct-india-1952-230654142.html"
-    },
-    {
-      "type": "match",
-      "list1": ["I. Range of the Asiatic cheetah subspecies", "II. IUCN Red List status of the cheetah species", "III. IUCN Red List status of the Asiatic cheetah subspecies", "IV. Mature cheetah individuals estimated by the IUCN (2021 assessment)"],
-      "list2": ["A. Iran", "B. Vulnerable", "C. Critically Endangered", "D. 6,517"],
-      "options": ["I-A, II-B, III-C, IV-D", "I-B, II-A, III-D, IV-C", "I-A, II-C, III-B, IV-D", "I-D, II-B, III-A, IV-C"],
-      "answer": 0,
-      "explanation": "The Asiatic cheetah (A. j. venaticus) is found in Iran and is rated Critically Endangered by the IUCN. The cheetah species as a whole is rated Vulnerable, with an estimated 6,517 mature individuals in the 2021 assessment.",
-      "source": "https://cms.int/saiga/en/species/acinonyx-jubatus"
-    },
-    {
-      "type": "assertion_reason",
-      "assertion": "India's cheetah reintroduction has relied on batches brought from more than one African country.",
-      "reason": "The first batch of cheetahs brought to India for Project Cheetah came from Namibia in 2022.",
-      "answer": 1,
-      "explanation": "Both statements are true: batches came from Namibia, South Africa and Botswana. The Namibian origin of the first batch is not a reason for the reliance on several countries, so R is true but does not explain A.",
-      "source": "https://wishtv.com/?p=818278"
-    },
-    {
-      "type": "statement_two",
-      "statements": ["I. The Asiatic cheetah subspecies is rated Critically Endangered by the IUCN.", "II. The cheetah species as a whole is rated Least Concern by the IUCN."],
-      "answer": 0,
-      "explanation": "Statement I is true (Asiatic cheetah, Iran, Critically Endangered). Statement II is false: the cheetah species is rated Vulnerable on the IUCN Red List.",
-      "source": "https://en.wikipedia.org/wiki/Cheetah"
-    },
-    {
-      "type": "statement_count",
-      "statements": ["1. The cheetah was declared extinct in India in 1947.", "2. The Wild Life (Protection) Act, 1972 was enacted in 1972.", "3. The cheetah species as a whole is rated Critically Endangered by the IUCN.", "4. The cheetah species as a whole is listed as Vulnerable on the IUCN Red List."],
-      "mode": "incorrect",
-      "answer": 1,
-      "explanation": "Statements 1 and 3 are incorrect: the extinction was declared in 1952, and the species is rated Vulnerable, not Critically Endangered. Statements 2 and 4 are correct, so the answer is Only two.",
-      "source": "https://en.wikipedia.org/wiki/Cheetah"
-    }
-  ]
+ "title": "Botswana cheetahs reach Kuno",
+ "topic_tags": [
+  "Environment & biodiversity",
+  "Project Cheetah",
+  "Kuno National Park",
+  "India-Botswana cooperation",
+  "Wildlife conservation"
+ ],
+ "text": "Nine cheetahs from Botswana arrived at Kuno National Park in Madhya Pradesh on February 28, 2026, adding a new international batch to Project Cheetah, the programme that is bringing the big cat back to Indian forests. Union Environment Minister Bhupender Yadav welcomed the animals at the park, and All India Radio carried the report the same evening. Reports at the time put India's cheetah population at 48 after the arrival, a figure that has since risen.\n\nThe move came about three months after the handover. On November 13, 2025, Botswana formally handed over eight cheetahs to India at Mokolodi Nature Reserve, near Gaborone, during the state visit of President Droupadi Murmu. The cheetahs had been brought from the Ghanzi region in the Kalahari desert. Officials from both countries briefed the two presidents at the ceremony, and the Ministry of External Affairs said the transfer was made under the next phase of Project Cheetah. President Murmu said the animals would join their relatives at Kuno National Park. Officials described the handover as a boost to wildlife cooperation between the two countries.\n\nThe nine animals were welcomed at Kuno on February 28, and Yadav released them into quarantine enclosures there. Officials said they would undergo health monitoring and acclimatisation before being moved to larger soft-release areas, and that they would not be moved into the open until that period ended. Acclimatisation gives reintroduced animals time to adjust to a new habitat and food supply before they roam freely, which is why the step is standard in translocation work. Yadav described the arrival in a social media post.\n\nThe Botswana group follows earlier batches, and the programme has relied on African partners for its animals. The cheetah had been absent from India for decades before the reintroduction began. In September 2022, eight cheetahs from an African country were released at Kuno, the first batch under the programme. A flight carrying a second batch of 12 cheetahs from South Africa took off in February 2023, and those animals were also taken to Kuno.\n\nKuno National Park spreads across Sheopur district in Madhya Pradesh and lies in the Gwalior Chambal region. Its core area covers about 748.76 square kilometres, and the park takes its name from the Kuno River that flows through it.\n\nFurther transfers are under discussion. Business Standard reported in September 2025 that talks were under way with Botswana, Namibia and Kenya to translocate 8 to 10 cheetahs from each country. India and Botswana had also announced a cheetah translocation pact before the November handover.\n\nThe national count has changed since February. On October 5, 2026, the birth of five cubs at Kuno was announced, taking the national total to 60.",
+ "sources": [
+  "https://www.newsonair.gov.in/kuno-national-park-receives-six-female-and-three-male-cheetahs-from-botswana/",
+  "https://www.tripurastarnews.com/union-environment-minister-shri-bhupender-yadav-welcomes-9-cheetahs-from-botswana-at-kuno-national-park/",
+  "https://www.thehitavada.com/Encyc/2026/3/1/9-cheetahs-from-botswana-released-into-kuno-national-park.html",
+  "https://www.outlooktraveller.com/amp/story/News/india-adds-nine-more-botswana-cheetahs-to-kuno-population-reaches-48",
+  "https://www.newsonair.gov.in/botswana-to-hand-over-eight-cheetahs-to-india-under-project-cheetah-today/",
+  "https://www.tribuneindia.com/news/world/botswana-hands-over-eight-cheetahs-to-india-during-president-murmus-historic-visit",
+  "https://en.wikipedia.org/wiki/Kuno_National_Park",
+  "https://www.business-standard.com/article/current-affairs/flight-bringing-cheetahs-to-kuno-national-park-takes-off-from-south-africa-123021800139_1.html",
+  "https://www.aljazeera.com/news/2022/9/17/india-welcomes-back-cheetahs-70-years-after-local-extinction",
+  "https://www.business-standard.com/india-news/project-cheetah-new-big-cats-expected-by-year-end-talks-underway-125092500131_1.html",
+  "https://newsonair.gov.in/cheetah-population-in-india-rises-to-60-with-birth-of-five-cubs-at-kuno-national-park/"
+ ],
+ "questions": [
+  {
+   "type": "direct",
+   "q": "In which year did the Government of India officially declare the cheetah extinct in the country?",
+   "options": [
+    "1947",
+    "1952",
+    "1961",
+    "1972"
+   ],
+   "answer": 1,
+   "explanation": "The cheetah was officially declared extinct in India in 1952. The passage refers to the species only as having been absent for decades, so the year must come from outside the passage.",
+   "source": "https://news.yahoo.com/animal-declared-extinct-india-1952-230654142.html"
+  },
+  {
+   "type": "match",
+   "list1": [
+    "I. Range of the Asiatic cheetah subspecies",
+    "II. IUCN Red List status of the cheetah species",
+    "III. IUCN Red List status of the Asiatic cheetah subspecies",
+    "IV. Mature cheetah individuals estimated by the IUCN (2021 assessment)"
+   ],
+   "list2": [
+    "A. Iran",
+    "B. Vulnerable",
+    "C. Critically Endangered",
+    "D. 6,517"
+   ],
+   "options": [
+    "I-A, II-B, III-C, IV-D",
+    "I-B, II-A, III-D, IV-C",
+    "I-A, II-C, III-B, IV-D",
+    "I-D, II-B, III-A, IV-C"
+   ],
+   "answer": 0,
+   "explanation": "The Asiatic cheetah (A. j. venaticus) is found in Iran and is rated Critically Endangered by the IUCN. The cheetah species as a whole is rated Vulnerable, with an estimated 6,517 mature individuals in the 2021 assessment.",
+   "source": "https://www.cms.int/sites/default/files/document/cites-cms_aci2_inf.10_cheetah-iucn-red-list_e.pdf ; https://wwf.org.uk/node/44961"
+  },
+  {
+   "type": "assertion_reason",
+   "assertion": "India's cheetah reintroduction has relied on batches brought from more than one African country.",
+   "reason": "The first batch of cheetahs brought to India for Project Cheetah came from Namibia in 2022.",
+   "answer": 1,
+   "explanation": "Both statements are true: batches came from Namibia, South Africa and Botswana. The Namibian origin of the first batch is not a reason for the reliance on several countries, so R is true but does not explain A.",
+   "source": "https://www.aljazeera.com/news/2022/9/17/india-welcomes-back-cheetahs-70-years-after-local-extinction ; https://www.outlooktraveller.com/News/india-adds-nine-more-botswana-cheetahs-to-kuno-population-reaches-48"
+  },
+  {
+   "type": "statement_two",
+   "statements": [
+    "I. The Asiatic cheetah subspecies is rated Critically Endangered by the IUCN.",
+    "II. The cheetah species as a whole is rated Least Concern by the IUCN."
+   ],
+   "answer": 0,
+   "explanation": "Statement I is true (Asiatic cheetah, Iran, Critically Endangered). Statement II is false: the cheetah species is rated Vulnerable on the IUCN Red List.",
+   "source": "https://en.wikipedia.org/wiki/Cheetah"
+  }
+ ]
 }
