@@ -1,0 +1,15 @@
+{
+ "passage_file": "data/passages/t02_p1.json",
+ "passage_claims": [],
+ "questions": [
+  {"index": 0, "verdict": "OK", "my_answer": "3 (A false, R true)",
+   "key_answer_correct": true,
+   "truth_values": [false, true],
+   "issues": [],
+   "sources": ["https://www.constitutionofindia.net/articles/article-109-special-procedure-in-respect-of-money-bills", "https://ies.gov.in/arthapedia/concept/money-bill", "https://blog.ipleaders.in/money-bill-in-india/"],
+   "fix": null,
+   "note": "Assertion false: Rajya Sabha cannot reject or amend a Money Bill, only recommend; Lok Sabha may accept or reject recommendations. Reason true: Art 109(2) 14-day return limit, and Art 109(5) deems the Bill passed in Lok Sabha's form if not returned. Index 3 matches. No overlap with passage text or existing questions (they touch Art 110 only as a Money Bill definition and Art 111 proviso, not Rajya Sabha powers over Money Bills; no giveaway). Minor: Art 109(2) text says 'with its recommendations'; 'with or without' is the standard reading (no recommendations = returned unchanged), so not a defect."}
+ ],
+ "passage_fixes": [],
+ "summary": "The single new assertion-reason question is correct (A false, R true, index 3) and is backed by the Article 109 text plus two independent explainers. It does not repeat or hint at any fact in the passage or existing questions."
+}

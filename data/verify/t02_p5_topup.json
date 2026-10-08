@@ -1,0 +1,24 @@
+{
+ "passage_file": "data/topup/t02_p5.json (checked against data/passages/t02_p5.json)",
+ "passage_claims": [],
+ "questions": [
+  {
+   "index": 0,
+   "verdict": "OK",
+   "my_answer": "2 (A true, R false)",
+   "key_answer_correct": true,
+   "truth_values": [true, false],
+   "issues": [],
+   "sources": [
+    "https://www.pib.gov.in/newsite/erelcontent.aspx?relid=35689",
+    "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=85986",
+    "https://www.globalsecurity.org/military/world/india/igmdp.htm",
+    "https://journalsofindia.com/integrated-missile-development-program-igmdp/"
+   ],
+   "fix": null,
+   "note": "Assertion: IGMDP sanctioned 1983 (PIB/Kalam speech: sanctioned 1983 after extended debate; GlobalSecurity: started 1983). Reason false: PIB says programme sanctioned for Prithvi, Trishul, Akash, Nag plus Agni technology demonstrator; PIB Rajya Sabha reply describes Akash as surface-to-air and Nag as anti-tank. No other defensible option. Not a giveaway: passage and existing questions never mention IGMDP, Trishul, Nag, or the SAM/anti-tank roles (passage only lists Akash, Prithvi, Agni as launched from Odisha ranges, without type). Minor caveats: exact date 26 July 1983 in the explanation rests on Wikipedia plus a prep site (only the year 1983 has official backing; consider trimming to 'in July 1983' or 'in 1983'); Agni was formally a technology demonstrator, which does not affect the key."
+  }
+ ],
+ "passage_fixes": [],
+ "summary": "The single new question (IGMDP assertion-reason, key 2) is correct and supported by PIB (official) plus GlobalSecurity and others. It does not repeat or hint at passage facts. Optional: soften the exact date 26 July 1983 in the explanation to the year only."
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "type": "statement_count",
+  "mode": "correct",
+  "statements": [
+   "1. Kuno was notified as a national park in 2018, having earlier been a wildlife sanctuary.",
+   "2. Kuno was identified in the 1990s as a possible site for reintroducing the Asiatic lion to establish a second population outside Gujarat.",
+   "3. In April 2025, two South African cheetahs, Prabhas and Pavak, were moved from Kuno to Gandhi Sagar Wildlife Sanctuary.",
+   "4. The Kuno River, after which the park is named, is a tributary of the Narmada River."
+  ],
+  "answer": 2,
+  "explanation": "Statements 1, 2 and 3 are correct. Statement 4 is incorrect: the Kuno River is a tributary of the Chambal, not the Narmada. Three statements are correct, so the answer is Only three.",
+  "truth": [true, true, true, false],
+  "source": "https://www.understandupsc.com/kuno-national-park/ ; https://anantamias.com/kuno-national-park/?pdf=1 ; https://www.outlooktraveller.com/travelnews/after-gir-kuno-in-madhya-pradesh-to-be-2nd-home-of-indias-asiatic-lion ; https://www.downtoearth.org.in/amp/story/environment/gir-lions-get-a-second-home---40813 ; https://www.etvbharat.com/en/!bharat/cheetahs-prabhash-and-pavak-get-new-home-in-mps-gandhi-sagar-sanctuary-enn25042003167 ; https://www.deccanherald.com/amp/story/india%2Fmadhya-pradesh%2Fcheetahs-prabhash-and-pavak-to-get-new-home-in-madhya-pradesh-3501511"
+ },
+ {
+  "type": "statement_multi",
+  "statements": [
+   "I. Kuno lies in the Vindhyan hill region of Madhya Pradesh.",
+   "II. Kuno was first declared a wildlife sanctuary in 1981.",
+   "III. Gandhi Sagar Wildlife Sanctuary, developed as a second cheetah site, is located in Rajasthan."
+  ],
+  "options": [
+   "I and II only",
+   "II and III only",
+   "I and III only",
+   "III only"
+  ],
+  "answer": 0,
+  "explanation": "Statements I and II are true: Kuno is in the Vindhyan region and was declared a sanctuary in 1981 (national park in 2018). Statement III is false: Gandhi Sagar sanctuary lies on the Mandsaur-Neemuch border in Madhya Pradesh, not in Rajasthan.",
+  "truth": [true, true, false],
+  "source": "https://www.understandupsc.com/kuno-national-park/ ; https://anantamias.com/kuno-national-park/?pdf=1 ; https://www.thehitavada.com/Encyc/2024/2/10/Gandhi-Sagar-readied-as-Second-Home-for-cheetahs.html ; https://www.deccanherald.com/india/madhya-pradesh/preparations-completed-for-cheetahs-second-home-in-madhya-pradeshs-gandhi-sagar-sanctuary-3062310"
+ }
+]
