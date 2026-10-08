@@ -1,0 +1,124 @@
+{
+  "title": "Defence news, early October",
+  "topic_tags": [
+    "defence",
+    "security",
+    "military exercise",
+    "Indian Air Force",
+    "Make-II procurement"
+  ],
+  "slot": "T05P3",
+  "status": "verified",
+  "word_count": 297,
+  "text": "An India-UAE joint military exercise, Mountain Guardian 2026, began on 5 October 2026 at the Foreign Training Node in Chaubatia, Uttarakhand. The exercise will run until 18 October and focuses on mountain warfare. It is aimed at enhancing interoperability, mutual understanding and cooperation between the two armies. Each side has deployed 46 personnel, bringing the total strength of the exercise to 92. The Indian contingent is drawn from a Bhairav Battalion, while the UAE contingent comes from a Mountain Infantry Battalion. Women officers and combatants from both armies are taking part in specialist roles. Planned training includes joint planning, tactical drills, firing practice, surveillance grids, drone operations, physical endurance training, rock climbing, obstacle training and integrated field exercises.\n\nOn 8 October 2026, the Indian Air Force will observe Air Force Day, marking the 94th anniversary of the force. The force was established on 8 October 1932. The main parade is scheduled at Hindon Air Force Station in Ghaziabad, Uttar Pradesh. The day is marked each year with a parade, a flypast and air displays. This year's theme is \"Indian Air Force - Infallible, Impervious and Precise.\"\n\nOn 6 October 2026, the first Fleet Support Ship, FSS-1, was launched at Hindustan Shipyard Limited in Visakhapatnam.\n\nEarlier, on 21 September 2026, the Ministry of Defence signed a contract worth about Rs 586 crore with Accurate Industrial Controls Private Limited in New Delhi. The contract covers auxiliary power units for the Army's T-72 and T-90 tanks and was placed under the Make-II category, which is meant for industry-led research and development. Defence Secretary Rajesh Kumar Singh was present at the signing. The units supply electricity to the tank's fire control system, firing circuit and gun stabilisation system. The ministry said the project is a step toward indigenising critical tank subsystems.",
+  "sources": [
+    "https://www.uniindia.com/national/defence-uae-joint-military-exercise/203689",
+    "https://www.gktoday.in/india-uae-mountain-guardian-2026-exercise-begins-in-uttarakhand/",
+    "https://newsonair.gov.in/india-uae-joint-military-exercise-mountain-guardian-2026-begins-in-uttarakhand/",
+    "https://utkarsh.com/current-affairs/national/importants-day/indian-air-force-day-2026-8-october-theme-history-and-celebration",
+    "https://vajiramandravi.com/current-affairs/?p=127629",
+    "https://en.wikipedia.org/wiki/History_of_the_Indian_Air_Force",
+    "https://www.uniindia.com/national/defence-navy-support-ship/204982",
+    "https://www.psuconnect.in/psu-news/defence-minister-rajnath-singh-to-launch-first-fleet-support-ship-fss-1-at-hsl-today",
+    "https://newsonair.gov.in/defence-ministry-signs-%e2%82%b9586-crore-contract-for-apus-for-t-72-and-t-90-tanks/",
+    "https://theprint.in/india/defence-ministry-inks-rs-586-cr-contract-to-procure-power-units-for-t-72-t-90-tanks/3048820/",
+    "https://www.thehansindia.com/news/cities/new-delhi/defence-ministry-inks-rs-586-crore-deal-to-buy-auxiliary-power-units-for-t-72-t-90-tanks-1124131"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Desert Cyclone, the India-UAE army exercise, was first held in which Indian state?",
+      "options": [
+        "Ladakh",
+        "Uttarakhand",
+        "Rajasthan",
+        "Gujarat"
+      ],
+      "answer": 2,
+      "explanation": "The first edition of Desert Cyclone was held at Mahajan in Rajasthan.",
+      "source": "https://www.business-standard.com/industry/news/india-uae-joint-military-exercise-desert-cyclone-underway-in-rajasthan-124010500111_1.html ; https://timesofoman.com/article/140498-india-uae-joint-military-exercise-desert-cyclone-underway-in-rajasthan"
+    },
+    {
+      "type": "direct",
+      "q": "Which aircraft does the Indian Air Force's Surya Kiran aerobatic team fly?",
+      "options": [
+        "Dassault Rafale",
+        "Sukhoi Su-30MKI",
+        "BAE Hawk Mk.132",
+        "HAL Tejas"
+      ],
+      "answer": 2,
+      "explanation": "Surya Kiran flies the BAE Hawk Mk.132, an advanced jet trainer that HAL licence-builds for the IAF.",
+      "source": "https://aerobaticteams.net/en/teams/i170/Surya-Kiran.html ; https://milavia.net/airshows/display-teams/surya-kiran/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "ICGS Akshay, a fast patrol vessel of the Indian Coast Guard, was built by Cochin Shipyard Limited.",
+      "reason": "ICGS Akshay was commissioned into the Indian Coast Guard in June 2026.",
+      "answer": 3,
+      "explanation": "The assertion is false: ICGS Akshay was not built by Cochin Shipyard Limited. The reason is true: the ship was commissioned in June 2026. A false and R true gives answer 3.",
+      "truth": [
+        false,
+        true
+      ],
+      "source": "https://newsonair.gov.in/indian-coast-guard-commissions-fast-patrol-vessel-icgs-akshay-in-goa/ ; https://indiancoastguard.gov.in/sites/default/files/PRESS%20RELEASE%20REGARDING%20-%20ICGS%20AKSHAY%20JOINS%20THE%20BHARATIYA%20TATRAKSHAK%20FLEET.pdf"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Desert Cyclone II (December 2025 edition)",
+        "II. Surya Kiran aerobatic team",
+        "III. No. 1 Squadron, Indian Air Force (raised 1933)",
+        "IV. ICGS Akshay (Indian Coast Guard fast patrol vessel)"
+      ],
+      "list2": [
+        "A. Bidar, Karnataka",
+        "B. Abu Dhabi, UAE",
+        "C. Drigh Road, Karachi",
+        "D. Goa"
+      ],
+      "options": [
+        "I-B, II-A, III-C, IV-D",
+        "I-A, II-B, III-D, IV-C",
+        "I-B, II-C, III-A, IV-D",
+        "I-D, II-A, III-C, IV-B"
+      ],
+      "answer": 0,
+      "explanation": "Desert Cyclone II was held at Al-Hamra Training City, Abu Dhabi; Surya Kiran is based at Bidar, Karnataka; No. 1 Squadron was raised at Drigh Road, Karachi; ICGS Akshay was commissioned at Goa Shipyard in Vasco, Goa.",
+      "source": "https://www.newsonair.gov.in/india-uae-desert-cyclone-ii-exercise-concludes-in-abu-dhabi ; https://www.milavia.net/airshows/display-teams/surya-kiran/ ; https://airpowerasia.com/2020/10/07/tiger-squadron-birth-of-military-aviation-in-india/ ; https://indiancoastguard.gov.in/sites/default/files/PRESS%20RELEASE%20REGARDING%20-%20ICGS%20AKSHAY%20JOINS%20THE%20BHARATIYA%20TATRAKSHAK%20FLEET.pdf"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The Defence Acquisition Procedure 2020 superseded the Defence Procurement Procedure 2016 as the Ministry of Defence's capital acquisition framework.",
+        "2. Under the Make-I route, the government funds prototype development for projects led by Indian companies.",
+        "3. The Make-III route covers products that are designed and developed indigenously in India.",
+        "4. Make-II projects receive no government funding for prototype creation."
+      ],
+      "mode": "correct",
+      "answer": 2,
+      "explanation": "Statements 1, 2 and 4 are correct. Statement 3 is wrong because Make-III covers import substitution for designs that are not indigenous. Three statements are correct, so the answer is Only three.",
+      "truth": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "source": "https://www.makeinindiadefence.gov.in/projects/index/1 ; https://www.drishtiias.com/daily-news-analysis/defence-acquisition-procedure-1 ; https://superkalam.com/current-affairs/articles/defence-indigenisation-dap-2020-make-routes-and-srijan-portal-explained"
+    },
+    {
+      "type": "direct",
+      "q": "No. 1 Squadron of the Indian Air Force, its oldest squadron, is known by which nickname?",
+      "options": [
+        "Falcons",
+        "Tigers",
+        "Cobras",
+        "Eagles"
+      ],
+      "answer": 1,
+      "explanation": "No. 1 Squadron is known as the Tigers and is the IAF's oldest squadron.",
+      "source": "https://en.wikipedia.org/wiki/No._1_Squadron_IAF ; https://natotigers.org/tiger-unit/no-1-squadron ; https://airpowerasia.com/2020/10/07/tiger-squadron-birth-of-military-aviation-in-india/"
+    }
+  ],
+  "notes": "Verified; 6 of 8 questions kept. Foreign Training Node name rests on PIB-derived reports (UNI, GKToday, NewsOnAir)."
+}

@@ -1,0 +1,205 @@
+{
+  "passage_file": "data/draft/t05_p3.json",
+  "passage_claims": [
+    {
+      "claim": "Mountain Guardian 2026 began 5 Oct 2026 at Chaubatia, runs to 18 Oct, mountain warfare",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.uniindia.com/national/defence-uae-joint-military-exercise/203689",
+        "https://www.gktoday.in/india-uae-mountain-guardian-2026-exercise-begins-in-uttarakhand/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "'Foreign Training Node' name; 46 each, 92 total; Bhairav and Mountain Infantry Battalions; women in specialist roles; training list",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.uniindia.com/national/defence-uae-joint-military-exercise/203689",
+        "https://currentaffairs.adda247.com/mountain-guardian-2026-india-uae-joint-military-exercise/"
+      ],
+      "note": "Both derive from the same official release; effectively one origin"
+    },
+    {
+      "claim": "94th Air Force Day on 8 Oct 2026, main parade at Hindon, theme 'Infallible, Impervious and Precise'",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://vajiramandravi.com/current-affairs/?p=127629",
+        "https://ddindia.co.in/2026/10/iaf-conducts-full-dress-rehearsal-at-hindon-airbase-ahead-of-air-force-day-parade-on-oct-8/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Force established under Indian Air Force Act 1932 which took effect 8 Oct 1932",
+      "verdict": "DISPUTED",
+      "sources": [
+        "https://tribuneindia.com/news/92-years-of-touching-sky-with-glory",
+        "https://www.bharat-rakshak.com/IAF/?p=4798"
+      ],
+      "note": "Sources disagree whether 8 Oct is assent, Gazette or commencement; reworded to 'established on 8 October 1932'"
+    },
+    {
+      "claim": "FSS-1 launched 6 Oct 2026 at HSL Visakhapatnam",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://theprint.in/india/defence-minister-launches-fleet-support-ship-1-at-hsl-in-vizag/3062959/",
+        "https://swarajyamag.com/news-brief/rajnath-singh-launches-first-fleet-support-ship-for-navy-at-hindustan-shipyard-in-visakhapatnam"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "21 Sep 2026 Rs 586 crore contract with Accurate Industrial Controls, APUs for T-72/T-90, Make-II, Defence Secretary Rajesh Kumar Singh present",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://newsonair.gov.in/defence-ministry-signs-%e2%82%b9586-crore-contract-for-apus-for-t-72-and-t-90-tanks/",
+        "https://www.thehansindia.com/news/cities/new-delhi/defence-ministry-inks-rs-586-crore-deal-to-buy-auxiliary-power-units-for-t-72-t-90-tanks-1124131"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "APUs supply 'secondary' electricity to fire control, firing circuit, gun stabilisation",
+      "verdict": "SINGLE_SOURCE",
+      "sources": [
+        "https://newsonair.gov.in/defence-ministry-signs-%e2%82%b9586-crore-contract-for-apus-for-t-72-and-t-90-tanks/"
+      ],
+      "note": "Ministry says backup source; word 'secondary' removed"
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Rajasthan",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.business-standard.com/industry/news/india-uae-joint-military-exercise-desert-cyclone-underway-in-rajasthan-124010500111_1.html ; https://timesofoman.com/article/140498-india-uae-joint-military-exercise-desert-cyclone-underway-in-rajasthan"
+      ],
+      "fix": "source updated"
+    },
+    {
+      "index": 2,
+      "verdict": "OK",
+      "my_answer": "BAE Hawk Mk.132",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://aerobaticteams.net/en/teams/i170/Surya-Kiran.html ; https://milavia.net/airshows/display-teams/surya-kiran/"
+      ],
+      "fix": null
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "3 (A false: built by Goa Shipyard; R true: commissioned 27 Jun 2026)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://newsonair.gov.in/indian-coast-guard-commissions-fast-patrol-vessel-icgs-akshay-in-goa/ ; https://indiancoastguard.gov.in/sites/default/files/PRESS%20RELEASE%20REGARDING%20-%20ICGS%20AKSHAY%20JOINS%20THE%20BHARATIYA%20TATRAKSHAK%20FLEET.pdf"
+      ],
+      "fix": null,
+      "note": "Minor overlap with Q4 (Goa)."
+    },
+    {
+      "index": 4,
+      "verdict": "FIX",
+      "my_answer": "I-B, II-A, III-C, IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "GIVEAWAY"
+      ],
+      "sources": [
+        "https://www.newsonair.gov.in/india-uae-desert-cyclone-ii-exercise-concludes-in-abu-dhabi ; https://www.milavia.net/airshows/display-teams/surya-kiran/ ; https://airpowerasia.com/2020/10/07/tiger-squadron-birth-of-military-aviation-in-india/ ; https://indiancoastguard.gov.in/sites/default/files/PRESS%20RELEASE%20REGARDING%20-%20ICGS%20AKSHAY%20JOINS%20THE%20BHARATIYA%20TATRAKSHAK%20FLEET.pdf"
+      ],
+      "fix": "Removed '(commissioned June 2026)' from item IV to avoid revealing Q3's reason",
+      "note": "Residual mild Goa overlap with Q3 accepted."
+    },
+    {
+      "index": 5,
+      "verdict": "DROP",
+      "my_answer": "Neither",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        false
+      ],
+      "issues": [
+        "AMBIGUOUS"
+      ],
+      "sources": [
+        "https://www.business-standard.com/industry/news/india-uae-joint-military-exercise-desert-cyclone-underway-in-rajasthan-124010500111_1.html"
+      ],
+      "fix": null,
+      "note": "Facts correct but duplicates Q1 and Q4 Desert Cyclone content; culled."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "Only three",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.makeinindiadefence.gov.in/projects/index/1 ; https://www.drishtiias.com/daily-news-analysis/defence-acquisition-procedure-1 ; https://superkalam.com/current-affairs/articles/defence-indigenisation-dap-2020-make-routes-and-srijan-portal-explained"
+      ],
+      "fix": null,
+      "note": "DAP 2026 is only a draft (Feb 2026); DAP 2020 still operative."
+    },
+    {
+      "index": 7,
+      "verdict": "DROP",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [
+        "AMBIGUOUS"
+      ],
+      "sources": [
+        "https://www.clearias.com/indian-coast-guard/",
+        "https://indiandefencereview.com/indian-coast-guard/"
+      ],
+      "fix": null,
+      "note": "Statement I debatable (interim force raised 1977, Act 1978); also off-passage; culled."
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "Tigers",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/No._1_Squadron_IAF ; https://natotigers.org/tiger-unit/no-1-squadron ; https://airpowerasia.com/2020/10/07/tiger-squadron-birth-of-military-aviation-in-india/"
+      ],
+      "fix": null
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "The force was established under the Indian Air Force Act, 1932, which took effect on 8 October 1932.",
+      "new": "The force was established on 8 October 1932.",
+      "reason": "unconfirmed/disputed detail"
+    },
+    {
+      "old": "The units supply secondary electricity to the tank's fire control system",
+      "new": "The units supply electricity to the tank's fire control system",
+      "reason": "unconfirmed/disputed detail"
+    }
+  ],
+  "summary": "Core passage facts confirmed by multiple publishers; two sentences reworded. 6 of 8 questions kept (Q5 duplicate content, Q7 debatable statement dropped); Q4 tightened."
+}
