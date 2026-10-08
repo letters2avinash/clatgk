@@ -1,0 +1,23 @@
+{
+ "passage_file": "data/topup/t02_p4.json (new questions for data/passages/t02_p4.json)",
+ "passage_claims": [],
+ "questions": [
+  {"index": 0, "verdict": "OK", "my_answer": "All four correct (index 3)", "key_answer_correct": true,
+   "truth_values": [true, true, true, true],
+   "issues": [],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jnanpith_Award",
+    "https://anantamias.com/jnanpith-award/",
+    "https://en.wikipedia.org/wiki/Vishnu_Sakharam_Khandekar",
+    "https://sahitya-akademi.org.in/?p=8076",
+    "https://en.wikipedia.org/wiki/Sahitya_Akademi_Translation_Prize",
+    "https://dataful.in/datasets/1352/",
+    "https://www.gktoday.in/50th-jnanpith-award-conferred-marathi-litterateur-bhalchandra-nemade/",
+    "https://www.deccanherald.com/india/jnanpith-marathi-litterateur-2111085",
+    "https://www.narendramodi.in/pm-presents-50th-jnanpeeth-award-to-prof-bhalchandra-nemade-7469"],
+   "fix": null,
+   "note": "S1: instituted 1961, first award 1965 to G. Sankara Kurup (Odakkuzhal); confirmed by Wikipedia plus independent study/news pages. S2 (flagged weak): Translation Prize instituted 1989. Wikipedia says 'instituted in 1989' and its language lists cite the Akademi record 'Akademi Translation Prizes (1989-2024)'; dataful.in (independent data publisher) says instituted 1989 with period 1989-2024. I could not fetch the Akademi page itself (WebFetch network failure), so this rests on two publishers plus an Akademi record title cited via Wikipedia; adequate but not directly seen on a primary page. Wikipedia's attribution to PM Narasimha Rao in 1989 is anachronistic (he became PM in 1991), so the explanation correctly avoids it. S3: Khandekar won 1974 Jnanpith for Yayati, first Marathi winner; confirmed. S4: Nemade chosen 6 Feb 2015 for the 50th Jnanpith (for 2014), presented 25 Apr 2015; Kosala 1963; confirmed by GKToday, Deccan Herald, PM site. Not a giveaway: passage and the 5 existing questions do not mention Jnanpith, Khandekar, Nemade, the Translation Prize or its year (existing Q2 covers Akademi inauguration 1954/registration 1956, a different fact). Only mild topical overlap (Marathi literature, Sahitya Akademi). Recommend a quick manual check of the Akademi site for the 1989 year if desired."}
+ ],
+ "passage_fixes": [],
+ "summary": "The single new statement_count question is correct (all four statements true, answer 'All four', index 3) and does not repeat or hint at passage or existing-question facts. The weakly sourced Translation Prize year (1989) is supported by Wikipedia, dataful.in and an Akademi record cited as 1989-2024, though I could not open the Akademi page directly."
+}
