@@ -1,0 +1,204 @@
+{
+  "passage_file": "data/draft/t08_p4.json",
+  "passage_claims": [
+    {
+      "claim": "27 Mar 2026 DAC granted AoN to proposals worth about Rs 2.38 lakh crore",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "theweek.in PTI 2026/03/27",
+        "raksha-anirveda / lifeofsoldiers / morungexpress"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Proposals covered the Indian Army and the Indian Air Force",
+      "verdict": "WRONG",
+      "sources": [
+        "globalsecurity.org PIB copy",
+        "aviation-defence-universe.com",
+        "angelone.in"
+      ],
+      "note": "Incomplete: Coast Guard also got AoN for Heavy Duty Air Cushion Vehicles. Writer flag 'one source' was wrong; multiple publishers and PIB text confirm."
+    },
+    {
+      "claim": "Five Army items: ADTS, APTA, HCRR, Dhanush, RIASS",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "ncaacademy / news search results",
+        "theweek.in"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Air Force items: MTA, additional S-400, RPSA, Su-30 aero engine aggregates overhaul",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "theweek.in",
+        "visionias (ET)",
+        "globalsecurity PIB copy"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Coast Guard: Heavy Duty Air Cushion Vehicles (added)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "globalsecurity.org PIB copy",
+        "aviation-defence-universe.com",
+        "angelone.in",
+        "theweek.in"
+      ],
+      "note": "Writer flag resolved: not single-sourced."
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Raksha Mantri",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "theweek.in PTI",
+        "iasgyan.in"
+      ],
+      "fix": "source updated",
+      "note": "Rajnath Singh chaired this meeting. Defence Secretary membership varies by source but is not a chair claim."
+    },
+    {
+      "index": 2,
+      "verdict": "DROP",
+      "my_answer": "Bofors FH-77B",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "GIVEAWAY"
+      ],
+      "sources": [
+        "globalsecurity.org",
+        "aviation-defence-universe.com"
+      ],
+      "note": "Answer correct and confirmed, but stem says OFB developed Dhanush, giving away match Q7 item I-A. Dropped for overlap/giveaway."
+    },
+    {
+      "index": 3,
+      "verdict": "FIX",
+      "my_answer": "45",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [
+        "GIVEAWAY"
+      ],
+      "sources": [
+        "globalsecurity.org/military/world/india/danush.htm",
+        "aviation-defence-universe.com",
+        "janes.com"
+      ],
+      "note": "Stem said 'Indian-built 155 mm towed gun', giving away Q6 stmt 3 (towed vs self-propelled). Stem reworded; 45-calibre confirmed by 3 publishers."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "A false, R true (3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "idsa.in",
+        "anantamias.com"
+      ],
+      "note": "AoN does not release funds or sign a contract; it authorises RFP. Exam-prep plus IDSA."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "II only (1)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "wikipedia Saturn_AL-31",
+        "globalsecurity lyulka page (snippet)",
+        "janes/pib on HAL Koraput production"
+      ],
+      "note": "AL-31FP Russian-designed (Saturn), HAL builds at Koraput; Lyulka-to-Saturn lineage rests on Wikipedia plus GlobalSecurity snippet, listed in residual."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "Only one (index 0)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "india.com / pressreader Asian Age (Army, May 2015)",
+        "indiandefencereview / gktoday (IAF, July 2015)",
+        "alphadefense, globalsecurity"
+      ],
+      "note": "Akash in both services confirmed (writer flag resolved). S-400 long-range; Dhanush towed; Akash is SAM."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "I-A, II-B, III-C, IV-D",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "janes.com HAL licensed Su-30MKI",
+        "pib.gov.in PRID 2083948",
+        "tass / warhistory (Almaz-Antey)",
+        "airforce-technology (DRDO Akash)"
+      ],
+      "note": "Su-30MKI licence-built by HAL confirmed by Janes and PIB (writer flag resolved). OFB label historic (now AWEIL)."
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "I and II only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false
+      ],
+      "issues": [
+        "GIVEAWAY",
+        "WEAK_SOURCE"
+      ],
+      "sources": [
+        "aviation-defence-universe.com (9 Apr 2019)",
+        "indiablooms (8 Apr)",
+        "hitavada 26 Mar preview"
+      ],
+      "note": "April 2019 handover confirmed (planned 26 Mar slipped to 8/9 Apr), but Dhanush 155 mm is stated in Q3 stem and Q6 overlaps; 'designed by Sukhoi' independent source thin. Dropped to keep 6 distinct facts."
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "The proposals covered the Indian Army and the Indian Air Force, according",
+      "new": "The proposals covered the Indian Army, the Indian Air Force and the Indian Coast Guard, according",
+      "reason": "Coast Guard approvals confirmed by multiple publishers"
+    },
+    {
+      "old": "",
+      "new": "Appended: The Indian Coast Guard received approval for Heavy Duty Air Cushion Vehicles, meant for multipurpose coastal roles such as high-speed patrolling, reconnaissance and search and rescue.",
+      "reason": "Short-passage addition, confirmed by PIB copy and 3 publishers; touches no kept answer"
+    }
+  ],
+  "summary": "Searches used: 15. Passage had one error (Coast Guard omitted); fixed. Kept 6 of 8; dropped Q2 (giveaway to match) and Q8 (giveaway/overlap). Weakest remaining: Lyulka lineage (Q5 II), Almaz-Antey and Akash DRDO from search summaries only."
+}

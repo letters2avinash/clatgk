@@ -1,0 +1,131 @@
+{
+  "title": "Defence Acquisition Council approvals, March 2026",
+  "topic_tags": [
+    "defence",
+    "defence procurement",
+    "Defence Acquisition Council",
+    "Acceptance of Necessity",
+    "Dhanush",
+    "S-400",
+    "Su-30MKI",
+    "Akash"
+  ],
+  "slot": "T08P4",
+  "status": "complete",
+  "text": "On 27 March 2026, the Defence Acquisition Council (DAC) granted Acceptance of Necessity (AoN) to defence proposals estimated to cost about Rs 2.38 lakh crore. The proposals covered the Indian Army, the Indian Air Force and the Indian Coast Guard, according to a Defence Ministry statement.\n\nFive Army items were cleared: the Air Defence Tracked System, Armoured Piercing Tank Ammunition, High Capacity Radio Relay, the Dhanush Gun System and the Runway Independent Aerial Surveillance System.\n\nAir Force items included the Medium Transport Aircraft, additional S-400 air defence systems, Remotely Piloted Strike Aircraft and the overhaul of Su-30 aero engine aggregates.\n\nThe Indian Coast Guard received approval for Heavy Duty Air Cushion Vehicles, meant for multipurpose coastal roles such as high-speed patrolling, reconnaissance and search and rescue.",
+  "sources": [
+    "https://raksha-anirveda.com/boosting-defence-capability-dac-clears-proposals-worth-rs-2-38-lakh-crore",
+    "https://deccanchronicle.com/southern-states/telangana/rs-238-lakh-cr-defence-deals-approved-1946769",
+    "https://morungexpress.com/centre-gives-nod-for-buying-military-hardware-worth-rs-238-lakh-crore",
+    "https://www.lifeofsoldiers.com/2026/03/28/dac-clears-proposals-worth-rs-2-38-lakh-crore-to-augment-defence-capabilities/",
+    "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260327-india-pib01.htm",
+    "https://www.aviation-defence-universe.com/dac-clears-proposals-worth-rs-2-38-lakh-crore-to-augment-defence-capabilities/"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Which functionary chairs the Defence Acquisition Council, the Ministry of Defence's highest body for approving capital acquisitions?",
+      "options": [
+        "Raksha Mantri",
+        "Chief of Defence Staff",
+        "Defence Secretary",
+        "Chief of Naval Staff"
+      ],
+      "answer": 0,
+      "explanation": "The DAC is chaired by the Raksha Mantri (Defence Minister). The Chief of Defence Staff, the Defence Secretary and the service chiefs are members, not the chair.",
+      "source": "https://www.theweek.in/wire-updates/national/2026/03/27/dac-clears-massive-rs-2.38-lakh-cr-military-procurement-including-s-400s-60-transport-aircraft.html ; https://www.iasgyan.in/daily-current-affairs/defence-acquisition-council"
+    },
+    {
+      "type": "direct",
+      "q": "The Dhanush Gun System was cleared for the Army in this approval. How many calibres long is the barrel of this gun?",
+      "options": [
+        "39",
+        "45",
+        "52",
+        "60"
+      ],
+      "answer": 1,
+      "explanation": "The Dhanush is a 155 mm/45 calibre gun, with a barrel lengthened from the 39-calibre barrel of the original Bofors FH-77B.",
+      "source": "https://www.globalsecurity.org/military/world/india/danush.htm ; https://www.aviation-defence-universe.com/indian-army-gets-dhanush-arty-guns-in-its-inventory ; https://www.janes.com/defence-intelligence-insights/defence-news/indian-army-receives-first-six-of-114-dhanush-howitzers"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "An Acceptance of Necessity granted by the DAC is the final sanction that releases payment to the vendor for the procurement.",
+      "reason": "AoN is the first formal approval in the procurement process, after which tendering and contracting follow.",
+      "answer": 3,
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "The assertion is false: AoN is an in-principle approval of necessity, not a payment or contract sanction. The reason is true: AoN is the first formal step, followed by tendering and contracting.",
+      "source": "https://idsa.in/publisher/comments/nurturing-capital-acquisitions ; https://anantamias.com/current-affairs/dac-aon-defence-acquisition-indigenisation/?pdf=1 ; https://www.mod.gov.in/dod/sites/default/files/Aon_1.pdf"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The AL-31FP engine that powers the Su-30MKI was designed in India by Hindustan Aeronautics Limited.",
+        "II. The AL-31FP has a design lineage from the Soviet Lyulka design bureau, now NPO Saturn in Russia."
+      ],
+      "answer": 1,
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "Statement I is false: the AL-31 family was designed by Lyulka/NPO Saturn in the Soviet Union and Russia, and HAL builds it under licence in India. Statement II is true. Only II is correct.",
+      "source": "https://en.wikipedia.org/wiki/Saturn_AL-31 ; https://www.globalsecurity.org/military/world/russia/lyulka.htm ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2053088&reg=3&lang=2 ; https://www.janes.com/osint-insights/defence-news/defence/indian-mod-awards-contract-to-produce-new-su-30mki-engines"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The S-400 is a short-range, man-portable missile system.",
+        "2. The Akash missile system is in service with both the Indian Army and the Indian Air Force.",
+        "3. The Dhanush is a self-propelled, tracked artillery gun.",
+        "4. The Akash is a long-range ballistic missile."
+      ],
+      "mode": "correct",
+      "answer": 0,
+      "truth": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "explanation": "Only statement 2 is correct. The S-400 is a long-range, mobile system; the Dhanush is a towed gun; the Akash is a medium-range surface-to-air missile, not a ballistic missile.",
+      "source": "https://www.india.com/news/india/army-inducts-indigenously-built-surface-to-air-missile-akash-373609/ ; https://www.indiandefencereview.com/indigenously-designed-surface-to-air-akash-missile-inducted-into-the-iaf/ ; https://www.globalsecurity.org/military/world/india/danush.htm ; https://alphadefense.in/encyclopedia/s-400-triumf-india-sudarshan-chakra/"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Dhanush Gun System",
+        "II. Su-30MKI aircraft",
+        "III. S-400 air defence system",
+        "IV. Akash missile system"
+      ],
+      "list2": [
+        "A. Ordnance Factory Board",
+        "B. Hindustan Aeronautics Limited",
+        "C. Almaz-Antey",
+        "D. DRDO"
+      ],
+      "options": [
+        "I-A, II-B, III-C, IV-D",
+        "I-B, II-A, III-C, IV-D",
+        "I-A, II-C, III-B, IV-D",
+        "I-D, II-B, III-C, IV-A"
+      ],
+      "answer": 0,
+      "explanation": "Dhanush is produced by the Ordnance Factory Board; the Su-30MKI is built under licence by HAL; the S-400 is developed by Russia's Almaz-Antey; the Akash was developed by DRDO.",
+      "source": "https://www.globalsecurity.org/military/world/india/danush.htm ; https://www.janes.com/osint-insights/defence-news/hal-completes-licensed-production-of-final-two-of-222-su-30mki-fighters-for-iaf ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2083948 ; https://www.airforce-technology.com/projects/akash-surface-to-air-missile-system/ ; https://tass.com/defense/1222467/amp ; https://warhistory.org/%40msw/article/almaz-antey-40r6-s-400-triumf"
+    }
+  ],
+  "residual": [
+    "Passage is very short (~126 words), SHORT; no padding added.",
+    "Q1 (DAC chair): confirmed by PTI report on this meeting plus exam-prep explainer iasgyan; MoD PDF not fetched.",
+    "AoN as first formal step (Q4 reason): IDSA plus exam-prep sites; MoD Aon_1.pdf not opened.",
+    "Q5 stmt II (Lyulka to NPO Saturn lineage): Wikipedia and GlobalSecurity snippet only; GlobalSecurity page unreachable by fetch.",
+    "Q7 Su-30MKI-HAL: licence production via Janes/PIB; 'designed by Sukhoi' only Wikipedia plus copies (not asked in kept Qs).",
+    "Q7 S-400 Almaz-Antey and Akash DRDO from search summaries (Wikipedia, TASS, warhistory, airforce-technology); fetches failed.",
+    "Q7 list item 'Ordnance Factory Board' is historic: OFB was corporatised in 2021 (successor AWEIL); Dhanush developed under OFB.",
+    "Q3 45-calibre: search summaries of GlobalSecurity, Janes, aviation-defence-universe; full text not fetched."
+  ]
+}
