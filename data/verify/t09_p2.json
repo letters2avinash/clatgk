@@ -1,0 +1,226 @@
+{
+  "passage_file": "data/draft/t09_p2.json",
+  "passage_claims": [
+    {
+      "claim": "Portugal became the 60th Artemis Accords signatory in January 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "NASA release",
+        "spacepolicyonline",
+        "Universe Magazine"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Canhão (Secretary of State for Science and Innovation) signed on 11 January",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "NASA release",
+        "Observador/eco.sapo (Sunday signing)"
+      ],
+      "note": "Ceremony dated 12 Jan by NASA and Portuguese media; passage gives only the signing date"
+    },
+    {
+      "claim": "Lisbon ceremony attended by Arrigo and Hugo Costa (executive director, Portuguese Space Agency)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "NASA release",
+        "ptspace.pt",
+        "spaceconnect"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Event coincided with semi-annual US-Portugal meeting",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "innovationnewsnetwork",
+        "RTP/eco.sapo (52nd bilateral commission, six-monthly)"
+      ],
+      "note": "Snippet-level"
+    },
+    {
+      "claim": "Isaacman called it part of a new era of global cooperation",
+      "verdict": "WRONG",
+      "sources": [
+        "ptspace.pt",
+        "NASA release"
+      ],
+      "note": "'New era' is Costa's wording; Isaacman welcomed Portugal and cited 'Golden Age of Exploration'. Reworded to the plain welcome"
+    },
+    {
+      "claim": "Arrigo: significant move towards responsible space exploration",
+      "verdict": "DISPUTED",
+      "sources": [
+        "NASA release",
+        "spaceconnect"
+      ],
+      "note": "Actual wording 'meaningful step forward for responsible space exploration'; reworded"
+    },
+    {
+      "claim": "Costa: 2026 return of humans to Moon, new era, Magellan (added)",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "NASA release",
+        "ptspace.pt"
+      ],
+      "note": "Added fact; touches no kept answer"
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "Reid Wiseman",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "spacepolicyonline",
+        "CSA",
+        "NASA"
+      ],
+      "fix": null,
+      "note": "Stem reworded to drop 'lunar flyby' (gave away Q7 stmts 2-3)"
+    },
+    {
+      "index": 2,
+      "verdict": "DROP",
+      "my_answer": "Washington",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "CVCE",
+        "NATO"
+      ],
+      "fix": null,
+      "note": "Correct but overlaps Q8 (NATO treaty); explanation said 13 signatories (actually 12). Dropped for overlap"
+    },
+    {
+      "index": 3,
+      "verdict": "FIX",
+      "my_answer": "France",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "spacepolicyonline",
+        "NBC",
+        "eco.sapo"
+      ],
+      "fix": null,
+      "note": "Stem 'launched in 2020' gave away Q4 item I; removed. Italy, Japan, Luxembourg are originals"
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "I-B, II-A, III-C, IV-D (idx 0)",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "GeekWire",
+        "spacepolicyonline",
+        "NASA PDF"
+      ],
+      "fix": null,
+      "note": "Distractor combos all wrong; explanation tidied"
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "A false, R true (idx 3)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "newspaceeconomy",
+        "diplomacyandlaw",
+        "CEU"
+      ],
+      "fix": null,
+      "note": "truth [false,true]"
+    },
+    {
+      "index": 6,
+      "verdict": "DROP",
+      "my_answer": "Both true",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "spacepolicyonline",
+        "CSA",
+        "AP"
+      ],
+      "fix": null,
+      "note": "Correct, but overlaps Q7 on Artemis II; dropped to keep 6 distinct facts"
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "Only two (idx 1)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "Sky at Night",
+        "AP/Idaho Press",
+        "WTOP"
+      ],
+      "fix": null,
+      "note": "truth [T,T,F,F]; launched 1 Apr 2026 from KSC LC-39B, flyby, no landing"
+    },
+    {
+      "index": 8,
+      "verdict": "OK",
+      "my_answer": "I and III only (idx 2)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "UN Treaty Series",
+        "CVCE",
+        "NATO"
+      ],
+      "fix": null,
+      "note": "truth [T,F,T]; entered into force 24 Aug 1949"
+    }
+  ],
+  "passage_fixes": [
+    {
+      "old": "NASA Administrator Jared Isaacman welcomed the move, calling it part of a new era of global cooperation in space.",
+      "new": "NASA Administrator Jared Isaacman welcomed Portugal as the newest signatory.",
+      "reason": "'New era' was Costa's wording"
+    },
+    {
+      "old": "Arrigo described the step as a significant move towards responsible space exploration.",
+      "new": "Arrigo called Portugal's decision a meaningful step forward for responsible space exploration.",
+      "reason": "Match reported wording"
+    },
+    {
+      "old": "Hugo Costa, head of the Portuguese Space Agency",
+      "new": "Hugo Costa, executive director of the Portuguese Space Agency",
+      "reason": "Official title"
+    },
+    {
+      "old": "",
+      "new": "Costa said that 2026 is the year humans return to the Moon... recalling Magellan.",
+      "reason": "Short-passage addition, confirmed by NASA and ptspace.pt"
+    }
+  ],
+  "summary": "6 of 8 kept (Q1,3,4,5,7,8); Q2 and Q6 dropped for overlap, not error. Two passage claims reworded (Isaacman, Arrigo). Passage is SHORT (~115 words). Q2 explanation error found: 12 NATO founders, not 13."
+}

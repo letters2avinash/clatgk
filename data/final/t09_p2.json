@@ -1,0 +1,148 @@
+{
+  "title": "Portugal Joins the Artemis Accords",
+  "topic_tags": [
+    "Science, space & tech",
+    "Space",
+    "International cooperation",
+    "Static GK"
+  ],
+  "slot": "T09P2",
+  "status": "verified",
+  "text": "Portugal became the 60th signatory to the Artemis Accords in January 2026. Helena Canhão, Portugal's Secretary of State for Science and Innovation, signed the accords on behalf of the country on 11 January. A ceremony in Lisbon was attended by John J. Arrigo, the United States Ambassador to Portugal, and Hugo Costa, executive director of the Portuguese Space Agency. The event coincided with a semi-annual meeting on cooperation between the United States and Portugal. NASA Administrator Jared Isaacman welcomed Portugal as the newest signatory. Arrigo called Portugal's decision a meaningful step forward for responsible space exploration. Costa said that 2026 is the year humans return to the Moon, which will mark the beginning of a new era of space exploration, recalling Portuguese explorers such as Magellan.",
+  "sources": [
+    "https://www.nasa.gov/news-release/nasa-welcomes-portugal-as-60th-artemis-accords-signatory",
+    "https://ptspace.pt/?p=86347",
+    "https://spacepolicyonline.com/news/artemis-accords-reach-another-milestone-with-portugal/",
+    "https://www.innovationnewsnetwork.com/portugal-joins-global-space-exploration-efforts-by-signing-artemis-accords/65407/",
+    "https://observador.pt/2026/01/12/portugal-assina-acordos-artemis-e-torna-se-no-60-o-pais-comprometido-com-exploracao-responsavel-da-lua-e-de-marte/",
+    "https://eco.sapo.pt/2026/01/12/portugal-assina-acordos-artemis-com-eua-para-exploracao-do-espaco/"
+  ],
+  "writer_flags": [
+    "Passage is about 120 words of double-sourced text, below the 220-word floor; no topic switch was made because the search budget (11 of 20 used) was tight",
+    "Ceremony date conflicts: NASA dates the Lisbon ceremony 12 Jan 2026, Universe Magazine dates it 11 Jan; passage avoids stating a ceremony date",
+    "Arrigo 'significant move towards responsible space exploration' quote: wording differs across sources; treat as single-sourced",
+    "Semi-annual US-Portugal meeting: from Innovation News and one search summary only; the '52nd Standing Bilateral Commission' label is single-sourced and omitted",
+    "Hugo Costa's remarks about returning humans to the Moon and Magellan: NASA release only; omitted from passage",
+    "Latvia counting dispute (Behind the Black, Oct 2025 Latvian claim): single-sourced; omitted",
+    "Q1 Artemis II commander Reid Wiseman, Q6 Canadian and Christina Koch crew membership: from NASA live-coverage summary and secondary sites; NASA's own crew page not fetched (WebFetch blocked)",
+    "Q7 Artemis II launch on 1 April 2026 at KSC: from a NASA live-coverage summary only; second outlet confirms only the planned April 1 target",
+    "Q3, Q4, Q5: 'eight original signatories', '10 principles', '1967 Outer Space Treaty basis', 'launched 13 Oct 2020' rest on search snippets (Wikipedia copy, NBC, Brighter Side, Space Odyssey Hub); the 13 Oct 2020 launch date was not in every snippet and is not used in any question",
+    "Q2: Washington signing city for North Atlantic Treaty (4 Apr 1949): CVCE and NATO snippets",
+    "Q8: 24 Aug 1949 entry into force from a NATO snippet; 1 Jan 1950 is a distractor only",
+    "Q4 match: distractor 10 principles is unverified beyond one snippet; retain if the verifier can confirm the principles count"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Who was the commander of NASA's Artemis II crewed mission?",
+      "options": [
+        "Neil Armstrong",
+        "Reid Wiseman",
+        "Eugene Cernan",
+        "Buzz Aldrin"
+      ],
+      "answer": 1,
+      "explanation": "Reid Wiseman commanded Artemis II, which launched in April 2026. The other three names are Apollo-era astronauts who did not fly on Artemis II.",
+      "source": "https://spacepolicyonline.com/news/wiseman-glover-koch-and-hansen-the-crew-of-artemis-ii/ ; https://www.asc-csa.gc.ca/eng/multimedia/search/image/17687 ; https://www.nasa.gov/image-article/artemis-ii-crew-revealed/"
+    },
+    {
+      "type": "direct",
+      "q": "Which of the following countries was NOT among the original signatories of the Artemis Accords?",
+      "options": [
+        "Italy",
+        "Japan",
+        "Luxembourg",
+        "France"
+      ],
+      "answer": 3,
+      "explanation": "The original signatories were Australia, Canada, Italy, Japan, Luxembourg, the UAE, the UK and the US. France was not among them.",
+      "source": "https://spacepolicyonline.com/news/eight-countries-sign-artemis-accords/ ; https://www.nbcnews.com/science/space/eight-nations-sign-nasa-led-artemis-accords-guide-moon-exploration-n1243398 ; https://eco.sapo.pt/2026/01/12/portugal-assina-acordos-artemis-com-eua-para-exploracao-do-espaco/"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Year in which the Artemis Accords were launched",
+        "II. Year of the Outer Space Treaty on which the Accords' principles are grounded",
+        "III. Number of original signatories of the Artemis Accords",
+        "IV. Number of principles in the Artemis Accords"
+      ],
+      "list2": [
+        "A. 1967",
+        "B. 2020",
+        "C. 8",
+        "D. 10"
+      ],
+      "options": [
+        "I-B, II-A, III-C, IV-D",
+        "I-A, II-B, III-D, IV-C",
+        "I-C, II-A, III-B, IV-D",
+        "I-B, II-D, III-A, IV-C"
+      ],
+      "answer": 0,
+      "explanation": "The Accords were launched in 2020 (B) by eight original signatories (C). They set out ten principles (D) and are grounded in the 1967 Outer Space Treaty (A).",
+      "source": "https://www.geekwire.com/2020/nasa-lays-artemis-accords-international-cooperation-moon-missions/ ; https://spacepolicyonline.com/news/eight-countries-sign-artemis-accords/ ; https://www3.nasa.gov/specials/artemis-accords/img/Artemis-Accords-signed-13Oct2020.pdf"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Artemis Accords are a legally binding treaty that the UN Security Council enforces against any signatory that breaks them.",
+      "reason": "The Artemis Accords are non-binding and provide no formal means of enforcement.",
+      "answer": 3,
+      "explanation": "Assertion is false: the Accords are not a binding treaty and the UN Security Council does not enforce them. Reason is true: the Accords are non-binding and have no formal enforcement mechanism, unlike the Outer Space Treaty.",
+      "source": "https://newspaceeconomy.ca/2026/04/06/the-artemis-accords-explained/ ; https://www.diplomacyandlaw.com/post/the-artemis-accords-and-international-space-law ; https://research.ceu.edu/en/publications/introductory-note-to-the-artemis-accords/",
+      "truth": [
+        false,
+        true
+      ]
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The Artemis II mission lifted off on 1 April 2026.",
+        "2. Artemis II was a crewed flight around the Moon that did not land on it.",
+        "3. Artemis II landed astronauts on the lunar surface.",
+        "4. Artemis II launched from Vandenberg Space Force Base in California."
+      ],
+      "mode": "correct",
+      "answer": 1,
+      "explanation": "Statements 1 and 2 are correct. Statement 3 is false because Artemis II was a flyby without landing, and statement 4 is false because the launch was from Kennedy Space Center in Florida. Two statements are correct, so the answer is 'Only two'.",
+      "source": "https://www.skyatnightmagazine.com/news/artemis-ii-launch-video ; https://www.idahopress.com/ap_news/us/nasa-fuels-rocket-to-launch-astronauts-on-the-first-lunar-trip-in-half-a-century/article_d36a34ce-6136-506a-a521-76c39bdf71c2.html ; https://wtop.com/?p=29134254",
+      "truth": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. The North Atlantic Treaty was signed on 4 April 1949.",
+        "II. The North Atlantic Treaty entered into force on 1 January 1950.",
+        "III. Portugal was one of the original signatories of the North Atlantic Treaty."
+      ],
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "Statements I and III are true. The treaty was signed on 4 April 1949 and Portugal was an original signatory. Statement II is false because the treaty entered into force on 24 August 1949.",
+      "source": "https://treaties.un.org/doc/Publication/UNTS/Volume%2034/volume-34-I-541-English.pdf ; https://www.cvce.eu/en/recherche/unit-content/-/unit/a7b75b14-91dc-48dd-9df0-a0d51a9edfef/a815319b-8421-412c-a006-79c314af0fd2 ; https://www.nato.int/cps/en/natohq/topics_67656.htm",
+      "truth": [
+        true,
+        false,
+        true
+      ]
+    }
+  ],
+  "residual": [
+    "Passage is very short (~115 words); not padded.",
+    "Ceremony date: signature 11 Jan (NASA, Portuguese media) vs ceremony 12 Jan; passage states only the 11 Jan signing.",
+    "Arrigo and Costa remarks and Isaacman welcome rest on NASA release plus ptspace.pt/search summaries; NASA/SpacePolicyOnline pages not fetchable (WebFetch blocked).",
+    "Semi-annual meeting: Innovation News plus Portuguese media (RTP/eco) via snippets only.",
+    "Artemis II launch 1 April 2026 18:35 EDT from KSC: AP-syndicated and Sky at Night via snippets; NASA page not fetched.",
+    "Accords non-binding/no enforcement (Q5 reason): academic and commentary sources, no CRS or State Dept page found.",
+    "Ten principles (Q4): GeekWire/NASA-document summaries via snippets; NASA PDF not fetched directly."
+  ]
+}
