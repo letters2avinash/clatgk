@@ -1,0 +1,142 @@
+{
+  "title": "2026 State Assembly Elections: Bengal and Kerala",
+  "topic_tags": [
+    "state elections",
+    "West Bengal",
+    "Kerala",
+    "Election Commission of India",
+    "Constitution"
+  ],
+  "slot": "T06P3",
+  "text": "The Election Commission of India declared the results of the assembly elections in West Bengal and Kerala on 4 May 2026. In West Bengal, the Commission ordered a fresh poll at all 285 polling stations of the Falta constituency after electoral offences; that repoll was held on 21 May. In Bhabanipur, Mamata Banerjee lost to Suvendu Adhikari by more than 15,000 votes. Adhikari was sworn in as Chief Minister of West Bengal on 9 May 2026 at Brigade Parade Ground in Kolkata.\n\nIn Kerala, the United Democratic Front returned to power after a decade in opposition. V.D. Satheesan was sworn in as Chief Minister on 18 May 2026.",
+  "sources": [
+    "https://www.indiatvnews.com/west-bengal/news-mamata-banerjee-loses-to-bjp-s-suvendu-adhikari-by-over-15000-votes-in-bhabanipur-in-west-bengal-assembly-elections-2026-05-04-1039923",
+    "https://www.thestatesman.com/statesman-mandate/bhabanipur-election-mamata-banerjee-defeat-suvendu-adhikari-win-kolkata-results-west-bengal-politics-bjp-tmc-upset-election-results-1503589873.html",
+    "https://deccanchronicle.com/nation/suvendu-defeats-mamata-in-bhabanipur-by-over-15000-votes-1954634",
+    "https://newsonair.gov.in/west-bengal-election-commission-orders-repolling-in-all-285-booths-of-falta-constituency/",
+    "https://www.theweek.in/news/india/2026/05/02/repolls-in-west-bengal-again-all-285-booths-falta-constituency.amp.html",
+    "https://www.indiatvnews.com/west-bengal/kolkata-election-commission-orders-repoll-in-west-bengal-falta-constituency-on-may-21-after-electoral-irregularities-2026-05-02-1039722",
+    "https://www.prabhatkhabar.com/state/west-bengal/kolkata/west-bengal-election-2026-falta-assembly-poll-cancelled-fresh-voting-21-may",
+    "https://www.thequint.com/news/breaking-news/suvendu-adhikari-sworn-in-bjp-chief-minister",
+    "https://www.thehitavada.com//Encyc/2026/5/10/suvendu-adhikari-takes-oath-as-wb-cm.html",
+    "https://www.wionews.com/india-news/vd-satheesan-sworn-in-as-kerala-cm-1779079802367/amp",
+    "https://thesouthfirst.com/keralam/vd-satheesan-to-take-oath-as-kerala-chief-minister-as-udf-returns-to-power-after-10-years/",
+    "https://www.theweek.in/news/india/2026/05/18/vd-satheesan-takes-oath-as-kerala-cm-20-ministers-also-sworn-in.amp.html",
+    "https://www.understandupsc.com/?p=15190",
+    "https://www.gktoday.in/constitutional-provisions-relating-to-state-legislatures/",
+    "https://www.constitutionofindia.net/articles/article-172-duration-of-state-legislatures",
+    "https://www.understandupsc.com/article-172/",
+    "https://www.understandupsc.com/?p=13938",
+    "https://www.understandupsc.com/?p=15684",
+    "https://api.sci.gov.in/supremecourt/2015/32225/32225_2015_Judgement_16-Feb-2018.pdf",
+    "https://www.constitutionofindia.net/articles/article-325-no-person-to-be-ineligible-for-inclusion-in-or-to-claim-to-be-included-in-a-special-electoral-roll-on-grounds-of-religion-race-caste-or-sex",
+    "https://www.constitutionofindia.net/articles/article-243za-elections-to-the-municipalities/",
+    "https://www.legitquest.com/case/aeltemesh-rein-v-chandulal-chandrakar-others/362F",
+    "https://delhihighcourt.nic.in/app/showFileJudgment/JIS24012025CW9352025_001020.pdf",
+    "https://www.constitutionofindia.net/articles/article-164-other-provisions-as-to-ministers/",
+    "https://blog.ipleaders.in/article-164-of-indian-constitution/"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Under Article 170 of the Constitution, what is the maximum permissible strength of a State Legislative Assembly?",
+      "options": [
+        "250",
+        "500",
+        "600",
+        "750"
+      ],
+      "answer": 1,
+      "explanation": "Article 170(1) caps a State Legislative Assembly at 500 members; the same clause sets a minimum of 60.",
+      "source": "https://www.understandupsc.com/?p=15190 ; https://www.gktoday.in/constitutional-provisions-relating-to-state-legislatures/"
+    },
+    {
+      "type": "direct",
+      "q": "Which party's candidate defeated Mamata Banerjee in the Bhabanipur Assembly constituency in the 2026 West Bengal Assembly election?",
+      "options": [
+        "Communist Party of India (Marxist)",
+        "Indian National Congress",
+        "Trinamool Congress",
+        "Bharatiya Janata Party"
+      ],
+      "answer": 3,
+      "explanation": "Suvendu Adhikari, the Bharatiya Janata Party candidate, won Bhabanipur by more than 15,000 votes over Mamata Banerjee.",
+      "source": "https://www.indiatvnews.com/west-bengal/news-mamata-banerjee-loses-to-bjp-s-suvendu-adhikari-by-over-15000-votes-in-bhabanipur-in-west-bengal-assembly-elections-2026-05-04-1039923 ; https://deccanchronicle.com/nation/suvendu-defeats-mamata-in-bhabanipur-by-over-15000-votes-1954634"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Parliament can extend the term of a State Legislative Assembly beyond five years even when no Proclamation of Emergency is in force.",
+      "reason": "The proviso to Article 172 allows Parliament to extend the normal five-year term of a State Legislative Assembly while a Proclamation of Emergency is in force.",
+      "answer": 3,
+      "truth": [
+        false,
+        true
+      ],
+      "explanation": "Article 172(1) fixes a five-year term. The proviso allows extension only while an Emergency is in force, so the assertion is false while the reason is true.",
+      "source": "https://www.constitutionofindia.net/articles/article-172-duration-of-state-legislatures ; https://www.understandupsc.com/article-172/"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. Under the Constitution, the minimum voting age for elections to the Lok Sabha and State Legislative Assemblies is 21 years.",
+        "II. Adult suffrage under Article 326 extends to elections to the Rajya Sabha."
+      ],
+      "answer": 3,
+      "truth": [
+        false,
+        false
+      ],
+      "explanation": "Article 326 sets the voting age at 18 (lowered from 21 by the 61st Amendment, 1988) and applies to the House of the People and State Legislative Assemblies, not the Rajya Sabha.",
+      "source": "https://www.understandupsc.com/?p=13938 ; https://api.sci.gov.in/supremecourt/2015/32225/32225_2015_Judgement_16-Feb-2018.pdf"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Article 243ZA",
+        "II. Article 324",
+        "III. Article 325",
+        "IV. Article 329"
+      ],
+      "list2": [
+        "A. Single general electoral roll with no exclusion on grounds of religion, race, caste or sex",
+        "B. Bar on courts in election matters except through an election petition",
+        "C. Superintendence of municipal electoral rolls and elections by the State Election Commission",
+        "D. Superintendence of elections to Parliament and State Legislatures by the Election Commission of India"
+      ],
+      "options": [
+        "I-C, II-D, III-A, IV-B",
+        "I-D, II-C, III-B, IV-A",
+        "I-A, II-B, III-C, IV-D",
+        "I-B, II-A, III-D, IV-C"
+      ],
+      "answer": 0,
+      "explanation": "Article 243ZA vests municipal elections in the State Election Commission; Article 324 vests superintendence of Union and State elections in the Election Commission of India; Article 325 requires one general roll; Article 329(b) bars courts except through election petitions.",
+      "source": "https://www.constitutionofindia.net/articles/article-243za-elections-to-the-municipalities/ ; https://www.understandupsc.com/?p=15684 ; https://www.constitutionofindia.net/articles/article-325-no-person-to-be-ineligible-for-inclusion-in-or-to-claim-to-be-included-in-a-special-electoral-roll-on-grounds-of-religion-race-caste-or-sex ; https://www.legitquest.com/case/aeltemesh-rein-v-chandulal-chandrakar-others/362F ; https://delhihighcourt.nic.in/app/showFileJudgment/JIS24012025CW9352025_001020.pdf"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The total number of ministers in a State government, including the Chief Minister, may not exceed 15 per cent of the Legislative Assembly's membership.",
+        "2. A State Legislative Council is liable to dissolution in the same way as the Legislative Assembly.",
+        "3. Roughly one-third of the members of a State Legislative Council retire every two years.",
+        "4. A legislator disqualified under the Tenth Schedule cannot be appointed a minister for the period of disqualification."
+      ],
+      "mode": "correct",
+      "answer": 2,
+      "truth": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "explanation": "Statements 1, 3 and 4 are correct, so three statements are correct. Statement 2 is wrong because a Legislative Council is not subject to dissolution under Article 172(2).",
+      "source": "https://www.constitutionofindia.net/articles/article-164-other-provisions-as-to-ministers/ ; https://blog.ipleaders.in/article-164-of-indian-constitution/ ; https://www.constitutionofindia.net/articles/article-172-duration-of-state-legislatures"
+    }
+  ],
+  "residual": [
+    "Constitutional article questions (Art 170, 172, 326, 324/325/329, 164) rest on constitutionofindia.net, India Code mirrors and exam-prep pages; no India Code page fetched directly.",
+    "Q5 statement II (Rajya Sabha indirect, outside Art 326) rests on exam-prep pages (iasgyan, Drishti) plus the Supreme Court judgment snippet.",
+    "Bhabanipur margin: reports give 15,105 (EC tallies) and 15,114 (Statesman, ETV Bharat); passage says only 'more than 15,000', which is safe.",
+    "Search snippets only for most news claims; WebFetch pages not opened. Passage is short (about 108 words)."
+  ]
+}

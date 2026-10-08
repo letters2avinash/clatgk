@@ -1,0 +1,198 @@
+{
+  "passage_file": "data/draft/t06_p3.json",
+  "passage_claims": [
+    {
+      "claim": "ECI declared WB and Kerala results on 4 May 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://scroll.in/latest/1092555/kerala-assembly-election-results-counting-of-votes-to-begin-at-8-am",
+        "https://www.businesstoday.in/amp/elections/kerala/story/bt-explainer-from-pinarayi-to-udf-how-keralas-verdict-took-shape-529618-2026-05-04"
+      ],
+      "note": "Counting 4 May confirmed for Kerala and Bhabanipur (WB) by several outlets; writer's flag on banked note resolved."
+    },
+    {
+      "claim": "Fresh poll at all 285 Falta polling stations after electoral offences",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://scroll.in/latest/1092553/scroll_in",
+        "https://newsonair.gov.in/west-bengal-election-commission-orders-repolling-in-all-285-booths-of-falta-constituency/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Falta repoll held 21 May",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://thefederal.com/elections-2026/falta-repoll-over-74-pc-turnout-amid-tight-security-no-major-incident-reported-243955",
+        "https://www.siasat.com/west-bengal-around-43-per-cent-polling-in-falta-repoll-till-11-am-3474500/amp/"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "Adhikari beat Banerjee in Bhabanipur by more than 15,000",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.indiatvnews.com/west-bengal/news-mamata-banerjee-loses-to-bjp-s-suvendu-adhikari-by-over-15000-votes-in-bhabanipur-in-west-bengal-assembly-elections-2026-05-04-1039923",
+        "https://deccanchronicle.com/nation/suvendu-defeats-mamata-in-bhabanipur-by-over-15000-votes-1954634"
+      ],
+      "note": "15,105 (EC tallies) vs 15,114 (Statesman, ETV Bharat); both exceed 15,000 so wording is safe."
+    },
+    {
+      "claim": "Adhikari sworn in as WB CM 9 May 2026 at Brigade Parade Ground",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.thequint.com/news/breaking-news/suvendu-adhikari-sworn-in-bjp-chief-minister",
+        "https://thewire.in/politics/bjp-takes-bengal-suvendu-adhikari-sworn-in-as-first-saffron-chief-minister"
+      ],
+      "note": ""
+    },
+    {
+      "claim": "UDF returned to power in Kerala after a decade in opposition",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.khaleejtimes.com/world/asia/kerala-cm-satheesan-takes-oath-as-congress-led-udf-regains-power-after-10-years-2?amp=1",
+        "https://www.wionews.com/india-news/vd-satheesan-sworn-in-as-kerala-cm-1779079802367/amp"
+      ],
+      "note": "Kerala seat counts differ by outlet (97-103) but passage does not state a count."
+    },
+    {
+      "claim": "V.D. Satheesan sworn in as Kerala CM 18 May 2026",
+      "verdict": "CONFIRMED",
+      "sources": [
+        "https://www.theweek.in/news/india/2026/05/18/vd-satheesan-takes-oath-as-kerala-cm-20-ministers-also-sworn-in.amp.html",
+        "https://www.wionews.com/india-news/vd-satheesan-sworn-in-as-kerala-cm-1779079802367/amp"
+      ],
+      "note": ""
+    }
+  ],
+  "questions": [
+    {
+      "index": 1,
+      "verdict": "OK",
+      "my_answer": "500",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-170-composition-of-the-legislative-assemblies/",
+        "https://www.understandupsc.com/?p=15190"
+      ],
+      "fix": null,
+      "note": "Max 500, min 60."
+    },
+    {
+      "index": 2,
+      "verdict": "DROP",
+      "my_answer": "LDF",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://scroll.in/latest/1092555/kerala-assembly-election-results-counting-of-votes-to-begin-at-8-am"
+      ],
+      "fix": null,
+      "note": "Correct but dropped as weakest/easiest; 8 questions cut to 6."
+    },
+    {
+      "index": 3,
+      "verdict": "OK",
+      "my_answer": "BJP",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.indiatvnews.com/west-bengal/news-mamata-banerjee-loses-to-bjp-s-suvendu-adhikari-by-over-15000-votes-in-bhabanipur-in-west-bengal-assembly-elections-2026-05-04-1039923",
+        "https://thedailystar.net/news/asia/india/news/bjps-suvendu-defeats-mamata-her-own-constituency-4167941"
+      ],
+      "fix": null,
+      "note": "Passage does not name Adhikari's party."
+    },
+    {
+      "index": 4,
+      "verdict": "OK",
+      "my_answer": "3",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-172-duration-of-state-legislatures",
+        "https://www.advocatekhoj.com/library/bareacts/constitutionofindia/172.php"
+      ],
+      "fix": null,
+      "note": "Extension only during Emergency."
+    },
+    {
+      "index": 5,
+      "verdict": "OK",
+      "my_answer": "3 (neither)",
+      "key_answer_correct": true,
+      "truth_values": [
+        false,
+        false
+      ],
+      "issues": [],
+      "sources": [
+        "https://api.sci.gov.in/supremecourt/2015/32225/32225_2015_Judgement_16-Feb-2018.pdf",
+        "https://www.iasgyan.in/daily-current-affairs/article-80"
+      ],
+      "fix": null,
+      "note": "Age 18 since 61st Amendment; Rajya Sabha indirectly elected (Art 80)."
+    },
+    {
+      "index": 6,
+      "verdict": "OK",
+      "my_answer": "I-C, II-D, III-A, IV-B",
+      "key_answer_correct": true,
+      "truth_values": null,
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-243za-elections-to-the-municipalities/",
+        "https://www.understandupsc.com/part-xv-elections/"
+      ],
+      "fix": null,
+      "note": "All four pairings confirmed."
+    },
+    {
+      "index": 7,
+      "verdict": "OK",
+      "my_answer": "Three correct (1,3,4)",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.india.gov.in/sites/upload_files/npi/files/amend91.pdf",
+        "https://www.constitutionofindia.net/articles/article-172-duration-of-state-legislatures"
+      ],
+      "fix": null,
+      "note": "Art 164(1A), 164(1B), 172(2)."
+    },
+    {
+      "index": 8,
+      "verdict": "DROP",
+      "my_answer": "I and III only",
+      "key_answer_correct": true,
+      "truth_values": [
+        true,
+        false,
+        true
+      ],
+      "issues": [],
+      "sources": [
+        "https://www.constitutionofindia.net/articles/article-170-composition-of-the-legislative-assemblies/",
+        "https://www.understandupsc.com/?p=15190"
+      ],
+      "fix": null,
+      "note": "Correct but overlaps Q1 (Art 170); dropped to reach 6."
+    }
+  ],
+  "passage_fixes": [],
+  "summary": "All passage claims confirmed by two publishers; no passage edits needed. 6 of 8 questions kept; Q2 and Q8 passed but were culled for weakness and overlap."
+}
