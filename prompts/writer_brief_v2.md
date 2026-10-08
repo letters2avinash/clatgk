@@ -41,3 +41,7 @@ Final reply: max 3 lines (path, word count, facts you could not double-source).
 - Passage: 200-300 words is ideal (any length is acceptable). Never pad.
 - Add a field `"writer_flags": [..]` to the output JSON: short strings for every fact or answer that is not double-sourced or that you are unsure of. The verifier reads it.
 - Do not use constitutionofindia.net-only claims for static GK without a second source; prefer facts you can double-source in one search.
+
+
+## Passage length floor (added after Test 7)
+Verifiers delete every claim that lacks two independent publishers, so a draft shrinks during verification (Test 7 passages fell to 85-92 words). To land near the 200 words the owner wants: write 260-320 words before verification, choose a topic that at least 6 publishers cover in detail (a Cabinet decision, a verdict, a summit, a tournament, a major report), and put every fact you cannot double-source in writer_flags rather than in the passage. If you cannot reach 220 double-sourced words on a topic, switch topic within your category and window.

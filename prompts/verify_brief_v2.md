@@ -22,3 +22,7 @@ Word count is NOT a problem. Do not pad, and do not add facts just to reach a le
 
 ## Residual list (required)
 In the FINAL passage JSON add `"residual": [..]`: short strings (max ~25 words each) naming every remaining fact or answer that rests on a single publisher, a Wikipedia/exam-prep page, search snippets only, or an unreachable primary source, plus a note if the passage is very short. Use [] only if nothing is thin. Also read the draft's `writer_flags` field and check every item in it.
+
+
+## Short passages (added after Test 7)
+If deleting unconfirmed claims would leave the passage under about 150 words, first try REWORDING each claim to a weaker statement that two publishers do confirm (drop precise figures but keep the event), and only then delete. You may add up to about 80 words of extra facts that you can confirm with two independent publishers, as long as they do not touch the answer to any kept question. Report the final word count and say 'SHORT' in your final reply if it is still under 150 words.
