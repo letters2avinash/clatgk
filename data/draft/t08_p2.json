@@ -1,0 +1,127 @@
+{
+  "title": "Western Ghats eco-sensitive draft and Kerala's exclusion plea",
+  "topic_tags": ["Environment & biodiversity", "Western Ghats", "Eco-sensitive areas", "Kerala", "Mining and industry restrictions"],
+  "slot": "T08P2",
+  "status": "complete",
+  "text": "The Union environment ministry reissued the seventh draft notification for an Ecologically Sensitive Area (ESA) covering the Western Ghats in late July 2026. The draft covers 56,825.7 sq km across six states: Gujarat, Goa, Tamil Nadu, Kerala, Maharashtra and Karnataka. It proposes barring mining, quarrying and sand mining within the ESA, along with new thermal power plants, certain highly polluting industries and large construction projects. Hydel power would be regulated rather than banned, and agriculture and plantations are reported to be unaffected.\n\nThe draft is open to public objections for 60 days. The Centre and the six states have not agreed on which villages and areas should be included, a dispute that has continued since earlier drafts.\n\nIn September 2026, Kerala's cabinet decided to ask the Centre for the complete exclusion of residential areas and the Cardamom Hill Reserve from the ESA. The state's environment department is to prepare a map of the areas it wants carved out, to be presented to the Union Environment Ministry. The Centre has so far resisted broader exclusions.",
+  "sources": [
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/western-ghats-ecologically-sensitive-area-7th-draft-notification",
+    "https://m.thewire.in/article/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats",
+    "https://www.onmanorama.com/news/kerala/2026/09/23/kerala-esa-exclusion-proposal-western-ghats-sensitive-area-plea.html",
+    "https://www.onmanorama.com/news/kerala/2026/09/25/kerala-wants-residential-agricultural-areas-excluded-from-western-ghats-esa.html",
+    "https://theprint.in/india/keralam-moves-to-exclude-residential-farm-areas-from-western-ghats-esa-limits/3047969/"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Which Act is the legal basis under which eco-sensitive zones around national parks and wildlife sanctuaries are notified?",
+      "options": [
+        "Wildlife (Protection) Act, 1972",
+        "Forest (Conservation) Act, 1980",
+        "Environment (Protection) Act, 1986",
+        "Water (Prevention and Control of Pollution) Act, 1974"
+      ],
+      "answer": 2,
+      "explanation": "Eco-sensitive zones are notified under the Environment (Protection) Act, 1986, with factors such as biodiversity, proximity to sanctuaries and national parks, and wildlife corridors considered. The other three Acts do not provide the notification basis for these zones.",
+      "source": "https://indiaenvironmentportal.org.in/reports-and-documents/question-raised-in-rajya-sabha-on-eco-sensitive-areas-25042016 ; https://www.gktoday.in/gk/eco-sensitive-zones/"
+    },
+    {
+      "type": "direct",
+      "q": "In which year was the Western Ghats inscribed as a UNESCO World Heritage Site?",
+      "options": ["2006", "2010", "2012", "2014"],
+      "answer": 2,
+      "explanation": "The Western Ghats received UNESCO World Heritage status in 2012, at the 36th session of the World Heritage Committee in St Petersburg.",
+      "source": "https://www.downtoearth.org.in/amp/story/environment/western-ghats-get-world-heritage-site-tag-38604 ; https://www.hinduismtoday.com/hpi/2012/07/06/india-s-western-ghats-given-unesco-world-heritage-status-httpwwwbbccouknewsworld-asia-india-18669534/"
+    },
+    {
+      "type": "direct",
+      "q": "Which of the six states named in the 2026 draft Western Ghats ESA has the largest area under the draft?",
+      "options": ["Karnataka", "Maharashtra", "Kerala", "Tamil Nadu"],
+      "answer": 0,
+      "explanation": "Karnataka has the largest share of the draft at 20,668 sq km, out of a total of 56,825.7 sq km across six states.",
+      "source": "https://m.thewire.in/article/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats ; https://keralakaumudi.com/en/news/news-amp.php?id=1357694"
+    },
+    {
+      "type": "match",
+      "list1": [
+        "I. Western Ghats Ecology Expert Panel (WGEEP) report",
+        "II. Kasturirangan panel recommendation",
+        "III. Gujarat's share of the 2026 draft ESA",
+        "IV. Kerala's share of the 2026 draft ESA"
+      ],
+      "list2": [
+        "A. Entire 1,29,037 sq km of the Western Ghats as an ESA",
+        "B. About 37 per cent of the Western Ghats",
+        "C. 449 sq km",
+        "D. 9,993.7 sq km"
+      ],
+      "options": [
+        "I-A, II-B, III-C, IV-D",
+        "I-B, II-A, III-C, IV-D",
+        "I-A, II-C, III-B, IV-D",
+        "I-C, II-B, III-A, IV-D"
+      ],
+      "answer": 0,
+      "explanation": "The WGEEP (Gadgil panel) recommended treating the entire 1,29,037 sq km of the Western Ghats as an ESA. The Kasturirangan report proposed about 37 per cent of the area. Gujarat's share of the 2026 draft is 449 sq km, and Kerala's is 9,993.7 sq km.",
+      "source": "https://www.clearias.com/gadgil-report-kasturirangan-report-western-ghats/ ; https://vajiramandravi.com/current-affairs/gadgil-report-on-western-ghats-why-the-gadgil-report-still-shapes-environmental-debate/ ; https://m.thewire.in/article/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Kasturirangan panel's report on the Western Ghats was submitted before the Gadgil panel's report.",
+      "reason": "The Gadgil panel's report on the Western Ghats was submitted to the Government of India in 2011.",
+      "answer": 3,
+      "explanation": "A is false: the Gadgil (WGEEP) report was submitted on 31 August 2011, and the Kasturirangan report came later, in 2013. R is true: the Gadgil report was submitted in 2011.",
+      "source": "https://www.clearias.com/gadgil-report-kasturirangan-report-western-ghats/ ; https://vajiramandravi.com/current-affairs/gadgil-report-on-western-ghats-why-the-gadgil-report-still-shapes-environmental-debate/",
+      "truth": [false, true]
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. Sanjay Kumar headed the Western Ghats Ecology Expert Panel.",
+        "II. Madhav Gadgil headed the Western Ghats Ecology Expert Panel."
+      ],
+      "answer": 1,
+      "explanation": "Only II is correct. The WGEEP was headed by Madhav Gadgil. Sanjay Kumar leads the later expert committee formed in 2022, which is separate from the WGEEP.",
+      "source": "https://www.clearias.com/gadgil-report-kasturirangan-report-western-ghats/ ; https://vajiramandravi.com/current-affairs/western-ghats-controversy/",
+      "truth": [false, true]
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. Goa's share of the 2026 draft Western Ghats ESA is 1,461 sq km.",
+        "2. Tamil Nadu's share of the 2026 draft Western Ghats ESA is 6,914 sq km.",
+        "3. Kerala's part of the 2026 draft Western Ghats ESA covers 131 villages.",
+        "4. Maharashtra's share of the 2026 draft Western Ghats ESA is 17,430 sq km."
+      ],
+      "mode": "correct",
+      "answer": 2,
+      "explanation": "Statements 1, 2 and 3 are correct. Statement 4 is wrong: Maharashtra's share is 17,340 sq km. Three statements are correct, so the answer is Only three.",
+      "source": "https://keralakaumudi.com/en/news/news-amp.php?id=1357694 ; https://www.onmanorama.com/news/kerala/2026/09/25/kerala-wants-residential-agricultural-areas-excluded-from-western-ghats-esa.html ; https://m.thewire.in/article/environment/union-govt-reissues-notification-proposing-56800-sq-km-as-eco-sensitive-areas-in-western-ghats"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. Kerala's government has sought to restrict the area under the ESA to about 8,590.69 sq km across 98 villages.",
+        "II. The Centre has agreed to exclude the Palakkad Gap from the ESA.",
+        "III. The Centre has agreed to exclude the villages of Udumbanchola taluk from the ESA."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "explanation": "I and II are correct: Kerala has asked for about 8,590.69 sq km across 98 villages, and the Centre has said no part of the Western Ghats can be excluded except the Palakkad Gap. III is wrong: the Centre has said that excluding Udumbanchola taluk villages would disrupt the continuity of the ESA.",
+      "source": "https://www.onmanorama.com/news/kerala/2026/09/25/kerala-wants-residential-agricultural-areas-excluded-from-western-ghats-esa.html ; https://www.onmanorama.com/news/kerala/2026/09/23/kerala-esa-exclusion-proposal-western-ghats-sensitive-area-plea.html"
+    }
+  ],
+  "writer_flags": [
+    "Draft issue date: sources give 25, 27 or 29 July 2026; passage says 'late July 2026' only.",
+    "60-day objection deadline: sources disagree on the end date (about 24-25 Sep 2026); passage gives no date.",
+    "Gadgil panel report date (31 Aug 2011) and WGEEP headship (Madhav Gadgil): sourced from explainer sites, not an official document. Match item I and statement II rely on this.",
+    "Kasturirangan report year (2013) and 37 per cent / about 60,000 sq km figure: only explainer sites; the year is not confirmed by two publishers (used in assertion_reason A and match item II).",
+    "State-wise areas (Goa 1,461; Tamil Nadu 6,914; Maharashtra 17,340; Gujarat 449; Kerala 9,993.7; Karnataka 20,668): one 2026 news report plus identical figures in older drafts (2017, 2024); the state figures sum to 56,825.7 sq km. Goa, Tamil Nadu and Maharashtra figures rest on that single 2026 report.",
+    "Kerala 131 villages (statement 3 in statement_count) and Kerala's sought 8,590.69 sq km across 98 villages (statement I in statement_multi): single publisher (Onmanorama) for the 2026 figures.",
+    "Palakkad Gap exclusion accepted by the Centre (statement II in statement_multi) and Udumbanchola statement (statement III): single publisher (Onmanorama, 25 Sep 2026).",
+    "Sanjay Kumar leading a later expert committee formed 2022 (statement_two I, explanation): single explainer source.",
+    "Eco-sensitive zone legal basis (Environment (Protection) Act, 1986): two publishers; the Wildlife (Protection) Act distractor is related to protected areas, so a reviewer should confirm it is clearly wrong as the notifying Act.",
+    "Window: the draft was issued in late July 2026, outside the 10-30 Sep period. The Kerala cabinet decision (Sep 2026, in window) is the main in-window event. Widened as the brief allows.",
+    "Passage states hydel power is regulated and agriculture/plantations unaffected: from explainer summaries plus one news report; not double-sourced from two independent 2026 publishers."
+  ]
+}

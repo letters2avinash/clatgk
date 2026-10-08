@@ -1,0 +1,116 @@
+{
+  "title": "Madhya Pradesh UCC Bill 2026",
+  "topic_tags": ["States & regional", "Madhya Pradesh", "Uniform Civil Code", "State legislature", "Monsoon session 2026"],
+  "slot": "T08P1",
+  "text": "The Madhya Pradesh Legislative Assembly passed the Uniform Civil Code (UCC) Bill, 2026 on Tuesday, 21 July 2026, by voice vote. The Bill was introduced on 20 July, the first day of the state's monsoon session, and was passed amid protests by Congress MLAs who stayed in the well of the House.\n\nThe government tabled the Bill while Congress was pressing for a debate on alleged land purchases linked to Chief Minister Mohan Yadav. Congress MLAs had demanded that the Bill be sent to a Select Committee, and the government rejected that demand. Congress also insisted that 27 per cent reservation for Other Backward Classes be implemented alongside the UCC, and it criticised the Bill as targeting a specific community.\n\nThe Bill covers marriage, divorce, inheritance and adoption, replacing religious personal laws. It prohibits polygamy, makes registration of marriages and divorces compulsory, provides equal inheritance rights for men and women, and requires live-in relationships to be registered with state authorities within one month of cohabitation. Scheduled Tribe communities are exempted from its scope.\n\nYadav defended the Bill as a step towards gender equality. The Bill is to be sent to President Draupadi Murmu for her assent before it can be implemented.",
+  "sources": [
+    "https://ianslive.in/mp-assembly-passes-uniform-civil-code-bill-amid-opposition-protests-uproar--20260721154425",
+    "https://www.freepressjournal.in/amp/bhopal/mp-assembly-passes-historic-ucc-bill-2026-amid-protests-and-stormy-debates",
+    "https://www.deccanchronicle.com/nation/mp-assembly-passes-ucc-bill-2026-amid-noisy-protest-by-congress-1972779",
+    "https://www.thehitavada.com//Encyc/2026/7/22/mp-assembly-passes-ucc-bill-chief-minister-hails-passing-of-the-bill-as-golden-day.html",
+    "https://www.latestly.com/india/news/uniform-civil-code-bill-2026-passed-in-madhya-pradesh-fourth-state-to-adopt-ucc-7525817.html/amp",
+    "https://dce.visionias.in/news-today/2026-07-22/polity-and-governance/madhya-pradesh-assembly-passes-uniform-civil-code-ucc-bill-2026",
+    "https://www.deccanchronicle.com/nation/madhya-pradesh-ucc-bill-2026-tabled-in-mp-assembly-1972522",
+    "https://www.deccanchronicle.com/nation/mp-govt-pushes-ucc-bill-amid-congress-storm-over-cm-land-purchase-allegations-1972500",
+    "https://theprint.in/india/mp-govt-tables-ucc-bill-in-assembly-amid-cong-uproar-over-cm-land-purchase-allegations/2991136/",
+    "https://newsonair.gov.in/madhya-pradesh-assembly-introduces-uniform-civil-code-bill-2026/",
+    "https://thefederal.com/category/states/north/madhya-pradesh/mp-assembly-passes-uniform-civil-code-bill-amid-congress-protest-250896"
+  ],
+  "writer_flags": [
+    "Passage is 201 words, below the 220 double-sourced floor; no further double-sourced MP facts were found within budget (13 of 20 searches used). Verifier may reassign the slot if it stays under 220 after cull",
+    "Nomadic and semi-nomadic exemption reported only in the draft (one source) - left out of passage",
+    "Passage sourced from IANS, FPJ, Deccan Chronicle, Hitavada and Latestly reports of the 21 Jul 2026 voice vote; a later search summary could not confirm passage, so the verifier should re-check passage against two of these pages",
+    "Drishti IAS page is dated 29 Jul 2026 for the passage; other sources say 21 Jul - 21 Jul used",
+    "Whether MP is the 'fourth state' after Uttarakhand, Gujarat, Assam is contested (one source names Goa instead) - deliberately left out of the passage and questions",
+    "Marriage age (21 men / 18 women) is confirmed only for Assam's UCC Bill, not MP - left out of passage",
+    "Yadav's statement that polygamy is prohibited and that the Bill would be sent to the President: two-source coverage but wording varies between reports",
+    "Bill covers marriage, divorce, inheritance and adoption: reports describe scope in general terms; passage uses the widest wording reports agree on",
+    "Q2 Entry 5 list contents (infants and minors, wills, intestacy, joint family) rest on one commentary source (Legacy IAS); livelaw confirms only that marriage and divorce is a Concurrent List subject",
+    "Q3 Article 254(2) mechanics rest on study-site and LiveLaw snippets, not the constitutional text; Hoechst-case summary not used",
+    "Q4 Article 25-27 content from lawfoyer/studyhub/careers360 snippets; Article 28 wording is not used in any statement",
+    "Q5 Article 16 and Article 15 detail from snippets only (pmfias, vikaspedia); Ambedkar 'heart and soul' remark not used in any question",
+    "Q8 Sixth Schedule states confirmed by MEA PDF and NCST page; Eleventh Schedule subject list from education.gov.in and vedantu snippets; Article 368 wording from constitutionofindia.net snippet and ipleaders"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "Which Article of the Constitution directs the State to endeavour to secure a uniform civil code for the citizens throughout the territory of India?",
+      "options": ["Article 37", "Article 44", "Article 51A", "Article 370"],
+      "answer": 1,
+      "explanation": "Article 44 is the Directive Principle that asks the State to endeavour to secure a uniform civil code for citizens. Article 37 says Directive Principles are not enforceable by courts, Article 51A lists Fundamental Duties, and Article 370 concerned Jammu and Kashmir.",
+      "source": "https://www.legacyias.com/article-44-uniform-civil-code/ ; https://www.anantamias.com/uniform-civil-code-uttarakhand/"
+    },
+    {
+      "type": "direct",
+      "q": "Under which list of the Seventh Schedule do the subjects of marriage and divorce fall, so that both Parliament and State legislatures can legislate on them?",
+      "options": ["Union List", "State List", "Concurrent List", "Residuary subjects"],
+      "answer": 2,
+      "explanation": "Marriage and divorce is an entry in the Concurrent List (List III) of the Seventh Schedule, which is why both Parliament and State legislatures can make laws on it. Union List and State List subjects are exclusive to the Centre and the states respectively, so neither fits.",
+      "source": "https://livelaw.in/know-the-law/concept-of-repugnancy-under-article-254-173619 ; https://www.legacyias.com/article-44-uniform-civil-code/"
+    },
+    {
+      "type": "direct",
+      "q": "Under which Article of the Constitution does a State law on a Concurrent List subject, which is repugnant to a Union law, continue to prevail in that State once it has been reserved for the President and has received his assent?",
+      "options": ["Article 200", "Article 201", "Article 254", "Article 368"],
+      "answer": 2,
+      "explanation": "Article 254(2) provides that a State law on a Concurrent List subject that has been reserved for the President and received his assent prevails in that State despite repugnancy with a Union law. Article 200 covers the Governor's options on State Bills, Article 201 covers the President's action on reserved Bills, and Article 368 covers constitutional amendment.",
+      "source": "https://livelaw.in/know-the-law/concept-of-repugnancy-under-article-254-173619 ; https://prepp.in/question/under-article-254-2-of-the-indian-constitution-a-s-68da3e8b2c6b477d46cdb818"
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. Article 25 guarantees freedom of conscience and the right to freely profess, practise and propagate religion, subject to public order, morality and health.",
+        "II. Article 26 gives religious denominations the right to manage their own affairs in matters of religion.",
+        "III. Article 27 prohibits the State from providing religious instruction in educational institutions wholly maintained out of State funds."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 0,
+      "truth": [true, true, false],
+      "explanation": "Statements I and II correctly describe Articles 25 and 26. Statement III attributes to Article 27 a rule that belongs to Article 28; Article 27 bars taxes whose proceeds are specifically appropriated to promote a particular religion. So only I and II are correct.",
+      "source": "https://lawfoyer.in/right-to-freedom-of-religion-articles-25-28/ ; https://studyhub.net.in/indian_constitution/right-to-freedom-of-religion/"
+    },
+    {
+      "type": "match",
+      "list1": ["I. Article 15", "II. Article 16", "III. Article 17", "IV. Article 32"],
+      "list2": ["A. Equality of opportunity in matters of public employment", "B. Right to move the Supreme Court for enforcement of Fundamental Rights", "C. Abolition of untouchability", "D. Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth"],
+      "options": ["I-B, II-A, III-C, IV-D", "I-D, II-A, III-C, IV-B", "I-A, II-D, III-B, IV-C", "I-C, II-B, III-D, IV-A"],
+      "answer": 1,
+      "explanation": "Article 15 prohibits discrimination on grounds of religion, race, caste, sex or place of birth (D). Article 16 guarantees equality of opportunity in public employment (A). Article 17 abolishes untouchability (C). Article 32 gives the right to move the Supreme Court for enforcement of Fundamental Rights (B).",
+      "source": "https://www.pmfias.com/articles-14-17-provisions-matching-upsc-prelims-pyq-2004/ ; https://blog.ipleaders.in/significance-of-article-32-of-the-constitution-of-india-right-to-constitutional-remedies/ ; https://en.vikaspedia.in/viewcontent/education/law-and-constitution/fundamental-rights-article-14-35/articles-14-18-of-the-indian-constitution-equality-and-its-implications?lgn=en"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "The Uniform Civil Code is a Fundamental Right that citizens can directly enforce in a court under Part III of the Constitution.",
+      "reason": "Article 14 guarantees equality before the law and the equal protection of the laws to every person within the territory of India, not only to citizens.",
+      "answer": 3,
+      "truth": [false, true],
+      "explanation": "A is false because the Uniform Civil Code is a Directive Principle in Part IV, which courts cannot enforce, not a Fundamental Right in Part III. R is true: Article 14 applies to every person, including non-citizens. A false, R true gives option 3.",
+      "source": "https://www.latestlaws.com/bare-acts/central-acts-rules/coi-article-14-equality-before-law/ ; https://en.wikipedia.org/wiki/Article_14_of_the_Constitution_of_India ; https://www.legacyias.com/article-44-uniform-civil-code/"
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. Under Article 200, a Governor may reserve a Bill passed by the State Legislature for the consideration of the President.",
+        "II. Under Article 213, a Governor may promulgate an ordinance when the State Legislative Assembly is not in session."
+      ],
+      "answer": 2,
+      "truth": [true, true],
+      "explanation": "Both statements are correct. Article 200 gives the Governor four options on a State Bill, one of which is reserving it for the President. Article 213 allows the Governor to promulgate ordinances during the recess of the Legislature, subject to conditions.",
+      "source": "https://www.gktoday.in/powers-of-the-governor-with-special-reference-to-article-200/ ; https://www.constitutionofindia.net/constitution_of_india/the_states/articles/Article%20213 ; https://www.casemine.com/in/column/article-213-of-the-indian-constitution:-the-governor's-ordinance-making-power/view"
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. Article 368 empowers Parliament to amend provisions of the Constitution by way of addition, variation or repeal, following the procedure laid down in that Article.",
+        "2. The Eleventh Schedule lists the functions that rural Panchayati Raj institutions can exercise.",
+        "3. The Sixth Schedule applies to the tribal areas of Arunachal Pradesh.",
+        "4. The Directive Principles of State Policy are enforceable by courts."
+      ],
+      "mode": "correct",
+      "answer": 1,
+      "truth": [true, true, false, false],
+      "explanation": "Statements 1 and 2 are correct. Statement 3 is wrong because the Sixth Schedule covers tribal areas of Assam, Meghalaya, Tripura and Mizoram only. Statement 4 is wrong because Article 37 says Directive Principles are not enforceable by any court. Exactly two statements are correct, so the answer is Only two.",
+      "source": "https://www.constitutionofindia.net/articles/article-368-power-of-parliament-to-amend-the-constitution/ ; https://blog.ipleaders.in/amendment-power-parliament-article-368/ ; https://education.gov.in/node/158 ; https://www.mea.gov.in/Images/pdf1/S6.pdf ; https://ncst.nic.in/page/sixth-schedule-areas ; https://www.constitutionofindia.net/articles/article-37-application-of-the-principles-contained-in-this-part/"
+    }
+  ]
+}

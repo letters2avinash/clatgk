@@ -14,3 +14,5 @@ Test 7 (T07P4): PM-RAHAT road accident cashless treatment scheme (launched 14 Fe
 T08P3 (Batch 2, Supreme Court & High Courts; no clear cluster in 22 Jan-11 Feb, widened to 24-26 Feb 2026): SC suo motu on NCERT Class 8 chapter on corruption in judiciary (cognisance 25 Feb 2026; blanket ban 26 Feb).
 T08P5 (International affairs, 28 May-17 Jun 2026): G7 Evian summit (France) critical minerals declaration, 17 Jun 2026 + Critical Minerals Resilience and Production Alliance; static GK on NCMM, G8 2014 suspension, G7 structure, cobalt/lithium producers.
 Test 8 (T08P4, Defence & security, 26 Mar-15 Apr 2026): DAC AoN approvals of 27 Mar 2026 (Rs 2.38 lakh crore) with Dhanush, S-400, Su-30MKI and Akash static GK.
+T08P1 (States & regional, 9-29 Jul 2026): Madhya Pradesh Uniform Civil Code Bill 2026 - passed by MP Assembly 21 Jul 2026 by voice vote; Congress select-committee demand rejected; polygamy ban, live-in registration, ST exemption, sent for presidential assent.
+T08P2 (Environment & biodiversity, 10-30 Sep 2026): Western Ghats 7th draft ESA (reissued late Jul 2026; state-wise areas) + Kerala cabinet plea to exclude residential/CHR areas (Sep 2026).
