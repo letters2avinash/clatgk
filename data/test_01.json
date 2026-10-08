@@ -1,10 +1,18 @@
 {
  "title": "CLAT GK - Test 01",
  "date": "2026-10-08",
- "duration_minutes": 50,
+ "duration_minutes": 45,
  "marks_correct": 1,
  "marks_wrong": -0.25,
- "notes": "PILOT test written by Sonnet 5.5 agents from web-search snippets. It has NOT gone through the independent verification pass that Tests 2 and 3 received, so treat every fact as unverified. Known weak spots: the Budget figures (capex and expenditure totals), FRBM details and Articles 112/113 rest on secondary sources; the Jaya Thakur judgment date is disputed (30 Jan vs 20 Jan 2026); BRICS 'New Delhi 2012' and the member count are unconfirmed; the PSLV-C62 inquiry committee and Gaganyaan timeline rest on press reports.",
+ "notes": "First written by Sonnet 5.5 agents from web-search snippets, then independently re-verified question by question by separate Sonnet agents using fresh searches (two-source rule; claims that could not be confirmed were removed or reworded; ambiguous or leaking questions were dropped). 27 questions: three were dropped in verification. Several primary sources were unreachable, so residual risk is listed below. Not reviewed by a human.",
+ "residual": [
+  "Passage 1: ICRA's 7.1% forecast rests on ICRA's own report; the 55.6% of GDP debt figure rests on a PTI copy plus prep sites; Articles 112/113 are sourced to budget documents because the constitution text could not be reached; the MPC outcome of 5-7 Oct 2026 was not found (the passage ends before it).",
+  "Passage 2: the trophy's 6.175 kg weight and Mbappe's 22 career World Cup goals have no FIFA page behind them (several outlets agree).",
+  "Passage 3: the Shanbaug 'court-monitored' wording and the Unni Krishnan 'no professional degree' point rest on summaries that could not be read in full.",
+  "Passage 4: the O'Neill 2001, Yekaterinburg 2009 and Sanya/Durban date details are the thinnest (search snippets only).",
+  "Passage 5: the probe-committee chair and co-chair rest on The Statesman and UNI (possibly one wire); the Kestrel data claim rests on The Register and one aggregator; ISRO's formation date and Sriharikota's district rest on Wikipedia plus one minor source; Q3 and Q5 overlap on ISRO's headquarters.",
+  "Static-GK explanations cite Wikipedia or exam-prep pages in places where a primary text was not reachable."
+ ],
  "passages": [
   {
    "title": "Budget 2026-27, repo rate holds and a strong Q1 GDP print",
@@ -16,101 +24,79 @@
     "GDP",
     "fiscal policy"
    ],
-   "text": "Union Finance Minister Nirmala Sitharaman presented the Union Budget for 2026-27 in Parliament on 1 February 2026, a Sunday, the first time a Budget was delivered on that day in independent India. It was her ninth consecutive Budget. She set the fiscal deficit target for 2026-27 at 4.3 per cent of GDP, slightly below the 4.4 per cent revised estimate for 2025-26, and said she had fulfilled her 2021-22 commitment to bring the deficit below 4.5 per cent of GDP by 2025-26. The Budget raised capital expenditure to about Rs 12.2 lakh crore and projected the Centre's debt at 55.6 per cent of GDP, with the stated aim of moving towards around 50 per cent by March 2031. Total expenditure was estimated at Rs 53.47 lakh crore, or 13.6 per cent of GDP.\n\nFive days later, on 6 February 2026, the Reserve Bank of India's Monetary Policy Committee, chaired by Governor Sanjay Malhotra, kept the policy repo rate unchanged at 5.25 per cent with a neutral stance. It was the Governor's first policy review after the Budget. The Committee repeated the decision on 5 June 2026, citing elevated crude oil prices, a weaker rupee and monsoon concerns. At its meeting of 3 to 5 August 2026, the MPC voted unanimously to hold the rate at 5.25 per cent once more and retained the neutral stance. The RBI projected real GDP growth of 6.7 per cent and consumer price inflation of 5.0 per cent for 2026-27. The repo rate had been lowered by a cumulative 125 basis points during 2025 before the pause began.\n\nThe central bank's growth projection was overtaken by official data on 31 August 2026. The National Statistical Office reported that India's real GDP grew 7.8 per cent in April-June 2026, the first quarter of 2026-27, against a Reuters poll median of 7.1 per cent and the RBI's own estimate of 7 per cent. Real GDP was put at Rs 81.36 lakh crore, while nominal GDP rose 10.3 per cent to Rs 88.27 lakh crore. Gross value added grew 8.2 per cent, led by services, and gross fixed capital formation rose 11.9 per cent, a sign that public investment was feeding through. ICRA raised its full-year forecast to 7.1 per cent from 6.7 per cent, though analysts cautioned that high crude prices and inflation remained risks.\n\nThe MPC met again from 5 to 7 October 2026. Economists were divided on whether the Committee would hold or raise rates, which would have been the first increase since February 2023.",
+   "text": "Union Finance Minister Nirmala Sitharaman presented the Union Budget for 2026-27 in Parliament on 1 February 2026, a Sunday. It was her ninth consecutive Budget. She set the fiscal deficit target for 2026-27 at 4.3 per cent of GDP, or about Rs 16.95 lakh crore, slightly below the 4.4 per cent revised estimate for 2025-26, and said she had fulfilled her 2021-22 commitment to bring the deficit below 4.5 per cent of GDP by 2025-26. The Budget raised capital expenditure to about Rs 12.2 lakh crore and projected the Centre's debt at 55.6 per cent of GDP, with the stated aim of moving towards around 50 per cent by March 2031. Total expenditure was estimated at Rs 53.47 lakh crore.\n\nFive days later, on 6 February 2026, the Reserve Bank of India's Monetary Policy Committee, chaired by Governor Sanjay Malhotra, kept the policy repo rate unchanged at 5.25 per cent with a neutral stance, leaving the standing deposit facility rate at 5.00 per cent and the marginal standing facility rate and Bank Rate at 5.50 per cent. It was the Governor's first policy review after the Budget. The Committee repeated the decision on 5 June 2026, citing elevated crude oil prices amid the West Asia conflict and concerns about the monsoon. At its meeting of 3 to 5 August 2026, the MPC voted unanimously to hold the rate at 5.25 per cent once more and retained the neutral stance. The RBI projected real GDP growth of 6.7 per cent and consumer price inflation of 5.0 per cent for 2026-27. The repo rate had been lowered in several steps during 2025 before the pause began.\n\nThe central bank's growth projection was overtaken by official data on 31 August 2026. The National Statistical Office reported that India's real GDP grew 7.8 per cent in April-June 2026, the first quarter of 2026-27, against the RBI's own estimate of 7 per cent for the quarter. Nominal GDP rose 10.3 per cent to Rs 88.27 lakh crore. Gross value added grew 8.2 per cent, led by services, and gross fixed capital formation rose 11.9 per cent. The growth rate was lower than the upwardly revised 8.6 per cent recorded in the fourth quarter of 2025-26. ICRA raised its full-year forecast to 7.1 per cent from 6.7 per cent, though it flagged a poor monsoon and prolonged West Asia tensions as downside risks.\n\nThe MPC met again from 5 to 7 October 2026. Ahead of that meeting, most economists in polls expected the Committee to raise the repo rate by 25 basis points, which would be the first increase since February 2023.",
    "sources": [
+    "https://www.outlookbusiness.com/budget/budget-2026-fm-sitharaman-raises-capex-for-fy27-to-122-lakh-crore",
+    "https://arunachaltimes.in/article/fm-presents-rs-53-47-lakh-crore-budget",
     "https://www.wionews.com/india-news/-i-have-fulfilled-my-commitment-indian-fm-pegs-fiscal-deficit-at-4-3-of-gdp-for-fy2026-27-1769927559817/amp",
-    "https://www.research360.in/blogs/budget-2026-fiscal-deficit-bond-yields",
     "https://www.businesstoday.in/amp/latest/economy/story/rbi-mpc-why-was-the-repo-rate-not-changed-gov-malhotra-calls-decision-appropriate-514917-2026-02-06",
-    "https://www.iasgyan.in/daily-current-affairs/rbi-monetary-policy-june-2026-key-decisions-implications-for-indian-economy",
-    "https://www.sahi.com/blogs/rbi-mpc-meeting-august-2026-highlights",
-    "https://currentaffairs.adda247.com/india-gdp-grows-7-8-in-q1-fy27-beats-estimated-growth/",
+    "https://www.scconline.com/blog/?p=392925",
+    "https://newsonair.gov.in/rbi-projects-gdp-growth-to-6-7-in-this-fiscal-year/",
+    "https://newsonair.gov.in/indias-real-gdp-growth-rate-rises-to-7-8-in-first-quarter-of-fy-2026-27/",
+    "https://www.icra.in/Research/ViewResearchReport/q1-fy2027-gdp-growth-of-7-8-surprised-on-the-upside-fy2027-expansion-forecast-raised-to-7-1-from-6-7-indicated-earlier/7094",
     "https://www.outlookmoney.com/banking/rbi-mpc-october-2026-key-things-to-know-ahead-of-policy-decision"
    ],
    "questions": [
     {
      "type": "direct",
-     "q": "The Union Budget presented in Parliament each year is constitutionally described as the 'annual financial statement'. Which Article of the Constitution of India requires it to be laid before both Houses?",
+     "q": "The Union Budget presented in Parliament each year is constitutionally described as the 'annual financial statement'. Under which Article of the Constitution is it laid before Parliament?",
      "options": [
-      "Article 112",
       "Article 265",
       "Article 114",
-      "Article 110"
+      "Article 110",
+      "Article 112"
      ],
-     "answer": 0,
+     "answer": 3,
      "explanation": "Article 112(1) requires the President to cause an estimate of receipts and expenditure for each financial year, the annual financial statement, to be laid before both Houses.",
-     "source": "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/"
+     "source": "https://www.indiabudget.gov.in/doc/Key_to_Budget_Document_2025.pdf ; https://rbi.org.in/SCRIPTS/PublicationsView.aspx?id=9490"
     },
     {
      "type": "direct",
      "q": "The National Statistical Office, which released the Q1 2026-27 GDP estimate, functions under which Union Ministry?",
      "options": [
-      "NITI Aayog",
-      "Ministry of Statistics and Programme Implementation",
+      "Ministry of Finance",
       "Ministry of Commerce and Industry",
-      "Ministry of Finance"
+      "Ministry of Statistics and Programme Implementation",
+      "NITI Aayog"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "GDP estimates are released by the NSO under the Ministry of Statistics and Programme Implementation (MoSPI).",
-     "source": "https://currentaffairs.adda247.com/india-gdp-grows-7-8-in-q1-fy27-beats-estimated-growth/"
+     "source": "https://www.thequint.com/amp/story/news/business/mospi-orders-revamp-merges-nsso-cso-into-nso ; https://thewire.in/government/nsso-cso-merger-what-will-the-centralisation-of-indian-statistics-bring-with-it"
     },
     {
      "type": "assertion_reason",
      "assertion": "Salaries of Supreme Court judges are not subject to a vote by the Lok Sabha when the Budget is passed.",
-     "reason": "Such expenditure is charged on the Consolidated Fund of India under Article 112(3).",
+     "reason": "Such expenditure is charged on the Consolidated Fund of India.",
      "answer": 0,
-     "explanation": "Article 112(3) lists charged expenditure, including salaries of Supreme Court judges and debt charges, which is not voted upon; so R correctly explains A.",
-     "source": "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/"
-    },
-    {
-     "type": "match",
-     "list1": [
-      "I. Annual Financial Statement",
-      "II. Demands for Grants",
-      "III. CPI inflation target set for the MPC",
-      "IV. Statutory basis for constituting the MPC"
-     ],
-     "list2": [
-      "A. Article 113",
-      "B. Article 112",
-      "C. Section 45ZB of the RBI Act, 1934",
-      "D. 4 per cent with a tolerance band of 2 per cent either side"
-     ],
-     "options": [
-      "I-D, II-A, III-B, IV-C",
-      "I-A, II-B, III-D, IV-C",
-      "I-B, II-A, III-D, IV-C",
-      "I-B, II-A, III-C, IV-D"
-     ],
-     "answer": 2,
-     "explanation": "Article 112 covers the annual financial statement and Article 113 the Demands for Grants; the inflation target is 4 per cent (2 to 6 per cent band); Section 45ZB of the RBI Act provides for the MPC.",
-     "source": "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/"
+     "explanation": "Salaries of Supreme Court judges, along with debt charges and certain other items, are charged on the Consolidated Fund and are not put to a vote in the Lok Sabha; so R correctly explains A.",
+     "source": "https://www.indiabudget.gov.in/doc/Key_to_Budget_Document_2025.pdf ; https://rbi.org.in/SCRIPTS/PublicationsView.aspx?id=9490"
     },
     {
      "type": "statement_two",
      "statements": [
       "I. The Monetary Policy Committee has six members, three of whom are from the Reserve Bank of India including the Governor as ex-officio chairperson.",
-      "II. The flexible inflation target for the MPC is measured against CPI Combined, with an upper tolerance level of 6 per cent and a lower level of 2 per cent."
+      "II. The inflation target for the MPC is set by the Central Government in consultation with the Reserve Bank, at 4 per cent with an upper tolerance level of 6 per cent and a lower level of 2 per cent."
      ],
      "answer": 2,
-     "explanation": "Both are correct: Section 45ZB provides for a six-member MPC with three RBI members and three government-appointed external members, and the target is 4 per cent with a 2 to 6 per cent band on CPI Combined.",
-     "source": "https://www.business-standard.com/amp/article/news-cm/monetary-policy-committee-constitution-under-the-reserve-bank-of-india-act-1934-notified-116092900939_1.html"
+     "explanation": "Both are correct: Section 45ZB provides for a six-member MPC with three RBI members and three government-appointed external members, and the target notified under Section 45ZA is 4 per cent with a 2 to 6 per cent band.",
+     "source": "https://www.business-standard.com/amp/article/news-cm/monetary-policy-committee-constitution-under-the-reserve-bank-of-india-act-1934-notified-116092900939_1.html ; https://www.scconline.com/blog/post/2016/10/01/constitution-of-monetary-policy-committee-under-the-reserve-bank-of-india-act-1934-notified ; https://www.outlookmoney.com/banking/rbi-to-maintain-4-per-cent-inflation-target-until-2031-centre"
     },
     {
      "type": "statement_multi",
      "statements": [
       "I. The Fiscal Responsibility and Budget Management Act was enacted in 2003.",
-      "II. The Act originally aimed to limit the Centre's fiscal deficit to 3 per cent of GDP.",
+      "II. The Act, as amended in 2018, set a target of limiting the Centre's fiscal deficit to 3 per cent of GDP.",
       "III. The 2018 amendment allows deviation from the fiscal deficit target by up to 1 percentage point of GDP under an escape clause."
      ],
      "options": [
       "II and III only",
-      "I and II only",
       "I and III only",
+      "I and II only",
       "All of the above"
      ],
-     "answer": 1,
-     "explanation": "The FRBM Act dates from 2003 and prescribed a 3 per cent of GDP fiscal deficit; the escape clause permits a deviation of up to 0.5 percentage points, not 1, so III is incorrect.",
-     "source": "https://compass.rauias.com/current-affairs/re-evaluating-frbm-act-2003/"
+     "answer": 2,
+     "explanation": "The FRBM Act dates from 2003 (Act 39 of 2003) and, as amended, sets a 3 per cent of GDP fiscal deficit target; the escape clause permits a deviation of up to 0.5 percentage points (one-half per cent), not 1, so III is incorrect.",
+     "source": "https://www.casemine.com/act/in/5a979dbf4a93263ca60b736e ; https://cag.gov.in/uploads/PressRelease/PR-Press-Release-of-Report-no-3-in-English-0687e245649c392-56340173.pdf"
     }
    ]
   },
@@ -121,16 +107,19 @@
     "FIFA World Cup 2026",
     "football"
    ],
-   "text": "The 2026 FIFA World Cup, the first to be hosted jointly by three nations, ran for 39 days from 11 June to 19 July 2026. It was also the first edition expanded to 48 teams, split into 12 groups of four, and featured a record 104 matches across 16 host cities, of which 11 were in the United States, three in Mexico and two in Canada. The opening game on 11 June was played at the Estadio Azteca in Mexico City, where Mexico beat South Africa 2-0 through goals from Julian Quinones and Raul Jimenez. The match produced three red cards, the most in any World Cup opener, and ended a run of seven World Cup openers in which the Mexicans had failed to win. The same stadium thereby became the first in football history to stage matches at three different World Cups.\n\nThe tournament ended on 19 July at MetLife Stadium in New Jersey, where Spain defeated defending champion Argentina 1-0 after extra time before a crowd of 80,663. Ferran Torres scored the only goal 39 seconds into the second period of extra time, in the 106th minute, turning in a low cross from Nico Williams. Argentina had been reduced to ten men late in normal time when Enzo Fernandez received a second yellow card, and goalkeeper Emiliano Martinez made 11 saves, a record for a World Cup final, without being able to deny Spain. The victory gave Spain its second world title and denied Argentina a fourth.\n\nSpain also dominated the individual honours announced after the final. Midfielder Rodri was named winner of the Golden Ball as the best player of the tournament, while goalkeeper Unai Simon took the Golden Glove after conceding just one goal in eight matches. Pau Cubarsi was named best young player, and the Fair Play award went to the Netherlands. The Golden Boot, however, went to France's Kylian Mbappe, who scored 10 goals in eight matches and finished two clear of the second-placed finisher on eight goals. Jude Bellingham and Erling Haaland tied for third place with seven goals each.\n\nThe Golden Ball, Golden Glove and Best Young Player awards are chosen by media votes from a shortlist drawn up by FIFA's Technical Study Group. For Mbappe, the award extended a remarkable run at the sport's biggest event: he became the first player to win the top scorer award at two consecutive World Cups. For Spain, whose squad blended experienced campaigners with teenage talent, the result capped a tournament in which its defence was breached only once. The tournament's expanded format meant that the eventual champion had to navigate a new round of 32, introduced because the top two sides from every group and the eight best third-placed teams advanced.",
+   "text": "The 2026 FIFA World Cup, the first to be hosted jointly by three nations, ran for 39 days from 11 June to 19 July 2026. It was also the first edition expanded to 48 teams, split into 12 groups of four, a structure that guaranteed every team at least three matches, and featured a record 104 matches across 16 host cities, of which 11 were in the United States, three in Mexico and two in Canada. The opening game on 11 June was played at the Estadio Azteca in Mexico City, where Mexico beat South Africa 2-0 through goals from Julian Quinones and Raul Jimenez. South Africa finished the match with nine men, and the game produced three red cards in all.\n\nThe tournament ended on 19 July at MetLife Stadium in New Jersey, where Spain defeated defending champion Argentina 1-0 after extra time before a crowd of 80,663. Ferran Torres, who had come on as a substitute, scored the only goal early in the second period of extra time, in the 106th minute. Argentina had been reduced to ten men late in normal time when Enzo Fernandez received a second yellow card, and goalkeeper Emiliano Martinez made 11 saves, a record for a World Cup final, without being able to deny Spain. The victory gave Spain its second world title.\n\nSpain also dominated the individual honours announced after the final. Midfielder Rodri was named winner of the Golden Ball as the best player of the tournament, while goalkeeper Unai Simon took the Golden Glove after Spain conceded just one goal in the whole tournament. Argentina's captain took the Silver Ball and Mbappe, of France, the Bronze Ball. Pau Cubarsi beat his Spain teammate Lamine Yamal to the best young player award, and the Fair Play award went to the Netherlands. The Golden Boot, however, went to France's Kylian Mbappe, who scored 10 goals, the most at a single World Cup since 1970, and finished two clear of the runner-up, who ended on eight goals. England's Jude Bellingham took third place in the scoring list with seven goals.\n\nFor Mbappe, the award extended a remarkable run at the sport's biggest event: he became the first player to win the Golden Boot twice, and his tally lifted him to 22 career World Cup goals, a men's all-time record. For Spain, the result capped a tournament in which its defence was breached only once. The tournament's expanded format meant that the eventual champion had to navigate a new round of 32, introduced because the top two sides from every group and the eight best third-placed teams advanced. ",
    "sources": [
-    "https://lasvegassun.com/news/2026/jul/19/ferran-torres-scores-in-extra-time-as-spain-beats-/",
-    "https://blog.wego.com/world-cup-final-preview/",
-    "https://global.espn.com/football/story/_/id/49033183/mexico-south-africa-2026-world-cup-azetca-opening-game",
     "https://www.theweek.in/news/sports/2026/07/20/fifa-world-cup-2026-awards-from-mbappe-to-rodri-who-won-what-full-list-of-winners.html",
-    "https://www.football365.com/news/how-the-2026-world-cup-works-48-teams-104-games-39-days-16-venues-three-host-nations",
+    "https://www.nbcsports.com/soccer/news/2026-world-cup-award-winners-golden-boot-golden-ball-best-young-player-golden-glove",
+    "https://santamariatimes.com/ap/sports/ferran-torres-scores-in-extra-time-as-spain-beats-argentina-1-0-to-win-the/article_a8e21e5c-8c25-54ce-b065-7ebb7225d56f.html",
+    "https://www.sortiraparis.com/en/what-to-do-in-paris/sport-wellness/articles/349129-world-cup-2026-all-results-and-the-final-score",
+    "https://www.skysports.com/football/news/12098/13552605/world-cup-2026-mexico-2-0-south-africa-julian-quinones-and-raul-jimenez-score-as-co-hosts-win-opener-in-game-of-three-red-cards",
+    "https://www.aljazeera.com/sports/2023/3/14/fifa-confirms-expanded-2026-world-cup-with-record-104-matches",
+    "https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/28783291386653-1-When-and-where-is-the-FIFA-World-Cup-2026-being-held",
+    "https://www.foxsports.com/stories/soccer/emi-martinez-breaks-record-most-saves-world-cup-final",
+    "https://www.football-espana.net/2026/07/20/mbappe-golden-boot-2026-world-cup",
     "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final",
-    "https://www.cbsnews.com/amp/miami/news/argentina-france-2022-world-cup-final",
-    "https://www.fox13news.com/news/kylian-mbappe-world-cup-2022-golden-boot",
+    "https://www.si.com/fannation/soccer/futbol/news/lionel-messi-wins-fifa-world-cup-golden-ball-award-for-2nd-time",
     "https://en.wikipedia.org/wiki/Silvio_Gazzaniga",
     "https://gulfnews.com/sport/football/world-cup/fifa-world-cup-trophy-explained-why-winners-dont-get-to-keep-the-18-carat-gold-original-1.500613398"
    ],
@@ -139,35 +128,27 @@
      "type": "direct",
      "q": "Spain's win over Argentina in the 2026 final was its second World Cup title. In which year did Spain win its first, beating the Netherlands 1-0 after extra time?",
      "options": [
-      "2008",
       "2014",
+      "2010",
       "2006",
-      "2010"
+      "2008"
      ],
-     "answer": 3,
+     "answer": 1,
      "explanation": "Spain won its first World Cup on 11 July 2010 at Soccer City, Johannesburg, beating the Netherlands 1-0 after extra time through an Andres Iniesta goal.",
-     "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final"
+     "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final ; https://salon.com/2010/07/11/soc_wcup_world_cup_final_1"
     },
     {
      "type": "direct",
      "q": "Argentina entered the 2026 final as defending champion. Which player won the Golden Ball at the 2022 World Cup, and remains the only player to have won that award twice?",
      "options": [
-      "Kylian Mbappe",
       "Antoine Griezmann",
       "Luka Modric",
+      "Kylian Mbappe",
       "Lionel Messi"
      ],
      "answer": 3,
-     "explanation": "Lionel Messi was awarded the Golden Ball at the 2022 World Cup and is the only player to receive it twice. Mbappe won the 2022 Golden Boot instead.",
-     "source": "https://www.cbsnews.com/amp/miami/news/argentina-france-2022-world-cup-final"
-    },
-    {
-     "type": "assertion_reason",
-     "assertion": "The Estadio Azteca in Mexico City became the first stadium in football history to host matches at three different FIFA World Cups when the 2026 tournament opened there.",
-     "reason": "The Estadio Azteca had earlier hosted World Cup matches in 1970 and 1986.",
-     "answer": 0,
-     "explanation": "Both statements are true. The Azteca had hosted matches at the 1970 and 1986 World Cups, so the 2026 opener made it the first stadium to stage matches at three different World Cups; the earlier two editions are exactly what makes 2026 its third.",
-     "source": "https://global.espn.com/football/story/_/id/49033183/mexico-south-africa-2026-world-cup-azetca-opening-game"
+     "explanation": "Lionel Messi was awarded the Golden Ball at the 2022 World Cup and is the only player to have received it twice (2014 and 2022). Mbappe won the 2022 Golden Boot instead.",
+     "source": "https://www.si.com/fannation/soccer/futbol/news/lionel-messi-wins-fifa-world-cup-golden-ball-award-for-2nd-time ; https://supersport.com/football/fifa-world-cup-2022/news/74803daa-80cd-4f75-81a0-fb4fa05d6cc9/messi-wins-golden-ball-as-mbappe-claims-golden-boot"
     },
     {
      "type": "match",
@@ -184,14 +165,14 @@
       "D. Estadio Azteca, Mexico City"
      ],
      "options": [
-      "I-A, II-B, III-D, IV-C",
-      "I-B, II-A, III-C, IV-D",
       "I-B, II-A, III-D, IV-C",
-      "I-A, II-B, III-C, IV-D"
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-A, III-C, IV-D",
+      "I-A, II-B, III-D, IV-C"
      ],
-     "answer": 3,
+     "answer": 1,
      "explanation": "The 2010 final (Spain v Netherlands) was at Soccer City, Johannesburg; the 2022 final (Argentina v France) at Lusail Stadium, Qatar; the 2026 final at MetLife Stadium; and the 2026 opener at the Estadio Azteca.",
-     "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final"
+     "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final ; https://salon.com/2010/07/11/soc_wcup_world_cup_final_1 ; https://www.aa.com.tr/en/sports/messi-argentina-seize-world-cup-glory-with-epic-final-win-over-france/2767012 ; https://lbc.co.uk/news/argentina-france-world-cup-final-result-penalty-shootout ; https://santamariatimes.com/ap/sports/ferran-torres-scores-in-extra-time-as-spain-beats-argentina-1-0-to-win-the/article_a8e21e5c-8c25-54ce-b065-7ebb7225d56f.html"
     },
     {
      "type": "statement_two",
@@ -201,7 +182,7 @@
      ],
      "answer": 0,
      "explanation": "Statement I is correct: Mbappe scored eight goals in 2022, including a hat-trick in the final. Statement II is incorrect: the 2022 final finished 3-3 after extra time and Argentina won 4-2 on penalties.",
-     "source": "https://www.fox13news.com/news/kylian-mbappe-world-cup-2022-golden-boot"
+     "source": "https://www.si.com/soccer/2022/12/14/world-cup-golden-boot-argentina-france-mbappe-messi-alvarez-giroud ; https://www.aljazeera.com/sports/2022/12/18/kylian-mbappe-awarded-golden-boot-after-world-cup-finals ; https://lbc.co.uk/news/argentina-france-world-cup-final-result-penalty-shootout"
     },
     {
      "type": "statement_count",
@@ -213,8 +194,8 @@
      ],
      "mode": "incorrect",
      "answer": 0,
-     "explanation": "Statements 1, 2 and 3 are correct. Statement 4 is incorrect: the trophy is hollow, which is why it weighs about 6.175 kg rather than the 70-80 kg a solid gold version would.",
-     "source": "https://gulfnews.com/sport/football/world-cup/fifa-world-cup-trophy-explained-why-winners-dont-get-to-keep-the-18-carat-gold-original-1.500613398"
+     "explanation": "Statements 1, 2 and 3 are correct. Statement 4 is incorrect: the trophy is made of 18-carat gold but is hollow inside, so it is not solid gold throughout, and it weighs about 6.175 kg.",
+     "source": "https://en.wikipedia.org/wiki/Silvio_Gazzaniga ; https://abcnews.com/Sports/wireStory/italian-sculptor-created-world-cup-trophy-icon-134807547 ; https://gulfnews.com/sport/football/world-cup/fifa-world-cup-trophy-explained-why-winners-dont-get-to-keep-the-18-carat-gold-original-1.500613398 ; https://www.businesstoday.in/amp/latest/trends/photo/is-the-fifa-world-cup-trophy-real-gold-heres-everything-about-footballs-most-valuable-prize-544008-2026-07-20"
     }
    ]
   },
@@ -226,12 +207,15 @@
     "Judgments 2026",
     "Constitution"
    ],
-   "text": "Two rulings delivered by the Supreme Court in the first quarter of 2026 have widened the reach of the right to life in different directions, and both were authored by Justice J.B. Pardiwala.\n\nOn 30 January 2026, a bench of Justices Pardiwala and R. Mahadevan decided Dr. Jaya Thakur v. Government of India (reported as 2026 INSC 97, Writ Petition (Civil) No. 1000 of 2022). The Court held that menstrual health is part of the right to life under Article 21, and that poor menstrual hygiene management is not merely a sanitation problem but a violation of the fundamental rights to equality, dignity and education. It said the absence of gender-segregated toilets and menstrual hygiene facilities is a constitutional barrier to schooling for adolescent girls, engaging Articles 14, 21 and 21A. The bench issued a continuing mandamus to the Union and the states. All government, government-aided and private schools must provide biodegradable sanitary napkins free of cost, maintain functional, gender-segregated and disabled-friendly toilets, and dispose of menstrual waste in line with the Solid Waste Management Rules. Private schools that fail to comply risk derecognition. The Court noted that policies existed on paper but implementation was inconsistent, and that several states, including Uttar Pradesh, Haryana, Rajasthan and Madhya Pradesh, had not even filed affidavits.\n\nOn 11 March 2026, a different bench of Justices Pardiwala and K.V. Viswanathan decided Harish Rana v. Union of India (2026 SCC OnLine SC 358). Rana, reported to be about 31 or 32 years old, had been in a persistent vegetative state for over thirteen years after a brain injury in 2013. His parents had first approached the Delhi High Court, which declined relief on the ground that he was not on mechanical life support and was not terminally ill. They then came to the Supreme Court in 2024, which gave them liberty to return if further directions were needed. On 13 January 2026, the judges personally met Rana's parents and his younger brother before reserving judgment.\n\nThe Court allowed withdrawal of life-sustaining treatment, including clinically assisted nutrition and hydration, applying the \"best interest\" principle and the guidelines flowing from Common Cause v. Union of India (2018), as modified in 2023. It waived the usual 30-day reconsideration period because all stakeholders agreed, and directed AIIMS, New Delhi, to admit him to its palliative care department. He was shifted on 14 March to the palliative care unit at the Dr B.R. Ambedkar Institute Rotary Cancer Hospital, AIIMS, where a team led by Dr Seema Mishra supervised a gradual withdrawal with palliative sedation. Rana died on 24 March 2026. Reports describe it as the first judicial implementation of India's passive euthanasia framework in an individual case.\n\nTaken together, the judgments show the Court continuing to read Article 21 as more than mere animal existence, covering health, bodily autonomy and dignity from the school toilet to the hospital bed.",
+   "text": "Two rulings delivered by the Supreme Court in the first quarter of 2026 have widened the reach of the right to life in different directions, and Justice J.B. Pardiwala sat on the bench in both.\n\nOn 30 January 2026, a bench of Justices Pardiwala and R. Mahadevan decided Dr. Jaya Thakur v. Government of India. The petition, filed in 2022 by social activist Jaya Thakur, had sought free sanitary pads for girls in classes 6 to 12 and separate toilets for girls in schools. The Court held that menstrual health is part of the right to life under Article 21, and that poor menstrual hygiene management is not merely a sanitation problem but a violation of the fundamental rights to equality, dignity and education. It said the absence of gender-segregated toilets and menstrual hygiene facilities is a constitutional barrier to schooling for adolescent girls, engaging Articles 14, 21 and 21A. The bench directed the Union, the states and the Union Territories to ensure that schools, whether government-run, aided or private, provide free sanitary napkins, maintain functional, gender-segregated toilets and arrange for the safe disposal of menstrual waste. Private schools that fail to comply risk derecognition.\n\nOn 11 March 2026, a different bench of Justices Pardiwala and K.V. Viswanathan decided Harish Rana v. Union of India. Rana, reported to be about 31 or 32 years old, had been in a persistent vegetative state for over thirteen years after a fall from the fourth floor of his accommodation in 2013 left him with a severe brain injury. His parents had first approached the Delhi High Court, which declined relief on the ground that he was not on mechanical life support and was not terminally ill. They then came to the Supreme Court, which initially gave them liberty to return if further directions were needed. Two medical boards constituted by the Court later concluded that he had no chance of recovery, and the bench reserved its judgment on 15 January 2026.\n\nThe Court allowed withdrawal of life-sustaining treatment, including clinically assisted nutrition and hydration, which it treated as medical treatment rather than basic nursing care. It applied the \"best interest\" principle and the guidelines flowing from Common Cause v. Union of India, as modified in 2023. It waived the usual 30-day reconsideration period because all stakeholders agreed, and directed AIIMS, New Delhi, to admit him to its palliative care department. It also asked the Union government to consider comprehensive legislation on passive euthanasia. He was shifted on 14 March to the palliative care unit at the Dr B.R. Ambedkar Institute Rotary Cancer Hospital, AIIMS, where a team led by Dr Seema Mishra supervised the gradual withdrawal of treatment. Rana died on 24 March 2026. Reports describe it as the first such case of passive euthanasia allowed by a court in India.\n\nTaken together, the judgments show the Court continuing to read Article 21 as more than mere animal existence, covering health, bodily autonomy and dignity from the school toilet to the hospital bed.",
    "sources": [
-    "https://thewire.in/law/five-significant-observations-from-the-supreme-court-verdict-on-menstrual-hygiene",
-    "https://thelegalquorum.com/case-summary-dr-jaya-thakur-vs-government-of-india-2026-insc-97/",
+    "https://thewire.in/gender/menstrual-health-isnt-just-hygiene-its-a-constitutional-right",
+    "https://www.onmanorama.com/news/india/2026/01/30/menstrual-health-constitutional-right.html",
+    "https://theindianlawyer.in/menstrual-health-recognised-as-a-fundamental-right-by-the-supreme-court/",
     "https://en.wikipedia.org/wiki/Harish_Rana_v._Union_of_India",
+    "https://www.theweek.in/news/india/2026/03/11/euthanasia-laws-sc-implements-guidelines-calls-for-legislation.amp.html",
     "https://www.tribuneindia.com/news/india/passive-euthanasia-sc-allows-withdrawal-of-life-support-to-32-year-old-in-vegetative-state-since-2013/",
+    "https://www.dtnext.in/news/national/harish-rana-indias-first-person-to-be-allowed-passive-euthanasia-dies-in-aiims",
     "https://www.onmanorama.com/news/india/2026/03/24/passive-euthanasia-india-harish-rana-dies.html",
     "https://www.etvbharat.com/en/bharat/sc-reserves-judgment-on-fathers-plea-seeking-passive-euthanasia-for-son-enn26011505296"
    ],
@@ -240,35 +224,35 @@
      "type": "direct",
      "q": "The Jaya Thakur ruling stressed that menstrual hygiene facilities are linked to the education of girls. Which Article of the Constitution expressly permits the State to make special provisions for women and children despite the bar on discrimination?",
      "options": [
-      "Article 19(1)(g)",
       "Article 16(4)",
       "Article 14",
+      "Article 19(1)(g)",
       "Article 15(3)"
      ],
      "answer": 3,
      "explanation": "Article 15(3) says nothing in Article 15 prevents the State from making any special provision for women and children.",
-     "source": "https://en.wikipedia.org/wiki/Article_15_of_the_Constitution_of_India"
+     "source": "https://en.wikipedia.org/wiki/Article_15_of_the_Constitution_of_India ; https://mksy.up.gov.in/women_welfare/pdf/act3.pdf"
     },
     {
      "type": "direct",
-     "q": "Which 1978 seven-judge Supreme Court decision, authored mainly by Justice Bhagwati, read the words 'procedure established by law' in Article 21 as requiring a procedure that is fair, just and reasonable, and so underpins the wide modern reading of the right to life?",
+     "q": "Which seven-judge Supreme Court decision, with a leading opinion by Justice Bhagwati, read the words 'procedure established by law' in Article 21 as requiring a procedure that is fair, just and reasonable, and so underpins the wide modern reading of the right to life?",
      "options": [
-      "Kesavananda Bharati v. State of Kerala",
       "A.K. Gopalan v. State of Madras",
-      "Minerva Mills v. Union of India",
-      "Maneka Gandhi v. Union of India"
+      "Maneka Gandhi v. Union of India",
+      "Kesavananda Bharati v. State of Kerala",
+      "Minerva Mills v. Union of India"
      ],
-     "answer": 3,
-     "explanation": "Maneka Gandhi (25 January 1978) held procedure under Article 21 must be fair, just and reasonable, linking Articles 14, 19 and 21 and departing from Gopalan.",
-     "source": "https://en.wikipedia.org/wiki/Maneka_Gandhi_v._Union_of_India"
+     "answer": 1,
+     "explanation": "Maneka Gandhi (25 January 1978) held procedure under Article 21 must be fair, just and reasonable, linking Articles 14, 19 and 21 and departing from Gopalan; the lead opinion was by Justice Bhagwati.",
+     "source": "https://en.wikipedia.org/wiki/Maneka_Gandhi_v._Union_of_India ; https://legalfly.in/maneka-gandhi-v-union-of-india/"
     },
     {
      "type": "assertion_reason",
-     "assertion": "Before Article 21A existed, the Supreme Court in Unni Krishnan, J.P. v. State of Andhra Pradesh (1993) had read a right to free education up to the age of 14 into Article 21.",
+     "assertion": "Before Article 21A existed, the Supreme Court in Unni Krishnan, J.P. v. State of Andhra Pradesh had read a right to free education for children up to a certain age into Article 21.",
      "reason": "Article 21A was later inserted into the Constitution by the Eighty-sixth Amendment Act, 2002, and the RTE Act 2009 is the law implementing it.",
      "answer": 1,
      "explanation": "Both statements are true, but the 2002 insertion of Article 21A and the 2009 RTE Act do not explain why the Court read the right into Article 21 in 1993; that was done through interpretation alongside Directive Principles (Articles 41, 45, 46).",
-     "source": "https://en.wikipedia.org/wiki/Eighty-sixth_Amendment_of_the_Constitution_of_India"
+     "source": "https://www.escr-net.org/caselaw/2006/unni-krishnan-jp-ors-v-state-andhra-pradesh-ors-cited-1993-air-217-1993-scr-1-594-1993-2 ; https://education.gov.in/rte"
     },
     {
      "type": "match",
@@ -285,37 +269,27 @@
       "D. 2018"
      ],
      "options": [
+      "I-A, II-C, III-D, IV-B",
       "I-A, II-B, III-C, IV-D",
-      "I-A, II-B, III-D, IV-C",
       "I-B, II-A, III-D, IV-C",
-      "I-A, II-C, III-D, IV-B"
+      "I-A, II-B, III-D, IV-C"
      ],
-     "answer": 1,
+     "answer": 3,
      "explanation": "Maneka Gandhi 1978; Unni Krishnan 1993; Aruna Shanbaug 2011; Common Cause 2018 (9 March 2018).",
-     "source": "https://www.scobserver.in/court-case/euthanasia-living-wills-and-the-right-to-die-with-dignity"
-    },
-    {
-     "type": "statement_two",
-     "statements": [
-      "I. Article 21A, guaranteeing free and compulsory education for children aged six to fourteen, was inserted by the Eighty-sixth Constitutional Amendment Act, 2002.",
-      "II. Article 21A guarantees free and compulsory education to all children up to the age of eighteen."
-     ],
-     "answer": 0,
-     "explanation": "Statement I is correct (assented 12 December 2002). Statement II is wrong: Article 21A covers ages six to fourteen.",
-     "source": "https://en.wikipedia.org/wiki/Eighty-sixth_Amendment_of_the_Constitution_of_India"
+     "source": "https://www.scobserver.in/court-case/euthanasia-living-wills-and-the-right-to-die-with-dignity ; https://nhrc.nic.in/node/111549 ; https://en.wikipedia.org/wiki/Maneka_Gandhi_v._Union_of_India ; https://www.escr-net.org/caselaw/2006/unni-krishnan-jp-ors-v-state-andhra-pradesh-ors-cited-1993-air-217-1993-scr-1-594-1993-2"
     },
     {
      "type": "statement_count",
      "statements": [
-      "1. The Common Cause (2018) judgment on the right to die with dignity was delivered by a five-judge Constitution Bench.",
-      "2. Maneka Gandhi (1978) departed from the watertight-compartments approach to fundamental rights adopted in A.K. Gopalan (1950).",
-      "3. In Unni Krishnan (1993), the Supreme Court held that the right to education up to a professional degree flows directly from Article 21.",
-      "4. Aruna Shanbaug v. Union of India was decided in 2011 and allowed passive euthanasia in certain circumstances under court monitoring."
+      "1. The Common Cause judgment on the right to die with dignity was delivered by a five-judge Constitution Bench.",
+      "2. A.K. Gopalan v. State of Madras treated the fundamental rights as separate, watertight compartments, an approach the Supreme Court later departed from.",
+      "3. In Unni Krishnan, the Supreme Court held that the right to education up to a professional degree flows directly from Article 21.",
+      "4. In Aruna Shanbaug v. Union of India, the Supreme Court allowed passive euthanasia in certain circumstances under court monitoring."
      ],
      "mode": "incorrect",
      "answer": 0,
      "explanation": "Only statement 3 is incorrect: Unni Krishnan held free education until age 14 flows from Article 21, and there is no such right to a professional degree. Statements 1, 2 and 4 are correct.",
-     "source": "https://www.escr-net.org/caselaw/2006/unni-krishnan-jp-ors-v-state-andhra-pradesh-ors-cited-1993-air-217-1993-scr-1-594-1993-2"
+     "source": "https://www.escr-net.org/caselaw/2006/unni-krishnan-jp-ors-v-state-andhra-pradesh-ors-cited-1993-air-217-1993-scr-1-594-1993-2 ; https://nhrc.nic.in/node/111549 ; https://www.scobserver.in/court-case/euthanasia-living-wills-and-the-right-to-die-with-dignity"
     }
    ]
   },
@@ -327,7 +301,7 @@
     "summits",
     "multilateralism"
    ],
-   "text": "India formally took over the BRICS chairship from Brazil on 1 January 2026, becoming chair of the grouping for the fourth time. Twelve days later, on 13 January, External Affairs Minister S. Jaishankar unveiled the logo, website and theme of the presidency in New Delhi. The theme, \"Building for Resilience, Innovation, Cooperation and Sustainability\", was tied by officials to the people-centric approach Prime Minister Narendra Modi had outlined at the previous year's summit in Rio de Janeiro. The chairship runs for the calendar year, from 1 January to 31 December, and the chair sets the agenda for meetings at every level, from sherpas and ministers to the leaders' summit.\n\nThe calendar of ministerial meetings began to fill in the middle of the year. Foreign ministers and heads of delegation from member and partner countries gathered at Bharat Mandapam in New Delhi on 14 and 15 May 2026. Jaishankar chaired the meeting, which was overshadowed by the crisis in West Asia, and the delegates later called on Modi. On 22 and 23 June, National Security Adviser Ajit Doval hosted the 16th meeting of BRICS national security advisers in the capital. Russia's Security Council Secretary Sergey Shoigu and Chinese Foreign Minister Wang Yi were among those who attended. The agenda was built around non-traditional security challenges, and Doval used the sidelines to hold bilateral talks with officials from Iran, Brazil, Ethiopia and South Africa.\n\nThe presidency culminated in the 18th BRICS Summit, held at Bharat Mandapam, New Delhi, on 12 and 13 September 2026. On the first day, Modi announced that leaders had adopted the New Delhi Declaration by consensus, with no member raising an objection. Reports said back-channel negotiations were needed to bridge sharp differences between Iran and the United Arab Emirates over the West Asia conflict. The 140-point document is divided into three chapters covering inclusive global governance, peace and security, and cultural and people-to-people cooperation. It backed a larger role for India and Brazil at the United Nations, criticised unilateral tariffs and secondary sanctions, and condemned the 22 April terror attack in Jammu and Kashmir. It also called for an immediate ceasefire in Gaza and endorsed India-led initiatives on financial risk, artificial intelligence and big-cat conservation.\n\nThe declaration also welcomed what it called significant progress under India's presidency and pledged support for China, which will take over the rotating chair in 2027. India's turn came at a time when the bloc, which now has eleven full members after its enlargement in recent years, is trying to balance members with very different positions on the conflicts in West Asia. Analysts noted that the ability to produce a consensus text, even if after hard bargaining, was the main diplomatic achievement of the Delhi summit.",
+   "text": "India formally took over the BRICS chairship from Brazil on 1 January 2026, becoming chair of the grouping for the fourth time. Twelve days later, on 13 January, External Affairs Minister S. Jaishankar unveiled the logo, website and theme of the presidency in New Delhi. The theme, \"Building for Resilience, Innovation, Cooperation and Sustainability\", was tied by officials to the people-centric approach Prime Minister Narendra Modi had outlined at the previous year's summit in Rio de Janeiro. The chairship runs for the calendar year, from 1 January to 31 December, and the chair sets the agenda for meetings at every level, from sherpas and ministers to the leaders' summit.\n\nThe calendar of ministerial meetings began to fill in the middle of the year. Foreign ministers and heads of delegation from member and partner countries gathered at Bharat Mandapam in New Delhi on 14 and 15 May 2026. Jaishankar chaired the meeting, which was overshadowed by the crisis in West Asia, and the delegates later called on Modi. On 22 and 23 June, National Security Adviser Ajit Doval hosted the 16th meeting of BRICS national security advisers in the capital. Russia's Security Council Secretary Sergey Shoigu and Chinese Foreign Minister Wang Yi were among those who attended. The agenda was built around non-traditional security challenges, and Doval used the sidelines to hold bilateral talks with officials from Iran, Brazil, Ethiopia and South Africa.\n\nThe presidency culminated in the 18th BRICS Summit, held at Bharat Mandapam, New Delhi, on 12 and 13 September 2026. On the first day, Modi announced that leaders had adopted the New Delhi Declaration by consensus, with no member raising an objection. Reports said hard negotiations, which ran until the early hours, were needed to bridge sharp differences between Iran and the United Arab Emirates over the West Asia conflict, with India acting as mediator. The 140-paragraph document ranges across global governance reform, peace and security, trade and finance, technology, climate and people-to-people cooperation. It backed a larger role for India and Brazil at the United Nations, criticised unilateral tariffs and secondary sanctions, and condemned the 22 April 2025 terror attack in Jammu and Kashmir. It also called for a ceasefire in Gaza and endorsed India-led initiatives on financial risk, artificial intelligence and big-cat conservation.\n\nThe declaration also welcomed what it called significant progress under India's presidency and pledged support for China, which will take over the rotating chair in 2027. India's turn came at a time when the bloc, which has expanded considerably through enlargement in recent years, is trying to balance members with very different positions on the conflicts in West Asia. Reports described the ability to produce a consensus text, even after hard bargaining, as a major diplomatic win for India at the Delhi summit.",
    "sources": [
     "https://ianslive.in/india-launches-website-theme-and-logo-for-brics-presidency-2026--20260113145920",
     "https://ianslive.in/brics-foreign-ministers-meet-to-kick-off-in-delhi-today--20260514064713",
@@ -348,28 +322,28 @@
      ],
      "answer": 3,
      "explanation": "Article 3 of the Agreement on the New Development Bank (signed at Fortaleza, 15 July 2014) places the Bank's headquarters in Shanghai; its first regional office is in Johannesburg.",
-     "source": "https://brics.unipr.it/wedit/fileman/Uploads/Agreement_on_the_New_Development.pdf"
+     "source": "https://brics.unipr.it/wedit/fileman/Uploads/Agreement_on_the_New_Development.pdf ; https://www.sanews.gov.za/node/22952"
     },
     {
      "type": "direct",
-     "q": "Brazil chaired BRICS in 2025 before handing over to India. Which member held the chair in 2024, the year of the Kazan summit?",
+     "q": "Which BRICS member held the rotating chair in 2024, the year before Brazil?",
      "options": [
       "India",
+      "Russia",
       "China",
-      "South Africa",
-      "Russia"
+      "South Africa"
      ],
-     "answer": 3,
-     "explanation": "Russia chaired BRICS in 2024 (at Brazil's request), followed by Brazil in 2025 and India in 2026.",
-     "source": "https://www.insightsonindia.com/2025/12/18/indias-brics-presidency-2026/"
+     "answer": 1,
+     "explanation": "Russia chaired BRICS in 2024 (the Kazan summit, 22-24 October 2024), followed by Brazil in 2025 and India in 2026.",
+     "source": "https://interfax.com/newsroom/top-stories/93857/ ; https://tvbrics.com/en/news/brazil-officially-becomes-brics-chair-country/"
     },
     {
      "type": "assertion_reason",
      "assertion": "Indonesia is a full member of BRICS.",
-     "reason": "Brazil announced on 6 January 2025, during its own chairship, that Indonesia was formally joining the grouping as a full member.",
+     "reason": "Brazil held the rotating BRICS chair in 2025.",
      "answer": 1,
-     "explanation": "Both statements are true: Brazil announced Indonesia's full membership on 6 January 2025. However, the announcement merely records when and how Indonesia joined; it is not the explanation of why it is a member, so R does not explain A.",
-     "source": "https://polity.org.za/article/indonesia-joins-brics-bloc-as-full-member-brazil-says-2025-01-07"
+     "explanation": "Both statements are true: Indonesia was announced as a full member on 6 January 2025, and Brazil chaired BRICS in 2025. Brazil's holding the chair does not explain why Indonesia is a member (its entry was approved by consensus of the members), so R does not explain A.",
+     "source": "https://www.gov.br/planalto/en/latest-news/2025/01/brazil-announces-indonesia-as-full-member-of-brics ; https://bernama.com/tv/news.php?id=2379869"
     },
     {
      "type": "match",
@@ -386,37 +360,37 @@
       "D. Sanya"
      ],
      "options": [
-      "I-A, II-C, III-D, IV-B",
       "I-D, II-A, III-C, IV-B",
+      "I-A, II-C, III-D, IV-B",
       "I-D, II-C, III-A, IV-B",
       "I-C, II-D, III-B, IV-A"
      ],
      "answer": 2,
      "explanation": "Sanya, China hosted the 2011 summit (South Africa's first as a full member); New Delhi hosted in 2012; Durban in 2013; Fortaleza in 2014, where the New Development Bank agreement was signed.",
-     "source": "https://www.aljazeera.com/economy/2014/7/16/brics-signs-deal-to-create-development-bank"
+     "source": "https://brics.unipr.it/en/brics-summits/156/ ; https://en.wikipedia.org/wiki/4th_BRICS_summit ; https://www.gov.br/mre/en/contact-us/press-area/press-releases/4th-brics-summit-new-delhi-28-and-29-march-2012 ; https://www.sanews.gov.za/node/22952"
     },
     {
      "type": "statement_two",
      "statements": [
-      "I. Before 2026, India had chaired BRICS in 2012, 2016 and 2021.",
+      "I. India's most recent chairship of BRICS before 2026 was in 2021.",
       "II. South Africa's admission in 2010 led the BRIC grouping to be renamed BRICS."
      ],
      "answer": 2,
-     "explanation": "India's earlier chairships were 2012, 2016 and 2021, making 2026 its fourth. South Africa's admission was confirmed at the September 2010 foreign ministers' meeting in New York, when BRIC became BRICS.",
-     "source": "https://en.wikipedia.org/wiki/BRICS"
+     "explanation": "India's earlier chairships were 2012, 2016 and 2021, so 2021 was its most recent before 2026. South Africa was invited to join in December 2010, and BRIC became BRICS.",
+     "source": "https://www.vajiraoinstitute.com/upsc-ias-current-affairs/brics-india-2026-fourth-chairship-18th-summit.aspx ; https://industryweek.com/the-economy/article/21936576/south-africa-invited-to-join-bric ; https://www.brandsouthafrica.com/stay-updated/quick-facts/2011/brics-in-a-nutshell/"
     },
     {
      "type": "statement_count",
      "statements": [
       "1. The acronym BRIC was coined in 2001 by Goldman Sachs economist Jim O'Neill.",
       "2. The first formal BRIC leaders' summit was held in Yekaterinburg, Russia, in June 2009.",
-      "3. South Africa attended its first summit as a full member at Sanya, China, in April 2011.",
-      "4. The Agreement on the New Development Bank was signed at the 2012 New Delhi summit."
+      "3. South Africa's first summit as a full member of the grouping was held in 2011.",
+      "4. The Agreement on the New Development Bank was signed in 2013."
      ],
      "mode": "incorrect",
      "answer": 0,
-     "explanation": "Statement 4 is incorrect: the 2012 New Delhi summit floated the idea, the 2013 Durban summit agreed to set up the bank, and the agreement was signed at Fortaleza on 15 July 2014. Statements 1-3 are correct.",
-     "source": "https://en.wikipedia.org/wiki/BRICS"
+     "explanation": "Statement 4 is incorrect: the 2013 Durban summit agreed to set up the bank, and the agreement was signed at Fortaleza on 15 July 2014. Statements 1-3 are correct.",
+     "source": "https://www.goldmansachs.com/our-firm/history/moments/2001-brics ; https://adamtooze.substack.com/p/chartbook-55-brics-twenty-years-on ; https://brics.unipr.it/en/brics-summits/156/ ; https://www.sanews.gov.za/node/22952"
     }
    ]
   },
@@ -430,17 +404,19 @@
     "launch vehicles",
     "spaceports"
    ],
-   "text": "The Indian Space Research Organisation (ISRO) began 2026 with a setback. On 12 January 2026, its Polar Satellite Launch Vehicle mission PSLV-C62 lifted off from Sriharikota carrying EOS-N1, a strategic hyperspectral Earth-observation satellite also referred to as Anvesha, along with 15 co-passenger payloads belonging to Indian and foreign organisations. The first two stages performed as planned, but ISRO reported an anomaly at the end of the third stage, known as PS3. ISRO chairman V. Narayanan said a disturbance in the rocket's roll rate had pushed the vehicle off its flight path, and the payloads did not reach their intended orbit. Among the lost payloads were Theos-2, an Earth-observation satellite built jointly by the United Kingdom and Thailand, and AyulSat, a refuelling demonstrator. The Spanish prototype Kestrel Initial Demonstrator was reported to have transmitted some data.\n\nThe failure drew attention because it was the second consecutive loss for the workhorse rocket. The previous mission, PSLV-C61 in May 2025, had also failed owing to a problem in the third stage. Reports said that a redesigned third-stage motor had undergone two static tests in October and November 2025 before C62 was cleared to fly, although the earlier committee's findings had not been made public. After C62, ISRO announced a failure analysis committee. Separately, in a departure from the agency's usual reliance on internal reviews, news reports citing sources said the government had set up a probe headed by K. VijayRaghavan, a former Principal Scientific Advisor to the Prime Minister, with former ISRO chairman S. Somanath as co-chairman. A report from Chennai dated 19 February carried the same details, but the government has not formally released the committee's findings.\n\nThe episode has implications for India's human spaceflight plans. The Gaganyaan programme, which aims to send Indian astronauts to low Earth orbit, depends on a series of uncrewed test flights. In January 2026 Narayanan said the first of these, G1, which will carry the half-humanoid robot Vyommitra, was about 90 per cent complete after more than 8,000 ground tests and could fly by March 2026. That date passed without a launch. The mission is now listed for the fourth quarter of 2026, on a human-rated launch vehicle, with the crewed flight pencilled in for 2027 or later. ISRO has said that three uncrewed missions will precede it.\n\nMeanwhile, India is also building new launch infrastructure. A second spaceport, intended mainly for small satellite launches, has been under construction since March 2025, and the government has targeted commissioning in the financial year 2026-27. Officials stress, however, that the existing launch complex will remain the primary site for all major rockets, including the PSLV and the GSLV.",
+   "text": "Union Finance Minister Nirmala Sitharaman presented the Union Budget for 2026-27 in Parliament on 1 February 2026, a Sunday. It was her ninth consecutive Budget. She set the fiscal deficit target for 2026-27 at 4.3 per cent of GDP, slightly below the 4.4 per cent revised estimate for 2025-26, and said she had fulfilled her 2021-22 commitment to bring the deficit below 4.5 per cent of GDP by 2025-26. The Budget raised capital expenditure to about Rs 12.2 lakh crore and projected the Centre's debt at 55.6 per cent of GDP, with the stated aim of moving towards around 50 per cent by March 2031. Total expenditure was estimated at Rs 53.47 lakh crore.\n\nFive days later, on 6 February 2026, the Reserve Bank of India's Monetary Policy Committee, chaired by Governor Sanjay Malhotra, kept the policy repo rate unchanged at 5.25 per cent with a neutral stance, leaving the standing deposit facility rate at 5.00 per cent and the marginal standing facility rate and Bank Rate at 5.50 per cent. It was the Governor's first policy review after the Budget. The Committee repeated the decision on 5 June 2026, citing elevated crude oil prices amid the West Asia conflict and concerns about the monsoon. At its meeting of 3 to 5 August 2026, the MPC voted unanimously to hold the rate at 5.25 per cent once more and retained the neutral stance. The RBI projected real GDP growth of 6.7 per cent and consumer price inflation of 5.0 per cent for 2026-27. The repo rate had been lowered in several steps during 2025 before the pause began.\n\nThe central bank's growth projection was overtaken by official data on 31 August 2026. The National Statistical Office reported that India's real GDP grew 7.8 per cent in April-June 2026, the first quarter of 2026-27, against the RBI's own estimate of 7 per cent for the quarter. Nominal GDP rose 10.3 per cent to Rs 88.27 lakh crore. Gross value added grew 8.2 per cent, led by services, and gross fixed capital formation rose 11.9 per cent. The growth rate was lower than the upwardly revised 8.6 per cent recorded in the fourth quarter of 2025-26. ICRA raised its full-year forecast to 7.1 per cent from 6.7 per cent, though it flagged a poor monsoon and prolonged West Asia tensions as downside risks.\n\nThe MPC met again from 5 to 7 October 2026. Ahead of that meeting, most economists in polls expected the Committee to raise the repo rate by 25 basis points, which would be the first increase since February 2023.\n",
    "sources": [
     "https://www.nasaspaceflight.com/2026/01/indias-pslv-solve-third-stage-second-failure/",
     "https://www.businesstoday.in/amp/science/story/isros-pslv-c62-mission-fails-second-rare-setback-in-eight-months-for-workhorse-launcher-510482-2026-01-12",
-    "https://thespacereview.com/article/5140/1",
+    "https://spaceflightnow.com/2026/01/12/indias-pslv-suffers-second-consecutive-launch-failure-16-satellites-lost/",
+    "https://www.newsonair.gov.in/pslv-c62-anomaly-isro-investigates-roll-disturbance-during-third-stage-of-eos-n1-mission-says-chairman-dr-v-narayanan/",
     "https://www.thestatesman.com/india/former-principal-scientific-advisor-to-pm-and-ex-isro-chairman-to-probe-pslv-rocket-failure-1503559294.html",
     "https://www.uniindia.com/former-principal-scientific-advisor-to-pm-and-ex-isro-chairman-to-probe-pslv-rocket-failure/south/news/3746014.html",
-    "https://ianslive.in/tests-underway-for-uncrewed-mission-gaganyaan-slated-for-2027-isro-chairman--20260130195104",
-    "https://en.wikipedia.org/wiki/Gaganyaan-1",
-    "https://vajiramandravi.com/current-affairs/kulasekarapattinam-spaceport/",
-    "https://www.voicendata.com/space/indias-kulasekarapattinam-spaceport-to-be-commissioned-by-fy-202627-9681354"
+    "https://www.newsonair.gov.in/isro-chairman-dr-v-narayanan-confirms-gaganyaan-g1-launch-set-for-december",
+    "https://www.tribuneindia.com/news/india/1st-non-crew-gaganyaan-mission-to-launch-in-dec-with-robot-vyommitra",
+    "https://thewire.in/space/isros-gaganyaan-mission-could-face-potential-delays-due-to-ongoing-safety-assessments",
+    "https://ianslive.in/commissioning-of-kulasekarapattinam-spaceport-targetted-for-fy-27-jitendra-singh--20250820150455",
+    "https://www.dtnext.in/news/national/commissioning-of-kulasekarapattinam-spaceport-targetted-for-fy-27-jitendra-singh-843966"
    ],
    "questions": [
     {
@@ -449,20 +425,20 @@
      "options": [
       "A. P. J. Abdul Kalam",
       "Satish Dhawan",
-      "Homi J. Bhabha",
-      "Vikram Sarabhai"
+      "Vikram Sarabhai",
+      "Homi J. Bhabha"
      ],
      "answer": 1,
      "explanation": "Sriharikota (earlier SHAR) hosts the Satish Dhawan Space Centre, renamed in 2002 in memory of Prof. Satish Dhawan, former ISRO chairman.",
-     "source": "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre"
+     "source": "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre | https://spacenews.com/?p=36011"
     },
     {
      "type": "assertion_reason",
-     "assertion": "India's planned second spaceport at Kulasekarapattinam in Thoothukudi district, Tamil Nadu, is intended mainly for launching small satellites on the SSLV.",
+     "assertion": "India's planned second spaceport at Kulasekarapattinam is intended mainly for launching small satellites on the SSLV.",
      "reason": "A launch site on the southern tip of the peninsula lets rockets fly directly south to polar orbits, avoiding the curved trajectory that Sriharikota launches need to stay clear of Sri Lanka.",
      "answer": 0,
      "explanation": "Kulasekarapattinam is planned for SSLV launches to Sun-synchronous polar orbits; its southern location allows a straight southward path, whereas launches from Sriharikota have to curve to avoid Sri Lanka.",
-     "source": "https://vajiramandravi.com/current-affairs/kulasekarapattinam-spaceport/"
+     "source": "https://thewire.in/space/isro-kulasekarapattinam-thoothukudi-sdsc-sriharikota-sslv-pslv-gslv-antrix | https://en.wikipedia.org/wiki/SSLV_Launch_Complex"
     },
     {
      "type": "match",
@@ -480,13 +456,13 @@
      ],
      "options": [
       "I-C, II-A, III-B, IV-D",
+      "I-B, II-A, III-D, IV-C",
       "I-B, II-A, III-C, IV-D",
-      "I-A, II-B, III-C, IV-D",
-      "I-B, II-A, III-D, IV-C"
+      "I-A, II-B, III-C, IV-D"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "ISRO is headquartered in Bengaluru; VSSC is in Thiruvananthapuram; Sriharikota island lies in Tirupati district of Andhra Pradesh; Kulasekarapattinam is in Thoothukudi district, Tamil Nadu.",
-     "source": "https://en.wikipedia.org/wiki/ISRO"
+     "source": "https://en.wikipedia.org/wiki/ISRO | https://www.isro.gov.in/VSSC.html | https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre | https://en.wikipedia.org/wiki/SSLV_Launch_Complex"
     },
     {
      "type": "statement_two",
@@ -495,8 +471,8 @@
       "II. The very first PSLV flight, PSLV-D1 on 20 September 1993, successfully placed its satellite in orbit."
      ],
      "answer": 0,
-     "explanation": "PSLV alternates solid-liquid-solid-liquid, so PS3 is solid (HTPB). PSLV-D1 in 1993 failed because of an attitude-control problem; the first successful flight was PSLV-D2 in October 1994.",
-     "source": "https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle"
+     "explanation": "PSLV alternates solid-liquid-solid-liquid, so PS3 is solid (HTPB-based). PSLV-D1 in 1993 failed because of an attitude-control problem at stage separation, so the satellite was not placed in orbit.",
+     "source": "https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle | https://vajiramandravi.com/current-affairs/polar-satellite-launch-vehicle-pslv/"
     },
     {
      "type": "statement_multi",
@@ -506,27 +482,27 @@
       "III. ISRO functions under the Department of Space."
      ],
      "options": [
-      "II and III only",
       "I and II only",
+      "II and III only",
       "I and III only",
       "All of the above"
      ],
      "answer": 2,
      "explanation": "ISRO succeeded INCOSPAR on 15 August 1969 and is managed by the Department of Space; its headquarters is in Bengaluru, not Thiruvananthapuram (where VSSC is).",
-     "source": "https://en.wikipedia.org/wiki/ISRO"
+     "source": "https://en.wikipedia.org/wiki/ISRO | https://businesshistory.domain-b.com/focus/isro-s-rise-pedaling-to-the-sun-and-beyond"
     },
     {
      "type": "direct",
      "q": "The uncrewed Gaganyaan test flight G1 is planned on a human-rated version of which ISRO launch vehicle?",
      "options": [
       "PSLV",
-      "LVM3",
       "GSLV Mk II",
-      "SSLV"
+      "SSLV",
+      "LVM3"
      ],
-     "answer": 1,
+     "answer": 3,
      "explanation": "Gaganyaan uses HLVM3, the human-rated variant of the LVM3 (formerly GSLV Mk III), launched from the Satish Dhawan Space Centre.",
-     "source": "https://en.wikipedia.org/wiki/Gaganyaan-1"
+     "source": "https://www.isro.gov.in/LVM3_first_uncrewed_flight_Gaganyaan.html | https://www.deccanherald.com/science/isro-begins-assembly-of-human-rated-lvm3-for-gaganyaans-first-uncrewed-flight-3323074"
     }
    ]
   }

@@ -1,0 +1,347 @@
+{
+ "passage_file": "data/passages/pilot_2.json",
+ "passage_claims": [
+  {
+   "claim": "39 days, 11 June-19 July 2026; first jointly hosted by three nations",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/28783291386653-1-When-and-where-is-the-FIFA-World-Cup-2026-being-held",
+    "https://www.aljazeera.com/sports/2023/3/14/fifa-confirms-expanded-2026-world-cup-with-record-104-matches"
+   ],
+   "note": "39 days is inclusive count of the dates"
+  },
+  {
+   "claim": "48 teams, 12 groups of four, at least three matches each, 104 matches",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.aljazeera.com/sports/2023/3/14/fifa-confirms-expanded-2026-world-cup-with-record-104-matches",
+    "https://alpha.pna.gov.ph/articles/1197442"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "16 host cities: 11 US, 3 Mexico, 2 Canada",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/28783291386653-1-When-and-where-is-the-FIFA-World-Cup-2026-being-held",
+    "https://www.wionews.com/sports/fifa-world-cup-2026-all-you-need-to-know-about-football-s-biggest-carnival-teams-hosts-groups-matches-and-more-1775042378028/amp"
+   ],
+   "note": "FIFA list (primary) gives 11/3/2"
+  },
+  {
+   "claim": "Round of 32; top two per group plus eight best third-placed",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.aljazeera.com/sports/2023/3/14/fifa-confirms-expanded-2026-world-cup-with-record-104-matches",
+    "https://alpha.pna.gov.ph/articles/1197442"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Opener 11 June at Estadio Azteca, Mexico 2-0 South Africa, Quinones and Jimenez",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.skysports.com/football/news/12098/13552605/world-cup-2026-mexico-2-0-south-africa-julian-quinones-and-raul-jimenez-score-as-co-hosts-win-opener-in-game-of-three-red-cards",
+    "https://en.prothomalo.com/sports/football/z1bjeaqs7t"
+   ],
+   "note": "Goal minutes removed from consideration (not in final text)"
+  },
+  {
+   "claim": "Three red cards in the opener; South Africa finished with nine men",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.skysports.com/football/news/12098/13552605",
+    "https://cyprus-mail.com/2026/06/12/mexico-beat-south-africa-in-chaotic-opener-as-three-players-sent-off"
+   ],
+   "note": "Draft claim 'most in any World Cup opener' only in ESPN snippet: removed"
+  },
+  {
+   "claim": "'Most red cards in any World Cup opener' and 'ended run of seven openers without a win'",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://global.espn.com/football/story/_/id/49033183/mexico-south-africa-2026-world-cup-azetca-opening-game"
+   ],
+   "note": "Deleted"
+  },
+  {
+   "claim": "Azteca first stadium to host matches at three different World Cups",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/estadio-azteca-will-make-history-at-the-2026-world-cup-as-the-first-stadium-to-host-three-fifa-world-cup-opening-matches-2026-06-02",
+    "https://gazettengr.com/diego-maradona-hand-of-god-t-b-joshua-estadio-azteca-to-make-history-as-first-stadium-to-host-three-fifa-world-cups/"
+   ],
+   "note": "Only a preview piece with a low-quality headline says three World Cups; beIN frames it as three OPENING matches. Not confirmed by two quality publishers. Sentence deleted; Q3 dropped. ESPN page could not be fetched."
+  },
+  {
+   "claim": "Spain 1-0 Argentina aet, MetLife, 19 July, Spain's second title",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.sortiraparis.com/en/what-to-do-in-paris/sport-wellness/articles/349129-world-cup-2026-all-results-and-the-final-score",
+    "https://santamariatimes.com/ap/sports/ferran-torres-scores-in-extra-time-as-spain-beats-argentina-1-0-to-win-the/article_a8e21e5c-8c25-54ce-b065-7ebb7225d56f.html"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Attendance 80,663",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://santamariatimes.com/ap/sports/ferran-torres-scores-in-extra-time-as-spain-beats-argentina-1-0-to-win-the/article_a8e21e5c-8c25-54ce-b065-7ebb7225d56f.html",
+    "https://kuwaittimes.com/article/46742/sports/spain-down-argentina-to-win-world-cup-shatter-messi-dream/amp"
+   ],
+   "note": "AP and Kuwait Times (wire)"
+  },
+  {
+   "claim": "Torres scored in 106th minute, early in extra-time second period; he was a substitute",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://blog.wego.com/who-won-the-fifa-world-cup/",
+    "https://kuwaittimes.com/article/46742/sports/spain-down-argentina-to-win-world-cup-shatter-messi-dream/amp"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Goal came '39 seconds' into second period of extra time",
+   "verdict": "DISPUTED",
+   "sources": [
+    "https://iol.co.za/2026-07-20-world-cup-2026-final-ferran-torres-seals-historic-world-cup-glory-for-spain-against-10-man-argentina/"
+   ],
+   "note": "A source says 37 seconds; deleted"
+  },
+  {
+   "claim": "Goal was a 'low cross from Nico Williams'",
+   "verdict": "WRONG",
+   "sources": [
+    "https://english.ahram.org.eg/News/573153.aspx",
+    "https://blog.wego.com/who-won-the-fifa-world-cup/"
+   ],
+   "note": "Sources conflict (Porro cross with Williams flick-on vs Williams pass); deleted"
+  },
+  {
+   "claim": "Enzo Fernandez second yellow late in normal time, Argentina ten men",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://blog.wego.com/who-won-the-fifa-world-cup/",
+    "https://iol.co.za/2026-07-20-world-cup-2026-final-ferran-torres-seals-historic-world-cup-glory-for-spain-against-10-man-argentina/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Martinez 11 saves, a World Cup final record",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.foxsports.com/stories/soccer/emi-martinez-breaks-record-most-saves-world-cup-final",
+    "https://bleacherreport.com/articles/25456431-argentina-goalie-emiliano-martinez-sets-world-cup-final-saves-record-vs-spain-amid-finger-injury"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "'Denied Argentina a fourth' title",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://lbc.co.uk/news/argentina-france-world-cup-final-result-penalty-shootout"
+   ],
+   "note": "Deleted"
+  },
+  {
+   "claim": "Rodri Golden Ball; Simon Golden Glove; Cubarsi best young player; Netherlands Fair Play",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.nbcsports.com/soccer/news/2026-world-cup-award-winners-golden-boot-golden-ball-best-young-player-golden-glove",
+    "https://www.theweek.in/news/sports/2026/07/20/fifa-world-cup-2026-awards-from-mbappe-to-rodri-who-won-what-full-list-of-winners.html",
+    "https://www.irishtimes.com/sport/soccer/2026/07/20/rodri-wins-world-cup-golden-ball-as-kylian-mbappe-wins-second-golden-boot/"
+   ],
+   "note": "Several independent outlets"
+  },
+  {
+   "claim": "Silver Ball to Argentina's captain, Bronze Ball to Mbappe; Cubarsi beat Yamal",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.irishtimes.com/sport/soccer/2026/07/20/rodri-wins-world-cup-golden-ball-as-kylian-mbappe-wins-second-golden-boot/",
+    "https://fourfourtwo.com/competition/rodri-denies-lionel-messi-and-claims-world-cup-golden-ball-after-spain-prevail-against-argentina"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Spain conceded just one goal in tournament",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.nbcsports.com/soccer/news/2026-world-cup-award-winners-golden-boot-golden-ball-best-young-player-golden-glove",
+    "https://worldcupranking.com/blog/world-cup-2026-awards/"
+   ],
+   "note": "'in eight matches' wording dropped since outlets differ on 7 vs 8"
+  },
+  {
+   "claim": "Mbappe 10 goals, runner-up on eight, most since 1970",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.football-espana.net/2026/07/20/mbappe-golden-boot-2026-world-cup",
+    "https://www.malaymail.com/amp/news/sports/2026/07/20/mbappe-makes-world-cup-history-with-second-golden-boot/228244"
+   ],
+   "note": "'in eight matches' dropped (distribution differs by outlet)"
+  },
+  {
+   "claim": "Bellingham third on seven goals; Haaland tied for third",
+   "verdict": "DISPUTED",
+   "sources": [
+    "https://www.football-espana.net/2026/07/20/mbappe-golden-boot-2026-world-cup"
+   ],
+   "note": "Placing differs (third on tiebreak vs joint fourth). Kept only Bellingham seven goals / Bronze Boot; Haaland removed"
+  },
+  {
+   "claim": "Mbappe first player to win Golden Boot twice (draft said 'consecutive World Cups'); 22 career goals, men's record",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.football-espana.net/2026/07/20/mbappe-golden-boot-2026-world-cup",
+    "https://www.irishtimes.com/sport/soccer/2026/07/20/rodri-wins-world-cup-golden-ball-as-kylian-mbappe-wins-second-golden-boot/",
+    "https://www.getfootballnewsfrance.com/2026/mbappe-becomes-all-time-leading-world-cup-goalscorer/"
+   ],
+   "note": "Reworded to 'win the Golden Boot twice'; 22 goals from several outlets, no FIFA stats page seen"
+  },
+  {
+   "claim": "Golden Ball, Golden Glove, Young Player chosen by media votes from TSG shortlist",
+   "verdict": "WRONG",
+   "sources": [
+    "https://www.essentiallysports.com/soccer-news/what-is-the-fifa-world-cup-golden-ball-how-is-the-winner-decided-everything-you-need-to-know/"
+   ],
+   "note": "Only Golden Ball is media-voted; 2014 was TSG-only; Glove/Young Player process not found. Deleted"
+  },
+  {
+   "claim": "Spain squad blended experienced campaigners with teenage talent",
+   "verdict": "UNVERIFIABLE",
+   "sources": [],
+   "note": "Unsourced; deleted"
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "2010 (B)",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final",
+    "https://salon.com/2010/07/11/soc_wcup_world_cup_final_1"
+   ],
+   "fix": "source updated",
+   "note": "11 July 2010, Soccer City, 1-0 aet, Iniesta. Distractors wrong (2008 and 2006/2014 not Spain WC wins)."
+  },
+  {
+   "index": 2,
+   "verdict": "OK",
+   "my_answer": "Lionel Messi",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "WEAK_SOURCE (cbsnews URL replaced)"
+   ],
+   "sources": [
+    "https://www.si.com/fannation/soccer/futbol/news/lionel-messi-wins-fifa-world-cup-golden-ball-award-for-2nd-time",
+    "https://supersport.com/football/fifa-world-cup-2022/news/74803daa-80cd-4f75-81a0-fb4fa05d6cc9/messi-wins-golden-ball-as-mbappe-claims-golden-boot"
+   ],
+   "fix": "source replaced; explanation adds 2014",
+   "note": "Modric won 2018, Mbappe was 2022 runner-up, Griezmann none. Still the only two-time winner after 2026 (Rodri won)."
+  },
+  {
+   "index": 3,
+   "verdict": "DROP",
+   "my_answer": "Assertion not confirmed",
+   "key_answer_correct": null,
+   "truth_values": {
+    "A": "UNCONFIRMED (only 'three opening matches' framing and one weak headline)",
+    "R": "True (1970, 1986 per beIN)"
+   },
+   "issues": [
+    "UNSUPPORTED",
+    "WEAK_SOURCE"
+   ],
+   "sources": [
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/estadio-azteca-will-make-history-at-the-2026-world-cup-as-the-first-stadium-to-host-three-fifa-world-cup-opening-matches-2026-06-02"
+   ],
+   "fix": null,
+   "note": "Assertion could not be confirmed by two independent quality publishers; ESPN page unreachable. Dropped."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "I-A, II-B, III-C, IV-D (option index 1)",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final",
+    "https://salon.com/2010/07/11/soc_wcup_world_cup_final_1",
+    "https://www.aa.com.tr/en/sports/messi-argentina-seize-world-cup-glory-with-epic-final-win-over-france/2767012",
+    "https://lbc.co.uk/news/argentina-france-world-cup-final-result-penalty-shootout",
+    "https://santamariatimes.com/ap/sports/ferran-torres-scores-in-extra-time-as-spain-beats-argentina-1-0-to-win-the/article_a8e21e5c-8c25-54ce-b065-7ebb7225d56f.html"
+   ],
+   "fix": "source updated",
+   "note": "Soccer City 2010; Lusail 2022; MetLife 2026 final; Azteca opener. Other options each contain wrong pairs. Azteca opener and MetLife are in passage but 2010/2022 venues are not."
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "I only",
+   "key_answer_correct": true,
+   "truth_values": {
+    "I": true,
+    "II": false
+   },
+   "issues": [],
+   "sources": [
+    "https://www.si.com/soccer/2022/12/14/world-cup-golden-boot-argentina-france-mbappe-messi-alvarez-giroud",
+    "https://www.aljazeera.com/sports/2022/12/18/kylian-mbappe-awarded-golden-boot-after-world-cup-finals",
+    "https://lbc.co.uk/news/argentina-france-world-cup-final-result-penalty-shootout"
+   ],
+   "fix": "source updated",
+   "note": "8 goals; final 3-3 aet, 4-2 pens. Final passage says Mbappe won the Golden Boot twice without giving 2022 details; acceptable."
+  },
+  {
+   "index": 6,
+   "verdict": "FIX",
+   "my_answer": "Only one (statement 4)",
+   "key_answer_correct": true,
+   "truth_values": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": false
+   },
+   "issues": [
+    "WEAK_SOURCE (explanation relied on single low-quality 70-80 kg estimate)"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Silvio_Gazzaniga",
+    "https://abcnews.com/Sports/wireStory/italian-sculptor-created-world-cup-trophy-icon-134807547",
+    "https://gulfnews.com/sport/football/world-cup/fifa-world-cup-trophy-explained-why-winners-dont-get-to-keep-the-18-carat-gold-original-1.500613398",
+    "https://www.businesstoday.in/amp/latest/trends/photo/is-the-fifa-world-cup-trophy-real-gold-heres-everything-about-footballs-most-valuable-prize-544008-2026-07-20"
+   ],
+   "fix": "explanation rewritten without 70-80 kg estimate",
+   "note": "No FIFA primary page seen for the 6.175 kg weight; Wikipedia plus Business Today/Inkerman agree."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "The match produced three red cards, the most in any World Cup opener, and ended a run of seven World Cup openers in which the Mexicans had failed to win. The same stadium thereby became the first in football history to stage matches at three different World Cups.",
+   "new": "South Africa finished the match with nine men, and the game produced three red cards in all.",
+   "reason": "Record and run claims single-sourced; Azteca claim unconfirmed"
+  },
+  {
+   "old": "scored the only goal 39 seconds into the second period of extra time, in the 106th minute, turning in a low cross from Nico Williams.",
+   "new": "who had come on as a substitute, scored the only goal early in the second period of extra time, in the 106th minute.",
+   "reason": "Seconds and assist conflicting across sources"
+  },
+  {
+   "old": "and denied Argentina a fourth",
+   "new": "",
+   "reason": "single source"
+  },
+  {
+   "old": "Awards paragraph and closing paragraph",
+   "new": "Reworded: removed 'in eight matches', Haaland tie, media-vote sentence, squad colour line; added confirmed Silver/Bronze Ball, Yamal, 1970 and 22-goal facts",
+   "reason": "See claim list"
+  }
+ ],
+ "summary": "Passage had several unconfirmed or wrong details (Azteca three-World-Cups record, red-card record, Torres assist/seconds, award-selection method, Haaland tie); all removed or reworded and replaced with claims confirmed by two outlets, final text 435 words. Of 6 questions, 4 are OK, 1 fixed (Q6 explanation), 1 dropped (Q3, Azteca assertion unconfirmed). Used 21 searches."
+}
