@@ -1,0 +1,222 @@
+[
+ {
+  "id": "T03P1",
+  "category": "Economy",
+  "period": "Feb-Mar 2026",
+  "niche": "India's trade agreements in 2026 (e.g. India-EU FTA, India-US trade deal) and the GST/tariff changes around them",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 0,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T03P2",
+  "category": "International affairs",
+  "period": "April 2026",
+  "niche": "India's bilateral visits/summits in April 2026 (any head-of-state or PM visit with a signed outcome)",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T03P3",
+  "category": "Sports",
+  "period": "May 2026",
+  "niche": "IPL 2026 (season facts, records, awards) or another sports event in May 2026 that is not the FIFA World Cup",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 3,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T03P4",
+  "category": "Schemes, reports & indices",
+  "period": "Jun 2026",
+  "niche": "One major 2026 government scheme, report or global index featuring India (e.g. a UN/World Bank/NITI Aayog ranking)",
+  "targets": {
+   "assertion_reason": 1,
+   "statement_two": 3,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T03P5",
+  "category": "Appointments & obituaries",
+  "period": "Jul 2026",
+  "niche": "High-profile 2026 appointments (constitutional posts, governors, chiefs of agencies) or the passing of a notable person",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 2,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T04P1",
+  "category": "Supreme Court & High Courts",
+  "period": "Mar-Apr 2026",
+  "niche": "A 2026 Supreme Court ruling on privacy, anticipatory bail or environmental protection (not menstrual health, passive euthanasia, transgender rights or AI fake judgments)",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 0,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T04P2",
+  "category": "Science, space & tech",
+  "period": "February 2026",
+  "niche": "The India AI Impact Summit (New Delhi, Feb 2026) or another science/technology event of Feb 2026",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 2,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T04P3",
+  "category": "States & regional",
+  "period": "Jun-Aug 2026",
+  "niche": "A notable state-level development in Jun-Aug 2026 (state policy, disaster response, a state-specific award or project), not elections",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 0,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T04P4",
+  "category": "Polity & governance",
+  "period": "Aug 2026",
+  "niche": "One specific bill from the Monsoon Session 2026 (e.g. Public Examinations Amendment Bill, Tribunals Reforms Bill, Taxation and Other Laws Amendment Bill, NCDC Amendment Bill) - not the Kerala renaming bill, not the FCRA bill",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 2,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T04P5",
+  "category": "International affairs",
+  "period": "September 2026",
+  "niche": "UN General Assembly 81st session (Sept 2026) and India's role, or another September 2026 international event",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T05P1",
+  "category": "Environment & biodiversity",
+  "period": "Aug 2026",
+  "niche": "Monsoon/climate/biodiversity news of Aug 2026 in India (protected areas, Ramsar sites, tiger or elephant data, climate reports) - not the Botswana cheetahs",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 1,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T05P2",
+  "category": "Awards, books & culture",
+  "period": "Aug-Sep 2026",
+  "niche": "Literary or film awards of Aug-Sep 2026 (e.g. Booker 2026 shortlist, national film awards, Sahitya awards) - not Padma awards or AutHer awards",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 0,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T05P3",
+  "category": "Defence & security",
+  "period": "1-8 Oct 2026",
+  "niche": "Defence/security news from the first week of October 2026 (e.g. Air Force Day, exercises, procurements) - not Agni tests",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 3,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T05P4",
+  "category": "Economy & Budget",
+  "period": "Jan 2026",
+  "niche": "Economic Survey 2025-26 or India's GDP/inflation/trade data of Jan 2026 - not the Union Budget 2026-27 itself",
+  "targets": {
+   "assertion_reason": 1,
+   "statement_two": 2,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T05P5",
+  "category": "Sports",
+  "period": "Feb 2026",
+  "niche": "ICC T20 World Cup 2026 (India/Sri Lanka) or the Milano Cortina Winter Olympics (Feb 2026)",
+  "targets": {
+   "assertion_reason": 2,
+   "statement_two": 1,
+   "statement_count": 3
+  }
+ },
+ {
+  "id": "T06P1",
+  "category": "Schemes, reports & indices",
+  "period": "Feb 2026",
+  "niche": "A government scheme launched/expanded or a national survey/report released in Feb 2026 (e.g. a Census 2027 preparatory step, health or education survey)",
+  "targets": {
+   "assertion_reason": 0,
+   "statement_two": 0,
+   "statement_count": 0
+  }
+ },
+ {
+  "id": "T06P2",
+  "category": "Appointments & obituaries",
+  "period": "Jan-Mar 2026",
+  "niche": "Appointments or obituaries in Jan-Mar 2026 (different people/posts from the July slot; e.g. a new Chief Election Commissioner/Chief Justice/Governor, or a prominent death)",
+  "targets": {
+   "assertion_reason": 0,
+   "statement_two": 2,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T06P3",
+  "category": "States & regional",
+  "period": "Apr-May 2026",
+  "niche": "The 2026 state assembly elections (West Bengal, Tamil Nadu, Kerala, Assam, Puducherry) - results, records, constitutional rules on elections",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 3,
+   "statement_count": 2
+  }
+ },
+ {
+  "id": "T06P4",
+  "category": "Science, space & tech",
+  "period": "March 2026",
+  "niche": "A science, health-research or space event of March 2026 (not PSLV-C62/Gaganyaan, not the AI summit)",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 1,
+   "statement_count": 1
+  }
+ },
+ {
+  "id": "T06P5",
+  "category": "Supreme Court & High Courts",
+  "period": "Aug-Sep 2026",
+  "niche": "A Supreme Court or High Court ruling from Aug-Sep 2026 (different from the T04P1 and Test 2 rulings)",
+  "targets": {
+   "assertion_reason": 3,
+   "statement_two": 3,
+   "statement_count": 2
+  }
+ }
+]
