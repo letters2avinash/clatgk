@@ -33,8 +33,8 @@
      "options": [
       "Article 110",
       "Article 112",
-      "Article 114",
-      "Article 265"
+      "Article 265",
+      "Article 114"
      ],
      "answer": 1,
      "explanation": "Article 112(1) requires the President to cause an estimate of receipts and expenditure for each financial year, the annual financial statement, to be laid before both Houses.",
@@ -44,12 +44,12 @@
      "type": "direct",
      "q": "The National Statistical Office, which released the Q1 2026-27 GDP estimate, functions under which Union Ministry?",
      "options": [
-      "Ministry of Finance",
       "NITI Aayog",
       "Ministry of Statistics and Programme Implementation",
-      "Ministry of Commerce and Industry"
+      "Ministry of Commerce and Industry",
+      "Ministry of Finance"
      ],
-     "answer": 2,
+     "answer": 1,
      "explanation": "GDP estimates are released by the NSO under the Ministry of Statistics and Programme Implementation (MoSPI).",
      "source": "https://currentaffairs.adda247.com/india-gdp-grows-7-8-in-q1-fy27-beats-estimated-growth/"
     },
@@ -76,12 +76,12 @@
       "D. 4 per cent with a tolerance band of 2 per cent either side"
      ],
      "options": [
-      "I-B, II-A, III-D, IV-C",
-      "I-A, II-B, III-D, IV-C",
       "I-B, II-A, III-C, IV-D",
+      "I-A, II-B, III-D, IV-C",
+      "I-B, II-A, III-D, IV-C",
       "I-D, II-A, III-B, IV-C"
      ],
-     "answer": 0,
+     "answer": 2,
      "explanation": "Article 112 covers the annual financial statement and Article 113 the Demands for Grants; the inflation target is 4 per cent (2 to 6 per cent band); Section 45ZB of the RBI Act provides for the MPC.",
      "source": "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/"
     },
@@ -139,12 +139,12 @@
      "type": "direct",
      "q": "Spain's win over Argentina in the 2026 final was its second World Cup title. In which year did Spain win its first, beating the Netherlands 1-0 after extra time?",
      "options": [
-      "2006",
-      "2010",
+      "2008",
       "2014",
-      "2008"
+      "2010",
+      "2006"
      ],
-     "answer": 1,
+     "answer": 2,
      "explanation": "Spain won its first World Cup on 11 July 2010 at Soccer City, Johannesburg, beating the Netherlands 1-0 after extra time through an Andres Iniesta goal.",
      "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final"
     },
@@ -152,10 +152,10 @@
      "type": "direct",
      "q": "Argentina entered the 2026 final as defending champion. Which player won the Golden Ball at the 2022 World Cup, and remains the only player to have won that award twice?",
      "options": [
-      "Luka Modric",
       "Kylian Mbappe",
+      "Antoine Griezmann",
       "Lionel Messi",
-      "Antoine Griezmann"
+      "Luka Modric"
      ],
      "answer": 2,
      "explanation": "Lionel Messi was awarded the Golden Ball at the 2022 World Cup and is the only player to receive it twice. Mbappe won the 2022 Golden Boot instead.",
@@ -184,12 +184,12 @@
       "D. Estadio Azteca, Mexico City"
      ],
      "options": [
+      "I-B, II-A, III-D, IV-C",
       "I-B, II-A, III-C, IV-D",
-      "I-A, II-B, III-C, IV-D",
       "I-A, II-B, III-D, IV-C",
-      "I-B, II-A, III-D, IV-C"
+      "I-A, II-B, III-C, IV-D"
      ],
-     "answer": 1,
+     "answer": 3,
      "explanation": "The 2010 final (Spain v Netherlands) was at Soccer City, Johannesburg; the 2022 final (Argentina v France) at Lusail Stadium, Qatar; the 2026 final at MetLife Stadium; and the 2026 opener at the Estadio Azteca.",
      "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final"
     },
@@ -240,12 +240,12 @@
      "type": "direct",
      "q": "The Jaya Thakur ruling stressed that menstrual hygiene facilities are linked to the education of girls. Which Article of the Constitution expressly permits the State to make special provisions for women and children despite the bar on discrimination?",
      "options": [
-      "Article 15(3)",
-      "Article 16(4)",
       "Article 14",
-      "Article 19(1)(g)"
+      "Article 19(1)(g)",
+      "Article 16(4)",
+      "Article 15(3)"
      ],
-     "answer": 0,
+     "answer": 3,
      "explanation": "Article 15(3) says nothing in Article 15 prevents the State from making any special provision for women and children.",
      "source": "https://en.wikipedia.org/wiki/Article_15_of_the_Constitution_of_India"
     },
@@ -253,12 +253,12 @@
      "type": "direct",
      "q": "Which 1978 seven-judge Supreme Court decision, authored mainly by Justice Bhagwati, read the words 'procedure established by law' in Article 21 as requiring a procedure that is fair, just and reasonable, and so underpins the wide modern reading of the right to life?",
      "options": [
+      "Minerva Mills v. Union of India",
       "Maneka Gandhi v. Union of India",
-      "A.K. Gopalan v. State of Madras",
       "Kesavananda Bharati v. State of Kerala",
-      "Minerva Mills v. Union of India"
+      "A.K. Gopalan v. State of Madras"
      ],
-     "answer": 0,
+     "answer": 1,
      "explanation": "Maneka Gandhi (25 January 1978) held procedure under Article 21 must be fair, just and reasonable, linking Articles 14, 19 and 21 and departing from Gopalan.",
      "source": "https://en.wikipedia.org/wiki/Maneka_Gandhi_v._Union_of_India"
     },
@@ -285,12 +285,12 @@
       "D. 2018"
      ],
      "options": [
-      "I-A, II-B, III-D, IV-C",
       "I-B, II-A, III-D, IV-C",
       "I-A, II-B, III-C, IV-D",
+      "I-A, II-B, III-D, IV-C",
       "I-A, II-C, III-D, IV-B"
      ],
-     "answer": 0,
+     "answer": 2,
      "explanation": "Maneka Gandhi 1978; Unni Krishnan 1993; Aruna Shanbaug 2011; Common Cause 2018 (9 March 2018).",
      "source": "https://www.scobserver.in/court-case/euthanasia-living-wills-and-the-right-to-die-with-dignity"
     },
@@ -341,12 +341,12 @@
      "type": "direct",
      "q": "The BRICS grouping's own multilateral lender, the New Development Bank, has its headquarters in which city?",
      "options": [
-      "Shanghai",
-      "New Delhi",
       "Johannesburg",
-      "Moscow"
+      "New Delhi",
+      "Moscow",
+      "Shanghai"
      ],
-     "answer": 0,
+     "answer": 3,
      "explanation": "Article 3 of the Agreement on the New Development Bank (signed at Fortaleza, 15 July 2014) places the Bank's headquarters in Shanghai; its first regional office is in Johannesburg.",
      "source": "https://brics.unipr.it/wedit/fileman/Uploads/Agreement_on_the_New_Development.pdf"
     },
@@ -354,12 +354,12 @@
      "type": "direct",
      "q": "Brazil chaired BRICS in 2025 before handing over to India. Which member held the chair in 2024, the year of the Kazan summit?",
      "options": [
+      "India",
       "Russia",
-      "South Africa",
       "China",
-      "India"
+      "South Africa"
      ],
-     "answer": 0,
+     "answer": 1,
      "explanation": "Russia chaired BRICS in 2024 (at Brazil's request), followed by Brazil in 2025 and India in 2026.",
      "source": "https://www.insightsonindia.com/2025/12/18/indias-brics-presidency-2026/"
     },
@@ -386,10 +386,10 @@
       "D. Sanya"
      ],
      "options": [
+      "I-C, II-D, III-B, IV-A",
       "I-A, II-C, III-D, IV-B",
-      "I-D, II-A, III-C, IV-B",
       "I-D, II-C, III-A, IV-B",
-      "I-C, II-D, III-B, IV-A"
+      "I-D, II-A, III-C, IV-B"
      ],
      "answer": 2,
      "explanation": "Sanya, China hosted the 2011 summit (South Africa's first as a full member); New Delhi hosted in 2012; Durban in 2013; Fortaleza in 2014, where the New Development Bank agreement was signed.",
@@ -447,12 +447,12 @@
      "type": "direct",
      "q": "The Sriharikota spaceport, from which PSLV-C62 was launched, is officially named after which scientist and former ISRO chairman?",
      "options": [
+      "Homi J. Bhabha",
       "Vikram Sarabhai",
-      "Satish Dhawan",
       "A. P. J. Abdul Kalam",
-      "Homi J. Bhabha"
+      "Satish Dhawan"
      ],
-     "answer": 1,
+     "answer": 3,
      "explanation": "Sriharikota (earlier SHAR) hosts the Satish Dhawan Space Centre, renamed in 2002 in memory of Prof. Satish Dhawan, former ISRO chairman.",
      "source": "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre"
     },
@@ -479,12 +479,12 @@
       "D. Thoothukudi district, Tamil Nadu"
      ],
      "options": [
-      "I-B, II-A, III-C, IV-D",
-      "I-A, II-B, III-C, IV-D",
+      "I-C, II-A, III-B, IV-D",
       "I-B, II-A, III-D, IV-C",
-      "I-C, II-A, III-B, IV-D"
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-A, III-C, IV-D"
      ],
-     "answer": 0,
+     "answer": 3,
      "explanation": "ISRO is headquartered in Bengaluru; VSSC is in Thiruvananthapuram; Sriharikota island lies in Tirupati district of Andhra Pradesh; Kulasekarapattinam is in Thoothukudi district, Tamil Nadu.",
      "source": "https://en.wikipedia.org/wiki/ISRO"
     },
@@ -520,11 +520,11 @@
      "q": "The uncrewed Gaganyaan test flight G1 is planned on a human-rated version of which ISRO launch vehicle?",
      "options": [
       "PSLV",
-      "SSLV",
       "LVM3",
-      "GSLV Mk II"
+      "GSLV Mk II",
+      "SSLV"
      ],
-     "answer": 2,
+     "answer": 1,
      "explanation": "Gaganyaan uses HLVM3, the human-rated variant of the LVM3 (formerly GSLV Mk III), launched from the Satish Dhawan Space Centre.",
      "source": "https://en.wikipedia.org/wiki/Gaganyaan-1"
     }

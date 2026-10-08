@@ -11,7 +11,7 @@ from reportlab.lib.units import mm
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.enums import TA_CENTER, TA_LEFT
 from reportlab.platypus import (SimpleDocTemplate, Paragraph, Spacer, Table,
-                                 TableStyle, HRFlowable)
+                                 TableStyle, HRFlowable, KeepTogether)
 from reportlab.lib import colors
 
 AR_OPTIONS = [
@@ -68,6 +68,7 @@ def render_options(story, st, options, answer_idx, mode="inline"):
 
 
 def render_question(story, st, qnum, q, mode="inline"):
+    outer, story = story, []
     qtype = q["type"]
 
     if qtype == "direct":
@@ -129,6 +130,7 @@ def render_question(story, st, qnum, q, mode="inline"):
         story.append(Paragraph(f'Explanation: {esc(q["explanation"])}', st["exp"]))
         if q.get("source"):
             story.append(Paragraph(f'Source: {esc(q["source"])}', st["src"]))
+    outer.append(KeepTogether(story))
 
 
 def build_pdf(data, out_path, mode="inline"):

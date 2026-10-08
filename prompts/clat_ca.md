@@ -15,3 +15,11 @@ Read `docs/clat_gk_schema.md` first (six question types, JSON shapes, build mix)
 
 ## Output
 Write the passage object (schema "Passage object", plus `title` and `topic_tags`) to the file named in the task. Do not write anything else.
+
+## Answer-position balance (added after Test 2)
+Option order can be shuffled by `tools/balance_answers.py`, but assertion_reason, statement_two and statement_count have fixed option frames, so their answer position comes from content. When the task gives you target answers for those questions, write content that produces exactly those answers:
+- assertion_reason: A = both true and R explains A; B = both true, R does not explain A; C = A true, R false; D = A false, R true.
+- statement_two: A = I only; B = II only; C = both; D = neither.
+- statement_count: set `mode` so the count matches the target.
+Never default to "both true, R explains" or "I only".
+After assembly run `python3 tools/balance_answers.py test.json`, then `tools/validate_test.py`. The A-D split must be 20-30% each with no 3-in-a-row or ABCD-style cycles.
