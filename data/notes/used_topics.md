@@ -11,3 +11,5 @@ Test 7 T07P3 (Economy & Budget, widened to 24 Jul 2026): BHAVYA Rasayan chemical
 Test 7 (T07P2): Sangeet Natak Akademi Fellowships and Akademi Puraskar 2024-25 presented at Vigyan Bhawan, 13 Aug 2026 (Awards, books & culture).
 T07P1 (Batch 2, Polity & governance 28 May-17 Jun 2026): Rajya Sabha biennial polls 2026 - 11 Jun unopposed returns (Karnataka, Rajasthan, Manipur); 22 May ECI schedule for 24 seats.
 Test 7 (T07P4): PM-RAHAT road accident cashless treatment scheme (launched 14 Feb 2026); PM-JAY/Katara/MV Act context as static GK.
+T08P3 (Batch 2, Supreme Court & High Courts; no clear cluster in 22 Jan-11 Feb, widened to 24-26 Feb 2026): SC suo motu on NCERT Class 8 chapter on corruption in judiciary (cognisance 25 Feb 2026; blanket ban 26 Feb).
+T08P5 (International affairs, 28 May-17 Jun 2026): G7 Evian summit (France) critical minerals declaration, 17 Jun 2026 + Critical Minerals Resilience and Production Alliance; static GK on NCMM, G8 2014 suspension, G7 structure, cobalt/lithium producers.

@@ -1,0 +1,141 @@
+{
+  "title": "G7 Evian summit and critical minerals",
+  "topic_tags": ["International affairs", "G7", "critical minerals", "supply chains", "France"],
+  "slot": "T08P5",
+  "text": "Leaders of the Group of Seven (G7) met at Évian-les-Bains, France, in mid-June 2026, with French President Emmanuel Macron as host. Leaders discussed Russia's war in Ukraine, the conflict in the Near and Middle East, global economic imbalances and economic security.\n\nOn 17 June, the leaders issued a declaration on securing supply chains for critical minerals. The declaration expressed concern about market concentration, arbitrary trade restrictions, non-market policies and economic coercion. Members pledged to work with partners to reduce critical dependencies and to coordinate against efforts to weaponise economic dependencies.\n\nThe declaration launched the G7 Critical Minerals Resilience and Production Alliance. The alliance is backed by a cooperation platform meant to diversify supply chains, coordinate financing and improve traceability of minerals. Coverage described the initiative as a response to the dominance of a few suppliers in mineral markets.",
+  "sources": [
+    "https://www.elysee.fr/en/emmanuel-macron/2026-g7-summit-in-evian",
+    "https://www.elysee.fr/en/emmanuel-macron/2026/06/17/g7-summit-in-evian-day-three",
+    "https://www.chathamhouse.org/2026/06/macrons-evian-summit-shows-limits-trump-places-g7",
+    "https://www.tribuneindia.com/news/vulnerabilities/g7-unveils-declaration-to-strengthen-resilience-of-critical-minerals-supply-chains",
+    "https://www.devdiscourse.com/article/international/3936383-g7-unveils-declaration-to-strengthen-resilience-of-critical-minerals-supply-chains",
+    "https://newsable.asianetnews.com/world/g7-leaders-target-critical-minerals-supply-chain-resilience-curb-coercion-articleshow-ia0gfxg",
+    "https://www.chinapulse.com/data-news/2026/06/18/g7-summit-issues-declaration-on-key-minerals-to-counter-chinas-market-dominance/",
+    "https://www.bhfs.com/insight/france-convenes-b7-critical-minerals-investment-forum-ahead-of-evian-summit/"
+  ],
+  "questions": [
+    {
+      "type": "direct",
+      "q": "In which year did G7 leaders suspend Russia's participation in the G8 over its annexation of Crimea?",
+      "options": ["2008", "2011", "2014", "2017"],
+      "answer": 2,
+      "explanation": "At an emergency meeting in March 2014 (The Hague), G7 leaders suspended their participation in the G8 until Russia changed course, after Russia annexed Crimea. The G8 summit planned for Sochi was moved to Brussels.",
+      "source": "https://www.aljazeera.com/news/2014/3/24/g7-nations-suspend-russia-and-scrap-g8-summit ; https://www.themoscowtimes.com/2014/03/25/russia-suspended-from-g8-over-crimea-annexation-a33293"
+    },
+    {
+      "type": "direct",
+      "q": "In which year did the Ministry of Mines release India's first critical minerals list?",
+      "options": ["2018", "2020", "2023", "2024"],
+      "answer": 2,
+      "explanation": "The Ministry of Mines released its first critical minerals report, 'Critical Minerals for India', in June 2023, identifying a list of 30 critical minerals.",
+      "source": "https://projectblue.com/blue/news-analysis/501/india-identifies-30-critical-minerals-in-new-list. ; https://www.mercomindia.com/india-unveils-critical-clean-energy-and-cut-imports"
+    },
+    {
+      "type": "direct",
+      "q": "Which country is the world's largest producer of cobalt?",
+      "options": ["Zambia", "Indonesia", "Democratic Republic of the Congo", "Peru"],
+      "answer": 2,
+      "explanation": "The DR Congo produced an estimated 73% of world cobalt in the USGS data, far ahead of Indonesia (about 14%). Zambia and Peru are smaller producers.",
+      "source": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf ; https://theoutlier.co.za/datadesk/app/dataset/a942121d-23ff-469d-aac8-b3c4391a00e5/owic"
+    },
+    {
+      "type": "match",
+      "list1": ["I. Schloss Elmau summit", "II. Hiroshima summit", "III. Borgo Egnazia (Apulia) summit", "IV. Kananaskis summit"],
+      "list2": ["A. Canada", "B. Germany", "C. Italy", "D. Japan"],
+      "options": ["I-B, II-D, III-C, IV-A", "I-A, II-B, III-C, IV-D", "I-D, II-C, III-B, IV-A", "I-B, II-C, III-D, IV-A"],
+      "answer": 0,
+      "explanation": "Germany held the G7 presidency in 2022 (Elmau, June 2022); Japan in 2023 (Hiroshima, May 2023); Italy in 2024 (Borgo Egnazia, Apulia, June 2024); Canada in 2025 (Kananaskis, June 2025).",
+      "source": "https://www.bundesregierung.de/breg-en/news/g7-start-1994300 ; https://www.developmentaid.org/news-stream/post/145147/g7-summit-2022 ; https://www.arabnews.com/node/2112576 ; https://www.mofa.go.jp/policy/other/bluebook/2023/en_html/chapter3/c030303.html ; https://en.wikipedia.org/wiki/50th_G7_summit ; https://www.governo.it/en/node/25984 ; https://www.cbc.ca/news/politics/canada-g7-presidency-2025-1.7421639 ; https://cfjctoday.com/2025/01/02/canada-set-to-preside-over-g7-in-2025-what-that-means-and-whats-at-stake/"
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "India's National Critical Mineral Mission is administered by the Ministry of Mines.",
+      "reason": "The Union Cabinet approved the National Critical Mineral Mission in 2021.",
+      "answer": 2,
+      "explanation": "A is true: the mission is run by the Ministry of Mines. R is false: the Union Cabinet approved the mission in January 2025 (29 January 2025), not in 2021.",
+      "source": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-national-critical-mineral-mission-to-build-a-resilient-value-chain-for-critical-mineral-resources-vital-to-green-technologies-with-an-outlay-of-rs-34300-crore-over-seven-years ; https://visionias.in/current-affairs/upsc-daily-news-summary/article/2025-01-30/business-standard/schemes-in-news/cabinet-approves-rs-34300-crore-for-national-critical-mineral-mission ; https://www.energetica-india.net/news/union-cabinet-approves-launch-of-inr-16300-crore-national-critical-mineral-mission",
+      "truth": [true, false]
+    },
+    {
+      "type": "statement_two",
+      "statements": [
+        "I. The United Kingdom is one of the seven member countries of the G7.",
+        "II. India is a full member of the G7."
+      ],
+      "answer": 0,
+      "explanation": "The UK is one of the seven G7 member states (with Canada, France, Germany, Italy, Japan and the US), along with the EU. India attends G7 summits as an outreach partner invitee, not as a member, so only I is true.",
+      "source": "https://en.wikipedia.org/wiki/50th_G7_summit ; https://www.mountholyokenews.com/global/2024/6/29/f4-world-leaders-come-together-for-2024-g7-summit-in-italy",
+      "truth": [true, false]
+    },
+    {
+      "type": "statement_count",
+      "statements": [
+        "1. The G7 operates without a charter.",
+        "2. The G7 has no permanent secretariat.",
+        "3. G7 decisions are generally taken by consensus rather than formal votes.",
+        "4. Declarations issued at G7 summits are legally binding under an international treaty."
+      ],
+      "mode": "correct",
+      "answer": 2,
+      "explanation": "Statements 1, 2 and 3 are correct: the G7 has no charter, offices or permanent administration, and decides by consensus without formal votes. Statement 4 is incorrect because G7 commitments are political rather than legally binding. Three statements are correct, so the answer is 'Only three'.",
+      "source": "https://www.noovo.info/nouvelle/le-canada-presidera-le-g7-en-2025-quest-ce-qui-est-en-jeu.html ; https://policymagazine.ca/?p=74606 ; https://modeldiplomat.com/learn/glossary/g7-leaders-summit",
+      "truth": [true, true, true, false]
+    },
+    {
+      "type": "statement_multi",
+      "statements": [
+        "I. Australia was the largest producer of lithium from mines in 2025.",
+        "II. Chile was the largest producer of lithium from mines in 2025.",
+        "III. China was the second-largest producer of lithium from mines in 2025."
+      ],
+      "options": ["I and II only", "II and III only", "I and III only", "All of the above"],
+      "answer": 2,
+      "explanation": "Australia (about 92,000 t lithium content) led 2025 mine output in the USGS table, followed by China (about 62,000 t) and Chile (about 56,000 t). So I and III are correct and II is incorrect.",
+      "source": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf ; https://farmonaut.com/?p=172401",
+      "truth": [true, false, true]
+    }
+  ],
+  "sources": [
+    "https://www.elysee.fr/en/emmanuel-macron/2026-g7-summit-in-evian",
+    "https://www.elysee.fr/en/emmanuel-macron/2026/06/17/g7-summit-in-evian-day-three",
+    "https://www.chathamhouse.org/2026/06/macrons-evian-summit-shows-limits-trump-places-g7",
+    "https://www.tribuneindia.com/news/vulnerabilities/g7-unveils-declaration-to-strengthen-resilience-of-critical-minerals-supply-chains",
+    "https://www.devdiscourse.com/article/international/3936383-g7-unveils-declaration-to-strengthen-resilience-of-critical-minerals-supply-chains",
+    "https://newsable.asianetnews.com/world/g7-leaders-target-critical-minerals-supply-chain-resilience-curb-coercion-articleshow-ia0gfxg",
+    "https://www.chinapulse.com/data-news/2026/06/18/g7-summit-issues-declaration-on-key-minerals-to-counter-chinas-market-dominance/",
+    "https://www.bhfs.com/insight/france-convenes-b7-critical-minerals-investment-forum-ahead-of-evian-summit/",
+    "https://www.aljazeera.com/news/2014/3/24/g7-nations-suspend-russia-and-scrap-g8-summit",
+    "https://www.themoscowtimes.com/2014/03/25/russia-suspended-from-g8-over-crimea-annexation-a33293",
+    "https://projectblue.com/blue/news-analysis/501/india-identifies-30-critical-minerals-in-new-list.",
+    "https://www.mercomindia.com/india-unveils-critical-clean-energy-and-cut-imports",
+    "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf",
+    "https://theoutlier.co.za/datadesk/app/dataset/a942121d-23ff-469d-aac8-b3c4391a00e5/owic",
+    "https://www.bundesregierung.de/breg-en/news/g7-start-1994300",
+    "https://www.developmentaid.org/news-stream/post/145147/g7-summit-2022",
+    "https://www.arabnews.com/node/2112576",
+    "https://www.mofa.go.jp/policy/other/bluebook/2023/en_html/chapter3/c030303.html",
+    "https://en.wikipedia.org/wiki/50th_G7_summit",
+    "https://www.governo.it/en/node/25984",
+    "https://www.cbc.ca/news/politics/canada-g7-presidency-2025-1.7421639",
+    "https://cfjctoday.com/2025/01/02/canada-set-to-preside-over-g7-in-2025-what-that-means-and-whats-at-stake/",
+    "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-national-critical-mineral-mission-to-build-a-resilient-value-chain-for-critical-mineral-resources-vital-to-green-technologies-with-an-outlay-of-rs-34300-crore-over-seven-years",
+    "https://visionias.in/current-affairs/upsc-daily-news-summary/article/2025-01-30/business-standard/schemes-in-news/cabinet-approves-rs-34300-crore-for-national-critical-mineral-mission",
+    "https://www.energetica-india.net/news/union-cabinet-approves-launch-of-inr-16300-crore-national-critical-mineral-mission",
+    "https://www.mountholyokenews.com/global/2024/6/29/f4-world-leaders-come-together-for-2024-g7-summit-in-italy",
+    "https://www.noovo.info/nouvelle/le-canada-presidera-le-g7-en-2025-quest-ce-qui-est-en-jeu.html",
+    "https://policymagazine.ca/?p=74606",
+    "https://modeldiplomat.com/learn/glossary/g7-leaders-summit",
+    "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf",
+    "https://farmonaut.com/?p=172401"
+  ],
+  "writer_flags": [
+    "Evian summit dates disputed across sources (14-16 June vs 15-17 June 2026); passage says 'mid-June' and uses 17 June only for the declaration (Elysee day-three page and chinapulse).",
+    "Declaration title varies by outlet; passage paraphrases it in lower case rather than quoting an official title.",
+    "Passage sentence on market dominance rests on chinapulse headline plus asianet; treat wording as paraphrase.",
+    "Kananaskis venue for 2025 rests on CBC summary and a presidency-announcement article; second source is weak.",
+    "Cobalt share (about 73%) from USGS 2026 chapter and a secondary dataset citing the 2025 edition; exact share not used in question text.",
+    "Lithium 2025 ranking: Australia first is USGS-based with an EIA-style secondary; China second (62k t vs Chile 56k t) relies on USGS table snippet plus one weak secondary (farmonaut); verify before use.",
+    "Minister's remark that 24 critical minerals were identified conflicts with the 30-mineral 2023 list; question 2 avoids the count and asks only the year.",
+    "Statements 1 and 2 of the statement_count (no charter, no permanent secretariat) are both from one cluster of commentary (CP/noovo, Policy Magazine, Model Diplomat); verify against an official G7 source if possible."
+  ]
+}
