@@ -1,0 +1,278 @@
+{
+ "passage_file": "data/draft/t04_p4.json",
+ "passage_claims": [
+  {
+   "claim": "Parliament passed Tribunals Reforms Bill 2026, repealing the 2021 Act",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://thewire.in/government/rajya-sabha-passes-bill-to-set-up-national-tribunal-commission-amid-opposition-walkout",
+    "https://www.etvbharat.com/en/bharat/parliament-passes-tribunals-reforms-bill-2026-enn26081104883",
+    "https://pib.gov.in/FactsheetDetails.aspx?Id=150828"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Monsoon Session ran 20 July to 13 August 2026",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.governancenow.com/news/regular-story/monsoon-session-of-parliament-adjourns-sine-die",
+    "https://newsonair.gov.in/both-houses-of-parliament-adjourned-sine-die-with-passage-of-12-bills-during-monsoon-session/"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Both Houses passed 12 bills",
+   "verdict": "DISPUTED",
+   "sources": [
+    "https://newsonair.gov.in/both-houses-of-parliament-adjourned-sine-die-with-passage-of-12-bills-during-monsoon-session/",
+    "https://www.business-standard.com/india-news/parliament-monsoon-session-12-bills-introduced-11-passed-33-hrs-spent-126081300890_1.html"
+   ],
+   "note": "Government/AIR/Republic/The Week say 12 passed; PRS-based Business Standard and Outlook say 11 of 12 introduced. Reworded to attribute to the government."
+  },
+  {
+   "claim": "Most bills cleared with little/no debate amid disruptions incl. NEET-UG paper leak protests",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.theweek.in/news/india/2026/08/13/monsoon-session-12-bills-pass-amid-disruptions-in-parliament-delimitation-fcra-shelved-as-focus-shifts-to-2027-polls.amp.html",
+    "https://news.careers360.com/cjp-protest-opposition-protests-on-neet-paper-leak-rock-parliament-on-opening-day-of-monsoon-session",
+    "https://www.outlookindia.com/national/monsoon-session-day-4-parliament-deadlock-set-to-continue-over-paper-leak-crisis-both-houses-adjourned-until-12-am"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Introduced and passed in Lok Sabha on 10 Aug 2026 by voice vote, without debate amid sloganeering",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.livelaw.in/top-stories/lok-sabha-passes-tribunals-reforms-bill-2026-without-debate-545083",
+    "https://www.barandbench.com/news/law-policy/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals",
+    "https://thewire.in/government/rajya-sabha-passes-bill-to-set-up-national-tribunal-commission-amid-opposition-walkout"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Rajya Sabha passed it on 11 Aug 2026; Opposition walked out",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://thewire.in/government/rajya-sabha-passes-bill-to-set-up-national-tribunal-commission-amid-opposition-walkout",
+    "https://www.etvbharat.com/en/bharat/parliament-passes-tribunals-reforms-bill-2026-enn26081104883",
+    "https://morungexpress.com/rajya-sabha-passes-tribunals-reforms-bill-2026-national-commission-to-select-tribunal-heads"
+   ],
+   "note": "PRS tracker's 10 Aug is the Lok Sabha date; three publishers say 11 Aug for RS."
+  },
+  {
+   "claim": "NTC oversees 16 tribunals incl. CAT, State ATs, SAT, DRT",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://www.barandbench.com/news/law-policy/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals",
+    "https://www.scconline.com/blog/?p=392972",
+    "https://pib.gov.in/FactsheetDetails.aspx?Id=150828"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Commission functions: selection process, performance review, inquiries into complaints, National Tribunals Data Grid",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://prsindia.org/billtrack/the-tribunals-reforms-bill-2026",
+    "https://www.moneylife.in/article/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals/81305.html"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Chairperson + two judicial + two technical members; chairperson a SC Judge or HC Chief Justice",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://prsindia.org/files/bills_acts/bills_parliament/2026/Summary_Tribunals_Reforms_Bill_2026.pdf",
+    "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc2026812951701.pdf"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Central Govt appoints, after consulting CJI for chairperson and judicial members",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://prsindia.org/files/bills_acts/bills_parliament/2026/Summary_Tribunals_Reforms_Bill_2026.pdf",
+    "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc2026812951701.pdf"
+   ],
+   "note": "PIB (official) plus PRS."
+  },
+  {
+   "claim": "Madras Bar Association case struck down provisions of 2021 Act; Court called for independent NTC",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://prsindia.org/files/bills_acts/bills_parliament/2026/Summary_Tribunals_Reforms_Bill_2026.pdf",
+    "https://www.moneylife.in/article/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals/81305.html"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Government says bill does not change jurisdiction of any tribunal",
+   "verdict": "CONFIRMED",
+   "sources": [
+    "https://deccanherald.com/india/parliament-passes-tribunals-reforms-bill-2026-govt-says-no-changes-in-jurisdiction-of-tribunals-4107141",
+    "https://www.moneylife.in/article/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals/81305.html"
+   ],
+   "note": ""
+  },
+  {
+   "claim": "Presidential assent 13 Aug (not in passage)",
+   "verdict": "SINGLE_SOURCE",
+   "sources": [
+    "https://www.barandbench.com/news/tribunals-reforms-act-2026-gets-presidents-assent"
+   ],
+   "note": "Omitted from passage, no question depends on it."
+  }
+ ],
+ "questions": [
+  {
+   "index": 1,
+   "verdict": "OK",
+   "my_answer": "Article 323B",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-323b-tribunals-for-other-matters/",
+    "https://www.gktoday.in/article-323b/",
+    "https://vajiramandravi.com/current-affairs/part-14a-of-indian-constitution/"
+   ],
+   "fix": null,
+   "note": "Art 323B: Parliament and State legislatures, taxation listed first; 323A is Parliament only, public service."
+  },
+  {
+   "index": 2,
+   "verdict": "OK",
+   "my_answer": "62 years",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.constitutionofindia.net/articles/article-217-appointment-and-conditions-of-the-office-of-a-/",
+    "https://www.constitution.org/1-Constitution/cons/india/tamnd15.htm",
+    "https://PRSINDIA.org/files/bills_acts/bills_parliament/2010/Constitution_114.pdf"
+   ],
+   "fix": null,
+   "note": "15th Amendment 1963 raised 60 to 62; 2010 bill to raise to 65 not enacted per sources."
+  },
+  {
+   "index": 3,
+   "verdict": "DROP",
+   "my_answer": "12",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [
+    "UNCHECKED"
+   ],
+   "sources": [],
+   "fix": null,
+   "note": "Culled (not searched, search budget; writer-flagged 80(1)(a)/(3) wording unresolved). Dropped to keep six with mix."
+  },
+  {
+   "index": 4,
+   "verdict": "OK",
+   "my_answer": "I-A, II-C, III-B, IV-D",
+   "key_answer_correct": true,
+   "truth_values": null,
+   "issues": [],
+   "sources": [
+    "https://www.clearias.com/constitutional-bodies/",
+    "https://vajiramandravi.com/upsc-exam/constitutional-bodies/",
+    "https://www.constitutionofindia.net/articles/article-76-attorney-general-for-india/",
+    "https://www.constitutionofindia.net/articles/article-324-superintendence-direction-and-control-of-elections-to-be-vested-in-an-election-commission/"
+   ],
+   "fix": null,
+   "note": "All four pairings confirmed; distractor orders wrong."
+  },
+  {
+   "index": 5,
+   "verdict": "OK",
+   "my_answer": "A true, R false (2)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.barandbench.com/news/law-policy/lok-sabha-passes-bill-for-national-tribunals-commission-to-oversee-16-tribunals",
+    "https://www.livelaw.in/top-stories/lok-sabha-passes-tribunals-reforms-bill-2026-without-debate-545083",
+    "https://unacademy.com/content/upsc/study-material/general-awareness-2/article-109-special-procedure-in-respect-of-money-bills/",
+    "https://www.pmfias.com/money-bill-procedure-parliament-pyq-2024/"
+   ],
+   "fix": null,
+   "note": "A: LS passed 10 Aug by voice vote (LiveLaw, Bar and Bench). R false: Art 109 bars Money Bill introduction in RS."
+  },
+  {
+   "index": 6,
+   "verdict": "DROP",
+   "my_answer": "Both",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true
+   ],
+   "issues": [
+    "UNCHECKED",
+    "OVERLAP"
+   ],
+   "sources": [],
+   "fix": null,
+   "note": "Culled: Arts 368/111 not searched; overlaps Q5 (Money Bill/legislative procedure)."
+  },
+  {
+   "index": 7,
+   "verdict": "OK",
+   "my_answer": "Only one incorrect (stmt 2)",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    false,
+    true,
+    true
+   ],
+   "issues": [],
+   "sources": [
+    "https://manupatracademy.com/LegalPost/MANU_SC_0261_1997",
+    "https://future.indiankanoon.org/doc/1266659",
+    "https://iasbaba.com/2022/07/article-72/",
+    "https://www.constitutionofindia.net/constitution_of_india/the_union/articles/Article%2072",
+    "https://www.education.gov.in/en/fundamental_rights_article-21A",
+    "https://law.drishtiias.com/to-the-point/ttp-constitution-of-india/right-to-education-under-article-21a",
+    "https://www.scconline.com/blog/post/2023/05/12/analysis-of-article-143-of-the-constitution-of-india-legal-research-legal-news-updates/",
+    "https://www.constitutionofindia.net/constitution_of_india/the_union/articles/Article%20143"
+   ],
+   "fix": null,
+   "note": "L Chandra Kumar, Art 72 (President), Art 21A, Art 143 all confirmed."
+  },
+  {
+   "index": 8,
+   "verdict": "OK",
+   "my_answer": "I and II only",
+   "key_answer_correct": true,
+   "truth_values": [
+    true,
+    true,
+    false
+   ],
+   "issues": [],
+   "sources": [
+    "https://www.livelaw.in/amp/top-stories/president-grants-assent-to-law-increasing-strength-of-supreme-court-judges-to-38-545405",
+    "https://www.uniindia.com/news/india/parliament-clears-bill-to-raise-supreme-court-strength-to-38-judges/3933479.html",
+    "https://www.barandbench.com/news/lok-sabha-passes-bill-to-increase-supreme-court-judge-strength-to-38",
+    "https://www.constitutionofindia.net/articles/article-124-establishment-and-constitution-of-supreme-court/",
+    "https://www.constitutionofindia.net/articles/article-53-executive-power-of-the-union/",
+    "https://unacademy.com/content/a-brief-understanding-of-article-53/"
+   ],
+   "fix": null,
+   "note": "SC bill: 34 to 38 incl. CJI, passed, assent 11 Aug (LiveLaw, UNI). Art 124(1) 'until Parliament by law prescribes a larger number' standard text; Art 53 vests power in President."
+  }
+ ],
+ "passage_fixes": [
+  {
+   "old": "Both Houses passed 12 bills during the session, but most were cleared",
+   "new": "According to the government, both Houses passed 12 bills during the session, but most were cleared",
+   "reason": "12-bill count disputed (11 per PRS/BS/Outlook); attributed to government"
+  }
+ ],
+ "summary": "Passage mostly confirmed; only the bill count was reworded. Six questions kept (Q1,2,4,5,7,8), Q3 and Q6 culled unchecked/overlapping. Final word count 466."
+}
