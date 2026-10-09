@@ -1,0 +1,362 @@
+{
+  "topic": {
+    "title": "Strategic Importance of Greenland",
+    "chapter_title": "International Relations and News",
+    "subtopics": [
+      {
+        "title": "Greenland's Status within Denmark, NATO and the EU",
+        "summary": "Greenland is one of Denmark's two autonomous territories and became a Danish colony after Hans Egede's expedition arrived in 1721. It became a self-governing territory in 1979 and has held the right to declare independence through a referendum since 2009. Through Denmark it is part of NATO, while it is associated with the EU as one of the EU Overseas Countries and Territories.",
+        "facts": [
+          "Greenland is the world's largest island and one of Denmark's two autonomous territories",
+          "The other autonomous territory of Denmark is the Faroe Islands",
+          "Greenland became a Danish colony in the early 18th century after Hans Egede's expedition arrived in 1721",
+          "Greenland became a self-governing territory in 1979",
+          "Since 2009 Greenland has had the right to declare independence through a referendum",
+          "Greenland is part of NATO by default because Denmark is a NATO member",
+          "Greenland is not an EU member state but is associated with the EU as an Overseas Country and Territory",
+          "Greenlanders are considered to be EU citizens",
+          "Greenland joined the European Community with Denmark in 1973 and left it in 1985"
+        ],
+        "keywords": ["Denmark", "autonomous territory", "self-governing", "referendum", "NATO", "EU Overseas Countries and Territories", "Hans Egede"]
+      },
+      {
+        "title": "US Strategic and Military Ties with Greenland",
+        "summary": "The United States seized temporary control of Greenland during the Second World War to stop Nazi Germany from exploiting the Danish colony. It proposed a $100 million purchase offer to Denmark in 1946 and formalised American military access through a 1951 defence agreement. Today the US maintains Pituffik Space Base, which helps monitor potential missile threats.",
+        "facts": [
+          "The US seized temporary control of Greenland in World War II",
+          "The aim was to prevent Nazi Germany from exploiting the Danish colony after Denmark's occupation",
+          "In 1946 the US proposed a $100 million offer to Denmark for outright purchase of Greenland",
+          "The 1951 US-Denmark Defence Agreement formalised American military access to Greenland",
+          "Pituffik Space Base, formerly known as Thule Air Base, is maintained by the US",
+          "The base monitors potential missile threats from Russia, China and North Korea",
+          "Greenland hosts critical infrastructure for the US Ballistic Missile Early-Warning System",
+          "Greenland lies within the GIUK Gap, a key chokepoint for monitoring naval movements in the North Atlantic",
+          "Greenland's ground stations can track polar-orbiting satellites",
+          "Greenland enhances NATO's ability to monitor Russian activities in the Arctic and North Atlantic"
+        ],
+        "keywords": ["Pituffik Space Base", "Thule Air Base", "1946 offer", "1951 defence agreement", "early-warning", "GIUK Gap", "missile defence"]
+      },
+      {
+        "title": "Critical Minerals and Emerging Arctic Shipping Routes",
+        "summary": "Greenland has large untapped reserves of rare earth elements, which are crucial for semiconductors, renewable energy and defence systems. These reserves offer the West an alternative supply chain to China-dominated rare earth markets. Melting Arctic ice is opening new maritime corridors, such as the Transpolar Sea Route, that could shorten Atlantic-Pacific travel and bypass the Panama and Suez Canals.",
+        "facts": [
+          "Greenland possesses large untapped reserves of rare earth elements",
+          "Rare earth elements are crucial for semiconductors, renewable energy technologies and defence systems",
+          "China dominates the rare earth elements market",
+          "Greenland offers the West an alternative supply chain to China-dominated rare earth markets",
+          "Melting Arctic ice is opening new maritime corridors",
+          "The Transpolar Sea Route is one of the emerging Arctic shipping routes",
+          "New Arctic routes could reduce travel time between the Atlantic and Pacific Oceans",
+          "New Arctic routes could lower fuel and shipping costs",
+          "New Arctic routes could bypass the Panama Canal and Suez Canal",
+          "Control over Arctic sea lanes will shape future global trade and naval power projection"
+        ],
+        "keywords": ["rare earth elements", "critical minerals", "Transpolar Sea Route", "Arctic shipping", "melting ice", "Panama Canal", "Suez Canal"]
+      },
+      {
+        "title": "Great Power Competition and the EU Anti-Coercion Instrument",
+        "summary": "China labels itself a Near-Arctic State and invests in Arctic research, while Russia has heavily militarised its Arctic coastline and the US views Greenland as central to countering both. Denmark's firm stance highlights the tension between territorial sovereignty and the strategic ambitions of major powers. The EU's Anti-Coercion Instrument, nicknamed the Trade Bazooka, is primarily a deterrent tool against economic coercion.",
+        "facts": [
+          "China labels itself a 'Near-Arctic State'",
+          "China is investing in Arctic research and infrastructure",
+          "Russia has heavily militarised its Arctic coastline",
+          "The US views Greenland as central to countering both China and Russia",
+          "Denmark takes a firm stance on sovereignty over Greenland",
+          "The EU's Anti-Coercion Instrument is nicknamed the 'Trade Bazooka'",
+          "The Anti-Coercion Instrument is primarily a deterrent tool with capacity for proportionate retaliation",
+          "The Anti-Coercion Instrument responds when a non-EU country seeks to coerce the EU through trade or investment measures",
+          "Its objectives are to deter economic coercion and protect the EU's strategic autonomy",
+          "A French President urged the EU to invoke the Anti-Coercion Instrument for the first time against US tariffs amid the Greenland dispute"
+        ],
+        "keywords": ["Near-Arctic State", "Russia", "sovereignty", "Anti-Coercion Instrument", "Trade Bazooka", "economic coercion", "deterrent"]
+      }
+    ]
+  },
+  "mindmaps": [
+    {
+      "scope": "topic",
+      "title": "Strategic Importance of Greenland",
+      "root": {
+        "label": "Greenland: strategic importance",
+        "children": [
+          {"label": "Status", "children": [
+            {"label": "Danish autonomous territory"},
+            {"label": "Self-governing since 1979"},
+            {"label": "Independence by referendum since 2009"}
+          ]},
+          {"label": "Alliances", "children": [
+            {"label": "Part of NATO via Denmark"},
+            {"label": "EU Overseas Country and Territory association"}
+          ]},
+          {"label": "US ties", "children": [
+            {"label": "Temporary control in WWII"},
+            {"label": "1946 purchase offer"},
+            {"label": "1951 defence agreement"}
+          ]},
+          {"label": "Military security", "children": [
+            {"label": "GIUK Gap monitoring"},
+            {"label": "Missile early warning"},
+            {"label": "Polar satellite ground stations"}
+          ]},
+          {"label": "Critical minerals", "children": [
+            {"label": "Large untapped rare earth reserves"},
+            {"label": "Alternative to China-dominated market"}
+          ]},
+          {"label": "Arctic shipping", "children": [
+            {"label": "Melting ice opens new corridors"},
+            {"label": "Transpolar Sea Route"}
+          ]},
+          {"label": "Major power rivalry", "children": [
+            {"label": "China: Near-Arctic State"},
+            {"label": "Russia: militarised Arctic coastline"},
+            {"label": "EU Anti-Coercion Instrument"}
+          ]}
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 0,
+      "title": "Status within Denmark, NATO and EU",
+      "root": {
+        "label": "Greenland's status",
+        "children": [
+          {"label": "Autonomy", "children": [
+            {"label": "Denmark's two autonomous territories"},
+            {"label": "Self-governing since 1979"},
+            {"label": "Referendum right since 2009"}
+          ]},
+          {"label": "Alliances", "children": [
+            {"label": "NATO through Denmark"},
+            {"label": "EU Overseas Countries and Territories"},
+            {"label": "Greenlanders are EU citizens"}
+          ]},
+          {"label": "History", "children": [
+            {"label": "Danish colony from 18th century"},
+            {"label": "Hans Egede expedition, 1721"}
+          ]}
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 1,
+      "title": "US Strategic and Military Ties",
+      "root": {
+        "label": "US interest in Greenland",
+        "children": [
+          {"label": "Historical ties", "children": [
+            {"label": "WWII temporary control"},
+            {"label": "1946 offer of $100 million"},
+            {"label": "1951 defence agreement"}
+          ]},
+          {"label": "Pituffik Space Base", "children": [
+            {"label": "Formerly Thule Air Base"},
+            {"label": "Monitors missile threats"}
+          ]},
+          {"label": "Security role", "children": [
+            {"label": "GIUK Gap naval monitoring"},
+            {"label": "Ballistic missile early warning"},
+            {"label": "Polar satellite ground stations"}
+          ]}
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 2,
+      "title": "Minerals and Arctic Shipping",
+      "root": {
+        "label": "Minerals and Arctic routes",
+        "children": [
+          {"label": "Rare earth elements", "children": [
+            {"label": "Large untapped reserves"},
+            {"label": "Used in semiconductors and defence"},
+            {"label": "Alternative to China-dominated market"}
+          ]},
+          {"label": "Arctic shipping routes", "children": [
+            {"label": "Melting ice opens corridors"},
+            {"label": "Transpolar Sea Route"},
+            {"label": "Bypass Panama and Suez Canals"}
+          ]}
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 3,
+      "title": "Power Rivalry and the Anti-Coercion Instrument",
+      "root": {
+        "label": "Competition and EU response",
+        "children": [
+          {"label": "Major powers", "children": [
+            {"label": "China: Near-Arctic State"},
+            {"label": "Russia: militarised Arctic coastline"},
+            {"label": "US: Greenland central to countering both"}
+          ]},
+          {"label": "Denmark", "children": [
+            {"label": "Firm stance on sovereignty"}
+          ]},
+          {"label": "Anti-Coercion Instrument", "children": [
+            {"label": "Nicknamed Trade Bazooka"},
+            {"label": "Primarily a deterrent"},
+            {"label": "Proportionate retaliation if coercion persists"}
+          ]}
+        ]
+      }
+    }
+  ],
+  "mnemonics": [
+    {
+      "scope": "subtopic",
+      "subtopic_index": 0,
+      "title": "Greenland's milestones",
+      "mnemonic": "Egede, Seventy-Nine, Oh-Nine",
+      "decode": [
+        {"key": "Egede", "meaning": "Hans Egede's expedition arrived in 1721 and Greenland became a Danish colony"},
+        {"key": "Seventy-Nine", "meaning": "Greenland became a self-governing territory in 1979"},
+        {"key": "Oh-Nine", "meaning": "Since 2009 Greenland has had the right to declare independence through a referendum"}
+      ]
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 1,
+      "title": "US milestones in Greenland",
+      "mnemonic": "Forty-Six Offer, Fifty-One Access",
+      "decode": [
+        {"key": "Forty-Six", "meaning": "In 1946 the US proposed a $100 million offer to Denmark for outright purchase of Greenland"},
+        {"key": "Fifty-One", "meaning": "The 1951 US-Denmark Defence Agreement formalised American military access to Greenland"}
+      ]
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 3,
+      "title": "Anti-Coercion countermeasures",
+      "mnemonic": "Traders In Markets Interact",
+      "decode": [
+        {"key": "T", "meaning": "Trade measures: import and export restrictions on goods and services"},
+        {"key": "I", "meaning": "Investment measures: restrictions on foreign direct investment"},
+        {"key": "M", "meaning": "Market access: limiting access to the EU internal market"},
+        {"key": "I", "meaning": "IP and services: measures affecting intellectual property rights, public procurement and services"}
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "type": "MCQ",
+      "subtopic_index": 0,
+      "title": "Greenland's Status: Practice Set",
+      "passage": "Greenland is the world's largest island and forms one of Denmark's two autonomous territories, the other being the Faroe Islands. Its relationship with Denmark has a long history. The island became a Danish colony in the early eighteenth century, after an expedition led by the Danish-Norwegian missionary Hans Egede arrived in 1721. It became a self-governing territory in 1979, and since 2009 it has held the right to declare independence through a referendum. The island's status is now at the centre of a fresh dispute. Denmark's Prime Minister, Mette Frederiksen, has rejected United States claims on Greenland and reaffirmed Danish sovereignty over the Arctic territory. Greenland's place in wider alliances is shaped by Denmark's membership of NATO. Since Denmark is part of the alliance, Greenland is by default part of it as well. Greenland is not a member state of the European Union, but it is associated with the Union as one of the EU Overseas Countries and Territories. As a result, Greenlanders are considered to be EU citizens. Together, its autonomy, its right to independence and its alliance links explain why the island matters to Denmark, Europe and the United States.",
+      "questions": [
+        {
+          "q": "Which island in Greenland is recognised as the world's northernmost point of land?",
+          "options": ["Ellesmere Island", "Kaffeklubben Island", "Alert Island", "Nord Island"],
+          "answer": 1,
+          "explanation": "The booklet recognises Kaffeklubben Island as the world's northernmost point of land."
+        },
+        {
+          "q": "Assertion (A): Greenland gives the North Atlantic a strategic role in monitoring naval movements.\nReason (R): The GIUK Gap is named after Greenland, Ireland and the United Kingdom.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+          ],
+          "answer": 2,
+          "explanation": "The GIUK Gap stands for Greenland, Iceland and United Kingdom, not Ireland, and it is a key chokepoint for monitoring naval movements."
+        },
+        {
+          "q": "Match List I with List II:\nI. Pituffik Space Base   ->   C. Formerly known as Thule Air Base\nII. US proposal of 1946   ->   D. Offer of $100 million to Denmark for outright purchase\nIII. 1951 agreement   ->   A. US-Denmark Defence Agreement on military access\nIV. Rare earth elements   ->   B. Crucial for semiconductors, renewable energy and defence systems",
+          "options": ["I-C, II-D, III-A, IV-B", "I-B, II-C, III-D, IV-A", "I-D, II-A, III-B, IV-C", "I-A, II-B, III-C, IV-D"],
+          "answer": 0,
+          "explanation": "Pituffik was formerly Thule Air Base, the 1946 proposal was a $100 million purchase offer, the 1951 agreement covered military access, and rare earths are crucial for semiconductors and defence systems."
+        },
+        {
+          "q": "Consider the following statements:\nI. Russia has heavily militarised the Arctic coastline.\nII. China labels itself a Near-Arctic State.\nIII. The United States proposed to buy Greenland from Denmark in 1951.\nHow many of the statements given above are correct?",
+          "options": ["Only one", "Only two", "Only three", "None of the above"],
+          "answer": 1,
+          "explanation": "Statements I and II are correct, while the US purchase proposal was made in 1946, not 1951."
+        },
+        {
+          "q": "Consider the following statements about Greenland and the EU:\nI. Greenland joined the European Community together with Denmark in 1973 but left in 1985.\nII. The Anti-Coercion Instrument was designed mainly as a tool for direct military retaliation.\nIII. The Transpolar Sea Route is one of the emerging Arctic shipping routes linked to melting ice.\nWhich of the above statements is/are correct?",
+          "options": ["II only", "I and II only", "II and III only", "I and III only"],
+          "answer": 3,
+          "explanation": "Statement I and III are correct, while the Anti-Coercion Instrument is primarily a deterrent tool rather than a military one."
+        },
+        {
+          "q": "What name does the booklet give to the EU's Anti-Coercion Instrument?",
+          "options": ["Trade Bazooka", "Economic Shield", "Strategic Hammer", "Coercion Wall"],
+          "answer": 0,
+          "explanation": "The booklet calls the Anti-Coercion Instrument the 'Trade Bazooka'."
+        },
+        {
+          "q": "Which body takes decisions to invite a country to join NATO?",
+          "options": ["European Commission", "United Nations Security Council", "North Atlantic Council", "Arctic Council"],
+          "answer": 2,
+          "explanation": "The booklet says the North Atlantic Council, NATO's principal political decision-making body, takes any decision to invite a country to join."
+        },
+        {
+          "q": "Statement I: Under Article 5, an armed attack on one NATO Ally is treated as an attack on all members.\nStatement II: NATO was created by 12 countries on 4 April 1949.\nWhich of the statements is/are correct?",
+          "options": ["Only I", "Only II", "Neither I nor II", "Both I and II"],
+          "answer": 3,
+          "explanation": "Both statements appear in the booklet's NATO section: the Article 5 provision and the 1949 founding by 12 countries."
+        }
+      ]
+    },
+    {
+      "type": "TITA",
+      "subtopic_index": 2,
+      "title": "Minerals and Arctic Routes: Typed Answers",
+      "passage": "Climate change is reshaping the Arctic. Melting sea ice is opening new maritime corridors through waters that were once difficult to navigate. Shipping along these corridors could shorten travel times between the Atlantic and Pacific Oceans, while lowering fuel and shipping costs. The new routes could also allow ships to avoid some of the chokepoints that currently shape global trade. Control over these sea lanes is expected to influence future trade flows and the projection of naval power. Greenland's own resources add to the region's importance. The island holds mineral wealth that is vital for semiconductors, renewable energy equipment and defence systems. Many Western economies see new sources of these minerals as a way to diversify supply chains that are heavily concentrated elsewhere. This push forms part of a wider effort to decouple sensitive economic sectors from rival suppliers. Outside powers are also investing in Arctic research and infrastructure, which signals long-term interest in the region. Taken together, the changing Arctic is becoming a centre of economic and strategic competition, and the outcome will shape which countries gain leverage over future trade.",
+      "questions": [
+        {
+          "q": "Which group of minerals does Greenland possess in large untapped reserves? (name the group in two words)",
+          "answer": "Rare earth elements",
+          "accept": ["Rare earths", "Rare earth", "REE", "rare earth minerals", "rare earth elements"],
+          "explanation": "The booklet says Greenland possesses large untapped reserves of rare earth elements."
+        },
+        {
+          "q": "Which country currently dominates the rare earth elements market? (one word)",
+          "answer": "China",
+          "accept": ["PRC", "People's Republic of China"],
+          "explanation": "The booklet describes the rare earth elements market as China-dominated."
+        },
+        {
+          "q": "Which emerging Arctic shipping route is linked to melting Arctic ice? (name the route)",
+          "answer": "Transpolar Sea Route",
+          "accept": ["Transpolar route", "Transpolar Sea route", "transpolar sea route"],
+          "explanation": "The booklet names the Transpolar Sea Route as an emerging route opened by melting Arctic ice."
+        },
+        {
+          "q": "Apart from the Suez Canal, which canal could new Arctic routes help ships bypass? (one word)",
+          "answer": "Panama",
+          "accept": ["Panama Canal"],
+          "explanation": "The booklet says new Arctic routes could bypass the Panama Canal and Suez Canal."
+        },
+        {
+          "q": "What term does China use to label itself in relation to the Arctic? (three words, hyphen allowed)",
+          "answer": "Near-Arctic State",
+          "accept": ["Near Arctic State", "near-Arctic state", "Near-Arctic", "near Arctic state"],
+          "explanation": "The booklet states that China labels itself a 'Near-Arctic State'."
+        },
+        {
+          "q": "What is the abbreviation of the strategic gap named after Greenland, Iceland and the United Kingdom? (abbreviation only)",
+          "answer": "GIUK",
+          "accept": ["GIUK Gap", "GIUK gap", "giuk"],
+          "explanation": "The booklet explains that GIUK stands for Greenland, Iceland and United Kingdom."
+        },
+        {
+          "q": "What was Pituffik Space Base formerly known as? (two words)",
+          "answer": "Thule Air Base",
+          "accept": ["Thule", "Thule AB", "Thule air base"],
+          "explanation": "The booklet says Pituffik Space Base was formerly known as Thule Air Base."
+        }
+      ]
+    }
+  ],
+  "needs_check": [
+    {"page": 12, "what": "Greenland PM name partly garbled ('Jens - Frederik Nielsen'); not used"},
+    {"page": 12, "what": "Number of EU Overseas Countries and Territories ('25') read from OCR; not used"},
+    {"page": 13, "what": "Sidebar on US territorial purchases (Louisiana, Alaska, Danish West Indies) interleaved with main text; Danish West Indies line truncated; not used"}
+  ]
+}
