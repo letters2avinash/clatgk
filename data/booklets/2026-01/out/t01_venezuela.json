@@ -1,0 +1,361 @@
+{
+ "topic": {
+  "title": "US Strike on Venezuela",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "US Military Strike and Justifications",
+    "summary": "United States forces carried out a military strike on Venezuela, known as Operation Absolute Resolve, which led to the capture of President Nicolas Maduro. Washington cited illegal migration, narcotics trafficking and alleged narco-terrorism, claims that Venezuela strongly contests. The action raised the question of whether a law enforcement objective can justify the use of military force on a sovereign territory.",
+    "facts": [
+     "Operation Absolute Resolve: US military strike on Venezuela",
+     "Strike locations named: Caracas, Miranda, Aragua and La Guaira",
+     "The strike led to the capture of President Nicolas Maduro",
+     "US justifications: illegal migration, narcotics trafficking, alleged narco-terrorism",
+     "Venezuela rejects these claims and calls them a pretext for regime change",
+     "Washington designated Tren de Aragua and Cartel de los Soles as Foreign Terrorist Organisations",
+     "US alleges Cartel de los Soles operates under the leadership of Maduro",
+     "US alleges Cartel of the Suns collaborated with FARC to traffic cocaine into the US",
+     "Arguments in favour: fentanyl and narco-gangs cause mass American deaths",
+     "Arguments against: crime can become an excuse to violate borders"
+    ],
+    "keywords": ["Operation Absolute Resolve", "Caracas", "Narco-terrorism", "Tren de Aragua", "Cartel de los Soles"]
+   },
+   {
+    "title": "Venezuela's Political and Economic Crisis",
+    "summary": "Venezuela has faced a deep political and economic collapse for several years, marked by hyperinflation, power outages, food shortages and a breakdown of healthcare services. The crisis escalated when Juan Guaido, Head of the National Assembly, declared himself Acting President, challenging Maduro's second term that began in January 2019. Nearly 8 million Venezuelans have fled the country since 2013, mainly to Latin American countries.",
+    "facts": [
+     "Hyperinflation, prolonged power outages and food shortages cause severe humanitarian distress",
+     "Breakdown of healthcare services is part of the humanitarian crisis",
+     "Guaido declared himself Acting President, citing Articles 233 and 333 of the Venezuelan Constitution",
+     "Maduro was sworn in for a controversial second term in January 2019",
+     "The 2018 presidential elections were widely criticised as unfair and non-transparent",
+     "Opposition leaders were barred, imprisoned or exiled",
+     "The opposition-controlled National Assembly called Maduro a 'Usurper'",
+     "Economic contraction under Maduro is largely blamed on corruption, poor governance and overdependence on oil",
+     "Nearly 8 million Venezuelans have fled since 2013, mainly to Latin American countries",
+     "Currency: Venezuelan Bolivar; official language: Spanish"
+    ],
+    "keywords": ["Hyperinflation", "Juan Guaido", "Acting President", "Overdependence on oil", "Humanitarian distress"]
+   },
+   {
+    "title": "US Sanctions and Strategic Interests",
+    "summary": "Washington imposed comprehensive sanctions on PDVSA, Venezuela's state-owned oil firm, to cut Maduro's access to oil revenue. Because sanctions failed to dislodge the government, the US turned to maritime interdictions aimed at choking oil revenues. Strategic interests include Venezuela's very large oil reserves and its partnerships with China, Russia, Iran and Cuba.",
+    "facts": [
+     "US imposed comprehensive sanctions targeting PDVSA, the state-owned oil firm",
+     "Sanctions drastically limited Venezuela's oil exports to the US, forcing Caracas to seek alternative buyers",
+     "Maduro severed diplomatic ties with the US and expelled American diplomats",
+     "Venezuela has the world's largest proven crude oil reserves, estimated at over 300 billion barrels",
+     "Sanctions failed to dislodge the Maduro government, so the US turned to maritime interdictions",
+     "Venezuela's partnerships with China, Russia, Iran and Cuba cover energy, defence and finance",
+     "US views these alignments as a challenge to its strategic dominance in the Western Hemisphere",
+     "US revived Monroe Doctrine rhetoric, termed the 'Don-roe Doctrine'",
+     "Caribbean is treated as a critical zone of influence, reminiscent of Cold War-era calculations"
+    ],
+    "keywords": ["PDVSA", "Maritime interdictions", "Oil reserves", "Strategic dominance", "Western Hemisphere"]
+   },
+   {
+    "title": "Monroe Doctrine and Limits of Multilateralism",
+    "summary": "The Monroe Doctrine, proclaimed in 1823, was initially defensive but later became a basis for US intervention in Latin America, expanded through the Roosevelt Corollary of 1904. The UN struggles to prevent unilateral interventions because of Security Council vetoes, unpaid dues and gray-zone tactics. Reform proposals include limiting P5 veto use and creating an accountability protocol for gray-zone threats.",
+    "facts": [
+     "Monroe Doctrine: unilateral US foreign policy declaration proclaimed in 1823 by President James Monroe",
+     "Originally aimed to stop European powers from re-colonising Latin America",
+     "Roosevelt Corollary (1904) justified US intervention to maintain stability in the Western Hemisphere",
+     "Three core principles: non-colonisation, non-intervention, and US non-interference in Europe",
+     "P5 members (US, Russia, China, UK, France) can block any UN Security Council resolution",
+     "47 vetoes blocked 37 draft resolutions between 2015 and 2024",
+     "UN faces $2.4B in unpaid regular dues and a $2.7B peacekeeping shortfall",
+     "NATO, AU and ECOWAS intervene without UNSC approval",
+     "Modern gray-zone conflicts use cyberattacks, PMCs and proxies",
+     "Reform ideas: limit P5 veto use and introduce a veto override for mass atrocities"
+    ],
+    "keywords": ["Monroe Doctrine", "Roosevelt Corollary", "Veto", "Gray-zone", "Multilateralism"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "US Strike on Venezuela: Overview",
+   "root": {
+    "label": "US Strike on Venezuela",
+    "children": [
+     {"label": "Operation and justifications", "children": [
+       {"label": "Operation Absolute Resolve"},
+       {"label": "Illegal migration"},
+       {"label": "Narcotics trafficking"},
+       {"label": "Narco-terrorism allegations"}
+     ]},
+     {"label": "Venezuela crisis", "children": [
+       {"label": "Hyperinflation"},
+       {"label": "Disputed 2018 elections"},
+       {"label": "Guaido's Acting Presidency claim"}
+     ]},
+     {"label": "US sanctions and oil", "children": [
+       {"label": "PDVSA sanctions"},
+       {"label": "Maritime interdictions"},
+       {"label": "Largest proven oil reserves"}
+     ]},
+     {"label": "Strategic rivalry", "children": [
+       {"label": "Monroe Doctrine revived"},
+       {"label": "Ties with China, Russia, Iran, Cuba"}
+     ]},
+     {"label": "Global order debate", "children": [
+       {"label": "UN Security Council vetoes"},
+       {"label": "Law enforcement vs use of force"},
+       {"label": "Gray-zone threats"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Military Strike and Justifications",
+   "root": {
+    "label": "Military Strike and Justifications",
+    "children": [
+     {"label": "Operation Absolute Resolve", "children": [
+       {"label": "Caracas, Miranda, Aragua, La Guaira"},
+       {"label": "Maduro captured"}
+     ]},
+     {"label": "Stated justifications", "children": [
+       {"label": "Illegal migration"},
+       {"label": "Narcotics trafficking"},
+       {"label": "Narco-terrorism"}
+     ]},
+     {"label": "Designations and allegations", "children": [
+       {"label": "Tren de Aragua"},
+       {"label": "Cartel de los Soles"},
+       {"label": "Alleged FARC collaboration"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Political and Economic Crisis",
+   "root": {
+    "label": "Political and Economic Crisis",
+    "children": [
+     {"label": "Economic collapse", "children": [
+       {"label": "Hyperinflation"},
+       {"label": "Power outages and food shortages"},
+       {"label": "Overdependence on oil"}
+     ]},
+     {"label": "Political dispute", "children": [
+       {"label": "Guaido declared Acting President"},
+       {"label": "Articles 233 and 333 cited"},
+       {"label": "2018 elections criticised"}
+     ]},
+     {"label": "Humanitarian impact", "children": [
+       {"label": "Healthcare services breakdown"},
+       {"label": "Nearly 8 million fled since 2013"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Sanctions and Strategic Interests",
+   "root": {
+    "label": "Sanctions and Strategic Interests",
+    "children": [
+     {"label": "US sanctions", "children": [
+       {"label": "PDVSA targeted"},
+       {"label": "Oil exports to US limited"},
+       {"label": "Maritime interdictions"}
+     ]},
+     {"label": "Strategic interests", "children": [
+       {"label": "Largest proven oil reserves"},
+       {"label": "Western Hemisphere dominance"}
+     ]},
+     {"label": "Venezuela's partners", "children": [
+       {"label": "China and Russia"},
+       {"label": "Iran and Cuba"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Monroe Doctrine and UN Limits",
+   "root": {
+    "label": "Monroe Doctrine and UN Limits",
+    "children": [
+     {"label": "Monroe Doctrine", "children": [
+       {"label": "Proclaimed 1823"},
+       {"label": "Roosevelt Corollary 1904"},
+       {"label": "Three core principles"}
+     ]},
+     {"label": "UN limits", "children": [
+       {"label": "P5 vetoes block resolutions"},
+       {"label": "$2.4B unpaid regular dues"},
+       {"label": "Regional blocs act without UNSC"}
+     ]},
+     {"label": "Reform ideas", "children": [
+       {"label": "Limit P5 veto use"},
+       {"label": "Gray-zone accountability protocol"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Three Ns of the Monroe Doctrine",
+   "mnemonic": "Three Ns: No new colonies, No meddling in independent states, Neutral about Europe's wars",
+   "decode": [
+    {"key": "N1", "meaning": "Non-colonisation: no new European colonies in the Americas"},
+    {"key": "N2", "meaning": "Non-intervention: no European interference in independent American states"},
+    {"key": "N3", "meaning": "US non-interference: the US stays out of European wars and colonial affairs"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Causes of Humanitarian Distress",
+   "mnemonic": "HOPS: Hyperinflation, Outages, Provisions short, Services broken",
+   "decode": [
+    {"key": "H", "meaning": "Hyperinflation"},
+    {"key": "O", "meaning": "Prolonged power outages"},
+    {"key": "P", "meaning": "Food shortages"},
+    {"key": "S", "meaning": "Breakdown of healthcare services"}
+   ]
+  },
+  {
+   "scope": "topic",
+   "title": "US Justifications",
+   "mnemonic": "MNT: Migration, Narcotics, Terror",
+   "decode": [
+    {"key": "M", "meaning": "Illegal migration at the US southern border"},
+    {"key": "N", "meaning": "Narcotics trafficking"},
+    {"key": "T", "meaning": "Narco-terrorism allegations"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Strike and Legal Debate",
+   "passage": "United States forces carried out a military strike on Venezuela, known as Operation Absolute Resolve. The strike targeted Caracas, Miranda, Aragua and La Guaira, and it led to the capture of Venezuelan President Nicolas Maduro. Washington justified the action by citing illegal migration, narcotics trafficking and alleged narco-terrorism. Venezuela rejected these claims, arguing that the United States was using migration and drug enforcement narratives to justify regime change. The United States presents its actions as counter-narcotics operations and national security enforcement, which it says gives a legal and political framework to its maritime actions. The action has raised a legal question: can a law enforcement objective justify the use of military force on a sovereign territory? Arguments in favour cite the claim that fentanyl and narco-gangs cause mass American deaths. Opponents warn that crime can become an excuse to violate borders. The United States designated Tren de Aragua and Cartel de los Soles as Foreign Terrorist Organisations, and Washington alleged that Cartel de los Soles operates under the leadership of Maduro. Some sections of Venezuela's domestic opposition have endorsed stronger external pressure, which indirectly supports Washington's interventionist stance. Venezuela has also strengthened partnerships with China, Russia, Iran and Cuba, which the United States views as a challenge to its strategic dominance in the Western Hemisphere. Venezuela says the intervention reflects geopolitical interests rather than genuine concern over migration or narcotics control.",
+   "questions": [
+    {
+     "q": "The US alleged that Venezuela's 'Cartel of the Suns' collaborated with which Colombian guerrilla group to traffic cocaine into the United States?",
+     "options": ["ELN", "FARC", "Sendero Luminoso", "M-19"],
+     "answer": 1,
+     "explanation": "The booklet states the US alleges Cartel of the Suns collaborated with FARC to traffic cocaine."
+    },
+    {
+     "q": "Venezuela has the world's largest proven crude oil reserves, estimated at over how many billion barrels?",
+     "options": ["100", "200", "300", "400"],
+     "answer": 2,
+     "explanation": "The booklet estimates Venezuela's proven crude oil reserves at over 300 billion barrels."
+    },
+    {
+     "q": "Assertion (A): The Roosevelt Corollary of 1904 allowed European powers to intervene in the Western Hemisphere to maintain stability.\nReason (R): The Monroe Doctrine was expanded through the Roosevelt Corollary to justify US intervention in the Western Hemisphere.\nChoose the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 3,
+     "explanation": "The Roosevelt Corollary justified US intervention, not European intervention, so A is false while R is true."
+    },
+    {
+     "q": "Match List I with List II:\nI. Monroe Doctrine   ->   D. 1904\nII. Roosevelt Corollary   ->   A. January 2019\nIII. Maduro's second term   ->   B. Articles 233 and 333\nIV. Juan Guaido's declaration   ->   C. 1823\nWhich of the following is the correct matching?",
+     "options": ["I-C, II-D, III-A, IV-B", "I-A, II-B, III-C, IV-D", "I-D, II-C, III-B, IV-A", "I-B, II-A, III-D, IV-C"],
+     "answer": 0,
+     "explanation": "The Monroe Doctrine was proclaimed in 1823, the Roosevelt Corollary came in 1904, Maduro's second term began in January 2019, and Guaido cited Articles 233 and 333."
+    },
+    {
+     "q": "Which of the following statements about the Monroe Doctrine and related policy is/are correct?\nI. The Monroe Doctrine was proclaimed in 1823.\nII. The Roosevelt Corollary expanded the Monroe Doctrine to justify US intervention to maintain stability in the Western Hemisphere.\nIII. The Monroe Doctrine was originally designed to encourage European colonisation of the Americas.\nWhich of the above statements is/are correct?",
+     "options": ["II and III only", "I and III only", "I and II only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statements I and II are stated in the booklet, while III is the opposite of its non-colonisation principle."
+    },
+    {
+     "q": "Consider the following statements about the UN Security Council and related interventions:\nI. The P5 members of the UN Security Council are the US, Russia, China, the UK and France.\nII. Between 2015 and 2024, 47 vetoes blocked 37 draft resolutions.\nIII. NATO, AU and ECOWAS intervene only with UNSC approval.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "All of the above"],
+     "answer": 1,
+     "explanation": "Statements I and II match the booklet, while III is wrong because NATO, AU and ECOWAS intervene without UNSC approval."
+    },
+    {
+     "q": "How many core principles did the Monroe Doctrine have?",
+     "options": ["One", "Two", "Four", "Three"],
+     "answer": 3,
+     "explanation": "The booklet lists three core principles: non-colonisation, non-intervention and US non-interference in Europe."
+    },
+    {
+     "q": "What position did Juan Guaido hold when he declared himself Acting President?",
+     "options": ["Head of National Assembly", "Vice President", "Governor of Caracas", "Minister of Foreign Affairs"],
+     "answer": 0,
+     "explanation": "The booklet identifies Juan Guaido as Head of the National Assembly when he declared himself Acting President."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Crisis and Sanctions Recall",
+   "passage": "Venezuela is located on the northern coast of South America and is bordered by Colombia, Brazil, Guyana and the Atlantic Ocean. The country's official language is Spanish, and its economy has depended heavily on oil revenue. Venezuela has been facing a deep political and economic collapse for several years. Hyperinflation, prolonged power outages, food shortages and a breakdown of healthcare services have caused severe humanitarian distress. The crisis escalated when Juan Guaido, the head of the National Assembly, declared himself Acting President. His claim directly challenged President Nicolas Maduro. Under Maduro's leadership, Venezuela's economy suffered a drastic contraction, which is largely blamed on corruption, poor governance and overdependence on oil. Presidential elections were widely criticised as unfair and non-transparent, and opposition leaders were barred, imprisoned or exiled. The opposition-controlled National Assembly rejected the legitimacy of the election results. Guaido's declaration as interim president gained international recognition from several Western countries, while nations like Russia and China continued supporting Maduro. Many Venezuelans have left the country, mainly for other Latin American countries, to escape these conditions. US sanctions drastically limited Venezuela's oil exports to the United States, forcing Caracas to seek alternative buyers. Caracas has rejected all allegations and has argued that the United States is weaponising migration and drug enforcement narratives to justify regime change. Venezuela maintains that the intervention reflects geopolitical interests rather than genuine concern.",
+   "questions": [
+    {
+     "q": "Which state-owned oil firm did Washington target with comprehensive sanctions? (one word or acronym)",
+     "answer": "PDVSA",
+     "accept": ["Petroleos de Venezuela", "Petróleos de Venezuela", "Petroleos de Venezuela S.A.", "Petróleos de Venezuela, S.A."],
+     "explanation": "The booklet says US sanctions targeted PDVSA (Petroleos de Venezuela, S.A.) to cut off Maduro's oil revenue."
+    },
+    {
+     "q": "In which year were Venezuela's presidential elections widely criticised as unfair and non-transparent?",
+     "answer": "2018",
+     "accept": ["2018"],
+     "explanation": "The booklet identifies the 2018 presidential elections as widely criticised as unfair and non-transparent."
+    },
+    {
+     "q": "What is the name of Venezuela's currency? (one word)",
+     "answer": "Bolivar",
+     "accept": ["Bolívar", "Venezuelan Bolivar", "Venezuelan Bolívar"],
+     "explanation": "The booklet's country profile lists the Venezuelan Bolivar as the currency."
+    },
+    {
+     "q": "What term did the opposition-controlled National Assembly use to describe Maduro? (one word)",
+     "answer": "Usurper",
+     "accept": ["usurper"],
+     "explanation": "The booklet says the National Assembly rejected the election results and called Maduro a 'Usurper'."
+    },
+    {
+     "q": "In which year was Nicolas Maduro sworn in for his controversial second term?",
+     "answer": "2019",
+     "accept": ["January 2019"],
+     "explanation": "The booklet states Maduro was sworn in for a controversial second term in January 2019."
+    },
+    {
+     "q": "Who does the booklet list as Acting President of Venezuela? (full name)",
+     "answer": "Delcy Rodriguez",
+     "accept": ["Delcy Rodríguez", "Rodriguez", "Rodríguez"],
+     "explanation": "The booklet's country profile lists Delcy Rodriguez as President (Acting)."
+    },
+    {
+     "q": "Nearly how many million Venezuelans have fled the country since 2013? (number in millions)",
+     "answer": "8",
+     "accept": ["eight", "8 million"],
+     "explanation": "The booklet says nearly 8 million Venezuelans have fled since 2013, mainly to Latin American countries."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 5, "what": "Arguments-for/against table (Law of the Jungle, Unwilling or Unable doctrine, narco-terrorism as self-defence, Ker-Frisbie doctrine) is garbled; not used."},
+  {"page": 5, "what": "Label 'Former US President Donald Trump' conflicts with 'U.S. President Donald Trump' on page 7; not used."},
+  {"page": 6, "what": "Country profile spells the capital as 'Caracus' and the map labels are garbled; only Spanish, Bolivar and Delcy Rodriguez (Acting) from the box were used."},
+  {"page": 7, "what": "Column text on Neo-Monroeist approach and 'Neo-Royalism' personalised foreign policy is garbled; not used."},
+  {"page": 9, "what": "Reform section on monitoring cyber-attacks and economic/sanction actions (transparency heading) is garbled; not used."}
+ ]
+}

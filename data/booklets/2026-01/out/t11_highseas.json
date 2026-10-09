@@ -1,0 +1,291 @@
+{
+ "topic": {
+  "title": "UN High Seas Treaty Enters Into Force",
+  "chapter_title": "Environment and Biodiversity",
+  "subtopics": [
+   {
+    "title": "BBNJ Agreement: scope and objectives",
+    "summary": "The UN High Seas Treaty, also called the BBNJ Agreement, is a legally binding treaty for ocean spaces beyond national jurisdiction. It was negotiated under a UN-led intergovernmental conference and aims to safeguard biodiversity in these areas. It contributes to the Kunming-Montreal Global Biodiversity Framework, which targets 30% protection of land and sea by 2030.",
+    "facts": [
+     "Also called UN High Seas Treaty; adopted in 2023.",
+     "Legally binding international treaty governing ocean spaces beyond national jurisdiction.",
+     "Covers the high seas and the International Seabed Area.",
+     "These areas are global commons, open to all states for navigation, overflight, submarine cables and pipelines.",
+     "Third implementing agreement under UNCLOS, alongside the 1994 Part XI Agreement and the 1995 UN Fish Stocks Agreement.",
+     "Core objective: safeguard biodiversity in areas beyond national jurisdiction.",
+     "Contributes to the Kunming-Montreal Global Biodiversity Framework.",
+     "Four pillars: Marine Genetic Resources, Area-Based Management Tools, Environmental Impact Assessments, Capacity Building and Technology Transfer.",
+     "Conference of the Parties (COP) is the decision-making body.",
+     "Ratified by 83 countries; India has signed, ratification pending."
+    ],
+    "keywords": ["BBNJ", "High Seas Treaty", "global commons", "marine genetic resources", "Conference of the Parties"]
+   },
+   {
+    "title": "UNCLOS and maritime zones",
+    "summary": "The 1982 UN Convention on the Law of the Sea (UNCLOS) sets the legal framework for all activities in the oceans and seas and is called the constitution for the oceans. It divides ocean space into zones with different levels of state control, from full sovereignty in the territorial sea to free navigation on the high seas. It also created three international institutions.",
+    "facts": [
+     "UNCLOS (1982) is also called the constitution for the oceans.",
+     "It has 168 parties and sets out the legal framework for all activities in the oceans and seas.",
+     "The Convention created three new institutions at the international level.",
+     "International Tribunal for the Law of the Sea: independent judicial body for disputes on interpretation or application of the Convention.",
+     "International Seabed Authority: ensures protection of the marine environment from harmful effects of deep-seabed activities.",
+     "Commission on the Limits of the Continental Shelf: facilitates establishing outer limits of the continental shelf beyond 200 NM from baselines.",
+     "Territorial sea: the state has full sovereignty.",
+     "Exclusive Economic Zone: extends to 200 NM; the state has the right to exploit all economic resources.",
+     "High seas: free for navigation by vessels of all nations.",
+     "1 NM (nautical mile) = 1.852 km."
+    ],
+    "keywords": ["UNCLOS", "ITLOS", "International Seabed Authority", "CLCS", "Exclusive Economic Zone", "nautical mile"]
+   },
+   {
+    "title": "Fisheries sector in India and its schemes",
+    "summary": "India's fisheries sector contributes 7.43% to agriculture gross value added, the highest among agriculture and allied sectors. India ranks high globally as a producer, aquaculture producer and exporter. Government schemes such as Pradhan Mantri Matsya Sampada Yojana aim to modernise the sector and support fish farmers and micro and small enterprises.",
+    "facts": [
+     "Total fish output (2024-25): 197.75 lakh tonnes.",
+     "Fisheries contribute 7.43% to agriculture GVA, the highest among agriculture and allied sectors.",
+     "India is the 2nd largest producer (8% of world production) and 2nd largest aquaculture producer.",
+     "India is the 4th largest exporter; the United States is the largest importer of Indian seafood.",
+     "Pradhan Mantri Matsya Sampada Yojana was introduced in 2020 under the Atma Nirbhar Bharat Package.",
+     "Matsya Sampada investment: Rs 20,050 crore.",
+     "National Fisheries Development Board, established 2006, works under the Ministry of Fisheries, Animal Husbandry and Dairying.",
+     "PM Matsya Kisan Samridhi Sah-Yojana: sub-scheme for fisheries micro and small enterprises, investment Rs 6,000 crore.",
+     "Implementation period of the Sah-Yojana: 2023-24 to 2026-27.",
+     "India's first riverine dolphin estimation counted 6,327 dolphins across 28 rivers in 8 states."
+    ],
+    "keywords": ["fisheries", "aquaculture", "Matsya Sampada", "NFDB", "gross value added", "riverine dolphin"]
+   },
+   {
+    "title": "WTO Agreement on Fisheries Subsidies",
+    "summary": "The WTO Agreement on Fisheries Subsidies was adopted at the 12th Ministerial Conference in 2022 and entered into force in September 2025. It aims to set binding rules to curb harmful fisheries subsidies, especially those linked to illegal fishing. India did not join the agreement, citing the need to protect small fishers, livelihoods and food security.",
+    "facts": [
+     "Adopted at the 12th Ministerial Conference, 2022.",
+     "Entered into force in September 2025, after approval by two-thirds of members.",
+     "Objective: establish binding rules to curb harmful fisheries subsidies.",
+     "Prohibited: subsidies linked to Illegal, Unreported and Unregulated (IUU) fishing.",
+     "Prohibited: subsidies for fishing on overfished stocks.",
+     "Prohibited: support for fishing in unregulated high seas.",
+     "Members must submit fisheries-related data.",
+     "Supports SDG 14: conserve and sustainably use oceans, seas and marine resources.",
+     "India did not join, citing the need to protect small fishers, livelihoods and food security.",
+     "WTO Fish Fund provides aid to developing and LDC members for implementation."
+    ],
+    "keywords": ["WTO", "IUU fishing", "Fish Fund", "SDG 14", "overfished stocks", "Ministerial Conference"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "UN High Seas Treaty overview",
+   "root": {
+    "label": "BBNJ (UN High Seas Treaty)",
+    "children": [
+     {"label": "Scope", "children": [{"label": "High seas"}, {"label": "International Seabed Area"}]},
+     {"label": "Status", "children": [{"label": "Legally binding"}, {"label": "Adopted 2023"}, {"label": "83 countries ratified"}]},
+     {"label": "Objective", "children": [{"label": "Safeguard high seas biodiversity"}, {"label": "30% land and sea protection by 2030"}]},
+     {"label": "Four pillars", "children": [{"label": "Marine genetic resources"}, {"label": "Area-based management tools"}, {"label": "Environmental impact assessments"}, {"label": "Capacity building and technology transfer"}]},
+     {"label": "Governance", "children": [{"label": "Conference of the Parties (COP)"}, {"label": "Implementing agreement under UNCLOS"}]},
+     {"label": "India", "children": [{"label": "Signed"}, {"label": "Ratification pending"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "BBNJ Agreement features",
+   "root": {
+    "label": "BBNJ Agreement",
+    "children": [
+     {"label": "Scope", "children": [{"label": "High seas"}, {"label": "International Seabed Area"}]},
+     {"label": "Objectives", "children": [{"label": "Safeguard biodiversity"}, {"label": "Supports Kunming-Montreal framework"}]},
+     {"label": "Governance", "children": [{"label": "COP is decision-making body"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "UNCLOS institutions and zones",
+   "root": {
+    "label": "UNCLOS (1982)",
+    "children": [
+     {"label": "Institutions", "children": [{"label": "ITLOS"}, {"label": "International Seabed Authority"}, {"label": "CLCS"}]},
+     {"label": "Zones", "children": [{"label": "Territorial sea: full sovereignty"}, {"label": "EEZ: up to 200 NM"}, {"label": "High seas: free navigation"}]},
+     {"label": "Facts", "children": [{"label": "168 parties"}, {"label": "1 NM = 1.852 km"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Fisheries sector in India",
+   "root": {
+    "label": "Fisheries in India",
+    "children": [
+     {"label": "Output and rank", "children": [{"label": "197.75 lakh tonnes (2024-25)"}, {"label": "7.43% of agriculture GVA"}, {"label": "2nd largest producer"}]},
+     {"label": "Schemes", "children": [{"label": "PM Matsya Sampada Yojana (2020)"}, {"label": "PM Matsya Kisan Samridhi Sah-Yojana"}]},
+     {"label": "Trade", "children": [{"label": "4th largest exporter"}, {"label": "US largest importer"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "WTO fisheries subsidies",
+   "root": {
+    "label": "WTO Fisheries Subsidies Agreement",
+    "children": [
+     {"label": "Status", "children": [{"label": "Adopted 2022"}, {"label": "In force September 2025"}]},
+     {"label": "Prohibited", "children": [{"label": "Linked to IUU fishing"}, {"label": "Overfished stocks"}, {"label": "Unregulated high seas"}]},
+     {"label": "India", "children": [{"label": "Did not join"}, {"label": "Protect small fishers"}]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Four BBNJ pillars",
+   "mnemonic": "Many Apples Enrich Crops",
+   "decode": [
+    {"key": "M", "meaning": "Marine Genetic Resources"},
+    {"key": "A", "meaning": "Area-Based Management Tools"},
+    {"key": "E", "meaning": "Environmental Impact Assessments"},
+    {"key": "C", "meaning": "Capacity Building and Technology Transfer"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "UNCLOS bodies",
+   "mnemonic": "Tigers Seek Cover",
+   "decode": [
+    {"key": "T", "meaning": "International Tribunal for the Law of the Sea (ITLOS)"},
+    {"key": "S", "meaning": "International Seabed Authority (ISA)"},
+    {"key": "C", "meaning": "Commission on the Limits of the Continental Shelf (CLCS)"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "BBNJ and the law of the seas",
+   "passage": "The world's oceans are divided into zones with very different legal status. Near a coast, a state has full sovereignty over its territorial sea, and its exclusive economic zone gives it the right to exploit economic resources. Further out lie spaces that belong to no single country. These spaces, known as areas beyond national jurisdiction, cover the high seas and the international seabed area. They are described as global commons and are open to all states for activities such as navigation, overflight and the laying of submarine cables and pipelines. Taken together, these areas make up a large share of the world's ocean surface, so their governance is a serious concern. The main legal framework for all ocean activities is the 1982 United Nations Convention on the Law of the Sea, often called the constitution for the oceans. Within that framework, a newer treaty was negotiated to protect biodiversity in areas beyond national jurisdiction. Its negotiations took place under a United Nations conference devoted to marine biodiversity in these areas. The new treaty is significant because it is the first global legal framework of its kind for protecting ocean biodiversity beyond national jurisdiction. It sits alongside the 1994 agreement on deep seabed mining and the 1995 UN Fish Stocks Agreement as part of the Convention's framework. Its goals also support wider global commitments on nature conservation, so it is closely tied to international biodiversity efforts.",
+   "questions": [
+    {
+     "q": "How many countries have ratified the BBNJ Agreement?",
+     "options": ["63", "73", "83", "93"],
+     "answer": 2,
+     "explanation": "The text states that the BBNJ Agreement has been ratified by 83 countries."
+    },
+    {
+     "q": "What is India's status regarding the BBNJ Agreement?",
+     "options": ["Ratified", "Signed, ratification pending", "Not signed", "Rejected"],
+     "answer": 1,
+     "explanation": "The text says India has signed the agreement and its ratification is pending."
+    },
+    {
+     "q": "Assertion (A): Coastal states have full sovereignty over the high seas.\nReason (R): The high seas are free for navigation by vessels of all nations.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 3,
+     "explanation": "Full sovereignty applies to the territorial sea, while the high seas are free for navigation by vessels of all nations."
+    },
+    {
+     "q": "Match List I with List II:\nI. BBNJ Agreement adopted   ->   A. 4\nII. Countries that have ratified BBNJ   ->   B. 30%\nIII. Land and sea protection target by 2030   ->   C. 2023\nIV. Number of pillars of BBNJ   ->   D. 83",
+     "options": ["I-C, II-D, III-B, IV-A", "I-A, II-B, III-C, IV-D", "I-B, II-C, III-D, IV-A", "I-D, II-A, III-B, IV-C"],
+     "answer": 0,
+     "explanation": "The BBNJ Agreement was adopted in 2023, has 83 ratifications, targets 30% protection by 2030 and has four pillars."
+    },
+    {
+     "q": "Consider the following statements about the BBNJ Agreement:\nI. It was adopted in 2023.\nII. India has ratified it.\nIII. The Conference of the Parties is its decision-making body.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statement I and statement III are correct, while India has only signed the agreement with ratification pending."
+    },
+    {
+     "q": "How many of the following statements about the BBNJ Agreement are correct?\nI. It was adopted in 2023.\nII. It has been ratified by 83 countries.\nIII. It has five pillars.\nIV. India has ratified it.",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statements I and II are correct, since the agreement has four pillars and India's ratification is still pending."
+    },
+    {
+     "q": "Which of the following is NOT one of the four pillars of the BBNJ Agreement?",
+     "options": ["Marine Genetic Resources", "Environmental Impact Assessments", "Capacity Building and Technology Transfer", "Climate Change Mitigation"],
+     "answer": 3,
+     "explanation": "The four pillars are marine genetic resources, area-based management tools, environmental impact assessments, and capacity building and technology transfer."
+    },
+    {
+     "q": "Which target is mentioned for the Kunming-Montreal Global Biodiversity Framework that the BBNJ Agreement supports?",
+     "options": ["30% of land and sea by 2030", "20% of land and sea by 2025", "40% of land and sea by 2035", "50% of land and sea by 2040"],
+     "answer": 0,
+     "explanation": "The text states the Kunming-Montreal framework targets 30% protection of land and sea by 2030."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "UNCLOS and ocean zones",
+   "passage": "The law of the sea rests on a simple idea: the closer a space lies to the coast, the greater a state's control over it. A state has full sovereignty over its territorial sea. Beyond that lies a zone in which the state holds the right to exploit the living and non-living resources of the water and the seabed. Further still lie the high seas, where vessels of every nation may sail freely. The 1982 Convention on the Law of the Sea sets out the legal framework within which all activities in the oceans and seas must be carried out. It is often described as a constitution for the oceans. The Convention also created new institutions at the international level. One of these is a judicial body that settles disputes about how the Convention is interpreted. Another protects the marine environment from harmful effects of deep-seabed activities. A further body facilitates the establishment of the outer edge of the continental shelf. Continental shelf rights can extend beyond the basic zone limits, which makes the outer edge of the shelf a matter of legal importance. The Convention provides a process for determining that edge, and the bodies it created apply its rules in practice. The Convention is also supported by implementing agreements on particular issues, such as deep seabed mining and the management of fish stocks. Taken together, these rules form many layers of law that govern the oceans, and all users of the seas rely on this shared framework.",
+   "questions": [
+    {
+     "q": "How many parties does the 1982 UN Convention on the Law of the Sea have? (in number)",
+     "answer": "168",
+     "accept": ["168 parties", "one hundred sixty-eight"],
+     "explanation": "The text states that UNCLOS has 168 parties."
+    },
+    {
+     "q": "How many new institutions did UNCLOS create at the international level? (in number)",
+     "answer": "3",
+     "accept": ["three"],
+     "explanation": "The text says the Convention created three new institutions at the international level."
+    },
+    {
+     "q": "What is the breadth of the Exclusive Economic Zone? (in nautical miles)",
+     "answer": "200",
+     "accept": ["200 NM", "200 nautical miles"],
+     "explanation": "The text gives the Exclusive Economic Zone as 200 NM."
+    },
+    {
+     "q": "Which independent judicial body under UNCLOS handles disputes over the Convention's interpretation? (name the body)",
+     "answer": "International Tribunal for the Law of the Sea",
+     "accept": ["ITLOS", "Tribunal for the Law of the Sea"],
+     "explanation": "The International Tribunal for the Law of the Sea is an independent judicial body with jurisdiction over such disputes."
+    },
+    {
+     "q": "Which body ensures protection of the marine environment from harmful effects of deep-seabed activities? (name the body)",
+     "answer": "International Seabed Authority",
+     "accept": ["ISA", "Seabed Authority"],
+     "explanation": "The International Seabed Authority has the mandate to protect the marine environment from harmful effects of deep-seabed activities."
+    },
+    {
+     "q": "How many kilometres is one nautical mile? (in km)",
+     "answer": "1.852",
+     "accept": ["1.852 km", "1.852 kilometres"],
+     "explanation": "The text defines 1 nautical mile as 1.852 km."
+    },
+    {
+     "q": "Which commission facilitates establishing the outer limits of the continental shelf beyond 200 nautical miles from the baselines? (name the body)",
+     "answer": "Commission on the Limits of the Continental Shelf",
+     "accept": ["CLCS"],
+     "explanation": "The text says this commission facilitates establishing continental shelf limits beyond 200 NM from the baselines."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 65, "what": "Share of world ocean surface given as 'over 2.3\"' is garbled (likely two-thirds); not used."},
+  {"page": 65, "what": "'200 NM (320 km)': 320 km conflicts with 1 NM = 1.852 km (200 NM is about 370 km); the km figure is not used."},
+  {"page": 65, "what": "'24NM' label sits among the zone labels and its zone is unclear; not used."},
+  {"page": 66, "what": "'64 Pillars' heading is OCR-garbled; the four pillars were taken from the clear list."},
+  {"page": 66, "what": "Fisheries line 'Lin Shrimp Production | 3rd in Capture Fisheries' is unreadable; not used."},
+  {"page": 68, "what": "Peace Clause box: the 2013 / Bali Agreement attribution is ambiguous next to the Gangetic Dolphin text; not used."}
+ ]
+}

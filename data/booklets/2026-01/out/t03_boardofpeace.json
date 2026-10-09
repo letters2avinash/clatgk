@@ -1,0 +1,358 @@
+{
+ "topic": {
+  "title": "Board of Peace for Gaza",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "Charter, Mandate and Leadership",
+    "summary": "The US is constituting a Board of Peace, a US-led inter-governmental body established under UN Security Council Resolution 2803 (2025) and linked to the 20-point Gaza peace plan. Its charter has 13 Articles, and its chair is the US President. The Board's mandate covers supervising Gaza's civil and security bodies, mobilising assistance and ensuring accountability during Gaza's transition.",
+    "facts": [
+     "Type: US-led inter-governmental body",
+     "Established under UN Security Council Resolution 2803 (2025)",
+     "Charter contains 13 Articles on membership, financial contributions and dispute redressal",
+     "Mandate: supervise and guide NCAG (civil administration) and ISF (security)",
+     "Mandate: mobilise international financial and technical assistance",
+     "Mandate: ensure transparency, coordination and accountability during transition",
+     "Chair: US President Donald Trump, who also serves separately as Inaugural Representative of the US",
+     "Chair can be removed only if he resigns voluntarily or is unanimously declared incapable by the Executive Board",
+     "Executive Board includes former UK PM Tony Blair, US Secretary of State Marco Rubio, World Bank President Ajay Banga and Jared Kushner",
+     "US announced the Board meets with 19 countries; India is absent from this high-level initiative"
+    ],
+    "keywords": ["Board of Peace", "UNSC Resolution 2803", "Charter", "Chairman", "Executive Board", "Gaza transition"]
+   },
+   {
+    "title": "Membership and Gaza Governance Bodies",
+    "summary": "Membership of the Board requires a country to consent to be bound by its charter, and it is offered on a rotational or a permanent basis. Gaza's civil administration is handled by the National Committee for the Administration of Gaza (NCAG), with Nickolay Mladenov as High Representative linking the Board and the NCAG on the ground. The Gaza Executive Board is a supporting operational body that coordinates on-the-ground activities.",
+    "facts": [
+     "Membership requires a country to consent to be bound by the Charter",
+     "Rotational membership: 3-year tenure without mandatory financial contribution",
+     "Permanent membership: available through a reported contribution of USD 1 billion",
+     "Initial authorisation of the Board lasts until 31 December 2027",
+     "High Representative for Gaza: Bulgarian diplomat Nickolay Mladenov, on-the-ground liaison between Board and NCAG",
+     "NCAG: 15-member committee of politically independent Palestinian technocrats",
+     "NCAG is chaired by Ali Shaath, a former Palestinian Authority Deputy Minister",
+     "NCAG is responsible for day-to-day civil administration",
+     "Gaza Executive Board: supporting operational body that coordinates on-the-ground activities",
+     "Gaza Executive Board members: US, UK, Turkey, Qatar, Egypt, UAE, Cyprus and Netherlands; no Palestinian representative"
+    ],
+    "keywords": ["Membership", "Rotational", "Permanent membership", "NCAG", "High Representative", "Gaza Executive Board"]
+   },
+   {
+    "title": "Key Features of the US 20-point Gaza Plan",
+    "summary": "The US plan, officially titled the Comprehensive Plan to End the Gaza Conflict, envisions a demilitarised Gaza with an immediate ceasefire and the release of all hostages. It pairs security arrangements, including the International Stabilization Force (ISF), with humanitarian aid and reconstruction through a special economic zone. The plan excludes Hamas from governance while offering amnesty to members who decommission their weapons.",
+    "facts": [
+     "Gaza is envisioned as a demilitarised, terror-free zone",
+     "An immediate ceasefire is mandated, halting military actions by both sides",
+     "All hostages, alive or deceased, must be released within 72 hours of Israel's formal acceptance",
+     "Israel frees 250 Palestinian life-sentence prisoners and 1,700 detainees",
+     "Hamas members who decommission weapons get amnesty or safe passage abroad",
+     "Full humanitarian aid enters immediately; Rafah crossing reopens under agreement",
+     "Special economic zone with favourable trade terms, supported by international investment",
+     "No forced displacement: people are free to stay, leave or return",
+     "Hamas is excluded from governance; ISF deployed to secure Gaza and train police",
+     "Interfaith dialogue platform created to promote religious harmony"
+    ],
+    "keywords": ["20-point plan", "ceasefire", "hostages", "ISF", "special economic zone", "Hamas"]
+   },
+   {
+    "title": "UN Reform and the Board's Significance",
+    "summary": "Reform of the UN system is treated as urgent because ad hoc peacebuilding missions end once crises subside and UN Security Council reform is deadlocked. The booklet presents the Board as an incremental innovation within existing structures, using the General Assembly's power under Article 22 of the UN Charter. The Board is also described as a move from universal multilateral institutions towards leader-centric mini-lateral mechanisms.",
+    "facts": [
+     "UN peacebuilding missions often end once immediate crises subside",
+     "Prolonged deadlock over comprehensive UNSC reform has paralysed timely action",
+     "Under Article 22 of the UN Charter, the General Assembly can establish subsidiary bodies without Charter amendment",
+     "Board of Peace is presented as reform from within, not replacement of the UNSC",
+     "Board aims to institutionalise long-term political engagement and prevent relapse into conflict",
+     "Represents a move from universal multilateral institutions to mini-lateral, leader-centric mechanisms",
+     "Emphasises political authority, resource mobilisation and rapid decision-making over consensus-based diplomacy",
+     "Projected as a template for managing complex global conflicts",
+     "Signals evolving US thinking on conflict resolution and post-war governance"
+    ],
+    "keywords": ["UN reform", "Article 22", "UNSC reform", "mini-lateral", "template", "consensus"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Board of Peace at a glance",
+   "root": {
+    "label": "Board of Peace for Gaza",
+    "children": [
+     {"label": "Nature and legal basis", "children": [
+       {"label": "US-led inter-governmental body"},
+       {"label": "Established under UNSC Resolution 2803 (2025)"},
+       {"label": "Charter with 13 Articles"}]},
+     {"label": "Mandate", "children": [
+       {"label": "Supervise and guide NCAG and ISF"},
+       {"label": "Mobilise international financial and technical aid"},
+       {"label": "Ensure transparency and accountability"}]},
+     {"label": "Leadership", "children": [
+       {"label": "Chair: US President Donald Trump"},
+       {"label": "Executive Board: Blair, Rubio, Banga, Kushner"},
+       {"label": "High Representative: Nickolay Mladenov"}]},
+     {"label": "Membership", "children": [
+       {"label": "Consent to be bound by Charter"},
+       {"label": "Rotational: 3 years, no mandatory contribution"},
+       {"label": "Permanent: reported USD 1 billion"}]},
+     {"label": "Gaza governance bodies", "children": [
+       {"label": "NCAG: civil administration"},
+       {"label": "ISF: security and stabilisation"},
+       {"label": "Gaza Executive Board: on-the-ground coordination"}]},
+     {"label": "Significance", "children": [
+       {"label": "Template for complex global conflicts"},
+       {"label": "Leader-centric, not consensus-based"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Charter, mandate and leadership",
+   "root": {
+    "label": "Board structure and charter",
+    "children": [
+     {"label": "Charter", "children": [
+       {"label": "13 Articles"},
+       {"label": "Membership rules"},
+       {"label": "Financial contributions and dispute redressal"}]},
+     {"label": "Chair", "children": [
+       {"label": "US President Donald Trump"},
+       {"label": "Also Inaugural Representative of US"},
+       {"label": "Removal: resignation or unanimous incapacity finding"}]},
+     {"label": "Executive Board", "children": [
+       {"label": "Select global leaders"},
+       {"label": "Blair, Rubio, Banga, Kushner"}]},
+     {"label": "Authority", "children": [
+       {"label": "Established under UNSC Resolution 2803 (2025)"},
+       {"label": "US-led inter-governmental body"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Membership and Gaza bodies",
+   "root": {
+    "label": "Membership and Gaza bodies",
+    "children": [
+     {"label": "Membership", "children": [
+       {"label": "Consent to be bound by Charter"},
+       {"label": "Rotational: 3-year tenure"},
+       {"label": "Permanent: reported USD 1 billion"}]},
+     {"label": "Initial authorisation", "children": [
+       {"label": "Lasts until 31 December 2027"}]},
+     {"label": "High Representative", "children": [
+       {"label": "Nickolay Mladenov, Bulgarian diplomat"},
+       {"label": "On-the-ground liaison: Board and NCAG"}]},
+     {"label": "NCAG", "children": [
+       {"label": "15 politically independent technocrats"},
+       {"label": "Chaired by Ali Shaath"},
+       {"label": "Day-to-day civil administration"}]},
+     {"label": "Gaza Executive Board", "children": [
+       {"label": "Supporting operational body"},
+       {"label": "8 countries, no Palestinian representative"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "US 20-point Gaza plan",
+   "root": {
+    "label": "US 20-point Gaza plan",
+    "children": [
+     {"label": "Security", "children": [
+       {"label": "Demilitarised, terror-free zone"},
+       {"label": "Hamas excluded from governance"},
+       {"label": "ISF secures Gaza and trains police"}]},
+     {"label": "Ceasefire and hostages", "children": [
+       {"label": "Immediate ceasefire"},
+       {"label": "Hostages returned within 72 hours"},
+       {"label": "Israel frees 250 life-sentence prisoners"}]},
+     {"label": "Aid and reconstruction", "children": [
+       {"label": "Full humanitarian aid"},
+       {"label": "Rafah crossing reopens"},
+       {"label": "Special economic zone"}]},
+     {"label": "Rights and governance", "children": [
+       {"label": "No forced displacement"},
+       {"label": "Amnesty for members who decommission weapons"},
+       {"label": "Interfaith dialogue platform"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "UN reform and significance",
+   "root": {
+    "label": "UN reform and Board significance",
+    "children": [
+     {"label": "Why reform is urgent", "children": [
+       {"label": "Ad hoc missions end when crises subside"},
+       {"label": "UNSC reform deadlock"},
+       {"label": "Fragmented peacebuilding"}]},
+     {"label": "Legal route", "children": [
+       {"label": "UN Charter Article 22"},
+       {"label": "General Assembly can set up subsidiary bodies"}]},
+     {"label": "Board's approach", "children": [
+       {"label": "Reform from within, not replacement"},
+       {"label": "Mini-lateral, leader-centric model"},
+       {"label": "Rapid decisions over consensus"}]},
+     {"label": "Template", "children": [
+       {"label": "Model for complex global conflicts"}]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Mandate of the Board",
+   "mnemonic": "Super Mentors Enable",
+   "decode": [
+    {"key": "S", "meaning": "Supervise and guide NCAG and ISF"},
+    {"key": "M", "meaning": "Mobilise international financial and technical assistance"},
+    {"key": "E", "meaning": "Ensure transparency, coordination and accountability"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Gaza bodies linked to the Board",
+   "mnemonic": "Happy Newborn Giraffes",
+   "decode": [
+    {"key": "H", "meaning": "High Representative Nickolay Mladenov links the Board and the NCAG"},
+    {"key": "N", "meaning": "NCAG, a 15-member committee for day-to-day civil administration"},
+    {"key": "G", "meaning": "Gaza Executive Board coordinates on-the-ground activities"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Five features of the plan",
+   "mnemonic": "Dogs Chase Hungry Iguanas Everywhere",
+   "decode": [
+    {"key": "D", "meaning": "Demilitarised, terror-free zone for Gaza"},
+    {"key": "C", "meaning": "Immediate ceasefire"},
+    {"key": "H", "meaning": "Hostages released within 72 hours of Israel's acceptance"},
+    {"key": "I", "meaning": "Interfaith dialogue platform"},
+    {"key": "E", "meaning": "Special economic zone"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Board of Peace: structure and purpose",
+   "passage": "The United States has begun the process of forming a new body called the Board of Peace, which is intended to play a part in the future of Gaza. The Board is described as an inter-governmental body led by the United States. It is envisioned as a new international body with a transitional governance role for Gaza after the current conflict. Its design combines elements of international oversight, political coordination and developmental administration. Its proposed mandate includes supervising and guiding the civil administration of Gaza and its security and stabilisation force, mobilising international financial and technical assistance, and ensuring transparency, coordination and accountability during Gaza's transition from conflict to reconstruction. The Board is governed by a charter, which sets out rules on membership, financial contributions and the settlement of disputes. A separate group of global leaders and international figures also supports the arrangement. The arrangement is closely tied to the 20-point peace plan proposed by the United States for ending the war in Gaza. Beyond Gaza, the Board is being presented as a possible template for managing complex global conflicts. Its approach marks a move away from traditional universal multilateral institutions. Such a move raises questions about how institutions like the United Nations should respond to fragmented peacebuilding efforts. Such initiatives are presented as working within existing structures rather than replacing them.",
+   "questions": [
+    {
+     "q": "Under which UN Security Council resolution was the Board of Peace established?",
+     "options": ["Resolution 184 (1947)", "Resolution 1373 (2001)", "Resolution 2803 (2025)", "Resolution 242 (1967)"],
+     "answer": 2,
+     "explanation": "The booklet states that the Board is established under UN Security Council Resolution 2803 (2025)."
+    },
+    {
+     "q": "How many Articles does the charter of the Board of Peace contain?",
+     "options": ["Seven", "13", "20", "Four"],
+     "answer": 1,
+     "explanation": "The booklet states that the charter contains 13 Articles covering membership, financial contributions and dispute redressal."
+    },
+    {
+     "q": "In which circumstance can the chairman of the Board of Peace be removed?",
+     "options": ["If the UN General Assembly votes to remove him", "If two-thirds of member countries request it", "If the US Congress approves it", "Only if he resigns voluntarily or is unanimously declared incapable by the Executive Board"],
+     "answer": 3,
+     "explanation": "The booklet says the chairman can be removed only if he resigns voluntarily or is unanimously declared incapable by the Executive Board."
+    },
+    {
+     "q": "Assertion (A): The Board of Peace is designed to take decisions quickly rather than wait for full consensus.\nReason (R): It gives priority to political authority, resource mobilisation and rapid decision-making over consensus-based diplomacy.",
+     "options": ["Both A and R are true and R explains A", "Both A and R are true but R does not explain A", "A is true but R is false", "A is false but R is true"],
+     "answer": 0,
+     "explanation": "Both statements are true, and the booklet attributes the Board's quick decision-making to its priority over consensus-based diplomacy."
+    },
+    {
+     "q": "Match List I with List II:\nI. High Representative for Gaza\nII. Chairman of the NCAG\nIII. Initial authorisation of the Board ends\nIV. Number of Articles in the charter\n\nList II\nA. Nickolay Mladenov\nB. Ali Shaath\nC. 31 December 2027\nD. 13 Articles",
+     "options": ["I-B, II-A, III-D, IV-C", "I-C, II-A, III-B, IV-D", "I-A, II-B, III-C, IV-D", "I-D, II-C, III-A, IV-B"],
+     "answer": 2,
+     "explanation": "Mladenov is High Representative, Ali Shaath chairs the NCAG, the initial authorisation lasts until 31 December 2027, and the charter has 13 Articles."
+    },
+    {
+     "q": "Consider the following statements about the Board of Peace:\nI. It is a US-led inter-governmental body established under a UN Security Council resolution.\nII. Its chairman is the US Secretary of State.\nIII. Its charter contains 13 Articles.\n\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "I and III only", "II and III only", "I, II and III"],
+     "answer": 1,
+     "explanation": "Statements I and III are correct, while the chairman is US President Donald Trump, not the Secretary of State."
+    },
+    {
+     "q": "Consider the following statements about the Gaza plan:\n1. All hostages, alive or deceased, must be released within 72 hours of Israel's acceptance of the plan.\n2. Hamas members who decommission weapons can receive amnesty or safe passage abroad.\n3. Israel is to occupy Gaza permanently under the plan.\n4. The plan proposes a special economic zone in Gaza.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "All four"],
+     "answer": 2,
+     "explanation": "Statements 1, 2 and 4 are correct, while statement 3 is wrong because the plan states that Israel won't occupy Gaza."
+    },
+    {
+     "q": "Consider the following statements:\n1. A country that joins the Board of Peace must consent to be bound by its charter.\n2. The Gaza Executive Board includes a Palestinian representative.\nWhich statement is correct?",
+     "options": ["Only statement 1 is correct", "Only statement 2 is correct", "Both statements are correct", "Neither statement is correct"],
+     "answer": 0,
+     "explanation": "Membership requires consent to be bound by the Charter, and the Gaza Executive Board includes no Palestinian representative."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Membership and Gaza governance bodies",
+   "passage": "Membership of the Board of Peace follows a set of rules. A country that joins must consent to be bound by the Board's charter, which makes the obligation binding rather than optional. Membership is offered in two forms, one based on rotation and one based on a reported contribution. Alongside the Board, Gaza is to be run through several linked bodies. A National Committee for the Administration of Gaza is responsible for day-to-day civil administration and is made up of Palestinian figures chosen for their political independence. A separate International Stabilization Force handles security and helps train police. A High Representative acts as the link between the Board and the Gaza committee on the ground. A Gaza Executive Board, described as a supporting operational body, coordinates activities on the ground. Each of these bodies has a specific job, and together they are designed to connect international oversight with administration on the ground. The arrangement is meant to support Gaza's transition from conflict to reconstruction. The Board is led from the top, with the United States playing a central role in its formation. The rules on the Board's membership and finances are set out in its charter, which covers dispute settlement as well. Its initial authorisation is time-limited.",
+   "questions": [
+    {
+     "q": "Which Bulgarian diplomat is named High Representative for Gaza? (full name)",
+     "answer": "Nickolay Mladenov",
+     "accept": ["Mladenov", "Nikolay Mladenov", "Nickolay Mladenov"],
+     "explanation": "The booklet names Bulgarian diplomat Nickolay Mladenov as High Representative for Gaza and on-the-ground liaison."
+    },
+    {
+     "q": "Who chairs the National Committee for the Administration of Gaza? (full name)",
+     "answer": "Ali Shaath",
+     "accept": ["Shaath", "Ali Shaat"],
+     "explanation": "The NCAG is chaired by Ali Shaath, a former Palestinian Authority Deputy Minister."
+    },
+    {
+     "q": "How many members does the National Committee for the Administration of Gaza have? (number)",
+     "answer": "15",
+     "accept": ["fifteen"],
+     "explanation": "The NCAG is described as a 15-member committee of politically independent Palestinian technocrats."
+    },
+    {
+     "q": "How many countries are listed as members of the Gaza Executive Board? (number)",
+     "answer": "8",
+     "accept": ["eight"],
+     "explanation": "The listed members are the US, UK, Turkey, Qatar, Egypt, UAE, Cyprus and Netherlands, which is eight countries."
+    },
+    {
+     "q": "What is the tenure of rotational membership of the Board of Peace, in years? (number)",
+     "answer": "3",
+     "accept": ["three", "3 years"],
+     "explanation": "Rotational membership has a 3-year tenure without mandatory financial contribution."
+    },
+    {
+     "q": "What reported contribution, in USD billion, gives a country permanent membership of the Board? (number)",
+     "answer": "1",
+     "accept": ["one", "USD 1 billion", "1 billion"],
+     "explanation": "Permanent membership is available through a reported contribution of USD 1 billion."
+    },
+    {
+     "q": "In which year does the Board's initial authorisation end? (year)",
+     "answer": "2027",
+     "accept": ["31 December 2027", "31 Dec 2027"],
+     "explanation": "The Board's initial authorisation lasts until 31 December 2027."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 17, "what": "Country-wise acceptance and decline lists overlap with other text and map labels; not used"},
+  {"page": 19, "what": "Plan points 17 to 19 overlap map labels and are partly unreadable; not used"},
+  {"page": 22, "what": "Timeline dates are garbled (for example '2043' for the US-led peace process and '2048-20'); not used"}
+ ]
+}
