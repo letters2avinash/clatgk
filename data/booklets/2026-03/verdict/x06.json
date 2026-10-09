@@ -1,0 +1,83 @@
+{
+ "quizzes": [
+  {
+   "id": "q-x06-54",
+   "questions": [
+    {"n": 1, "my_answer": 0, "supported": true, "evidence": {"page": 39, "quote": "In MR Balaji v State of Mysore (1963), Court ruled that Public Administration Efficiency is Critical & ordered Government"}, "issues": []},
+    {"n": 2, "my_answer": 2, "supported": true, "evidence": {"page": 39, "quote": "other than Scheduled Castes and Scheduled Tribes at National Level."}, "issues": []},
+    {"n": 3, "my_answer": 2, "supported": true, "evidence": {"page": 39, "quote": "British Raj introduced elements of Reservation in Government of India Act 1909 by giving"}, "issues": []},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 39, "quote": "Government of India Act of 1935 extended Communal Representation by giving Separate Electorates to Depressed Classes,"}, "issues": []},
+    {"n": 5, "my_answer": 0, "supported": true, "evidence": {"page": 39, "quote": "abandoned Separate Electorates for Depressed Classes."}, "issues": []},
+    {"n": 6, "my_answer": 3, "supported": true, "evidence": {"page": 39, "quote": "proposed by “William Hunter” and “Jyotirao Phule” in 1882."}, "issues": []},
+    {"n": 7, "my_answer": 3, "supported": true, "evidence": {"page": 39, "quote": "added Article 15(4) in Constitution to legalize Caste"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x06-55",
+   "questions": [
+    {"n": 1, "my_answer": "1909", "supported": true, "evidence": {"page": 39, "quote": "British Raj introduced elements of Reservation in Government of India Act 1909 by giving"}, "issues": []},
+    {"n": 2, "my_answer": "Poona Pact", "supported": true, "evidence": {"page": 39, "quote": "abandoned Separate Electorates for Depressed Classes."}, "issues": []},
+    {"n": 3, "my_answer": "1932", "supported": true, "evidence": {"page": 39, "quote": "provided for Separate Electorates for Depressed Classes in 1932."}, "issues": []},
+    {"n": 4, "my_answer": "Kalelkar Commission", "supported": true, "evidence": {"page": 39, "quote": "Kalelkar Commission 1953"}, "issues": []},
+    {"n": 5, "my_answer": "1963", "supported": true, "evidence": {"page": 39, "quote": "In MR Balaji v State of Mysore (1963), Court ruled that Public Administration Efficiency is Critical & ordered Government"}, "issues": []},
+    {"n": 6, "my_answer": "1935", "supported": true, "evidence": {"page": 39, "quote": "Government of India Act of 1935 extended Communal Representation by giving Separate Electorates to Depressed Classes,"}, "issues": []},
+    {"n": 7, "my_answer": "4", "supported": true, "evidence": {"page": 39, "quote": "added Article 15(4) in Constitution to legalize Caste"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "q-x06-56",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 40, "quote": "Commission for Economically Backward Classes was constituted in 2005 and submitted its report in July 2010."}, "issues": []},
+    {"n": 2, "my_answer": 1, "supported": true, "evidence": {"page": 40, "quote": "Prove its Inadequate Representation in Public Employment."}, "issues": []},
+    {"n": 3, "my_answer": 3, "supported": true, "evidence": {"page": 40, "quote": "Reservation in Promotions does Not require State to Collect Quantifiable Data on Backwardness of the SCs and the STs."}, "issues": []},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 40, "quote": "of Reservation of Seats for Women in Parliament"}, "issues": []},
+    {"n": 5, "my_answer": 2, "supported": true, "evidence": {"page": 40, "quote": "Reservation to Economically Weaker Sections (EWS) through"}, "issues": []},
+    {"n": 6, "my_answer": 0, "supported": true, "evidence": {"page": 40, "quote": "Janhit Abhiyan v Union of India (2022): Supreme Court upheld"}, "issues": []},
+    {"n": 7, "my_answer": 0, "supported": true, "evidence": {"page": 40, "quote": "Reservation shall cease to exist after 15 years from date of implementation."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x06-57",
+   "questions": [
+    {"n": 1, "my_answer": "2023", "supported": true, "evidence": {"page": 40, "quote": "Constitutional Amendment Act 2023 introduced in Parliament"}, "issues": ["ambiguous"]},
+    {"n": 2, "my_answer": "2019", "supported": true, "evidence": {"page": 40, "quote": "Constitutional Amendment 2019."}, "issues": []},
+    {"n": 3, "my_answer": "15", "supported": true, "evidence": {"page": 40, "quote": "Reservation shall cease to exist after 15 years from date of implementation."}, "issues": []},
+    {"n": 4, "my_answer": "2010", "supported": true, "evidence": {"page": 40, "quote": "Commission for Economically Backward Classes was constituted in 2005 and submitted its report in July 2010."}, "issues": []},
+    {"n": 5, "my_answer": "2005", "supported": true, "evidence": {"page": 40, "quote": "Commission for Economically Backward Classes was constituted in 2005 and submitted its report in July 2010."}, "issues": []},
+    {"n": 6, "my_answer": "Rohini", "supported": true, "evidence": {"page": 40, "quote": "Sub Categorisation within Caste, Justice G Rohini Commission"}, "issues": ["other: passage does not cover sub-categorisation; answer comes only from the Skill-Up box"]},
+    {"n": 7, "my_answer": "2022", "supported": true, "evidence": {"page": 40, "quote": "Janhit Abhiyan v Union of India (2022): Supreme Court upheld"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "q-x06-58",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 41, "quote": "Set up in 1993 by an Act of Parliament."}, "issues": []},
+    {"n": 2, "my_answer": 1, "supported": true, "evidence": {"page": 41, "quote": "Provided constitutional status to the NCBC."}, "issues": []},
+    {"n": 3, "my_answer": 1, "supported": true, "evidence": {"page": 41, "quote": "Conditions of service and tenure of office determined by President."}, "issues": []},
+    {"n": 4, "my_answer": 3, "supported": true, "evidence": {"page": 41, "quote": "Empowered President to specify socially and educationally backward classes in states & UTs."}, "issues": []},
+    {"n": 5, "my_answer": 0, "supported": true, "evidence": {"page": 41, "quote": "Authorized NCBC to investigate complaints and welfare for backward classes."}, "issues": []},
+    {"n": 6, "my_answer": 0, "supported": true, "evidence": {"page": 41, "quote": "Appointed by the President by warrant under his hand and seal."}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 41, "quote": "2018 gave constitutional status to the NCBC."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x06-59",
+   "questions": [
+    {"n": 1, "my_answer": "1993", "supported": true, "evidence": {"page": 41, "quote": "Set up in 1993 by an Act of Parliament."}, "issues": []},
+    {"n": 2, "my_answer": "Mandal", "supported": true, "evidence": {"page": 39, "quote": "under chairmanship of BP Mandal, in"}, "issues": []},
+    {"n": 3, "my_answer": "2018", "supported": true, "evidence": {"page": 41, "quote": "2018 gave constitutional status to the NCBC."}, "issues": []},
+    {"n": 4, "my_answer": "342A", "supported": true, "evidence": {"page": 41, "quote": "Empowered President to specify socially and educationally backward classes in states & UTs."}, "issues": []},
+    {"n": 5, "my_answer": "1953", "supported": true, "evidence": {"page": 39, "quote": "Kalelkar Commission 1953"}, "issues": []},
+    {"n": 6, "my_answer": "103", "supported": true, "evidence": {"page": 40, "quote": "Constitutional Amendment 2019."}, "issues": []},
+    {"n": 7, "my_answer": "1951", "supported": true, "evidence": {"page": 39, "quote": "1951: 1\" Constitutional Amendment added Article 15(4)"}, "issues": []}
+   ],
+   "passage_flags": []
+  }
+ ],
+ "fact_flags": []
+}
