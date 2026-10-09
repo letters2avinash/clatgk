@@ -1,0 +1,365 @@
+{
+ "topic": {
+  "title": "India's Forex Stress and Call for Economic Austerity",
+  "chapter_title": "Economics",
+  "subtopics": [
+   {
+    "title": "Forex Reserves: Decline and Role",
+    "summary": "India's forex reserves fell by nearly USD 38 billion within two months, reaching around USD 691 billion by May 2026. The reserves are external assets held by the RBI and act as a buffer against external shocks. They strengthen when inflows exceed outflows and weaken when outflows rise.",
+    "facts": [
+     "Reserves declined by nearly USD 38 billion within two months, to about USD 691 billion by May 2026",
+     "Three triggers cited: volatile oil prices, record-breaking gold imports, RBI intervention to defend the rupee",
+     "Forex reserves are external assets maintained by the Reserve Bank of India",
+     "Components: foreign currency assets, gold reserves, Special Drawing Rights, reserve position with the IMF",
+     "Inflows exceeding outflows strengthen reserves and support rupee stability",
+     "Rising outflows or falling foreign investment can reduce reserves and depreciate the rupee",
+     "Reserves ensure uninterrupted access to crude oil, fertilisers and industrial machinery",
+     "Reserves act as a shield against global instability and sudden capital outflows",
+     "Lower reserves mean a reduced buffer and higher sensitivity to global capital flows"
+    ],
+    "keywords": ["forex reserves", "RBI", "BoP", "rupee stability", "external buffer"]
+   },
+   {
+    "title": "Import Pressures: Oil, Gold and Fertiliser",
+    "summary": "India's current account deficit is widened by heavy reliance on imported crude oil, record gold purchases and costly fertiliser inputs. Each of these imports draws on dollar reserves and adds pressure on the rupee. The booklet links this to a persistent CAD and imported inflation.",
+    "facts": [
+     "India imports around 89% of its crude oil requirement",
+     "Every USD 1 rise in oil price adds USD 1.5 to 2 billion to the import bill",
+     "India is the 2nd largest gold consumer globally, after China",
+     "Gold accounts for nearly USD 72 billion, about 9% of total imports",
+     "Household gold imports do not add to productive capacity and directly worsen the CAD",
+     "Imported inputs such as urea and ammonia prices have doubled",
+     "Oil marketing companies face under-recoveries because retail fuel prices are frozen",
+     "Rupee depreciation raises import costs, which push up domestic prices",
+     "Persistent CAD reflects inelastic import demand and dependence on external financing"
+    ],
+    "keywords": ["CAD", "crude oil", "gold imports", "fertiliser shock", "imported inflation"]
+   },
+   {
+    "title": "Why the Government Seeks Austerity",
+    "summary": "The Prime Minister has urged citizens to limit non-essential spending on gold, overseas travel and fuel. The aims are to manage the CAD, stabilise the rupee and contain capital flight. The approach shifts from supply-side diversification to demand-side restraint.",
+    "facts": [
+     "PM urged citizens to reduce non-essential spending on gold, overseas travel and fuel",
+     "Cutting non-essential imports helps conserve foreign exchange",
+     "Demand-side measures include work-from-home, carpooling and virtual meetings",
+     "Surging fertiliser prices push government to prioritise food security over discretionary fuel use",
+     "Austerity aims to curb capital flight and reduce forex outflows",
+     "Strategic autonomy: shift from supply-side diversification to demand-side restraint",
+     "Goal: reduce dependence on volatile regions and lower energy-to-GDP sensitivity",
+     "Aim: strengthen resilience against global shocks"
+    ],
+    "keywords": ["austerity", "demand-side restraint", "capital flight", "food security", "strategic autonomy"]
+   },
+   {
+    "title": "Costs of Excessive Forex Conservation",
+    "summary": "The booklet cautions that overly strict controls could stifle manufacturing, weaken exports and discourage foreign investment. Suppressing private consumption also threatens aggregate demand and job creation. Past import-substitution attempts are cited as a warning, since they led to low competitiveness.",
+    "facts": [
+     "Indian industry depends on imported capital goods, semiconductors and raw materials",
+     "Restricted imports lower industrial output and exports",
+     "Protectionism trap: import curbs raise input costs and reduce export competitiveness",
+     "Capital control concerns raise the country risk premium",
+     "Foreign direct and portfolio investment inflows could be dampened",
+     "Private consumption is a major GDP component; reducing it weakens growth",
+     "Foreign investors avoid economies lacking strong domestic demand",
+     "Past import-substitution efforts led to low industrial competitiveness and inefficiency",
+     "Lower production leads to significantly reduced job creation"
+    ],
+    "keywords": ["protectionism trap", "import substitution", "aggregate demand", "risk premium", "employment"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Forex Stress at a Glance",
+   "root": {
+    "label": "India's Forex Stress and Austerity Call",
+    "children": [
+     {"label": "Forex reserves decline", "children": [
+      {"label": "Down nearly USD 38 billion in two months"},
+      {"label": "About USD 691 billion by May 2026"}
+     ]},
+     {"label": "Pressure drivers", "children": [
+      {"label": "Volatile oil prices"},
+      {"label": "Record-breaking gold imports"},
+      {"label": "RBI intervention to defend rupee"}
+     ]},
+     {"label": "Import dependence", "children": [
+      {"label": "About 89% of crude oil imported"},
+      {"label": "2nd largest gold consumer globally"},
+      {"label": "Urea and ammonia prices doubled"}
+     ]},
+     {"label": "Government response", "children": [
+      {"label": "Limit gold, foreign travel and fuel spending"},
+      {"label": "Work from home, carpooling, virtual meetings"}
+     ]},
+     {"label": "Cost of over-restraint", "children": [
+      {"label": "Manufacturing and export squeeze"},
+      {"label": "Lower FDI and portfolio inflows"},
+      {"label": "Weaker private consumption and jobs"}
+     ]},
+     {"label": "Currency and inflation", "children": [
+      {"label": "Weak rupee raises import costs"},
+      {"label": "Imported inflation pressure"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Forex Reserves Map",
+   "root": {
+    "label": "Forex Reserves",
+    "children": [
+     {"label": "Components", "children": [
+      {"label": "Foreign currency assets"},
+      {"label": "Gold reserves"},
+      {"label": "Special Drawing Rights"},
+      {"label": "Reserve position with IMF"}
+     ]},
+     {"label": "Rise and fall", "children": [
+      {"label": "Inflows exceed outflows: reserves strengthen"},
+      {"label": "Outflows rise: reserves shrink, rupee weakens"}
+     ]},
+     {"label": "Role", "children": [
+      {"label": "Buffer against external shocks"},
+      {"label": "Shield against sudden capital outflows"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Import Pressure Map",
+   "root": {
+    "label": "Import Pressures",
+    "children": [
+     {"label": "Crude oil", "children": [
+      {"label": "About 89% of requirement imported"},
+      {"label": "USD 1 oil rise adds USD 1.5-2 bn"}
+     ]},
+     {"label": "Gold", "children": [
+      {"label": "2nd largest consumer after China"},
+      {"label": "About 9% of total imports"},
+      {"label": "Does not add to productive capacity"}
+     ]},
+     {"label": "Fertiliser", "children": [
+      {"label": "Urea and ammonia prices doubled"},
+      {"label": "Passing costs: inflation risk"},
+      {"label": "Absorbing costs: fiscal deficit risk"}
+     ]},
+     {"label": "Currency loop", "children": [
+      {"label": "Rupee depreciation raises import cost"},
+      {"label": "Higher import cost lifts domestic prices"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Austerity Rationale Map",
+   "root": {
+    "label": "Why Austerity",
+    "children": [
+     {"label": "Forex and rupee", "children": [
+      {"label": "Conserve forex via non-essential imports"},
+      {"label": "Manage CAD and rupee stability"}
+     ]},
+     {"label": "Capital flight", "children": [
+      {"label": "Curb capital flight"},
+      {"label": "Reduce forex outflows"}
+     ]},
+     {"label": "Energy and food", "children": [
+      {"label": "Fertiliser surge forces policy shift"},
+      {"label": "Food security over discretionary fuel"}
+     ]},
+     {"label": "Strategic shift", "children": [
+      {"label": "Demand-side restraint over supply-side diversification"},
+      {"label": "Lower energy-to-GDP sensitivity"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Growth Cost Map",
+   "root": {
+    "label": "Costs of Forex Conservation",
+    "children": [
+     {"label": "Industry", "children": [
+      {"label": "Imported capital goods and semiconductors"},
+      {"label": "Restricted imports lower output"},
+      {"label": "Protectionism trap raises input costs"}
+     ]},
+     {"label": "Investment", "children": [
+      {"label": "Higher country risk premium"},
+      {"label": "Lower FDI and portfolio inflows"}
+     ]},
+     {"label": "Demand and jobs", "children": [
+      {"label": "Private consumption is major GDP component"},
+      {"label": "Lower production cuts job creation"}
+     ]},
+     {"label": "Past lesson", "children": [
+      {"label": "Import substitution led to low competitiveness"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Reserve drain drivers",
+   "mnemonic": "Oil Gold Rush (OGR): the three triggers that drained reserves",
+   "decode": [
+    {"key": "O", "meaning": "Volatile oil prices"},
+    {"key": "G", "meaning": "Record-breaking gold imports"},
+    {"key": "R", "meaning": "RBI market intervention to defend the weakening rupee"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Reserve components",
+   "mnemonic": "Forex Gold Stays Reserved",
+   "decode": [
+    {"key": "F", "meaning": "Foreign currency assets"},
+    {"key": "G", "meaning": "Gold reserves"},
+    {"key": "S", "meaning": "Special Drawing Rights"},
+    {"key": "R", "meaning": "Reserve position with the IMF"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Costs of over-restraint",
+   "mnemonic": "Most People Ignore Dull Economics",
+   "decode": [
+    {"key": "M", "meaning": "Manufacturing: restricted imports lower industrial output"},
+    {"key": "P", "meaning": "Protectionism trap: import curbs raise input costs"},
+    {"key": "I", "meaning": "Investment: FDI and portfolio inflows may be dampened"},
+    {"key": "D", "meaning": "Demand: private consumption is a major GDP component"},
+    {"key": "E", "meaning": "Employment: lower production reduces job creation"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Reserves Under Pressure",
+   "passage": "India's foreign exchange reserves have come under visible pressure in recent months, and this has raised concern about the country's external position. The reserves are external assets held by the Reserve Bank of India, and they act as a buffer when the economy faces outside shocks. They also help the country pay for essential goods such as crude oil and fertilisers. When inflows of foreign currency exceed outflows, the balance of payments strengthens the reserves and supports the rupee. When outflows rise, the reserves can shrink and the currency can weaken. Several forces added to the outflows in 2026. Crude oil prices have been volatile, which raises the energy import bill. Demand for gold imports has also reached record levels. The central bank has been active in the market, intervening to defend a rupee that was weakening. The Prime Minister has urged citizens to limit non-essential spending on gold purchases, overseas travel and fuel. The aim is to protect currency stability and reduce capital outflows. Experts caution, however, that overly strict controls could stifle manufacturing and broader economic growth. They argue that the country must protect its financial security without damaging its industrial base, and balancing these two goals is the central challenge for policymakers in the months ahead.",
+   "questions": [
+    {
+     "q": "Which rank does India hold among the world's gold consumers, according to the booklet?",
+     "options": ["2nd largest", "Largest", "3rd largest", "4th largest"],
+     "answer": 0,
+     "explanation": "The booklet describes India as the 2nd largest gold consumer globally, after China."
+    },
+    {
+     "q": "What share of its crude oil requirement does India import, according to the booklet?",
+     "options": ["About 58%", "About 69%", "About 75%", "About 89%"],
+     "answer": 3,
+     "explanation": "The booklet states that India imports around 89% of its crude oil requirement."
+    },
+    {
+     "q": "Which of the following is NOT a component of India's Foreign Exchange Reserves?",
+     "options": ["Foreign currency assets", "Domestic government securities", "Gold reserves", "Special Drawing Rights"],
+     "answer": 1,
+     "explanation": "The booklet lists foreign currency assets, gold reserves, Special Drawing Rights and the reserve position with the IMF as components."
+    },
+    {
+     "q": "Which statement describes the 'Protectionism Trap' in the context of excessive forex conservation?",
+     "options": ["Excessive tariffs lead to WTO disputes and trade sanctions", "Foreign companies exit the Indian market, reducing competition", "Import restrictions increase input costs, reducing export competitiveness", "Domestic companies become dependent on government subsidies"],
+     "answer": 2,
+     "explanation": "The booklet says import restrictions increase input costs, thereby reducing the competitiveness of exports."
+    },
+    {
+     "q": "Assertion (A): Household gold imports widen India's current account deficit.\nReason (R): Household gold imports add to productive capacity in the same way as sovereign reserves do.\nSelect the correct option.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 2,
+     "explanation": "Household gold imports directly worsen the CAD, but the booklet says they do not add to productive capacity, unlike sovereign reserves."
+    },
+    {
+     "q": "Match List I with List II:\nList I\nI. Gold consumer rank\nII. Crude oil import share\nIII. Gold share of total imports\nIV. Effect of a USD 1 rise in oil price\nList II\nA. Rise of USD 1.5 to 2 billion in the import bill\nB. About 89% of crude oil requirement imported\nC. Gold accounts for about 9% of total imports\nD. 2nd largest gold consumer globally\nChoose the correct match.",
+     "options": ["I-D, II-B, III-C, IV-A", "I-B, II-C, III-D, IV-A", "I-D, II-A, III-B, IV-C", "I-A, II-D, III-C, IV-B"],
+     "answer": 0,
+     "explanation": "India is the 2nd largest gold consumer, imports about 89% of crude oil, gold is about 9% of imports, and each USD 1 oil rise adds USD 1.5 to 2 billion to the import bill."
+    },
+    {
+     "q": "Consider the following statements about the effects of excessive forex conservation:\nI. Restricted imports of capital goods, semiconductors and raw materials can lower industrial output.\nII. Private consumption is a minor component of GDP, so suppressing it has little effect on growth.\nIII. Capital control concerns can raise the country risk premium and dampen FDI and portfolio inflows.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statement II is wrong because private consumption is a major GDP component, while statements I and III reflect the booklet's points."
+    },
+    {
+     "q": "How many of the following statements about India's forex reserves and imports are correct?\nI. Forex reserves declined by nearly USD 38 billion within two months before May 2026.\nII. Imported urea and ammonia prices have roughly doubled.\nIII. Foreign investors are attracted to economies that lack strong domestic demand.",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and II match the booklet, while III reverses its point that foreign investors avoid economies lacking strong domestic demand."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Import Pressure Check",
+   "passage": "India's external payments depend heavily on what the country imports. Energy is among the largest of these imports, and India relies on foreign suppliers for most of its crude oil. When oil prices move sharply, the import bill changes with them, which affects the trade balance and the demand for dollars. Gold is another major import. Household purchases of gold do not create productive assets in the way that official reserves do, so heavy gold buying adds to the strain on the current account. Fertiliser is a third pressure point. Imported inputs such as urea and ammonia have risen sharply in price, and the government must decide how to respond. It can pass the higher costs on to consumers, which carries a risk of inflation, or it can absorb the costs itself. A weaker rupee adds to the problem, because it makes every imported good more expensive in rupee terms. Outflows also arise from personal spending abroad, such as foreign travel and overseas weddings. Each of these pressures feeds the others, and the economy has to weigh short-term relief against long-term health. Understanding which imports drive the outflow of foreign exchange is the first step in judging how much pressure the economy faces. Policy choices in this area therefore matter a great deal for households and businesses.",
+   "questions": [
+    {
+     "q": "What share of its crude oil requirement does India import, according to the booklet? (in per cent)",
+     "answer": "89",
+     "accept": ["89%", "89 per cent", "89 percent", "eighty-nine"],
+     "explanation": "The booklet states that India imports around 89% of its crude oil requirement."
+    },
+    {
+     "q": "Which country is the largest gold consumer globally, per the booklet? (one word)",
+     "answer": "China",
+     "accept": ["china", "PRC"],
+     "explanation": "The booklet describes India as the 2nd largest gold consumer globally, after China."
+    },
+    {
+     "q": "What share of India's total imports does gold account for? (in per cent)",
+     "answer": "9",
+     "accept": ["9%", "9 per cent", "9 percent", "nine"],
+     "explanation": "Gold accounts for nearly USD 72 billion, about 9% of total imports."
+    },
+    {
+     "q": "How did imported urea and ammonia prices change, according to the booklet? (one word)",
+     "answer": "doubled",
+     "accept": ["double", "doubling", "twofold", "two-fold"],
+     "explanation": "The booklet says prices of imported inputs such as urea and ammonia have doubled."
+    },
+    {
+     "q": "Which security does the government prioritise over discretionary fuel consumption when fertiliser prices surge? (two words)",
+     "answer": "food security",
+     "accept": ["food-security", "Food Security"],
+     "explanation": "The booklet says the government prioritises food security over discretionary fuel consumption."
+    },
+    {
+     "q": "If the government absorbs cost increases instead of passing them on, which risk arises? (name the risk)",
+     "answer": "fiscal deficit risk",
+     "accept": ["fiscal deficit", "fiscal-deficit risk", "fiscal deficit"],
+     "explanation": "The booklet says absorbing costs leads to fiscal deficit risk, while passing costs on carries inflation risk."
+    },
+    {
+     "q": "Under which scheme does the booklet record significant foreign exchange outflows? (name in full)",
+     "answer": "Liberalised Remittance Scheme",
+     "accept": ["Liberalized Remittance Scheme", "liberalised remittance scheme", "LRS"],
+     "explanation": "The booklet lists high outflows under the Liberalised Remittance Scheme, including spending on foreign travel and overseas weddings."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 37, "what": "Oil marketing companies' monthly under-recovery figure is garbled (digits and rupee sign unreadable); not used"},
+  {"page": 37, "what": "Gold import value reads as both 71.98 and 71.97 billion; only the rounded 'nearly USD 72 billion' is used"},
+  {"page": 37, "what": "Share of Liberalised Remittance Scheme outflows spent on travel and overseas weddings is interleaved with table text; not used"},
+  {"page": 37, "what": "FY22 to FY26 gold import value and tonnage table is partly garbled (e.g. FY24 row); not used"},
+  {"page": 36, "what": "Balance of Payments diagram labels (current and capital account items) are garbled; BoP structure not used"}
+ ]
+}

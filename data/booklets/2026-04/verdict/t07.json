@@ -1,0 +1,146 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t07-0",
+   "questions": [
+    {
+     "n": 1,
+     "my_answer": 3,
+     "supported": true,
+     "evidence": {"page": 32, "quote": "Consists of a \"State Election Commissioner\" to be appointed by the \"Governor\"."},
+     "issues": []
+    },
+    {
+     "n": 2,
+     "my_answer": 0,
+     "supported": true,
+     "evidence": {"page": 31, "quote": "Contains\"29 Subjects\"(Art243—G)ofPanchayats."},
+     "issues": []
+    },
+    {
+     "n": 3,
+     "my_answer": 0,
+     "supported": true,
+     "evidence": {"page": 31, "quote": "\"Chairperson of Panchayats\" at \"Intermediate\" and \"District\" levels shall be elected \"Indirectly\"; by and from amongst elected members thereof."},
+     "issues": ["ambiguous"]
+    },
+    {
+     "n": 4,
+     "my_answer": 1,
+     "supported": true,
+     "evidence": {"page": 31, "quote": "Duration of Panchayat (Art 243 — E): Provides for a \"5 — year\" term of office to panchayat."},
+     "issues": []
+    },
+    {
+     "n": 5,
+     "my_answer": 2,
+     "supported": true,
+     "evidence": {"page": 32, "quote": "Provisions of this Part-9 are applicable to Union Territories except “Delhi”."},
+     "issues": []
+    },
+    {
+     "n": 6,
+     "my_answer": 1,
+     "supported": true,
+     "evidence": {"page": 31, "quote": "Provision relating to Reservation of Seats in Panchayats for Scheduled Castes is Not Applicable to State of Arunachal Pradesh."},
+     "issues": []
+    },
+    {
+     "n": 7,
+     "my_answer": 3,
+     "supported": true,
+     "evidence": {"page": 31, "quote": "Itcame into force on “24\" April, 1993”."},
+     "issues": []
+    },
+    {
+     "n": 8,
+     "my_answer": 2,
+     "supported": true,
+     "evidence": {"page": 31, "quote": "Bodies is “21” years."},
+     "issues": []
+    }
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-t07-1",
+   "questions": [
+    {
+     "n": 1,
+     "my_answer": "1957",
+     "supported": true,
+     "evidence": {"page": 30, "quote": "Balwant Raj Mehta Committee (1957): To examine working of"},
+     "issues": []
+    },
+    {
+     "n": 2,
+     "my_answer": "Rajasthan",
+     "supported": true,
+     "evidence": {"page": 30, "quote": "Implementation: \"Nagaur, Rajasthan\" (on 2\" Oct, 1959) was \"1\" State\" to establish Panchayati Raj."},
+     "issues": []
+    },
+    {
+     "n": 3,
+     "my_answer": "2",
+     "supported": true,
+     "evidence": {"page": 30, "quote": "Recommended Establishment ofa \"2-tier Panchayati Raj System”."},
+     "issues": []
+    },
+    {
+     "n": 4,
+     "my_answer": "Rajiv Gandhi",
+     "supported": true,
+     "evidence": {"page": 30, "quote": "LM Singhvi Committee (1986): Appointed by \"Rajiv Gandhi Government\","},
+     "issues": []
+    },
+    {
+     "n": 5,
+     "my_answer": "G.V.K. Rao Committee",
+     "supported": true,
+     "evidence": {"page": 30, "quote": "Committee to review existing Administrative Arrangements for Rural Development and Poverty Alleviation Programmes."},
+     "issues": []
+    },
+    {
+     "n": 6,
+     "my_answer": "Janata Government",
+     "supported": true,
+     "evidence": {"page": 30, "quote": "Ashok Mehta Committee (1977): “Janata Government” appointed a"},
+     "issues": []
+    },
+    {
+     "n": 7,
+     "my_answer": "Balwant Rai Mehta",
+     "supported": true,
+     "evidence": {"page": 30, "quote": "BR Mehta is known as ‘Father of 1 Panchayati Raj” / “Architect of ' Panchayati Raj”."},
+     "issues": []
+    }
+   ],
+   "passage_flags": [
+    {
+     "claim": "gave elected local bodies a role in planning and running village affairs",
+     "problem": "not found in booklet text; the booklet says only that the committee recommended a scheme of democratic decentralisation",
+     "page": null
+    },
+    {
+     "claim": "Such studies were seen as necessary before any wider change could be made to the system.",
+     "problem": "not found in booklet text",
+     "page": null
+    }
+   ]
+  }
+ ],
+ "fact_flags": [
+  {
+   "subtopic": 1,
+   "fact": "Later committees under Ashok Mehta, G.V.K. Rao and L.M. Singhvi reviewed the system and its constitutional status.",
+   "problem": "overstated: the booklet describes the Ashok Mehta committee as a review of PRIs recommending a 2-tier system, and the G.V.K. Rao committee as reviewing administrative arrangements for rural development and poverty alleviation programmes, not the constitutional status of panchayats",
+   "page": 30
+  },
+  {
+   "subtopic": 3,
+   "fact": "Article 243-K: a State Election Commission supervises electoral rolls and the conduct of panchayat elections; it is appointed by the Governor.",
+   "problem": "booklet says the State Election Commission consists of a State Election Commissioner who is appointed by the Governor; the body itself is not stated to be appointed by the Governor",
+   "page": 32
+  }
+ ]
+}

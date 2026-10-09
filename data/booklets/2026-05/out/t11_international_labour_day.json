@@ -1,0 +1,364 @@
+{
+ "topic": {
+  "title": "International Labour Day",
+  "chapter_title": "Sports, Awards & Days",
+  "subtopics": [
+   {
+    "title": "Origin of International Labour Day",
+    "summary": "International Labour Day, also called Workers Day or May Day, is observed every year on May 1 to honour the contribution of workers. Its origin is traced to the late 19th century labour movement in the United States, where workers demanded an eight-hour working day. A large 1886 demonstration in Chicago went out of hand, and the incident known as the Haymarket Affair marked the start of the day. In 1889, Socialist Parties in Europe decided to celebrate May 1 as International Labour Day.",
+    "facts": [
+     "Observed annually on May 1",
+     "Also known as Workers Day or May Day",
+     "Origin traced to the late 19th century labour movement in the United States",
+     "1886: large demonstration in America demanded 8 hours of work on a daily basis",
+     "The 1886 demonstration went out of hand in Chicago and many people got hurt",
+     "The incident is known as the Haymarket Affair",
+     "Haymarket Affair marked the start of International Labour Day",
+     "1889: Socialist Parties in Europe decided to celebrate May 1 as International Labour Day",
+     "1923: first May Day in India celebrated in Chennai (then Madras)",
+     "The 1923 celebration was by the Labour Kisan Party of Hindustan"
+    ],
+    "keywords": ["May 1", "Haymarket Affair", "1886", "1889", "Chennai 1923", "May Day"]
+   },
+   {
+    "title": "Constitutional provisions and labour laws",
+    "summary": "The Constitution gives citizens the right to form associations or unions and prohibits forced labour and employment of children below 14 years. Articles 39(a), 41, 43 and 43A set out goals for the State on livelihood, work, a living wage and worker participation in management. Labour legislation includes laws on factories, wages, provident funds and industrial disputes. Four labour codes together amalgamate 29 laws.",
+    "facts": [
+     "Article 19(1)(c): right to form associations or unions",
+     "Article 23: prohibits forced labour",
+     "Article 24: prohibits employment of children below 14 years",
+     "Article 39(a): equal right to an adequate means of livelihood",
+     "Article 41: right to work and education within limits of economic capacity",
+     "Article 43: living wage, decent conditions of work, social and cultural opportunities",
+     "Article 43A: participation of workers in management of industries through legislation",
+     "Factories Act 1948; Minimum Wages Act 1948; Payment of Wages Act 1936; Workmen's Compensation Act 1923",
+     "Employees' Provident Fund Act 1952; Industrial Disputes Act 1947; Contract Labour Act 1970",
+     "Four codes amalgamate 29 laws in total: Wage Code 4, Industrial Relations Code 3, Occupational Safety, Health and Working Conditions Code 13, Social Security Code 9"
+    ],
+    "keywords": ["Article 19(1)(c)", "Article 23", "Article 24", "Article 43A", "Labour codes", "29 laws"]
+   },
+   {
+    "title": "International Labour Organisation: profile",
+    "summary": "The International Labour Organisation is a specialised agency of the United Nations dedicated to improving labour conditions and living standards throughout the world. It was established under the Treaty of Versailles and became the first specialised agency associated with the UN in 1946. Its tripartite structure gives an equal voice to governments, employers and workers. The ILO was awarded the Nobel Prize for Peace in 1969, and its headquarters is in Geneva, Switzerland.",
+    "facts": [
+     "Specialised agency of the United Nations",
+     "Dedicated to improving labour conditions and living standards throughout the world",
+     "Established under the Treaty of Versailles",
+     "Became the first specialised agency associated with the UN in 1946, after the demise of the League of Nations",
+     "Tripartite structure: equal voice for governments, employers and workers",
+     "India is one of the founding members",
+     "Awarded the Nobel Prize for Peace in 1969",
+     "Director General: Gilbert Houngbo",
+     "Headquarters: Geneva, Switzerland"
+    ],
+    "keywords": ["ILO", "Tripartite", "Geneva", "Gilbert Houngbo", "Nobel Peace Prize 1969"]
+   },
+   {
+    "title": "ILO objectives, standards and reports",
+    "summary": "The ILO pursues four stated objectives: promoting fundamental labour rights, creating greater opportunities for women and men, enhancing social protection, and strengthening social dialogue and tripartism. Its international labour standards are Conventions and Protocols, which are legally binding treaties, and Recommendations, which are non-binding guidelines. The ILO Declaration on Fundamental Principles and Rights at Work, adopted in 1998, names focus areas such as freedom of association and abolition of child labour. The ILO also publishes key reports, including the Global Wage Report.",
+    "facts": [
+     "Objective: promote and realise standard fundamental labour rights",
+     "Objective: create greater opportunities for women and men",
+     "Objective: enhance social protection",
+     "Objective: strengthen social dialogue and tripartism",
+     "Conventions and Protocols: legally binding international treaties",
+     "Recommendations: non-binding guidelines",
+     "ILO Declaration on Fundamental Principles and Rights at Work: adopted in 1998, amended in 2022",
+     "Focus areas: freedom of association, elimination of forced labour, abolition of child labour, elimination of employment discrimination, safe and healthy working conditions",
+     "Fundamental conventions listed include Minimum Age (No. 138) and Freedom of Association (No. 87)",
+     "Key reports include World Employment and Social Outlook, Global Wage Report, World Social Protection Report and World of Work Report"
+    ],
+    "keywords": ["ILO Declaration 1998", "Conventions", "Recommendations", "Global Wage Report", "Four objectives"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "International Labour Day overview",
+   "root": {
+    "label": "International Labour Day",
+    "children": [
+     {"label": "Origin in US labour movement", "children": [
+      {"label": "1886: demand for 8-hour day"},
+      {"label": "Haymarket Affair, Chicago"},
+      {"label": "1889: Socialist Parties fix May 1"}
+     ]},
+     {"label": "Also called Workers Day or May Day", "children": [
+      {"label": "Observed every year on May 1"}
+     ]},
+     {"label": "India: first May Day in 1923", "children": [
+      {"label": "Chennai (then Madras)"},
+      {"label": "Labour Kisan Party of Hindustan"}
+     ]},
+     {"label": "Constitutional labour provisions", "children": [
+      {"label": "Art 19(1)(c): unions and associations"},
+      {"label": "Art 23: forced labour banned"},
+      {"label": "Art 24: child labour below 14 banned"}
+     ]},
+     {"label": "ILO: UN specialised agency", "children": [
+      {"label": "Headquarters: Geneva, Switzerland"},
+      {"label": "Nobel Peace Prize 1969"},
+      {"label": "Director General: Gilbert Houngbo"}
+     ]},
+     {"label": "Labour codes amalgamate 29 laws", "children": [
+      {"label": "Wage, IR, OSH and Social Security codes"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Origin of International Labour Day",
+   "root": {
+    "label": "Origin of International Labour Day",
+    "children": [
+     {"label": "1886 US demonstration", "children": [
+      {"label": "Demand: 8 hours of work daily"},
+      {"label": "Went out of hand in Chicago"}
+     ]},
+     {"label": "Haymarket Affair", "children": [
+      {"label": "Marked start of the day"}
+     ]},
+     {"label": "1889 European Socialist Parties", "children": [
+      {"label": "Decided to observe May 1"}
+     ]},
+     {"label": "1923 India", "children": [
+      {"label": "First May Day in Chennai"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Constitution and labour laws",
+   "root": {
+    "label": "Constitution and labour laws",
+    "children": [
+     {"label": "Rights and bans", "children": [
+      {"label": "Art 19(1)(c): form unions"},
+      {"label": "Art 23: forced labour banned"},
+      {"label": "Art 24: child labour under 14 banned"}
+     ]},
+     {"label": "Goals for the State", "children": [
+      {"label": "Art 39(a): livelihood"},
+      {"label": "Art 41: right to work and education"},
+      {"label": "Art 43: living wage"},
+      {"label": "Art 43A: worker participation"}
+     ]},
+     {"label": "Labour codes", "children": [
+      {"label": "29 laws in four codes"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "ILO profile",
+   "root": {
+    "label": "ILO profile",
+    "children": [
+     {"label": "Establishment", "children": [
+      {"label": "Treaty of Versailles"},
+      {"label": "UN agency since 1946"}
+     ]},
+     {"label": "Structure", "children": [
+      {"label": "Tripartite: governments, employers, workers"},
+      {"label": "India a founding member"}
+     ]},
+     {"label": "Recognition and leadership", "children": [
+      {"label": "Nobel Peace Prize 1969"},
+      {"label": "DG: Gilbert Houngbo"},
+      {"label": "HQ: Geneva, Switzerland"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "ILO objectives and standards",
+   "root": {
+    "label": "ILO objectives and standards",
+    "children": [
+     {"label": "Four objectives", "children": [
+      {"label": "Fundamental labour rights"},
+      {"label": "Opportunities for women and men"},
+      {"label": "Enhanced social protection"},
+      {"label": "Social dialogue and tripartism"}
+     ]},
+     {"label": "International standards", "children": [
+      {"label": "Conventions and Protocols: binding"},
+      {"label": "Recommendations: non-binding"}
+     ]},
+     {"label": "1998 Declaration", "children": [
+      {"label": "Focus: freedom of association"},
+      {"label": "Focus: abolition of child labour"}
+     ]},
+     {"label": "Key reports", "children": [
+      {"label": "Global Wage Report"},
+      {"label": "World Employment and Social Outlook"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Origin milestones",
+   "mnemonic": "Eager Hearts Seek Change",
+   "decode": [
+    {"key": "E", "meaning": "1886 demand for an eight-hour working day"},
+    {"key": "H", "meaning": "Haymarket Affair marked the start of the day"},
+    {"key": "S", "meaning": "1889 Socialist Parties in Europe chose May 1"},
+    {"key": "C", "meaning": "1923 May Day celebrated in Chennai, India"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "ILO structure",
+   "mnemonic": "GEW: Give Equal Weight",
+   "decode": [
+    {"key": "G", "meaning": "Governments"},
+    {"key": "E", "meaning": "Employers"},
+    {"key": "W", "meaning": "Workers"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "ILO objectives",
+   "mnemonic": "Pretty Cats Eat Shrimp",
+   "decode": [
+    {"key": "P", "meaning": "Promote fundamental labour rights"},
+    {"key": "C", "meaning": "Create greater opportunities for women and men"},
+    {"key": "E", "meaning": "Enhance social protection"},
+    {"key": "S", "meaning": "Strengthen social dialogue and tripartism"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "Constitution and labour laws: practice set",
+   "passage": "Labour welfare in India is shaped by two sources of authority: the Constitution and a body of ordinary statutes. The Constitution does not only grant rights to individuals; it also sets out aims that the State is expected to pursue. Some provisions protect workers from being made to work against their will, while others shield young people from early employment. Other provisions describe the kind of economic life the State should aim for, including a means of livelihood, employment within economic capacity, fair pay and a voice for workers in the industries where they work. Parliament has translated many of these aims into laws covering factories, wages, provident funds, compensation and disputes between employers and employees. Several of these statutes have since been grouped into a smaller number of broad codes. The codes group rules on wages, industrial relations, social security and occupational safety and health. Each statute addresses a specific aspect of work, such as the payment of wages, the settlement of disputes or compensation to workers. Labour matters also have an international dimension, since a United Nations agency works to improve labour conditions and living standards across the world. Together, these provisions and laws show that labour protection in India has both a constitutional foundation and a statutory one.",
+   "questions": [
+    {
+     "q": "Which Article of the Indian Constitution prohibits employment of children below the age of 14 years?",
+     "options": ["Article 24", "Article 23", "Article 39(a)", "Article 43"],
+     "answer": 0,
+     "explanation": "The booklet states that Article 24 prohibits employment of children below 14 years."
+    },
+    {
+     "q": "Which Article of the Indian Constitution orders the State to secure a living wage, decent conditions of work and social and cultural opportunities to all workers?",
+     "options": ["Article 39(a)", "Article 41", "Article 43A", "Article 43"],
+     "answer": 3,
+     "explanation": "The booklet states that Article 43 orders the State to secure a living wage, decent conditions of work and social and cultural opportunities."
+    },
+    {
+     "q": "Read the statements below.\nAssertion (A): Article 23 of the Indian Constitution prohibits forced labour.\nReason (R): Article 24 prohibits the employment of children below the age of 14 years.\nSelect the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "Both statements are true according to the booklet, but the child labour provision in Article 24 does not explain the forced labour prohibition in Article 23."
+    },
+    {
+     "q": "Match List I with List II:\nI. Article 19(1)(c)   ->   A. Right to work and education within economic capacity\nII. Article 39(a)   ->   B. Right to form associations or unions\nIII. Article 43A   ->   C. Equal right to an adequate means of livelihood\nIV. Article 41   ->   D. Participation of workers in management of industries",
+     "options": ["I-A, II-B, III-C, IV-D", "I-B, II-C, III-D, IV-A", "I-C, II-A, III-B, IV-D", "I-D, II-B, III-A, IV-C"],
+     "answer": 1,
+     "explanation": "Article 19(1)(c) grants the right to form associations or unions, Article 39(a) gives the equal right to a means of livelihood, Article 43A covers worker participation and Article 41 covers work and education."
+    },
+    {
+     "q": "Consider the following statements about labour provisions in the Indian Constitution:\nI. Article 23 prohibits forced labour.\nII. Article 19(1)(c) prohibits employment of children below 14 years.\nIII. Article 43A provides for participation of workers in management of industries through legislation.\nWhich of the above statements is/are correct?",
+     "options": ["I and III only", "I and II only", "II and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "Article 24, not Article 19(1)(c), prohibits employment of children below 14 years, so statement II is incorrect."
+    },
+    {
+     "q": "Consider the following statements about labour laws in India:\nI. The Workmen's Compensation Act was enacted in 1923.\nII. The Payment of Wages Act was enacted in 1948.\nIII. The Employees' Provident Fund Act was enacted in 1952.\nIV. The Industrial Disputes Act was enacted in 1947.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "All four"],
+     "answer": 2,
+     "explanation": "The booklet dates the Payment of Wages Act to 1936, so statement II is incorrect while the other three are correct."
+    },
+    {
+     "q": "According to the chart, which labour code amalgamates the largest number of laws?",
+     "options": ["Wage Code", "Occupational Safety, Health and Working Conditions Code", "Industrial Relations Code", "Social Security Code"],
+     "answer": 1,
+     "explanation": "The chart lists 13 laws under the Occupational Safety, Health and Working Conditions Code, the highest count among the four codes."
+    },
+    {
+     "q": "In which year was the Contract Labour Act enacted?",
+     "options": ["1923", "1936", "1952", "1970"],
+     "answer": 3,
+     "explanation": "The booklet lists the Contract Labour Act as dated 1970."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "ILO: short answer set",
+   "passage": "Some international bodies are created to set common standards rather than to govern countries directly. The body discussed here is one of them, and its concern is the working life of people across the world. It was set up under the Treaty of Versailles and was later linked with the United Nations. Its central aim is to improve labour conditions and living standards throughout the world. Its structure gives an equal voice to three groups: governments, employers and workers. This allows disagreements about working conditions to be discussed through a common process. The organisation has four stated objectives. It seeks to promote fundamental labour rights, create greater opportunities for women and men, enhance social protection and strengthen social dialogue. Its legal instruments take two forms. Conventions and Protocols are legally binding treaties, while Recommendations are non-binding guidelines. Some of its standards form part of the wider United Nations human rights framework. The organisation also publishes reports on employment, wages, social protection and youth. Its Director General leads the organisation's work. The work covers workers in many countries, including India, which is one of its founding members. Taken together, these standards and reports show how an international body can influence labour conditions.",
+   "questions": [
+    {
+     "q": "In which year did the ILO become the first specialised agency associated with the United Nations? (year)",
+     "answer": "1946",
+     "accept": ["1946"],
+     "explanation": "The booklet states that the ILO became the first specialised agency associated with the UN in 1946."
+    },
+    {
+     "q": "According to the booklet, who is the Director General of the ILO? (name)",
+     "answer": "Gilbert Houngbo",
+     "accept": ["Houngbo", "G. Houngbo"],
+     "explanation": "The booklet names Gilbert Houngbo as the Director General of the ILO."
+    },
+    {
+     "q": "In which city is the headquarters of the ILO located? (city)",
+     "answer": "Geneva",
+     "accept": ["Geneva, Switzerland", "Geneva (Switzerland)"],
+     "explanation": "The booklet gives the ILO headquarters as Geneva, Switzerland."
+    },
+    {
+     "q": "In which year was the ILO awarded the Nobel Prize for Peace? (year)",
+     "answer": "1969",
+     "accept": ["1969"],
+     "explanation": "The booklet notes that the ILO was awarded the Nobel Prize for Peace in 1969."
+    },
+    {
+     "q": "In which year was the ILO Declaration on Fundamental Principles and Rights at Work adopted? (year)",
+     "answer": "1998",
+     "accept": ["1998"],
+     "explanation": "The booklet records that the Declaration on Fundamental Principles and Rights at Work was adopted in 1998."
+    },
+    {
+     "q": "Which ILO Convention number deals with Minimum Age? (number)",
+     "answer": "138",
+     "accept": ["No. 138"],
+     "explanation": "The booklet lists the Minimum Age convention as No. 138."
+    },
+    {
+     "q": "Which ILO Convention number deals with Freedom of Association? (number)",
+     "answer": "87",
+     "accept": ["No. 87"],
+     "explanation": "The booklet lists the Freedom of Association convention as No. 87."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 56, "what": "Theme year: page 56 gives 2026 for the theme, but the practice question on page 58 calls the same theme 2024; the theme and its year were not used"},
+  {"page": 57, "what": "Line 'Conventions 1-6 are ratified by India' does not match the eight conventions listed beneath it; not used"},
+  {"page": 57, "what": "Member count (187) sits in a garbled Overview layout box; not used"},
+  {"page": 56, "what": "Which specific Acts fall under each labour code is garbled in Chart 1; only the code totals (4, 3, 13, 9; total 29) were used"}
+ ]
+}
