@@ -117,12 +117,12 @@
     },
     {
      "n": 5,
-     "q": "Match List I with List II:\nI. Article 129   ->   A. Competition Act, 2002\nII. Article 215   ->   B. Supreme Court\nIII. Competition Commission of India   ->   C. Waqf Act, 1995\nIV. UMEED portal   ->   D. High Courts",
+     "q": "Match List I with List II:\nI. Article 129   ->   A. High Courts\nII. Article 215   ->   B. Competition Act, 2002\nIII. Competition Commission of India   ->   C. Waqf Act, 1995\nIV. UMEED portal   ->   D. Supreme Court",
      "options": [
-      "I-D, II-C, III-B, IV-A",
-      "I-B, II-D, III-A, IV-C",
-      "I-C, II-D, III-B, IV-A",
-      "I-C, II-B, III-D, IV-A"
+      "I-D, II-A, III-C, IV-B",
+      "I-D, II-A, III-B, IV-C",
+      "I-B, II-A, III-C, IV-D",
+      "I-B, II-D, III-C, IV-A"
      ]
     },
     {

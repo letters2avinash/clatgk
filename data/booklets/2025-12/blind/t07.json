@@ -114,12 +114,12 @@
     },
     {
      "n": 5,
-     "q": "Match List I with List II:\nI. Programme 2030   ->   A. Bypass SWIFT\nII. Payment-system interoperability   ->   B. $100 billion by 2030\nIII. Trade target by 2030   ->   C. Built in India with Russian cooperation\nIV. Kudankulam Nuclear Power Plant   ->   D. Diversify ties beyond defence and energy",
+     "q": "Match List I with List II:\nI. Programme 2030   ->   A. $100 billion by 2030\nII. Payment-system interoperability   ->   B. Built in India with Russian cooperation\nIII. Trade target by 2030   ->   C. Diversify ties beyond defence and energy\nIV. Kudankulam Nuclear Power Plant   ->   D. Bypass SWIFT",
      "options": [
-      "I-D, II-C, III-A, IV-B",
-      "I-D, II-A, III-B, IV-C",
-      "I-B, II-A, III-C, IV-D",
-      "I-D, II-B, III-C, IV-A"
+      "I-D, II-B, III-A, IV-C",
+      "I-C, II-D, III-A, IV-B",
+      "I-C, II-A, III-D, IV-B",
+      "I-B, II-A, III-C, IV-D"
      ]
     },
     {

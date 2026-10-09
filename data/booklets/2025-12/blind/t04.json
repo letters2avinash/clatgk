@@ -103,12 +103,12 @@
     },
     {
      "n": 4,
-     "q": "Match List I with List II:\nI. Maximum imprisonment for a second marriage while the first is valid   ->   A. Article 342\nII. Source of national polygamy data   ->   B. Section 82\nIII. Offence of marrying again during a spouse's lifetime   ->   C. 10 years\nIV. Article excluding Scheduled Tribes   ->   D. NFHS-5 (2019-21)",
+     "q": "Match List I with List II:\nI. Maximum imprisonment for a second marriage while the first is valid   ->   A. NFHS-5 (2019-21)\nII. Source of national polygamy data   ->   B. Section 82\nIII. Offence of marrying again during a spouse's lifetime   ->   C. Article 342\nIV. Article excluding Scheduled Tribes   ->   D. 10 years",
      "options": [
-      "I-C, II-A, III-B, IV-D",
+      "I-A, II-C, III-B, IV-D",
       "I-A, II-B, III-C, IV-D",
-      "I-C, II-D, III-B, IV-A",
-      "I-B, II-C, III-A, IV-D"
+      "I-D, II-A, III-B, IV-C",
+      "I-D, II-B, III-A, IV-C"
      ]
     },
     {

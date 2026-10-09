@@ -90,12 +90,12 @@
     },
     {
      "n": 3,
-     "q": "Match List I with List II:\nI. Viksit Bharat National Rural Infrastructure Stack   ->   A. Property cards to rural households\nII. PM Gati Shakti   ->   B. Skilling, toolkits and credit linkage for artisans\nIII. SVAMITVA   ->   C. Infrastructure convergence with village plans\nIV. PM Vishwakarma   ->   D. Aggregates Viksit Gram Panchayat Plans for national planning",
+     "q": "Match List I with List II:\nI. Viksit Bharat National Rural Infrastructure Stack   ->   A. Skilling, toolkits and credit linkage for artisans\nII. PM Gati Shakti   ->   B. Aggregates Viksit Gram Panchayat Plans for national planning\nIII. SVAMITVA   ->   C. Infrastructure convergence with village plans\nIV. PM Vishwakarma   ->   D. Property cards to rural households",
      "options": [
-      "I-C, II-D, III-B, IV-A",
-      "I-A, II-B, III-C, IV-D",
-      "I-A, II-D, III-C, IV-B",
-      "I-D, II-C, III-A, IV-B"
+      "I-D, II-C, III-B, IV-A",
+      "I-D, II-B, III-A, IV-C",
+      "I-A, II-D, III-B, IV-C",
+      "I-B, II-C, III-D, IV-A"
      ]
     },
     {

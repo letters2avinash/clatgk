@@ -55,7 +55,8 @@ for f in files:
 import re, random
 ROM = ["I", "II", "III", "IV"]; LET = "ABCD"
 def parse_match(stem):
-    lines = [l.strip() for l in stem.split("\n") if l.strip()]
+    lines = [re.sub(r"\s*\|\s*", "   ->   ", l.strip()) for l in stem.split("\n") if l.strip()]
+    lines = [l for l in lines if not re.match(r"^List I\s*(->\s*List II)?$", l)]
     l1, l2 = {}, {}
     for l in lines[1:]:
         m = re.match(r"^(IV|III|II|I)\.\s+(.*?)(?:\s+->\s+([A-D])\.\s+(.*))?$", l)

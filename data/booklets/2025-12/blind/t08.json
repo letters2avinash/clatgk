@@ -145,12 +145,12 @@
     },
     {
      "n": 6,
-     "q": "Match List I with List II:\nI. Anglo-Afghan War (1839-42)   ->   A. Restored Afghanistan's foreign policy autonomy\nII. Treaty of Gandamak (1879)   ->   B. Drew the Durand Line\nIII. Treaty of Rawalpindi (1919)   ->   C. British intervention failed\nIV. Durand Agreement (1893)   ->   D. Britain gained control over Afghanistan's foreign affairs",
+     "q": "Match List I with List II:\nI. Anglo-Afghan War (1839-42)   ->   A. Restored Afghanistan's foreign policy autonomy\nII. Treaty of Gandamak (1879)   ->   B. British intervention failed\nIII. Treaty of Rawalpindi (1919)   ->   C. Drew the Durand Line\nIV. Durand Agreement (1893)   ->   D. Britain gained control over Afghanistan's foreign affairs",
      "options": [
-      "I-C, II-A, III-D, IV-B",
-      "I-D, II-B, III-A, IV-C",
-      "I-C, II-D, III-A, IV-B",
-      "I-B, II-A, III-C, IV-D"
+      "I-C, II-B, III-D, IV-A",
+      "I-D, II-C, III-B, IV-A",
+      "I-B, II-D, III-A, IV-C",
+      "I-C, II-D, III-B, IV-A"
      ]
     },
     {

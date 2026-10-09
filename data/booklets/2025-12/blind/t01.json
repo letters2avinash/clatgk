@@ -118,12 +118,12 @@
     },
     {
      "n": 5,
-     "q": "Match List I with List II:\nList I   |   List II\nI. Champaner   |   A. Highest peak of the range\nII. Raisina Hill   |   B. Starting point of the range in Gujarat\nIII. Guru Shikhar   |   C. Originates in the range\nIV. Luni river   |   D. End point of the range in Delhi",
+     "q": "Match List I with List II:\nI. Champaner   ->   A. Highest peak of the range\nII. Raisina Hill   ->   B. Originates in the range\nIII. Guru Shikhar   ->   C. End point of the range in Delhi\nIV. Luni river   ->   D. Starting point of the range in Gujarat",
      "options": [
       "I-A, II-B, III-C, IV-D",
-      "I-D, II-B, III-A, IV-C",
-      "I-B, II-D, III-A, IV-C",
-      "I-B, II-A, III-D, IV-C"
+      "I-A, II-D, III-C, IV-B",
+      "I-D, II-C, III-A, IV-B",
+      "I-C, II-D, III-B, IV-A"
      ]
     },
     {

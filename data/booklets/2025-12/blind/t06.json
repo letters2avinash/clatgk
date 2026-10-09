@@ -128,12 +128,12 @@
     },
     {
      "n": 4,
-     "q": "Match List I with List II:\nI. Repo Rate   ->   A. Window for banks to borrow overnight funds at higher rate than repo\nII. Bank Rate   ->   B. Share of deposits banks must hold as cash with RBI\nIII. Cash Reserve Ratio   ->   C. Long-term rate at which central bank lends to other banks\nIV. Marginal Standing Facility   ->   D. Rate at which RBI lends money to commercial banks",
+     "q": "Match List I with List II:\nI. Repo Rate   ->   A. Long-term rate at which central bank lends to other banks\nII. Bank Rate   ->   B. Share of deposits banks must hold as cash with RBI\nIII. Cash Reserve Ratio   ->   C. Window for banks to borrow overnight funds at higher rate than repo\nIV. Marginal Standing Facility   ->   D. Rate at which RBI lends money to commercial banks",
      "options": [
-      "I-C, II-B, III-A, IV-D",
-      "I-A, II-D, III-C, IV-B",
-      "I-C, II-A, III-B, IV-D",
-      "I-D, II-C, III-B, IV-A"
+      "I-D, II-C, III-A, IV-B",
+      "I-D, II-B, III-C, IV-A",
+      "I-B, II-A, III-C, IV-D",
+      "I-D, II-A, III-B, IV-C"
      ]
     },
     {

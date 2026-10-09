@@ -124,12 +124,12 @@
     },
     {
      "n": 5,
-     "q": "Match List I with List II:\nI. FPI withdrawals   ->   A. Worsened import bill\nII. Higher crude oil prices   ->   B. Speculative dollar demand\nIII. Importers front-loading dollar purchases   ->   C. Concerns over tariffs and export access\nIV. Delays in the initial tranche of the India-US trade deal   ->   D. Capital outflow from India",
+     "q": "Match List I with List II:\nI. FPI withdrawals   ->   A. Concerns over tariffs and export access\nII. Higher crude oil prices   ->   B. Speculative dollar demand\nIII. Importers front-loading dollar purchases   ->   C. Worsened import bill\nIV. Delays in the initial tranche of the India-US trade deal   ->   D. Capital outflow from India",
      "options": [
-      "I-D, II-B, III-A, IV-C",
-      "I-D, II-A, III-B, IV-C",
-      "I-A, II-B, III-C, IV-D",
-      "I-A, II-C, III-B, IV-D"
+      "I-C, II-B, III-A, IV-D",
+      "I-D, II-C, III-B, IV-A",
+      "I-C, II-A, III-B, IV-D",
+      "I-A, II-D, III-C, IV-B"
      ]
     },
     {

@@ -108,12 +108,12 @@
     },
     {
      "n": 4,
-     "q": "Match List I with List II:\nI. Permanent Lok Adalat   ->   A. Chief Justice of the State High Court as Patron-in-Chief\nII. National Lok Adalat   ->   B. Disputes on public utility services\nIII. NALSA   ->   C. Held across India on a single day\nIV. High Court Legal Services Committee   ->   D. Chief Justice of India as Patron-in-Chief",
+     "q": "Match List I with List II:\nI. Permanent Lok Adalat   ->   A. Chief Justice of the State High Court as Patron-in-Chief\nII. National Lok Adalat   ->   B. Chief Justice of India as Patron-in-Chief\nIII. NALSA   ->   C. Disputes on public utility services\nIV. High Court Legal Services Committee   ->   D. Held across India on a single day",
      "options": [
-      "I-D, II-C, III-B, IV-A",
-      "I-D, II-B, III-A, IV-C",
-      "I-B, II-C, III-D, IV-A",
-      "I-A, II-D, III-B, IV-C"
+      "I-B, II-C, III-A, IV-D",
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-D, III-B, IV-A",
+      "I-C, II-A, III-B, IV-D"
      ]
     },
     {
