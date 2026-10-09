@@ -1,0 +1,200 @@
+{
+ "topic": "NEET Paper Leak Controversy",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "NEET-UG 2026 cancellation and re-test",
+   "summary": "NEET-UG 2026 was declared compromised after paper leak allegations, and the examination was officially cancelled. Reports of illicit leaks and unauthorised material on digital platforms led to an investigation, and fraudulent guess papers that closely mirrored the actual test were among the evidence. The NTA voided the initial results and ordered a re-test for all candidates without any further application cost.",
+   "facts": [
+    "NEET 2026 was declared compromised amid paper leak allegations.",
+    "Official cancellation of NEET-UG 2026 was followed by a planned re-sitting.",
+    "Reports of illicit paper leaks and unauthorised exam materials on digital platforms triggered an investigation.",
+    "Fraudulent 'guess papers' that closely mirrored the actual test were part of the evidence.",
+    "NTA decided to void the initial results to maintain integrity and public trust.",
+    "The re-test is to be administered again for all candidates.",
+    "Candidates do not have to pay any further application costs for the re-test."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "NEET, NTA and the 2024 controversy",
+   "summary": "NEET is the National Entrance Examination for admission into medical colleges across India, and it is conducted by the National Testing Agency. The NTA was established in 2017 as an autonomous body under the Department of Higher Education, Ministry of Education. The NEET-UG 2024 controversy, marked by an unusually high number of full-mark scorers, led to a high-level committee headed by former ISRO Chairman Dr K Radhakrishnan.",
+   "facts": [
+    "NEET is the National Entrance Examination for admission into medical colleges across India.",
+    "NEET-UG is conducted by the National Testing Agency.",
+    "The NTA was established in 2017.",
+    "The NTA is an autonomous body under the Department of Higher Education, Ministry of Education.",
+    "The NTA's headquarters are in New Delhi and its head is Pradeep Kumar Joshi.",
+    "The NTA also conducts JEE Main and CUET.",
+    "In 2024, an unusually high number of candidates achieved full marks.",
+    "Only two candidates secured full marks in 2023, and no candidate did in 2022.",
+    "After the NEET-UG 2024 controversy, the Ministry of Education constituted a high-level committee headed by former ISRO Chairman Dr K Radhakrishnan."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Ripple effect of exam malpractice",
+   "summary": "Exam malpractice damages far more than a single examination. It lowers the value of academic credentials, adds financial burden on government institutions and erodes public trust in fairness. Students also suffer, as cancellations delay admissions and honest candidates face stress and demotivation.",
+   "facts": [
+    "Loss of system credibility reduces the market value of degrees and merit rankings.",
+    "Re-conducting compromised examinations imposes a heavy financial burden on government institutions.",
+    "Large-scale cheating makes parents and students lose confidence in educational fairness.",
+    "Exam cancellations delay admissions and disrupt the academic calendar for millions of students.",
+    "Unfair practices cause significant stress, frustration and demotivation for honest candidates.",
+    "The impacts are grouped into systemic and institutional damage, and impact on students."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Panel recommendations",
+   "summary": "The panel's major recommendations focus on the role of the NTA, institutional governance, secure examination centres and technology. It proposed limiting the NTA to entrance examinations for higher education institutions and creating 10 new posts. It also recommended a Digi-Yatra-like authentication system and a gradual shift to computer adaptive testing.",
+   "facts": [
+    "The NTA should focus only on entrance examinations for higher education institutions, not recruitment examinations.",
+    "The panel proposed creating 10 new posts for administration, IT infrastructure and digital security.",
+    "A technology-enabled authentication system similar to Digi-Yatra was proposed under a Digi-Exam framework.",
+    "Governance reforms recommended an empowered governing body with sub-committees for test audits, ethics and transparency, and staff management and appointments.",
+    "Greater use of Kendriya Vidyalaya Sangathan institutions and Jawahar Navodaya Vidyalaya campuses as examination centres was recommended.",
+    "Gradual adoption of computer adaptive testing was proposed for future entrance examinations."
+   ]
+  },
+  {
+   "i": 4,
+   "title": "Public Examination (Prevention of Unfair Means) Act 2024",
+   "summary": "The Act aims to curb paper leaks, organised cheating and manipulation in recruitment and entrance examinations. It sets imprisonment of 3 to 10 years for individuals, with fines and debarment for service providers and a separate penalty for organised crime. Offences are cognisable, non-bailable and non-compoundable, and investigations can be transferred to a Central Investigating Agency.",
+   "facts": [
+    "The Act's objective is to curb paper leaks, organised cheating and manipulation in recruitment and entrance examinations.",
+    "For individuals, imprisonment ranges from 3 to 10 years depending on the offence, and monetary penalties up to 1 crore apply in organised malpractice.",
+    "Service providers face a fine up to 1 crore and debarment from conducting examinations for 4 years.",
+    "Organised crimes attract imprisonment between 5 and 10 years and a minimum fine of 1 crore.",
+    "Property attachment and forfeiture are possible for organised crimes.",
+    "Offences under the Act are cognisable, non-bailable and non-compoundable.",
+    "Investigations are conducted by officers not below the rank of Deputy Superintendent of Police or Assistant Commissioner of Police.",
+    "The Central Government may transfer investigations to a Central Investigating Agency when required."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t03-0",
+   "type": "MCQ",
+   "passage": "Exam malpractice damages more than one test. When the credibility of the system falls, the market value of degrees and merit rankings can fall with it. Re-conducting a compromised examination also places a heavy financial burden on government institutions, and large-scale cheating makes parents and students lose confidence in educational fairness. Students are hit too. Cancellations delay admissions, and honest candidates face stress and demotivation.\n\nAfter the NEET-UG 2024 controversy, the Ministry of Education set up a high-level committee. Its major recommendations address the functioning of the testing agency and the way examinations are conducted. The panel proposed limiting the role of the National Testing Agency to entrance examinations, and it suggested a technology-enabled authentication system. It also called for governance reforms through an empowered governing body, and for more secure examination centres. Over time, the panel suggested that future entrance examinations move gradually towards computer adaptive testing.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many new posts did the panel recommend creating for administration, IT infrastructure and digital security?",
+     "options": [
+      "Five",
+      "Fifty",
+      "Twenty",
+      "Ten"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Assertion (A): The panel recommended greater use of Kendriya Vidyalaya Sangathan and Jawahar Navodaya Vidyalaya campuses as examination centres.\nReason (R): These campuses are considered secure examination centres.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Match List I with List II:\nI. Governance reforms   ->   A. Computer Adaptive Testing\nII. Institutional restructuring   ->   B. Technology-enabled authentication system\nIII. Digi-Exam framework   ->   C. Empowered governing body with sub-committees\nIV. Shift towards online examinations   ->   D. Creation of 10 new posts",
+     "options": [
+      "I-C, II-A, III-B, IV-D",
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-D, III-B, IV-A",
+      "I-B, II-C, III-A, IV-D"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following statements about the panel's recommendations:\nI. The panel recommended an empowered governing body with dedicated sub-committees.\nII. The panel recommended that private coaching institutes be used as examination centres.\nIII. The panel proposed gradual adoption of Computer Adaptive Testing for future entrance examinations.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "How many of the following statements about the panel's recommendations are correct?\nI. The NTA should focus only on entrance examinations for higher education institutions.\nII. The panel proposed creating 10 new posts for administration, IT infrastructure and digital security.\nIII. The panel recommended an empowered governing body with dedicated sub-committees.\nIV. The panel recommended that the NTA conduct recruitment examinations.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many sub-committees did the panel recommend for the empowered governing body?",
+     "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "For which institutions did the panel propose limiting the NTA's role to entrance examinations?",
+     "options": [
+      "Schools",
+      "Higher education institutions",
+      "State governments",
+      "Private coaching centres"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "The panel's proposed technology-enabled authentication system is similar to which existing system?",
+     "options": [
+      "DigiLocker",
+      "UPI",
+      "Aadhaar",
+      "Digi-Yatra"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t03-1",
+   "type": "TITA",
+   "passage": "The Public Examination (Prevention of Unfair Means) Act 2024 was framed to curb paper leaks, organised cheating and manipulation in recruitment and entrance examinations. It covers a broad range of unfair means. Leaking question papers or answer keys, impersonating a candidate, and giving unauthorised assistance during an examination are all covered. So are tampering with computer systems or networks, conducting fake examinations, and manipulating merit lists or official documents.\n\nPunishments depend on the offence and on the person responsible. Individuals who are found guilty can face imprisonment as well as monetary penalties, and organised malpractice carries monetary penalties as well. Service providers who run examinations can be fined and barred from conducting examinations for a fixed period. Organised crimes are punished separately under the Act.\n\nOffences under the Act are serious. Investigations are carried out by senior police officers, and the Central Government has the power to shift an investigation to a central agency where needed. Together, these provisions treat examination fraud as a serious crime rather than a minor lapse.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the minimum imprisonment (in years) for an individual found guilty under the Act?"
+    },
+    {
+     "n": 2,
+     "q": "For how many years can a service provider be debarred from conducting examinations (in years)?"
+    },
+    {
+     "n": 3,
+     "q": "What is the maximum monetary penalty (in crore rupees) for an individual in a case involving organised malpractice?"
+    },
+    {
+     "n": 4,
+     "q": "What is the minimum imprisonment (in years) for organised crimes under the Act?"
+    },
+    {
+     "n": 5,
+     "q": "Which two property-related measures can be applied to organised crimes under the Act (give both terms)?"
+    },
+    {
+     "n": 6,
+     "q": "What is the maximum imprisonment (in years) for an individual found guilty under the Act?"
+    },
+    {
+     "n": 7,
+     "q": "What is the maximum fine (in crore rupees) for a service provider under the Act?"
+    }
+   ]
+  }
+ ]
+}

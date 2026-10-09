@@ -1,0 +1,197 @@
+{
+ "topic": "Increase in Supreme Court Judge Strength",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Expansion Bill and Legal Framework",
+   "summary": "The Union Cabinet approved the Supreme Court (Number of Judges) Amendment Bill 2026 to expand the Court to 38 judges, which is the Chief Justice plus 37 other judges. Article 124 empowers Parliament to change the number of judges by law, and the Supreme Court (Number of Judges) Act, 1956 governs this. The Court was inaugurated in 1950 and succeeded the Federal Court of India.",
+   "facts": [
+    "Cabinet approved the Supreme Court (Number of Judges) Amendment Bill 2026",
+    "Proposed strength is 38 judges (CJI plus 37 other judges)",
+    "Article 124 empowers Parliament to increase judges by law",
+    "Governed by the Supreme Court (Number of Judges) Act, 1956",
+    "Increase needs an Amendment Bill passed by both Houses",
+    "Simple majority is sufficient; Presidential assent is also needed",
+    "Inaugurated on 28 January 1950",
+    "Succeeded the Federal Court of India (Government of India Act, 1935)",
+    "Replaced the British Privy Council as the highest court of appeal",
+    "Originally fixed at 8 (Chief Justice and 7 other judges)"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Qualifications, Tenure and Removal",
+   "summary": "Judges of the Supreme Court are appointed by the President, subject to qualifications set in the Constitution. A judge holds office until the age of 65 and may resign by writing to the President. Removal is only on grounds of proven misbehaviour or incapacity, under the Judges Enquiry Act, 1968, and needs a Parliamentary vote.",
+   "facts": [
+    "Judges are appointed by the President",
+    "Must be a citizen of India",
+    "Five years as a High Court judge is one qualification route",
+    "A Distinguished Jurist in the President's opinion is another route",
+    "No fixed tenure; holds office until 65 years of age",
+    "A judge may resign by writing to the President",
+    "Removal only on proven misbehaviour or incapacity",
+    "Removal by the President on Parliament's recommendation",
+    "Judges Enquiry Act, 1968 governs the removal procedure for SC and HC judges",
+    "Justice Soumitra Sen (2011) resigned before Lok Sabha discussion"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "CJI Appointment Convention and Collegium",
+   "summary": "Until 1973 the seniormost judge was normally appointed Chief Justice of India, a convention that was broken in 1973 and 1977. The Second Judges Case (1993) ruled that only the seniormost judge should be appointed CJI and that consultation means concurrence. The 2015 Fourth Judges Case struck down the NJAC and the 99th Amendment.",
+   "facts": [
+    "Till 1973, the seniormost judge was normally appointed CJI",
+    "1973: AN Ray appointed CJI, superseding JM Shelat, KS Hegde and AN Grover",
+    "1977: MU Beg appointed CJI, superseding HR Khanna",
+    "1981 (First Judges Case): consultation only implies exchange of views",
+    "1993 (Second Judges Case): consultation changed to mean concurrence",
+    "1993: only the seniormost judge should be appointed CJI",
+    "1998 (Third Judges Case): CJI must consult a collegium of 4 seniormost judges",
+    "1998: if 2 judges give an adverse opinion, no recommendation is sent",
+    "2015 (Fourth Judges Case): 99th Amendment and NJAC Act declared void",
+    "NJAC: CJI chairperson, 2 seniormost judges, Law Minister, 2 eminent persons"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Jurisdiction and Temporary Appointments",
+   "summary": "The Supreme Court has appellate, original and advisory jurisdiction. Article 32 allows direct approach for violation of Fundamental Rights, while the President can seek an advisory opinion under Article 143 that is not binding. Articles 126, 127 and 128 allow an Acting CJI, ad hoc judges and retired judges in specified situations.",
+   "facts": [
+    "Appellate jurisdiction covers appeals against lower court judgments",
+    "Appeals from High Courts need a certificate under Article 134A",
+    "Article 131 gives original jurisdiction in certain disputes",
+    "Article 32: direct approach for violation of Fundamental Rights",
+    "Article 143: President may seek advisory opinion on public importance questions",
+    "Advisory opinion is NOT binding on the President",
+    "Article 126: Acting CJI appointed when CJI post is vacant or absent",
+    "Article 127: CJI can appoint a High Court judge as ad hoc judge for lack of quorum",
+    "Article 127 needs prior consent of the President",
+    "Article 128: retired SC or HC judge can be requested to sit, with consent"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t05-0",
+   "type": "MCQ",
+   "passage": "The Supreme Court of India sits at the apex of the country's judicial system and is described as the final interpreter and guardian of the Constitution. It began functioning in the early months of 1950 and took over the role of the highest court of appeal that the British Privy Council had earlier held. The Court's strength is not fixed in the Constitution; it can be changed by law, and it has grown over the years from its original size. The Union Cabinet has now approved a bill to enlarge the bench further. The government's aim is to tackle the Court's growing caseload, which has led to a massive backlog of cases. A bigger bench is expected to speed up the disposal of cases and improve timely delivery of justice in constitutional and civil matters. It would also make it easier to constitute constitution benches, special benches and larger benches for important cases. Such an expansion is seen as a way of strengthening judicial capacity. The amendment bill must pass through both Houses of Parliament before it can take effect, and it also needs the President's assent. Judges of the Court are appointed by the President, and the Constitution sets out the organisation, independence, jurisdiction and powers of the Court in detail.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The Union Cabinet approved a bill to expand the Supreme Court to how many judges, counting the Chief Justice of India?",
+     "options": [
+      "36",
+      "38",
+      "40",
+      "42"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Assertion (A): Parliament can increase the number of judges of the Supreme Court by law.\nReason (R): Article 124 of the Constitution empowers Parliament to increase the number of Supreme Court judges by law.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Match List I with List II:\nI. Justice Soumitra Sen (2011)   ->   A. Resigned before impeachment proceedings could be initiated\nII. Justice Ramaswami (1993)   ->   B. Motion failed due to lack of signatures\nIII. Justice C. V. Nagarjuna (2017)   ->   C. Motion failed as Lok Sabha abstained from voting\nIV. PD Dinakaran (2011)   ->   D. Impeached in Rajya Sabha but resigned before Lok Sabha discussion",
+     "options": [
+      "I-A, II-D, III-C, IV-B",
+      "I-C, II-B, III-A, IV-D",
+      "I-D, II-C, III-B, IV-A",
+      "I-C, II-A, III-B, IV-D"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following statements about the Supreme Court of India:\nI. The Chief Justice of India is appointed by the President after consulting such judges as he deems necessary.\nII. A Supreme Court judge holds office until attaining the age of 65 years.\nIII. A Supreme Court judge is removed by the President on the recommendation of the Union Cabinet.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "How many of the following statements about the Supreme Court of India are correct?\nI. It was inaugurated on 26 January 1950.\nII. It originally had eight judges, including the Chief Justice.\nIII. It succeeded the Federal Court of India.\nIV. Its advisory opinion is binding on the President.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Under Article 127, before the CJI appoints a High Court judge as an ad hoc judge of the Supreme Court, whose previous consent is required in addition to consultation with that High Court's Chief Justice?",
+     "options": [
+      "Attorney General of India",
+      "Union Minister of Law and Justice",
+      "President of India",
+      "Prime Minister"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Articles 124 to 147, which deal with the organisation, independence, jurisdiction and powers of the Supreme Court, are placed in which Part of the Constitution?",
+     "options": [
+      "Part 3",
+      "Part 4",
+      "Part 5",
+      "Part 6"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Which judge was NOT superseded when AN Ray was appointed Chief Justice of India in 1973?",
+     "options": [
+      "JM Shelat",
+      "KS Hegde",
+      "AN Grover",
+      "HR Khanna"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t05-1",
+   "type": "TITA",
+   "passage": "Judges of the Supreme Court are appointed by the President, and the Constitution lays down the qualifications a person must have before appointment. A candidate must be a citizen of India and must meet one of several experience-based or distinguished-jurist criteria. Once in office, a judge does not serve a fixed term. Instead, the judge continues until reaching a set retirement age, and may also choose to leave earlier by writing to the President. The Constitution provides a formal route for removal, which is kept demanding so that judges can work without fear. Removal is permitted only on the grounds of proven misbehaviour or incapacity. A special law governs the procedure, and the same process applies to judges of the Supreme Court and of the High Courts. Several judges have faced removal motions in Parliament, and in some cases the motion failed or the judge resigned before the process was complete. The question of who should decide appointments has been debated for decades, and Court rulings have repeatedly reshaped the process. Consultation between the Chief Justice and other senior judges sits at the heart of that debate. These disputes show how closely appointments and removals are linked to judicial independence.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Until what age (in years) does a Supreme Court judge hold office?"
+    },
+    {
+     "n": 2,
+     "q": "In which year was the Act that governs the removal procedure for Supreme Court and High Court judges enacted?"
+    },
+    {
+     "n": 3,
+     "q": "Which judge was impeached in Rajya Sabha in 2011 but resigned before the Lok Sabha discussion? (full name)"
+    },
+    {
+     "n": 4,
+     "q": "In which year did the Supreme Court, in the Second Judges Case, hold that consultation means concurrence?"
+    },
+    {
+     "n": 5,
+     "q": "According to the Third Judges Case, how many seniormost judges make up the collegium that the CJI must consult? (in number)"
+    },
+    {
+     "n": 6,
+     "q": "How many eminent persons from civil society are to be nominated to the NJAC? (in number)"
+    },
+    {
+     "n": 7,
+     "q": "Who was appointed Chief Justice of India in 1977 by superseding HR Khanna? (name as in text)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,367 @@
+[
+ {
+  "topic": "PM Modi Visit to 5 Nations",
+  "page": 5,
+  "what": "'3% Largest Trade Partner after China and US': the ordinal is garbled (3rd or 3%); not used"
+ },
+ {
+  "topic": "PM Modi Visit to 5 Nations",
+  "page": 6,
+  "what": "'12U2 (India - Israel - UAE - USA)': the grouping label is garbled; not used"
+ },
+ {
+  "topic": "PM Modi Visit to 5 Nations",
+  "page": 7,
+  "what": "'Himadri Station (Svalbard) in Norway (2008)': column layout merges the year, so it is unclear whether 2008 belongs to Himadri; not used"
+ },
+ {
+  "topic": "PM Modi Visit to 5 Nations",
+  "page": 7,
+  "what": "'European Country after India-France-Australia' line is unclear in layout; not used"
+ },
+ {
+  "topic": "PM Modi Visit to 5 Nations",
+  "page": 7,
+  "what": "'2nd Indo-Pacific Trilateral' line for India-Italy-Japan is broken across columns; not used"
+ },
+ {
+  "topic": "PM Modi Visit to 5 Nations",
+  "page": 8,
+  "what": "IMEC map labels (ports and countries) are garbled; not used"
+ },
+ {
+  "topic": "PM Modi Visit to 5 Nations",
+  "page": 9,
+  "what": "Anaimangalam inscriptions: Tamil and Sanskrit section roles are stated two different ways (summary line vs bullets); not used"
+ },
+ {
+  "topic": "UAE's Exit from OPEC and OPEC+",
+  "page": 12,
+  "what": "OPEC 2025 crude production share chart values are garbled; not used."
+ },
+ {
+  "topic": "UAE's Exit from OPEC and OPEC+",
+  "page": 13,
+  "what": "Gulf Cooperation Council box (formation year and details) is garbled; not used."
+ },
+ {
+  "topic": "UAE's Exit from OPEC and OPEC+",
+  "page": 13,
+  "what": "India crude import supplier share chart values are garbled; not used."
+ },
+ {
+  "topic": "UAE's Exit from OPEC and OPEC+",
+  "page": 14,
+  "what": "Membership timeline entries for Ecuador, Indonesia, Gabon and Qatar (joining, rejoining and terminating dates) are garbled; not used."
+ },
+ {
+  "topic": "UAE's Exit from OPEC and OPEC+",
+  "page": 14,
+  "what": "OPEC+ member list is partly garbled with repeated names; only the non-OPEC list on page 13 was used."
+ },
+ {
+  "topic": "UAE's Exit from OPEC and OPEC+",
+  "page": 15,
+  "what": "Practice question says UAE is the world's largest oil reserve holder, which conflicts with the 6th largest stated on page 13; not used."
+ },
+ {
+  "topic": "UAE's Exit from OPEC and OPEC+",
+  "page": 16,
+  "what": "Practice question calls UAE the largest oil producer, which conflicts with the 3rd largest stated on page 13; not used."
+ },
+ {
+  "topic": "NEET Paper Leak Controversy",
+  "page": 17,
+  "what": "Number of candidates with full marks in 2024 (67) was not used because the side-column text is interleaved with other text"
+ },
+ {
+  "topic": "NEET Paper Leak Controversy",
+  "page": 20,
+  "what": "Monetary option values in the practice question on service-provider penalties are garbled (710, 50, 75 Lakh) and were not used"
+ },
+ {
+  "topic": "Bhojshala - Kamal Maula Complex",
+  "page": 21,
+  "what": "Term written as 'Bhojgala' in the OCR text; not used. Page 23 reads 'Bhojshala' clearly, and that spelling is used."
+ },
+ {
+  "topic": "Bhojshala - Kamal Maula Complex",
+  "page": 21,
+  "what": "Arab traveler Al-Masudi quote ('King ... Baura') is cut off and unclear; not used."
+ },
+ {
+  "topic": "Bhojshala - Kamal Maula Complex",
+  "page": 22,
+  "what": "Places of Worship Act criticism box is jumbled (federalism and State List lines); the criticism points used are the clearly readable ones only."
+ },
+ {
+  "topic": "Bhojshala - Kamal Maula Complex",
+  "page": 23,
+  "what": "Numeral in 'Mehmudshah Khilji' is garbled (I vs II); the numeral is omitted."
+ },
+ {
+  "topic": "Increase in Supreme Court Judge Strength",
+  "page": 25,
+  "what": "Current Court strength is given as 34 in the Bill sentence but as CJI plus 37 other judges elsewhere on the page; current count not used"
+ },
+ {
+  "topic": "Increase in Supreme Court Judge Strength",
+  "page": 26,
+  "what": "Years of practice required for an Advocate of a High Court are garbled (reads '1 ... Years'); not used"
+ },
+ {
+  "topic": "Increase in Supreme Court Judge Strength",
+  "page": 28,
+  "what": "Party descriptions for Article 131 and Article 132 are garbled; only the general original-jurisdiction role is used"
+ },
+ {
+  "topic": "Increase in Supreme Court Judge Strength",
+  "page": 29,
+  "what": "Vote threshold and signature count for the removal motion are garbled; not used"
+ },
+ {
+  "topic": "Increase in Supreme Court Judge Strength",
+  "page": 29,
+  "what": "Outcomes for the 2015 entries (Gangele and Pardiwala) are misaligned in the layout; not used"
+ },
+ {
+  "topic": "Anti-Defection Law",
+  "page": 33,
+  "what": "Kihoto Hollohan entry says the Speaker's decision under the 10th Schedule is 'final', which conflicts with the page 32 statement that it is subject to judicial review; the 'final' line was not used"
+ },
+ {
+  "topic": "Anti-Defection Law",
+  "page": 33,
+  "what": "Reform-suggestion block (EC advice on disqualification, whips only when government is at risk, removal of split exemption) has no readable heading or context; not used"
+ },
+ {
+  "topic": "Anti-Defection Law",
+  "page": 33,
+  "what": "Heading and article list in the 'Act Amended' block are garbled; Articles 102(1) and 191(1) were taken from the clear lines on pages 32 and 34 instead"
+ },
+ {
+  "topic": "Anti-Defection Law",
+  "page": 33,
+  "what": "The Presidential Poll exemption and the presiding officer exemption lines are interleaved and garbled; not used"
+ },
+ {
+  "topic": "Anti-Defection Law",
+  "page": 33,
+  "what": "The court line for Shrimanth Balasaheb Patil is partly garbled ('Laid by SC in'); only the case name, year and review grounds were used"
+ },
+ {
+  "topic": "India's Forex Stress and Call for Economic Austerity",
+  "page": 37,
+  "what": "Oil marketing companies' monthly under-recovery figure is garbled (digits and rupee sign unreadable); not used"
+ },
+ {
+  "topic": "India's Forex Stress and Call for Economic Austerity",
+  "page": 37,
+  "what": "Gold import value reads as both 71.98 and 71.97 billion; only the rounded 'nearly USD 72 billion' is used"
+ },
+ {
+  "topic": "India's Forex Stress and Call for Economic Austerity",
+  "page": 37,
+  "what": "Share of Liberalised Remittance Scheme outflows spent on travel and overseas weddings is interleaved with table text; not used"
+ },
+ {
+  "topic": "India's Forex Stress and Call for Economic Austerity",
+  "page": 37,
+  "what": "FY22 to FY26 gold import value and tonnage table is partly garbled (e.g. FY24 row); not used"
+ },
+ {
+  "topic": "India's Forex Stress and Call for Economic Austerity",
+  "page": 36,
+  "what": "Balance of Payments diagram labels (current and capital account items) are garbled; BoP structure not used"
+ },
+ {
+  "topic": "World Press Freedom Index 2026",
+  "page": 41,
+  "what": "Bottom-ranked order written as 'Eritrea < North Korea < China < Iran < Saudi Arabia' has garbled symbols; only the country names are used and their order is not."
+ },
+ {
+  "topic": "National Technology Day 2026",
+  "page": 53,
+  "what": "Power (kt) of the three Pokhran-II devices (atom, hydrogen, sub-kiloton): values are garbled in the OCR, not used"
+ },
+ {
+  "topic": "National Technology Day 2026",
+  "page": 53,
+  "what": "Codename(s) of the two 13 May 1998 tests: OCR reads 'Shakti — II' twice, not used"
+ },
+ {
+  "topic": "International Labour Day",
+  "page": 56,
+  "what": "Theme year: page 56 gives 2026 for the theme, but the practice question on page 58 calls the same theme 2024; the theme and its year were not used"
+ },
+ {
+  "topic": "International Labour Day",
+  "page": 57,
+  "what": "Line 'Conventions 1-6 are ratified by India' does not match the eight conventions listed beneath it; not used"
+ },
+ {
+  "topic": "International Labour Day",
+  "page": 57,
+  "what": "Member count (187) sits in a garbled Overview layout box; not used"
+ },
+ {
+  "topic": "International Labour Day",
+  "page": 56,
+  "what": "Which specific Acts fall under each labour code is garbled in Chart 1; only the code totals (4, 3, 13, 9; total 29) were used"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 60,
+  "what": "Vietnam's rank as India's trading partner in ASEAN: superscript ordinal after the 4 is garbled"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 62,
+  "what": "Ebola alert ranking ('2 Highest Global Health Alert after PHEIC'): ordinal superscript garbled"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 63,
+  "what": "Cotton rank as world's second largest producer and consumer: ordinal garbled; the sentence attributing largest cultivation area is also garbled"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 63,
+  "what": "CSIR-NBRI pink bollworm-resistant GM cotton ranking ('World's I'): ordinal unclear"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 64,
+  "what": "Schedule reference of the Citizenship Rules amendment ('Schedule 1C' vs 'Schedule IC') is unclear"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 64,
+  "what": "Deprivation thresholds: jail term number (2 vs 22 years) and long residence abroad number are garbled"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 64,
+  "what": "Passport surrender trigger wording ('within 15 days submission') is garbled; the 15-day figure is used but the start point is not"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 65,
+  "what": "PMEGP minimum-qualification project cost thresholds: rupee symbols garbled ('=10 Lakh', '%5 Lakh')"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 65,
+  "what": "FRP sugarcane increase amount per quintal: currency symbol missing"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 66,
+  "what": "Harbans Singh Jalal vs Union of India (1997) and the Model Code of Conduct start-date line are garbled together; the case-to-year link is unclear"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 67,
+  "what": "Contingent Risk Buffer range stated as 6.5% to 5.5% conflicts with 4.5% to 7.5% on page 66"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 67,
+  "what": "SAARC currency swap amounts ('1 230 Billion', '2250 Billion INR') are garbled"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 67,
+  "what": "New Zealand's rank as India's trading partner in Oceania: ordinal garbled"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 67,
+  "what": "Number of sectors with Most-Favoured Nation treatment ('139 Sectors') is garbled"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 68,
+  "what": "PMI 'slowest pace of improvement in nearly four years' ordinal garbled"
+ },
+ {
+  "topic": "Miscellaneous (Part 2)",
+  "page": 69,
+  "what": "PAI 2.0 Achiever (A+) threshold is printed as '=90'; the symbol (= or >=) is unclear, so the cut-off is not used."
+ },
+ {
+  "topic": "Miscellaneous (Part 2)",
+  "page": 69,
+  "what": "Dedicated OCR junk in the MARS expansion line ('Extra Shots'); the expansion and coverage are used from clearer lines only."
+ },
+ {
+  "topic": "Miscellaneous (Part 2)",
+  "page": 71,
+  "what": "Challenges-within-SCO line is garbled ('sed Dec d limits decisi'); not used."
+ },
+ {
+  "topic": "Miscellaneous (Part 2)",
+  "page": 71,
+  "what": "IORA think-tank line has garbled text ('1943 | Foreign Policy Think Tank'); the think-tank name and year are not used."
+ },
+ {
+  "topic": "Miscellaneous (Part 2)",
+  "page": 74,
+  "what": "Sikkim timeline graphic labels (1642, 1890, 1947, 1975) are garbled and partly conflict with the treaty list; only the treaty and amendment entries are used."
+ },
+ {
+  "topic": "Miscellaneous (Part 2)",
+  "page": 75,
+  "what": "Sentence on India's rank in Asian troop contribution ('3rd after Nepal and Bangladesh') reads ambiguously; not used."
+ },
+ {
+  "topic": "Miscellaneous (Part 2)",
+  "page": 76,
+  "what": "Name of the 'Clean and Green Panchayat Award' winner is garbled ('Kawrthah North Village Council'); not used."
+ },
+ {
+  "topic": "AILET Corner: Current Affairs May 2026",
+  "page": 77,
+  "what": "Human-Elephant Conflict Research Centre described as 'India's 1 dedicated' (ordinal garbled); the word 'first' was not used."
+ },
+ {
+  "topic": "AILET Corner: Current Affairs May 2026",
+  "page": 77,
+  "what": "Urban Testbed and Aerosol Observatory described as 'India's 1 Urban Testbed' (ordinal garbled); the word 'first' was not used."
+ },
+ {
+  "topic": "AILET Corner: Current Affairs May 2026",
+  "page": 77,
+  "what": "National AI programme titled 'Skilling Programme' in the heading but 'Skilling Initiative' in the body; the body wording was used."
+ },
+ {
+  "topic": "AILET Corner: Current Affairs May 2026",
+  "page": 78,
+  "what": "Kalam & Kavach theme reads 'Taking JAI Forward With P?' (final letter garbled); only the JAI expansion was used, not the theme."
+ },
+ {
+  "topic": "AILET Corner: Current Affairs May 2026",
+  "page": 78,
+  "what": "TARA described as 'India's 1 Indigenous Glide Weapon System' (ordinal garbled); the word 'first' was not used."
+ },
+ {
+  "topic": "AILET Corner: Current Affairs May 2026",
+  "page": 78,
+  "what": "The 'Flagship Initiative of MoES' and the objective 'Weather-Ready' and 'Climate-Smart' follow the testbed entry; the OCR layout does not clearly tie them to Mission Mausam, so they were not used."
+ },
+ {
+  "topic": "AILET Corner: Current Affairs May 2026",
+  "page": 79,
+  "what": "Border Roads Organisation Raising Day of Project Deepak reads '66' with a garbled quotation mark; the number was not used."
+ },
+ {
+  "topic": "AILET Corner: Current Affairs May 2026",
+  "page": 79,
+  "what": "NCRB report described as '1 edition' (ordinal garbled); only the BNS-inclusion fact was used."
+ },
+ {
+  "topic": "AILET Corner: Current Affairs May 2026",
+  "page": 79,
+  "what": "Eurozone bullet 'HQ: Frankfurt' sits in the Eurozone list but is read as the ECB headquarters, the institution named on page 78; the link is inferred from layout."
+ }
+]

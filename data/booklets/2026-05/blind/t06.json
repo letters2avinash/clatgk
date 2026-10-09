@@ -1,0 +1,200 @@
+{
+ "topic": "Anti-Defection Law",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Origin and Objective",
+   "summary": "The Anti-Defection Law was introduced through the 52nd Constitutional Amendment Act, 1985, and placed in the Tenth Schedule of the Constitution. Its objective is to prevent political defections and ensure stability in governments. The phrase 'Aaya Ram Gaya Ram' is linked to frequent party-switching by legislators in the 1960s. The law applies to both Parliament and State Assemblies.",
+   "facts": [
+    "Introduced through the 52nd Constitutional Amendment Act, 1985",
+    "Enshrined in the Tenth Schedule of the Constitution",
+    "Objective: prevent political defections and ensure stability in governments",
+    "Phrase 'Aaya Ram Gaya Ram' linked to frequent party-switching in the 1960s",
+    "Applies to both Parliament and State Legislatures",
+    "Constitutional basis: Articles 102(1) and 191(1)",
+    "Lays down the process for disqualifying legislators on grounds of defection"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Grounds for Disqualification",
+   "summary": "A legislator loses membership if they voluntarily give up party membership or vote or abstain contrary to the party whip. Under Articles 102(1) and 191(1), a legislator can also be disqualified for holding an office of profit, being declared of unsound mind by a court, being an undischarged insolvent, losing Indian citizenship or showing allegiance to another country, or being disqualified under any law made by Parliament. The booklet also lists joining another party and opposing party direction as grounds in the disqualification summary.",
+   "facts": [
+    "Voluntarily giving up party membership is a ground for disqualification",
+    "Voting or abstaining contrary to the party whip is a ground for disqualification",
+    "Holding an office of profit is a ground under Articles 102(1) and 191(1)",
+    "Being declared of unsound mind by a court is a ground",
+    "Being an undischarged insolvent is a ground",
+    "Losing Indian citizenship or showing allegiance to another country is a ground",
+    "Disqualification under any law made by Parliament is a ground"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Exceptions, Mergers and Member Categories",
+   "summary": "A party can merge without disqualification if two-thirds of the members of a legislature party agree, a provision retained after the 91st Constitutional Amendment Act, 2003. That amendment removed the earlier split provision, under which one-third of members could split without disqualification. A whip breach is excused if prior permission is taken or the party condones the action within 15 days. Independent members are disqualified for joining a party after election, while nominated members are disqualified for joining after six months of nomination.",
+   "facts": [
+    "Merger: no disqualification if two-thirds of a legislature party agree to merge",
+    "Earlier, one-third of members could split without disqualification",
+    "The 91st Constitutional Amendment Act (2003) removed the split provision",
+    "Whip exception: prior permission taken, or party condones the action within 15 days",
+    "Independent member: disqualified if they join a party after election",
+    "Nominated member: disqualified if they join a party after six months of nomination",
+    "Merger provision is an exception to disqualification under the law"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Deciding Authority and Judicial Review",
+   "summary": "The Speaker (Lok Sabha) or the Chairman (Rajya Sabha) decides disqualification petitions, and the decision is subject to judicial review. Keisham Meghachandra Singh vs Speaker Manipur (2020) says such decisions should ideally be made within 3 months. The grounds for reviewing a Speaker's decision, laid down in Shrimanth Balasaheb Patil vs Speaker Karnataka (2019), include violation of a constitutional mandate, malafide intent, a perverse decision, and failure to follow natural justice.",
+   "facts": [
+    "Speaker (Lok Sabha) or Chairman (Rajya Sabha) decides disqualification",
+    "Decision of the Speaker or Chairman is subject to judicial review",
+    "Kihoto Hollohan vs Zachillhu (1992): Speaker's decisions subject to judicial review",
+    "Keisham Meghachandra Singh vs Speaker Manipur (2020): decisions ideally within 3 months",
+    "Shrimanth Balasaheb Patil vs Speaker Karnataka (2019): review grounds include malafide intent and perverse decision",
+    "Ravi S Naik vs Union of India: membership can be inferred from members' conduct"
+   ]
+  },
+  {
+   "i": 4,
+   "title": "Significance, Criticisms and Key Issues",
+   "summary": "The law allows party mergers without disqualifying members, prevents defections for office or material gain, and supports party stability and discipline. Critics point to long delays in deciding disqualification petitions, allegations that presiding officers act partisanly, and limited judicial intervention before the Speaker decides. They also argue that the two-thirds merger clause enables mass defections and that the rigid whip system reduces intra-party democracy.",
+   "facts": [
+    "Prevents defections for office or material gain",
+    "Ensures party stability and prevents government instability",
+    "Ensures party discipline through adherence to the whip",
+    "Makes legislators accountable for their conduct",
+    "Key issue: disqualification petitions often remain pending for long durations",
+    "Key issue: allegations of bias, as Speaker or Chairman may act partisanly",
+    "Key issue: courts typically intervene only after the Speaker's decision",
+    "Key issue: rigid whip system, including whips on non-critical matters",
+    "Key issue: two-thirds merger clause enables large-scale defections"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t06-0",
+   "type": "MCQ",
+   "passage": "Legislators in India are elected on the ticket of a political party, and the anti-defection framework exists to discourage them from switching sides after the election. The rules sit in a schedule of the Constitution and cover members of both Parliament and State legislatures. Their aim is to keep governments stable and to make elected representatives answerable to the party that fielded them. Not every departure is treated the same way, however. The law treats independent members and nominated members differently, depending on when they choose to join a party. Political parties enforce discipline through whips, which direct members how to vote, and the law links defiance of those whips to possible loss of membership. The framework also allows whole groups of members to combine with another party under certain conditions, a feature critics say can encourage large-scale movement between parties. Decisions on these cases are taken by the presiding officer of each house, and courts review those decisions in limited ways. Judges have stressed that such decisions should not be delayed indefinitely, while commentators continue to question whether presiding officers can act impartially when they belong to the ruling party. The debate reflects a wider tension between stable government and the independence that individual legislators may want to exercise.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The Anti-Defection Law is enshrined in which Schedule of the Indian Constitution?",
+     "options": [
+      "8th Schedule",
+      "9th Schedule",
+      "10th Schedule",
+      "11th Schedule"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Assertion (A): Independent members can be disqualified for joining a party after their election.\nReason (R): Independent members can join a party at any time without penalty.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Match List I with List II:\nI. 52nd Constitutional Amendment Act (1985)   ->   A. Removed the split provision\nII. 91st Constitutional Amendment Act (2003)   ->   B. Decisions ideally within 3 months\nIII. Keisham Meghachandra Singh vs Speaker Manipur (2020)   ->   C. Phrase linked to party-switching in the 1960s\nIV. Aaya Ram Gaya Ram   ->   D. Introduced the Anti-Defection Law",
+     "options": [
+      "I-D, II-C, III-A, IV-B",
+      "I-D, II-A, III-B, IV-C",
+      "I-B, II-A, III-C, IV-D",
+      "I-D, II-B, III-C, IV-A"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following statements about the Anti-Defection Law:\nI. The Chairman of Rajya Sabha decides disqualification petitions of Rajya Sabha members.\nII. Members are not disqualified if two-thirds of a legislature party agree to merge with another party.\nIII. The 91st Constitutional Amendment Act (2003) allowed one-third of members to split without disqualification.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "How many of the following statements about the Anti-Defection Law are correct?\nI. Nominated members are disqualified if they join a party after six months of nomination.\nII. Decisions on disqualification should ideally be made within six months.\nIII. A legislator who is declared of unsound mind by a court can be disqualified.",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Under which Articles of the Constitution can a legislator be disqualified on general grounds?",
+     "options": [
+      "Articles 100(1) and 189(1)",
+      "Articles 105(1) and 194(1)",
+      "Articles 110(1) and 199(1)",
+      "Articles 102(1) and 191(1)"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How does the Anti-Defection Law curtail legislative freedom?",
+     "options": [
+      "It restricts members from voting independently and expressing dissent in the legislature",
+      "It bans members from speaking in Parliament without party approval",
+      "It prevents members from joining parliamentary committees",
+      "It bars members from raising private member bills"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Under the Anti-Defection Law, which exception applies when a legislator votes against the party whip?",
+     "options": [
+      "If the Supreme Court grants a stay",
+      "If prior permission is taken or the party condones the action within 15 days",
+      "If at least half the party members support the action",
+      "If the Speaker approves the deviation beforehand"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t06-1",
+   "type": "TITA",
+   "passage": "Once a disqualification petition is filed against a legislator, the central question becomes who decides it. The Constitution gives this power to the presiding officer of the house to which the member belongs, rather than to a court or to the executive. Critics argue that this arrangement places a significant power in the hands of someone who is often a member of the ruling party, which raises concerns about partisanship. Courts can step in, but generally only after the presiding officer has issued a decision, so the timing of judicial intervention is a recurring concern. Petitions can remain pending for long periods, and that delay can shape the stability of a government long before a final verdict is reached. Judges have said such decisions should be taken within a reasonable timeframe, although deadlines are not always met in practice. A decision may be reviewed by a court on specific grounds, such as when it violates a constitutional requirement, reflects bad faith, or is so unreasonable that no proper authority could have reached it. The procedure also has to respect basic fairness, which means the affected member must be heard. Such review is an important safeguard, yet it does not replace the initial role of the presiding officer in the process.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Who decides disqualification petitions for members of the Lok Sabha? (designation)"
+    },
+    {
+     "n": 2,
+     "q": "Who decides disqualification petitions for members of the Rajya Sabha? (designation)"
+    },
+    {
+     "n": 3,
+     "q": "What fraction of the members of a legislature party must agree for a merger to avoid disqualification? (in words)"
+    },
+    {
+     "n": 4,
+     "q": "Within how many months should decisions on disqualification ideally be made, as per Keisham Meghachandra Singh vs Speaker Manipur (2020)? (in months)"
+    },
+    {
+     "n": 5,
+     "q": "After how many months of nomination does a nominated member become liable to disqualification for joining a party? (in months)"
+    },
+    {
+     "n": 6,
+     "q": "Which 2019 case involving the Karnataka Speaker lists the grounds for reviewing a Speaker's decision? (first-named party's name)"
+    },
+    {
+     "n": 7,
+     "q": "What is the first-named party in the 1992 judgment on Speaker's decisions under the Tenth Schedule? (name)"
+    }
+   ]
+  }
+ ]
+}

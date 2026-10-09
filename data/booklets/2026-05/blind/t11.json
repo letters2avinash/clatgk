@@ -1,0 +1,196 @@
+{
+ "topic": "International Labour Day",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Origin of International Labour Day",
+   "summary": "International Labour Day, also called Workers Day or May Day, is observed every year on May 1 to honour the contribution of workers. Its origin is traced to the late 19th century labour movement in the United States, where workers demanded an eight-hour working day. A large 1886 demonstration in Chicago went out of hand, and the incident known as the Haymarket Affair marked the start of the day. In 1889, Socialist Parties in Europe decided to celebrate May 1 as International Labour Day.",
+   "facts": [
+    "Observed annually on May 1",
+    "Also known as Workers Day or May Day",
+    "Origin traced to the late 19th century labour movement in the United States",
+    "1886: large demonstration in America demanded 8 hours of work on a daily basis",
+    "The 1886 demonstration went out of hand in Chicago and many people got hurt",
+    "The incident is known as the Haymarket Affair",
+    "Haymarket Affair marked the start of International Labour Day",
+    "1889: Socialist Parties in Europe decided to celebrate May 1 as International Labour Day",
+    "1923: first May Day in India celebrated in Chennai (then Madras)",
+    "The 1923 celebration was by the Labour Kisan Party of Hindustan"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Constitutional provisions and labour laws",
+   "summary": "The Constitution gives citizens the right to form associations or unions and prohibits forced labour and employment of children below 14 years. Articles 39(a), 41, 43 and 43A set out goals for the State on livelihood, work, a living wage and worker participation in management. Labour legislation includes laws on factories, wages, provident funds and industrial disputes. Four labour codes together amalgamate 29 laws.",
+   "facts": [
+    "Article 19(1)(c): right to form associations or unions",
+    "Article 23: prohibits forced labour",
+    "Article 24: prohibits employment of children below 14 years",
+    "Article 39(a): equal right to an adequate means of livelihood",
+    "Article 41: right to work and education within limits of economic capacity",
+    "Article 43: living wage, decent conditions of work, social and cultural opportunities",
+    "Article 43A: participation of workers in management of industries through legislation",
+    "Factories Act 1948; Minimum Wages Act 1948; Payment of Wages Act 1936; Workmen's Compensation Act 1923",
+    "Employees' Provident Fund Act 1952; Industrial Disputes Act 1947; Contract Labour Act 1970",
+    "Four codes amalgamate 29 laws in total: Wage Code 4, Industrial Relations Code 3, Occupational Safety, Health and Working Conditions Code 13, Social Security Code 9"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "International Labour Organisation: profile",
+   "summary": "The International Labour Organisation is a specialised agency of the United Nations dedicated to improving labour conditions and living standards throughout the world. It was established under the Treaty of Versailles and became the first specialised agency associated with the UN in 1946. Its tripartite structure gives an equal voice to governments, employers and workers. The ILO was awarded the Nobel Prize for Peace in 1969, and its headquarters is in Geneva, Switzerland.",
+   "facts": [
+    "Specialised agency of the United Nations",
+    "Dedicated to improving labour conditions and living standards throughout the world",
+    "Established under the Treaty of Versailles",
+    "Became the first specialised agency associated with the UN in 1946, after the demise of the League of Nations",
+    "Tripartite structure: equal voice for governments, employers and workers",
+    "India is one of the founding members",
+    "Awarded the Nobel Prize for Peace in 1969",
+    "Director General: Gilbert Houngbo",
+    "Headquarters: Geneva, Switzerland"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "ILO objectives, standards and reports",
+   "summary": "The ILO pursues four stated objectives: promoting fundamental labour rights, creating greater opportunities for women and men, enhancing social protection, and strengthening social dialogue and tripartism. Its international labour standards are Conventions and Protocols, which are legally binding treaties, and Recommendations, which are non-binding guidelines. The ILO Declaration on Fundamental Principles and Rights at Work, adopted in 1998, names focus areas such as freedom of association and abolition of child labour. The ILO also publishes key reports, including the Global Wage Report.",
+   "facts": [
+    "Objective: promote and realise standard fundamental labour rights",
+    "Objective: create greater opportunities for women and men",
+    "Objective: enhance social protection",
+    "Objective: strengthen social dialogue and tripartism",
+    "Conventions and Protocols: legally binding international treaties",
+    "Recommendations: non-binding guidelines",
+    "ILO Declaration on Fundamental Principles and Rights at Work: adopted in 1998, amended in 2022",
+    "Focus areas: freedom of association, elimination of forced labour, abolition of child labour, elimination of employment discrimination, safe and healthy working conditions",
+    "Fundamental conventions listed include Minimum Age (No. 138) and Freedom of Association (No. 87)",
+    "Key reports include World Employment and Social Outlook, Global Wage Report, World Social Protection Report and World of Work Report"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t11-0",
+   "type": "MCQ",
+   "passage": "Labour welfare in India is shaped by two sources of authority: the Constitution and a body of ordinary statutes. The Constitution does not only grant rights to individuals; it also sets out aims that the State is expected to pursue. Some provisions protect workers from being made to work against their will, while others shield young people from early employment. Other provisions describe the kind of economic life the State should aim for, including a means of livelihood, employment within economic capacity, fair pay and a voice for workers in the industries where they work. Parliament has translated many of these aims into laws covering factories, wages, provident funds, compensation and disputes between employers and employees. Several of these statutes have since been grouped into a smaller number of broad codes. The codes group rules on wages, industrial relations, social security and occupational safety and health. Each statute addresses a specific aspect of work, such as the payment of wages, the settlement of disputes or compensation to workers. Labour matters also have an international dimension, since a United Nations agency works to improve labour conditions and living standards across the world. Together, these provisions and laws show that labour protection in India has both a constitutional foundation and a statutory one.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which Article of the Indian Constitution prohibits employment of children below the age of 14 years?",
+     "options": [
+      "Article 24",
+      "Article 23",
+      "Article 39(a)",
+      "Article 43"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which Article of the Indian Constitution orders the State to secure a living wage, decent conditions of work and social and cultural opportunities to all workers?",
+     "options": [
+      "Article 39(a)",
+      "Article 41",
+      "Article 43A",
+      "Article 43"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Read the statements below.\nAssertion (A): Article 23 of the Indian Constitution prohibits forced labour.\nReason (R): Article 24 prohibits the employment of children below the age of 14 years.\nSelect the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. Article 19(1)(c)   ->   A. Equal right to an adequate means of livelihood\nII. Article 39(a)   ->   B. Right to work and education within economic capacity\nIII. Article 43A   ->   C. Right to form associations or unions\nIV. Article 41   ->   D. Participation of workers in management of industries",
+     "options": [
+      "I-B, II-A, III-C, IV-D",
+      "I-C, II-A, III-D, IV-B",
+      "I-A, II-B, III-C, IV-D",
+      "I-D, II-C, III-A, IV-B"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about labour provisions in the Indian Constitution:\nI. Article 23 prohibits forced labour.\nII. Article 19(1)(c) prohibits employment of children below 14 years.\nIII. Article 43A provides for participation of workers in management of industries through legislation.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about labour laws in India:\nI. The Workmen's Compensation Act was enacted in 1923.\nII. The Payment of Wages Act was enacted in 1948.\nIII. The Employees' Provident Fund Act was enacted in 1952.\nIV. The Industrial Disputes Act was enacted in 1947.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "According to the chart, which labour code amalgamates the largest number of laws?",
+     "options": [
+      "Wage Code",
+      "Occupational Safety, Health and Working Conditions Code",
+      "Industrial Relations Code",
+      "Social Security Code"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "In which year was the Contract Labour Act enacted?",
+     "options": [
+      "1923",
+      "1936",
+      "1952",
+      "1970"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t11-1",
+   "type": "TITA",
+   "passage": "Some international bodies are created to set common standards rather than to govern countries directly. The body discussed here is one of them, and its concern is the working life of people across the world. It was set up under the Treaty of Versailles and was later linked with the United Nations. Its central aim is to improve labour conditions and living standards throughout the world. Its structure gives an equal voice to three groups: governments, employers and workers. This allows disagreements about working conditions to be discussed through a common process. The organisation has four stated objectives. It seeks to promote fundamental labour rights, create greater opportunities for women and men, enhance social protection and strengthen social dialogue. Its legal instruments take two forms. Conventions and Protocols are legally binding treaties, while Recommendations are non-binding guidelines. Some of its standards form part of the wider United Nations human rights framework. The organisation also publishes reports on employment, wages, social protection and youth. Its Director General leads the organisation's work. The work covers workers in many countries, including India, which is one of its founding members. Taken together, these standards and reports show how an international body can influence labour conditions.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did the ILO become the first specialised agency associated with the United Nations? (year)"
+    },
+    {
+     "n": 2,
+     "q": "According to the booklet, who is the Director General of the ILO? (name)"
+    },
+    {
+     "n": 3,
+     "q": "In which city is the headquarters of the ILO located? (city)"
+    },
+    {
+     "n": 4,
+     "q": "In which year was the ILO awarded the Nobel Prize for Peace? (year)"
+    },
+    {
+     "n": 5,
+     "q": "In which year was the ILO Declaration on Fundamental Principles and Rights at Work adopted? (year)"
+    },
+    {
+     "n": 6,
+     "q": "Which ILO Convention number deals with Minimum Age? (number)"
+    },
+    {
+     "n": 7,
+     "q": "Which ILO Convention number deals with Freedom of Association? (number)"
+    }
+   ]
+  }
+ ]
+}
