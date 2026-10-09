@@ -1,0 +1,142 @@
+{
+ "topic": {"title": "World Press Freedom Index 2026", "chapter_title": "Summits, Reports, Indices",
+   "subtopics": [
+     {"title": "Index Overview and Methodology",
+      "summary": "The World Press Freedom Index is an annual report published by Reporters Without Borders (RSF), a non-profit organisation with headquarters in Paris. It has been published annually since 2002, and the 2026 edition is the 24th. The Index ranks 180 countries and regions on the level of freedom available to journalists, using a Press Freedom Questionnaire with five categories. Each country receives a score from 0 (worst) to 100 (best).",
+      "facts": [
+        "Published by Reporters Without Borders (RSF), a non-profit organisation",
+        "RSF was founded in 1985 and has its headquarters in Paris, France",
+        "Annual report since 2002; the 2026 edition is the 24th",
+        "Ranks 180 countries and regions by freedom available to journalists",
+        "Evaluates pluralism, media independence, legal framework and journalist safety",
+        "Press Freedom Questionnaire covers 5 categories",
+        "Each country gets a score from 0 (worst) to 100 (best)",
+        "Aim: safeguarding the right to freedom of information"
+      ],
+      "keywords": ["RSF", "Press Freedom Questionnaire", "180 countries", "0 to 100 score", "Paris"]},
+     {"title": "Key Findings and Country Rankings 2026",
+      "summary": "The 2026 Index finds that global press freedom has declined, with 52.2 per cent of countries rated 'Difficult' or 'Very Serious' for journalism. Only 1 per cent of the world's population lives in countries rated 'Good'. Norway remains top-ranked, while Syria recorded the sharpest rise after its political transition and Niger the steepest fall. The Middle East and North Africa remained the most dangerous region for journalists.",
+      "facts": [
+        "Global press freedom declines; a majority of countries (52.2%) face Difficult or Very Serious conditions",
+        "Only 1% of the population lives in countries rated 'Good' for journalism",
+        "Norway is top-ranked for the 10th consecutive year, with a score of 92.72",
+        "Top-ranked order: Norway, Netherlands, Estonia, Denmark, Sweden",
+        "Netherlands scored 88.92 and was ranked second on the score list",
+        "Bottom-ranked countries named: Eritrea, North Korea, China, Iran, Saudi Arabia",
+        "Legal indicator saw the sharpest decline, due to criminalisation of journalism and misuse of laws",
+        "Middle East and North Africa remained the most dangerous region for journalists",
+        "Syria rose sharply in rankings after its political transition",
+        "Niger suffered the steepest ranking fall (120th) due to military rule and armed group violence in the Sahel",
+        "India ranked 157th with a score of 31.96 ('Very Serious') in 2026, from 151st in 2025"
+      ],
+      "keywords": ["52.2%", "Norway", "Netherlands", "Syria", "Niger", "India 157th", "Middle East and North Africa"]},
+     {"title": "Challenges and Significance of a Free Press",
+      "summary": "Media in 160 of the 180 countries face financial instability, which threatens independent and unbiased reporting, and political instability is linked to declining media freedom. A free press is often described as the fourth pillar of democracy, giving voice to marginalised communities and sparking debate that can lead to reform. During the pandemic, media acted as a critical communication tool between governments and citizens. Under the Indian Constitution, press freedom flows from Article 19(1)(a) but remains subject to reasonable restrictions under Article 19(2).",
+      "facts": [
+        "Media in 160 of 180 countries face financial instability",
+        "Political instability is linked to decline in media freedom",
+        "Press is often called the 4th pillar of democracy, alongside legislature, judiciary and executive",
+        "Press acts as a bridge between the governed and the governing, especially for marginalised communities",
+        "Press sparks public debate, a precursor to legislative and social reform",
+        "During the pandemic, media was a critical communication tool between government and citizens",
+        "Freedom of press is treated as part of freedom of speech under Article 19(1)(a)",
+        "Article 19(2) allows reasonable restrictions, including on defamation, contempt of court and public order",
+        "Freedom of media is not an absolute freedom",
+        "In Romesh Thappar vs State of Madras (1950), the Supreme Court said freedom of press lies at the foundation of all democratic organisations"
+      ],
+      "keywords": ["financial instability", "4th pillar", "Article 19(1)(a)", "Article 19(2)", "Romesh Thappar"]},
+     {"title": "History and Institutions of Press Freedom in India",
+      "summary": "Printing in India expanded under European trading companies, and India's first newspaper, the Bengal Gazette, appeared in 1780. Colonial measures such as the Censorship of Press Act 1799 and the Vernacular Press Act 1878 restricted the press, while Metcalfe's Press Act 1835 is remembered as the liberator of the Indian press. Today, the Press Council of India, set up under the Press Council Act 1978, and the Editors Guild of India work to uphold press freedom and journalistic standards.",
+      "facts": [
+        "East India Company set up its first printing press in Bombay in 1674",
+        "James Augustus Hickey's Bengal Gazette, India's first newspaper, was published in 1780",
+        "Censorship of Press Act 1799, issued by Lord Wellesley, curbed French propaganda against British rule",
+        "Raja Rammohan Roy founded the Bengali weekly Sambad Kaumudi (1821) to champion social reform",
+        "Bombay Samachar (1822), India's oldest running vernacular newspaper, was founded by Fardoonji Murazban",
+        "Metcalfe's Press Act 1835 is known as the liberator of the Indian press",
+        "Vernacular Press Act 1878, proposed by Lord Lytton, was enacted to suppress press freedom and criticism of British rule",
+        "Press Council of India was initially established in 1966 under the Indian Press Council Act 1965",
+        "Press Council of India was abolished in 1975 during the Emergency, after repeal of the 1965 Act",
+        "Press Council of India was established in 1978 as a statutory quasi-judicial body under the Press Council Act 1978"
+      ],
+      "keywords": ["Bengal Gazette", "Censorship of Press Act 1799", "Metcalfe's Press Act", "Vernacular Press Act 1878", "Press Council of India", "Editors Guild of India"]}
+   ]},
+ "mindmaps": [
+   {"scope": "topic", "title": "World Press Freedom Index 2026",
+    "root": {"label": "World Press Freedom Index 2026", "children": [
+      {"label": "Publisher: RSF", "children": [{"label": "Non-profit founded 1985", "children": []}, {"label": "Headquarters in Paris", "children": []}]},
+      {"label": "Coverage", "children": [{"label": "Annual report since 2002", "children": []}, {"label": "24th edition, 180 countries", "children": []}]},
+      {"label": "Scoring", "children": [{"label": "Score 0 (worst) to 100 (best)", "children": []}, {"label": "Five-category questionnaire", "children": []}]},
+      {"label": "2026 findings", "children": [{"label": "52.2% countries Difficult or Very Serious", "children": []}, {"label": "Only 1% population in Good countries", "children": []}]},
+      {"label": "Challenges", "children": [{"label": "Financial instability: 160 of 180", "children": []}, {"label": "Political instability linked to decline", "children": []}]},
+      {"label": "Significance", "children": [{"label": "Fourth pillar of democracy", "children": []}, {"label": "Voice of marginalised communities", "children": []}]},
+      {"label": "Indian law and history", "children": [{"label": "Article 19(1)(a): freedom of press", "children": []}, {"label": "Press Council of India, 1978", "children": []}]}
+    ]}},
+   {"scope": "subtopic", "subtopic_index": 0, "title": "Index Overview and Methodology",
+    "root": {"label": "Index Overview and Methodology", "children": [
+      {"label": "Publisher: RSF", "children": [{"label": "Founded 1985", "children": []}, {"label": "HQ Paris", "children": []}]},
+      {"label": "Coverage", "children": [{"label": "Annual since 2002", "children": []}, {"label": "180 countries and regions", "children": []}]},
+      {"label": "Scoring", "children": [{"label": "0 worst to 100 best", "children": []}, {"label": "5 questionnaire categories", "children": []}]},
+      {"label": "Aim", "children": [{"label": "Safeguarding freedom of information", "children": []}]}
+    ]}},
+   {"scope": "subtopic", "subtopic_index": 1, "title": "Key Findings and Rankings 2026",
+    "root": {"label": "Key Findings and Rankings 2026", "children": [
+      {"label": "Global trend", "children": [{"label": "52.2% countries Difficult or Very Serious", "children": []}, {"label": "Only 1% population in Good countries", "children": []}, {"label": "Legal indicator: sharpest decline", "children": []}]},
+      {"label": "Top ranked", "children": [{"label": "Norway: 10th consecutive year", "children": []}, {"label": "Score 92.72", "children": []}, {"label": "Netherlands second, 88.92", "children": []}]},
+      {"label": "Bottom ranked", "children": [{"label": "Eritrea, North Korea, China", "children": []}, {"label": "Iran, Saudi Arabia", "children": []}]},
+      {"label": "Major movers", "children": [{"label": "Syria: sharpest rise", "children": []}, {"label": "Niger: steepest fall", "children": []}, {"label": "India: 157th, from 151st", "children": []}]},
+      {"label": "Regions", "children": [{"label": "Middle East and North Africa most dangerous", "children": []}]}
+    ]}},
+   {"scope": "subtopic", "subtopic_index": 2, "title": "Challenges and Significance of a Free Press",
+    "root": {"label": "Challenges and Significance", "children": [
+      {"label": "Challenges", "children": [{"label": "Financial instability: 160 of 180", "children": []}, {"label": "Political instability linked to decline", "children": []}]},
+      {"label": "Role of press", "children": [{"label": "Fourth pillar of democracy", "children": []}, {"label": "Bridge: governed and governing", "children": []}, {"label": "Sparks debate and reform", "children": []}]},
+      {"label": "Pandemic role", "children": [{"label": "Critical communication tool", "children": []}, {"label": "Fought misinformation", "children": []}]},
+      {"label": "Constitution", "children": [{"label": "Article 19(1)(a): freedom of speech", "children": []}, {"label": "Article 19(2): reasonable restrictions", "children": []}]}
+    ]}},
+   {"scope": "subtopic", "subtopic_index": 3, "title": "History and Institutions in India",
+    "root": {"label": "History and Institutions in India", "children": [
+      {"label": "Early press", "children": [{"label": "EIC press in Bombay, 1674", "children": []}, {"label": "Bengal Gazette, 1780", "children": []}]},
+      {"label": "Early weeklies", "children": [{"label": "Sambad Kaumudi, 1821", "children": []}, {"label": "Bombay Samachar, 1822", "children": []}]},
+      {"label": "Colonial laws", "children": [{"label": "Censorship of Press Act, 1799", "children": []}, {"label": "Vernacular Press Act, 1878", "children": []}]},
+      {"label": "Liberator of the press", "children": [{"label": "Metcalfe's Press Act, 1835", "children": []}]},
+      {"label": "Institutions", "children": [{"label": "Press Council of India: 1966, 1975, 1978", "children": []}, {"label": "Editors Guild of India, 1978", "children": []}]}
+    ]}}
+ ],
+ "mnemonics": [
+   {"scope": "topic", "title": "Five Press Freedom Questionnaire categories", "mnemonic": "Please Let Every Source Speak",
+    "decode": [{"key": "P", "meaning": "Political Context"}, {"key": "L", "meaning": "Legal Framework"}, {"key": "E", "meaning": "Economic Context"}, {"key": "S (1st)", "meaning": "Socio-Cultural Context"}, {"key": "S (2nd)", "meaning": "Security"}]},
+   {"scope": "topic", "title": "World Press Freedom Day", "mnemonic": "Three May, Windhoek's Way",
+    "decode": [{"key": "May 3", "meaning": "World Press Freedom Day is observed on May 3"}, {"key": "Windhoek", "meaning": "Honours the Windhoek Declaration 1991 (Namibia)"}, {"key": "1993", "meaning": "Year since which the day has been observed"}]},
+   {"scope": "subtopic", "subtopic_index": 3, "title": "Press Council of India timeline", "mnemonic": "Sixty-Six Born, Seventy-Five Torn, Seventy-Eight Reborn",
+    "decode": [{"key": "1966", "meaning": "Initially established under the Indian Press Council Act 1965"}, {"key": "1975", "meaning": "Abolished during the Emergency after repeal of the 1965 Act"}, {"key": "1978", "meaning": "Established as a statutory quasi-judicial body under the Press Council Act 1978"}]}
+ ],
+ "quizzes": [
+  {"type": "MCQ", "subtopic_index": 1, "title": "Rankings and Key Findings 2026",
+   "passage": "Reporters Without Borders (RSF) has released the World Press Freedom Index 2026, the 24th edition of its annual report. The Index measures the level of freedom available to journalists in each country and region, and this year it covers 180 countries. Rankings are shaped by legal protections, the diversity of media outlets and the extent of political interference. Each country receives a score on a fixed scale, and the results show sharp contrasts. Some states remain at the top of the table, while others sit at the bottom with severe restrictions on reporters. Between these extremes, many countries have moved up or down because of changes in government or pressure on news organisations. Regions also differ greatly, and journalists in some parts of the world face far greater danger than others. Analysts often look first at the countries near the top and bottom, but the middle of the table also shows how legal and economic conditions change over time. The national questionnaire behind the Index asks experts about the political, legal, economic, social and security environment in each country. The report is widely read because it allows citizens to compare their own country with others. Its findings suggest that a free press is closely linked to informed public debate in any society.",
+   "questions": [
+    {"q": "For how many consecutive years had Norway been top-ranked in the 2026 Index?", "options": ["Five", "Seven", "Ten", "Twelve"], "answer": 2, "explanation": "The booklet states Norway was top-ranked for the 10th consecutive year."},
+    {"q": "What score did Norway receive in the World Press Freedom Index 2026?", "options": ["88.92", "92.72", "82.27", "97.20"], "answer": 1, "explanation": "The booklet lists Norway with a score of 92.72 among the highest ranked."},
+    {"q": "What percentage of countries face 'Difficult' or 'Very Serious' conditions for journalism?", "options": ["32.5 per cent", "42.8 per cent", "52.2 per cent", "61.4 per cent"], "answer": 2, "explanation": "The booklet states that 52.2 per cent of countries face Difficult or Very Serious conditions."},
+    {"q": "Assertion (A): Global press freedom has declined in 2026.\nReason (R): A majority of countries face 'Difficult' or 'Very Serious' conditions for journalism.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "answer": 0, "explanation": "The booklet links the decline in press freedom to the majority of countries (52.2%) facing Difficult or Very Serious conditions."},
+    {"q": "Match List I with List II:\nI. Syria   ->   A. Sharpest rise after political transition\nII. Niger   ->   B. Steepest ranking fall due to military rule\nIII. India   ->   C. Rank 157th with score 31.96\nIV. Netherlands   ->   D. Second-highest score at 88.92", "options": ["I-B, II-A, III-C, IV-D", "I-A, II-B, III-C, IV-D", "I-C, II-D, III-A, IV-B", "I-D, II-C, III-B, IV-A"], "answer": 1, "explanation": "Syria had the sharpest rise, Niger the steepest fall, India ranked 157th with 31.96, and Netherlands scored 88.92."},
+    {"q": "Consider the following statements about the World Press Freedom Index 2026:\nI. Norway was top-ranked for the 10th consecutive year.\nII. Only 1 per cent of the world's population lives in countries rated 'Good' for journalism.\nIII. Syria's ranking fell sharply after its political transition.\nWhich of the above statements is/are correct?", "options": ["II and III only", "I and III only", "I, II and III", "I and II only"], "answer": 3, "explanation": "Syria registered the sharpest rise in rankings after its political transition, so statement III is incorrect."},
+    {"q": "How many of the following statements about the World Press Freedom Index 2026 are correct?\nI. The index covers 150 countries and regions.\nII. Norway topped the index for 10 consecutive years.\nIII. India ranked 151st in 2026.", "options": ["Only one", "Only two", "Only three", "None of the above"], "answer": 0, "explanation": "The index covers 180 countries, and India ranked 157th in 2026 (151st was its 2025 rank), so only statement II is correct."},
+    {"q": "Which country was ranked second in the World Press Freedom Index 2026?", "options": ["Estonia", "Netherlands", "Denmark", "Sweden"], "answer": 1, "explanation": "The top-ranked order given is Norway, Netherlands, Estonia, Denmark, Sweden."}
+   ]},
+  {"type": "TITA", "subtopic_index": 3, "title": "History of the Indian Press",
+   "passage": "Printing reached India through European trading companies, and for a long time newspapers were produced by colonial interests and Indian reformers alike. Colonial governments were uneasy about printed criticism. At different times they introduced rules to control what could be published, and some of these rules fell hardest on publications written in Indian languages. Even so, Indian editors kept bringing out weeklies that promoted social reform and nationalist ideas. Reformers used the press to challenge customs and argue for change in society. Over time, the limits on the press became a question for the courts and the constitution. Debates about press freedom focused on how expression could be balanced with public order and the rights of others. Later, statutory and non-statutory bodies were set up to watch over journalism and protect editorial standards, while professional associations of editors took up the defence of journalists' rights. Studying this history explains why modern India treats press freedom as important yet not absolute, and why the state and the press continue to debate where the limits should lie. The sequence of laws and institutions shows a long pattern in which governments tried to restrict the press while journalists sought wider freedom.",
+   "questions": [
+    {"q": "In which year was India's first newspaper, the Bengal Gazette, published? (year)", "answer": "1780", "accept": ["1780 AD", "AD 1780"], "explanation": "The booklet states India's first newspaper, Bengal Gazette, was published in 1780."},
+    {"q": "Who published the Bengal Gazette? (full name)", "answer": "James Augustus Hickey", "accept": ["J. A. Hickey", "James Hickey", "Hickey"], "explanation": "The booklet names James Augustus Hickey as the publisher of the Bengal Gazette."},
+    {"q": "Which Act issued by Lord Wellesley in 1799 curbed the press? (name of Act)", "answer": "Censorship of Press Act", "accept": ["Censorship of Press Act 1799", "Censorship Act 1799"], "explanation": "The booklet states the Censorship of Press Act 1799 was issued by Lord Wellesley to curb French propaganda against British rule."},
+    {"q": "Which 1835 Act is described as the liberator of the Indian press? (name of Act)", "answer": "Metcalfe's Press Act", "accept": ["Metcalfe Press Act", "Metcalfe's Press Act 1835", "Metcalfe Act"], "explanation": "The booklet calls Metcalfe's Press Act 1835 the liberator of the Indian press."},
+    {"q": "In which year was the Vernacular Press Act enacted to suppress Indian press freedom? (year)", "answer": "1878", "accept": ["1878 AD"], "explanation": "The booklet states the Vernacular Press Act of 1878 was enacted to suppress Indian press freedom."},
+    {"q": "In which year was the Press Council of India abolished during the Emergency? (year)", "answer": "1975", "accept": ["1975 AD"], "explanation": "The booklet states the Press Council was abolished in 1975 during the Emergency after repeal of the 1965 Act."},
+    {"q": "Under which Act was the Press Council of India established as a statutory quasi-judicial body in 1978? (name of Act with year)", "answer": "Press Council Act 1978", "accept": ["Press Council Act, 1978"], "explanation": "The booklet states the Press Council was established in 1978 as a statutory quasi-judicial body under the Press Council Act 1978."}
+   ]}
+ ],
+ "needs_check": [
+   {"page": 41, "what": "Bottom-ranked order written as 'Eritrea < North Korea < China < Iran < Saudi Arabia' has garbled symbols; only the country names are used and their order is not."}
+ ]
+}

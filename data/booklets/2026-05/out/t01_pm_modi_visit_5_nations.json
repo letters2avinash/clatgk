@@ -71,8 +71,9 @@
     ],
     "keywords": ["Special Strategic Partnership", "IMEEC", "EUR 20 billion", "Tata Electronics", "ASML", "Chola copper plates", "Afsluitdijk", "Kalpasar"]
    }
-  ],
-  "mindmaps": [
+  ]
+ },
+ "mindmaps": [
    {
     "scope": "topic",
     "title": "PM Modi's 5-Nation Visit",
@@ -317,7 +318,7 @@
     "type": "TITA",
     "subtopic_index": 2,
     "title": "Nordic and Sweden Ties",
-    "passage": "Prime Minister Narendra Modi's engagements in the Nordic region combined a visit to Norway with participation in a regional summit series. The Nordic countries form a group in Northern Europe, and India has held a series of summits with them. Relations with Norway moved to a higher level, with a focus on clean energy, climate resilience, the blue economy and green shipping. Norway also joined an Indo-Pacific initiative led by India.\n\nSweden was the other key partner in this round. The two countries moved their ties to a strategic partnership and adopted a joint action plan that covers the years ahead. They endorsed joint development of a technology and artificial intelligence corridor, and agreed to set up a platform for small enterprises and start-ups. Modi also received a Swedish order that is among the highest honours a head of government can receive.\n\nEconomic links also matter. Norway's sovereign wealth fund has invested in India, and a trade agreement between India and the European Free Trade Association has been signed. Together, these steps show how the Nordic engagement joins climate, technology, trade and diplomacy in one strategy.",
+    "passage": "Prime Minister Narendra Modi's engagements in the Nordic region combined a visit to Norway with participation in a regional summit series. The Nordic countries form a group in Northern Europe, and India has held a series of summits with them. Relations with Norway moved to a higher level, with a focus on clean energy, climate resilience, the blue economy and green shipping. Norway also joined an Indo-Pacific initiative led by India.\n\nSweden was the other key partner in this round. The two countries moved their ties to a strategic partnership and adopted a joint action plan that covers the years ahead. They endorsed joint development of a technology and artificial intelligence corridor, and agreed to set up a platform for small enterprises and start-ups. Modi also received a Swedish order that is among the highest honours a head of government can receive.\n\nEconomic links also matter. Norway's sovereign wealth fund has invested in India, and a trade agreement between India and the European Free Trade Association has been signed. Together, these steps show how the Nordic engagement joins climate, technology, trade and diplomacy in one strategy. The agreements cover both existing commitments and plans for future cooperation, so the outcomes are best read as a set of linked steps rather than isolated events.",
     "questions": [
       {
        "q": "In how many years was PM Modi's visit to Norway the first bilateral visit by an Indian PM? (answer in years)",
@@ -372,6 +373,5 @@
    {"page": 7, "what": "'2nd Indo-Pacific Trilateral' line for India-Italy-Japan is broken across columns; not used"},
    {"page": 8, "what": "IMEC map labels (ports and countries) are garbled; not used"},
    {"page": 9, "what": "Anaimangalam inscriptions: Tamil and Sanskrit section roles are stated two different ways (summary line vs bullets); not used"}
-  ]
- }
+ ]
 }
