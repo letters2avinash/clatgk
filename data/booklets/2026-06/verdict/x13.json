@@ -1,0 +1,83 @@
+{
+ "quizzes": [
+  {
+   "id": "q-x13-78",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 60, "quote": "based largely on K. Kasturirangan Committee (2013) recommendations."}, "issues": []},
+    {"n": 2, "my_answer": 0, "supported": true, "evidence": {"page": 61, "quote": "sq. km (about 37%)"}, "issues": []},
+    {"n": 3, "my_answer": 3, "supported": true, "evidence": {"page": 73, "quote": "Operated By: Tata Institute of Fundamental Research"}, "issues": []},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 61, "quote": "as it is source of major rivers such as Godavari, Krishna, Cauvery"}, "issues": []},
+    {"n": 5, "my_answer": 2, "supported": true, "evidence": {"page": 61, "quote": "Highest Peak: Anamudi (Kerala)"}, "issues": []},
+    {"n": 6, "my_answer": 0, "supported": true, "evidence": {"page": 61, "quote": "Permitted Activities: Organic Farming, Rainwater Harvesting, Green Technologies"}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 61, "quote": "Spans 6 States: Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x13-79",
+   "questions": [
+    {"n": 1, "my_answer": "Tamil Nadu", "supported": true, "evidence": {"page": 73, "quote": "situated at Ooty (Tamil Nadu)."}, "issues": []},
+    {"n": 2, "my_answer": "1,600 km", "supported": true, "evidence": {"page": 61, "quote": "1,600 km along India's Western Coast"}, "issues": []},
+    {"n": 3, "my_answer": "Anamudi", "supported": true, "evidence": {"page": 61, "quote": "Highest Peak: Anamudi (Kerala)"}, "issues": []},
+    {"n": 4, "my_answer": "1986", "supported": true, "evidence": {"page": 61, "quote": "Notified under Environment (Protection) Act, 1986."}, "issues": []},
+    {"n": 5, "my_answer": "6", "supported": true, "evidence": {"page": 61, "quote": "Spans 6 States"}, "issues": []},
+    {"n": 6, "my_answer": "Japan", "supported": true, "evidence": {"page": 73, "quote": "Researchers from India and Japan have utilised GRAPES"}, "issues": []},
+    {"n": 7, "my_answer": "World Economic Forum", "supported": true, "evidence": {"page": 67, "quote": "World Economic Forum (1971 | Non-Governmental Organization | By Klaus Schwab | Cologny, Switzerland.) and Accenture's"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "q-x13-80",
+   "questions": [
+    {"n": 1, "my_answer": 3, "supported": true, "evidence": {"page": 72, "quote": "NGOs must utilise at least 75% of Previously Released Foreign Funds before receiving Next"}, "issues": []},
+    {"n": 2, "my_answer": 1, "supported": true, "evidence": {"page": 71, "quote": "FCRA Registration is Valid for 5 Years and requires Renewal before expiry."}, "issues": []},
+    {"n": 3, "my_answer": 0, "supported": true, "evidence": {"page": 70, "quote": "Created in 1989 by Group of Seven (G7)."}, "issues": []},
+    {"n": 4, "my_answer": 2, "supported": true, "evidence": {"page": 71, "quote": "FCRA (Amendment) Act 2020 prohibits Transfer or Sub — Granting of Foreign"}, "issues": []},
+    {"n": 5, "my_answer": 1, "supported": true, "evidence": {"page": 67, "quote": "Calls for Protecting Women and Girls from Conflict"}, "issues": []},
+    {"n": 6, "my_answer": 2, "supported": true, "evidence": {"page": 72, "quote": "will ordinarily Not be eligible for FCRA Registration or prior permission"}, "issues": []},
+    {"n": 7, "my_answer": 0, "supported": true, "evidence": {"page": 68, "quote": "Observed on 29 May"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x13-81",
+   "questions": [
+    {"n": 1, "my_answer": "2010", "supported": true, "evidence": {"page": 71, "quote": "Originally enacted in 1976, replaced by FCRA 2010 and amended in 2020."}, "issues": []},
+    {"n": 2, "my_answer": "5", "supported": true, "evidence": {"page": 72, "quote": "NGOs must register under one or more of 5 Approved Categories"}, "issues": []},
+    {"n": 3, "my_answer": "New Delhi", "supported": true, "evidence": {"page": 71, "quote": "(Main Branch, New Delhi)."}, "issues": []},
+    {"n": 4, "my_answer": "Paris", "supported": true, "evidence": {"page": 70, "quote": "HQ: Paris (France)"}, "issues": []},
+    {"n": 5, "my_answer": "Pax Silica", "supported": true, "evidence": {"page": 66, "quote": "US — led Strategic Initiative aimed at building Secure, Resilient and Trusted Supply Chains"}, "issues": []},
+    {"n": 6, "my_answer": "29 May", "supported": true, "evidence": {"page": 68, "quote": "Observed on 29 May"}, "issues": []},
+    {"n": 7, "my_answer": "Major Abhilasha Barak", "supported": true, "evidence": {"page": 67, "quote": "Major Abhilasha Barak received UN Military Gender Advocate Award 2025"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "q-x13-82",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 68, "quote": "Maximum Awards: 120 Awards per year."}, "issues": []},
+    {"n": 2, "my_answer": 3, "supported": true, "evidence": {"page": 68, "quote": "Instituted in 1954."}, "issues": []},
+    {"n": 3, "my_answer": 1, "supported": true, "evidence": {"page": 73, "quote": "Created in 2018 by merging Bal Kalyan Puraskar and Bal Shakti Puraskar."}, "issues": []},
+    {"n": 4, "my_answer": 0, "supported": true, "evidence": {"page": 68, "quote": "Citizens of India, Foreign Nationals"}, "issues": []},
+    {"n": 5, "my_answer": 2, "supported": true, "evidence": {"page": 68, "quote": "Padma Vibhushan: For Exceptional and Distinguished Service"}, "issues": []},
+    {"n": 6, "my_answer": 3, "supported": true, "evidence": {"page": 69, "quote": "Awards are announced annually on eve of Republic Day."}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 65, "quote": "Employer Reputation (15%)"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x13-83",
+   "questions": [
+    {"n": 1, "my_answer": "2015", "supported": true, "evidence": {"page": 69, "quote": "International Day of Yoga: 2015"}, "issues": []},
+    {"n": 2, "my_answer": "3", "supported": true, "evidence": {"page": 68, "quote": "Reorganised in 1955 into 3 Distinct Categories."}, "issues": []},
+    {"n": 3, "my_answer": "Mohenjo-daro", "supported": true, "evidence": {"page": 71, "quote": "Excavated in 1926 from Mohenjo-— daro (present-day Pakistan) by archaeologist Ernest Mackay."}, "issues": []},
+    {"n": 4, "my_answer": "Ernest Mackay", "supported": true, "evidence": {"page": 71, "quote": "Excavated in 1926 from Mohenjo-— daro (present-day Pakistan) by archaeologist Ernest Mackay."}, "issues": []},
+    {"n": 5, "my_answer": "Ministry of Ayush", "supported": true, "evidence": {"page": 69, "quote": "Ministry of Ayush (Prataprao Ganpatrao Jadhav) coordinates and promotes International Day of Yoga activities."}, "issues": []},
+    {"n": 6, "my_answer": "Yoga for Healthy Ageing", "supported": true, "evidence": {"page": 69, "quote": "Theme 2026: Yoga for Healthy Ageing."}, "issues": []},
+    {"n": 7, "my_answer": "Varanasi", "supported": true, "evidence": {"page": 70, "quote": "Culture Working Group Meeting held in Varanasi under India's BRICS Chairship."}, "issues": []}
+   ],
+   "passage_flags": []
+  }
+ ],
+ "fact_flags": []
+}
