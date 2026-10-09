@@ -1,0 +1,391 @@
+=== PAGE 39 ===
+  
+Equal Earth projection  
+  
+Mercator projection  
+  
+Why in News?  
+  
+/ \* September 2026  
+  
+, "NEWS  
+  
+From Mercator  
+to Equal Earth:  
+Evolution of World  
+Map Projections  
+  
+UNGA adopted “Correct the Map” Resolution, promoting Equal—Area Map Projections to address Mercator Distortions.  
+  
+Mercator Projection, developed in 16th Century, is particularly known for Exaggerating Apparent Size of Landmasses  
+  
+located at Higher Latitudes.  
+  
+Togo — led Resolution (\#CorrectTheMap campaign), through Foreign Minister Robert Dussey, was supported by I 164  
+  
+Countries, including India.  
+  
+United States voted Against it and 6 Countries (Estonia, Georgia,  
+Lithuania, Moldova, Serbia, Ukraine) Abstained.  
+  
+India backed resolution while drawing a firm line on depiction of Jammu  
+and Kashmir and Ladakh.  
+  
+Since UN Resolutions are Not Binding, it remains to be seen whether  
+governments, organisations and classrooms will actually adopt new  
+map.  
+  
+Extra Shots  
+  
+Correct the Map is run by two |  
+advocacy groups, Africa No Filter |  
+(Executive Director: Moky Makura)  
+and Speak Up Africa. i  
+African Union endorsed it in Aug |  
+2025 and Caribbean Community |  
+backed it too. i  
+  
+Why Can't Earth Be Perfectly Represented on a Flat Map?  
+  
+e Earth is an Oblate Spheroid, rather than a Perfect Sphere, due to its Rotation and Uneven Distribution of Mass.  
+  
+e AMap Projection converts Earth's 3— Dimensional Curved Surface into a 2— Dimensional Representation.  
+  
+o This transformation inevitably introduces some degree of distortion.  
+  
+www.Iptedtech.com | FoLLOwUSNOW (f)\\E|/@\\-4|\\©  
+  
+37  
+  
+\
+=== PAGE 40 ===
+  
+Current Affairs September 2026\_International Relations and News LP |  
+  
+e Different Projections prioritise Different Geographical  
+Properties, including: Types of Map Projectio  
+o Area: How largea landmass is relative to others? ie Conformal Projections preserve Angles an  
+\! Local Shapes (e.g. Mercator).  
+  
+o Shape: True outline ofa country? H  
+}e Equal—Area Projections preserve Relative Areas  
+  
+(e.g. Equal Earth).  
+  
+Equidistant Projections preserve Distance.  
+  
+o Distance: Actual space between two points?  
+  
+o Direction: Correct compass bearing between?  
+  
+Therefore, No Single Flat Map can preserve all these properties Compromise Projections balance Distortions i  
+  
+: Area, Shape, Distance and Direction withow  
+simultaneously.  
+  
+preserving Any One Exactly (e.g. Robinson,  
+Winkel Tripel)  
+  
+Mercator Projection  
+  
+e Type: Cylindrical and Conformal Projection.  
+  
+e Introduced in 1569 by Gerardus Mercator (Flemish Geographer  
+  
+and Cartographer). Concerns Associated with Me  
+e Primarily designed to assist Maritime Navigation. ‘ e Projection has been widely used for centurie.  
+H because of its Navigation — relate  
+  
+e Characteristics: Earth's Surface is conceptually projected onto a Advant  
+Cylinder surrounding the Globe and then unfolded into a Flat anaes.  
+  
+o However, it does Not preserve Relativ  
+Map.  
+  
+Area.  
+  
+The Distortion Problem  
+  
+e Distortion becomes increasingly pronounce  
+¢ On Mercator Grid, Longitudes are Evenly Spaced, but Gaps; towards the Poles, making it Unsuitable whe  
+  
+between Latitudes widen towards the Poles. objective is to compare Actual Sizes o,  
+  
+e This is deliberate to preserve Shapes, the Stretching of Parallels \_\_ Continents and Countr ies.  
+  
+is matched exactly with Stretching of Meridians.  
+  
+o Result is that Landmasses far from  
+Equator appear much Larger than  
+they are.  
+  
+e Example: Africa appears similar in size —  
+to Greenland. In reality, Greenland is 14  
+times smaller and roughly size of  
+Democratic Republic of Congo.  
+Antarctica also appears far Larger than  
+its True Size.  
+  
+e India is a Mercator loser: At 22° North,  
+map inflates India by only about 16%  
+while inflating Europe's Northern half  
+fourfold or more, so on standard wall er) a i ae PTTL  
+map India looks like a middleweight  
+beside Scandinavia. Sl id BRAEPranse  
+o A major advantage is that Rhumb a ;  
+  
+Lines appear as Straight Lines, | wee j Sey  
+  
+making them useful for Navigation.  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099 38  
+  
+\
+=== PAGE 41 ===
+  
+Current Affairs September 2026\_International Relations and News  
+  
+Equal Earth Map  
+  
+e —Equal—Area, Pseudo—Cylindrical World Map Projection.  
+  
+¢ Created in 2018 by cartographers Bojan Savrié, Tom Patterson, and Bernhard Jenny.  
+  
+LPT  
+  
+e Designed specifically to display Entire Globe's Surface while preserving Relative Landmass Sizes accurately without  
+  
+causing Severe, Aest\!  
+  
+Feature Mercator Projection | Equal Earth Projection  
+Type Cylindrical, conformal Equal-area  
+Developed 1569 2018  
+Primary advantage Navigation Accurate relative area  
+Area preservation No Yes  
+  
+Shape preservation  
+  
+Relatively strong locally  
+  
+Some distortion  
+  
+Polar distortion  
+  
+High  
+  
+Reduced  
+  
+Major use  
+  
+Maritime navigation  
+  
+Thematic/world maps  
+  
+hetically Jarring Shape Distortions common in earlier Equal—Area Maps like Gall — Peters Projection.  
+  
+\* WHICH PROJECTION TO PICK?  
+  
+Choosing a projection depends entirely on the purpose of the map. According to Dr Siva Kumar, these  
+are the ideal use-cases of different projections:  
+  
+NAVIGATION AND  
+DIRECTION: Use  
+conformal projections  
+(like the Mercator  
+  
+projection). They  
+preserve true angles  
+and local shapes, allowing pilots and sailors to  
+plot straight-line compass courses, though they  
+severely distort high-latitude sizes.  
+  
+SS hee  
+  
+Equal Earth Robinson  
+THEMATIC AND GENERAL REFERENCE AND POLAR OR SINGLE-  
+STATISTICAL DATA: WORLD MAPS: Use compromise POINT STUDIES:  
+Use equal-area projections projections, such as the Robinson Use Azimuthal/Planar  
+(like the Equal Earth map) projection or Winkel Tripel. They do projections. They project  
+which show correct relative not perfectly preserve any single the earth onto a flat plane  
+sizes of landmasses, making dimension, but they balance shape from a central point,  
+them ideal for population and area distortion to create a making them best for  
+density, climate, or land-cover visually natural view of the whole polar regions or flight-  
+maps. Earth. distance routes.  
+  
+www.lptedtech.com | Followusnow (f)e)@\\-4|© 39  
+  
+\
+=== PAGE 42 ===
+  
+Current Affairs September 2026\_International Relations and News LP I  
+  
+Extra Shots  
+  
+¢ = Gall — Peters projection: First presented by Scottish clergyman James Gall in 1855 and popularised by German i  
+historian Arno Peters in 1973. i  
+o\_ Itpreserves Area accurately but makes Landmasses look Stretched or Squashed. i  
+  
+e Robinson projection (1963): Devised by geographer Arthur H. Robinson to balance Size and Shape and solve  
+“Greenland Problem”. }  
+o — Itisa Compromise Projection with Meridians curving gently towards the Poles.  
+  
+e Winkel Tripel projection (1921): Created by German cartographer Oswald Winkel to Reduce Distortion across i  
+Area, Distance and Direction. H  
+  
+o In 1998, it replaced Robinson Projection in National Geographic Society Maps, followed by Schools,  
+Textbooks and World Bank. i  
+  
+Survey of India  
+Established in 1767.  
+  
+National Survey and Mapping Organisation, establishing Geodetic Reference Frameworks and verifying i  
+International Borders on published maps. i  
+  
+"I" Modern Scientific Survey of India" was undertaken by John Mather in 1793 — 96.  
+  
+Criminal Law Amendment Act (1961): Section 2 penalises Publication and Distribution of Maps that question  
+India's Territorial Integrity or Misrepresent its international borders Contrary to Official Alignments. :  
+  
+Nodal Agency: Ministry of Science and Technology (Jitendra Singh)  
+Headed By: Surveyor General of India (Shailesh Kumar Sinha)  
+HQ: Dehradun (Uttarakhand)  
+  
+4 «=| QUICKBYTE-NEWS IN A MINUTE |  
+\~\~ S\&T and Space  
+  
+e GalaxEye (Karnataka) secured a US Patent for core technology behind its OptoSAR (Optical Synthetic Aperture  
+Radar) Imaging System, becoming | st Indian Startup to receive a US Patent for Satellite Imaging Technology.  
+  
+www.Iptedtech.com | FoLLOwUSNOW (f)\\E|/@\\-4|\\© 40  
+  
+\
+=== PAGE 43 ===
+  
+Current Affairs September 2026\_International Relations and News  
+  
+LPT  
+  
+From Mercator to Equal Earth: Evolution of World Map Projections  
+  
+1\. Which country led the UNGA "Correct the Map" resolution?  
+  
+(a) Kenya (b) Togo (c) Nigeria  
+  
+2\. Who is the Togolese Foreign Minister associated with the resolution?  
+  
+(a) Moky Makura (b) Robert Dussey (c) Bojan Savrié  
+  
+3\. The resolution was supported by how many countries, including India?  
+(a) 100 (b) 129 (c) 164  
+4\. Which country voted against the resolution?  
+(a) Russia (b) China (c) United States  
+5\. Which of the following countries abstained?  
+(a) India (b) Estonia (c) Togo  
+  
+6\. The \#CorrectTheMap campaign is run by which two advocacy groups?  
+(a) Amnesty International and Oxfam  
+(c) Greenpeace and WWF  
+  
+7\. The Mercator projection was introduced in 1569 by:  
+  
+(a) Arno Peters (b) Oswald Winkel (c) Gerardus Mercator  
+  
+8\. The Mercator projection is classified as:  
+(a) Equal-area and pseudo-cylindrical  
+(c) Equidistant and conical  
+  
+9\. What was the Mercator projection primarily designed for?  
+(a) Comparing sizes of continents  
+(c) Thematic mapping (d) School atlases  
+  
+10\. | What is the main criticism of the Mercator projection?  
+(a) It distorts angles  
+(b) It does not preserve relative area, and distortion increases towards the poles  
+(c) It cannot show the equator  
+(d) It has no navigation use  
+  
+11\. Ona Mercator grid, rhumb lines appear as:  
+  
+(a) Curves (b) Circles (c) Straight lines  
+  
+12\. Conformal projections preserve:  
+(a) Relative areas (b) Distances  
+  
+(c) Angles and local shapes (d) Nothing exactly  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099  
+  
+(b) Maritime navigation  
+  
+(d) South Africa  
+  
+(d) Jitendra Singh  
+  
+(d) 193  
+  
+(d) Serbia  
+  
+(d) Japan  
+  
+(b) Africa No Filter and Speak Up Africa  
+(d) African Union and CARICOM  
+  
+(d) Arthur H. Robinson  
+  
+(b) Cylindrical and conformal  
+(d) Compromise and azimuthal  
+  
+(d) Zigzag lines  
+  
+Al  
+  
+\
+=== PAGE 44 ===
+  
+Current Affairs September 2026\_International Relations and News LP I  
+  
+16\.  
+  
+18\.  
+  
+20\.  
+  
+Which projection is an example of a compromise projection?  
+(a) Mercator (b) Equal Earth (c) Winkel Tripel (d) Gall-Peters  
+  
+Equal Earth was created in 2018 by which group of cartographers?  
+(a) Gall, Peters and Robinson (b) Savrié, Patterson and Jenny  
+(c) Mercator, Winkel and Robinson (d) Lambton, Mather and Everest  
+  
+Equal Earth is best described as:  
+(a) Equal-area, pseudo-cylindrical projection (b) Conformal, cylindrical projection  
+(c) Equidistant, azimuthal projection (d) Compromise, conical projection  
+  
+The Gall-Peters projection was first presented by James Gall in 1855 and popularised by Arno Peters in:  
+(a) 1921 (b) 1963 (c) 1973 (d) 1998  
+  
+The Robinson projection (1963) was devised to:  
+  
+(a) Aid navigation at sea  
+  
+(b) Balance size and shape and address the "Greenland problem"  
+(c) Preserve distances exactly  
+  
+}) Replace Equal Earth  
+  
+Z\~  
+  
+In 1998, which projection replaced Robinson in National Geographic Society maps?  
+(a) Mercator (b) Gall-Peters (c) Winkel Tripel (d) Equal Earth  
+  
+Earth is described as an oblate spheroid because of:  
+(a) Its orbit around the Sun (b) Its rotation and uneven distribution of mass  
+(c) Its tilted axis (d) Tidal effects of the Moon  
+  
+Where is the Survey of India (established 1767) headquartered, and which official heads it?  
+(a) New Delhi, Director General (b) Dehradun, Surveyor General of India  
+(c) Bengaluru, Chief Cartographer (d) Kolkata, Surveyor General of India  
+  
+www.Iptedtech.com | FoLLOwUSNOW (f)\\E|/@\\-4|\\© 42  
+  
+\

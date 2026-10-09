@@ -1,0 +1,114 @@
+[
+  {
+    "key": "t01_ceuta_migration_crisis",
+    "title": "Ceuta Migration Crisis",
+    "chapter": "International Relations and News",
+    "start": 5,
+    "end": 9
+  },
+  {
+    "key": "t02_china_antelope_reef_base",
+    "title": "China's Antelope Reef Base",
+    "chapter": "International Relations and News",
+    "start": 10,
+    "end": 15
+  },
+  {
+    "key": "t03_unsc_straw_poll_un_secretary_general",
+    "title": "UNSC Holds 2nd Straw Poll for Next UN Secretary-General",
+    "chapter": "International Relations and News",
+    "start": 16,
+    "end": 20
+  },
+  {
+    "key": "t04_cauvery_water_dispute",
+    "title": "Cauvery Water Dispute",
+    "chapter": "National News and Issues",
+    "start": 21,
+    "end": 24
+  },
+  {
+    "key": "t05_gorkhaland_issue",
+    "title": "Gorkhaland Issue",
+    "chapter": "National News and Issues",
+    "start": 25,
+    "end": 28
+  },
+  {
+    "key": "t06_public_examination_amendment_bill_2026",
+    "title": "Public Examination (Prevention of Unfair Means) Amendment Bill, 2026",
+    "chapter": "Polity & Governance",
+    "start": 29,
+    "end": 32
+  },
+  {
+    "key": "t07_prevention_of_insults_national_honour_amendment_bill_2026",
+    "title": "Prevention of Insults to National Honour (Amendment) Bill, 2026",
+    "chapter": "Polity & Governance",
+    "start": 33,
+    "end": 36
+  },
+  {
+    "key": "t08_tribunals_reforms_bill_2026",
+    "title": "Tribunals Reforms Bill 2026",
+    "chapter": "Polity & Governance",
+    "start": 37,
+    "end": 42
+  },
+  {
+    "key": "t09_samudra_manthan_scheme",
+    "title": "Samudra Manthan Scheme",
+    "chapter": "Polity & Governance",
+    "start": 43,
+    "end": 46
+  },
+  {
+    "key": "t10_sarnath_unesco_world_heritage_site",
+    "title": "Sarnath: India's 45th UNESCO World Heritage Site",
+    "chapter": "Summits, Reports, Indices",
+    "start": 47,
+    "end": 51
+  },
+  {
+    "key": "t11_unccd_cop17",
+    "title": "United Nations Convention to Combat Desertification — COP17",
+    "chapter": "Summits, Reports, Indices",
+    "start": 52,
+    "end": 55
+  },
+  {
+    "key": "t12_global_tiger_day",
+    "title": "Global Tiger Day",
+    "chapter": "Summits, Reports, Indices",
+    "start": 56,
+    "end": 59
+  },
+  {
+    "key": "t13_glaw_lake_ramsar_site",
+    "title": "Glaw Lake becomes India's 101st Ramsar Site",
+    "chapter": "Summits, Reports, Indices",
+    "start": 60,
+    "end": 63
+  },
+  {
+    "key": "t14_23rd_commonwealth_games_2026",
+    "title": "23rd Commonwealth Games 2026",
+    "chapter": "Sports",
+    "start": 64,
+    "end": 67
+  },
+  {
+    "key": "t15_miscellaneous",
+    "title": "Miscellaneous",
+    "chapter": "Miscellaneous",
+    "start": 68,
+    "end": 79
+  },
+  {
+    "key": "t16_ailet_corner",
+    "title": "AILET Corner",
+    "chapter": "AILET Corner",
+    "start": 80,
+    "end": 80
+  }
+]

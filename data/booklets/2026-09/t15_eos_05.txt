@@ -1,0 +1,451 @@
+=== PAGE 96 ===
+  
+ie = September 2026  
+  
+\=, TOPIC  
+“inNEWS  
+  
+EOS -— 05: India's  
+1st dedicated  
+GEO Satellite  
+  
+Why in News?  
+  
+ISRO successfully launched Earth Observation Satellite — 05 (EOS — 05)  
+aboard GSLV — F17 from Satish Dhawan Space Centre (Sriharikota).  
+  
+EOS — 05 (GISAT — 1A) is significant as India's Ist dedicated Imaging  
+Satellite designed for operations from a Sub — Geosynchronous Orbit  
+  
+(approx 35,786 km above Earth), enabling persistent observation of Large  
+Geographical Areas.  
+  
+MULTI-SPECTRAL SENSOR SUITE  
+  
+O &  
+  
+VNI \&TIR Hyperspectral  
+(Visible/Near-Infrared) (Short-Wave/Thermal IR) diese  
+  
+p  
+\=  
+IR SWIR 7 eubs cee  
+R) Geostationary Advantage: Maintains a fixed,  
+24/7 footprint over the Indian subcontinent.  
+surface tracking. heat detection. soil composition.  
+  
+High-speed Night imaging & Crop health &  
+Indigenous Heavy-Lift Success STRATEGIC IMPACT & OPERATIONAL HURDLES  
+Launched via the GSLV-F17, DISASTER & SECURITY SENTINEL AGRICULTURE & ECONOMIC RESILIENCE  
+validating India's cryogenic upper-  
+stage technology for future =  
+human spaceflight. 2  
+  
+Enables gapless cyclone tracking and  
+persistent survelliance of sensitive  
+border perimeters.  
+  
+Streamlines crop insurance claims by  
+replacing manual experiments with  
+objective satellite indices.  
+  
+oe. ot  
+  
+OU)  
+  
+Optical sensors cannot High altitude limits sub-  
+penetrate thick clouds. meter spatial resolution.  
+  
+About EOS — 05  
+  
+e Nickname: “Eye in the Sky”  
+  
+Advanced Earth Observation Satellite equipped with Optical and Infrared Imaging Payloads.  
+  
+e Designed to provide Continuous and High-Frequency Imagery for applications requiring Persistent Monitoring.  
+  
+www.lptedtech.com | Followusnow (f)e)@\\-4|© 94  
+  
+\
+=== PAGE 97 ===
+  
+Current Affairs September 2026\_Space, S\&T, Defence LP I  
+  
+e Mass: Approx 2367 kg (Represents Heaviest Payload successfully injected into Orbit by a GSLV).  
+  
+¢ Launch Vehicle: GSLV—F17 (Marked 19" Operational Flight of GSLV)  
+o 3-—Stage Configuration: 1“ Stage (Solid Core with 4 Liquid Strap — on Boosters) | 2" Stage (Liquid — propellant) | 3“  
+  
+Stage: Cryogenic  
+  
+Why GEO — based Earth Observation Matters?  
+  
+|e ALEO Satellite observes a Particular Location Only when it passes overhead, resulting in Intervals between  
+  
+Successive Observations.  
+  
+e A Geosynchronous Imaging Platform can provide Persistent and Wide — Area Monitoring.  
+  
+0\. This capability is particularly useful for tracking rapidly developing events such as Cyclones, Cloudbursts,  
+Flash Floods, Forest Fires.  
+  
+o Frequent Observations can support Weather Monitoring, Disaster Management, Early Warning and  
+  
+Emergency Response.  
+  
+K y Applications of ee 3 7) From Earth Insights  
+  
+to a Better Tomorrow  
+  
+E OS fo\] 05 Peel nm % Continuous Monitoring  
+  
+@ Real-time insights  
+Continuous observation.  
+  
+Stronger Security  
+A safer, more secure and @  
+  
+sustainable India. ie - sea S . @ sustainable Future  
+Disaster Management Strategic & National Security Agriculture & Environment  
+Faster Response, Safer Lives Stronger Borders, Safer Nation Healthy Ecosystems, Prosperous Tomorrow  
+Enables near real-time monitoring of Provides continuous surveillance of Supports monitoring of forest fires,  
+cloudbursts, flash floods and cyclones, India’s land borders and maritime domain, vegetation health and crop cycles  
+  
+supporting rapid emergency response. enhancing situational awareness. through continuous observation.  
+  
+Cyclone Flood Cloudburst Land Border Maritime Domain Forest Fire Vegetation Crop Cycle  
+  
+Tracking Monitoring Alerts Surveillance Awareness Monitoring Health Assessment Monitoring  
+  
+Early warnings. Quicker action. Greater vigilance. Enhanced situational Healthier ecosystems. Smarter farming.  
+Reduced human and economic losses. awareness. A more secure India. Amore sustainable future.  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099 95  
+  
+\
+=== PAGE 98 ===
+  
+Current Affairs September 2026\_Space, S\&T, Defence LP I  
+  
+Major Types of Satellite Orbits  
+  
+e An Orbit is Curved Path followed by a Satellite around Earth under influence of gravity.  
+  
+¢ Choice of Orbit determines Geographical Coverage, Image Resolution, Revisit Time, Communication Delay, Fuel  
+Requirement and Mission Application.  
+  
+1\. Low Earth Orbit (LEO)  
+e = Altitude: Approx 160 — 2000 km above Earth.  
+e — Orbital Period: Around 90 — 120 minutes.  
+  
+e Key Features: Low Communication Latency, High — resolution Earth Observation Capability, Suitable for Large  
+Satellite Constellations and Crewed Platforms such as International Space Station.  
+  
+¢ — Important Subtypes:  
+o Sun -— Synchronous Orbit: Provides relatively Consistent Solar Illumination for Observations.  
+o Very Low Earth Orbit: Enables Very High — Resolution Observations but experiences Greater Atmospheric Drag.  
+2\. Medium Earth Orbit (MEO)  
+e = Altitude: Approx 2000 km to 35786 km.  
+e Key Features: Provides a balance between Coverage Area and Signal Latency.  
+¢ Major Applications: Primarily used by Global Navigation Satellite Systems.  
+o Examples include GPS Constellation and European Union's Galileo System.  
+3\. Geosynchronous Orbit (GSO)  
+e Located at approx 35,786 km above Earth.  
+  
+e A Satellite in this orbit has an Orbital Period equal to Earth's  
+Rotational Period (23 Hrs, 56 Mins, 4 Secs).  
+e¢ However, a Geosynchronous Satellite does Not Necessarily  
+appear Stationary over One Location. -  
+4\. Geostationary Orbit (GEO) HEO  
+eA Special Case of Geosynchronous Orbit. :  
+e — Satellite must Orbit at approx 35,786 km altitude, Move in  
+  
+Same Direction as Earth's Rotation and have Zero — Degree  
+Inclination, meaning Orbit lies directly over Equator.  
+  
+e =6Asaresult, Satellite appears Fixed over a Particular Point on  
+  
+Earth.  
+Feature Geosynchronous Orbit Geostationary Orbit  
+Orbital period Equal to Earth’s Rotation Equal to Earth’s Rotation  
+Altitude \~35,786 km \~35,786 km  
+Inclination May be inclined o°  
+Ground appearance | May appear to move North — South Appears Stationary  
+  
+www.lptedtech.com | Followusnow (f)e)@\\-4|© 96  
+  
+\
+=== PAGE 99 ===
+  
+Current Affairs September 2026\_Space, S\&T, Defence LP I  
+  
+Orbit Approx Altitude Major Advantage Major Application  
+LEO 160 — 2,000 km High Resolution and Low Latency Earth Observation and Communication  
+MEO 2,000 — 35,786 km | Wider Coverage with Moderate Latency Navigation  
+  
+GSO/GEO | Around 35,786 km Persistent Regional Coverage Communication, Weather and Imaging  
+  
+Types of Earth orbit  
+  
+plane through plane through plane inclined  
+  
+OO Equator Earth's axis at some angle  
+  
+by inclination to Equator  
+eo satellite orbit satellite orbit  
+  
+satellite track satellite track satellite track  
+  
+over Equator covering all parts  
+  
+of Earth as  
+  
+covering a range  
+of latitudes in  
+  
+Earth’s planet rotates Northern and Southern  
+rotation hemispheres  
+equatorial orbit polar orbit inclined orbit  
+apogee  
+HVETETD Earth (farthest distance)  
+at centre Earth at one focus of ellipse  
+  
+all points of  
+  
+satellite orbit  
+  
+at about the  
+  
+same altitude  
+  
+perigee’  
+  
+circular orbit .  
+(closest distance)  
+  
+elliptical orbit  
+  
+by altitude 5,000-10,000 km 35,800 km orbital period of  
+  
+(8,100-6,200 miles) (22,300 miles) satellite equal  
+about 160-2,000 km altitude (typical) = altitude to rotational  
+(100-1,200 miles) period of  
+altitude Earth  
+  
+‘satellite orbit in equatorial plane.  
+  
+low Earth orbit (LEO) medium Earth orbit (MEO) geostationary orbit (GEO)  
+© Encyclopaedia Britannica, Inc.  
+  
+Skill — Up: IRS, RISAT, CARTOSAT, China's Gaofen — 4  
+  
+Scan the code  
+to download  
+the answer key  
+of this month's  
+magazine.  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099 97  
+  
+\
+=== PAGE 100 ===
+  
+Current Affairs September 2026\_Space, S\&T, Defence  
+  
+First joint Earth-observation  
+satellite by NASA and ISRO.  
+  
+Designed for 3 Years mission  
+life for Earth-Observation  
+(Radar Imaging).  
+  
+Orbit Earth at 747 km altitude in  
+Sun-Synchronous (Low Earth)  
+Orbit with a repeat cycle of 12 days.  
+  
+World's first radar satellite using  
+dual S- and L-band frequencies.  
+  
+and Sy’ re Rad  
+  
+Developed by NASA’s Jet Propulsion  
+Laboratory (JPL).  
+  
+With \~24cm wavelength, it  
+penetrates vegetation and  
+surface materials. NASA  
+  
+Provides high-resolution  
+imagery for studying solid Earth  
+processes, ice sheet dynamics,  
+and biomass changes.  
+  
+»)  
+Detects minute ground  
+  
+shifts for tectonic and  
+structural analysis.  
+  
+Provides consistent  
+data despite clouds  
+or darkness.  
+  
+www.Iptedtech.com | FoLLOwUSNOW (f)\\E|/@\\-4|\\©  
+  
+LPT  
+  
+NASA-ISRO SYNTHETIC APERTURE  
+\== RADAR (NISAR) SATELLITE. \_.  
+  
+Radar Technology  
+  
+Have finest Synthetic Aperture Radar  
+(SAR) Technology ever designed.  
+  
+Designed with a massive 12-meter  
+Antenna for receiving signals.  
+  
+Sweep SAR captures wide 3D high-  
+resolution images over a 242km swath.  
+  
+SAR uses microwave pulses to capture  
+sharp images even in darkness or clouds,  
+unlike cameras that rely on visible light.  
+  
+Developed by the ISRO.  
+  
+With a wavelength of \~10em, it  
+is optimised for studying  
+surface deformation.  
+  
+Provides high-resolution  
+imagery for monitoring natural  
+hazards, such as earthquakes,  
+volcanic activity, and landslides.  
+  
+Tracks biomass,  
+deforestation, crop health,  
+and soil moisture.  
+  
+Assesses earthquakes,  
+floods, landslides, and  
+volcanoes.  
+  
+98  
+  
+\
+=== PAGE 101 ===
+  
+Current Affairs September 2026\_Space, S\&T, Defence LP I  
+  
+EOS — 05: India’s 1st dedicated GEO Satellite  
+  
+1\. EOS-05 (GISAT-1A) was launched aboard which launch vehicle?  
+(a) PSLV-C60 (b) GSLV-F17 (c) LVM3-M4 (d) SSLV-D3  
+  
+2\. From which launch site was EOS-05 launched?  
+  
+(a) Thumba (b) Kulasekarapattinam  
+(c) Satish Dhawan Space Centre, Sriharikota (d) Wheeler Island  
+3\. EOS-05 is significant as India's first dedicated imaging satellite operating from which orbit?  
+(a) Low Earth Orbit  
+(b) Medium Earth Orbit  
+  
+(c) Sub-Geosynchronous / Geosynchronous Orbit at about 35,786 km  
+(d) Polar Orbit  
+  
+4\. What is the approximate mass of EOS-05?  
+(a) 1,200 kg (b) 2,367 kg (c) 3,500 kg (d) 4,000 kg  
+  
+5\. GSLV-F17 marked which operational flight of the GSLV?  
+(a) 10" (b) 15" (c) 19% (d) 25"  
+  
+6\. What is the nickname of the GSLV Mk II?  
+  
+(a) Fat Boy (b) Naughty Boy (c) Bahubali (d) Eye in the Sky  
+7\. The GSLV Mk IL is a launch vehicle with 4 strap-ons.  
+(a) 2-stage, solid (b) 3-stage, liquid (c) 3-stage, solid (d) 4-stage, liquid  
+  
+8\. What is the third stage of the GSLV Mk II?  
+  
+(a) Solid stage (b) Liquid stage (c) Cryogenic stage (d) Ion stage  
+9\. The indigenously developed cryogenic stage was inducted in GSLV from which mission?  
+  
+(a) GSLV-D1 (b) GSLV-D5  
+  
+(c) GSLV-F08 (d) GSLV-F17  
+  
+10\. When did the first GSLV flight take place?  
+(a) 18 April 2001 (b) 15 August 1990 (c) 5 January 2014 (d) 22 July 2019  
+  
+11\. |The GSLV Mk II capacity is approximately how much to GTO?  
+(a) 1,000 kg (b) 2,250 kg (c) 4,000 kg (d) 6,000 kg  
+  
+12\. What is the nickname of EOS-05?  
+(a) Naughty Boy (b) Eye in the Sky (c) Sky Watcher (d) Vayu Netra  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099 99  
+  
+\
+=== PAGE 102 ===
+  
+Current Affairs September 2026\_Space, S\&T, Defence LP I  
+  
+13\.  
+  
+18\.  
+  
+19\.  
+  
+20\.  
+  
+Why is GEO-based Earth observation useful compared to LEO?  
+  
+(a) It offers higher resolution than LEO  
+  
+(b) It provides persistent, wide-area monitoring instead of intermittent passes  
+(c) It uses less fuel  
+  
+(d) It has lower communication delay  
+  
+Which of these events is a typical use case for persistent GEO imaging?  
+(a) Tracking cyclones and flash floods (b) Mapping ocean floor  
+(c) Studying deep space (d) Monitoring underground water  
+  
+What is the approximate altitude range of Low Earth Orbit (LEO)?  
+(a) 160-2,000 km (b) 2,000-10,000 km (c) 10,000-20,000 km (d) Around 35,786 km  
+  
+Medium Earth Orbit (MEO) is primarily used by:  
+(a) Weather satellites (b) Global Navigation Satellite Systems  
+(c) The International Space Station (d) Direct-to-home broadcasting  
+  
+The orbital period of a geosynchronous satellite is equal to:  
+(a) 90 minutes (b) 12 hours  
+(c) Earth's rotational period (23 hrs 56 mins 4 secs) (d) 30 days  
+  
+Which condition is required for a satellite to be geostationary?  
+  
+(a) Any inclination  
+  
+(b) Zero-degree inclination, orbiting over the Equator in the same direction as Earth's rotation  
+(c) Polar orbit  
+  
+(d) Retrograde motion  
+  
+Which statement about Sun-Synchronous Orbit is correct?  
+  
+(a) It is a subtype of LEO providing relatively consistent solar illumination  
+(b) It is located at 35,786 km  
+  
+(c) It is used only for navigation  
+  
+(d) It lies over the Equator  
+  
+Which orbit provides high resolution and low latency, and is used for Earth observation and communication?  
+(a) LEO (b) MEO (c) GEO (d) Geosynchronous only  
+  
+(oma |  
+  
+www.Iptedtech.com | FoLLOwUSNOW (f)\\E|/@\\-4|\\© 100  
+  
+\
