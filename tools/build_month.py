@@ -15,6 +15,7 @@ def err(f, m): issues.append(f"{os.path.basename(f)}: {m}")
 for f in files:
     try: d = json.load(open(f, encoding="utf8"))
     except Exception as e: err(f, f"bad JSON {e}"); continue
+    if len(d.get("quizzes", [])) != 2 or not d.get("mindmaps") or not d.get("mnemonics"): err(f, f"INCOMPLETE: quizzes={len(d.get('quizzes', []))} mindmaps={len(d.get('mindmaps', []))} mnemonics={len(d.get('mnemonics', []))}")
     t = d["topic"]; ct = t.get("chapter_title", "General")
     if ct not in chap_idx:
         chap_idx[ct] = len(chapters)

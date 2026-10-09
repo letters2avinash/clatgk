@@ -1,0 +1,370 @@
+{
+  "topic": {
+    "title": "Passport Is Not Proof of Citizenship",
+    "chapter_title": "National News and Issues",
+    "subtopics": [
+      {
+        "title": "Passport as a Travel Document",
+        "summary": "The Ministry of External Affairs clarified on Passport Seva Divas (June 24) that an Indian Passport is primarily a Travel Document, not conclusive proof of citizenship. Courts treat it as strong evidence of nationality, while citizenship is decided on constitutional criteria. Section 20 of the Passports Act, 1967 allows passports to be issued to non-citizens in the public interest.",
+        "facts": [
+          "Ministry of External Affairs clarified this on Passport Seva Divas (June 24)",
+          "Indian Passport is primarily a Travel Document",
+          "Passport is Strong Evidence of Nationality but not Conclusive Proof of Citizenship in legal disputes",
+          "Maneka Gandhi vs Union of India (1978): passport recognised as a Travel Document subject to constitutional protections",
+          "State of Andhra Pradesh vs Abdul Khader (1962): Supreme Court held passport as supporting evidence",
+          "Citizenship depends on constitutional criteria, not on the passport",
+          "Section 20, Passports Act 1967: Central Government may issue passports to non-citizens in public interest",
+          "Section 20 has been used for stateless persons, certain Tibetan refugees and Sri Lankan Tamil refugees needing international travel"
+        ],
+        "keywords": ["Passport", "Travel Document", "Passport Seva Divas", "Section 20", "Maneka Gandhi", "Abdul Khader"]
+      },
+      {
+        "title": "Identity Documents vs Citizenship",
+        "summary": "No single universal document conclusively proves Indian citizenship. Aadhaar shows identity and residence, a Voter ID shows electoral eligibility, and a Ration Card shows residence and welfare eligibility. Inclusion in the electoral roll creates a presumption of citizenship that only due legal process can displace.",
+        "facts": [
+          "No single universal document conclusively proves Indian citizenship",
+          "Aadhaar: proof of identity and residence, not citizenship",
+          "Voter ID: establishes electoral eligibility, not citizenship",
+          "Ration Card: indicates residence and eligibility for welfare benefits, not citizenship",
+          "Lal Babu Hussein vs Electoral Registration Officer (1995): inclusion in electoral roll creates a presumption of citizenship",
+          "That presumption can be displaced only through due legal process",
+          "Citizenship Certificate is issued only to persons acquiring citizenship through registration or naturalisation",
+          "Persons acquiring citizenship by birth or descent do not receive a Citizenship Certificate",
+          "Sarbananda Sonowal vs Union of India (2005): burden of proving Indian citizenship lies on the person claiming it",
+          "Deletion from electoral roll does not amount to loss of citizenship"
+        ],
+        "keywords": ["Aadhaar", "Voter ID", "Ration Card", "Electoral Roll", "Presumption", "Citizenship Certificate", "Sonowal"]
+      },
+      {
+        "title": "Constitution and Citizenship Act, 1955",
+        "summary": "Articles 5 to 11 of the Constitution decided who became a citizen at the commencement on January 26, 1950. The Citizenship Act, 1955 governs acquisition and loss of citizenship, and has been amended six times since 1986. India does not permit dual citizenship.",
+        "facts": [
+          "Articles 5 to 11 (Part 2) of the Constitution deal with citizenship at commencement (January 26, 1950)",
+          "Citizenship Act, 1955 governs acquisition and determination of citizenship",
+          "Ways to acquire citizenship: birth, descent, registration, naturalisation, incorporation of territory",
+          "Ways to lose citizenship: renunciation, termination, deprivation",
+          "Citizenship Act amended six times since 1986: 1986, 1992, 2003, 2005, 2015 and 2019",
+          "Citizenship (Amendment) Act 2003 shifted India's regime towards Jus Sanguinis and barred illegal migrants from acquiring citizenship",
+          "Citizenship Rules 2003 envisaged a National Register of Indian Citizens",
+          "Citizenship (Amendment) Act 2019 covers six communities from Pakistan, Afghanistan and Bangladesh who entered India on or before 31 December 2014",
+          "Citizenship (Amendment) Act 2019 exempts these communities from prosecution under the Foreigners Act, 1946 and the Passport Act, 1920 for illegal entry or overstaying",
+          "India does not permit dual citizenship"
+        ],
+        "keywords": ["Article 5-11", "Citizenship Act 1955", "Jus Sanguinis", "Amendment 2003", "Amendment 2019", "Dual Citizenship"]
+      },
+      {
+        "title": "Assam Accord and NRC",
+        "summary": "The Assam agitation of 1979-1985, led by AASU and AAGSP against illegal immigration, ended with a Memorandum of Settlement signed on August 15, 1985. Clause 6 of the Assam Accord mandates safeguards for Assamese identity. A committee headed by Justice (Retd) Biplab Kumar Sarma made 67 recommendations, of which 57 have been approved by the Assam Cabinet.",
+        "facts": [
+          "Assam agitation years: 1979-1985",
+          "Agitation led by AASU and AAGSP against illegal immigration",
+          "Tripartite Memorandum of Settlement signed on August 15, 1985 by Central Government, Assam Government and agitation leaders",
+          "Clause 6 of Assam Accord: constitutional, legislative and administrative safeguards for Assamese identity and heritage",
+          "Committee headed by Justice (Retd) Biplab Kumar Sarma submitted 67 recommendations",
+          "57 recommendations approved by Assam Cabinet; 10 remain under discussion with Centre",
+          "AASU stands for All Assam Students' Union; AAGSP stands for All Assam Gana Sangram Parishad",
+          "Assam NRC: applicants had to establish links with legacy records predating 24 March 1971",
+          "NRC in Assam commenced in 2003 following an SC Order",
+          "NRC in Assam: 1951"
+        ],
+        "keywords": ["Assam Accord", "Clause 6", "AASU", "AAGSP", "NRC", "24 March 1971", "Biplab Sarma"]
+      }
+    ]
+  },
+  "mindmaps": [
+    {
+      "scope": "topic",
+      "title": "Passport Is Not Proof of Citizenship",
+      "root": {
+        "label": "Passport is not proof of citizenship",
+        "children": [
+          {
+            "label": "Passport: primarily a travel document",
+            "children": [
+              {"label": "Strong evidence of nationality", "children": []},
+              {"label": "Not conclusive proof in legal disputes", "children": []},
+              {"label": "Section 20: passports for non-citizens", "children": []}
+            ]
+          },
+          {
+            "label": "Citizenship law",
+            "children": [
+              {"label": "Articles 5-11: citizens at 26 Jan 1950", "children": []},
+              {"label": "Citizenship Act, 1955", "children": []},
+              {"label": "Amended six times since 1986", "children": []}
+            ]
+          },
+          {
+            "label": "Identity documents",
+            "children": [
+              {"label": "Aadhaar: identity and residence", "children": []},
+              {"label": "Voter ID: electoral eligibility", "children": []},
+              {"label": "Ration card: residence and welfare", "children": []}
+            ]
+          },
+          {
+            "label": "Court rulings",
+            "children": [
+              {"label": "Abdul Khader (1962): supporting evidence", "children": []},
+              {"label": "Maneka Gandhi (1978): travel document", "children": []},
+              {"label": "Lal Babu Hussein (1995): roll presumption", "children": []},
+              {"label": "Sonowal (2005): burden on claimant", "children": []}
+            ]
+          },
+          {
+            "label": "Assam Accord",
+            "children": [
+              {"label": "Settlement signed 15 Aug 1985", "children": []},
+              {"label": "Clause 6: identity safeguards", "children": []},
+              {"label": "NRC cut-off: 24 March 1971", "children": []}
+            ]
+          },
+          {
+            "label": "Recent developments",
+            "children": [
+              {"label": "MEA clarification on June 24", "children": []},
+              {"label": "SIR upheld under Article 324 (2026)", "children": []}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 0,
+      "title": "Passport as a Travel Document",
+      "root": {
+        "label": "Passport as travel document",
+        "children": [
+          {"label": "Primarily a travel document", "children": []},
+          {"label": "Strong evidence of nationality", "children": []},
+          {"label": "Not conclusive proof of citizenship", "children": []},
+          {
+            "label": "Section 20, Passports Act 1967",
+            "children": [
+              {"label": "Non-citizens in public interest", "children": []},
+              {"label": "Used for stateless and refugee travel", "children": []}
+            ]
+          },
+          {"label": "Abdul Khader (1962): supporting evidence", "children": []},
+          {"label": "Maneka Gandhi (1978): constitutional protections", "children": []}
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 1,
+      "title": "Identity Documents vs Citizenship",
+      "root": {
+        "label": "Identity documents vs citizenship",
+        "children": [
+          {"label": "Aadhaar: identity and residence", "children": []},
+          {"label": "Voter ID: electoral eligibility", "children": []},
+          {"label": "Ration Card: residence and welfare", "children": []},
+          {"label": "Electoral roll: presumption of citizenship", "children": []},
+          {"label": "Citizenship certificate: registration or naturalisation", "children": []}
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 2,
+      "title": "Constitution and Citizenship Act, 1955",
+      "root": {
+        "label": "Citizenship law framework",
+        "children": [
+          {"label": "Articles 5-11: citizens at 26 Jan 1950", "children": []},
+          {
+            "label": "Citizenship Act, 1955",
+            "children": [
+              {"label": "Acquire: birth, descent, registration, naturalisation", "children": []},
+              {"label": "Acquire: incorporation of territory", "children": []},
+              {"label": "Lose: renunciation, termination, deprivation", "children": []}
+            ]
+          },
+          {"label": "Amended six times since 1986", "children": []},
+          {"label": "Amendment 2003: Jus Sanguinis", "children": []},
+          {"label": "Amendment 2019: entry by 31 Dec 2014", "children": []},
+          {"label": "No dual citizenship", "children": []}
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 3,
+      "title": "Assam Accord and NRC",
+      "root": {
+        "label": "Assam Accord and NRC",
+        "children": [
+          {"label": "Agitation years: 1979-1985", "children": []},
+          {"label": "Led by AASU and AAGSP", "children": []},
+          {"label": "Memorandum of Settlement: 15 Aug 1985", "children": []},
+          {"label": "Clause 6: Assamese identity safeguards", "children": []},
+          {"label": "Biplab Sarma committee: 67 recommendations", "children": []},
+          {"label": "NRC: legacy records before 24 March 1971", "children": []},
+          {"label": "NRC process commenced 2003", "children": []}
+        ]
+      }
+    }
+  ],
+  "mnemonics": [
+    {
+      "scope": "topic",
+      "title": "Ways to acquire citizenship",
+      "mnemonic": "BDRNI: Birth, Descent, Registration, Naturalisation, Incorporation",
+      "decode": [
+        {"key": "B", "meaning": "Birth"},
+        {"key": "D", "meaning": "Descent"},
+        {"key": "R", "meaning": "Registration"},
+        {"key": "N", "meaning": "Naturalisation"},
+        {"key": "I", "meaning": "Incorporation of territory"}
+      ]
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 2,
+      "title": "Ways to lose citizenship",
+      "mnemonic": "RTD: Renunciation, Termination, Deprivation",
+      "decode": [
+        {"key": "R", "meaning": "Renunciation"},
+        {"key": "T", "meaning": "Termination"},
+        {"key": "D", "meaning": "Deprivation"}
+      ]
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 3,
+      "title": "Assam dates pair",
+      "mnemonic": "85 signed, 71 cut-off",
+      "decode": [
+        {"key": "85", "meaning": "Memorandum of Settlement signed on August 15, 1985"},
+        {"key": "71", "meaning": "NRC legacy records predate 24 March 1971"}
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "type": "MCQ",
+      "subtopic_index": 0,
+      "title": "Passport and Proof of Citizenship",
+      "passage": "On Passport Seva Divas, observed on June 24, the Ministry of External Affairs set out what an Indian passport does and does not establish. Officials stressed that the document is primarily a travel document. The clarification came at a time when the Special Intensive Revision of electoral rolls was drawing attention and questions about who counts as a citizen were being raised. Courts have also been asked to examine how much weight a passport carries in legal disputes. The document is taken seriously as evidence of nationality, and the question of citizenship is decided against the criteria that the Constitution and the law provide. The law also lets the government act beyond citizens. A specific statutory provision authorises the Central Government to issue passports to non-citizens in the public interest. Stateless persons and certain refugees have been helped through this route when they needed to travel abroad, which shows that a passport can serve a practical purpose without proving citizenship. Ordinary documents follow the same logic. Many people carry identity cards, voter cards and ration cards in daily life, and each serves a particular purpose. Officials and courts look at what each document establishes and do not treat any one of them as a complete answer to the question of citizenship.",
+      "questions": [
+        {
+          "q": "Which section of the Passports Act, 1967 allows the Central Government to issue passports to non-citizens in the public interest?",
+          "options": ["Section 10", "Section 15", "Section 20", "Section 25"],
+          "answer": 2,
+          "explanation": "Section 20 of the Passports Act, 1967 permits passports to non-citizens in the public interest."
+        },
+        {
+          "q": "Who receives a Citizenship Certificate in India?",
+          "options": [
+            "All Indian citizens by birth",
+            "Persons acquiring citizenship through registration or naturalisation",
+            "Persons acquiring citizenship by birth or descent",
+            "All persons holding a valid Indian passport"
+          ],
+          "answer": 1,
+          "explanation": "Citizenship Certificates are issued only to persons acquiring citizenship through registration or naturalisation."
+        },
+        {
+          "q": "Which clause of the Assam Accord mandates constitutional, legislative and administrative safeguards for the cultural, social, linguistic identity and heritage of the Assamese people?",
+          "options": ["Clause 6", "Clause 2", "Clause 9", "Clause 4"],
+          "answer": 0,
+          "explanation": "Clause 6 of the Assam Accord mandates these safeguards for Assamese identity and heritage."
+        },
+        {
+          "q": "Assertion (A): An Indian passport is conclusive proof of Indian citizenship in legal disputes.\nReason (R): A passport is primarily a travel document and is strong evidence of nationality.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+          ],
+          "answer": 3,
+          "explanation": "The booklet says a passport is strong evidence of nationality but not conclusive proof of citizenship in legal disputes."
+        },
+        {
+          "q": "Match List I with List II:\nI. Maneka Gandhi vs Union of India (1978)   ->   A. Passport as travel document subject to constitutional protections\nII. State of Andhra Pradesh vs Abdul Khader (1962)   ->   B. Passport as supporting evidence\nIII. Lal Babu Hussein vs Electoral Registration Officer (1995)   ->   C. Electoral roll inclusion creates presumption of citizenship\nIV. Sarbananda Sonowal vs Union of India (2005)   ->   D. Burden of proof lies on the person claiming citizenship",
+          "options": ["I-B, II-A, III-C, IV-D", "I-A, II-C, III-B, IV-D", "I-A, II-B, III-C, IV-D", "I-C, II-A, III-D, IV-B"],
+          "answer": 2,
+          "explanation": "Each case is paired with its holding: Maneka Gandhi (A), Abdul Khader (B), Lal Babu Hussein (C) and Sonowal (D)."
+        },
+        {
+          "q": "Consider the following statements:\nI. India does not permit dual citizenship.\nII. The Citizenship Act, 1955 has been amended six times since 1986.\nIII. Persons acquiring citizenship by birth or descent receive a Citizenship Certificate.\nWhich of the above statements is/are correct?",
+          "options": ["I and II only", "I only", "II and III only", "I, II and III"],
+          "answer": 0,
+          "explanation": "India does not permit dual citizenship and the Act has been amended six times since 1986, while birth or descent holders get no certificate."
+        },
+        {
+          "q": "Consider the following statements:\nI. Aadhaar proves identity and residence, not citizenship.\nII. A Voter ID establishes electoral eligibility, not citizenship.\nIII. A Ration Card proves citizenship.\nHow many of the above statements are correct?",
+          "options": ["Only one", "Only two", "Only three", "None of the above"],
+          "answer": 1,
+          "explanation": "Statements I and II match the booklet, while the Ration Card indicates residence and welfare eligibility, not citizenship."
+        },
+        {
+          "q": "Under which Article of the Constitution was the constitutional validity of the Special Intensive Revision (SIR) upheld in Association for Democratic Reforms vs Election Commission of India (2026)?",
+          "options": ["Article 326", "Article 300A", "Article 368", "Article 324"],
+          "answer": 3,
+          "explanation": "The Supreme Court upheld SIR under Article 324 and Section 21(3) of the Representation of People Act, 1950."
+        }
+      ]
+    },
+    {
+      "type": "TITA",
+      "subtopic_index": 2,
+      "title": "Citizenship Law Framework",
+      "passage": "Indian citizenship is governed by a set of constitutional and statutory rules rather than by any single certificate. The Constitution, through a group of early articles, settled who became a citizen when the Republic began. Those articles were not meant to be read alone, because the detailed rules on how citizenship is gained and lost are set out in a separate law passed by Parliament. That law has changed over the decades. It has been amended several times since the 1980s, reflecting shifts in policy on illegal migration and on the status of migrants from neighbouring countries. Earlier changes altered the basis of citizenship, moving the regime toward a principle linked to parentage. Later changes eased the path for certain religious communities who had entered India from neighbouring countries before a fixed date. Some features of the system are firm. India does not allow a person to hold citizenship of another country alongside Indian citizenship. The law also sets out the circumstances in which citizenship can be lost. Officials and students alike should note that the rules fix who is a citizen, while documents only record or support that status. Keeping this distinction clear helps explain why a passport, a voter card or an identity number cannot by itself settle a citizenship question.",
+      "questions": [
+        {
+          "q": "How many times has the Citizenship Act, 1955 been amended since 1986? (in number)",
+          "answer": "6",
+          "accept": ["six"],
+          "explanation": "The Act has been amended six times since 1986, in 1986, 1992, 2003, 2005, 2015 and 2019."
+        },
+        {
+          "q": "In which year did the Citizenship (Amendment) Act shift India's citizenship regime towards Jus Sanguinis?",
+          "answer": "2003",
+          "accept": ["2003 Amendment"],
+          "explanation": "The Citizenship (Amendment) Act 2003 shifted the regime toward Jus Sanguinis."
+        },
+        {
+          "q": "How many communities are granted citizenship under the Citizenship (Amendment) Act 2019? (in number)",
+          "answer": "6",
+          "accept": ["six"],
+          "explanation": "The Act covers Hindus, Sikhs, Buddhists, Jains, Parsis and Christians, which is six communities."
+        },
+        {
+          "q": "On or before which date must migrants have entered India to be covered by the Citizenship (Amendment) Act 2019?",
+          "answer": "31 December 2014",
+          "accept": ["31-12-2014", "31 Dec 2014", "December 31, 2014", "31st December 2014"],
+          "explanation": "The Act covers migrants who entered India on or before 31 December 2014."
+        },
+        {
+          "q": "On which date (day and month, 1950) did the citizenship provisions in Articles 5 to 11 take effect?",
+          "answer": "26 January",
+          "accept": ["January 26", "26 Jan", "26th January", "26 January 1950", "January 26, 1950"],
+          "explanation": "Articles 5 to 11 determined who became a citizen at the commencement of the Constitution, January 26, 1950."
+        },
+        {
+          "q": "What is the first of the three conditions listed for losing citizenship under the Citizenship Act, 1955? (one word)",
+          "answer": "Renunciation",
+          "accept": ["renounce", "renouncing"],
+          "explanation": "The Act lists renunciation first, followed by termination and deprivation."
+        },
+        {
+          "q": "Apart from birth, descent, registration and naturalisation, what is the fifth way of acquiring citizenship under the Citizenship Act, 1955? (a short phrase)",
+          "answer": "Incorporation of territory",
+          "accept": ["incorporation", "incorporation of a territory"],
+          "explanation": "The Act lists incorporation of territory as the fifth way to acquire citizenship."
+        }
+      ]
+    }
+  ],
+  "needs_check": [
+    {"page": 20, "what": "Tier 1 / Tier 2 / Tier 3 Assam table: the Tier 2 entry window is missing and the tier-to-status mapping is scrambled; not used."},
+    {"page": 20, "what": "Foreigners (Tribunals) Order box: which tier the 10-year removal from electoral rolls applies to is unclear; not used."},
+    {"page": 21, "what": "Article 15, 16, 19 and 30 diagram labels are garbled; only the Articles 5-11 text and the Citizenship Act text were used."},
+    {"page": 22, "what": "Jus Soli rules (26 Jan 1950 to 1 July 1987) and the rules for persons born on or after 3 December 2004 appear only in practice questions, not in the explanatory text; not used."},
+    {"page": 23, "what": "Residency years for registration and naturalisation appear only in practice question options, not in the explanatory text; not used."}
+  ]
+}
