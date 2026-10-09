@@ -1,0 +1,100 @@
+[
+  {
+    "key": "t01_pm_modi_visit_5_nations",
+    "title": "PM Modi Visit to 5 Nations",
+    "chapter": "International Relations and News",
+    "start": 5,
+    "end": 11
+  },
+  {
+    "key": "t02_uae_exit_opec_opec_plus",
+    "title": "UAE's Exit from OPEC and OPEC+",
+    "chapter": "International Relations and News",
+    "start": 12,
+    "end": 16
+  },
+  {
+    "key": "t03_neet_paper_leak_controversy",
+    "title": "NEET Paper Leak Controversy",
+    "chapter": "National News and Issues",
+    "start": 17,
+    "end": 20
+  },
+  {
+    "key": "t04_bhojshala_kamal_maula_complex",
+    "title": "Bhojshala— Kamal Maula Complex",
+    "chapter": "National News and Issues",
+    "start": 21,
+    "end": 24
+  },
+  {
+    "key": "t05_increase_supreme_court_judge_strength",
+    "title": "Increase in Supreme Court Judge Strength",
+    "chapter": "Polity & Governance",
+    "start": 25,
+    "end": 31
+  },
+  {
+    "key": "t06_anti_defection_law",
+    "title": "Anti-Defection Law",
+    "chapter": "Polity & Governance",
+    "start": 32,
+    "end": 35
+  },
+  {
+    "key": "t07_india_forex_stress_austerity",
+    "title": "India's Forex Stress & Call for Economic Austerity",
+    "chapter": "Economics",
+    "start": 36,
+    "end": 40
+  },
+  {
+    "key": "t08_world_press_freedom_index_2026",
+    "title": "World Press Freedom Index 2026",
+    "chapter": "Summits, Reports, Indices",
+    "start": 41,
+    "end": 46
+  },
+  {
+    "key": "t09_leads_2025_report",
+    "title": "LEADS 2025 Report",
+    "chapter": "Summits, Reports, Indices",
+    "start": 47,
+    "end": 51
+  },
+  {
+    "key": "t10_national_technology_day_2026",
+    "title": "National Technology Day 2026",
+    "chapter": "Sports, Awards & Days",
+    "start": 52,
+    "end": 55
+  },
+  {
+    "key": "t11_international_labour_day",
+    "title": "International Labour Day",
+    "chapter": "Sports, Awards & Days",
+    "start": 56,
+    "end": 59
+  },
+  {
+    "key": "t12_misc1",
+    "title": "Miscellaneous (part 1)",
+    "chapter": "Miscellaneous",
+    "start": 60,
+    "end": 68
+  },
+  {
+    "key": "t12_misc2",
+    "title": "Miscellaneous (part 2)",
+    "chapter": "Miscellaneous",
+    "start": 69,
+    "end": 76
+  },
+  {
+    "key": "t13_ailet_corner",
+    "title": "AILET Corner",
+    "chapter": "AILET Corner",
+    "start": 77,
+    "end": 79
+  }
+]

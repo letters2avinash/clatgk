@@ -1,0 +1,15 @@
+[
+  {"key":"t01_us_supreme_court_ieepa_tariffs","title":"US Supreme Court Blocks Trump's IEEPA Tariffs","chapter":"International Relations and News","start":5,"end":10},
+  {"key":"t02_end_of_new_start_treaty","title":"End of New Start Treaty","chapter":"International Relations and News","start":11,"end":16},
+  {"key":"t03_tarique_rahman_bangladesh_pm","title":"Tarique Rahman Became Bangladesh's Next PM","chapter":"International Relations and News","start":17,"end":25},
+  {"key":"t04_manipur_chief_minister","title":"Yumnam Khemchand Singh Sworn in as Chief Minister of Manipur","chapter":"National News and Issues","start":26,"end":30},
+  {"key":"t05_union_budget_2026_27","title":"Union Budget 2026-27","chapter":"Economics","start":31,"end":37},
+  {"key":"t06_16th_finance_commission_report","title":"16th Finance Commission Report","chapter":"Economics","start":38,"end":43},
+  {"key":"t07_cpi_base_year_2024","title":"CPI Base Year Revised to 2024","chapter":"Economics","start":44,"end":48},
+  {"key":"t08_india_ai_impact_summit_2026","title":"India AI Impact Summit 2026","chapter":"Reports, Summits, Indices","start":49,"end":54},
+  {"key":"t09_corruption_perceptions_index_2025","title":"Corruption Perceptions Index 2025","chapter":"Reports, Summits, Indices","start":55,"end":59},
+  {"key":"t10_ngt_great_nicobar_project","title":"NGT Clears Great Nicobar Infrastructure Project","chapter":"Environment & Biodiversity","start":60,"end":64},
+  {"key":"t11_world_wetlands_day_2026","title":"World Wetlands Day 2026","chapter":"Environment & Biodiversity","start":65,"end":68},
+  {"key":"t12_miscellaneous","title":"Miscellaneous","chapter":"Miscellaneous","start":69,"end":84},
+  {"key":"t13_ailet_corner","title":"AILET Corner","chapter":"AILET Corner","start":85,"end":87}
+]

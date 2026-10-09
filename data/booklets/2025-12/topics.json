@@ -1,0 +1,11 @@
+[
+  {"key": "t01_protection_aravalli_hills", "title": "Protection of Aravalli Hills", "chapter": "National News and Issues", "start": 5, "end": 9},
+  {"key": "t02_vikshit_bharat_gram_g_bill", "title": "Vikshit Bharat GRAM G Bill", "chapter": "National News and Issues", "start": 10, "end": 15},
+  {"key": "t03_4th_national_lok_adalat", "title": "4th National Lok Adalat", "chapter": "Polity and Governance", "start": 16, "end": 20},
+  {"key": "t04_assam_prohibition_polygamy_bill_2025", "title": "Assam Prohibition of Polygamy Bill 2025", "chapter": "Polity and Governance", "start": 21, "end": 25},
+  {"key": "t05_indian_rupee_breaches_90_usd", "title": "Indian Rupee Breaches 90 Per US Dollar in 2025", "chapter": "Economy", "start": 26, "end": 29},
+  {"key": "t06_rbi_cuts_repo_rate_goldilocks", "title": "RBI Cuts Repo Rate 'Goldilocks Phase'", "chapter": "Economy", "start": 30, "end": 36},
+  {"key": "t07_23rd_india_russia_annual_summit", "title": "23rd India-Russia Annual Summit", "chapter": "Summits, Reports & Indices", "start": 37, "end": 42},
+  {"key": "t08_miscellaneous", "title": "Miscellaneous", "chapter": "Miscellaneous", "start": 43, "end": 58},
+  {"key": "t09_ailet_corner", "title": "AILET Corner", "chapter": "AILET Corner", "start": 59, "end": 66}
+]

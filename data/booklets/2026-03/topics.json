@@ -1,0 +1,107 @@
+[
+  {
+    "key": "t01_us_israel_iran_offensive",
+    "title": "U.S. — Israel Launch Joint Offensive Against Iran",
+    "chapter": "International Relations and News",
+    "start": 5,
+    "end": 14
+  },
+  {
+    "key": "t02_pakistan_afghanistan_war",
+    "title": "Pakistan Declares Open War on Afghanistan's Taliban Government",
+    "chapter": "International Relations and News",
+    "start": 15,
+    "end": 20
+  },
+  {
+    "key": "t03_nepal_election_rsp",
+    "title": "Nepal Election: RSP's Victory & Implications For India",
+    "chapter": "International Relations and News",
+    "start": 21,
+    "end": 27
+  },
+  {
+    "key": "t04_india_canada_cepa",
+    "title": "India — Canada Formally Resume CEPA Negotiations",
+    "chapter": "International Relations and News",
+    "start": 28,
+    "end": 32
+  },
+  {
+    "key": "t05_kerala_keralam_renaming",
+    "title": "Centre Approved Renaming Kerala as Keralam",
+    "chapter": "National News and Issues",
+    "start": 33,
+    "end": 37
+  },
+  {
+    "key": "t06_sc_creamy_layer_obc",
+    "title": "SC Ruling On Creamy Layer Determination For OBCs",
+    "chapter": "National News and Issues",
+    "start": 38,
+    "end": 43
+  },
+  {
+    "key": "t07_transgender_amendment_bill_2026",
+    "title": "Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+    "chapter": "Polity & Governance",
+    "start": 44,
+    "end": 49
+  },
+  {
+    "key": "t08_new_gdp_series_2022_23",
+    "title": "New GDP Series Released With Base Year Revised To 2022-23",
+    "chapter": "Economics",
+    "start": 50,
+    "end": 54
+  },
+  {
+    "key": "t09_world_happiness_report_2026",
+    "title": "World Happiness Report 2026",
+    "chapter": "Reports, Summits, Indices",
+    "start": 55,
+    "end": 58
+  },
+  {
+    "key": "t10_sipri_india_arms_importer",
+    "title": "SIPRI Report: India as 2nd Largest Arms Importer",
+    "chapter": "Science & Technology Defence and Space",
+    "start": 59,
+    "end": 61
+  },
+  {
+    "key": "t11_winter_olympics_milano_cortina_2026",
+    "title": "25th Winter Olympic Games (Milano Cortina 2026)",
+    "chapter": "Sports, Awards & Days",
+    "start": 62,
+    "end": 66
+  },
+  {
+    "key": "t12_world_tuberculosis_day_2026",
+    "title": "World Tuberculosis Day 2026",
+    "chapter": "Sports, Awards & Days",
+    "start": 67,
+    "end": 70
+  },
+  {
+    "key": "t13_misc1",
+    "title": "Miscellaneous (part 1)",
+    "chapter": "Miscellaneous",
+    "start": 71,
+    "end": 86
+  },
+  {
+    "key": "t14_misc2",
+    "title": "Miscellaneous (part 2)",
+    "chapter": "Miscellaneous",
+    "start": 87,
+    "end": 89
+  },
+  {
+    "key": "t15_ailet_corner",
+    "title": "AILET Corner",
+    "chapter": "AILET Corner",
+    "start": 90,
+    "end": 94
+  }
+]

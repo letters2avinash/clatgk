@@ -1,0 +1,15 @@
+[
+  {"key":"t01_us_iran_peace_accord","title":"U.S. — Iran Preliminary Peace Accord 2026","chapter":"International Relations and News","start":5,"end":7},
+  {"key":"t02_myanmar_president_india_visit","title":"Myanmar President's India Visit","chapter":"International Relations and News","start":8,"end":11},
+  {"key":"t03_pm_modi_longest_continuous_elected_pm","title":"PM Modi Became India's Longest Continuously Serving Elected PM","chapter":"National News and Issues","start":12,"end":18},
+  {"key":"t04_passport_not_proof_of_citizenship","title":"Passport is not Proof of Citizenship","chapter":"National News and Issues","start":19,"end":23},
+  {"key":"t05_draft_rules_vb_g_ram_g_act_2025","title":"Draft Rules for VB — G Ram G Act 2025","chapter":"Polity & Governance","start":24,"end":27},
+  {"key":"t06_election_symbols_order_1968","title":"Election Symbols (Reservation and Allotment) Order, 1968","chapter":"Polity & Governance","start":28,"end":31},
+  {"key":"t07_telegram_ban_section_69a","title":"Telegram Ban Under Section 69A of IT Act 2000","chapter":"Polity & Governance","start":32,"end":37},
+  {"key":"t08_wpi_base_year_revision_ppi","title":"Centre Approved WPI Base Year Revision and Introduced PPI","chapter":"Economics","start":38,"end":41},
+  {"key":"t09_g7_summit_2026","title":"G7 Summit 2026","chapter":"Summits, Reports, Indices","start":42,"end":45},
+  {"key":"t10_quad_foreign_ministers_meeting_2026","title":"Quad Foreign Ministers' Meeting 2026","chapter":"Summits, Reports, Indices","start":46,"end":49},
+  {"key":"t11_e85_fuel_rollout","title":"E85 Fuel Rollout in India","chapter":"Environment & Disaster Management","start":50,"end":53},
+  {"key":"t12_world_environment_day_2026","title":"World Environment Day 2026","chapter":"Environment & Disaster Management","start":54,"end":58},
+  {"key":"t13_misc","title":"Miscellaneous","chapter":"Miscellaneous","start":59,"end":74}
+]

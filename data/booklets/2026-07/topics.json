@@ -1,0 +1,114 @@
+[
+  {
+    "key": "t01_us_saudi_123",
+    "title": "US — Saudi 123 Civil Nuclear Agreement",
+    "chapter": "International Relations and News",
+    "start": 6,
+    "end": 11
+  },
+  {
+    "key": "t02_india_indonesia",
+    "title": "India — Indonesia Relation",
+    "chapter": "International Relations and News",
+    "start": 12,
+    "end": 15
+  },
+  {
+    "key": "t03_130th_constitutional_amendment",
+    "title": "130th Constitutional Amendment Bill",
+    "chapter": "National News and Issues",
+    "start": 16,
+    "end": 20
+  },
+  {
+    "key": "t04_autonomous_hill_councils_ladakh",
+    "title": "Autonomous Hill Development Councils expanded across Ladakh",
+    "chapter": "Polity & Governance",
+    "start": 21,
+    "end": 24
+  },
+  {
+    "key": "t05_delhi_ev_policy_2",
+    "title": "Delhi Electric Vehicle Policy 2.0",
+    "chapter": "Polity & Governance",
+    "start": 25,
+    "end": 29
+  },
+  {
+    "key": "t06_pm_surya_ghar",
+    "title": "PM Surya Ghar: Muft Bijli Yojana",
+    "chapter": "Polity & Governance",
+    "start": 30,
+    "end": 34
+  },
+  {
+    "key": "t07_nfsa_amendment",
+    "title": "Proposed NFSA Amendment",
+    "chapter": "Polity & Governance",
+    "start": 35,
+    "end": 38
+  },
+  {
+    "key": "t08_india_uk_ceta",
+    "title": "India - UK Comprehensive Economic and Trade Agreement",
+    "chapter": "Economics",
+    "start": 39,
+    "end": 42
+  },
+  {
+    "key": "t09_rbi_polymer_notes",
+    "title": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+    "chapter": "Economics",
+    "start": 43,
+    "end": 48
+  },
+  {
+    "key": "t10_india_japan_summit_2026",
+    "title": "16th India—Japan Annual Summit 2026",
+    "chapter": "Summits, Reports, Indices",
+    "start": 49,
+    "end": 53
+  },
+  {
+    "key": "t11_un_sdr_2026",
+    "title": "UN Sustainable Development Report 2026",
+    "chapter": "Summits, Reports, Indices",
+    "start": 54,
+    "end": 60
+  },
+  {
+    "key": "t12_vikram_1",
+    "title": "Vikram-1 : India's 1st Private Orbital Rocket",
+    "chapter": "Defence, Space and S&T",
+    "start": 61,
+    "end": 65
+  },
+  {
+    "key": "t13_hydrogen_train",
+    "title": "India flags off its 1st Hydrogen-powered Train",
+    "chapter": "Defence, Space and S&T",
+    "start": 66,
+    "end": 69
+  },
+  {
+    "key": "t14_fifa_world_cup_2026",
+    "title": "FIFA World Cup 2026",
+    "chapter": "Sports & Awards",
+    "start": 70,
+    "end": 77
+  },
+  {
+    "key": "t15_miscellaneous",
+    "title": "Miscellaneous",
+    "chapter": "Miscellaneous",
+    "start": 78,
+    "end": 88
+  },
+  {
+    "key": "t16_ailet_corner",
+    "title": "AILET Corner",
+    "chapter": "AILET Corner",
+    "start": 89,
+    "end": 93
+  }
+]

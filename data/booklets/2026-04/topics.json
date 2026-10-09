@@ -1,0 +1,18 @@
+[
+  {"key": "t01_vp_sri_lanka_visit", "title": "Visit of Vice President C. P. Radhakrishnan to Sri Lanka", "chapter": "International Relations and News", "start": 5, "end": 8},
+  {"key": "t02_constitution_131_amendment_bill", "title": "Constitution (131st Amendment) Bill, 2026", "chapter": "National News and Issues", "start": 9, "end": 14},
+  {"key": "t03_census_2027_digital", "title": "World's Largest Digital Census Begins - Census 2027 (Phase I)", "chapter": "National News and Issues", "start": 15, "end": 18},
+  {"key": "t04_naxal_free_india", "title": "India Declared Free of Naxal Violence", "chapter": "National News and Issues", "start": 19, "end": 21},
+  {"key": "t05_gujarat_ucc_bill", "title": "Gujarat Passed Uniform Civil Code Bill", "chapter": "Polity and Governance", "start": 22, "end": 26},
+  {"key": "t06_mahanadi_water_dispute", "title": "Mahanadi Water Dispute", "chapter": "Polity and Governance", "start": 27, "end": 29},
+  {"key": "t07_national_panchayati_raj_day_2026", "title": "National Panchayati Raj Day 2026", "chapter": "Polity and Governance", "start": 30, "end": 34},
+  {"key": "t08_rbi_repo_rate_5_25", "title": "RBI Holds Repo Rate At 5.25%", "chapter": "Economics", "start": 35, "end": 39},
+  {"key": "t09_wto_mc14", "title": "14th WTO Ministerial Conference (MC14)", "chapter": "Summits, Reports and Indices", "start": 42, "end": 46},
+  {"key": "t10_world_air_quality_report_2025", "title": "World Air Quality Report 2025", "chapter": "Environment and Disaster Management", "start": 47, "end": 51},
+  {"key": "t11_pfbr_kalpakkam_criticality", "title": "PFBR at Kalpakkam Achieved Criticality", "chapter": "Science and Technology, Defence and Space", "start": 52, "end": 55},
+  {"key": "t12_ins_aridaman", "title": "India Commissioned Nuclear-Powered Submarine INS Aridaman", "chapter": "Science and Technology, Defence and Space", "start": 56, "end": 60},
+  {"key": "t13_nasa_artemis_i", "title": "NASA's Artemis I Mission", "chapter": "Science and Technology, Defence and Space", "start": 61, "end": 66},
+  {"key": "t14_vaishali_fide_candidates_2026", "title": "R. Vaishali won FIDE Women's Candidates Tournament 2026", "chapter": "Sports, Awards and Days", "start": 67, "end": 69},
+  {"key": "t15_miscellaneous", "title": "Miscellaneous", "chapter": "Miscellaneous", "start": 70, "end": 81},
+  {"key": "t16_ailet_corner", "title": "AILET Corner", "chapter": "AILET Corner", "start": 82, "end": 84}
+]
