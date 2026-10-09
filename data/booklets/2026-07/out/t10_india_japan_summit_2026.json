@@ -436,7 +436,7 @@
   {"page": 50, "what": "Second Shinkansen series name is garbled ('ES' or E5); only the E10 and E3 series are used"},
   {"page": 50, "what": "Name of the UK-based design firm for the E10 is garbled ('Tangerin'); not used"},
   {"page": 50, "what": "Year '(2016)' next to National High-Speed Rail Corporation Limited is unclear in meaning (formation or other event); not used"},
-  {"page": 50, "what": "Japan's share of the 16th summit's trade or ODA figures are clear, but the sidebar on Japan facts (Kuril Islands line) is garbled; not used"},
+  {"page": 49, "what": "Japan facts sidebar (Kuril Islands line and other entries) is partly garbled; not used"},
   {"page": 51, "what": "National Green Hydrogen Mission cost ceiling ('under 7100/kg') is garbled (currency and figure); not used"},
   {"page": 51, "what": "Current green hydrogen cost in India ('%350-400/kg'): currency symbol garbled; figure not used"},
   {"page": 51, "what": "Expected 2030 outcomes: annual green hydrogen production ('SMMT'), CO2 emissions averted ('SOMMT'), jobs ('Glakh jobs') and investment ('%8 lakh crore') are garbled; not used"},
