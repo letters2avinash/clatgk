@@ -1,5 +1,30 @@
 [
  {
+  "topic": "US Strike on Venezuela",
+  "page": 5,
+  "what": "Arguments-for/against table (Law of the Jungle, Unwilling or Unable doctrine, narco-terrorism as self-defence, Ker-Frisbie doctrine) is garbled; not used."
+ },
+ {
+  "topic": "US Strike on Venezuela",
+  "page": 5,
+  "what": "Label 'Former US President Donald Trump' conflicts with 'U.S. President Donald Trump' on page 7; not used."
+ },
+ {
+  "topic": "US Strike on Venezuela",
+  "page": 6,
+  "what": "Country profile spells the capital as 'Caracus' and the map labels are garbled; only Spanish, Bolivar and Delcy Rodriguez (Acting) from the box were used."
+ },
+ {
+  "topic": "US Strike on Venezuela",
+  "page": 7,
+  "what": "Column text on Neo-Monroeist approach and 'Neo-Royalism' personalised foreign policy is garbled; not used."
+ },
+ {
+  "topic": "US Strike on Venezuela",
+  "page": 9,
+  "what": "Reform section on monitoring cyber-attacks and economic/sanction actions (transparency heading) is garbled; not used."
+ },
+ {
   "topic": "Strategic Importance of Greenland",
   "page": 12,
   "what": "Greenland PM name partly garbled ('Jens - Frederik Nielsen'); not used"
@@ -13,6 +38,21 @@
   "topic": "Strategic Importance of Greenland",
   "page": 13,
   "what": "Sidebar on US territorial purchases (Louisiana, Alaska, Danish West Indies) interleaved with main text; Danish West Indies line truncated; not used"
+ },
+ {
+  "topic": "Board of Peace for Gaza",
+  "page": 17,
+  "what": "Country-wise acceptance and decline lists overlap with other text and map labels; not used"
+ },
+ {
+  "topic": "Board of Peace for Gaza",
+  "page": 19,
+  "what": "Plan points 17 to 19 overlap map labels and are partly unreadable; not used"
+ },
+ {
+  "topic": "Board of Peace for Gaza",
+  "page": 22,
+  "what": "Timeline dates are garbled (for example '2043' for the US-led peace process and '2048-20'); not used"
  },
  {
   "topic": "Diego Garcia and the Chagos Islands",
@@ -140,6 +180,51 @@
   "what": "'Brussels Effect' label is garbled; not used"
  },
  {
+  "topic": "China's Population Decline",
+  "page": 62,
+  "what": "China's 2025 population in the India comparison reads as 141.61 crore, which conflicts with 1.405 billion on page 60; not used"
+ },
+ {
+  "topic": "China's Population Decline",
+  "page": 62,
+  "what": "China's One-Child Policy dates in the India comparison bracket read as 1979-2015, which conflicts with 1980 and 2016 on page 61; not used"
+ },
+ {
+  "topic": "China's Population Decline",
+  "page": 62,
+  "what": "UNFPA partner list label is garbled ('Skill-up' with ECOSOC, WHO, UNDP, UNICEF); not used"
+ },
+ {
+  "topic": "UN High Seas Treaty Enters Into Force",
+  "page": 65,
+  "what": "Share of world ocean surface given as 'over 2.3\"' is garbled (likely two-thirds); not used."
+ },
+ {
+  "topic": "UN High Seas Treaty Enters Into Force",
+  "page": 65,
+  "what": "'200 NM (320 km)': 320 km conflicts with 1 NM = 1.852 km (200 NM is about 370 km); the km figure is not used."
+ },
+ {
+  "topic": "UN High Seas Treaty Enters Into Force",
+  "page": 65,
+  "what": "'24NM' label sits among the zone labels and its zone is unclear; not used."
+ },
+ {
+  "topic": "UN High Seas Treaty Enters Into Force",
+  "page": 66,
+  "what": "'64 Pillars' heading is OCR-garbled; the four pillars were taken from the clear list."
+ },
+ {
+  "topic": "UN High Seas Treaty Enters Into Force",
+  "page": 66,
+  "what": "Fisheries line 'Lin Shrimp Production | 3rd in Capture Fisheries' is unreadable; not used."
+ },
+ {
+  "topic": "UN High Seas Treaty Enters Into Force",
+  "page": 68,
+  "what": "Peace Clause box: the 2013 / Bali Agreement attribution is ambiguous next to the Gangetic Dolphin text; not used."
+ },
+ {
   "topic": "PSLV-C62 Mission Failure",
   "page": 71,
   "what": "PSLV flight number ('64th') and the operator and count of the '9th dedicated commercial mission' are garbled; not used"
@@ -163,5 +248,40 @@
   "topic": "PSLV-C62 Mission Failure",
   "page": 73,
   "what": "ISRO chairman tenure number and the 'India 7 Country' ordinal are garbled; not used"
+ },
+ {
+  "topic": "National Sports Governance Act and India's Sports Framework",
+  "page": 77,
+  "what": "Khelo India Youth Games edition number, the host details (Bihar 2025 and Tamil Nadu 2024) and the Winter Games edition number are garbled; not used."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 82,
+  "what": "National Critical Minerals Mission investment figures (Rs 16300 crore and 318000 crore) are garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 82,
+  "what": "Name of the 1957 mining Act is garbled in the OCR (reads Miners and Minerals); not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 83,
+  "what": "Germany's rank as India's foreign direct investor (OCR reads 9 Largest) is unclear; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 85,
+  "what": "PMMVY 2.0 second girl child incentive amount (OCR reads 26000) is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 89,
+  "what": "NPT non-signatory list includes South Sudan, which looks like a text error; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 94,
+  "what": "Date of the annual exchange of nuclear installation lists (OCR reads | January); only 'every year' used"
  }
 ]
