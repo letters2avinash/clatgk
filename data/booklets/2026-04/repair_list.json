@@ -1,0 +1,154 @@
+{
+ "passage_flags": [
+  {
+   "quiz": "q-t01-0",
+   "claim": "the two countries share a free trade agreement that governs much of their commercial relationship",
+   "problem": "not found in booklet text: booklet says only that the India-Sri Lanka FTA was signed in 2000; it does not say the FTA governs much of their commercial relationship",
+   "page": 5
+  },
+  {
+   "quiz": "t-t01-1",
+   "claim": "a ruling dynasty based in the southern part of the country",
+   "problem": "not found in booklet text: booklet names the Nayak dynasty of Madurai but does not state that it was based in the southern part of the country",
+   "page": 6
+  },
+  {
+   "quiz": "t-t02-1",
+   "claim": "Committees on the status of women have examined these questions since the 1970s, and several of them shaped the debate.",
+   "problem": "not found: the booklet lists the committees (1974, 1987, 1996, 2013) but says nothing about their influence on the debate",
+   "page": 11
+  },
+  {
+   "quiz": "t-t03-1",
+   "claim": "the national debate on caste data has grown stronger",
+   "problem": "not found in booklet text",
+   "page": 15
+  },
+  {
+   "quiz": "q-t04-0",
+   "claim": "The movement has been most active in the forested and tribal parts of central and eastern India, where the state's presence has often been thin.",
+   "problem": "not found in booklet text: 'state's presence has often been thin' is not stated",
+   "page": null
+  },
+  {
+   "quiz": "q-t04-0",
+   "claim": "which are central to their livelihoods",
+   "problem": "not found in booklet text: booklet says only that the Forest (Conservation) Act 1980 prohibits tribes from harvesting forest resources",
+   "page": 19
+  },
+  {
+   "quiz": "q-t04-0",
+   "claim": "The booklet presents these problems as connected, so a response has to work on several fronts at once.",
+   "problem": "not found in booklet text: booklet contains no statement that the problems are presented as connected",
+   "page": null
+  },
+  {
+   "quiz": "t-t04-1",
+   "claim": "These steps are described as connected, so success depends on them working together.",
+   "problem": "not found in booklet text: booklet does not describe these steps as connected or say success depends on them working together",
+   "page": null
+  },
+  {
+   "quiz": "t-t04-1",
+   "claim": "The movement also depended on its own system of control in some villages.",
+   "problem": "not found in booklet text: booklet refers to Maoist Parallel Governance (Janatana Sarkar) but does not say it operated in some villages",
+   "page": 20
+  },
+  {
+   "quiz": "q-t05-0",
+   "claim": "Uttarakhand, which came before Gujarat, was the first state to enact a UCC.",
+   "problem": "Booklet says Uttarakhand was the 1st state, after pre-Independence Goa, to adopt such a code; Goa has run a common civil code under the Portuguese Civil Code of 1867. The passage omits this qualifier.",
+   "page": 22
+  },
+  {
+   "quiz": "q-t06-0",
+   "claim": "Because no agreed rules exist, each state relies on its own reading of how the river's flow should be shared.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t07-1",
+   "claim": "gave elected local bodies a role in planning and running village affairs",
+   "problem": "not found in booklet text; the booklet says only that the committee recommended a scheme of democratic decentralisation",
+   "page": null
+  },
+  {
+   "quiz": "t-t07-1",
+   "claim": "Such studies were seen as necessary before any wider change could be made to the system.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "q-t09-0",
+   "claim": "Members were divided over the moratorium on customs duties on electronic transmissions, over agriculture and transparency norms, and over the wider direction of trade rules.",
+   "problem": "not found in booklet text: booklet names the moratorium, agriculture and transparency norms as the disputes; 'wider direction of trade rules' is not stated",
+   "page": 42
+  },
+  {
+   "quiz": "t-t09-1",
+   "claim": "which would bind only those members who sign it",
+   "problem": "not found in booklet text for the e-commerce agreement: the booklet states binding-only-on-signatories only for the IFD Agreement",
+   "page": 42
+  },
+  {
+   "quiz": "q-t10-0",
+   "claim": "because these tiny particles can travel deep into the lungs",
+   "problem": "not found in booklet text (health rationale, outside the booklet)",
+   "page": null
+  },
+  {
+   "quiz": "q-t10-0",
+   "claim": "Every reading is compared against the same guideline, so results from very different places can be placed side by side on one scale.",
+   "problem": "not found in booklet text (methodology claim is not stated in the booklet)",
+   "page": null
+  },
+  {
+   "quiz": "t-t12-1",
+   "claim": "The class shares a design that balances power, launch tubes and displacement across its members.",
+   "problem": "contradicts booklet: only INS Arighaat is described as similar to Arihant in power, launch tubes and displacement; INS Aridaman is listed with eight vertical launch tubes and 7,000 tonnes versus four tubes and 6,000 tonnes for Arihant",
+   "page": 56
+  },
+  {
+   "quiz": "t-t13-1",
+   "claim": "India is also testing its systems with a humanoid robot that can monitor module parameters and raise alerts.",
+   "problem": "Booklet describes Vyommitra as a half-humanoid robot that will fly ahead of Gaganyaan; 'testing its systems' and dropping 'half' are not stated.",
+   "page": 63
+  },
+  {
+   "quiz": "t-t13-1",
+   "claim": "Together these tools are designed to support Indian astronauts from launch to return.",
+   "problem": "'from launch to return' is not found in booklet text; booklet only lists what Vyommitra and SAKHI do.",
+   "page": 63
+  }
+ ],
+ "fact_flags": [
+  {
+   "file": "t06.json",
+   "subtopic": 2,
+   "fact": "Article 262 allows Parliament to exclude the jurisdiction of courts in such matters",
+   "problem": "booklet text is garbled here and attributes the court-exclusion power to Inter-State Council; support is weak and the attribution is unclear",
+   "page": 28
+  },
+  {
+   "file": "t07.json",
+   "subtopic": 1,
+   "fact": "Later committees under Ashok Mehta, G.V.K. Rao and L.M. Singhvi reviewed the system and its constitutional status.",
+   "problem": "overstated: the booklet describes the Ashok Mehta committee as a review of PRIs recommending a 2-tier system, and the G.V.K. Rao committee as reviewing administrative arrangements for rural development and poverty alleviation programmes, not the constitutional status of panchayats",
+   "page": 30
+  },
+  {
+   "file": "t07.json",
+   "subtopic": 3,
+   "fact": "Article 243-K: a State Election Commission supervises electoral rolls and the conduct of panchayat elections; it is appointed by the Governor.",
+   "problem": "booklet says the State Election Commission consists of a State Election Commissioner who is appointed by the Governor; the body itself is not stated to be appointed by the Governor",
+   "page": 32
+  },
+  {
+   "file": "t15.json",
+   "subtopic": 3,
+   "fact": "India withdrew its bid to host COP33 in 2028",
+   "problem": "Wording implies the withdrawal happened in 2028; the booklet gives 2028 as the year of COP33 (the hosting year), not the date of the withdrawal.",
+   "page": 75
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+[
+ {
+  "quiz": "t-t08-1",
+  "q": "When the Cash Reserve Ratio is increased, do bank lending rates rise or fall? (one word)",
+  "issues": [
+   "garbled_basis"
+  ]
+ },
+ {
+  "quiz": "t-t12-1",
+  "q": "Which Arihant-class submarine has K-15 Sagarika listed as its firepower? (name)",
+  "issues": [
+   "garbled_basis"
+  ]
+ }
+]
