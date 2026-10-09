@@ -1,0 +1,127 @@
+{
+ "passage_fixes": [
+  {
+   "quiz": "t-t05-1",
+   "old": "which is kept demanding so that judges can work without fear",
+   "new": "which is demanding"
+  },
+  {
+   "quiz": "q-t06-0",
+   "old": "Legislators in India are elected on the ticket of a political party, and the anti-defection framework exists to discourage them from switching sides after the election",
+   "new": "The anti-defection framework exists to discourage legislators from switching sides"
+  },
+  {
+   "quiz": "q-t06-0",
+   "old": "to make elected representatives answerable to the party that fielded them",
+   "new": "to make legislators accountable for their conduct"
+  },
+  {
+   "quiz": "q-t08-0",
+   "old": " The report is widely read because it allows citizens to compare their own country with others.",
+   "new": ""
+  },
+  {
+   "quiz": "q-t08-0",
+   "old": " Analysts often look first at the countries near the top and bottom, but the middle of the table also shows how legal and economic conditions change over time.",
+   "new": ""
+  },
+  {
+   "quiz": "q-t10-0",
+   "old": "when several milestones were announced together",
+   "new": "when several milestones were reached"
+  },
+  {
+   "quiz": "q-t11-0",
+   "old": "Parliament has translated many of these aims into laws",
+   "new": "Statutes have translated many of these aims into laws"
+  },
+  {
+   "quiz": "t-t11-1",
+   "old": " This allows disagreements about working conditions to be discussed through a common process.",
+   "new": ""
+  },
+  {
+   "quiz": "q-t12-0",
+   "old": "Member states hold different views on the rivalry between China and the United States, a dispute over a busy sea route has remained unresolved for years",
+   "new": "A dispute over a busy sea route has remained unresolved for years"
+  },
+  {
+   "quiz": "q-t13-0",
+   "old": " Its results are published so that citizens can compare their own panchayat with others across the country.",
+   "new": ""
+  },
+  {
+   "quiz": "q-t13-0",
+   "old": ", and these surveys guide policy at national and state level",
+   "new": ""
+  },
+  {
+   "quiz": "q-t14-0",
+   "old": " The projects are part of a wider effort by India to share development resources with friendly nations.",
+   "new": ""
+  },
+  {
+   "quiz": "t-t14-1",
+   "old": ", so that field data and local solutions can be studied in one place",
+   "new": ""
+  },
+  {
+   "quiz": "t-t14-1",
+   "old": "One method uses bees to keep elephants away from crops",
+   "new": "One method uses bees to reduce elephant-human attacks"
+  }
+ ],
+ "fact_fixes": [],
+ "replacements": [
+  {
+   "quiz": "t-t04-1",
+   "n": 2,
+   "question": {
+    "q": "In which year was the Ancient Monuments and Archaeological Sites and Remains Act enacted? (year)",
+    "answer": "1958",
+    "accept": [
+     "1958 AD"
+    ],
+    "explanation": "The booklet dates the Ancient Monuments and Archaeological Sites and Remains Act to 1958."
+   },
+   "evidence": {
+    "page": 22,
+    "quote": "Remains Act, 1958."
+   }
+  },
+  {
+   "quiz": "t-t04-1",
+   "n": 6,
+   "question": {
+    "q": "Under which section of the Places of Worship Act is conversion of a place of worship prohibited? (section number)",
+    "answer": "3",
+    "accept": [
+     "Section 3",
+     "Sec 3",
+     "Sec. 3"
+    ],
+    "explanation": "The booklet lists the prohibition on conversion of a place of worship under Section 3."
+   },
+   "evidence": {
+    "page": 22,
+    "quote": "(Section 3)"
+   }
+  },
+  {
+   "quiz": "t-t14-1",
+   "n": 4,
+   "question": {
+    "q": "Which institute in Chennai is associated with India's Urban Testbed and Aerosol Observatory? (full name)",
+    "answer": "Indian Institute of Tropical Meteorology",
+    "accept": [
+     "Indian Institute of Tropical Meteorology in Chennai"
+    ],
+    "explanation": "The booklet says the Ministry of Earth Sciences inaugurated the testbed with the Indian Institute of Tropical Meteorology in Chennai."
+   },
+   "evidence": {
+    "page": 77,
+    "quote": "Aerosol Observatory by Indian Institute of Tropical"
+   }
+  }
+ ]
+}
