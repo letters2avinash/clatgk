@@ -1,0 +1,126 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t06-0",
+   "questions": [
+    {
+     "n": 1,
+     "my_answer": 2,
+     "supported": true,
+     "evidence": {"page": 27, "quote": "Dispute escalated around 2016, following increased upstream infrastructure development."},
+     "issues": []
+    },
+    {
+     "n": 2,
+     "my_answer": 0,
+     "supported": true,
+     "evidence": {"page": 27, "quote": "which led to constitution of Tribunal under Inter— State River Water Disputes Act, 1956."},
+     "issues": []
+    },
+    {
+     "n": 3,
+     "my_answer": 1,
+     "supported": true,
+     "evidence": {"page": 28, "quote": "allows it to Exclude Jurisdiction of Courts in such matters."},
+     "issues": ["garbled_basis", "other: explanation link between A and R is not stated in booklet"]
+    },
+    {
+     "n": 4,
+     "my_answer": 2,
+     "supported": true,
+     "evidence": {"page": 28, "quote": "Entry 17 (State List): Gives States power over Water Supplies, Irrigation, Canals, Drainage, Embankments."},
+     "issues": []
+    },
+    {
+     "n": 5,
+     "my_answer": 1,
+     "supported": true,
+     "evidence": {"page": 28, "quote": "Mahanadi Water Disputes Tribunal 2018 Chhattisgarh & Odisha"},
+     "issues": []
+    },
+    {
+     "n": 6,
+     "my_answer": 1,
+     "supported": true,
+     "evidence": {"page": 28, "quote": "Supreme Court shall Not Question Award or Formula given by Tribunal, but it can question Working of Tribunal."},
+     "issues": []
+    },
+    {
+     "n": 7,
+     "my_answer": 3,
+     "supported": true,
+     "evidence": {"page": 28, "quote": "Article 262 of Constitution empowers Parliament to"},
+     "issues": ["garbled_basis"]
+    },
+    {
+     "n": 8,
+     "my_answer": 3,
+     "supported": true,
+     "evidence": {"page": 27, "quote": "Major Infrastructure: Hirakud Dam (Longest Earthen Dams in the world)."},
+     "issues": []
+    }
+   ],
+   "passage_flags": [
+    {"claim": "Because no agreed rules exist, each state relies on its own reading of how the river's flow should be shared.", "problem": "not found in booklet text", "page": null}
+   ]
+  },
+  {
+   "id": "t-t06-1",
+   "questions": [
+    {
+     "n": 1,
+     "my_answer": "2018",
+     "supported": true,
+     "evidence": {"page": 28, "quote": "Mahanadi Water Disputes Tribunal 2018 Chhattisgarh & Odisha"},
+     "issues": []
+    },
+    {
+     "n": 2,
+     "my_answer": "May 2",
+     "supported": true,
+     "evidence": {"page": 27, "quote": "Final Ultimatum to Odisha and Chhattisgarh to present Water — Sharing Settlement by May 2."},
+     "issues": []
+    },
+    {
+     "n": 3,
+     "my_answer": "Ravi & Beas Water Tribunal",
+     "supported": true,
+     "evidence": {"page": 28, "quote": "Ravi & Beas Water Tribunal 1986 Rajasthan, Haryana & Punjab"},
+     "issues": []
+    },
+    {
+     "n": 4,
+     "my_answer": "Vansadhara Water Disputes Tribunal",
+     "supported": true,
+     "evidence": {"page": 28, "quote": "Vansadhara Water Disputes Tribunal 2010 Odisha & Andhra Pradesh"},
+     "issues": []
+    },
+    {
+     "n": 5,
+     "my_answer": "hydrological",
+     "supported": true,
+     "evidence": {"page": 28, "quote": "Absence of Reliable and Mutually Accepted Hydrological Data"},
+     "issues": []
+    },
+    {
+     "n": 6,
+     "my_answer": "0",
+     "supported": true,
+     "evidence": {"page": 28, "quote": "Todate, “No River Board” has been created."},
+     "issues": []
+    },
+    {
+     "n": 7,
+     "my_answer": "Prime Minister",
+     "supported": true,
+     "evidence": {"page": 28, "quote": "Composition: Prime Minister (Chairman)"},
+     "issues": []
+    }
+   ],
+   "passage_flags": []
+  }
+ ],
+ "fact_flags": [
+  {"subtopic": 2, "fact": "Article 262 allows Parliament to exclude the jurisdiction of courts in such matters", "problem": "booklet text is garbled here and attributes the court-exclusion power to Inter-State Council; support is weak and the attribution is unclear", "page": 28}
+ ]
+}
