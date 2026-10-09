@@ -1,0 +1,128 @@
+{
+ "passage_fixes": [
+  {
+   "quiz": "q-t02-0",
+   "old": "Afghanistan's monarchy ended in 1973 and was followed by communist rule backed by the Soviet Union.",
+   "new": "Afghanistan's monarchy ended in 1973 and was followed by a nationalist regime, then communist rule backed by the Soviet Union."
+  },
+  {
+   "quiz": "t-t02-1",
+   "old": "India has also engaged the Taliban regime at a senior diplomatic level, and these ties have continued even as Afghanistan's political leadership has changed.",
+   "new": "India has also engaged the Taliban regime at a senior diplomatic level."
+  },
+  {
+   "quiz": "t-t04-1",
+   "old": "investors in India were left facing uncertainty",
+   "new": "uncertainty was created for Canadian investments in India"
+  },
+  {
+   "quiz": "q-t06-0",
+   "old": "It also observed that long years of service may raise salary levels without necessarily improving social standing, especially for lower-level employees. A post-based criterion applied across all sectors could, in its view, provide a fair and consistent way to identify the creamy layer.",
+   "new": "Commentary on the ruling also notes that long years of service may raise salary levels without necessarily improving social standing, especially for lower-level employees. A post-based criterion applied across all sectors could, in this commentary's view, provide a fair and consistent way to identify the creamy layer."
+  },
+  {
+   "quiz": "q-t06-0",
+   "old": "The Court's reasoning rests on the view that rank or position in employment reflects social status and influence better than income alone.",
+   "new": "Commentary on the ruling holds that rank or position in employment reflects social status and influence better than income alone."
+  },
+  {
+   "quiz": "t-t06-1",
+   "old": "and the decision set off a national debate on social justice and the share of seats reserved for these groups.",
+   "new": "and the decision reserved 27% of government jobs for these groups."
+  },
+  {
+   "quiz": "q-t08-0",
+   "old": "official releases usually explain how the new figures were built and why they differ from earlier estimates, so that analysts can interpret trends correctly.",
+   "new": "official releases usually set out the revised base year and the improved estimation methods, so that analysts can interpret trends correctly."
+  },
+  {
+   "quiz": "t-t08-1",
+   "old": "Traditional estimates leaned heavily on surveys of large, registered firms, which left many small and informal producers poorly measured. Modern statistical systems therefore combine several sources.",
+   "new": "Modern statistical systems combine several sources to improve coverage of the informal sector."
+  },
+  {
+   "quiz": "t-t10-1",
+   "old": "India has long been one of the largest buyers of defence equipment in the world,",
+   "new": "India is one of the world's major buyers of defence equipment,"
+  },
+  {
+   "quiz": "q-t12-0",
+   "old": "Incidence refers to the number of new cases in a population, usually expressed per 100,000 people.",
+   "new": "Incidence is measured as a rate per 100,000 people."
+  },
+  {
+   "quiz": "t-t12-1",
+   "old": "Such local work is set out in the national plan, which sets targets for the years ahead.",
+   "new": "Such local work is carried out under the separately launched TB Mukt Urban Ward Initiative."
+  },
+  {
+   "quiz": "q-t14-0",
+   "old": "and new categories have been added to reflect different kinds of cinematic work.",
+   "new": "and the categories have expanded from 12 to 24."
+  },
+  {
+   "quiz": "q-t14-0",
+   "old": "Each year the winners in the main categories are widely discussed, and their names become part of the record of world cinema. ",
+   "new": ""
+  },
+  {
+   "quiz": "q-t14-0",
+   "old": "The awards also show how the film industry has changed, because the categories and winners reflect the priorities of each period. ",
+   "new": ""
+  },
+  {
+   "quiz": "t-t14-1",
+   "old": "Each year the Sahitya Akademi announces its awards, recognising authors for literary excellence in different languages and genres, from novels to memoirs.",
+   "new": "The Sahitya Akademi announced its 2025 awards to 24 authors for literary excellence in different languages and genres, from novels to memoirs."
+  },
+  {
+   "quiz": "q-t15-0",
+   "old": "Its Women and Child Development Minister represented the country at a session of the Commission on the Status of Women in New York",
+   "new": "Its Women and Child Development Minister is to represent the country at the 70th Session of the Commission on the Status of Women in New York"
+  }
+ ],
+ "fact_fixes": [
+  {
+   "old": "Their nuclear and space links date back to the 1950s and 2013.",
+   "new": "Their nuclear links include the CIRUS reactor (1954) and the Nuclear Cooperation Agreement (2013), and ISRO and the Canadian Space Agency collaborate in space.",
+   "page": 28
+  }
+ ],
+ "replacements": [
+  {
+   "quiz": "t-t07-1",
+   "n": 2,
+   "question": {
+    "q": "Which section of the Transgender Persons (Protection of Rights) Act, 2019 does the Amendment Bill 2026 propose to omit? (section number)",
+    "answer": "4(2)",
+    "accept": [
+     "Section 4(2)",
+     "Sec 4(2)",
+     "4 (2)",
+     "Section 4 (2)"
+    ],
+    "explanation": "The booklet says the Bill omits Section 4(2) of the 2019 Act, the clause that recognised a person's right to self-perceived gender identity."
+   },
+   "evidence": {
+    "page": 44,
+    "quote": "Bill omits Section 4(2) of 2019 Act."
+   }
+  },
+  {
+   "quiz": "t-t07-1",
+   "n": 5,
+   "question": {
+    "q": "In which year was the Transgender Persons (Protection of Rights) Act enacted? (year)",
+    "answer": "2019",
+    "accept": [
+     "2019"
+    ],
+    "explanation": "The booklet states that the Transgender Persons (Protection of Rights) Act, 2019 was passed, granting legal recognition and prohibiting discrimination."
+   },
+   "evidence": {
+    "page": 45,
+    "quote": "Transgender Persons (Protection of Rights) Act, 2019 was passed"
+   }
+  }
+ ]
+}
