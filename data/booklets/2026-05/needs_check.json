@@ -180,6 +180,46 @@
   "what": "Bottom-ranked order written as 'Eritrea < North Korea < China < Iran < Saudi Arabia' has garbled symbols; only the country names are used and their order is not."
  },
  {
+  "topic": "LEADS 2025 Report",
+  "page": 47,
+  "what": "Parameter names 'Operational Efficiency' and 'Supply Chain Development' are split across merged columns and garbled (read as 'Operational Chain Development'); not used"
+ },
+ {
+  "topic": "LEADS 2025 Report",
+  "page": 47,
+  "what": "Accelerators entry for Nagaland (N-E) is garbled ('Nagalan'); not listed"
+ },
+ {
+  "topic": "LEADS 2025 Report",
+  "page": 48,
+  "what": "E-Way Bill threshold amount is garbled (currency symbol unreadable); amount not used"
+ },
+ {
+  "topic": "LEADS 2025 Report",
+  "page": 48,
+  "what": "Services export growth range and the export target line are partly garbled; not used"
+ },
+ {
+  "topic": "LEADS 2025 Report",
+  "page": 49,
+  "what": "Which corridor handles textiles, chemicals and industrial products and which focuses on coal, steel and agricultural products is unclear from the columns; not used"
+ },
+ {
+  "topic": "LEADS 2025 Report",
+  "page": 49,
+  "what": "WDFC status is contradictory in OCR ('WDFC was complete' vs 'set to finish by December 2025') and EDFC operational status is ambiguous; neither used"
+ },
+ {
+  "topic": "LEADS 2025 Report",
+  "page": 49,
+  "what": "Corridor segment lengths, route map labels and funding sources are garbled; not used"
+ },
+ {
+  "topic": "LEADS 2025 Report",
+  "page": 49,
+  "what": "Project-cost phrase is missing its amount ('additional ... in project costs'); only the fact that delays added to costs is used"
+ },
+ {
   "topic": "National Technology Day 2026",
   "page": 53,
   "what": "Power (kt) of the three Pokhran-II devices (atom, hydrogen, sub-kiloton): values are garbled in the OCR, not used"

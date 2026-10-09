@@ -5,430 +5,384 @@
   "subtopics": [
    {
     "title": "LEADS Index Basics",
-    "summary": "LEADS stands for Logistics Ease Across Different States and is India's national index for benchmarking logistics performance across States and UTs. It was launched in 2018 and draws inspiration from the World Bank's Logistics Performance Index. The Department for Promotion of Industry and Internal Trade prepares the LEADS Report, and the 7th LEADS 2025 Report introduced a four-tier classification in place of the earlier three-tier model.",
+    "summary": "LEADS stands for Logistics Ease Across Different States and is India's national index for benchmarking logistics performance across States and UTs. It was launched in 2018 and draws inspiration from the World Bank's Logistics Performance Index. The Department for Promotion of Industry and Internal Trade prepares the report, and the 7th LEADS 2025 Report introduced a four-tier classification in place of the earlier three-tier model.",
     "facts": [
      "LEADS stands for Logistics Ease Across Different States.",
-     "LEADS is India's National Index benchmarking logistics performance across States and UTs.",
+     "LEADS is India's national index benchmarking logistics performance across States and UTs.",
      "LEADS was launched in 2018.",
      "LEADS draws inspiration from the World Bank's Logistics Performance Index.",
-     "The LEADS Report is prepared by the Department for Promotion of Industry and Internal Trade (Ministry of Commerce and Industry).",
+     "The Department for Promotion of Industry and Internal Trade (Ministry of Commerce and Industry) prepares the LEADS Report.",
      "The Department released the 7th LEADS 2025 Report.",
-     "The 2025 edition introduced a four-tier classification system replacing the earlier three-tier model.",
-     "States and UTs are evaluated across key logistics parameters, including infrastructure, service quality and regulatory environment.",
-     "Data-driven logistics reforms are one of the evaluated parameters.",
+     "The LEADS 2025 edition introduced a four-tier classification replacing the earlier three-tier model.",
+     "States and UTs are evaluated across key logistics parameters, including infrastructure, service quality, regulatory environment and data-driven logistics reforms.",
+     "The LEADS 2025 Report is presented across 13 logistics-related categories.",
      "LEAPS stands for Logistics Excellence, Advancement and Performance Shield."
     ],
-    "keywords": ["LEADS", "Logistics Ease Across Different States", "National Index", "Department for Promotion of Industry and Internal Trade", "four-tier classification", "World Bank Logistics Performance Index"]
+    "keywords": ["LEADS", "Logistics Ease Across Different States", "National Index", "four-tier classification", "World Bank Logistics Performance Index", "LEAPS"]
    },
    {
     "title": "State and UT Categories in LEADS 2025",
-    "summary": "The LEADS 2025 edition sorts States and UTs into four categories: Exemplars, High Performers, Accelerators and Growth-Seekers. Each entry is also tagged as Coastal, Landlocked, North-East (N-E) or UT. Some States and UTs moved from earlier labels such as Achiever or Fast Mover into the new categories.",
+    "summary": "The LEADS 2025 edition sorts States and UTs into four categories: Exemplars, High Performers, Accelerators and Growth-Seekers. Each entry carries a regional tag of Coastal, Landlocked, North-East (N-E) or UTs. Uttar Pradesh became an Exemplar after being an Achiever from 2022 to 2024, and Jammu and Kashmir moved from Fast Mover to High Performer.",
     "facts": [
-     "Exemplars (4): Tamil Nadu (Coastal), Uttar Pradesh (Landlocked), Mizoram (N-E), Delhi (UTs).",
+     "The 2025 edition introduced four new categories: Exemplars, High Performers, Accelerators and Growth-Seekers.",
+     "Exemplars (4): Tamil Nadu (Coastal), Uttar Pradesh (Landlocked), Mizoram (N-E) and Delhi (UTs).",
      "Uttar Pradesh achieved Exemplar status after being categorised as an Achiever from 2022 to 2024.",
-     "High Performers (11): Gujarat (Coastal), Haryana (Landlocked), Tripura (N-E), J&K (UTs).",
-     "J&K improved from Fast Mover in 2024 to High Performer in 2025.",
+     "High Performers (11): Gujarat (Coastal), Haryana (Landlocked), Tripura (N-E) and Jammu and Kashmir (UTs).",
+     "Jammu and Kashmir improved from Fast Mover in 2024 to High Performer in 2025.",
      "Accelerators (17) include Andhra Pradesh (Coastal), Punjab (Landlocked) and Dadra and Nagar Haveli and Daman and Diu (UTs).",
-     "Growth-Seekers (4): West Bengal (Coastal), Rajasthan (Landlocked), Sikkim (N-E), Andaman and Nicobar Islands (UTs).",
-     "Regional tags used in the report: Coastal, Landlocked, N-E (North-East) and UTs."
+     "Growth-Seekers (4): West Bengal (Coastal), Rajasthan (Landlocked), Sikkim (N-E) and Andaman and Nicobar Islands (UTs).",
+     "The regional tags used in the report are Coastal, Landlocked, N-E (North-East) and UTs."
     ],
     "keywords": ["Exemplars", "High Performers", "Accelerators", "Growth-Seekers", "Achiever", "Fast Mover"]
    },
    {
-    "title": "Logistics Sector Initiatives",
-    "summary": "Several government initiatives support India's logistics sector, including the National Logistics Policy 2022 and PM GatiShakti. The National Logistics Policy aims to lower logistics costs to levels on par with other developed countries. Other programmes focus on road connectivity, port-led development and digital e-way bills.",
+    "title": "National Logistics Initiatives and the World Bank LPI",
+    "summary": "Several national programmes aim to strengthen logistics, including the National Logistics Policy 2022, PM GatiShakti, Bharatmala Pariyojana, Sagarmala and the E-Way Bill System. India's logistics performance is also tracked globally through the World Bank's Logistics Performance Index. That index has six key dimensions and is reported by the World Bank every two years.",
     "facts": [
-     "National Logistics Policy 2022 aims to lower the cost of logistics to be on par with other developed countries.",
+     "The National Logistics Policy 2022 aims to lower the cost of logistics to par with other developed countries.",
      "Logistics costs in India remain relatively high at around 7.97% of GDP.",
-     "PM GatiShakti National Master Plan 2021 promotes integrated infrastructure planning across roads, railways, ports, airports and logistics networks.",
-     "Logistic Efficiency Enhancement Programme aims to enhance freight speed, reduce costs and improve tracking through technological and infrastructure upgrades.",
+     "The PM GatiShakti National Master Plan 2021 promotes integrated planning across roads, railways, ports, airports and logistics networks.",
+     "The Logistic Efficiency Enhancement Programme aims to enhance freight speed, reduce costs and improve tracking.",
      "Bharatmala Pariyojana aims to improve road connectivity across India.",
-     "Sagarmala Programme focuses on port-led development and boosts coastal shipping efficiency.",
-     "E-Way Bill System mandates digital bills for goods, easing inter-state transport.",
-     "India recorded exports of $863 billion in FY 2025-26 against a target of $1 trillion for the current year."
+     "The Sagarmala Programme focuses on port-led development and boosts coastal shipping efficiency.",
+     "The E-Way Bill System mandates digital bills for goods, easing inter-state transport.",
+     "The Logistics Performance Index has six key dimensions, including customs performance, infrastructure quality and timeliness of shipments.",
+     "India ranked 38th among 139 countries in the World Bank's Logistics Performance Index 2023.",
+     "The World Bank reports the Logistics Performance Index every 2 years."
     ],
-    "keywords": ["National Logistics Policy 2022", "PM GatiShakti", "Logistic Efficiency Enhancement Programme", "Bharatmala Pariyojana", "Sagarmala Programme", "E-Way Bill System"]
+    "keywords": ["National Logistics Policy 2022", "PM GatiShakti", "Bharatmala Pariyojana", "Sagarmala", "E-Way Bill", "Logistics Performance Index"]
    },
    {
     "title": "Dedicated Freight Corridors",
-    "summary": "Dedicated Freight Corridors (DFCs) are exclusive freight routes built for double-stack and heavy-haul trains to carry goods at high capacity and speed. They are implemented by DFCCIL under the Ministry of Railways, with the objective of reducing logistics costs below 10 per cent. The Western DFC has improved port access and lowered transit times, although delays in its final section added to project costs.",
+    "summary": "Dedicated Freight Corridors are exclusive freight tracks, implemented under the Ministry of Railways by DFCCIL, that use double-stack and heavy-haul trains for high capacity and speed. They aim to reduce logistics costs, have improved port access and have contributed to Indian Railways' revenue growth. Under the National Rail Plan they are expected to raise rail's share of freight, while delays in the Western corridor added to project costs.",
     "facts": [
-     "DFCs feature exclusive freight tracks for double-stack and heavy-haul trains with high capacity and speed.",
-     "The implementing agency is the Dedicated Freight Corridor Corporation of India (DFCCIL), under the Ministry of Railways.",
-     "The DFC objective is to reduce logistics costs below 10% as per the National Logistics Policy.",
-     "As per the National Rail Plan, DFCs aim to boost rail freight's share to 45% by 2030.",
-     "North-South DFC (Vijayawada-Itarsi) is 975 km long.",
-     "East Coast DFC (Kharagpur-Vijayawada) is 1115 km long.",
-     "EDFC is operational.",
-     "WDFC has improved port access and lowered transit times.",
-     "Delays in completing the final section of WDFC resulted in additional project costs.",
-     "DFCs lower logistics costs, generated jobs, attracted investments and contributed to Indian Railways' revenue growth (FY 2018-19 to FY 2022-23)."
+     "Dedicated Freight Corridors (DFCs) are exclusive freight tracks that support double-stack and heavy-haul trains with high capacity and speed.",
+     "DFCs fall under the Ministry of Railways, and the Dedicated Freight Corridor Corporation of India (DFCCIL) is the implementing agency.",
+     "A key objective of DFCs is to reduce logistics costs below 10% as per the National Logistics Policy.",
+     "The Western Dedicated Freight Corridor (WDFC) has improved port access and lowered transit times.",
+     "DFCs have generated jobs, attracted investments and aided economic growth.",
+     "DFCs have contributed to Indian Railways' revenue growth for FY 2018-19 to FY 2022-23.",
+     "Under the National Rail Plan, DFCs aim to boost rail freight's share to 45% by 2030.",
+     "The North-South DFC runs from Vijayawada to Itarsi and is 975 km long.",
+     "The East Coast DFC runs from Kharagpur to Vijayawada and is 1115 km long.",
+     "Delays in completing the final section of the WDFC added to project costs."
     ],
-    "keywords": ["Dedicated Freight Corridor", "DFCCIL", "Ministry of Railways", "WDFC", "EDFC", "National Rail Plan"]
-   },
-   {
-    "title": "Logistics Performance Index",
-    "summary": "The Logistics Performance Index is a World Bank index that analyses differences between countries in customs procedures, logistics costs and infrastructure quality for overland and maritime transport. It is built on six key dimensions and is reported every two years. India ranked 38th among 139 countries in the 2023 report, and the LEADS Index draws inspiration from it.",
-    "facts": [
-     "The LPI analyses differences between countries in customs procedures, logistics costs and quality of infrastructure for overland and maritime transport.",
-     "Six key dimensions: Customs Performance, Infrastructure Quality, Ease of Arranging Shipments, Logistics Services Quality, Consignments Tracking and Tracing, and Timeliness of Shipments.",
-     "The LPI is reported by the World Bank every 2 years.",
-     "India ranked 38th among 139 countries in the World Bank's Logistics Performance Index Report 2023.",
-     "The LEADS Index draws inspiration from the World Bank's Logistics Performance Index."
-    ],
-    "keywords": ["Logistics Performance Index", "World Bank", "six dimensions", "India rank 38th", "139 countries"]
+    "keywords": ["DFC", "DFCCIL", "Ministry of Railways", "double-stack", "heavy-haul", "National Rail Plan", "WDFC", "North-South DFC", "East Coast DFC"]
    }
-  ],
-  "mindmaps": [
-   {
-    "scope": "topic",
-    "title": "LEADS 2025 Report",
-    "root": {
-     "label": "LEADS 2025 Report",
-     "children": [
-      {"label": "LEADS Index", "children": [
-        {"label": "Logistics Ease Across Different States"},
-        {"label": "National benchmarking index for States and UTs"},
-        {"label": "Launched in 2018"},
-        {"label": "Inspired by World Bank LPI"}
-      ]},
-      {"label": "Classification", "children": [
-        {"label": "Four-tier system replaces three-tier model"},
-        {"label": "Exemplars"},
-        {"label": "High Performers"},
-        {"label": "Accelerators"},
-        {"label": "Growth-Seekers"}
-      ]},
-      {"label": "Parameters", "children": [
-        {"label": "Infrastructure"},
-        {"label": "Service Quality"},
-        {"label": "Regulatory Environment"},
-        {"label": "Data-driven Logistics Reforms"}
-      ]},
-      {"label": "LEAPS Awards 2025", "children": [
-        {"label": "Logistics Excellence, Advancement and Performance Shield"},
-        {"label": "Recognise excellence and innovation"},
-        {"label": "4th edition"}
-      ]},
-      {"label": "Initiatives", "children": [
-        {"label": "National Logistics Policy 2022"},
-        {"label": "PM GatiShakti National Master Plan 2021"},
-        {"label": "Bharatmala and Sagarmala"}
-      ]},
-      {"label": "Freight and Ranking", "children": [
-        {"label": "Dedicated Freight Corridors"},
-        {"label": "LPI 2023: India 38th of 139"}
-      ]}
-     ]
-    }
-   },
-   {
-    "scope": "subtopic",
-    "subtopic_index": 0,
-    "title": "LEADS Index Basics",
-    "root": {
-     "label": "LEADS Index",
-     "children": [
-      {"label": "Logistics Ease Across Different States"},
-      {"label": "National index for States and UTs"},
-      {"label": "Launched in 2018"},
-      {"label": "Prepared by Dept for Promotion of Industry and Internal Trade"},
-      {"label": "Classification", "children": [
-        {"label": "Four tiers replace three-tier model"},
-        {"label": "7th LEADS 2025 Report released"}
-      ]},
-      {"label": "Parameters", "children": [
-        {"label": "Infrastructure"},
-        {"label": "Service Quality"},
-        {"label": "Regulatory Environment"},
-        {"label": "Data-driven logistics reforms"}
-      ]}
-     ]
-    }
-   },
-   {
-    "scope": "subtopic",
-    "subtopic_index": 1,
-    "title": "LEADS 2025 Categories",
-    "root": {
-     "label": "LEADS 2025 Categories",
-     "children": [
-      {"label": "Exemplars (4)", "children": [
-        {"label": "Tamil Nadu (Coastal)"},
-        {"label": "Uttar Pradesh (Landlocked)"},
-        {"label": "Mizoram (N-E)"},
-        {"label": "Delhi (UTs)"}
-      ]},
-      {"label": "High Performers (11)", "children": [
-        {"label": "Gujarat (Coastal)"},
-        {"label": "Haryana (Landlocked)"},
-        {"label": "Tripura (N-E)"},
-        {"label": "J&K (UTs)"}
-      ]},
-      {"label": "Accelerators (17)", "children": [
-        {"label": "Andhra Pradesh (Coastal)"},
-        {"label": "Punjab (Landlocked)"},
-        {"label": "Dadra & Nagar Haveli, Daman & Diu (UTs)"}
-      ]},
-      {"label": "Growth-Seekers (4)", "children": [
-        {"label": "West Bengal (Coastal)"},
-        {"label": "Rajasthan (Landlocked)"},
-        {"label": "Sikkim (N-E)"},
-        {"label": "Andaman and Nicobar Islands (UTs)"}
-      ]}
-     ]
-    }
-   },
-   {
-    "scope": "subtopic",
-    "subtopic_index": 2,
-    "title": "Logistics Sector Initiatives",
-    "root": {
-     "label": "Logistics Initiatives",
-     "children": [
-      {"label": "Policy", "children": [
-        {"label": "National Logistics Policy 2022"},
-        {"label": "Lower costs on par with developed countries"}
-      ]},
-      {"label": "Planning", "children": [
-        {"label": "PM GatiShakti National Master Plan 2021"},
-        {"label": "Integrated infrastructure planning"}
-      ]},
-      {"label": "Connectivity", "children": [
-        {"label": "Bharatmala Pariyojana: road connectivity"},
-        {"label": "Sagarmala: port-led development"}
-      ]},
-      {"label": "Efficiency", "children": [
-        {"label": "Logistic Efficiency Enhancement Programme"},
-        {"label": "E-Way Bill System: digital bills"}
-      ]}
-     ]
-    }
-   },
-   {
-    "scope": "subtopic",
-    "subtopic_index": 3,
-    "title": "Dedicated Freight Corridors",
-    "root": {
-     "label": "Dedicated Freight Corridors",
-     "children": [
-      {"label": "Design", "children": [
-        {"label": "Exclusive freight tracks"},
-        {"label": "Double-stack, heavy-haul trains"}
-      ]},
-      {"label": "Agency", "children": [
-        {"label": "DFCCIL under Ministry of Railways"}
-      ]},
-      {"label": "Goals", "children": [
-        {"label": "Logistics costs below 10%"},
-        {"label": "Rail freight share 45% by 2030"}
-      ]},
-      {"label": "Corridors", "children": [
-        {"label": "North-South DFC: 975 km"},
-        {"label": "East Coast DFC: 1115 km"}
-      ]},
-      {"label": "Impact", "children": [
-        {"label": "Better port access, shorter transit"},
-        {"label": "Jobs and investment"}
-      ]},
-      {"label": "Challenge", "children": [
-        {"label": "Delays in final WDFC section"}
-      ]}
-     ]
-    }
-   },
-   {
-    "scope": "subtopic",
-    "subtopic_index": 4,
-    "title": "Logistics Performance Index",
-    "root": {
-     "label": "Logistics Performance Index",
-     "children": [
-      {"label": "Publisher", "children": [
-        {"label": "World Bank"},
-        {"label": "Reported every 2 years"}
-      ]},
-      {"label": "Scope", "children": [
-        {"label": "Customs procedures"},
-        {"label": "Logistics costs"},
-        {"label": "Infrastructure for overland and maritime transport"}
-      ]},
-      {"label": "Six dimensions", "children": [
-        {"label": "Customs Performance"},
-        {"label": "Infrastructure Quality"},
-        {"label": "Ease of Arranging Shipments"},
-        {"label": "Logistics Services Quality"},
-        {"label": "Consignments Tracking and Tracing"},
-        {"label": "Timeliness of Shipments"}
-      ]},
-      {"label": "India's rank", "children": [
-        {"label": "38th among 139 countries (2023)"}
-      ]},
-      {"label": "Link to LEADS", "children": [
-        {"label": "Inspiration for LEADS Index"}
-      ]}
-     ]
-    }
-   }
-  ],
-  "mnemonics": [
-   {
-    "scope": "topic",
-    "title": "LEADS expansion",
-    "mnemonic": "Let Ease Advance Different States",
-    "decode": [
-     {"key": "L", "meaning": "Logistics"},
-     {"key": "E", "meaning": "Ease"},
-     {"key": "A", "meaning": "Across"},
-     {"key": "D", "meaning": "Different"},
-     {"key": "S", "meaning": "States"}
-    ]
-   },
-   {
-    "scope": "subtopic",
-    "subtopic_index": 1,
-    "title": "Four LEADS 2025 categories",
-    "mnemonic": "Excellent Heroes Accelerate Growth",
-    "decode": [
-     {"key": "E", "meaning": "Exemplars (4 States and UTs)"},
-     {"key": "H", "meaning": "High Performers (11 States and UTs)"},
-     {"key": "A", "meaning": "Accelerators (17 States and UTs)"},
-     {"key": "G", "meaning": "Growth-Seekers (4 States and UTs)"}
-    ]
-   },
-   {
-    "scope": "subtopic",
-    "subtopic_index": 4,
-    "title": "Six LPI dimensions",
-    "mnemonic": "Cargo Inspectors Easily Support Timely Tracking",
-    "decode": [
-     {"key": "C", "meaning": "Customs Performance"},
-     {"key": "I", "meaning": "Infrastructure Quality"},
-     {"key": "E", "meaning": "Ease of Arranging Shipments"},
-     {"key": "S", "meaning": "Logistics Services Quality"},
-     {"key": "T", "meaning": "Consignments Tracking and Tracing"},
-     {"key": "T", "meaning": "Timeliness of Shipments"}
-    ]
-   }
-  ],
-  "quizzes": [
-   {
-    "type": "MCQ",
-    "subtopic_index": 0,
-    "title": "LEADS Index Check",
-    "passage": "India benchmarks logistics performance through a national index that compares its States and Union Territories with one another. The index draws inspiration from the Logistics Performance Index of the World Bank, an international index that measures logistics performance across countries. States and UTs are evaluated across key logistics parameters, including infrastructure, service quality, the regulatory environment and data-driven logistics reforms. The latest edition of the index introduced a revised performance classification, which replaced the earlier system with new categories for states and UTs. Each state or UT is placed in one of these categories on the basis of its performance across these parameters. Separately, the government recognises excellence and innovation in India's logistics sector through the LEAPS Awards, and the awards were conferred in 2025. The index covers the States and Union Territories of India. The results are presented in a report that was released as the latest edition of the index. Logistics initiatives in India are linked to PM GatiShakti and the National Logistics Policy 2022. Logistics costs in India remain relatively high at around 7.97% of GDP, and the National Logistics Policy 2022 aims to lower them. PM GatiShakti National Master Plan 2021 promotes integrated infrastructure planning across roads, railways, ports, airports and logistics networks.",
-    "questions": [
-     {
-      "q": "What does the acronym LEADS stand for?",
-      "options": ["Logistics Ease Across Different States", "Logistics Evaluation and Development System", "Logistics Efficiency and Data Standards", "Logistics Enhancement Across Domestic Sectors"],
-      "answer": 0,
-      "explanation": "The booklet expands LEADS as Logistics Ease Across Different States."
-     },
-     {
-      "q": "Which department prepares the LEADS Report?",
-      "options": ["Ministry of Shipping and Ports", "Ministry of Road Transport and Highways", "Department for Promotion of Industry and Internal Trade", "Ministry of Railways"],
-      "answer": 2,
-      "explanation": "The booklet states that the LEADS Report is prepared by the Department for Promotion of Industry and Internal Trade."
-     },
-     {
-      "q": "The LEADS 2025 Report is which edition of the report?",
-      "options": ["6th", "7th", "8th", "9th"],
-      "answer": 1,
-      "explanation": "The booklet says the Department released the 7th LEADS 2025 Report."
-     },
-     {
-      "q": "Read the two statements and choose the correct option.\nAssertion (A): Uttar Pradesh achieved Exemplar status in LEADS 2025.\nReason (R): Uttar Pradesh is classed as a Landlocked State in the LEADS 2025 categories.",
-      "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
-      "answer": 1,
-      "explanation": "Both statements are true from the booklet, but the Landlocked label does not explain the Exemplar status."
-     },
-     {
-      "q": "Match List I with List II:\nI. Exemplars   ->   A. Punjab (Landlocked)\nII. High Performers   ->   B. Tamil Nadu (Coastal)\nIII. Accelerators   ->   C. Rajasthan (Landlocked)\nIV. Growth-Seekers   ->   D. Gujarat (Coastal)\nChoose the correct matching.",
-      "options": ["I-B, II-D, III-A, IV-C", "I-A, II-B, III-C, IV-D", "I-C, II-A, III-D, IV-B", "I-D, II-C, III-B, IV-A"],
-      "answer": 0,
-      "explanation": "Tamil Nadu is an Exemplar, Gujarat a High Performer, Punjab an Accelerator and Rajasthan a Growth-Seeker in LEADS 2025."
-     },
-     {
-      "q": "Consider the following statements about the LEADS 2025 classification:\nI. The 2025 edition classifies States and UTs into four new categories.\nII. Delhi is listed as an Exemplar under the UTs group.\nIII. Jammu and Kashmir was a Fast Mover in 2025.\nWhich of the above statements is/are correct?",
-      "options": ["I only", "II and III only", "I and II only", "I, II and III"],
-      "answer": 2,
-      "explanation": "Statement III is wrong because Jammu and Kashmir moved from Fast Mover in 2024 to High Performer in 2025."
-     },
-     {
-      "q": "How many of the following statements about the LEAPS Awards are correct?\nI. LEAPS stands for Logistics Excellence, Advancement and Performance Shield.\nII. The LEAPS Awards 2025 were the 4th edition of the awards.\nIII. The LEAPS Awards 2025 were the 2nd edition of the awards.",
-      "options": ["None", "Only one", "Only three", "Only two"],
-      "answer": 3,
-      "explanation": "Statements I and II are correct, while statement III is wrong because the booklet gives the 4th edition."
-     },
-     {
-      "q": "Which Union Territory is listed as a Growth-Seeker in LEADS 2025?",
-      "options": ["Dadra and Nagar Haveli and Daman and Diu", "Delhi", "Jammu and Kashmir", "Andaman and Nicobar Islands"],
-      "answer": 3,
-      "explanation": "The booklet lists Andaman and Nicobar Islands under Growth-Seekers (UTs)."
-     }
-    ]
-   },
-   {
-    "type": "TITA",
-    "subtopic_index": 1,
-    "title": "Category Recall",
-    "passage": "The LEADS 2025 report places each State and Union Territory into a performance category. Each entry in the report is also marked with a regional group. The regional groups used are coastal, landlocked, north-eastern (N-E) and union territories (UTs). The 2025 edition introduced a new classification system, and its categories are named Exemplars, High Performers, Accelerators and Growth-Seekers. Some states moved up in the 2025 edition after being in earlier categories. For example, a state that had been an Achiever for several years was placed in a new category, and a State or UT that had been a Fast Mover in 2024 moved into a different category in 2025. The LEAPS Awards, which recognise excellence and innovation in India's logistics sector, were also conferred in 2025. The report covers all the States and Union Territories of India, and each one receives a placement based on its performance across logistics parameters such as infrastructure, service quality and the regulatory environment. Parameters also include data-driven logistics reforms, and the index draws inspiration from the World Bank's Logistics Performance Index. Logistics costs in India remain relatively high at around 7.97% of GDP, and the National Logistics Policy 2022 aims to lower them. PM GatiShakti National Master Plan 2021 promotes integrated infrastructure planning.",
-    "questions": [
-     {
-      "q": "How many States and UTs are listed as Exemplars in LEADS 2025? (give the number)",
-      "answer": "4",
-      "accept": ["four"],
-      "explanation": "The booklet lists four States and UTs under Exemplars in LEADS 2025."
-     },
-     {
-      "q": "How many States and UTs are listed as High Performers in LEADS 2025? (give the number)",
-      "answer": "11",
-      "accept": ["eleven"],
-      "explanation": "The booklet lists eleven States and UTs under High Performers in LEADS 2025."
-     },
-     {
-      "q": "Which Union Territory improved from 'Fast Mover' in 2024 to 'High Performer' in LEADS 2025?",
-      "answer": "Jammu and Kashmir",
-      "accept": ["J&K", "Jammu & Kashmir", "Jammu and Kashmir (UT)", "JK", "J and K"],
-      "explanation": "The booklet says J&K improved from Fast Mover in 2024 to High Performer in 2025."
-     },
-     {
-      "q": "Which North-Eastern state is listed as a High Performer in LEADS 2025?",
-      "answer": "Tripura",
-      "accept": ["Tripura State"],
-      "explanation": "Tripura (N-E) is listed among the High Performers in the booklet."
-     },
-     {
-      "q": "How many States and UTs are listed as Accelerators in LEADS 2025? (give the number)",
-      "answer": "17",
-      "accept": ["seventeen"],
-      "explanation": "The booklet gives the count of Accelerators in LEADS 2025 as 17."
-     },
-     {
-      "q": "Which Coastal state is listed as an Accelerator in LEADS 2025?",
-      "answer": "Andhra Pradesh",
-      "accept": ["AP", "Andhra"],
-      "explanation": "Andhra Pradesh (Coastal) is listed among the Accelerators in the booklet."
-     },
-     {
-      "q": "Which North-Eastern state is listed as a Growth-Seeker in LEADS 2025?",
-      "answer": "Sikkim",
-      "accept": ["Sikkim State"],
-      "explanation": "Sikkim (N-E) is listed among the Growth-Seekers in the booklet."
-     }
-    ]
-   }
-  ],
-  "needs_check": [
-   {"page": 47, "what": "Accelerators list: Nagaland (N-E) name is garbled as 'Nagalan'; not used"},
-   {"page": 47, "what": "Sixth LEADS parameter name is garbled ('Operational Chain Development'); only the clearly readable parameters are used"},
-   {"page": 47, "what": "LEAPS award-category wording (Recognise Innovation, Industry Leadership, Outstanding Contributions) is garbled; not used"},
-   {"page": 48, "what": "E-Way Bill threshold amount for goods (currency symbol and figure) is garbled; not used"},
-   {"page": 48, "what": "Services exports growth figure sits in a garbled side column; not used"},
-   {"page": 49, "what": "WDFC status line and funding source are garbled (Funded by, complete versus set to finish by December 2025); not used"},
-   {"page": 49, "what": "Which corridor carries textiles, chemicals, coal and steel cannot be read reliably from the layout; not used"},
-   {"page": 49, "what": "Route endpoints and segment lengths for WDFC, Sanand-Makarpura and the East-West sub-corridors are garbled; not used"},
-   {"page": 49, "what": "Amount of additional project cost from WDFC delays is garbled; not used"}
   ]
- }
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "LEADS 2025 Report at a glance",
+   "root": {
+    "label": "LEADS 2025 Report",
+    "children": [
+     {"label": "LEADS Index", "children": [
+       {"label": "Logistics Ease Across Different States"},
+       {"label": "National index for States and UTs"},
+       {"label": "Launched in 2018"}
+     ]},
+     {"label": "2025 Edition", "children": [
+       {"label": "7th LEADS 2025 Report"},
+       {"label": "Four-tier replaces three-tier model"},
+       {"label": "Presented across 13 categories"}
+     ]},
+     {"label": "LEAPS Awards 2025", "children": [
+       {"label": "Logistics Excellence, Advancement and Performance Shield"},
+       {"label": "Recognise excellence and innovation"}
+     ]},
+     {"label": "State and UT Categories", "children": [
+       {"label": "Exemplars (4)"},
+       {"label": "High Performers (11)"},
+       {"label": "Accelerators (17)"},
+       {"label": "Growth-Seekers (4)"}
+     ]},
+     {"label": "National Initiatives", "children": [
+       {"label": "National Logistics Policy 2022"},
+       {"label": "PM GatiShakti and Bharatmala"},
+       {"label": "Sagarmala and E-Way Bill System"}
+     ]},
+     {"label": "Freight Corridors", "children": [
+       {"label": "DFCCIL under Ministry of Railways"},
+       {"label": "Rail freight share 45% by 2030"}
+     ]},
+     {"label": "World Bank LPI", "children": [
+       {"label": "Six key dimensions"},
+       {"label": "India 38th of 139 countries (2023)"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "LEADS Index Basics",
+   "root": {
+    "label": "LEADS Index Basics",
+    "children": [
+     {"label": "Name and purpose", "children": [
+       {"label": "Logistics Ease Across Different States"},
+       {"label": "Benchmarks States and UTs"}
+     ]},
+     {"label": "Timeline and preparer", "children": [
+       {"label": "Launched in 2018"},
+       {"label": "Prepared by DPIIT"}
+     ]},
+     {"label": "2025 edition changes", "children": [
+       {"label": "7th LEADS 2025 Report"},
+       {"label": "Four-tier replaces three-tier"},
+       {"label": "Presented across 13 categories"}
+     ]},
+     {"label": "Global inspiration", "children": [
+       {"label": "World Bank Logistics Performance Index"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "State and UT Categories",
+   "root": {
+    "label": "State and UT Categories 2025",
+    "children": [
+     {"label": "Exemplars (4)", "children": [
+       {"label": "Tamil Nadu (Coastal)"},
+       {"label": "Uttar Pradesh (Landlocked)"},
+       {"label": "Mizoram (N-E)"},
+       {"label": "Delhi (UTs)"}
+     ]},
+     {"label": "High Performers (11)", "children": [
+       {"label": "Gujarat (Coastal)"},
+       {"label": "Haryana (Landlocked)"},
+       {"label": "Tripura (N-E)"},
+       {"label": "Jammu and Kashmir (UTs)"}
+     ]},
+     {"label": "Accelerators (17)", "children": [
+       {"label": "Andhra Pradesh (Coastal)"},
+       {"label": "Punjab (Landlocked)"},
+       {"label": "Dadra and Nagar Haveli and Daman and Diu (UTs)"}
+     ]},
+     {"label": "Growth-Seekers (4)", "children": [
+       {"label": "West Bengal (Coastal)"},
+       {"label": "Rajasthan (Landlocked)"},
+       {"label": "Sikkim (N-E)"},
+       {"label": "Andaman and Nicobar Islands (UTs)"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "National Initiatives and World Bank LPI",
+   "root": {
+    "label": "Logistics Initiatives and LPI",
+    "children": [
+     {"label": "Policy frameworks", "children": [
+       {"label": "National Logistics Policy 2022"},
+       {"label": "PM GatiShakti National Master Plan 2021"}
+     ]},
+     {"label": "Transport connectivity", "children": [
+       {"label": "Bharatmala Pariyojana: road connectivity"},
+       {"label": "Sagarmala: port-led development"}
+     ]},
+     {"label": "Efficiency and documents", "children": [
+       {"label": "Logistic Efficiency Enhancement Programme"},
+       {"label": "E-Way Bill System for goods"}
+     ]},
+     {"label": "Global benchmark", "children": [
+       {"label": "LPI: six key dimensions"},
+       {"label": "India ranked 38th of 139 (2023)"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Dedicated Freight Corridors",
+   "root": {
+    "label": "Dedicated Freight Corridors",
+    "children": [
+     {"label": "Design", "children": [
+       {"label": "Exclusive freight tracks"},
+       {"label": "Double-stack and heavy-haul trains"}
+     ]},
+     {"label": "Agency and aim", "children": [
+       {"label": "DFCCIL under Ministry of Railways"},
+       {"label": "Reduce logistics costs below 10%"}
+     ]},
+     {"label": "Impact", "children": [
+       {"label": "Better port access (WDFC)"},
+       {"label": "Jobs and investment"},
+       {"label": "Rail freight share 45% by 2030"}
+     ]},
+     {"label": "Challenges", "children": [
+       {"label": "Delays in WDFC final section"},
+       {"label": "Higher project costs"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Four State and UT categories",
+   "mnemonic": "Every Hero Accelerates Growth",
+   "decode": [
+    {"key": "E", "meaning": "Exemplars (4 States and UTs)"},
+    {"key": "H", "meaning": "High Performers (11 States and UTs)"},
+    {"key": "A", "meaning": "Accelerators (17 States and UTs)"},
+    {"key": "G", "meaning": "Growth-Seekers (4 States and UTs)"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Six LPI dimensions",
+   "mnemonic": "Can Ice Elephants Lift Trucks Today",
+   "decode": [
+    {"key": "C", "meaning": "Customs Performance"},
+    {"key": "I", "meaning": "Infrastructure Quality"},
+    {"key": "E", "meaning": "Ease of Arranging Shipments"},
+    {"key": "L", "meaning": "Logistics Services Quality"},
+    {"key": "T", "meaning": "Tracking and Tracing of consignments"},
+    {"key": "T", "meaning": "Timeliness of Shipments"}
+   ]
+  },
+  {
+   "scope": "topic",
+   "title": "LEAPS expansion",
+   "mnemonic": "Lorries Eagerly Advance Performance Safely",
+   "decode": [
+    {"key": "L", "meaning": "Logistics"},
+    {"key": "E", "meaning": "Excellence"},
+    {"key": "A", "meaning": "Advancement"},
+    {"key": "P", "meaning": "Performance"},
+    {"key": "S", "meaning": "Shield"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "LEADS basics check",
+   "passage": "Logistics performance across India's States and Union Territories is measured through LEADS, a national index that benchmarks each State and UT on common parameters. The report is prepared by the Department for Promotion of Industry and Internal Trade, which works under the Ministry of Commerce and Industry. The seventh edition, released as the LEADS 2025 Report, evaluated States and UTs on parameters such as infrastructure, service quality, regulatory environment and data-driven logistics reforms. The report is presented across several logistics-related categories. The 2025 edition also changed how results are classified. In place of the earlier three-tier model, it introduced a four-tier system, and States and UTs are now sorted into new groups. Excellence and innovation in the sector are recognised through a separate set of awards called LEAPS, which were conferred alongside the report. The LEADS framework takes inspiration from an international benchmark, the Logistics Performance Index of the World Bank. That global index analyses differences between countries in customs procedures, logistics costs and infrastructure quality. The national and global tools therefore differ in scope, since one compares States and UTs within India while the other compares countries.",
+   "questions": [
+    {
+     "q": "In which year was LEADS launched?",
+     "options": ["2015", "2016", "2018", "2020"],
+     "answer": 2,
+     "explanation": "The booklet states that LEADS was launched in 2018."
+    },
+    {
+     "q": "What does LEAPS stand for?",
+     "options": ["Logistics Excellence, Advancement and Performance Shield", "Logistics Evaluation and Achievement Performance System", "Logistics Efficiency, Advancement and Progress Shield", "Logistics Enablement and Performance Standards"],
+     "answer": 0,
+     "explanation": "LEAPS stands for Logistics Excellence, Advancement and Performance Shield."
+    },
+    {
+     "q": "Across how many logistics-related categories is the LEADS 2025 Report presented?",
+     "options": ["9", "11", "17", "13"],
+     "answer": 3,
+     "explanation": "The LEADS 2025 Report is presented across 13 logistics-related categories."
+    },
+    {
+     "q": "Assertion (A): The LEADS framework draws inspiration from the World Bank's Logistics Performance Index.\nReason (R): The World Bank's Logistics Performance Index is reported every two years.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 1,
+     "explanation": "Both statements are true, but the two-year reporting cycle does not explain why LEADS draws inspiration from the index."
+    },
+    {
+     "q": "Match List I with List II:\nList I: I. Uttar Pradesh   II. Gujarat   III. Andhra Pradesh   IV. Sikkim\nList II: A. Growth-Seekers   B. Exemplars   C. High Performers   D. Accelerators",
+     "options": ["I-C, II-B, III-D, IV-A", "I-B, II-A, III-D, IV-C", "I-B, II-C, III-D, IV-A", "I-A, II-B, III-C, IV-D"],
+     "answer": 2,
+     "explanation": "Uttar Pradesh is an Exemplar, Gujarat a High Performer, Andhra Pradesh an Accelerator and Sikkim a Growth-Seeker."
+    },
+    {
+     "q": "Consider the following statements about LEADS 2025:\nI. The LEADS Report is prepared by the Department for Promotion of Industry and Internal Trade.\nII. LEADS was launched in 2015.\nIII. The 2025 edition uses a four-tier classification system.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "I and III only", "II and III only", "I, II and III"],
+     "answer": 1,
+     "explanation": "Statement I and statement III are correct, while LEADS was launched in 2018, not 2015."
+    },
+    {
+     "q": "How many of the following statements about LEADS are correct?\n1. LEADS stands for Logistics Ease Across Different States.\n2. LEADS was launched in 2020.\n3. LEADS draws inspiration from the World Bank's Logistics Performance Index.\n4. LEADS is prepared by the Ministry of Railways.",
+     "options": ["Only one", "Only two", "Only three", "All of the above"],
+     "answer": 1,
+     "explanation": "Statements 1 and 3 are correct, while statement 2 gives the wrong launch year and statement 4 names the wrong ministry."
+    },
+    {
+     "q": "The LEADS 2025 release is linked to which two national initiatives?",
+     "options": ["PM GatiShakti and National Logistics Policy 2022", "Make in India and Digital India", "Digital India and Startup India", "Swachh Bharat and Smart Cities Mission"],
+     "answer": 0,
+     "explanation": "The booklet says the initiatives support PM GatiShakti and the National Logistics Policy 2022."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "Freight corridor figures",
+   "passage": "Dedicated Freight Corridors are exclusive tracks built for freight trains, and they support double-stack and heavy-haul trains that offer high capacity and speed. The corridors fall under the Ministry of Railways, and their implementation is handled by a dedicated corporation. A key objective is to reduce logistics costs, in line with the National Logistics Policy. The Western Dedicated Freight Corridor begins at JNPT in Mumbai, and it has improved port access and lowered transit times. Corridors of this kind have also generated jobs and attracted investment, which supports economic growth. Indian Railways' revenue growth is also linked to these corridors over a multi-year period. Construction has not been free of difficulty, because delays in the final section of the Western corridor added to project costs. Within the wider national plan, the corridors are expected to raise the share of rail in freight movement. The corridors are part of a larger network that is being built across several regions of the country.",
+   "questions": [
+    {
+     "q": "Which organisation is the implementing agency for the Dedicated Freight Corridors? (give the abbreviation)",
+     "answer": "DFCCIL",
+     "accept": ["DFCCIL", "D.F.C.C.I.L.", "DFCCIL (Dedicated Freight Corridor Corporation of India)"],
+     "explanation": "The Dedicated Freight Corridor Corporation of India (DFCCIL) is the implementing agency under the Ministry of Railways."
+    },
+    {
+     "q": "By which year do the Dedicated Freight Corridors aim to raise rail's share of freight to 45% under the National Rail Plan? (year)",
+     "answer": "2030",
+     "accept": ["2030", "by 2030"],
+     "explanation": "The National Rail Plan aims for DFCs to boost rail freight's share to 45% by 2030."
+    },
+    {
+     "q": "Under the National Logistics Policy, logistics costs are to be brought below what percentage? (in per cent, number only)",
+     "answer": "10",
+     "accept": ["10", "10%", "10 per cent", "below 10", "below 10%"],
+     "explanation": "The DFC objective is to reduce logistics costs below 10% as per the National Logistics Policy."
+    },
+    {
+     "q": "Up to which financial year is the period cited for DFCs' contribution to Indian Railways' revenue growth? (format: 2022-23)",
+     "answer": "2022-23",
+     "accept": ["2022-23", "FY 2022-23", "FY2022-23", "2022–23"],
+     "explanation": "The booklet cites DFCs' contribution to Indian Railways' revenue growth for FY 2018-19 to FY 2022-23."
+    },
+    {
+     "q": "Which place is at the other end of the North-South DFC from Vijayawada? (one word)",
+     "answer": "Itarsi",
+     "accept": ["Itarsi"],
+     "explanation": "The North-South DFC runs between Vijayawada and Itarsi."
+    },
+    {
+     "q": "What is the length of the North-South DFC? (in km)",
+     "answer": "975",
+     "accept": ["975 km", "975 kms", "975 kilometres"],
+     "explanation": "The North-South DFC is listed as 975 km long."
+    },
+    {
+     "q": "What is the length of the East Coast DFC between Kharagpur and Vijayawada? (in km)",
+     "answer": "1115",
+     "accept": ["1115 km", "1,115", "1,115 km", "1115 kms"],
+     "explanation": "The East Coast DFC is listed as 1115 km long."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 47, "what": "Parameter names 'Operational Efficiency' and 'Supply Chain Development' are split across merged columns and garbled (read as 'Operational Chain Development'); not used"},
+  {"page": 47, "what": "Accelerators entry for Nagaland (N-E) is garbled ('Nagalan'); not listed"},
+  {"page": 48, "what": "E-Way Bill threshold amount is garbled (currency symbol unreadable); amount not used"},
+  {"page": 48, "what": "Services export growth range and the export target line are partly garbled; not used"},
+  {"page": 49, "what": "Which corridor handles textiles, chemicals and industrial products and which focuses on coal, steel and agricultural products is unclear from the columns; not used"},
+  {"page": 49, "what": "WDFC status is contradictory in OCR ('WDFC was complete' vs 'set to finish by December 2025') and EDFC operational status is ambiguous; neither used"},
+  {"page": 49, "what": "Corridor segment lengths, route map labels and funding sources are garbled; not used"},
+  {"page": 49, "what": "Project-cost phrase is missing its amount ('additional ... in project costs'); only the fact that delays added to costs is used"}
+ ]
 }

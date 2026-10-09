@@ -15,12 +15,22 @@ def tita_match(stored, accept, mine):
         n = " ".join(norm(a))
         if n and (n == m or n in m or m in n and m): return True
     return False
+
+ROW = re.compile(r"^(IV|III|II|I)\.\s+(.*?)\s+->\s+([A-D])\.\s+(.*)$")
+def match_pairs(stem, opt):
+    r1, r2 = {}, {}
+    for l in stem.split("\n"):
+        m = ROW.match(l.strip())
+        if m: r1[m.group(1)] = m.group(2).strip(); r2[m.group(3)] = m.group(4).strip()
+    try: return {(r1[a], r2[b]) for a, b in re.findall(r"(IV|III|II|I)-([A-D])", opt)}
+    except KeyError: return None
 BAD = ("ambiguous", "multiple_correct", "no_correct_option", "answer_stated_in_passage", "garbled_basis")
 report = collections.defaultdict(list); passage_flags = []; fact_flags = []; keeplist = []
 for f in sorted(glob.glob(f"data/booklets/{mid}/verdict/t*.json")):
     v = json.load(open(f, encoding="utf8"))
     bl = json.load(open(f.replace("/verdict/", "/blind/"), encoding="utf8"))
-    BQ = {b["id"]: {x["n"]: x["q"] for x in b["questions"]} for b in bl["quizzes"]}   # question text exactly as the verifier saw it
+    BQ = {b["id"]: {x["n"]: x["q"] for x in b["questions"]} for b in bl["quizzes"]}
+    BO = {b["id"]: {x["n"]: x.get("options") for x in b["questions"]} for b in bl["quizzes"]}   # question text exactly as the verifier saw it
     for vq in v["quizzes"]:
         q = Q.get(vq["id"])
         if not q: report["unknown quiz"].append(vq["id"]); continue
@@ -35,7 +45,12 @@ for f in sorted(glob.glob(f"data/booklets/{mid}/verdict/t*.json")):
             iss = [s for s in r.get("issues", []) if s.startswith(BAD) or s.startswith("other")]
             why += iss
             if q["type"] == "MCQ":
-                if r["my_answer"] != x["answer"]: why.append(f"answer mismatch (verifier {r['my_answer']} vs stored {x['answer']})")
+                ok = r["my_answer"] == x["answer"]
+                bopts = BO.get(vq["id"], {}).get(r["n"])
+                if x["q"].startswith("Match") and isinstance(r["my_answer"], int) and bopts:
+                    vp = match_pairs(txt, bopts[r["my_answer"]]); sp = match_pairs(x["q"], x["options"][x["answer"]])
+                    ok = vp is not None and vp == sp
+                if not ok: why.append(f"answer mismatch (verifier {r['my_answer']} vs stored {x['answer']})")
             elif not tita_match(x["answer"], x.get("accept"), r["my_answer"]):
                 why.append(f"answer mismatch (verifier '{r['my_answer']}' vs stored '{x['answer']}')")
             if why: drop[i] = why
