@@ -1,0 +1,36 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t09-0",
+   "questions": [
+    {"n": 1, "my_answer": 1, "supported": true, "evidence": {"page": 44, "quote": "It meets every two years to address"}, "issues": []},
+    {"n": 2, "my_answer": 0, "supported": true, "evidence": {"page": 44, "quote": "Last MC, i.e. 13th, was held in Abu"}, "issues": []},
+    {"n": 3, "my_answer": 2, "supported": true, "evidence": {"page": 44, "quote": "Established on January 1, 1995 under 1994 Marrakesh"}, "issues": []},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 43, "quote": "Firewall Clause: Prevents IFD Rules from overriding Bilateral Investment Treaties."}, "issues": ["other: causal link between A and R is not stated in the text"]},
+    {"n": 5, "my_answer": 3, "supported": true, "evidence": {"page": 42, "quote": "Highest Decision—making Body of WTO."}, "issues": ["garbled_basis"]},
+    {"n": 6, "my_answer": 1, "supported": true, "evidence": {"page": 42, "quote": "since 1998) has expired due to lack of Consensus."}, "issues": []},
+    {"n": 7, "my_answer": 2, "supported": true, "evidence": {"page": 43, "quote": "Excludes: Market Access, Investment Protection, Government Procurement, Investor — State Dispute Settlement"}, "issues": []},
+    {"n": 8, "my_answer": 0, "supported": true, "evidence": {"page": 42, "quote": "Safeguard against Non — Violation Complaints under TRIPS"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "Members were divided over the moratorium on customs duties on electronic transmissions, over agriculture and transparency norms, and over the wider direction of trade rules.", "problem": "not found in booklet text: booklet names the moratorium, agriculture and transparency norms as the disputes; 'wider direction of trade rules' is not stated", "page": 42}
+   ]
+  },
+  {
+   "id": "t-t09-1",
+   "questions": [
+    {"n": 1, "my_answer": "1998", "supported": true, "evidence": {"page": 42, "quote": "1998 Agreement: WTO Members cannot impose tariffs on Electronic Transmissions."}, "issues": []},
+    {"n": 2, "my_answer": "66", "supported": true, "evidence": {"page": 42, "quote": "A Coalition of 66 WTO Members advanced negotiations on a Plurilateral"}, "issues": []},
+    {"n": 3, "my_answer": "TRIPS", "supported": true, "evidence": {"page": 42, "quote": "Safeguard against Non — Violation Complaints under TRIPS"}, "issues": []},
+    {"n": 4, "my_answer": "Geneva", "supported": true, "evidence": {"page": 42, "quote": "Key Issues deferred to WTO General Council meeting in Geneva."}, "issues": ["answer_stated_in_passage"]},
+    {"n": 5, "my_answer": "MC15", "supported": true, "evidence": {"page": 43, "quote": "Aim to finalise outcomes by Next Ministerial Conference (MC15)."}, "issues": []},
+    {"n": 6, "my_answer": "2023", "supported": true, "evidence": {"page": 43, "quote": "Ministerial Conference 2017 and finalised in 2023."}, "issues": []},
+    {"n": 7, "my_answer": "2019", "supported": true, "evidence": {"page": 42, "quote": "Crisis: Appellate Body Non— Functional since 2019."}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "which would bind only those members who sign it", "problem": "not found in booklet text for the e-commerce agreement: the booklet states binding-only-on-signatories only for the IFD Agreement", "page": 42}
+   ]
+  }
+ ],
+ "fact_flags": []
+}
