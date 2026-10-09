@@ -1,0 +1,131 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t16-0",
+   "questions": [
+    {
+     "n": 1,
+     "my_answer": 2,
+     "supported": true,
+     "evidence": {"page": 91, "quote": "Northeast Monsoon (October-December)"},
+     "issues": []
+    },
+    {
+     "n": 2,
+     "my_answer": 0,
+     "supported": true,
+     "evidence": {"page": 92, "quote": "Block cold Central Asian winds."},
+     "issues": []
+    },
+    {
+     "n": 3,
+     "my_answer": 3,
+     "supported": true,
+     "evidence": {"page": 92, "quote": "A warming of Pacific Ocean waters."},
+     "issues": []
+    },
+    {
+     "n": 4,
+     "my_answer": 1,
+     "supported": true,
+     "evidence": {"page": 91, "quote": "India receives ~75% of annual rainfall."},
+     "issues": []
+    },
+    {
+     "n": 5,
+     "my_answer": 0,
+     "supported": true,
+     "evidence": {"page": 91, "quote": "Arabian Sea Branch: Strikes Western Ghats, causes heavy rainfall on west coast."},
+     "issues": []
+    },
+    {
+     "n": 6,
+     "my_answer": 2,
+     "supported": true,
+     "evidence": {"page": 93, "quote": "Monsoon Trough - A low-pressure zone extending across northern India."},
+     "issues": []
+    },
+    {
+     "n": 7,
+     "my_answer": 1,
+     "supported": true,
+     "evidence": {"page": 92, "quote": "A warming of Pacific Ocean waters."},
+     "issues": []
+    },
+    {
+     "n": 8,
+     "my_answer": 0,
+     "supported": true,
+     "evidence": {"page": 93, "quote": "Floods - Excess rainfall causes: Flooding, landslides, crop damage."},
+     "issues": []
+    }
+   ],
+   "passage_flags": [
+    {"claim": "For India it is the single most important source of rain", "problem": "not found in booklet text; booklet only says India receives about 75% of annual rainfall from the monsoon", "page": 91},
+    {"claim": "The southwest monsoon is the main rain-bearing system", "problem": "not found in booklet text", "page": null},
+    {"claim": "Upper-air winds high above the earth ... help set up the pattern of pressure that draws moisture inland", "problem": "booklet ties jet streams only to onset, strength and withdrawal of the monsoon; it does not say they set up the pressure pattern", "page": 92}
+   ]
+  },
+  {
+   "id": "t-t16-1",
+   "questions": [
+    {
+     "n": 1,
+     "my_answer": "Siang",
+     "supported": true,
+     "evidence": {"page": 90, "quote": "Siang River, flows through Assam as"},
+     "issues": []
+    },
+    {
+     "n": 2,
+     "my_answer": "Assam",
+     "supported": true,
+     "evidence": {"page": 90, "quote": "Siang River, flows through Assam as"},
+     "issues": []
+    },
+    {
+     "n": 3,
+     "my_answer": "Jamuna",
+     "supported": true,
+     "evidence": {"page": 90, "quote": "Enters Bangladesh as Jamuna River."},
+     "issues": []
+    },
+    {
+     "n": 4,
+     "my_answer": "Arunachal Pradesh",
+     "supported": true,
+     "evidence": {"page": 90, "quote": "Enters India through Arunachal Pradesh as."},
+     "issues": []
+    },
+    {
+     "n": 5,
+     "my_answer": "Medog",
+     "supported": true,
+     "evidence": {"page": 90, "quote": "raised Safety Concerns over Medog Hydropower Project on Yarlung Tsangpo"},
+     "issues": []
+    },
+    {
+     "n": 6,
+     "my_answer": "Indian and Eurasian",
+     "supported": true,
+     "evidence": {"page": 90, "quote": "ongoing collision between Indian and Eurasian Tectonic Plates."},
+     "issues": []
+    },
+    {
+     "n": 7,
+     "my_answer": "Paizhen Fault",
+     "supported": true,
+     "evidence": {"page": 90, "quote": "Active Paizhen Fault in Tibet."},
+     "issues": []
+    }
+   ],
+   "passage_flags": [
+    {"claim": "passing through several states before it reaches the plains", "problem": "booklet names only Arunachal Pradesh and Assam as states the river passes through; 'several' is not supported", "page": 90},
+    {"claim": "Along this journey the river supports farming, drinking water and the livelihoods of many communities", "problem": "not found in booklet text", "page": null}
+   ]
+  }
+ ],
+ "fact_flags": [
+  {"subtopic": 2, "fact": "Summer heating, the Himalayas, jet streams and El Nino together shape the monsoon's onset, strength and withdrawal.", "problem": "booklet ties onset, strength and withdrawal only to jet streams; it does not say the Himalayas or El Nino shape them (El Nino is said to weaken strength)", "page": 92}
+ ]
+}
