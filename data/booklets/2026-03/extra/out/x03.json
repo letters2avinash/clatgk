@@ -1,0 +1,320 @@
+{
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic": "2026-03-c1-t3-s2",
+   "title": "Nepal's Political System and Parties",
+   "passage": "Nepal's political life rests on a written constitution that sets out how power is divided among the country's institutions. The constitutional framework covers the type of government, the offices of President and Prime Minister, the structure of Parliament and the electoral system. Under this framework, a President acts as the ceremonial head of state, while a Prime Minister leads the government. Parliament is the body through which laws are made.\n\nElections to Parliament use more than one method of choosing representatives, so seats are filled through different processes. Several parties have shaped Nepal's public life for decades. The Nepali Congress, the CPN-UML and the CPN-Maoist Centre are among the best-known, and each has been led by prominent figures over time. Pushpa Kamal Dahal, widely known as Prachanda, is the present leader of the CPN-Maoist Centre, while KP Sharma Oli leads the CPN-UML.\n\nNepal has historically struggled with political instability. Governments have changed often since the return of democracy, and the country's political system has passed through several distinct phases over the decades. Nepal's politics has also moved through several phases, including a monarchy, the Panchayat system and the return of democracy. A people's movement in 1990 ended the Panchayat system and made the monarchy ceremonial.",
+   "questions": [
+    {
+     "q": "What type of government does Nepal follow under its current constitutional framework?",
+     "options": [
+      "Unitary presidential republic",
+      "Constitutional monarchy",
+      "Federal Democratic Republic with a Multi-Party System",
+      "Theocratic state"
+     ],
+     "answer": 2,
+     "explanation": "The booklet describes Nepal as a Federal Democratic Republic with a multi-party system."
+    },
+    {
+     "q": "Who founded the Nepali Congress?",
+     "options": [
+      "Man Mohan Adhikari",
+      "Bishweshwar Prasad Koirala",
+      "Pushpa Kamal Dahal",
+      "Madan Bhandari"
+     ],
+     "answer": 1,
+     "explanation": "The booklet lists Bishweshwar Prasad Koirala as the founder of the Nepali Congress."
+    },
+    {
+     "q": "Under which electoral method is the seat won by the candidate with the highest number of votes?",
+     "options": [
+      "First-past-the-post",
+      "Proportional representation",
+      "Two-round system",
+      "Indirect election"
+     ],
+     "answer": 0,
+     "explanation": "Under FPTP the candidate with the most votes wins, whereas PR allocates seats by party vote share."
+    },
+    {
+     "q": "Assertion (A): Nepal's Parliament is bicameral.\nReason (R): Parliament comprises the House of Representatives and the National Assembly.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 0,
+     "explanation": "Bicameral means two chambers, and R names those two chambers."
+    },
+    {
+     "q": "Match List I with List II:\nI. Nepali Congress   ->   A. 2015\nII. CPN-UML   ->   B. 1947\nIII. CPN-Maoist Centre   ->   C. 1994\nIV. Constitution of Nepal   ->   D. 1991",
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-D, II-A, III-B, IV-C",
+      "I-B, II-D, III-C, IV-A",
+      "I-C, II-B, III-A, IV-D"
+     ],
+     "answer": 2,
+     "explanation": "Nepali Congress was founded in 1947, CPN-UML in 1991, CPN-Maoist Centre in 1994 and the Constitution was adopted in 2015."
+    },
+    {
+     "q": "Read the statements below.\nI. Nepal has historically struggled with political instability, and no government has completed a full term since 1990.\nII. Under FPTP, seats are allocated according to each party's share of the votes.\nIII. Parliament has only a single chamber.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and III only",
+      "II only",
+      "I only"
+     ],
+     "answer": 3,
+     "explanation": "Statement I matches the booklet, while II describes PR and III contradicts the bicameral Parliament."
+    },
+    {
+     "q": "How many of the statements below are correct?\nI. The House of Representatives has 165 FPTP seats and 110 PR seats.\nII. CPN-UML was founded in 1947.\nIII. KP Sharma Oli succeeded Pushpa Kamal Dahal (Prachanda) as Prime Minister.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ],
+     "answer": 1,
+     "explanation": "Statements I and III match the booklet, while CPN-UML was founded in 1991, not 1947."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic": "2026-03-c1-t3-s2",
+   "title": "Nepal's Parties and Constitution",
+   "passage": "Nepal's political life rests on a written constitution that sets out how power is divided among the country's institutions. The constitutional framework covers the type of government, the offices of President and Prime Minister, the structure of Parliament and the electoral system. The President acts as the ceremonial head of state, while the Prime Minister leads the government.\n\nParliament has two houses, and elections to it use more than one method of choosing representatives. Several parties have shaped Nepal's public life for decades. The Nepali Congress, the CPN-UML and the CPN-Maoist Centre are among the best-known parties, and each has been led by prominent figures over time. Pushpa Kamal Dahal, widely known as Prachanda, once served as Prime Minister and is now the present leader of the CPN-Maoist Centre.\n\nNepal has historically struggled with political instability. Governments have changed often since the return of democracy, and the country's political system has passed through several distinct phases over the decades. These developments form the background to the country's present politics. A people's movement in 1990 ended the partyless Panchayat system and made the monarchy ceremonial. Nepal's politics has moved through several phases, including a monarchy, the Panchayat system and the return of democracy.",
+   "questions": [
+    {
+     "q": "Which electoral method allocates seats according to each party's share of the vote?",
+     "answer": "Proportional Representation",
+     "accept": [
+      "PR",
+      "proportional representation",
+      "proportional"
+     ],
+     "explanation": "The booklet defines PR as allocating seats according to the vote share of parties."
+    },
+    {
+     "q": "Pushpa Kamal Dahal (Prachanda) had been Prime Minister since which year?",
+     "answer": "2009",
+     "accept": [
+      "2009 AD"
+     ],
+     "explanation": "The booklet states that Prachanda had been Prime Minister since 2009."
+    },
+    {
+     "q": "In which year was the CPN-UML founded?",
+     "answer": "1991",
+     "accept": [
+      "1991 AD"
+     ],
+     "explanation": "The booklet's party table gives 1991 as the foundation year of CPN-UML."
+    },
+    {
+     "q": "In which year was the Constitution of Nepal adopted?",
+     "answer": "2015",
+     "accept": [
+      "2015 AD"
+     ],
+     "explanation": "The booklet states that the constitutional framework was adopted in 2015."
+    },
+    {
+     "q": "Since the restoration of democracy in 1990, no Nepali government has completed what?",
+     "answer": "full term",
+     "accept": [
+      "a full term",
+      "complete term",
+      "full tenure"
+     ],
+     "explanation": "The booklet says no government has completed a full term since the restoration of democracy in 1990."
+    },
+    {
+     "q": "Which house of Nepal's Parliament has 275 members?",
+     "answer": "House of Representatives",
+     "accept": [
+      "HoR",
+      "the House of Representatives"
+     ],
+     "explanation": "The booklet states that the 275-member House of Representatives combines FPTP and PR seats."
+    },
+    {
+     "q": "Who succeeded Pushpa Kamal Dahal (Prachanda) as Prime Minister?",
+     "answer": "KP Sharma Oli",
+     "accept": [
+      "KP Oli",
+      "K P Sharma Oli",
+      "Sharma Oli",
+      "Oli"
+     ],
+     "explanation": "The booklet says KP Sharma Oli succeeded Pushpa Kamal Dahal (Prachanda) as Prime Minister."
+    }
+   ]
+  },
+  {
+   "type": "MCQ",
+   "subtopic": "2026-03-c1-t3-s3",
+   "title": "India-Nepal Ties: Relations and Strains",
+   "passage": "India and Nepal share a long and close relationship, shaped by geography, culture and history. Nepal acts as a Himalayan buffer state between India and another large neighbour, and India is Nepal's largest trade partner. Both countries are founding members of regional groupings in South Asia, and their armed forces have held joint exercises.\n\nTrade, investment and connectivity projects are central to the ties. Cross-border infrastructure, including rail and power links, has been part of the agenda between the two governments.\n\nThe relationship has also seen strains. Border disputes persist in several places along the frontier, and Nepal has questioned some older agreements that govern the ties. Changes in Nepal's political landscape can alter how the two governments engage with one another. Military and cultural ties have long linked the two countries. Nepali soldiers have served in the British Indian Army since the Treaty of Sugauli, and Gorkha regiments in the Indian Army are partly recruited from Nepal's hill districts. Cultural links include the Ramayana tradition and the birthplace of the Buddha at Lumbini. Several sister-city arrangements link towns in the two countries, including Kathmandu and Varanasi. Religious and historical links also run deep, reflecting a long civilisational connection. The relationship therefore combines cooperation with occasional disagreement.",
+   "questions": [
+    {
+     "q": "Which Indian policy might RSP's technocratic approach align with, especially on cross-border rail, power grid and infrastructure?",
+     "options": [
+      "Look East Policy",
+      "Neighbourhood First Policy",
+      "Act East Policy",
+      "Panchsheel Agreement"
+     ],
+     "answer": 1,
+     "explanation": "The booklet says RSP's technocratic approach may align with the Neighbourhood First Policy on cross-border infrastructure."
+    },
+    {
+     "q": "Revisiting the 1950 Treaty of Peace and Friendship could have which effect on India?",
+     "options": [
+      "It would increase India's traditional diplomatic leverage in Kathmandu",
+      "It would end all cross-border trade between the two countries",
+      "It could reduce India's traditional diplomatic leverage in Kathmandu",
+      "It would remove the Kalapani dispute from negotiations"
+     ],
+     "answer": 2,
+     "explanation": "The booklet says revisiting the treaty could reduce India's traditional diplomatic leverage in Kathmandu."
+    },
+    {
+     "q": "Nepal's effort to reduce its dependence on India may redirect trade and connectivity projects toward which other partner?",
+     "options": [
+      "China",
+      "Bangladesh",
+      "Bhutan",
+      "Sri Lanka"
+     ],
+     "answer": 0,
+     "explanation": "The booklet says such projects may be redirected toward other partners, including China."
+    },
+    {
+     "q": "Assertion (A): New Delhi must rebuild its diplomatic networks in Nepal beyond long-standing political channels.\nReason (R): The decline of traditional parties in Nepal has weakened the long-standing political channels.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 0,
+     "explanation": "The booklet says the decline of traditional parties is why New Delhi must rebuild networks beyond long-standing channels."
+    },
+    {
+     "q": "Read the statements below.\nI. RSP proposes revisiting the 1950 India-Nepal Treaty of Peace and Friendship.\nII. A single-party majority government could provide a stable environment for long-term policy.\nIII. Madhesh lies in the hill region of Nepal.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "II and III only",
+      "I and II only",
+      "I, II and III"
+     ],
+     "answer": 2,
+     "explanation": "Statements I and II match the booklet, while statement III contradicts the booklet's description of Madhesh's location."
+    },
+    {
+     "q": "How many of the statements below are correct?\nI. The Kalapani dispute could harden Nepal's stance under Shah's assertive nationalism.\nII. Madhesh has historically demanded greater political representation.\nIII. Nepal considers the 1950 treaty fully equal and up to date.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ],
+     "answer": 1,
+     "explanation": "Statements I and II match the booklet, while III contradicts its description of the treaty as outdated and unequal."
+    },
+    {
+     "q": "Madhesh lies in which part of Nepal?",
+     "options": [
+      "Mountain region of north-western Nepal",
+      "Hill region of central Nepal",
+      "Himalayan plateau of north-eastern Nepal",
+      "Terai plains of south-eastern Nepal"
+     ],
+     "answer": 3,
+     "explanation": "The booklet places Madhesh in the Terai plains of south-eastern Nepal."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic": "2026-03-c1-t3-s3",
+   "title": "India-Nepal Treaty and Ties",
+   "passage": "India and Nepal share a porous border and a relationship built on history, culture and trade. Nepal acts as a Himalayan buffer state between India and another large neighbour, and India is Nepal's largest trade partner. Both countries are founding members of regional groupings in South Asia.\n\nThe relationship rests on a treaty of peace and friendship that was signed after India's independence. It granted citizens of each country reciprocal rights of residence, trade and free movement. Nepal has since described that treaty as outdated and unequal, and this has created some diplomatic friction.\n\nBorder questions remain sensitive, and disagreements persist at several points along the frontier. Economic and infrastructure cooperation is also important, including cross-border rail and power projects. Changes in Nepal's political landscape can alter how the two governments engage with one another. Joint military exercises, such as Surya Kiran, are part of defence cooperation. The two countries also share a tradition of cultural and religious ties, including the Ramayana and the Buddha's birthplace at Lumbini. The Indian Army's Gorkha regiments are partly recruited from Nepal's hill districts. Sister-city arrangements also link Lumbini and Bodhgaya, and Janakpur and Ayodhya. The porous frontier also raises concerns about illegal migration and security.",
+   "questions": [
+    {
+     "q": "In which year was the India-Nepal treaty that RSP proposes to revisit signed?",
+     "answer": "1950",
+     "accept": [
+      "1950 AD"
+     ],
+     "explanation": "The booklet names it the 1950 India-Nepal Treaty of Peace and Friendship."
+    },
+    {
+     "q": "Which Indian policy might RSP's technocratic approach align with?",
+     "answer": "Neighbourhood First Policy",
+     "accept": [
+      "Neighbourhood First",
+      "Neighborhood First Policy",
+      "Neighborhood First"
+     ],
+     "explanation": "The booklet says the technocratic approach may align with India's Neighbourhood First Policy."
+    },
+    {
+     "q": "Madhesh lies in which plains of Nepal?",
+     "answer": "Terai",
+     "accept": [
+      "Tarai",
+      "Terai plains",
+      "Tarai plains"
+     ],
+     "explanation": "The booklet places Madhesh in the Terai plains of south-eastern Nepal."
+    },
+    {
+     "q": "What has the Madhesh region historically demanded? (two words)",
+     "answer": "political representation",
+     "accept": [
+      "representation",
+      "greater political representation"
+     ],
+     "explanation": "The booklet says the region has historically demanded greater political representation."
+    },
+    {
+     "q": "Shah's assertive nationalism could harden Nepal's stance on which boundary dispute?",
+     "answer": "Kalapani-Limpiyadhura",
+     "accept": [
+      "Kalapani",
+      "Kalapani Limpiyadhura",
+      "Limpiyadhura",
+      "Kalapani-Limpiyadhura dispute"
+     ],
+     "explanation": "The booklet says the Kalapani-Limpiyadhura dispute could harden Nepal's stance under Shah's nationalism."
+    },
+    {
+     "q": "Revisiting that treaty could reduce India's traditional diplomatic ___ in Kathmandu. What word fills the blank?",
+     "answer": "leverage",
+     "accept": [
+      "diplomatic leverage"
+     ],
+     "explanation": "The booklet says revisiting the treaty could reduce India's traditional diplomatic leverage in Kathmandu."
+    },
+    {
+     "q": "As traditional parties decline, what must New Delhi rebuild beyond long-standing political channels? (two words)",
+     "answer": "diplomatic networks",
+     "accept": [
+      "networks",
+      "diplomatic network",
+      "diplomatic channels"
+     ],
+     "explanation": "The booklet says New Delhi must rebuild diplomatic networks beyond long-standing political channels."
+    }
+   ]
+  }
+ ]
+}
