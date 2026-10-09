@@ -1,0 +1,126 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t09-0",
+   "questions": [
+    {
+     "n": 1,
+     "my_answer": 1,
+     "supported": true,
+     "evidence": {"page": 60, "quote": "New Framework will come into effect from 15 Oct 2026."},
+     "issues": []
+    },
+    {
+     "n": 2,
+     "my_answer": 2,
+     "supported": true,
+     "evidence": {"page": 61, "quote": "Mid-value (22,001 - 374,999) 0.40% of value"},
+     "issues": []
+    },
+    {
+     "n": 3,
+     "my_answer": 0,
+     "supported": true,
+     "evidence": {"page": 60, "quote": "zero-MDR policy, introduced in 2020, exempted merchants from paying any fee for UPI and RuPay transactions to"},
+     "issues": []
+    },
+    {
+     "n": 4,
+     "my_answer": 3,
+     "supported": true,
+     "evidence": {"page": 61, "quote": "Lower Rate is intended to encourage Greater Use of Digital Payments in Formal Financial Markets."},
+     "issues": ["other: assertion's causal clause (higher risk for banks) is not in the booklet; answer 3 rests on the booklet's stated reason for the lower rate"]
+    },
+    {
+     "n": 5,
+     "my_answer": 1,
+     "supported": true,
+     "evidence": {"page": 61, "quote": "These sectors will attract a flat MDR of 5 per transaction."},
+     "issues": []
+    },
+    {
+     "n": 6,
+     "my_answer": 0,
+     "supported": true,
+     "evidence": {"page": 61, "quote": "Small Merchants receiving up to 1 Lakh Per Month through UPI QR Codes under P2PM category will remain Exempt from MDR."},
+     "issues": []
+    },
+    {
+     "n": 7,
+     "my_answer": 1,
+     "supported": true,
+     "evidence": {"page": 61, "quote": "Umbrella Organisation for operating and developing Retail Payment and Settlement Systems in India."},
+     "issues": []
+    },
+    {
+     "n": 8,
+     "my_answer": 3,
+     "supported": true,
+     "evidence": {"page": 61, "quote": "HQ: Mumbai (Maharashtra)"},
+     "issues": []
+    }
+   ],
+   "passage_flags": [
+    {"claim": "from neighbourhood shops to large retailers", "problem": "not found in booklet text; the booklet does not describe merchant types such as neighbourhood shops or large retailers", "page": 60}
+   ]
+  },
+  {
+   "id": "t-t09-1",
+   "questions": [
+    {
+     "n": 1,
+     "my_answer": "P2P",
+     "supported": true,
+     "evidence": {"page": 61, "quote": "Framework will Not impose MDR on Person — to — Person (P2P) UPI Transactions,"},
+     "issues": []
+    },
+    {
+     "n": 2,
+     "my_answer": "2000",
+     "supported": true,
+     "evidence": {"page": 61, "quote": "Transactions involving Small Vendors and P2M UPI Payments up to %2,000 including through RuPay Debit Cards."},
+     "issues": []
+    },
+    {
+     "n": 3,
+     "my_answer": "1",
+     "supported": true,
+     "evidence": {"page": 61, "quote": "Small Merchants receiving up to 1 Lakh Per Month through UPI QR Codes under P2PM"},
+     "issues": []
+    },
+    {
+     "n": 4,
+     "my_answer": "5",
+     "supported": true,
+     "evidence": {"page": 61, "quote": "These sectors will attract a flat MDR of 5 per transaction."},
+     "issues": ["other: booklet table on the same page OCR-reads '25 flat' for this sector group; prose says 5 per transaction, which the answer uses"]
+    },
+    {
+     "n": 5,
+     "my_answer": "300",
+     "supported": true,
+     "evidence": {"page": 61, "quote": "For transactions of 75000 and above, MDR will be capped at %300 per transaction."},
+     "issues": []
+    },
+    {
+     "n": 6,
+     "my_answer": "0.02",
+     "supported": true,
+     "evidence": {"page": 61, "quote": "Payments involving Mutual funds, Securities, Stock brokers and Stock Dealers will attract a reduced MDR of 0.02%"},
+     "issues": []
+    },
+    {
+     "n": 7,
+     "my_answer": "Capital Markets",
+     "supported": true,
+     "evidence": {"page": 61, "quote": "Capital Markets (Mutual Funds, Securities, Stock Brokers) 0.02%"},
+     "issues": []
+    }
+   ],
+   "passage_flags": [
+    {"claim": "Many of these businesses operate on thin margins", "problem": "not found in booklet text; the booklet only says small businesses need protection from additional payment processing costs", "page": 61}
+   ]
+  }
+ ],
+ "fact_flags": []
+}
