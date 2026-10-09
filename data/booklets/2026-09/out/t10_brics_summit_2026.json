@@ -1,0 +1,439 @@
+{
+ "topic": {
+  "title": "18th BRICS Summit 2026",
+  "chapter_title": "Summits, Reports, Indices",
+  "subtopics": [
+   {
+    "title": "Summit Overview and Theme",
+    "summary": "India hosted the 18th BRICS Summit in New Delhi in 2026, marking its 4th BRICS Chairship. The summit ran under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability'. It ended with the unanimous adoption of the New Delhi Declaration, which stressed multilateralism and Global South representation. The year also marked 25 years since the BRIC concept emerged in 2001.",
+    "facts": [
+     "18th BRICS Summit held in New Delhi in 2026",
+     "2026 was India's 4th BRICS Chairship",
+     "Earlier Indian chairships: 2012 (4th summit, New Delhi), 2016 (8th, Goa), 2021 (13th, virtual)",
+     "Theme 2026: Building for Resilience, Innovation, Cooperation and Sustainability",
+     "New Delhi Declaration adopted unanimously at the close of the summit",
+     "Declaration stressed multilateralism, conflict prevention, equitable global governance and Global South representation",
+     "2026 marked 25 years since the BRIC concept emerged in 2001",
+     "Resilience: strengthening ability to deal with economic, environmental and geopolitical challenges",
+     "Innovation: promoting new technologies, research and digital solutions for development",
+     "Cooperation and Sustainability: collaboration across sectors and environmentally sustainable, inclusive growth"
+    ],
+    "keywords": ["BRICS", "New Delhi Declaration", "Chairship", "Resilience", "Global South"]
+   },
+   {
+    "title": "Finance, Trade and Customs",
+    "summary": "The summit produced outcomes on payments, risk, MSME finance, taxation and customs. Its payment initiative aims to settle trade in local currencies and reduce exposure to exchange-rate volatility. A risk lab and a consensus on MSME financing were also announced. Tax and customs cooperation included a learning lab, an Authorised Economic Operator action plan and joint enforcement against smuggling.",
+    "facts": [
+     "BRICS Payment Task Force: facilitates trade settlements through local currencies",
+     "Payment initiative aims to reduce exposure to exchange-rate volatility and external financial disruptions",
+     "BRICS Risk Lab in GIFT City, Gujarat: strengthens reinsurance capabilities",
+     "Risk Lab addresses geopolitical risks in large infrastructure projects in the Global South",
+     "Jaipur Consensus on MSME Financing: helps MSMEs convert unpaid invoices into working capital",
+     "BRICS-NDB Knowledge Portal launched by the New Development Bank",
+     "BRICS Startup Innovation Fund proposed to support early-stage ventures",
+     "BRICS Tax Cross-Learning Lab and Authorised Economic Operator Action Plan 2026 launched",
+     "Annual Joint Customs Enforcement Operations envisaged against smuggling networks and illicit financial flows"
+    ],
+    "keywords": ["Payment Task Force", "Local currencies", "Risk Lab", "Jaipur Consensus", "MSME", "Customs"]
+   },
+   {
+    "title": "Science, Technology and Digital Infrastructure",
+    "summary": "The science and digital outcomes cover space, satellite data, digital public infrastructure, research infrastructure, smart grids and entrepreneurship. Terms were drafted for a proposed space council, and a repository for digital public infrastructure was approved. An action plan was adopted for a network that pools resources for high-cost megascience projects. An incubator network was launched to support innovation-led growth.",
+    "facts": [
+     "Terms drafted for a proposed BRICS Space Council",
+     "Cooperation under the BRICS Remote Sensing Satellite Constellation was expanded",
+     "Collective satellite data to support disaster risk reduction and climate monitoring",
+     "BRICS DPI Repository approved for creation",
+     "Pilot projects started for sharing open-source digital public goods, including digital identity and payment systems",
+     "GRAIN (Global Research Advanced Infrastructure Network): action plan adopted",
+     "GRAIN aims to pool financial and intellectual resources for high-cost megascience projects",
+     "Digital Centre of Excellence for Smart Grids established for AI-enabled integration of renewable energy",
+     "BRICS Incubator Network launched to promote entrepreneurship and innovation-led growth"
+    ],
+    "keywords": ["GRAIN", "DPI Repository", "Space Council", "Smart Grids", "Incubator Network", "Megascience"]
+   },
+   {
+    "title": "Agriculture, Health, Transport and Climate",
+    "summary": "This part covers farming, health, transport, logistics and climate outcomes. Members set a target for launching a BRICS Grain Exchange and created networks on seeds, inputs and digital agriculture. Health outcomes include a healthy lifestyle roadmap and a mental well-being training network. Climate-linked items include sustainable aviation fuels and climate-resilient urban infrastructure principles.",
+    "facts": [
+     "BRICS Grain Exchange: launch targeted by 2027",
+     "Grain Exchange proposed in 2023 and championed by Russia",
+     "BRICS AGRIN (Agro-Inputs, Genetic Resources and Information Network) focuses on seeds, germplasm and agricultural inputs",
+     "Centres of Excellence on Agroecology and Regenerative Agriculture established",
+     "BRICS Network on Digital Agriculture covers agroforestry, fisheries and aquaculture",
+     "Joint Roadmap for Healthy Lifestyle Promotion (2026-2029) endorsed",
+     "Training Hub Network for mental well-being led by India's NIMHANS",
+     "BRICS BioDesign Centre spearheaded by Andhra Pradesh MedTech Zone",
+     "Global Value Chains Action Plan 2026-2030 provides for a Technical Council and Joint Study",
+     "Sustainable Aviation Fuels Forum launched"
+    ],
+    "keywords": ["Grain Exchange", "AGRIN", "Healthy Lifestyle", "NIMHANS", "Aviation Fuels", "Value Chains"]
+   },
+   {
+    "title": "Security, Social Cooperation and Global Governance",
+    "summary": "Security outcomes include a condemnation of cross-border terrorism and an expert network for tracing fugitive offenders. BRICS CONNECT addresses capacity building and the rights of gig workers. On global governance, the summit endorsed greater African representation in the UN Security Council, and India proposed a 3R framework. China was confirmed as host of the 19th BRICS Summit in 2027.",
+    "facts": [
+     "BRICS condemned cross-border terrorism and the 2025 Pahalgam terror attack",
+     "BRICS urged progress towards the UN Comprehensive Convention on International Terrorism",
+     "Expert network and repository established for tracing fugitive offenders",
+     "BRICS CONNECT: capacity building, employability and new skills",
+     "BRICS CONNECT aims to strengthen gig workers' rights and cross-border portability of social security",
+     "BRICS endorsed the Ezulwini Consensus and Sirte Declaration on African representation in the UN Security Council",
+     "India's 3R framework: Representation, Responsiveness, Rule-making",
+     "India's 10-point roadmap for global governance reform",
+     "BRICS endorsed WTO accession bids of Ethiopia and Iran",
+     "China confirmed as host of the 19th BRICS Summit in 2027"
+    ],
+    "keywords": ["Terrorism", "Fugitive offenders", "BRICS CONNECT", "UN Security Council", "3R framework"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "18th BRICS Summit 2026 at a glance",
+   "root": {
+    "label": "18th BRICS Summit 2026",
+    "children": [
+     {
+      "label": "Theme: Building for Resilience, Innovation, Cooperation, Sustainability",
+      "children": [
+       {"label": "Resilience: economic, environmental, geopolitical challenges", "children": []},
+       {"label": "Innovation: new technologies and digital solutions", "children": []},
+       {"label": "Cooperation: collaboration across sectors", "children": []},
+       {"label": "Sustainability: inclusive, sustainable growth", "children": []}
+      ]
+     },
+     {
+      "label": "Outcome: New Delhi Declaration (unanimous)",
+      "children": [
+       {"label": "Strengthening multilateralism", "children": []},
+       {"label": "Conflict prevention", "children": []},
+       {"label": "Equitable global governance", "children": []},
+       {"label": "Global South representation", "children": []}
+      ]
+     },
+     {
+      "label": "Finance, trade and customs",
+      "children": [
+       {"label": "Payment Task Force: local-currency settlements", "children": []},
+       {"label": "Risk Lab: GIFT City, Gujarat", "children": []},
+       {"label": "Jaipur Consensus: MSME financing", "children": []},
+       {"label": "Tax Cross-Learning Lab launched", "children": []}
+      ]
+     },
+     {
+      "label": "Science and digital",
+      "children": [
+       {"label": "Space Council: terms drafted", "children": []},
+       {"label": "BRICS DPI Repository approved", "children": []},
+       {"label": "GRAIN: high-cost megascience projects", "children": []},
+       {"label": "Smart Grids Centre of Excellence", "children": []}
+      ]
+     },
+     {
+      "label": "Agriculture, health and climate",
+      "children": [
+       {"label": "Grain Exchange targeted for 2027", "children": []},
+       {"label": "AGRIN: seeds and agricultural inputs", "children": []},
+       {"label": "Healthy Lifestyle roadmap 2026-2029", "children": []},
+       {"label": "Sustainable Aviation Fuels Forum", "children": []}
+      ]
+     },
+     {
+      "label": "Security and governance",
+      "children": [
+       {"label": "Condemned cross-border terrorism", "children": []},
+       {"label": "Fugitive offenders repository", "children": []},
+       {"label": "BRICS CONNECT for gig workers", "children": []},
+       {"label": "China hosts 19th Summit in 2027", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Summit overview map",
+   "root": {
+    "label": "Summit Overview and Theme",
+    "children": [
+     {"label": "Hosting", "children": [
+       {"label": "India's 4th BRICS Chairship", "children": []},
+       {"label": "New Delhi, 2026", "children": []}
+     ]},
+     {"label": "Theme pillars", "children": [
+       {"label": "Resilience", "children": []},
+       {"label": "Innovation", "children": []},
+       {"label": "Cooperation", "children": []},
+       {"label": "Sustainability", "children": []}
+     ]},
+     {"label": "Outcome", "children": [
+       {"label": "New Delhi Declaration, unanimous", "children": []},
+       {"label": "25 years since BRIC concept (2001)", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Finance, trade and customs map",
+   "root": {
+    "label": "Finance, Trade and Customs",
+    "children": [
+     {"label": "Payments", "children": [
+       {"label": "Payment Task Force: local currencies", "children": []},
+       {"label": "Aim: lower exchange-rate exposure", "children": []}
+     ]},
+     {"label": "Risk and MSME finance", "children": [
+       {"label": "Risk Lab: GIFT City, Gujarat", "children": []},
+       {"label": "Jaipur Consensus: MSME financing", "children": []},
+       {"label": "Unpaid invoices to working capital", "children": []}
+     ]},
+     {"label": "Development bank and funds", "children": [
+       {"label": "NDB Knowledge Portal", "children": []},
+       {"label": "Startup Innovation Fund (proposed)", "children": []}
+     ]},
+     {"label": "Tax and customs", "children": [
+       {"label": "Tax Cross-Learning Lab", "children": []},
+       {"label": "AEO Action Plan 2026", "children": []},
+       {"label": "Annual joint customs enforcement", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Science and digital map",
+   "root": {
+    "label": "Science, Technology and Digital Infrastructure",
+    "children": [
+     {"label": "Space", "children": [
+       {"label": "Space Council: terms drafted", "children": []},
+       {"label": "Remote Sensing Satellite Constellation expanded", "children": []}
+     ]},
+     {"label": "Digital public infrastructure", "children": [
+       {"label": "BRICS DPI Repository approved", "children": []},
+       {"label": "Open-source digital public goods pilots", "children": []}
+     ]},
+     {"label": "Research and energy", "children": [
+       {"label": "GRAIN: high-cost megascience projects", "children": []},
+       {"label": "Smart Grids Centre of Excellence", "children": []}
+     ]},
+     {"label": "Entrepreneurship", "children": [
+       {"label": "BRICS Incubator Network", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Agriculture, health and climate map",
+   "root": {
+    "label": "Agriculture, Health, Transport and Climate",
+    "children": [
+     {"label": "Agriculture", "children": [
+       {"label": "Grain Exchange by 2027", "children": []},
+       {"label": "AGRIN: seeds, germplasm, inputs", "children": []},
+       {"label": "Digital agriculture network", "children": []}
+     ]},
+     {"label": "Health", "children": [
+       {"label": "Healthy Lifestyle roadmap 2026-2029", "children": []},
+       {"label": "NIMHANS: mental well-being hub", "children": []},
+       {"label": "BioDesign Centre", "children": []}
+     ]},
+     {"label": "Transport and climate", "children": [
+       {"label": "Global Value Chains Plan 2026-2030", "children": []},
+       {"label": "Sustainable Aviation Fuels Forum", "children": []},
+       {"label": "Climate-resilient urban infrastructure principles", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Security and governance map",
+   "root": {
+    "label": "Security, Social Cooperation and Governance",
+    "children": [
+     {"label": "Security", "children": [
+       {"label": "Condemned cross-border terrorism", "children": []},
+       {"label": "UN convention progress urged", "children": []}
+     ]},
+     {"label": "Crime and recovery", "children": [
+       {"label": "Fugitive offenders repository", "children": []},
+       {"label": "Tracing illicit financial flows", "children": []}
+     ]},
+     {"label": "Labour and social security", "children": [
+       {"label": "BRICS CONNECT", "children": []},
+       {"label": "Gig workers' rights", "children": []},
+       {"label": "Cross-border social security portability", "children": []}
+     ]},
+     {"label": "Global governance", "children": [
+       {"label": "UN Security Council reform", "children": []},
+       {"label": "3R framework", "children": []},
+       {"label": "WTO accession: Ethiopia, Iran", "children": []}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Theme pillars",
+   "mnemonic": "Really Innovative Cooperators Sustain (R-I-C-S)",
+   "decode": [
+    {"key": "R", "meaning": "Resilience: strengthening ability to deal with economic, environmental and geopolitical challenges"},
+    {"key": "I", "meaning": "Innovation: promoting new technologies, research and digital solutions for development"},
+    {"key": "C", "meaning": "Cooperation: increasing collaboration among BRICS countries in different sectors"},
+    {"key": "S", "meaning": "Sustainability: supporting environmentally sustainable and inclusive economic growth"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Pay Jaipur's Risks",
+   "mnemonic": "Pay Jaipur's Risks (P-J-R)",
+   "decode": [
+    {"key": "P", "meaning": "Payment Task Force: facilitates trade settlements through local currencies"},
+    {"key": "J", "meaning": "Jaipur Consensus on MSME Financing: helps MSMEs convert unpaid invoices into working capital"},
+    {"key": "R", "meaning": "Risk Lab: strengthens reinsurance capabilities"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Reps Respond to Rules",
+   "mnemonic": "Reps Respond to Rules",
+   "decode": [
+    {"key": "Reps", "meaning": "Representation: one of the three Rs in India's 3R framework for global governance reform"},
+    {"key": "Respond", "meaning": "Responsiveness: second of the three Rs in India's 3R framework"},
+    {"key": "Rules", "meaning": "Rule-making: third of the three Rs in India's 3R framework"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "Finance, Trade and Customs MCQs",
+   "passage": "Financial and trade cooperation was among the most detailed areas of the 18th BRICS Summit, which India hosted in New Delhi in 2026. Member countries discussed how cross-border trade could be made less vulnerable to currency swings and to disruptions in global financial markets. A dedicated risk-focused initiative was also discussed, linked to large infrastructure projects across the Global South and to the geopolitical risks that such projects carry. Small enterprises received particular attention, since many of them need steady cash flow to run their operations and compete in international markets. Support for young companies also formed part of the discussions. On the tax and customs side, the summit focused on sharing knowledge between national tax authorities and on joint action against smuggling and illicit financial flows, while stressing that genuine trade should continue without unnecessary obstruction. Officials framed these discussions as part of a broader effort to make economic relationships more balanced and predictable, especially for countries that rely heavily on trade with partners outside their immediate regions. The conversations also highlighted the role of new technology in making financial services more accessible to ordinary businesses and households. The overall message was that a more resilient financial architecture would help developing economies manage external shocks while keeping trade flowing.",
+   "questions": [
+    {
+     "q": "In which place is the BRICS Risk Lab located?",
+     "options": ["Mumbai", "GIFT City, Gujarat", "Gurugram, Haryana", "Nagpur, Maharashtra"],
+     "answer": 1,
+     "explanation": "The booklet places the BRICS Risk Lab in GIFT City, Gujarat, where it aims to strengthen reinsurance capabilities."
+    },
+    {
+     "q": "The Jaipur Consensus on MSME Financing is intended to help MSMEs convert which of the following into working capital?",
+     "options": ["Unpaid invoices", "Fixed deposits", "Export licences", "Government grants"],
+     "answer": 0,
+     "explanation": "The booklet says the Jaipur Consensus helps MSMEs convert unpaid invoices into working capital."
+    },
+    {
+     "q": "Through which currencies does the BRICS Payment Task Force seek to facilitate trade settlements?",
+     "options": ["US dollars", "Local currencies", "Gold", "Cryptocurrency"],
+     "answer": 1,
+     "explanation": "The booklet states that the Payment Task Force facilitates trade settlements through local currencies."
+    },
+    {
+     "q": "Assertion (A): The BRICS Payment Task Force seeks to reduce exposure to exchange-rate volatility.\nReason (R): It facilitates trade settlements through local currencies.\nIn the light of the above statements, choose the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 0,
+     "explanation": "The booklet lists both goals for the Payment Task Force, and local-currency settlement is the mechanism it names."
+    },
+    {
+     "q": "Match List I with List II:\nI. BRICS Risk Lab   ->   A. Support for early-stage ventures\nII. Jaipur Consensus   ->   B. Trade settlements through local currencies\nIII. BRICS Startup Innovation Fund   ->   C. Strengthening reinsurance capabilities\nIV. BRICS Payment Task Force   ->   D. Unpaid invoices into working capital",
+     "options": ["I-A, II-B, III-C, IV-D", "I-D, II-A, III-B, IV-C", "I-C, II-D, III-A, IV-B", "I-B, II-C, III-D, IV-A"],
+     "answer": 2,
+     "explanation": "The Risk Lab matches C, the Jaipur Consensus matches D, the Startup Fund matches A and the Payment Task Force matches B, per the booklet."
+    },
+    {
+     "q": "Consider the following statements:\nI. The BRICS Risk Lab is located in GIFT City, Gujarat.\nII. The Jaipur Consensus on MSME Financing helps MSMEs convert unpaid invoices into working capital.\nIII. The BRICS Payment Task Force seeks to facilitate trade settlements in US dollars.\nWhich of the above statements is/are correct?",
+     "options": ["II and III only", "I and III only", "I, II and III", "I and II only"],
+     "answer": 3,
+     "explanation": "Statements I and II match the booklet, while statement III is wrong because the Payment Task Force uses local currencies."
+    },
+    {
+     "q": "Consider the following statements:\nI. The BRICS Risk Lab is located in Mumbai.\nII. The BRICS Startup Innovation Fund was proposed to support early-stage ventures.\nIII. The BRICS Tax Cross-Learning Lab was launched at the summit.\nIV. The BRICS Payment Task Force seeks trade settlements in US dollars.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Only statements II and III match the booklet, since the Risk Lab is in GIFT City and the Task Force uses local currencies."
+    },
+    {
+     "q": "Which action plan was launched along with the BRICS Tax Cross-Learning Lab?",
+     "options": ["Global Value Chains Action Plan 2026-2030", "Sustainable Aviation Fuels Forum", "Authorised Economic Operator Action Plan 2026", "Joint Roadmap for Healthy Lifestyle Promotion"],
+     "answer": 2,
+     "explanation": "The booklet states that the summit launched the BRICS Tax Cross-Learning Lab and the Authorised Economic Operator Action Plan 2026."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "Agriculture, Health and Climate TITA",
+   "passage": "The 18th BRICS Summit also produced outcomes in areas that touch everyday life, including farming, public health, transport and climate. Member countries discussed how to make food supplies steadier, particularly when global prices move sharply. A proposed commodity marketplace was among the ideas, intended to make trade in farm produce among member countries more predictable. Cooperation on seeds, plant material and farm inputs was also highlighted, along with a farmer-centred framework for sharing information. In health, the focus was on promoting active living and on building support for mental well-being through shared training. Innovation in medicine was another theme, with attention to developing solutions that could be deployed widely in developing regions. On transport and logistics, members agreed to share technical knowledge about building resilient supply systems. Climate concerns were reflected in discussions about cleaner fuels for aviation, urban infrastructure able to withstand extreme weather, and the protection of natural carbon sinks such as tropical forests. Culinary exchanges were also part of the summit, with regional produce showcased to delegates. Officials said these measures were designed to work alongside existing mechanisms rather than replace them. Together, these outcomes reflected an effort to link economic cooperation with practical improvements in people's livelihoods.",
+   "questions": [
+    {
+     "q": "By which year does BRICS aim to launch the BRICS Grain Exchange? (year)",
+     "answer": "2027",
+     "accept": ["2027"],
+     "explanation": "The booklet says BRICS aims to launch the BRICS Grain Exchange by 2027."
+    },
+    {
+     "q": "Which Indian institution leads the Training Hub Network for mental well-being?",
+     "answer": "NIMHANS",
+     "accept": ["Nimhans", "National Institute of Mental Health and Neurosciences"],
+     "explanation": "The booklet states that the Training Hub Network for mental well-being was led by India's NIMHANS."
+    },
+    {
+     "q": "Which state's MedTech Zone spearheaded the BRICS BioDesign Centre? (name of state)",
+     "answer": "Andhra Pradesh",
+     "accept": ["Andhra", "Andhra Pradesh state"],
+     "explanation": "The booklet says the BRICS BioDesign Centre was spearheaded by the Andhra Pradesh MedTech Zone."
+    },
+    {
+     "q": "In which year does the Joint Roadmap for Healthy Lifestyle Promotion end? (year)",
+     "answer": "2029",
+     "accept": ["2029"],
+     "explanation": "The endorsed Joint Roadmap for Healthy Lifestyle Promotion covers 2026-2029."
+    },
+    {
+     "q": "In which year does the Global Value Chains Action Plan end? (year)",
+     "answer": "2030",
+     "accept": ["2030"],
+     "explanation": "The booklet gives the Global Value Chains Action Plan as covering 2026-2030."
+    },
+    {
+     "q": "Which BRICS network focuses on cooperation relating to seeds, germplasm and agricultural inputs?",
+     "answer": "AGRIN",
+     "accept": ["BRICS AGRIN", "Agrin"],
+     "explanation": "The booklet states that BRICS AGRIN focuses on seeds, germplasm and agricultural inputs."
+    },
+    {
+     "q": "Delegates were served Koraput Coffee from which Indian state?",
+     "answer": "Odisha",
+     "accept": ["Odisha state"],
+     "explanation": "The booklet says delegates were served Koraput Coffee from Odisha."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 67, "what": "Culinary item name 'Gucchi Marmik' is garbled in OCR; not used."},
+  {"page": 68, "what": "Timeline infographic (2012/2016 chairship bullets, CRA, NDB and research network text) is garbled; not used."},
+  {"page": 68, "what": "Population, GDP and trade percentages and the member and partner country lists are garbled or misaligned; not used."}
+ ]
+}

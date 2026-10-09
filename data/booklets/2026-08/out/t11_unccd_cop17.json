@@ -1,0 +1,357 @@
+{
+ "topic": {
+  "title": "UNCCD COP17 and Land Restoration",
+  "chapter_title": "Summits, Reports, Indices",
+  "subtopics": [
+   {
+    "title": "UNCCD and COP17 at a Glance",
+    "summary": "The UNCCD is the principal legally binding framework on desertification, land degradation and drought, and it is one of three Rio Conventions. Its core objective is sustainable land management and achieving Land Degradation Neutrality by 2030. COP17 concluded in Ulaanbaatar, Mongolia, and Egypt will host COP 18 in 2028.",
+    "facts": [
+     "Adopted on 17 June 1994, observed as World Day to Combat Desertification",
+     "Came into force in December 1996",
+     "Principal legally binding framework dealing specifically with desertification, land degradation and drought",
+     "Core objective: promote sustainable land management and achieve Land Degradation Neutrality by 2030",
+     "LDN: quantity and quality of land resources remain stable or improve to support ecosystem functions and services",
+     "LDN is linked with SDG Target 15.3",
+     "Conference of the Parties (COP) is the principal decision-making body of UNCCD",
+     "Membership: 197 Parties (196 countries plus the European Union)",
+     "COP17 concluded in Ulaanbaatar, Mongolia, under the theme 'Restoring Land. Restoring Hope.'",
+     "Egypt will host UNCCD COP 18 in Sharm El-Sheikh in 2028"
+    ],
+    "keywords": ["UNCCD", "COP17", "Ulaanbaatar", "Land Degradation Neutrality", "SDG 15.3", "Rio Conventions"]
+   },
+   {
+    "title": "Drought: Index, Facility and Treaty",
+    "summary": "Drought was a major focus at COP17, which saw a new Drought Resilience Index introduced to assess national preparedness. The Drought Resilience Investment Facility, launched by UNCCD and Luxembourg, uses public finance to attract private and institutional capital. Countries could not agree on a legally binding global drought agreement, and drought gets a standalone agenda item from COP 18 onwards.",
+    "facts": [
+     "Drought Resilience Index: a comprehensive technical instrument for assessing national preparedness against drought",
+     "The index combines AI-based analytics, vulnerability assessment and risk mapping",
+     "Aim: shift drought management from post-disaster relief to anticipatory planning and resilience-building",
+     "Drought Resilience Investment Facility (DRIF) was launched by UNCCD and Luxembourg",
+     "DRIF uses public finance to de-risk investments and attract private and institutional capital",
+     "DRIF focuses on drought resilience, water security, climate-resilient agriculture and land restoration",
+     "Around USD 1.3 billion in new and pipeline funding was announced for land restoration and drought resilience in vulnerable countries",
+     "Countries could not reach consensus on a legally binding global agreement on drought",
+     "From COP 18 onwards, drought will receive a standalone agenda item"
+    ],
+    "keywords": ["Drought Resilience Index", "DRIF", "Luxembourg", "USD 1.3 billion", "standalone agenda item"]
+   },
+   {
+    "title": "Global Partnerships and Finance",
+    "summary": "The Riyadh Global Drought Resilience Partnership, launched at COP 16 in 2024, initially secured around USD 2.15 billion and aims to support 80 countries. The Business4Land Initiative is UNCCD's major platform for private sector involvement in sustainable land management, water management and land restoration. COP17 also promoted nature-based solutions and ecosystem restoration in national development planning.",
+    "facts": [
+     "Riyadh Global Drought Resilience Partnership was launched during UNCCD COP 16 in Riyadh in 2024",
+     "The partnership initially secured around USD 2.15 billion in commitments",
+     "Its aim is to support 80 vulnerable and drought-affected countries through public and private finance",
+     "Business4Land Initiative is UNCCD's major platform for involving the private sector",
+     "Business4Land covers sustainable land management, water management and land restoration",
+     "COP17 promoted greater adoption of Nature-based Solutions",
+     "COP17 promoted Ecosystem-based Adaptation and Ecosystem Restoration in national development planning",
+     "Land degradation affects approximately 40% of the world's land surface",
+     "Land degradation threatens ecosystems, agriculture, water availability and economic stability"
+    ],
+    "keywords": ["Riyadh Partnership", "Business4Land", "Nature-based Solutions", "Ecosystem-based Adaptation", "USD 2.15 billion"]
+   },
+   {
+    "title": "India's Position and National Programmes",
+    "summary": "India launched a Guide to Grasslands and Other Open Natural Ecosystems at COP17 to improve their recognition and conservation. Under the Bonn Challenge, India has brought around 21.76 million hectares of degraded and deforested land under restoration, against a broader target of 26 million hectares by 2030. Domestic programmes include the National Action Plan to Combat Desertification, the Green India Mission, Mission Amrit Sarovar and the Aravalli Green Wall Initiative.",
+    "facts": [
+     "India is a Party to the UNCCD",
+     "India launched the Guide to Grasslands and Other Open Natural Ecosystems (ONEs) at COP17",
+     "The guide seeks to improve recognition and conservation of ONEs such as the Thar Desert and Banni Grasslands",
+     "It also covers Deccan Savannas, Ravines and other open ecosystems",
+     "Under the Bonn Challenge, India has brought around 21.76 million hectares under restoration",
+     "This is part of India's broader target of restoring 26 million hectares by 2030",
+     "National Action Plan to Combat Desertification was introduced in 2001 and revised in 2023",
+     "Green India Mission is a component of the National Action Plan on Climate Change (NAPCC) and focuses on forest restoration and carbon sequestration",
+     "Mission Amrit Sarovar focuses on creation and rejuvenation of water bodies; Aravalli Green Wall Initiative restores degraded Aravalli areas"
+    ],
+    "keywords": ["ONEs", "Bonn Challenge", "Green India Mission", "Mission Amrit Sarovar", "Aravalli Green Wall"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "UNCCD COP17 overview",
+   "root": {
+    "label": "UNCCD and COP17",
+    "children": [
+     {"label": "Convention basics", "children": [
+      {"label": "Adopted 17 June 1994"},
+      {"label": "In force December 1996"},
+      {"label": "Principal legally binding framework on drought"}
+     ]},
+     {"label": "Core objective", "children": [
+      {"label": "Sustainable land management"},
+      {"label": "Land Degradation Neutrality by 2030"}
+     ]},
+     {"label": "Membership and bodies", "children": [
+      {"label": "197 Parties including EU"},
+      {"label": "COP is principal decision-making body"},
+      {"label": "One of three Rio Conventions"}
+     ]},
+     {"label": "COP17 highlights", "children": [
+      {"label": "Held in Ulaanbaatar, Mongolia"},
+      {"label": "Theme: Restoring Land. Restoring Hope."},
+      {"label": "Nature-based solutions promoted"}
+     ]},
+     {"label": "Global and Mongolian situation", "children": [
+      {"label": "About 40% of world land affected"},
+      {"label": "Mongolia: about 77% of territory affected"}
+     ]},
+     {"label": "Next steps", "children": [
+      {"label": "COP 18 in Sharm El-Sheikh, Egypt, 2028"},
+      {"label": "Drought on standalone agenda from COP 18"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "UNCCD at a glance",
+   "root": {
+    "label": "UNCCD basics",
+    "children": [
+     {"label": "Principal framework on land issues", "children": [
+      {"label": "Desertification, land degradation, drought"}
+     ]},
+     {"label": "Land Degradation Neutrality", "children": [
+      {"label": "Land resources stable or improved"},
+      {"label": "Linked with SDG Target 15.3"}
+     ]},
+     {"label": "Rio Conventions", "children": [
+      {"label": "UNFCCC, CBD and UNCCD"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Drought at COP17",
+   "root": {
+    "label": "Drought at COP17",
+    "children": [
+     {"label": "Drought Resilience Index", "children": [
+      {"label": "AI-based analytics"},
+      {"label": "Vulnerability assessment"},
+      {"label": "Risk mapping"},
+      {"label": "Anticipatory planning"}
+     ]},
+     {"label": "DRIF", "children": [
+      {"label": "Launched by UNCCD and Luxembourg"},
+      {"label": "Public finance de-risks investments"},
+      {"label": "Attracts private capital"}
+     ]},
+     {"label": "Finance", "children": [
+      {"label": "About USD 1.3 billion new and pipeline"}
+     ]},
+     {"label": "Global drought treaty", "children": [
+      {"label": "No consensus on binding deal"},
+      {"label": "Standalone agenda item from COP 18"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Partnerships and finance",
+   "root": {
+    "label": "Partnerships and finance",
+    "children": [
+     {"label": "Riyadh Global Drought Resilience Partnership", "children": [
+      {"label": "Launched at COP 16, Riyadh, 2024"},
+      {"label": "About USD 2.15 billion initial commitments"},
+      {"label": "Aims to support 80 countries"}
+     ]},
+     {"label": "Business4Land Initiative", "children": [
+      {"label": "Private sector involvement"},
+      {"label": "Land management, water, restoration"}
+     ]},
+     {"label": "Nature-based solutions", "children": [
+      {"label": "Ecosystem-based adaptation"},
+      {"label": "Ecosystem restoration in planning"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "India's position",
+   "root": {
+    "label": "India's position",
+    "children": [
+     {"label": "ONEs guide launched at COP17", "children": [
+      {"label": "Thar Desert, Banni Grasslands"},
+      {"label": "Deccan Savannas, Ravines"}
+     ]},
+     {"label": "Bonn Challenge", "children": [
+      {"label": "21.76 Mha restored so far"},
+      {"label": "Target 26 Mha by 2030"}
+     ]},
+     {"label": "National programmes", "children": [
+      {"label": "NAP to Combat Desertification (2001, revised 2023)"},
+      {"label": "Green India Mission (under NAPCC)"},
+      {"label": "Mission Amrit Sarovar: water bodies"},
+      {"label": "Aravalli Green Wall Initiative"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Rio Conventions",
+   "mnemonic": "Climate, Biodiversity, Land",
+   "decode": [
+    {"key": "Climate", "meaning": "UNFCCC, the Climate Change convention"},
+    {"key": "Biodiversity", "meaning": "CBD, the Convention on Biological Diversity"},
+    {"key": "Land", "meaning": "UNCCD, the convention to combat desertification"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Drought Resilience Index components",
+   "mnemonic": "Always Verify Risk",
+   "decode": [
+    {"key": "A", "meaning": "AI-based analytics"},
+    {"key": "V", "meaning": "Vulnerability assessment"},
+    {"key": "R", "meaning": "Risk mapping"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "India's Bonn Challenge figures",
+   "mnemonic": "Twenty-one restored, twenty-six by thirty",
+   "decode": [
+    {"key": "21.76", "meaning": "Million hectares restored so far under the Bonn Challenge"},
+    {"key": "26", "meaning": "Million hectares target by 2030"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "UNCCD and COP17 Recall",
+   "passage": "The 17th round of talks under the United Nations Convention to Combat Desertification recently concluded in Ulaanbaatar, the capital of Mongolia. The meeting coincided with a United Nations observance that draws attention to pastoral communities and the management of rangelands, which are grasslands and open lands used for grazing. The emphasis on pastoral communities reflects how directly their livelihoods depend on the condition of the land. Land degradation was a central concern. It is described as a serious threat to ecosystems, farming, the availability of water and the economic stability of many regions. The crisis affects a large share of the world's land, and delegates argued that restoring whole landscapes is more effective than scattered, isolated projects. Mongolia used the platform to explain the severity of its own problem, and it has a national campaign to plant trees over the coming years. Several countries also promoted nature-based solutions and ecosystem restoration as part of national development planning. The convention itself is a legally binding framework dealing with desertification, land degradation and drought, and its work connects closely with climate and biodiversity agreements. Its broader aim is sustainable land management, so that land continues to support people and nature. Organisers and participants generally treated the conference as an opportunity to move from commitments on paper to restoration on the ground.",
+   "questions": [
+    {
+     "q": "Which country will host UNCCD COP 18 in 2028?",
+     "options": ["Mongolia", "India", "Egypt", "Saudi Arabia"],
+     "answer": 2,
+     "explanation": "Egypt will host UNCCD COP 18 in Sharm El-Sheikh in 2028."
+    },
+    {
+     "q": "Read the assertion and reason.\nAssertion (A): Mongolia's 'Billion Trees' campaign aims to plant 1 billion trees by 2030.\nReason (R): Land degradation is a major threat to ecosystems, agriculture, water availability and economic stability.\nChoose the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "Both statements are true, but the land-degradation threat does not explain the tree-planting target."
+    },
+    {
+     "q": "Match List I with List II:\nI. Land Degradation Neutrality (LDN)   ->   C. One of three Rio Conventions\nII. UNCCD membership   ->   D. Adopted on 17 June 1994 (World Day to Combat Desertification)\nIII. UNCCD as one of the Rio Conventions   ->   A. 197 Parties, including 196 countries and the EU\nIV. UNCCD adoption date   ->   B. Land resources remain stable or improve",
+     "options": ["I-A, II-B, III-D, IV-C", "I-C, II-D, III-B, IV-A", "I-D, II-C, III-A, IV-B", "I-B, II-A, III-C, IV-D"],
+     "answer": 3,
+     "explanation": "LDN means land resources remain stable or improve, membership is 197 Parties, the UNCCD is one of three Rio Conventions, and it was adopted on 17 June 1994."
+    },
+    {
+     "q": "Consider the following statements about the UNCCD:\nI. The Convention is one of three Rio Conventions.\nII. Egypt will host UNCCD COP 18 in Sharm El-Sheikh in 2028.\nIII. India is not a Party to the Convention.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "The Convention is one of three Rio Conventions and Egypt will host COP 18, but India is a Party to the Convention."
+    },
+    {
+     "q": "How many of the following statements about the UNCCD and COP17 are correct?\nI. The Convention came into force in December 1996.\nII. Its core objective includes achieving Land Degradation Neutrality by 2030.\nIII. India is not a Party to the Convention.\nIV. The theme of COP17 was 'Land for Life'.",
+     "options": ["Only one", "Only two", "Only three", "All four"],
+     "answer": 1,
+     "explanation": "Statements I and II are correct, while India is a Party and the COP17 theme was 'Restoring Land. Restoring Hope.'"
+    },
+    {
+     "q": "Approximately what percentage of Mongolia's territory is affected by land degradation?",
+     "options": ["45%", "60%", "77%", "90%"],
+     "answer": 2,
+     "explanation": "Mongolia highlighted that nearly 77% of its territory is affected by land degradation."
+    },
+    {
+     "q": "Which of the following is the principal decision-making body of the UNCCD?",
+     "options": ["Conference of the Parties", "Business4Land Initiative", "Drought Resilience Investment Facility", "Riyadh Global Drought Resilience Partnership"],
+     "answer": 0,
+     "explanation": "The Conference of the Parties is the principal decision-making body of the UNCCD."
+    },
+    {
+     "q": "Approximately what percentage of the world's land surface is affected by the land degradation crisis?",
+     "options": ["20%", "30%", "60%", "40%"],
+     "answer": 3,
+     "explanation": "The land degradation crisis affects approximately 40% of the world's land surface."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Drought Policy Recall",
+   "passage": "Drought is one of the harder environmental problems to manage, because its damage builds slowly and is often noticed only after crops have failed and water supplies have run low. For a long time, the usual response has been relief once the harm is done. A newer approach asks governments to look at how exposed they are before the damage occurs. To support this, a comprehensive technical instrument was introduced to help countries judge how prepared they are for drought. It draws on modern data-analysis tools, studies the vulnerability of communities and maps the risks they face. Money is the other side of the problem. Public funds can play a catalytic role, bringing in private and institutional investors to finance water security, climate-resilient farming and land restoration. A fresh pool of finance announced at the recent conference was meant for restoring land and building drought resilience in vulnerable countries. Discussions about a binding global instrument for drought form part of the wider debate. Land and water are closely linked, so a drought in one region can quickly affect farming, food supplies and local incomes across wider areas. Pressure on water, farming and land tends to show up in the others as well. Overall, drought is best understood as a problem of preparation and investment, not only of emergency response.",
+   "questions": [
+    {
+     "q": "Along with UNCCD, which country launched the Drought Resilience Investment Facility (DRIF)? (answer in one word)",
+     "answer": "Luxembourg",
+     "accept": ["Luxembourg"],
+     "explanation": "The DRIF was launched by UNCCD and Luxembourg."
+    },
+    {
+     "q": "What does DRIF use public finance to do in order to attract private and institutional capital? (answer in one word)",
+     "answer": "de-risk",
+     "accept": ["de-risk investments", "de risk", "derisk", "de-risking"],
+     "explanation": "DRIF uses public finance to de-risk investments and attract private and institutional capital."
+    },
+    {
+     "q": "What is the name of the new instrument introduced to assess national preparedness against drought?",
+     "answer": "Drought Resilience Index",
+     "accept": ["drought resilience index"],
+     "explanation": "The Drought Resilience Index was introduced as a comprehensive technical instrument for assessing national preparedness against drought."
+    },
+    {
+     "q": "Drought management is to shift from post-disaster relief towards which kind of planning? (answer in one word)",
+     "answer": "anticipatory",
+     "accept": ["anticipatory planning", "Anticipatory"],
+     "explanation": "The index aims to shift drought management from post-disaster relief to anticipatory planning and resilience-building."
+    },
+    {
+     "q": "How much new and pipeline funding was announced for land restoration and drought resilience in vulnerable countries? (in USD billion)",
+     "answer": "1.3",
+     "accept": ["1.3 billion", "USD 1.3 billion", "1.3bn"],
+     "explanation": "Around USD 1.3 billion in new and pipeline funding was announced at COP17."
+    },
+    {
+     "q": "Did countries reach consensus on a legally binding global agreement on drought at COP17? (yes or no)",
+     "answer": "No",
+     "accept": ["no", "not reached"],
+     "explanation": "Countries could not reach consensus on a legally binding global agreement on drought."
+    },
+    {
+     "q": "From which COP onwards will drought receive a standalone agenda item? (give the COP number)",
+     "answer": "COP 18",
+     "accept": ["COP18", "COP-18", "18"],
+     "explanation": "From COP 18 onwards, drought will receive a standalone agenda item."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 53, "what": "Item 3 heading is missing from the OCR, so the sentence 'Objective is to use Healthy Ecosystems as a means of strengthening Climate and Drought Resilience' is unattributed and was not used."},
+  {"page": 53, "what": "A garbled fragment ('6Th') sits before the Bonn Challenge target sentence; the 26 million hectare target was taken from the clear sentence that follows it."},
+  {"page": 55, "what": "Practice-question option '(a) UNCCD COP1S5, Abidjan, 2022' is garbled; not used."}
+ ]
+}

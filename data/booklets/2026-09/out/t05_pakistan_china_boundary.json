@@ -1,0 +1,325 @@
+{
+ "topic": {
+  "title": "India Rejects Pakistan-China Boundary Joint Commission",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "Pakistan-China Boundary Joint Commission",
+    "summary": "Pakistan and China have set up a Boundary Joint Commission that traces back to their 2013 boundary management agreement and was operationalised in September 2026. India rejects the body because it treats the territory involved as its own and does not recognise the 1963 agreement under which Shaksgam Valley passed to China. The Commission sits alongside China-Pakistan connectivity links such as the Khunjerab crossing and CPEC, which India opposes.",
+    "facts": [
+     "Pakistan-China Boundary Joint Commission was operationalised in Sep 2026; inaugural meeting held in Islamabad.",
+     "The Commission originates from the 2013 Pakistan-China Agreement on Boundary Management System.",
+     "Article 45 of the 2013 agreement provides for a Joint Commission to supervise implementation of border management arrangements.",
+     "Commission is intended to facilitate coordination on border management, joint surveys, trade flows and people-to-people connectivity.",
+     "1963 China-Pakistan Boundary Agreement was signed on 2 March 1963.",
+     "Under the 1963 agreement, Pakistan transferred approx 5,180 sq km of Shaksgam Valley (Trans-Karakoram Tract) to China.",
+     "India has never recognised the 1963 Sino-Pakistan Boundary Agreement and considers it illegal and invalid.",
+     "India argues Pakistan has no locus standi over territory India regards as under Pakistan's illegal occupation.",
+     "Khunjerab Crossing/Corridor is the principal overland connection between China and Pakistan.",
+     "CPEC, a major component of China's Belt and Road Initiative, connects Kashgar in Xinjiang with Gwadar Port via Pakistan; India opposes it because parts pass through Pakistan-occupied Kashmir."
+    ],
+    "keywords": ["Boundary Joint Commission", "Article 45", "2013 Agreement", "Shaksgam Valley", "1963 Agreement", "Khunjerab", "CPEC"]
+   },
+   {
+    "title": "Sino-Indian Border: States, UTs and Sectors",
+    "summary": "India shares a 3,488 km boundary with China along the Himalayan range, and this border runs through one Union Territory and four states. Ladakh has the longest border segment with China among all Indian states and UTs, while Arunachal Pradesh has the second longest. For management purposes the Line of Actual Control is divided into Eastern, Middle and Western sectors, each grouping specific states and UTs.",
+    "facts": [
+     "India shares a 3,488 km border with China along the Himalayan range.",
+     "The border runs through 5 entities: 1 UT (Ladakh) and 4 states (Himachal Pradesh, Uttarakhand, Sikkim, Arunachal Pradesh).",
+     "Ladakh shares the longest border segment with China among all Indian states and UTs.",
+     "Arunachal Pradesh has the 2nd longest border segment with China.",
+     "Himachal Pradesh borders China and forms part of the Middle Sector.",
+     "Uttarakhand borders China and Nepal, among other states.",
+     "Sikkim borders China, Nepal and Bhutan.",
+     "LAC sectors: Eastern (Arunachal Pradesh and Sikkim), Middle (Uttarakhand and Himachal Pradesh), Western (Ladakh).",
+     "Panchsheel Agreement was signed by Nehru and Zhou Enlai, with both sides pledging to respect each other's sovereignty and territorial integrity."
+    ],
+    "keywords": ["3,488 km", "Ladakh", "Arunachal Pradesh", "Sectors", "Panchsheel", "Himalayan border"]
+   },
+   {
+    "title": "Disputed Lines and Flashpoints",
+    "summary": "The India-China boundary is disputed in two main areas: Aksai Chin in the west and Arunachal Pradesh in the east. Each side relies on different historical lines, and China rejects the McMahon Line that India recognises. The disputes have produced repeated clashes, from the 1962 war to the 2017 Doklam standoff and the 2020 Galwan Valley clash.",
+    "facts": [
+     "India considers Aksai Chin part of Ladakh and relies on the Johnson Line; China administers it as part of Xinjiang Autonomous Region and relies on the MacDonald Line.",
+     "India recognises the McMahon Line, demarcated at the 1914 Simla Convention, as the legal boundary; China rejects it and claims Arunachal Pradesh as South Tibet.",
+     "China contends that Tibet was not a sovereign state and could not conclude treaties, which is its reason for rejecting the Shimla agreement.",
+     "The term Line of Actual Control was introduced by Chinese Premier Zhou Enlai in 1959.",
+     "The LAC came into practical existence after the 1962 Sino-Indian War.",
+     "PLA invaded India on 20 Oct 1962; China declared a unilateral ceasefire on 19 Nov 1962 but retained Aksai Chin.",
+     "1967 Nathu La conflict and 1975 Tulung La ambush, in which four Indian soldiers were killed.",
+     "2017 Doklam plateau standoff lasted 73 days after India sent troops to stop China building a road.",
+     "15 Jun 2020 Galwan Valley clash: at least 20 Indian soldiers killed, the most serious clash in 50 years."
+    ],
+    "keywords": ["Aksai Chin", "McMahon Line", "Johnson Line", "Line of Actual Control", "Galwan Valley", "Doklam", "Nathu La"]
+   },
+   {
+    "title": "Border Management Mechanisms and Agreements",
+    "summary": "India and China manage the LAC through a layered set of mechanisms and agreements rather than a final settlement of the boundary. The 2003 Special Representatives process is the highest political-level channel for a settlement, while the 2012 Working Mechanism coordinates responses to LAC incidents. Agreements from 1993 to 2013 added rules on peace, military activity near the LAC and face-to-face encounters between troops.",
+    "facts": [
+     "Special Representatives on Boundary Question (2003) is the highest political-level mechanism for a final political settlement of the 3,488 km dispute.",
+     "Working Mechanism for Consultation and Coordination (2012) is a diplomatic and military channel for LAC incidents and has no mandate to settle the boundary.",
+     "Corps Commander-level meetings pursue tactical disengagement, de-escalation and buffer-zone arrangements during major standoffs.",
+     "Border Personnel Meeting Points are designated locations where local military commanders address ground-level friction.",
+     "1993 Agreement for Maintenance of Peace and Tranquillity along the LAC recognised the LAC; it was signed during PM Narasimha Rao's visit to China.",
+     "1996 Confidence-Building Measures agreement restricted military activities and use of weapons near the LAC; signed during Jiang Zemin's visit to India.",
+     "2005 CBM Protocol set procedures for face-to-face encounters between troops.",
+     "2013 Border Defence Cooperation Agreement strengthened communication and coordination between border forces."
+    ],
+    "keywords": ["Special Representatives", "WMCC", "Corps Commander talks", "Border Personnel Meeting Points", "1993 Agreement", "CBM Protocol"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "India-China-Pakistan Boundary Issues",
+   "root": {
+    "label": "Boundary Issues: India, China, Pakistan",
+    "children": [
+     {"label": "Pakistan-China Joint Commission", "children": [
+      {"label": "Operationalised Sep 2026"},
+      {"label": "Article 45 of 2013 agreement"},
+      {"label": "Inaugural meeting: Islamabad"}
+     ]},
+     {"label": "Shaksgam Valley", "children": [
+      {"label": "1963 agreement, 2 March 1963"},
+      {"label": "About 5,180 sq km to China"},
+      {"label": "India: illegal and invalid"}
+     ]},
+     {"label": "LAC sectors", "children": [
+      {"label": "Western: Ladakh"},
+      {"label": "Middle: Uttarakhand, Himachal Pradesh"},
+      {"label": "Eastern: Arunachal Pradesh, Sikkim"}
+     ]},
+     {"label": "Disputed lines", "children": [
+      {"label": "Johnson Line: India's claim, Aksai Chin"},
+      {"label": "McMahon Line: India recognises, 1914"}
+     ]},
+     {"label": "Flashpoints", "children": [
+      {"label": "1962 Sino-Indian War"},
+      {"label": "1967 Nathu La"},
+      {"label": "2017 Doklam standoff"},
+      {"label": "2020 Galwan Valley clash"}
+     ]},
+     {"label": "Mechanisms", "children": [
+      {"label": "Special Representatives (2003)"},
+      {"label": "Working Mechanism (2012)"},
+      {"label": "Corps Commander meetings"},
+      {"label": "Border Personnel Meeting Points"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Joint Commission at a glance",
+   "root": {
+    "label": "Pakistan-China Boundary Joint Commission",
+    "children": [
+     {"label": "Origin", "children": [
+      {"label": "2013 Agreement on Boundary Management System"},
+      {"label": "Article 45 provides for the Commission"}
+     ]},
+     {"label": "Purpose", "children": [
+      {"label": "Border management coordination"},
+      {"label": "Joint surveys and trade flows"},
+      {"label": "People-to-people connectivity"}
+     ]},
+     {"label": "India's position", "children": [
+      {"label": "No legal basis in territory concerned"},
+      {"label": "Pakistan lacks locus standi"}
+     ]},
+     {"label": "Shaksgam Valley", "children": [
+      {"label": "1963 agreement signed 2 March 1963"},
+      {"label": "About 5,180 sq km passed to China"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "States, UTs and sectors on the border",
+   "root": {
+    "label": "Sino-Indian Border",
+    "children": [
+     {"label": "3,488 km along Himalayas", "children": [
+      {"label": "1 UT and 4 states"}
+     ]},
+     {"label": "Longest and second-longest segments", "children": [
+      {"label": "Ladakh: longest"},
+      {"label": "Arunachal Pradesh: second longest"}
+     ]},
+     {"label": "LAC sectors", "children": [
+      {"label": "Eastern: Arunachal Pradesh, Sikkim"},
+      {"label": "Middle: Uttarakhand, Himachal Pradesh"},
+      {"label": "Western: Ladakh"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Disputed lines and conflicts",
+   "root": {
+    "label": "Disputed Lines and Flashpoints",
+    "children": [
+     {"label": "Western: Aksai Chin", "children": [
+      {"label": "India: Johnson Line, part of Ladakh"},
+      {"label": "China: administers via Xinjiang"}
+     ]},
+     {"label": "Eastern: Arunachal Pradesh", "children": [
+      {"label": "India: McMahon Line, 1914"},
+      {"label": "China: South Tibet claim"}
+     ]},
+     {"label": "Flashpoints", "children": [
+      {"label": "1962 war: ceasefire 19 Nov 1962"},
+      {"label": "1967 Nathu La, 1975 Tulung La"},
+      {"label": "2017 Doklam: 73 days"},
+      {"label": "2020 Galwan Valley clash"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Mechanisms and agreements",
+   "root": {
+    "label": "Managing the LAC",
+    "children": [
+     {"label": "Mechanisms", "children": [
+      {"label": "Special Representatives (2003)"},
+      {"label": "Working Mechanism (2012)"},
+      {"label": "Corps Commander-level meetings"},
+      {"label": "Border Personnel Meeting Points"}
+     ]},
+     {"label": "Agreements", "children": [
+      {"label": "1993 peace and tranquillity"},
+      {"label": "1996 CBM military agreement"},
+      {"label": "2005 CBM Protocol"},
+      {"label": "2013 Border Defence Cooperation"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Three LAC sectors",
+   "mnemonic": "Wise Monks Eat",
+   "decode": [
+    {"key": "W", "meaning": "Western sector: Ladakh"},
+    {"key": "M", "meaning": "Middle sector: Uttarakhand and Himachal Pradesh"},
+    {"key": "E", "meaning": "Eastern sector: Arunachal Pradesh and Sikkim"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Border management bodies",
+   "mnemonic": "Sip Warm Chai, Biscuits",
+   "decode": [
+    {"key": "S", "meaning": "Special Representatives (2003): highest political-level mechanism"},
+    {"key": "W", "meaning": "Working Mechanism (2012): diplomatic and military channel"},
+    {"key": "C", "meaning": "Corps Commander-level meetings: tactical disengagement"},
+    {"key": "B", "meaning": "Border Personnel Meeting Points: ground-level friction"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Flashpoints in order",
+   "mnemonic": "Naughty Tigers Dance Gracefully",
+   "decode": [
+    {"key": "N", "meaning": "Nathu La conflict, 1967"},
+    {"key": "T", "meaning": "Tulung La ambush, 1975"},
+    {"key": "D", "meaning": "Doklam plateau standoff, 2017"},
+    {"key": "G", "meaning": "Galwan Valley clash, 2020"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Joint Commission: Practice MCQs",
+   "passage": "Pakistan and China have set up a Boundary Joint Commission to watch over how their border management arrangements are put into practice. The body is meant to help the two sides coordinate on the everyday business of a shared frontier, including joint surveys, the flow of trade across the boundary and ties between people on either side. Its roots lie in an earlier bilateral framework on managing the boundary, which laid the groundwork for the new institution. The arrangement has drawn a firm response from India, which maintains that the Union Territories of Jammu and Kashmir and Ladakh are integral parts of the country. New Delhi has questioned the move and reaffirmed its own claims over the territory concerned. The dispute centres on the Shaksgam Valley, a mountainous stretch in the Karakoram region, which came under a boundary agreement signed in the 1960s. Routes and infrastructure that link Xinjiang with Pakistan add to the importance of the arrangement, because they strengthen connectivity in a sensitive part of the western Himalayas. India therefore reads the Commission as part of a wider pattern of China-Pakistan coordination close to its own northern frontiers. Any arrangement touching this area is examined closely by New Delhi, which has long held that the territory forms part of India.",
+   "questions": [
+    {
+     "q": "The Pakistan-China Boundary Joint Commission was operationalised in which month and city (inaugural meeting)?",
+     "options": ["September 2026, Islamabad", "September 2026, Beijing", "March 2026, Islamabad", "September 2026, Kashgar"],
+     "answer": 0,
+     "explanation": "The Commission was operationalised in September 2026, with its inaugural meeting held in Islamabad."
+    },
+    {
+     "q": "The Boundary Joint Commission originates from which agreement?",
+     "options": ["1963 China-Pakistan Boundary Agreement", "2013 Pakistan-China Agreement on Boundary Management System", "1996 Confidence-Building Measures Agreement", "2005 CBM Protocol"],
+     "answer": 1,
+     "explanation": "The Commission originates from the 2013 Pakistan-China Agreement on Boundary Management System."
+    },
+    {
+     "q": "Assertion (A): India has rejected the Pakistan-China Joint Commission insofar as it concerns territory India claims.\nReason (R): Pakistan has no locus standi to enter into arrangements involving territory India regards as under Pakistan's illegal occupation.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 0,
+     "explanation": "India has rejected the mechanism because, in its view, Pakistan has no locus standi over territory it regards as under illegal occupation."
+    },
+    {
+     "q": "Match List I with List II:\nI. Khunjerab Crossing   ->   D. Supervises implementation of border management arrangements\nII. Shaksgam Valley   ->   A. Connects Kashgar in Xinjiang with Gwadar Port\nIII. China-Pakistan Economic Corridor   ->   C. Area ceded by Pakistan to China under the 1963 agreement\nIV. Boundary Joint Commission   ->   B. Principal overland connection between China and Pakistan",
+     "options": ["I-A, II-B, III-C, IV-D", "I-B, II-C, III-A, IV-D", "I-B, II-D, III-A, IV-C", "I-C, II-B, III-D, IV-A"],
+     "answer": 1,
+     "explanation": "Khunjerab is the principal overland link, Shaksgam was ceded to China, CPEC runs from Kashgar to Gwadar, and the Joint Commission supervises border management."
+    },
+    {
+     "q": "Consider the following statements about the 1963 China-Pakistan Boundary Agreement:\nI. It was signed on 2 March 1963.\nII. India has recognised it as legally valid.\nIII. Pakistan transferred approximately 5,180 sq km of Shaksgam Valley to China.\nWhich of the above statements is/are correct?",
+     "options": ["II and III only", "I and II only", "I only", "I and III only"],
+     "answer": 3,
+     "explanation": "The agreement was signed on 2 March 1963 and transferred about 5,180 sq km of Shaksgam Valley, which India has never recognised."
+    },
+    {
+     "q": "How many of the following statements about the Shaksgam Valley are correct?\nI. It lies north of the Siachen Glacier in the Karakoram region.\nII. It is located in Arunachal Pradesh.\nIII. India has accepted the 1963 agreement over it.",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 0,
+     "explanation": "The Shaksgam Valley lies north of the Siachen Glacier in the Karakoram region, and India has never recognised the 1963 agreement."
+    },
+    {
+     "q": "The China-Pakistan Economic Corridor connects Kashgar in Xinjiang with which port?",
+     "options": ["Karachi", "Chabahar", "Gwadar", "Hambantota"],
+     "answer": 2,
+     "explanation": "CPEC connects Kashgar in Xinjiang with Gwadar Port in Balochistan, through Pakistan."
+    },
+    {
+     "q": "Which crossing is the principal overland connection between China and Pakistan?",
+     "options": ["Nathu La", "Khunjerab", "Shipki La", "Lipulekh"],
+     "answer": 1,
+     "explanation": "The Khunjerab Crossing/Corridor serves as the principal overland connection between China and Pakistan."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "Disputed Lines: TITA Set",
+   "passage": "The boundary between India and China has never been fully settled, and disagreements over it have produced a long chain of confrontations. Two stretches of the frontier sit at the heart of the dispute. One lies in the high region of Aksai Chin, which the two sides understand differently, each relying on its own historical line. The other involves Arunachal Pradesh, which China describes as part of Tibet while India administers it as a full state. The line in that area was agreed at a convention attended by Tibet, China and British India, but China refused to accept it, arguing that Tibet could not conclude treaties. Armed encounters and standoffs have since erupted in several places, including mountain passes in Sikkim and Arunachal and the plateau where three countries meet. A practical dividing line emerged after the war of the early 1960s, and both sides have since tried to prevent escalation through talks and confidence-building measures. Local commanders meet at designated points to resolve friction on the ground, while senior commanders negotiate withdrawals when standoffs become serious. Yet incidents continue in the high mountains, and each new clash is watched closely by both capitals and by the wider region. Understanding these disputed lines is therefore essential for reading news about the border, since each claim carries a long history behind it.",
+   "questions": [
+    {"q": "China administers Aksai Chin as part of which autonomous region? (name the region)", "answer": "Xinjiang", "accept": ["Xinjiang Autonomous Region", "Xinjiang Uyghur Autonomous Region"], "explanation": "China administers Aksai Chin as part of its Xinjiang Autonomous Region."},
+    {"q": "In which year was the McMahon Line demarcated? (year)", "answer": "1914", "accept": ["1914 AD", "AD 1914"], "explanation": "The McMahon Line was demarcated in 1914 during the Simla Convention."},
+    {"q": "On which date in 1962 did China unilaterally declare a ceasefire? (day and month)", "answer": "19 November", "accept": ["19 Nov", "November 19", "19th November", "19 Nov 1962"], "explanation": "China unilaterally declared a ceasefire on 19 Nov 1962."},
+    {"q": "Into how many sectors is the Line of Actual Control divided? (number)", "answer": "3", "accept": ["three", "Three"], "explanation": "The LAC is divided into three sectors: Eastern, Middle and Western."},
+    {"q": "Which Chinese Premier introduced the term 'Line of Actual Control' in 1959? (name)", "answer": "Zhou Enlai", "accept": ["Chou En-lai", "Zhou En-lai", "Chou Enlai", "Enlai"], "explanation": "The term was introduced in 1959 by Chinese Premier Zhou Enlai."},
+    {"q": "Which sector of the LAC covers Arunachal Pradesh and Sikkim? (name the sector)", "answer": "Eastern", "accept": ["Eastern Sector", "East"], "explanation": "The Eastern Sector comprises Arunachal Pradesh and Sikkim."},
+    {"q": "For how many days did the 2017 Doklam plateau standoff last? (in days)", "answer": "73", "accept": ["73 days", "seventy-three"], "explanation": "The 2017 Doklam plateau standoff was a 73-day confrontation between India and China."}
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 33, "what": "Origin and date of the Johnson Line conflict: p.33 places a Johnson Line proposal in the 1890s via an Anglo-Chinese Convention, while p.34 says the 1865 Johnson Line was marked by W.H. Johnson; no year used"},
+  {"page": 35, "what": "Sector length figures conflict (map: Western 1570 km, Eastern 645 km, Central 1325 km; table: about 1,597 km and 1,346 km; Middle sector figure garbled); no lengths used"},
+  {"page": 32, "what": "Border length conflict: 3,488 km is given as the boundary, but the text also gives 4057 KM as India's claimed international border with China; only 3,488 km used"},
+  {"page": 31, "what": "Strategic red flags graphic text is largely garbled and was not used"},
+  {"page": 30, "what": "Map labels (e.g. Teram Shehr, Gilgit-related labels, Galwan/Pangong labels) are garbled and were not used"}
+ ]
+}
