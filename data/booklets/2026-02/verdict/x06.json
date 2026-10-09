@@ -1,0 +1,88 @@
+{
+ "quizzes": [
+  {
+   "id": "q-x06-54",
+   "questions": [
+    {"n": 1, "my_answer": 1, "supported": true, "evidence": {"page": 38, "quote": "Union Finance Minister tabled 16th Finance Commission Report in Lok Sabha"}, "issues": []},
+    {"n": 2, "my_answer": 2, "supported": true, "evidence": {"page": 38, "quote": "Appointed by President for a Specified Tenure (Generally 5 Years)."}, "issues": []},
+    {"n": 3, "my_answer": 3, "supported": false, "evidence": {"page": 41, "quote": "Bound by Finance Commission."}, "issues": ["garbled_basis"]},
+    {"n": 4, "my_answer": 2, "supported": true, "evidence": {"page": 38, "quote": "Composition: 1 Chairperson and 4 Other Members"}, "issues": []},
+    {"n": 5, "my_answer": 1, "supported": true, "evidence": {"page": 38, "quote": "Constituted By: President of India (Every Five Years or Earlier, if required)."}, "issues": []},
+    {"n": 6, "my_answer": 1, "supported": false, "evidence": {"page": 38, "quote": "Set up in 2023 under Article 280 of the Constitution."}, "issues": ["garbled_basis"]},
+    {"n": 7, "my_answer": 0, "supported": true, "evidence": {"page": 38, "quote": "Chairperson: Dr. Arvind Panagariya (Former Vice — Chairman of NITI Aayog)."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x06-55",
+   "questions": [
+    {"n": 1, "my_answer": "280", "supported": true, "evidence": {"page": 38, "quote": "Set up in 2023 under Article 280 of the Constitution."}, "issues": []},
+    {"n": 2, "my_answer": "281", "supported": true, "evidence": {"page": 38, "quote": "Under Article 281, Finance Commission's Report, along with an Action Taken Memorandum, is laid before Parliament."}, "issues": []},
+    {"n": 3, "my_answer": "4", "supported": true, "evidence": {"page": 38, "quote": "Composition: 1 Chairperson and 4 Other Members"}, "issues": []},
+    {"n": 4, "my_answer": "Dr. Arvind Panagariya", "supported": true, "evidence": {"page": 38, "quote": "Chairperson: Dr. Arvind Panagariya"}, "issues": []},
+    {"n": 5, "my_answer": "NITI Aayog", "supported": true, "evidence": {"page": 38, "quote": "Chairperson: Dr. Arvind Panagariya (Former Vice — Chairman of NITI Aayog)."}, "issues": []},
+    {"n": 6, "my_answer": "5", "supported": true, "evidence": {"page": 38, "quote": "Appointed by President for a Specified Tenure (Generally 5 Years)."}, "issues": []},
+    {"n": 7, "my_answer": "Union Finance Minister", "supported": true, "evidence": {"page": 38, "quote": "Union Finance Minister tabled 16th Finance Commission Report in Lok Sabha"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "which records the steps the Government has taken on the recommendations", "problem": "not found in booklet text; the booklet only says the report is laid with an Action Taken Memorandum", "page": 38}
+   ]
+  },
+  {
+   "id": "q-x06-56",
+   "questions": [
+    {"n": 1, "my_answer": 3, "supported": true, "evidence": {"page": 38, "quote": "Divisible Pool includes Gross Tax Revenues of Centre; excluding Cesses, Surcharges and Cost of Collection."}, "issues": []},
+    {"n": 2, "my_answer": 3, "supported": true, "evidence": {"page": 40, "quote": "Not Shared with State Governments and is at Exclusive Disposal of Union Government."}, "issues": []},
+    {"n": 3, "my_answer": 2, "supported": true, "evidence": {"page": 40, "quote": "Centre is under No Obligation to give these grants and the matter lies within its Discretion."}, "issues": []},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 40, "quote": "Mandatory for All Taxpayers (Individuals, Companies, Firms)."}, "issues": []},
+    {"n": 5, "my_answer": 2, "supported": true, "evidence": {"page": 40, "quote": "Long — Term, 50 — Year Interest — Free Loans to State Governments for Capital Projects"}, "issues": []},
+    {"n": 6, "my_answer": 0, "supported": true, "evidence": {"page": 40, "quote": "Long — Term, 50 — Year Interest — Free Loans to State Governments for Capital Projects"}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 40, "quote": "These sums are “Charged on Consolidated Fund of India” every year."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x06-57",
+   "questions": [
+    {"n": 1, "my_answer": "275", "supported": true, "evidence": {"page": 40, "quote": "Statutory Grants (Art 275)"}, "issues": []},
+    {"n": 2, "my_answer": "282", "supported": true, "evidence": {"page": 40, "quote": "Discretionary Grants +(Art 282): Both Centre and States to make Any Grants for Any Public Purpose,"}, "issues": []},
+    {"n": 3, "my_answer": "2020-21", "supported": true, "evidence": {"page": 40, "quote": "SASCI: Launched in 2020 — 21"}, "issues": []},
+    {"n": 4, "my_answer": "50", "supported": true, "evidence": {"page": 40, "quote": "Long — Term, 50 — Year Interest — Free Loans to State Governments"}, "issues": []},
+    {"n": 5, "my_answer": "Consolidated Fund of India", "supported": true, "evidence": {"page": 40, "quote": "Funds must be used for Specified Purpose and are deposited in Consolidated Fund of India."}, "issues": []},
+    {"n": 6, "my_answer": "Capital Investment", "supported": true, "evidence": {"page": 38, "quote": "Borrowings under Special Assistance to States for Capital Investment (SASCI) Scheme"}, "issues": []},
+    {"n": 7, "my_answer": "interest-free", "supported": true, "evidence": {"page": 40, "quote": "Long — Term, 50 — Year Interest — Free Loans to State Governments"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "The loans support lasting assets that the States create", "problem": "not found in booklet text; the booklet says only that SASCI loans are for capital projects", "page": 40},
+    {"claim": "they are meant for the creation of capital projects that last over time", "problem": "not found in booklet text; 'capital projects that last' is not stated", "page": 40}
+   ]
+  },
+  {
+   "id": "q-x06-58",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 39, "quote": "States' Share remains at 41%, despite demands for 50%."}, "issues": []},
+    {"n": 2, "my_answer": 2, "supported": true, "evidence": {"page": 39, "quote": "Continued reliance on Cesses and Surcharges outside divisible pool Reduces Untied Fiscal Space for States."}, "issues": []},
+    {"n": 3, "my_answer": 1, "supported": true, "evidence": {"page": 39, "quote": "Retention of 41% Vertical Devolution enhances Centre — State Trust and ensures Greater Revenue Predictability for States."}, "issues": ["other: statement I of Q2 states the answer to this question"]},
+    {"n": 4, "my_answer": 3, "supported": true, "evidence": {"page": 41, "quote": "First K.C. Neogy 1951"}, "issues": []},
+    {"n": 5, "my_answer": 1, "supported": true, "evidence": {"page": 41, "quote": "First K.C. Neogy 1951"}, "issues": []},
+    {"n": 6, "my_answer": 3, "supported": true, "evidence": {"page": 39, "quote": "particularly in Southern States."}, "issues": []},
+    {"n": 7, "my_answer": 0, "supported": true, "evidence": {"page": 39, "quote": "Discontinuation of Revenue — Deficit Grants could adversely affect Hill and Special — category States facing Structural and Geographic Fiscal Disadvantages."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x06-59",
+   "questions": [
+    {"n": 1, "my_answer": "1951", "supported": true, "evidence": {"page": 41, "quote": "First K.C. Neogy 1951"}, "issues": []},
+    {"n": 2, "my_answer": "Eighth", "supported": true, "evidence": {"page": 41, "quote": "Eighth Y.B. Chavan 1982"}, "issues": []},
+    {"n": 3, "my_answer": "N.K. Singh", "supported": true, "evidence": {"page": 41, "quote": "Fifteenth N.K Singh"}, "issues": []},
+    {"n": 4, "my_answer": "50", "supported": true, "evidence": {"page": 39, "quote": "States' Share remains at 41%, despite demands for 50%."}, "issues": []},
+    {"n": 5, "my_answer": "41", "supported": true, "evidence": {"page": 38, "quote": "States' Share in Divisible Pool retained at 41%"}, "issues": []},
+    {"n": 6, "my_answer": "K.C. Neogy", "supported": true, "evidence": {"page": 41, "quote": "First K.C. Neogy 1951"}, "issues": []},
+    {"n": 7, "my_answer": "Southern", "supported": true, "evidence": {"page": 39, "quote": "particularly in Southern States."}, "issues": []}
+   ],
+   "passage_flags": []
+  }
+ ],
+ "fact_flags": []
+}

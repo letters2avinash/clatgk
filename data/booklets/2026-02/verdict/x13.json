@@ -1,0 +1,90 @@
+{
+ "quizzes": [
+  {
+   "id": "q-x13-88",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 85, "quote": "Developed By: Research Designs & Standards Organisation (Indian Railways)"}, "issues": []},
+    {"n": 2, "my_answer": 3, "supported": true, "evidence": {"page": 85, "quote": "Objective: Prevent Train Collisions, Avoid Signal Passing at Danger, Enhance Situational Awareness for Loco Pilots"}, "issues": []},
+    {"n": 3, "my_answer": 0, "supported": true, "evidence": {"page": 85, "quote": "Total Length: 33.7 km (Underwater Twin Tube Tunnel Length: 15.79 km)"}, "issues": []},
+    {"n": 4, "my_answer": 2, "supported": true, "evidence": {"page": 85, "quote": "Location: Under Brahmaputra River inAssam"}, "issues": []},
+    {"n": 5, "my_answer": 0, "supported": true, "evidence": {"page": 85, "quote": "Connects Gohpur (NH— 15) with Numaligarh (NH—715)"}, "issues": []},
+    {"n": 6, "my_answer": 3, "supported": true, "evidence": {"page": 85, "quote": "Enhance Situational Awareness for Loco Pilots"}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 85, "quote": "Objective: Prevent Train Collisions, Avoid Signal Passing at Danger"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "Both items are part of the same chapter heading, so a reader can see how a safety system and an infrastructure project are grouped under one topic. The booklet presents both items as part of its February 2026 coverage of transport.", "problem": "not found in booklet text: no transport or chapter heading appears above the Kavach and tunnel entries; the headings in the booklet text are DEFENCE, SPACE, SUMMITS, ORGANISATION and PLACES IN NEWS", "page": 85}
+   ]
+  },
+  {
+   "id": "t-x13-89",
+   "questions": [
+    {"n": 1, "my_answer": "2200", "supported": true, "evidence": {"page": 85, "quote": "deployed across over 2200 Route Kilometres in India"}, "issues": []},
+    {"n": 2, "my_answer": "33.7", "supported": true, "evidence": {"page": 85, "quote": "Total Length: 33.7 km (Underwater Twin Tube Tunnel Length: 15.79 km)"}, "issues": []},
+    {"n": 3, "my_answer": "15.79", "supported": true, "evidence": {"page": 85, "quote": "Total Length: 33.7 km (Underwater Twin Tube Tunnel Length: 15.79 km)"}, "issues": []},
+    {"n": 4, "my_answer": "RDSO", "supported": true, "evidence": {"page": 85, "quote": "Developed By: Research Designs & Standards Organisation (Indian Railways)"}, "issues": ["other: acronym RDSO is not printed in the booklet text; only its expansion appears"]},
+    {"n": 5, "my_answer": "715", "supported": true, "evidence": {"page": 85, "quote": "Connects Gohpur (NH— 15) with Numaligarh (NH—715)"}, "issues": []},
+    {"n": 6, "my_answer": "Brahmaputra", "supported": true, "evidence": {"page": 85, "quote": "Location: Under Brahmaputra River inAssam"}, "issues": []},
+    {"n": 7, "my_answer": "15", "supported": true, "evidence": {"page": 85, "quote": "Connects Gohpur (NH— 15) with Numaligarh (NH—715)"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "a rail safety system and a road-rail infrastructure project placed side by side under one topic", "problem": "not found in booklet text: no topic or chapter heading groups the Kavach and tunnel entries", "page": 85}
+   ]
+  },
+  {
+   "id": "q-x13-90",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 86, "quote": "Global CyberPeace Summit 2026 concluded in New Delhi, Organised by CyberPeace."}, "issues": []},
+    {"n": 2, "my_answer": 1, "supported": true, "evidence": {"page": 86, "quote": "Densest Planet after Earth."}, "issues": []},
+    {"n": 3, "my_answer": 2, "supported": true, "evidence": {"page": 86, "quote": "Established that Mercury has a Large, Iron— Rich Core."}, "issues": []},
+    {"n": 4, "my_answer": 3, "supported": true, "evidence": {"page": 86, "quote": "NASA's MESSENGER Data revealed Numerous Bright Streaks scattered across Mercury's Surface."}, "issues": []},
+    {"n": 5, "my_answer": 3, "supported": true, "evidence": {"page": 86, "quote": "Fastest Orbiting Planet around the Sun."}, "issues": []},
+    {"n": 6, "my_answer": 0, "supported": true, "evidence": {"page": 86, "quote": "Confirmed Presence of Water Ice in Permanently Shadowed Polar Craters"}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 86, "quote": "Natural Satellites: No Moons or Rings."}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "The summit entry is followed by a programme and two bodies, in the order given.", "problem": "contradicts booklet text: after the summit the booklet lists the Global Quantum Threat Alliance first, then the AI Scholarship Programme, then the CoE on Automotive Cybersecurity; the passage puts the programme first", "page": 86},
+    {"claim": "the section keeps the space and cyber items under one heading", "problem": "contradicts booklet text: the space items sit under the SPACE heading and the cyber items under a separate SUMMITS, INDICES AND REPO... heading", "page": 86}
+   ]
+  },
+  {
+   "id": "t-x13-91",
+   "questions": [
+    {"n": 1, "my_answer": "0", "supported": true, "evidence": {"page": 86, "quote": "Natural Satellites: No Moons or Rings."}, "issues": []},
+    {"n": 2, "my_answer": "EC Council", "supported": true, "evidence": {"page": 86, "quote": "Launched in partnership with EC Council, aimed at building Global Cyber and AI Talent."}, "issues": []},
+    {"n": 3, "my_answer": "New Delhi", "supported": true, "evidence": {"page": 86, "quote": "Global CyberPeace Summit 2026 concluded in New Delhi, Organised by CyberPeace."}, "issues": []},
+    {"n": 4, "my_answer": "Iron", "supported": true, "evidence": {"page": 86, "quote": "Established that Mercury has a Large, Iron— Rich Core."}, "issues": []},
+    {"n": 5, "my_answer": "Quantum Computing", "supported": true, "evidence": {"page": 86, "quote": "Global Quantum Threat Alliance: To address Future Cyber Risks arising from Quantum Computing."}, "issues": []},
+    {"n": 6, "my_answer": "Polar", "supported": true, "evidence": {"page": 86, "quote": "Confirmed Presence of Water Ice in Permanently Shadowed Polar Craters"}, "issues": []},
+    {"n": 7, "my_answer": "Earth", "supported": true, "evidence": {"page": 86, "quote": "Densest Planet after Earth."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "q-x13-92",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 87, "quote": "Established in 1986."}, "issues": []},
+    {"n": 2, "my_answer": 2, "supported": true, "evidence": {"page": 87, "quote": "HQ:New Delhi"}, "issues": []},
+    {"n": 3, "my_answer": 3, "supported": true, "evidence": {"page": 86, "quote": "Administrative Ministry: Ministry of Health & Family Welfare"}, "issues": []},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 86, "quote": "Pharmacopoeia serves as Legally Binding Compendium defining Standards for Identity, Purity, Strength and Quality of Medicines."}, "issues": []},
+    {"n": 5, "my_answer": 2, "supported": true, "evidence": {"page": 86, "quote": "Promotes Rational Use of Medicines"}, "issues": []},
+    {"n": 6, "my_answer": 1, "supported": true, "evidence": {"page": 86, "quote": "Indian Pharmacopoeia Commission signed 3 MoUs to strengthen Medicine Safety, Quality and Pharmacovigilance"}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 87, "quote": "Gaza's Rafah Crossing Partially reopened after two years, allowing Limited Movement and Humanitarian Access."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x13-93",
+   "questions": [
+    {"n": 1, "my_answer": "1986", "supported": true, "evidence": {"page": 87, "quote": "Established in 1986."}, "issues": []},
+    {"n": 2, "my_answer": "3", "supported": true, "evidence": {"page": 86, "quote": "Indian Pharmacopoeia Commission signed 3 MoUs to strengthen Medicine Safety, Quality and Pharmacovigilance"}, "issues": []},
+    {"n": 3, "my_answer": "Ghaziabad", "supported": true, "evidence": {"page": 86, "quote": "HQ: Ghaziabad (Uttar Pradesh)"}, "issues": []},
+    {"n": 4, "my_answer": "National Accreditation Board", "supported": true, "evidence": {"page": 87, "quote": "Acts as Secretariat to National Accreditation Board for implementing Certification of Export—related Bodies."}, "issues": []},
+    {"n": 5, "my_answer": "1985", "supported": true, "evidence": {"page": 87, "quote": "Type: Statutory Body (APEDA Act 1985)"}, "issues": []},
+    {"n": 6, "my_answer": "Health & Family Welfare", "supported": true, "evidence": {"page": 86, "quote": "Administrative Ministry: Ministry of Health & Family Welfare"}, "issues": []},
+    {"n": 7, "my_answer": "Lifeline", "supported": true, "evidence": {"page": 87, "quote": "Often referred to as Gaza's “Lifeline”."}, "issues": []}
+   ],
+   "passage_flags": []
+  }
+ ],
+ "fact_flags": []
+}
