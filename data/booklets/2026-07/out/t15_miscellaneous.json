@@ -1,0 +1,412 @@
+{
+ "topic": {
+  "title": "Miscellaneous",
+  "chapter_title": "Miscellaneous",
+  "subtopics": [
+   {
+    "title": "International Relations: Australia, Seychelles and the US",
+    "summary": "The Prime Minister's visit to Australia for the 3rd India-Australia Annual Leaders' Summit 2026 covered defence, nuclear supply, energy, cyber and sports cooperation. A State Visit to Seychelles, for its 50th National Day, produced digital payment, aid, health and legal agreements. The section also notes the 250th anniversary of US Independence celebrated on 4 July 2026.",
+    "facts": [
+     "3rd India-Australia Annual Leaders' Summit held in 2026",
+     "India-Australia bilateral trade reached about USD 50.2 billion in 2025",
+     "Renewed Joint Declaration on Defence and Security Cooperation replaced and expanded the 2009 Framework",
+     "Administrative arrangement under the 2014 Civil Nuclear Agreement enables regular supply of Australian uranium",
+     "Rooftop Solar Training Academy at PDEU Gandhinagar aims to train about 2000 women and youth",
+     "AustralianSuper announced an additional AUD 500 million for India's National Investment and Infrastructure Fund",
+     "Agreement between NPCI International Payments Limited and the Central Bank of Seychelles to facilitate UPI",
+     "India announced a US$175 million Special Economic Package and a Rupee-based Line of Credit worth 1,250 Crore for Seychelles"
+    ],
+    "keywords": ["India-Australia", "Leaders' Summit 2026", "Civil Nuclear Agreement", "Seychelles", "UPI", "US 250th anniversary"]
+   },
+   {
+    "title": "Cybersecurity and Supercomputing",
+    "summary": "The Kudankulam nuclear plant faced an alleged ransomware data leak by World Leaks, which renewed concern about the security of critical infrastructure. India's response bodies include CERT-In, I4C, NCIIPC and the National Cyber Forensic Laboratory, while the UN Convention Against Cybercrime is the new global legal instrument. The section also records China's LineShine taking the top spot in the TOP500 supercomputer ranking.",
+    "facts": [
+     "Kudankulam Nuclear Power Plant in Tamil Nadu is India's largest nuclear power station",
+     "The alleged data leak was claimed by World Leaks, a ransomware group",
+     "Kudankulam reactors are Pressurised Water Reactors developed by NPCIL (India) and Rosatom (Russia)",
+     "CERT-In was established in 2004 in New Delhi as the national nodal agency for cybersecurity incidents",
+     "I4C was established in 2018 under the Ministry of Home Affairs",
+     "NCIIPC was set up in 2014 in New Delhi to protect Critical Information Infrastructure",
+     "National Cyber Forensic Laboratory in Hyderabad gives early-stage forensic help to State/UT Police",
+     "UN Convention Against Cybercrime is the first universal legal instrument; it enters into force 90 days after 40 States ratify",
+     "India is not a signatory to the Budapest Convention on Cybercrime (2001), which took effect in 2004",
+     "China's LineShine tops TOP500 at about 2.19 exaflops, located at the National Supercomputing Center in Shenzhen"
+    ],
+    "keywords": ["Kudankulam", "World Leaks", "CERT-In", "I4C", "NCIIPC", "UN Cybercrime Convention", "TOP500", "LineShine"]
+   },
+   {
+    "title": "Polity, Law and Minorities",
+    "summary": "A Joint Parliamentary Committee flagged centralisation and autonomy concerns in the Viksit Bharat Shiksha Adhishthan Bill, which would create one apex regulator for higher education. The Delhi High Court laid down a structured Right to be Forgotten framework that balances privacy against open justice and freedom of expression. The National Commission for Minorities and the constitutional safeguards for minorities complete the section.",
+    "facts": [
+     "Viksit Bharat Shiksha Adhishthan Bill proposes an apex regulator to replace UGC, AICTE and NCTE",
+     "The proposed Commission works through three councils: Regulatory, Standards and Accreditation",
+     "Regulatory Council prescribes minimum standards for establishing HEIs; Standards Council frames learning outcomes",
+     "Bill excludes funding (grant allocation) from the Commission's mandate",
+     "Appeals are handled by the Central Government, not by an independent mechanism",
+     "Degrees may be awarded only by universities established under Central or State legislation",
+     "Delhi HC in Laksh Vir Singh Yadav vs Union of India (2026) laid down the Right to be Forgotten framework",
+     "Supreme Court in Puttaswamy (2017) recognised the Right to Privacy as a Fundamental Right under Article 21",
+     "NCM is a statutory body constituted on 17 May 1993; members serve a 3-year term; Jains were notified in 2014"
+    ],
+    "keywords": ["Viksit Bharat Shiksha Adhishthan", "Right to be Forgotten", "Puttaswamy", "National Commission for Minorities", "Article 350B", "Article 30"]
+   },
+   {
+    "title": "Economy and Statistics",
+    "summary": "The World Bank kept India in the Lower-Middle-Income group for FY2027, using Atlas GNI per capita thresholds that are updated every July. MoSPI's new monthly services production index measures real output of formal services against a base year, and in April 2026 most of its sub-sectors grew at double-digit rates. Inward FDI into India rose sharply in 2025, and Indian firms also raised their overseas investment.",
+    "facts": [
+     "World Bank FY2027 retained India as a Lower-Middle-Income economy, a status held since 2009",
+     "Classifications use Atlas GNI per capita and are updated every July 1",
+     "Atlas method averages exchange rates over several years to reduce short-term volatility",
+     "FY2027 thresholds: Low up to US$1,185; Lower-Middle US$1,186-4,695; Upper-Middle US$4,696-14,575; High above US$14,575",
+     "India's GNI per capita in 2025 was USD 2760",
+     "Since 1987, the share of low-income economies fell from nearly 30% to 11%",
+     "New services index covers 19 formal sub-sectors, nearly 60% of the services economy; base year 2024-25",
+     "In April 2026, 14 of 19 service sub-sectors recorded double-digit growth",
+     "India's FDI inflows rose 44% to USD 38.9 billion in 2025, making India the 11th largest FDI recipient",
+     "India's overseas FDI rose 47% to USD 35.7 billion in 2025, making India the 18th largest source of global FDI"
+    ],
+    "keywords": ["World Bank", "Atlas method", "Lower-Middle Income", "GNI per capita", "Services index", "FDI", "WIR 2026"]
+   },
+   {
+    "title": "History, Sports, Awards and Education",
+    "summary": "The section covers the American Revolution, from the 1765 Stamp Act to the 1783 Treaty of Paris, and the 4 July 1776 Declaration of Independence. It also covers the 2026 Commonwealth Games in Glasgow, the 60th Jnanpith Award and the PGI 2.0 school education grading framework.",
+    "facts": [
+     "Stamp Act 1765: Britain's first internal tax on American colonists, levied on printed paper",
+     "Boston Tea Party (1773): colonists dumped 342 chests of tea into Boston Harbor",
+     "Battles of Lexington and Concord (1775) marked the beginning of the American Revolutionary War",
+     "Declaration of Independence adopted on 4 July 1776, drafted mainly by Thomas Jefferson",
+     "Battle of Saratoga (1777) helped Benjamin Franklin secure a French military alliance",
+     "Treaty of Paris (1783) formally ended the Revolutionary War",
+     "23rd Commonwealth Games: Glasgow, 23 July to 2 August 2026, 74 nations and territories, 10 sports",
+     "India's contingent has 125 members including para-athletes; no teams in 3x3 Basketball or Netball",
+     "R. Vairamuthu selected for the 60th Jnanpith Award, the first Tamil poet to receive it",
+     "PGI 2.0 uses grade bands instead of rankings; Chandigarh was the first State/UT to enter Uttam-3 (766/1000)"
+    ],
+    "keywords": ["Stamp Act", "Boston Tea Party", "Saratoga", "Commonwealth Games 2026", "Jnanpith", "PGI 2.0"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Miscellaneous at a glance",
+   "root": {
+    "label": "Miscellaneous (July 2026)",
+    "children": [
+     {"label": "International relations", "children": [
+       {"label": "Australia summit: defence, nuclear, energy"},
+       {"label": "Seychelles: UPI, aid, extradition"},
+       {"label": "US 250th anniversary (4 July 2026)"}
+     ]},
+     {"label": "Cybersecurity and supercomputing", "children": [
+       {"label": "Kudankulam ransomware data leak"},
+       {"label": "CERT-In, I4C, NCIIPC"},
+       {"label": "LineShine tops TOP500"}
+     ]},
+     {"label": "Polity, law and minorities", "children": [
+       {"label": "VBSA Bill: single apex regulator"},
+       {"label": "Right to be Forgotten (Delhi HC)"},
+       {"label": "National Commission for Minorities"}
+     ]},
+     {"label": "Economy and statistics", "children": [
+       {"label": "World Bank: India Lower-Middle Income"},
+       {"label": "New monthly services index"},
+       {"label": "FDI inflows up 44% in 2025"}
+     ]},
+     {"label": "History, sports, awards, education", "children": [
+       {"label": "American Revolution (1775-1783)"},
+       {"label": "Glasgow 2026 Commonwealth Games"},
+       {"label": "60th Jnanpith to R. Vairamuthu"},
+       {"label": "PGI 2.0 school grading"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "International relations map",
+   "root": {
+    "label": "International relations",
+    "children": [
+     {"label": "Australia Leaders' Summit", "children": [
+       {"label": "Defence: renewed 2009 framework replaced"},
+       {"label": "Nuclear: uranium supply under 2014 deal"},
+       {"label": "Solar: Rooftop Solar Academy, Gandhinagar"}
+     ]},
+     {"label": "Seychelles State Visit", "children": [
+       {"label": "Payments: UPI via NPCI International"},
+       {"label": "Aid: US$175 million package"},
+       {"label": "Credit: Rupee line of credit 1,250 Crore"}
+     ]},
+     {"label": "US Independence 250th", "children": [
+       {"label": "Celebrated on 4 July 2026"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Cybersecurity and supercomputing map",
+   "root": {
+    "label": "Cybersecurity and supercomputing",
+    "children": [
+     {"label": "Kudankulam attack", "children": [
+       {"label": "World Leaks ransomware group"},
+       {"label": "Largest Indian nuclear power station"},
+       {"label": "PWRs by NPCIL and Rosatom"}
+     ]},
+     {"label": "Cyber bodies", "children": [
+       {"label": "CERT-In (2004, New Delhi)"},
+       {"label": "I4C (2018, Ministry of Home Affairs)"},
+       {"label": "NCIIPC (2014, New Delhi)"}
+     ]},
+     {"label": "Supercomputing", "children": [
+       {"label": "LineShine tops TOP500"},
+       {"label": "About 2.19 exaflops, Shenzhen"},
+       {"label": "TOP500 published biannually since 1993"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Polity, law and minorities map",
+   "root": {
+    "label": "Polity, law and minorities",
+    "children": [
+     {"label": "VBSA Bill", "children": [
+       {"label": "Single apex regulator"},
+       {"label": "Three councils: Regulatory, Standards, Accreditation"},
+       {"label": "Funding excluded from mandate"},
+       {"label": "Appeals with Central Government"}
+     ]},
+     {"label": "Right to be Forgotten", "children": [
+       {"label": "Delhi HC framework, 2026"},
+       {"label": "Privacy balanced against public interest"},
+       {"label": "Puttaswamy (2017): privacy under Article 21"}
+     ]},
+     {"label": "Minorities", "children": [
+       {"label": "NCM: statutory, constituted 17 May 1993"},
+       {"label": "Article 30: minority institutions"},
+       {"label": "Article 350B: Special Officer"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Economy and statistics map",
+   "root": {
+    "label": "Economy and statistics",
+    "children": [
+     {"label": "World Bank classification", "children": [
+       {"label": "India: Lower-Middle Income since 2009"},
+       {"label": "Atlas GNI per capita, updated each July"},
+       {"label": "India GNI per capita USD 2760 (2025)"}
+     ]},
+     {"label": "Services index", "children": [
+       {"label": "MoSPI, 19 formal sub-sectors"},
+       {"label": "Base year 2024-25"},
+       {"label": "14 of 19 double-digit in April 2026"}
+     ]},
+     {"label": "Investment", "children": [
+       {"label": "Inward FDI USD 38.9 billion (2025)"},
+       {"label": "Overseas FDI USD 35.7 billion (2025)"},
+       {"label": "India 11th largest FDI recipient"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "History, sports, awards and education map",
+   "root": {
+    "label": "History, sports, awards, education",
+    "children": [
+     {"label": "American Revolution", "children": [
+       {"label": "Stamp Act 1765"},
+       {"label": "Boston Tea Party 1773"},
+       {"label": "Treaty of Paris 1783"}
+     ]},
+     {"label": "Commonwealth Games 2026", "children": [
+       {"label": "Glasgow, 23 July to 2 August"},
+       {"label": "74 nations and territories"},
+       {"label": "India: 125-member contingent"}
+     ]},
+     {"label": "Awards and education", "children": [
+       {"label": "60th Jnanpith: R. Vairamuthu"},
+       {"label": "PGI 2.0: grade bands, not ranks"},
+       {"label": "Chandigarh: Uttam-3 (766/1000)"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "India-Australia summit pillars",
+   "mnemonic": "DENSE",
+   "decode": [
+    {"key": "D", "meaning": "Defence and security cooperation (renewed Joint Declaration)"},
+    {"key": "E", "meaning": "Energy security (Joint Statement on Energy Security)"},
+    {"key": "N", "meaning": "Nuclear supply of Australian uranium under the Civil Nuclear Agreement"},
+    {"key": "S", "meaning": "Space support for India's Gaganyaan Mission"},
+    {"key": "E", "meaning": "Education (approval of Flinders and Victoria University campuses)"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Three councils of the proposed regulator",
+   "mnemonic": "Regulate, Set, Accredit (RSA)",
+   "decode": [
+    {"key": "R", "meaning": "Regulatory Council prescribes minimum standards for establishing HEIs"},
+    {"key": "S", "meaning": "Standards Council frames learning outcomes for HE programmes"},
+    {"key": "A", "meaning": "Accreditation Council develops accreditation norms and frameworks"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "World Bank income groups",
+   "mnemonic": "Lazy Monkeys Use Hammers",
+   "decode": [
+    {"key": "L", "meaning": "Low income: up to US$1,185 (FY2027)"},
+    {"key": "M", "meaning": "Lower-Middle income: US$1,186 to 4,695"},
+    {"key": "U", "meaning": "Upper-Middle income: US$4,696 to 14,575"},
+    {"key": "H", "meaning": "High income: above US$14,575"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 2,
+   "title": "Polity, law and minorities: MCQ practice",
+   "passage": "India's proposed higher education law would create a single apex body called Viksit Bharat Shiksha Adhishthan. It is designed to take over functions now spread across several existing bodies that oversee colleges and universities. A commission would sit at the top and be headed by a chairperson appointed by the Central Government. Beneath it, three specialised councils would each handle a separate function. A Joint Parliamentary Committee has flagged concerns that the model concentrates too much power in one authority. Critics note that appeals would be handled by the government itself rather than by an independent body, and that the grounds for removing members are vague. The Delhi High Court has laid down a structured framework for the Right to be Forgotten, in a case titled Laksh Vir Singh Yadav vs Union of India in 2026. Under it, individuals may seek removal, masking or de-indexing of personal information when its continued availability becomes unnecessary, disproportionate or harmful. The framework seeks to protect privacy and dignity while ensuring that legitimate public interest is not compromised. Another statutory body, the National Commission for Minorities, safeguards the interests and rights of notified minority communities. The Central Government nominates its members, and the Constitution itself protects the cultural and educational rights of minorities through several articles.",
+   "questions": [
+    {
+     "q": "Which council of the proposed Viksit Bharat Shiksha Adhishthan prescribes minimum standards for establishing higher education institutions?",
+     "options": ["Regulatory Council", "Standards Council", "Accreditation Council", "Commission"],
+     "answer": 0,
+     "explanation": "The Regulatory Council prescribes minimum standards for establishing Higher Education Institutions, while the Standards Council frames learning outcomes."
+    },
+    {
+     "q": "How many members does each council of the proposed Viksit Bharat Shiksha Adhishthan have?",
+     "options": ["10", "12", "14", "16"],
+     "answer": 2,
+     "explanation": "Each Council will consist of 14 members led by a President."
+    },
+    {
+     "q": "To whom does the Special Officer for Linguistic Minorities, under Article 350B, report directly?",
+     "options": ["Prime Minister", "President", "Chief Justice of India", "Speaker of the Lok Sabha"],
+     "answer": 1,
+     "explanation": "Article 350B establishes a Special Officer for linguistic minorities who reports directly to the President."
+    },
+    {
+     "q": "Assertion (A): Medical and legal education would fall under the regulatory reach of the proposed apex regulator.\nReason (R): Professional disciplines such as Medicine and Law remain outside its jurisdiction.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 3,
+     "explanation": "Professional disciplines such as Medicine and Law remain outside the proposed regulator's jurisdiction, so A is false while R is true."
+    },
+    {
+     "q": "Match List I with List II:\nI. Article 29   ->   A. Protection of cultural identity\nII. Article 350A   ->   B. Primary education in mother tongue\nIII. Article 30   ->   C. Right to establish and administer educational institutions\nIV. Article 350B   ->   D. Special Officer for linguistic minorities",
+     "options": ["I-A, II-B, III-C, IV-D", "I-B, II-A, III-D, IV-C", "I-A, II-C, III-B, IV-D", "I-D, II-B, III-A, IV-C"],
+     "answer": 0,
+     "explanation": "Article 29 protects cultural identity, Article 350A mother-tongue education, Article 30 minority educational institutions and Article 350B the Special Officer."
+    },
+    {
+     "q": "Consider the following statements about the proposed higher education regulator and the Right to be Forgotten:\nI. The Standards Council frames learning outcomes for higher education programmes.\nII. Degrees may be awarded by any university set up by a private trust.\nIII. The Right to Erasure under Article 17 of the GDPR was codified after the Google Spain judgment.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "I and III only", "II and III only", "I, II and III"],
+     "answer": 1,
+     "explanation": "Statement II is incorrect because degrees may be awarded only by universities established under Central or State legislation, while I and III are supported by the text."
+    },
+    {
+     "q": "How many of the following statements about the National Commission for Minorities are correct?\nI. It was constituted on 17 May 1993.\nII. Its members are nominated by the Central Government.\nIII. Jains were notified as a minority community in 1993.\nIV. Its members serve a tenure of five years.",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statements III and IV are incorrect because Jains were notified in 2014 and the tenure is three years, so only statements I and II are correct."
+    },
+    {
+     "q": "In which year did the Supreme Court recognise the Right to Privacy as a Fundamental Right under Article 21 in the Puttaswamy case?",
+     "options": ["2009", "2014", "2016", "2017"],
+     "answer": 3,
+     "explanation": "The Puttaswamy judgment of 2017 recognised the Right to Privacy as a Fundamental Right under Article 21."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "Economy and statistics: typed answer recall",
+   "passage": "The World Bank sorts economies into four income groups using Atlas gross national income per capita, and it revises the cut-off values every year to account for global inflation. Classifications are updated every July 1, so a country can move between groups as its economy grows or its figures are revised. The Atlas method averages exchange rates over several years, which softens the impact of short-term currency swings. India's own statistics are also being tracked more closely. The statistics ministry has launched a new monthly index that measures the real output of the formal services sector against a base year. It is the services counterpart of the index of industrial production and covers formal service sub-sectors that account for a large share of the services economy. Data for April 2026 showed that most of these sub-sectors grew at double-digit rates. Investment flows also moved sharply. A UN agency report said that India's foreign direct investment inflows rose markedly in 2025, lifting India up the global rankings, even as worldwide flows stayed uneven. Indian companies also increased their overseas investment during the same year.",
+   "questions": [
+    {
+     "q": "How many formal service sub-sectors does India's new monthly services index cover? (give a number)",
+     "answer": "19",
+     "accept": ["nineteen"],
+     "explanation": "The index covers 19 formal service sub-sectors, nearly 60% of the services economy."
+    },
+    {
+     "q": "In how many of the covered sub-sectors did growth reach double digits in April 2026? (give a number)",
+     "answer": "14",
+     "accept": ["fourteen"],
+     "explanation": "14 of 19 service sub-sectors recorded double-digit growth in April 2026."
+    },
+    {
+     "q": "What is the base year of the new services production index? (give the financial year)",
+     "answer": "2024-25",
+     "accept": ["2024–25", "2024/25", "2024 25"],
+     "explanation": "The index uses 2024-25 as its base year and was developed by the Ministry of Statistics and Programme Implementation."
+    },
+    {
+     "q": "India's GNI per capita in 2025 was how many US dollars? (give the number, in US dollars)",
+     "answer": "2760",
+     "accept": ["2,760", "USD 2760", "USD 2,760", "$2760", "$2,760"],
+     "explanation": "India's GNI per capita for 2025 was USD 2760, placing it in the Lower-Middle-Income category."
+    },
+    {
+     "q": "By how many per cent did India's FDI inflows rise in 2025? (in per cent)",
+     "answer": "44",
+     "accept": ["44%", "44 per cent", "44 percent"],
+     "explanation": "India received USD 38.9 billion in FDI inflows in 2025, a 44 per cent increase over 2024."
+    },
+    {
+     "q": "After the 2025 rise, what was India's rank among global FDI recipients? (give the ordinal number)",
+     "answer": "11",
+     "accept": ["11th", "eleventh", "11th largest"],
+     "explanation": "India became the 11th largest FDI recipient globally, moving up 2 places."
+    },
+    {
+     "q": "Since which year has India been classified as a Lower-Middle-Income economy by the World Bank? (give the year)",
+     "answer": "2009",
+     "accept": ["2009 "],
+     "explanation": "India has held the Lower-Middle-Income status since 2009, when it moved out of the Low-Income category."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 79, "what": "Seychelles 'Guardian of Blue Horizon' sentence has conflicting wording on whose highest civilian distinction was conferred; not used"},
+  {"page": 80, "what": "Kudankulam attack: contractor wording (Reliance Infrastructure, Units 3 and 4) and which party detected the suspicious activity (Yotta Data Services) are overlapped by layout; not used"},
+  {"page": 83, "what": "Railway Transport growth figure in the Declining Sectors box (0.4% and its sign) is garbled; not used"},
+  {"page": 84, "what": "National Supercomputing Mission implementing agency wording (C-DAC and IISc Bengaluru) is garbled; not used"},
+  {"page": 85, "what": "Article 347 number and heading are garbled (only the description is readable); not used"},
+  {"page": 87, "what": "Rana Group UAE automobile project line is cut off, and the GM domain name and TE&T indicator split in the PGI table are garbled; not used"},
+  {"page": 88, "what": "Monarch named for the 2026 Commonwealth Games reads 'Charles II' and may be garbled; not used"},
+  {"page": 88, "what": "India Commonwealth Games sidebar overlaps (participation year and medal count); not used"}
+ ]
+}

@@ -1,0 +1,445 @@
+{
+ "topic": {
+  "title": "16th India-Japan Annual Summit 2026",
+  "chapter_title": "Summits, Reports, Indices",
+  "subtopics": [
+   {
+    "title": "Summit Outcomes",
+    "summary": "The 16th India-Japan Annual Summit was held in New Delhi during the first official India visit of Japan's Prime Minister Sanae Takaichi, from July 1 to 3, 2026. The summit produced outcomes in defence, economic security, energy, artificial intelligence, trade and disaster risk reduction. Some outcomes launch new programmes, while others are agreements to convene further meetings or to review existing arrangements.",
+    "facts": [
+     "16th India-Japan Annual Summit held in New Delhi; Japan PM Sanae Takaichi's first official India visit, July 1-3, 2026",
+     "Defence: agreement in principle on remaining technical aspects of UNICORN (Unified Complex Radio Antenna), the first Defence Co-Development Programme between the two countries",
+     "4th India-Japan 2+2 Ministerial Meeting to be convened later in 2026",
+     "Joint Declaration on Economic Security Cooperation adopted",
+     "Priority areas: semiconductors, critical minerals, ICT, pharmaceuticals, clean energy technologies",
+     "Cooperative Biogas for Growth Initiative launched; Japan supports India's objective of 1,000 Biogas and Organic Fertiliser Plants",
+     "AI Strategic Dialogue launched; Joint Statement on Artificial Intelligence Cooperation adopted",
+     "Trade: accelerate review of CEPA; work towards a target of ¥10 Trillion in Japanese investment in India",
+     "Memorandum of Cooperation signed supporting a USD 10 Billion investment package",
+     "Japan supports India hosting the 4th UN World Conference on Disaster Risk Reduction in 2030; carries forward the Sendai Framework 2015-2030"
+    ],
+    "keywords": ["UNICORN", "2+2 Ministerial Meeting", "Economic Security", "Biogas for Growth", "AI Strategic Dialogue", "CEPA", "Sendai Framework"]
+   },
+   {
+    "title": "India-Japan Partnership Beyond the Summit",
+    "summary": "Japan's support for Subhas Chandra Bose's Azad Hind Fauj, formed to fight colonial rule, is a historical link in the relationship. Japan is India's largest official development assistance donor and its fifth largest investor. The partnership also covers joint military exercises, a lunar space mission and several global initiatives.",
+    "facts": [
+     "Subhas Chandra Bose established Azad Hind Fauj (Indian National Army) with Japanese support to fight colonial rule",
+     "Bilateral trade in 2025-26: $27.48 billion",
+     "Japan is the 5th largest investor in India (FDI)",
+     "Japan is India's largest Official Development Assistance donor since 1958",
+     "Joint exercises: Malabar (naval, with US and Australia), Milan (multilateral naval), JIMEX (navy), Dharma Guardian (army), SHINYUU Maitri (air force)",
+     "Space: Lunar Polar Exploration Mission (LUPEX), also called Chandrayaan-5",
+     "Global programmes: International Solar Alliance; Coalition for Disaster Resilient Infrastructure; LeadIT; India-Japan-Australia Supply Chain Resilience Initiative",
+     "Frameworks listed under Skill-Up: Indo-Pacific Oceans Initiative, SAGAR, MAHASAGAR, QUAD, ASEAN, BIMSTEC, UNCLOS, G4 for UNSC Reform"
+    ],
+    "keywords": ["Azad Hind Fauj", "Malabar", "JIMEX", "LUPEX", "ODA", "FDI", "Chandrayaan-5"]
+   },
+   {
+    "title": "Mumbai-Ahmedabad High-Speed Rail Corridor",
+    "summary": "The Mumbai-Ahmedabad High-Speed Rail is a flagship India-Japan project that uses Shinkansen technology and forms part of India's National Rail Plan 2030. The corridor runs from Mumbai in Maharashtra to Ahmedabad in Gujarat and also passes through Dadra and Nagar Haveli. Japan finances most of the cost through a JICA loan and will supply Shinkansen train sets for the line.",
+    "facts": [
+     "Route: Mumbai (Maharashtra) to Ahmedabad (Gujarat); length 508.17 km",
+     "Length split: 348 km in Gujarat, 156 km in Maharashtra, 4 km in Dadra & Nagar Haveli",
+     "Stations: 8 in Gujarat and 4 in Maharashtra",
+     "Technology: Shinkansen; part of India's National Rail Plan 2030",
+     "Japan will provide India with 3 Shinkansen train sets, including the E10 and E3 series",
+     "India to become the 1st country outside Japan to adopt the E10 Shinkansen high-speed train, designed by JR East (Japan)",
+     "Funding: over 80% financed by Japan (JICA loan) at 0.1% interest, repayable in 50 years",
+     "Implemented by National High-Speed Rail Corporation Limited",
+     "Deadlines: Surat-Bilimora stretch by 2026; full corridor by 2028"
+    ],
+    "keywords": ["Shinkansen", "E10", "JICA loan", "National Rail Plan 2030", "Surat-Bilimora", "National High-Speed Rail Corporation Limited"]
+   },
+   {
+    "title": "Green Hydrogen and the National Green Hydrogen Mission",
+    "summary": "Hydrogen is the most common element in nature but exists only in combination with other elements, so it must be extracted from compounds such as water. Green hydrogen is made by splitting water through electrolysis using an electrolyser powered by renewable energy, and the booklet says it is not commercially viable at present. The National Green Hydrogen Mission, with the Ministry of New and Renewable Energy as nodal ministry, aims to decarbonise sectors and build domestic manufacturing.",
+    "facts": [
+     "Hydrogen is the most common element in nature but exists only in combination with other elements",
+     "Hydrogen has to be extracted from naturally occurring compounds such as water",
+     "Green hydrogen: water is split by electrolysis using an electrolyser powered by renewable energy",
+     "Green hydrogen is not commercially viable at present",
+     "Nodal ministry: Ministry of New and Renewable Energy",
+     "Objectives: decarbonise energy, industrial and mobility sectors; develop indigenous manufacturing; create export opportunities for green hydrogen and its derivatives",
+     "SIGHT: Strategic Interventions for Green Hydrogen Transition Programme",
+     "SHIP: Strategic Hydrogen Innovation Partnership (PPP for R&D)",
+     "Expected by 2030: Rs 1 lakh crore in fossil fuel import savings"
+    ],
+    "keywords": ["Electrolysis", "Electrolyser", "SIGHT", "SHIP", "NGHM"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "India-Japan Annual Summit 2026",
+   "root": {
+    "label": "India-Japan Annual Summit 2026",
+    "children": [
+     {
+      "label": "Defence and Security",
+      "children": [
+       {"label": "UNICORN: agreement in principle on technical aspects", "children": []},
+       {"label": "First Defence Co-Development Programme", "children": []},
+       {"label": "4th 2+2 Ministerial Meeting later in 2026", "children": []}
+      ]
+     },
+     {
+      "label": "Economic Security",
+      "children": [
+       {"label": "Joint Declaration on Economic Security Cooperation", "children": []},
+       {"label": "Priority: semiconductors, critical minerals, ICT", "children": []},
+       {"label": "Priority: pharmaceuticals, clean energy technologies", "children": []}
+      ]
+     },
+     {
+      "label": "Energy Security",
+      "children": [
+       {"label": "Cooperative Biogas for Growth Initiative", "children": []},
+       {"label": "Support for 1,000 biogas and fertiliser plants", "children": []}
+      ]
+     },
+     {
+      "label": "AI and Emerging Technologies",
+      "children": [
+       {"label": "AI Strategic Dialogue launched", "children": []},
+       {"label": "Joint Statement on AI Cooperation adopted", "children": []}
+      ]
+     },
+     {
+      "label": "Trade and Investment",
+      "children": [
+       {"label": "Accelerate CEPA review", "children": []},
+       {"label": "Japanese investment target: ¥10 Trillion", "children": []},
+       {"label": "Memorandum supporting USD 10 Billion package", "children": []}
+      ]
+     },
+     {
+      "label": "Disaster Risk Reduction",
+      "children": [
+       {"label": "Japan supports India hosting 4th UN conference", "children": []},
+       {"label": "Conference year: 2030", "children": []},
+       {"label": "Carries forward Sendai Framework 2015-2030", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Summit Outcomes Map",
+   "root": {
+    "label": "Summit outcomes",
+    "children": [
+     {
+      "label": "Defence: UNICORN project",
+      "children": [
+       {"label": "Technical aspects agreed in principle", "children": []},
+       {"label": "First Defence Co-Development Programme", "children": []}
+      ]
+     },
+     {
+      "label": "Economic security",
+      "children": [
+       {"label": "Joint Declaration adopted", "children": []},
+       {"label": "Five priority areas", "children": []}
+      ]
+     },
+     {
+      "label": "Energy and AI",
+      "children": [
+       {"label": "Biogas for Growth launched", "children": []},
+       {"label": "AI Strategic Dialogue launched", "children": []}
+      ]
+     },
+     {
+      "label": "Trade and disaster risk",
+      "children": [
+       {"label": "CEPA review to be accelerated", "children": []},
+       {"label": "UN conference support, 2030", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Partnership Map",
+   "root": {
+    "label": "India-Japan partnership",
+    "children": [
+     {
+      "label": "History and trade",
+      "children": [
+       {"label": "Azad Hind Fauj with Japanese support", "children": []},
+       {"label": "Bilateral trade 2025-26: $27.48 billion", "children": []}
+      ]
+     },
+     {
+      "label": "Aid and investment",
+      "children": [
+       {"label": "Largest ODA donor since 1958", "children": []},
+       {"label": "5th largest investor (FDI)", "children": []}
+      ]
+     },
+     {
+      "label": "Defence and space",
+      "children": [
+       {"label": "Five joint exercises", "children": []},
+       {"label": "LUPEX (Chandrayaan-5)", "children": []}
+      ]
+     },
+     {
+      "label": "Global programmes",
+      "children": [
+       {"label": "International Solar Alliance", "children": []},
+       {"label": "Supply Chain Resilience Initiative", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Rail Corridor Map",
+   "root": {
+    "label": "Mumbai-Ahmedabad High-Speed Rail",
+    "children": [
+     {
+      "label": "Route and length",
+      "children": [
+       {"label": "Mumbai (Maharashtra) to Ahmedabad (Gujarat)", "children": []},
+       {"label": "508.17 km total", "children": []},
+       {"label": "Gujarat 348 km; Maharashtra 156 km", "children": []},
+       {"label": "Dadra & Nagar Haveli 4 km", "children": []}
+      ]
+     },
+     {
+      "label": "Technology and trains",
+      "children": [
+       {"label": "Shinkansen technology", "children": []},
+       {"label": "3 Shinkansen train sets from Japan", "children": []},
+       {"label": "E10: first outside Japan for India", "children": []}
+      ]
+     },
+     {
+      "label": "Funding",
+      "children": [
+       {"label": "JICA loan over 80%", "children": []},
+       {"label": "0.1% interest", "children": []},
+       {"label": "Repayable in 50 years", "children": []}
+      ]
+     },
+     {
+      "label": "Deadlines",
+      "children": [
+       {"label": "Surat-Bilimora stretch by 2026", "children": []},
+       {"label": "Full corridor by 2028", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Green Hydrogen Map",
+   "root": {
+    "label": "Green hydrogen",
+    "children": [
+     {
+      "label": "Production",
+      "children": [
+       {"label": "Electrolysis of water", "children": []},
+       {"label": "Electrolyser powered by renewable energy", "children": []}
+      ]
+     },
+     {
+      "label": "Mission objectives",
+      "children": [
+       {"label": "Decarbonise energy, industry, mobility", "children": []},
+       {"label": "Build indigenous manufacturing", "children": []},
+       {"label": "Export opportunities for GH2 and derivatives", "children": []}
+      ]
+     },
+     {
+      "label": "Programmes",
+      "children": [
+       {"label": "SIGHT: transition programme", "children": []},
+       {"label": "SHIP: PPP for R&D", "children": []}
+      ]
+     },
+     {
+      "label": "Status",
+      "children": [
+       {"label": "Not commercially viable at present", "children": []},
+       {"label": "Rs 1 lakh crore fossil fuel import savings", "children": []}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Economic Security Priority Areas",
+   "mnemonic": "Silly Cats Invent Pills Cleverly",
+   "decode": [
+    {"key": "Silly", "meaning": "Semiconductors"},
+    {"key": "Cats", "meaning": "Critical minerals"},
+    {"key": "Invent", "meaning": "Information and Communication Technologies"},
+    {"key": "Pills", "meaning": "Pharmaceuticals"},
+    {"key": "Cleverly", "meaning": "Clean energy technologies"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Rail Funding Terms",
+   "mnemonic": "Eighty at a tenth, fifty years to pay",
+   "decode": [
+    {"key": "Eighty", "meaning": "Over 80% of the project financed by Japan through a JICA loan"},
+    {"key": "a tenth", "meaning": "0.1% interest rate"},
+    {"key": "fifty years", "meaning": "Loan repayable in 50 years"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Green Hydrogen Programmes",
+   "mnemonic": "SIGHT the transition, SHIP the innovation",
+   "decode": [
+    {"key": "SIGHT", "meaning": "Strategic Interventions for Green Hydrogen Transition Programme"},
+    {"key": "SHIP", "meaning": "Strategic Hydrogen Innovation Partnership, a PPP for R&D"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Summit Outcomes Test",
+   "passage": "In July 2026, India and Japan held their 16th Annual Summit in New Delhi. The meeting came during the first official visit to India by Japan's Prime Minister, Sanae Takaichi, and it gave both governments a chance to review several areas of partnership at once. On defence, the two sides advanced a project connected with radio antenna technology and reached an agreement in principle on its remaining technical aspects. Leaders also decided to hold another high-level security dialogue later in the year, one that brings together senior ministers from both countries. On the economic front, the summit focused on secure and resilient supply chains. The two governments adopted a joint declaration covering strategic sectors, and they launched a cooperative programme linked to biogas and organic fertiliser, which fits India's wider energy goals. Trade and investment were also central to the talks. The two countries agreed to speed up the review of an existing trade pact, and they signed a memorandum that supports a major investment package. Finally, Japan offered support for India's plans to host a major United Nations conference on disaster risk reduction. This support builds on an earlier international framework that guides how countries prepare for natural hazards. Taken together, these outcomes show how the partnership now covers several sectors at once.",
+   "questions": [
+    {
+     "q": "What investment target for Japan in India was mentioned in the summit outcomes?",
+     "options": ["¥10 Trillion", "¥5 Trillion", "¥15 Trillion", "¥20 Trillion"],
+     "answer": 0,
+     "explanation": "The booklet says the summit worked towards a target of ¥10 Trillion in Japanese investment in India."
+    },
+    {
+     "q": "The India-Japan Cooperative Biogas for Growth Initiative supports India's objective of establishing how many Biogas and Organic Fertiliser Plants?",
+     "options": ["500", "750", "2,000", "1,000"],
+     "answer": 3,
+     "explanation": "The booklet states that Japan supports India's objective of establishing 1,000 Biogas and Organic Fertiliser Plants."
+    },
+    {
+     "q": "In which year is India to host the 4th UN World Conference on Disaster Risk Reduction, for which Japan extended support?",
+     "options": ["2025", "2027", "2030", "2035"],
+     "answer": 2,
+     "explanation": "The booklet links Japan's support for India's hosting of the 4th UN World Conference on Disaster Risk Reduction to 2030."
+    },
+    {
+     "q": "Assertion (A): The India-Japan 2+2 Ministerial Meeting will be held at the level of foreign ministers alone.\nReason (R): The India-Japan 2+2 Dialogue is conducted at the level of defence and foreign ministers.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 3,
+     "explanation": "The booklet places the 2+2 dialogue at Defence and Foreign Minister level, so A is false and R is true."
+    },
+    {
+     "q": "Match List I with List II:\nI. Joint Declaration on Economic Security Cooperation   ->   A. Economic Security and Resilient Supply Chains\nII. Cooperative Biogas for Growth Initiative   ->   B. Energy Security and Clean Energy Partnership\nIII. Joint Statement on Artificial Intelligence Cooperation   ->   C. Artificial Intelligence and Emerging Technologies\nIV. UNICORN project   ->   D. Defence and Security Cooperation",
+     "options": ["I-B, II-A, III-C, IV-D", "I-A, II-B, III-C, IV-D", "I-C, II-B, III-A, IV-D", "I-A, II-C, III-B, IV-D"],
+     "answer": 1,
+     "explanation": "Each item is listed under the summit heading that matches its subject: economic security, energy security, AI and defence and security."
+    },
+    {
+     "q": "How many of the following statements about the summit outcomes are correct?\nI. The Cooperative Biogas for Growth Initiative targets 2,000 plants.\nII. India and Japan adopted a Joint Statement on Artificial Intelligence Cooperation.\nIII. The target for Japanese investment in India is ¥5 Trillion.",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 0,
+     "explanation": "Only statement II is correct, since the biogas target is 1,000 plants and the investment target is ¥10 Trillion."
+    },
+    {
+     "q": "Consider the following statements about the Joint Declaration on Economic Security Cooperation:\nI. Pharmaceuticals is one of its priority areas.\nII. Defence manufacturing is one of its priority areas.\nIII. Clean energy technologies is one of its priority areas.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 2,
+     "explanation": "The priority areas are semiconductors, critical minerals, ICT, pharmaceuticals and clean energy technologies, so defence manufacturing is not listed."
+    },
+    {
+     "q": "What is the significance of the UNICORN project in India-Japan relations?",
+     "options": ["First joint space mission between India and Japan", "First Defence Co-Development Programme between India and Japan", "First bilateral maritime patrol agreement", "First joint artificial intelligence research initiative"],
+     "answer": 1,
+     "explanation": "The booklet states that UNICORN marks the first Defence Co-Development Programme between the two countries."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "Rail Corridor Facts",
+   "passage": "The Mumbai-Ahmedabad High-Speed Rail Corridor is a project between India and Japan. It links a city in Maharashtra with a city in Gujarat. The project draws on Shinkansen technology, and it forms part of India's National Rail Plan. The route passes through Gujarat, Maharashtra and Dadra and Nagar Haveli. Japan will supply train sets for the line, and their design reflects a partnership with a UK-based design firm. Financing has come largely from Japan through a JICA loan that carries a very low interest rate. The implementing body is the National High-Speed Rail Corporation Limited. One stretch, between Surat and Bilimora, is scheduled to be completed before the rest of the corridor. India is expected to be the first country outside Japan to adopt one of the Shinkansen models that Japan will supply. The stations are located in both Gujarat and Maharashtra. The project is described as a flagship in the partnership between India and Japan. The completion of the entire corridor is scheduled for a later date than the Surat-Bilimora stretch. Taken together, the route, funding and train details show how the project combines Japanese technology with Indian infrastructure goals. The booklet gives several figures for distances, funding and timelines. Each of these points is drawn directly from the booklet's account of the project.",
+   "questions": [
+    {
+     "q": "What is the total length of the Mumbai-Ahmedabad High-Speed Rail Corridor? (in km)",
+     "answer": "508.17",
+     "accept": ["508.17 km", "508.17 kilometres"],
+     "explanation": "The booklet gives the corridor length as 508.17 km."
+    },
+    {
+     "q": "How many stations does the corridor have in Gujarat? (number)",
+     "answer": "8",
+     "accept": ["eight"],
+     "explanation": "The booklet lists 8 stations in Gujarat and 4 in Maharashtra."
+    },
+    {
+     "q": "Which Japanese company designed the E10 Shinkansen train that India is to adopt? (name)",
+     "answer": "JR East",
+     "accept": ["JR East (Japan)", "JR East Japan"],
+     "explanation": "The booklet states that the E10 was designed by JR East (Japan) in collaboration with a UK-based design firm."
+    },
+    {
+     "q": "Japan's JICA loan finances more than what percentage of the project? (number, in per cent)",
+     "answer": "80",
+     "accept": ["80%", "80 per cent", "eighty"],
+     "explanation": "The booklet states that over 80% of the project is financed by Japan through a JICA loan."
+    },
+    {
+     "q": "For how many years is the JICA loan repayable? (number)",
+     "answer": "50",
+     "accept": ["fifty", "50 years"],
+     "explanation": "The booklet states the JICA loan carries 0.1% interest and is repayable in 50 years."
+    },
+    {
+     "q": "How many Shinkansen train sets will Japan provide to India? (number)",
+     "answer": "3",
+     "accept": ["three", "3 sets"],
+     "explanation": "The booklet says Japan will provide India with 3 Shinkansen train sets."
+    },
+    {
+     "q": "By which year is the full Mumbai-Ahmedabad corridor to be completed? (year)",
+     "answer": "2028",
+     "accept": ["the year 2028"],
+     "explanation": "The booklet sets the deadline for the full corridor as 2028, while the Surat-Bilimora stretch is due by 2026."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 50, "what": "Second Shinkansen series name is garbled ('ES' or E5); only the E10 and E3 series are used"},
+  {"page": 50, "what": "Name of the UK-based design firm for the E10 is garbled ('Tangerin'); not used"},
+  {"page": 50, "what": "Year '(2016)' next to National High-Speed Rail Corporation Limited is unclear in meaning (formation or other event); not used"},
+  {"page": 50, "what": "Japan's share of the 16th summit's trade or ODA figures are clear, but the sidebar on Japan facts (Kuril Islands line) is garbled; not used"},
+  {"page": 51, "what": "National Green Hydrogen Mission cost ceiling ('under 7100/kg') is garbled (currency and figure); not used"},
+  {"page": 51, "what": "Current green hydrogen cost in India ('%350-400/kg'): currency symbol garbled; figure not used"},
+  {"page": 51, "what": "Expected 2030 outcomes: annual green hydrogen production ('SMMT'), CO2 emissions averted ('SOMMT'), jobs ('Glakh jobs') and investment ('%8 lakh crore') are garbled; not used"},
+  {"page": 51, "what": "Hydrogen colour diagram labels (grey, blue, green) and the underground storage link are garbled; colour-to-source mapping not used"}
+ ]
+}

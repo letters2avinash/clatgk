@@ -1,0 +1,489 @@
+{
+  "topic": {
+    "title": "UN Sustainable Development Report 2026",
+    "chapter_title": "Summits, Reports, Indices",
+    "subtopics": [
+      {
+        "title": "Evolution of the SDGs",
+        "summary": "The idea of sustainable development was defined in 1987 and then built into successive global commitments. Milestones such as the Millennium Development Goals, the Johannesburg Summit and Rio+20 moved the agenda forward. The 2015 adoption of the 2030 Agenda introduced 17 SDGs supported by 169 targets.",
+        "facts": [
+          "1987: Brundtland Commission defined the concept of sustainable development",
+          "1992: Earth Summit (UNCED) held in Rio de Janeiro, Brazil",
+          "2000: Millennium Development Goals adopted, with 8 goals",
+          "2002: Johannesburg World Summit on Sustainable Development, also called Rio+10",
+          "2012: Rio+20 Conference laid the foundation for the SDGs",
+          "2015: 2030 Agenda and 17 SDGs adopted",
+          "The 2030 Agenda was adopted by all 193 UN Member States",
+          "17 Integrated Global Goals are supported by 169 Specific Targets",
+          "Objective: eliminate poverty, reduce inequality and protect the environment by 2030"
+        ],
+        "keywords": ["Brundtland Commission", "MDGs", "Rio+10", "Rio+20", "2030 Agenda", "169 targets"]
+      },
+      {
+        "title": "Earth Summit 1992 and its outcomes",
+        "summary": "The UN Conference on Environment and Development in Rio de Janeiro, popularly called the Earth Summit, aimed to integrate environmental protection with sustainable development. Its key outcomes were the Rio Declaration, Agenda 21 and the Forest Principles. The Rio Declaration sets out guiding principles, Agenda 21 is a non-binding action plan, and the Forest Principles are non-legally binding.",
+        "facts": [
+          "Popularly known as the Earth Summit (1992)",
+          "Objective: integrate environmental protection with sustainable development",
+          "Rio Declaration: a set of 27 Guiding Principles",
+          "Rio principles emphasise the precautionary approach and the polluter pays principle",
+          "Common but Differentiated Responsibilities is one of the Rio principles",
+          "Agenda 21: a non-binding action plan for sustainable development",
+          "Agenda 21 covers poverty, sustainable consumption and major groups",
+          "Forest Principles: non-legally binding principles on conservation and management of forests",
+          "Outcomes laid the foundation for the Kyoto Protocol (1997), Johannesburg Summit (2002) and Paris Agreement (2015)"
+        ],
+        "keywords": ["Earth Summit", "Rio Declaration", "Agenda 21", "Forest Principles", "precautionary approach", "polluter pays"]
+      },
+      {
+        "title": "SDR 2026 findings and India's position",
+        "summary": "The 11th Sustainable Development Report 2026, released by the UN Sustainable Development Solutions Network, ranks countries on their SDG performance using a 0-100 score. India moved up to 94th place with an overall SDG Index score of 68.3 out of 100. Nearly half of all targets show only slow or limited progress, and the report identifies Zero Hunger as India's most critical development challenge.",
+        "facts": [
+          "11th Sustainable Development Report 2026, released by UN SDSN",
+          "Annual assessment of SDG progress, published since 2016",
+          "Assesses 193 UN Member States on a 0-100 SDG score",
+          "India ranked 94th, its highest position to date",
+          "India's overall SDG Index score: 68.3 out of 100",
+          "India improved from 112th position in 2015 to 94th in 2026",
+          "Approx 33.3% of India's SDG targets are expected to be achieved by 2030",
+          "Nearly half of all targets show only slow or limited progress",
+          "About 15% of targets have experienced setbacks compared with their 2015 baseline",
+          "Top performers: Finland, Sweden, Denmark; lowest: Chad, Central African Republic, South Sudan"
+        ],
+        "keywords": ["SDR 2026", "India 94th", "SDG Index 68.3", "Zero Hunger", "Finland", "Chad"]
+      },
+      {
+        "title": "Climate finance",
+        "summary": "Climate finance refers to financing from public, private or alternative sources that supports mitigation and adaptation against climate change. It rests on the Polluter Pays principle and CBDR-RC, and much of it flows through multilateral climate funds coordinated by the UNFCCC. Persistent challenges include gaps between national needs and funding, slow approvals and much lower per-capita approved funding for Least Developed Countries.",
+        "facts": [
+          "Climate finance: local, national or transnational financing for climate action",
+          "Sources: public, private or alternative financing",
+          "Principles: Polluter Pays, and Common but Differentiated Responsibility and Respective Capability (CBDR-RC)",
+          "Multilateral climate funds are coordinated by the UNFCCC",
+          "Global Environment Facility (GEF): operating entity of the financial mechanism (1994)",
+          "Adaptation Fund gives developing countries full ownership of adaptation projects",
+          "Clean Development Mechanism: emission-reduction projects in developing nations",
+          "Green Climate Fund estd. 2010 (COP 16), with LDCF and SCCF under it",
+          "Loss and Damage Fund (2023): financial assistance to nations most affected by climate change",
+          "Challenges: slow rate of approvals and gaps between national needs and NDC finance"
+        ],
+        "keywords": ["climate finance", "UNFCCC", "GEF", "Adaptation Fund", "Green Climate Fund", "Loss and Damage Fund"]
+      },
+      {
+        "title": "Panchayat Advancement Index 2.0",
+        "summary": "The Panchayat Advancement Index 2.0 is a nationwide performance assessment framework for Gram Panchayats and Traditional Local Bodies. It grades local bodies from A+ to D on a composite score from 0 to 100. Tripura had the highest share of Front Runners, and no Gram Panchayat reached the Achiever grade.",
+        "facts": [
+          "Nationwide performance assessment framework for Gram Panchayats and Traditional Local Bodies",
+          "Recognised as the first comprehensive index globally to evaluate rural local governance",
+          "Uses objective and verifiable indicators",
+          "Based on a composite score from 0 to 100",
+          "Achiever (A+) above 90; Front Runner (A) 75-89",
+          "Performer (B) 60-74; Aspirant (C) 40-59; Beginner (D) below 40",
+          "Translates 17 SDGs into 9 localised SDGs",
+          "Ministry of Panchayati Raj localises SDGs through this index",
+          "Top performers: Tripura (highest share of Front Runners), then Kerala and Odisha",
+          "No Gram Panchayat could reach the Achiever category"
+        ],
+        "keywords": ["Panchayat Advancement Index", "Front Runner", "Achiever", "Tripura", "Ministry of Panchayati Raj"]
+      }
+    ]
+  },
+  "mindmaps": [
+    {
+      "scope": "topic",
+      "title": "UN SDR 2026 and related milestones",
+      "root": {
+        "label": "Summits, Reports, Indices",
+        "children": [
+          {
+            "label": "Earth Summit 1992",
+            "children": [
+              {"label": "Rio Declaration: 27 Guiding Principles"},
+              {"label": "Agenda 21: non-binding action plan"},
+              {"label": "Forest Principles: non-legally binding"}
+            ]
+          },
+          {
+            "label": "SDG evolution",
+            "children": [
+              {"label": "1987: Brundtland defined sustainable development"},
+              {"label": "2000: MDGs, 8 goals"},
+              {"label": "2015: 2030 Agenda, 17 SDGs, 169 targets"}
+            ]
+          },
+          {
+            "label": "UN SDR 2026",
+            "children": [
+              {"label": "Released by UN SDSN, 11th edition"},
+              {"label": "India: 94th rank, score 68.3"},
+              {"label": "Top: Finland, Sweden, Denmark"}
+            ]
+          },
+          {
+            "label": "Climate finance",
+            "children": [
+              {"label": "Principles: Polluter Pays, CBDR-RC"},
+              {"label": "Funds: GEF, Adaptation Fund, CDM, GCF"},
+              {"label": "Challenge: slow approvals"}
+            ]
+          },
+          {
+            "label": "Panchayat Advancement Index 2.0",
+            "children": [
+              {"label": "Grades A+ to D on composite score"},
+              {"label": "Tripura: highest Front Runner share"},
+              {"label": "No panchayat reached Achiever grade"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 0,
+      "title": "SDG evolution milestones",
+      "root": {
+        "label": "SDG evolution, 1987 to 2015",
+        "children": [
+          {"label": "1987: Brundtland concept"},
+          {"label": "2000: MDGs, 8 goals"},
+          {"label": "2002: Johannesburg, Rio+10"},
+          {"label": "2012: Rio+20 base for SDGs"},
+          {
+            "label": "2015: 2030 Agenda, 17 SDGs",
+            "children": [
+              {"label": "169 Specific Targets"},
+              {"label": "Adopted by 193 UN Member States"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 1,
+      "title": "Earth Summit outcomes",
+      "root": {
+        "label": "Earth Summit 1992",
+        "children": [
+          {
+            "label": "Rio Declaration",
+            "children": [
+              {"label": "27 Guiding Principles"},
+              {"label": "Precautionary approach"},
+              {"label": "Polluter pays principle"},
+              {"label": "Common but differentiated responsibilities"}
+            ]
+          },
+          {
+            "label": "Agenda 21",
+            "children": [
+              {"label": "Non-binding action plan"},
+              {"label": "Covers poverty and sustainable consumption"}
+            ]
+          },
+          {
+            "label": "Forest Principles",
+            "children": [
+              {"label": "Non-legally binding"}
+            ]
+          },
+          {
+            "label": "Laid foundations for later agreements",
+            "children": [
+              {"label": "Kyoto Protocol (1997)"},
+              {"label": "Johannesburg Summit (2002)"},
+              {"label": "Paris Agreement (2015)"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 2,
+      "title": "SDR 2026 findings and India",
+      "root": {
+        "label": "UN SDR 2026",
+        "children": [
+          {
+            "label": "Ranking",
+            "children": [
+              {"label": "India 94th, highest to date"},
+              {"label": "Top: Finland, Sweden, Denmark"},
+              {"label": "Lowest: Chad, CAR, South Sudan"}
+            ]
+          },
+          {
+            "label": "Global progress",
+            "children": [
+              {"label": "Nearly half of targets slow"},
+              {"label": "About 15% of targets set back"}
+            ]
+          },
+          {
+            "label": "India performance",
+            "children": [
+              {"label": "SDG Index 68.3"},
+              {"label": "Up from 112th in 2015"},
+              {"label": "33.3% of targets expected by 2030"},
+              {"label": "Zero Hunger most critical challenge"}
+            ]
+          },
+          {
+            "label": "Domestic bodies",
+            "children": [
+              {"label": "NITI Aayog: nodal agency"},
+              {"label": "Ministry of Panchayati Raj localises SDGs"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 3,
+      "title": "Climate finance structure",
+      "root": {
+        "label": "Climate finance",
+        "children": [
+          {
+            "label": "Principles",
+            "children": [
+              {"label": "Polluter Pays"},
+              {"label": "CBDR-RC"}
+            ]
+          },
+          {
+            "label": "Multilateral funds (UNFCCC)",
+            "children": [
+              {"label": "GEF (1994)"},
+              {"label": "Adaptation Fund"},
+              {"label": "CDM"},
+              {
+                "label": "Green Climate Fund (2010)",
+                "children": [
+                  {"label": "LDCF and SCCF under it"}
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Long-term finance",
+            "children": [
+              {"label": "Cancun Agreements: scaled-up funds"},
+              {"label": "Loss and Damage Fund (2023)"}
+            ]
+          },
+          {
+            "label": "Challenges",
+            "children": [
+              {"label": "Slow rate of approvals"},
+              {"label": "Gap versus national needs"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 4,
+      "title": "PAI 2.0 structure",
+      "root": {
+        "label": "Panchayat Advancement Index 2.0",
+        "children": [
+          {
+            "label": "Scope",
+            "children": [
+              {"label": "Gram Panchayats and Traditional Local Bodies"}
+            ]
+          },
+          {
+            "label": "Grades (composite 0-100)",
+            "children": [
+              {"label": "Achiever A+: above 90"},
+              {"label": "Front Runner A: 75-89"},
+              {"label": "Performer B: 60-74"},
+              {"label": "Aspirant C: 40-59"},
+              {"label": "Beginner D: below 40"}
+            ]
+          },
+          {
+            "label": "Thematic excellence",
+            "children": [
+              {"label": "Poverty-free and enhanced livelihoods"},
+              {"label": "Healthy Panchayats"}
+            ]
+          },
+          {
+            "label": "Top performers",
+            "children": [
+              {"label": "Tripura, then Kerala and Odisha"}
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "mnemonics": [
+    {
+      "scope": "subtopic",
+      "subtopic_index": 0,
+      "title": "SDG milestones",
+      "mnemonic": "Bold Mangoes Juice Rio Tomorrow",
+      "decode": [
+        {"key": "B", "meaning": "Brundtland Commission defined sustainable development in 1987"},
+        {"key": "M", "meaning": "Millennium Development Goals adopted in 2000 with 8 goals"},
+        {"key": "J", "meaning": "Johannesburg World Summit in 2002, also called Rio+10"},
+        {"key": "R", "meaning": "Rio+20 Conference in 2012 laid the foundation for the SDGs"},
+        {"key": "T", "meaning": "2030 Agenda with 17 SDGs adopted in 2015"}
+      ]
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 1,
+      "title": "Rio outcomes",
+      "mnemonic": "Rio's Agenda Forests",
+      "decode": [
+        {"key": "R", "meaning": "Rio Declaration: set of 27 Guiding Principles"},
+        {"key": "A", "meaning": "Agenda 21: non-binding action plan"},
+        {"key": "F", "meaning": "Forest Principles: non-legally binding"}
+      ]
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 4,
+      "title": "PAI grades",
+      "mnemonic": "Nice Friends Play Carrom Daily",
+      "decode": [
+        {"key": "N", "meaning": "Achiever (A+): composite score above 90"},
+        {"key": "F", "meaning": "Front Runner (A): composite score 75-89"},
+        {"key": "P", "meaning": "Performer (B): composite score 60-74"},
+        {"key": "C", "meaning": "Aspirant (C): composite score 40-59"},
+        {"key": "D", "meaning": "Beginner (D): composite score below 40"}
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "type": "MCQ",
+      "subtopic_index": 0,
+      "title": "SDG evolution check",
+      "passage": "Sustainable development began as a defined concept before it became a set of global targets. A commission first defined the idea, and global meetings then built on that definition over the following decades. Early efforts focused on a small group of development goals with a fixed deadline, and countries that signed these commitments were expected to report on progress. Later conferences asked whether those targets had been met, and they pushed the world to think beyond the original list. The eventual result was a broader framework covering poverty, health, education, gender equality, climate and peace. This framework was built as one agenda, with goals that were meant to be integrated with one another. Each annual review uses a score on a common scale, so that countries can be compared and their results can be read by policymakers and the public. Reviews of this kind are published every year, and they show how far each nation has moved toward the goals. Some regions have improved faster than others, while some targets have moved backwards, which shows that progress has been uneven. Looking back, the path from a concept to a framework took several decades and many meetings. Such a wide agenda made it possible to track progress across many different areas, even though it also made measurement more demanding.",
+      "questions": [
+        {
+          "q": "In which year was the 2030 Agenda for Sustainable Development adopted?",
+          "options": ["2000", "2012", "2015", "2002"],
+          "answer": 2,
+          "explanation": "The booklet timeline lists 2015 for the adoption of the 2030 Agenda and 17 SDGs."
+        },
+        {
+          "q": "How many Specific Targets support the 17 Sustainable Development Goals?",
+          "options": ["17", "169", "193", "18"],
+          "answer": 1,
+          "explanation": "The booklet states that the 17 Integrated Global Goals are supported by 169 Specific Targets."
+        },
+        {
+          "q": "Which 2002 summit is also known as Rio+10?",
+          "options": ["Copenhagen Summit", "Johannesburg World Summit", "Paris Conference", "Nairobi Conference"],
+          "answer": 1,
+          "explanation": "The booklet lists the 2002 Johannesburg World Summit on Sustainable Development as Rio+10."
+        },
+        {
+          "q": "Assertion (A): The 2030 Agenda was adopted at the 1992 Earth Summit in Rio de Janeiro.\nReason (R): The UN Conference on Environment and Development was held in Rio de Janeiro, Brazil.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+          ],
+          "answer": 3,
+          "explanation": "The 2030 Agenda was adopted in 2015, not at the 1992 Earth Summit, while the Rio de Janeiro location of the conference is correct."
+        },
+        {
+          "q": "Match List I with List II:\nI. Brundtland Commission   ->   A. Defined the concept of sustainable development\nII. Johannesburg World Summit   ->   B. Known as Rio+10\nIII. Rio+20 Conference   ->   C. Laid foundation for the SDGs\nIV. 2030 Agenda   ->   D. 17 SDGs and 169 targets",
+          "options": ["I-A, II-B, III-C, IV-D", "I-B, II-A, III-D, IV-C", "I-C, II-D, III-A, IV-B", "I-D, II-C, III-B, IV-A"],
+          "answer": 0,
+          "explanation": "Each pairing appears in the booklet timeline, such as the Johannesburg Summit of 2002 being called Rio+10."
+        },
+        {
+          "q": "Consider the statements:\nI. The Millennium Development Goals were adopted in 2000 with eight goals.\nII. The Johannesburg Summit was held in 1987.\nIII. Rio+20 laid the foundation for the SDGs.\nWhich of the above statements is/are correct?",
+          "options": ["II and III only", "I and II only", "I and III only", "I, II and III"],
+          "answer": 2,
+          "explanation": "Statement II is wrong because the Johannesburg Summit was in 2002, while statements I and III match the booklet."
+        },
+        {
+          "q": "How many of the following statements are correct?\nI. The Brundtland Commission defined sustainable development in 1987.\nII. The Rio+20 Conference was held in 2002.\nIII. The Millennium Development Goals were adopted in 2000.\nIV. The 2030 Agenda was adopted in 2012.",
+          "options": ["Only one", "Only two", "Only three", "None"],
+          "answer": 1,
+          "explanation": "Statements I and III are correct, while Rio+20 was in 2012 and the 2030 Agenda was adopted in 2015."
+        },
+        {
+          "q": "How many UN Member States adopted the 2030 Agenda for Sustainable Development?",
+          "options": ["167", "169", "191", "193"],
+          "answer": 3,
+          "explanation": "The booklet states that the 2030 Agenda was adopted by all 193 UN Member States in 2015."
+        }
+      ]
+    },
+    {
+      "type": "TITA",
+      "subtopic_index": 1,
+      "title": "Earth Summit recall",
+      "passage": "The United Nations Conference on Environment and Development was a major meeting held in Brazil, and it is widely remembered as the Earth Summit. Its central aim was to make the world see that environmental protection and sustainable development had to be pursued together. The conference adopted several documents that are still cited in international debates. The first was a short statement of guiding principles, which stressed the precautionary approach, the polluter pays principle and common but differentiated responsibilities. The second was an action plan that was not legally binding, but it addressed poverty, sustainable consumption and the protection of fragile environments. This plan gave a stronger role to major groups such as women and indigenous people, and it offered a framework for action at local, national and global levels. The third document dealt with forests, and its principles were also not legally binding. These principles covered the conservation of forests and the sustainable management of all types of forests. Taken together, the outcomes of the conference laid part of the groundwork for later international agreements, including several that followed in the years after the summit. Many of these ideas were later revisited at summits held over the following decades, which kept the discussion active. Its outcomes were framed as guidance and action plans rather than as binding treaties.",
+      "questions": [
+        {
+          "q": "How many Guiding Principles does the Rio Declaration set out? (answer in number)",
+          "answer": "27",
+          "accept": ["27", "twenty-seven", "twenty seven"],
+          "explanation": "The booklet describes the Rio Declaration as a set of 27 Guiding Principles."
+        },
+        {
+          "q": "Which Brazilian city hosted the 1992 UN Conference on Environment and Development? (name the city)",
+          "answer": "Rio de Janeiro",
+          "accept": ["Rio", "Rio De Janeiro"],
+          "explanation": "The booklet gives the venue of the UN Conference on Environment and Development as Rio de Janeiro, Brazil."
+        },
+        {
+          "q": "Which non-binding action plan for sustainable development came out of the Earth Summit? (name it, two words)",
+          "answer": "Agenda 21",
+          "accept": ["Agenda XXI", "Agenda-21", "Agenda 21 action plan"],
+          "explanation": "The booklet describes Agenda 21 as a non-binding action plan for sustainable development."
+        },
+        {
+          "q": "Which 1997 protocol was the Earth Summit's outcomes said to lay the foundation for? (one word)",
+          "answer": "Kyoto",
+          "accept": ["Kyoto Protocol", "kyoto"],
+          "explanation": "The booklet says the Earth Summit outcomes laid the foundation for the Kyoto Protocol (1997)."
+        },
+        {
+          "q": "Which city hosted the 2002 World Summit on Sustainable Development, also known as Rio+10? (one word)",
+          "answer": "Johannesburg",
+          "accept": ["Johannesburg, South Africa", "johannesburg"],
+          "explanation": "The booklet names the 2002 summit as the Johannesburg World Summit on Sustainable Development, also called Rio+10."
+        },
+        {
+          "q": "Name the third of the Major Groups that Agenda 21 strengthens, after women and indigenous people. (one word)",
+          "answer": "Youth",
+          "accept": ["Youths", "youth"],
+          "explanation": "The booklet lists the Major Groups in Agenda 21 as Women, Youth and Indigenous People."
+        },
+        {
+          "q": "Which agreement, whose foundation was partly laid by the Earth Summit, is listed with the year 2015? (name it in two words)",
+          "answer": "Paris Agreement",
+          "accept": ["Paris agreement", "Paris"],
+          "explanation": "The booklet lists the Paris Agreement (2015) among the agreements that the Earth Summit outcomes laid the foundation for."
+        }
+      ]
+    }
+  ],
+  "needs_check": [
+    {"page": 54, "what": "Number of countries ranked: 167 on this page versus 169 on page 55; country count not used"},
+    {"page": 55, "what":"'Released By: UN SDSN (2012)' - the year is ambiguous and was not used as a founding year"},
+    {"page": 55, "what": "List of SDGs said to face the greatest global challenges is interleaved with other text; goal list not used"},
+    {"page": 56, "what": "List of goals under 'Areas Facing Major Structural Challenges' is interleaved with US withdrawal text; not used"},
+    {"page": 57, "what": "Protocol years garbled: Kyoto Protocol (20014), Cancun Agreements (2040), Paris Agreement (2045); attribution of the USD 100 billion goal not used"},
+    {"page": 57, "what": "Long-term climate finance timeline diagram is garbled; not used"},
+    {"page": 58, "what": "Earth Summit count 'More than 178' sits beside garbled text ('jopted'); not used"}
+  ]
+}
