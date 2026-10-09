@@ -1,0 +1,426 @@
+{
+ "topic": {
+  "title": "23rd India-Russia Annual Summit",
+  "chapter_title": "Summits, Reports & Indices",
+  "subtopics": [
+   {
+    "title": "Economic, Energy and Payments Cooperation",
+    "summary": "The 23rd annual summit adopted Programme 2030 to diversify India-Russia ties beyond defence and energy. The programme sets a trade target of $100 billion by 2030, against $68.7 billion recorded in 2024-25. Cooperation also covers national-currency settlements, payment-system interoperability and continued support for nuclear energy projects.",
+    "facts": [
+     "Programme 2030 adopted to diversify ties beyond defence and energy.",
+     "Coordinated by the India-Russia Inter-Governmental Commission on Trade, Economic, Scientific, Technical and Cultural Cooperation (IRIGC-TEC).",
+     "IRIGC-TEC is chaired by India's External Affairs Minister and Russia's Deputy Prime Minister.",
+     "Trade target: $100 billion by 2030.",
+     "Trade stood at $68.7 billion in 2024-25.",
+     "Settlements in national currencies to be boosted.",
+     "Work on interoperability of payment systems and CBDCs to bypass Western financial systems (SWIFT).",
+     "Negotiations on an FTA with the Eurasian Economic Union to be fast-tracked.",
+     "Continued support for Kudankulam Nuclear Power Plant, Small Modular Reactors and future civil nuclear projects."
+    ],
+    "keywords": ["Programme 2030", "IRIGC-TEC", "Trade target", "National currency settlement", "CBDC", "SWIFT", "Eurasian Economic Union", "Kudankulam"]
+   },
+   {
+    "title": "Defence and Strategic Cooperation",
+    "summary": "India and Russia focus on joint R&D, co-production under Make in India, military technology transfer and regular exercises. The RELOS agreement provides mutual logistics support for troops, warships and aircraft during operations away from home bases. The 2+2 Ministerial Dialogue aligns foreign and defence ministers on strategic priorities.",
+    "facts": [
+     "RELOS: Reciprocal Exchange of Logistics Agreement, enabling mutual logistics support for troops, warships and aircraft.",
+     "RELOS scope: access to each other's military facilities, ports and airspace.",
+     "RELOS includes simplified refuelling and maintenance support for deployments.",
+     "Russia was India's main supplier of defence equipment (36%).",
+     "India-Russia 2+2 Ministerial Dialogue aligns Foreign and Defence Ministers.",
+     "Joint exercise: INDRA.",
+     "BrahMos: cruise missile jointly developed by DRDO and NPO Mashinostroyeniya (NPOM).",
+     "S-400 Triumf: long-range surface-to-air missile system procured by India.",
+     "Su-30MKI multi-role fighters produced in India by Hindustan Aeronautics Limited (HAL)."
+    ],
+    "keywords": ["RELOS", "2+2 Dialogue", "INDRA", "BrahMos", "S-400 Triumf", "Su-30MKI", "T-90S Bhishma", "Make in India"]
+   },
+   {
+    "title": "Connectivity and Logistics Corridors",
+    "summary": "The proposed Chennai-Vladivostok Maritime Corridor aims to cut transport time to Russia by 40 per cent and saves 3,028 nautical miles over the existing route. The International North-South Transport Corridor (INSTC) is a multi-modal route set up in 2000 by Iran, Russia and India. India-Russia Far East and Arctic cooperation is guided by a 2024-2029 programme.",
+    "facts": [
+     "Chennai-Vladivostok Maritime Corridor is a proposed sea route passing through the Sea of Japan, South China Sea and Malacca Strait.",
+     "Aim: reduce transportation time to Russia by 40%.",
+     "Time saving: up to 16 days.",
+     "Distance saving: 3,028 nautical miles.",
+     "INSTC: multi-modal transportation route established in 2000 in St Petersburg by Iran, Russia and India.",
+     "INSTC aim: promote transportation cooperation among member states.",
+     "India-Russia Far East Cooperation Programme covers 2024-2029.",
+     "Key Far East and Arctic areas: agriculture and mining, manpower and pharmaceuticals, diamonds and shipping.",
+     "India is an Observer in the Arctic Council."
+    ],
+    "keywords": ["Chennai-Vladivostok", "Eastern Maritime Corridor", "INSTC", "Malacca Strait", "Northern Sea Route", "Arctic Council", "Far East Cooperation Programme"]
+   },
+   {
+    "title": "Diplomacy, Counter-Terrorism and Honours",
+    "summary": "India and Russia signed a Treaty of Peace and Friendship in 1971 and a new Treaty of Friendship and Cooperation in 1993 after the Soviet Union dissolved. Both sides denounced the 2025 Pahalgam and 2024 Crocus City Hall attacks and called for strict action against UN-listed terrorist organisations. PM Modi was conferred Russia's Highest National Award, the Order of St Andrew the Apostle.",
+    "facts": [
+     "Treaty of Peace and Friendship signed in 1971.",
+     "New Treaty of Friendship and Cooperation signed in 1993, after the dissolution of the Soviet Union.",
+     "PM Modi was conferred Russia's Highest National Award, the Order of St. Andrew the Apostle.",
+     "Order of St Andrew established by Tsar Peter the Great in 1698, reinstated in 1998 and abolished in 1918.",
+     "Ganga-Volga Dialogue: platform to enhance Special and Privileged Strategic Partnership; organised by the Ministry of External Affairs with Dr Syama Prasad Mookerjee Research Foundation.",
+     "Counter-terrorism: Pahalgam attack (2025) and Crocus City Hall attack (2024) denounced.",
+     "Both parties called for a Zero-Tolerance Policy and finalisation of the Comprehensive Convention on International Terrorism.",
+     "Russia formally joined the International Big Cat Alliance.",
+     "Russia reiterated support for India's permanent membership of a reformed and expanded UN Security Council."
+    ],
+    "keywords": ["Treaty of Friendship and Cooperation", "Order of St Andrew", "Ganga-Volga Dialogue", "Pahalgam", "Crocus City Hall", "Zero-Tolerance", "Big Cat Alliance"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "23rd India-Russia Annual Summit: Outcomes",
+   "root": {
+    "label": "23rd India-Russia Annual Summit",
+    "children": [
+     {
+      "label": "Economic cooperation",
+      "children": [
+       {"label": "Programme 2030 adopted"},
+       {"label": "Trade target $100 billion by 2030"},
+       {"label": "National-currency settlements"}
+      ]
+     },
+     {
+      "label": "Defence and strategic",
+      "children": [
+       {"label": "RELOS logistics agreement"},
+       {"label": "2+2 Ministerial Dialogue"},
+       {"label": "Joint exercise INDRA"}
+      ]
+     },
+     {
+      "label": "Connectivity and logistics",
+      "children": [
+       {"label": "Chennai-Vladivostok Maritime Corridor"},
+       {"label": "INSTC established 2000"},
+       {"label": "Northern Sea Route"}
+      ]
+     },
+     {
+      "label": "Counter-terrorism",
+      "children": [
+       {"label": "Pahalgam (2025) attack denounced"},
+       {"label": "Crocus City Hall (2024) denounced"},
+       {"label": "Comprehensive Convention support"}
+      ]
+     },
+     {
+      "label": "Energy security",
+      "children": [
+       {"label": "Kudankulam Nuclear Power Plant"},
+       {"label": "Small Modular Reactors"}
+      ]
+     },
+     {
+      "label": "Migration and people ties",
+      "children": [
+       {"label": "Mobility MoUs for skilled professionals"},
+       {"label": "30-day visa-free e-tourist entry"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Economic, Energy and Payments Map",
+   "root": {
+    "label": "Economic, Energy and Payments",
+    "children": [
+     {
+      "label": "Programme 2030",
+      "children": [
+       {"label": "Diversify beyond defence and energy"},
+       {"label": "Coordinated by IRIGC-TEC"}
+      ]
+     },
+     {
+      "label": "Trade",
+      "children": [
+       {"label": "Target $100 billion by 2030"},
+       {"label": "$68.7 billion in 2024-25"}
+      ]
+     },
+     {
+      "label": "Payments",
+      "children": [
+       {"label": "National-currency settlements"},
+       {"label": "Payment interoperability and CBDCs"},
+       {"label": "Bypass SWIFT"}
+      ]
+     },
+     {
+      "label": "Energy",
+      "children": [
+       {"label": "Kudankulam support"},
+       {"label": "SMRs and future civil nuclear"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Defence and Strategic Map",
+   "root": {
+    "label": "Defence and Strategic Cooperation",
+    "children": [
+     {
+      "label": "RELOS",
+      "children": [
+       {"label": "Mutual logistics for troops, warships, aircraft"},
+       {"label": "Access to bases, ports, airspace"}
+      ]
+     },
+     {
+      "label": "Weapon systems",
+      "children": [
+       {"label": "BrahMos (DRDO and NPOM)"},
+       {"label": "S-400 Triumf procurement"},
+       {"label": "Su-30MKI production by HAL"}
+      ]
+     },
+     {
+      "label": "Defence supply and dialogue",
+      "children": [
+       {"label": "Russia main supplier (36%)"},
+       {"label": "2+2 Ministerial Dialogue"}
+      ]
+     },
+     {
+      "label": "Cooperation modes",
+      "children": [
+       {"label": "Joint exercise INDRA"},
+       {"label": "Joint R&D and co-production"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Connectivity and Logistics Map",
+   "root": {
+    "label": "Connectivity and Logistics Corridors",
+    "children": [
+     {
+      "label": "Chennai-Vladivostok corridor",
+      "children": [
+       {"label": "Sea of Japan, South China Sea, Malacca Strait"},
+       {"label": "Saves up to 16 days"},
+       {"label": "Saves 3,028 nautical miles"}
+      ]
+     },
+     {
+      "label": "INSTC",
+      "children": [
+       {"label": "Established 2000, St Petersburg"},
+       {"label": "Members: Iran, Russia, India"}
+      ]
+     },
+     {
+      "label": "Far East and Arctic",
+      "children": [
+       {"label": "Far East Programme 2024-2029"},
+       {"label": "India is Arctic Council observer"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Diplomacy and Counter-Terrorism Map",
+   "root": {
+    "label": "Diplomacy, Counter-Terrorism and Honours",
+    "children": [
+     {
+      "label": "Treaties",
+      "children": [
+       {"label": "1971 Treaty of Peace and Friendship"},
+       {"label": "1993 Treaty of Friendship and Cooperation"}
+      ]
+     },
+     {
+      "label": "Counter-terrorism",
+      "children": [
+       {"label": "Pahalgam (2025) denounced"},
+       {"label": "Crocus City Hall (2024) denounced"},
+       {"label": "Zero-Tolerance Policy"}
+      ]
+     },
+     {
+      "label": "Order of St Andrew",
+      "children": [
+       {"label": "Set up by Peter the Great, 1698"},
+       {"label": "Reinstated 1998, abolished 1918"}
+      ]
+     },
+     {
+      "label": "Forums",
+      "children": [
+       {"label": "Ganga-Volga Dialogue"},
+       {"label": "Theme 2020: Connectivity"}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Seven outcome areas of the summit",
+   "mnemonic": "Every Indian Can Eat Delicious Chocolate Mousse",
+   "decode": [
+    {"key": "Every", "meaning": "Economic and trade cooperation"},
+    {"key": "Indian", "meaning": "International cooperation"},
+    {"key": "Can", "meaning": "Counter-terrorism commitments"},
+    {"key": "Eat", "meaning": "Energy security"},
+    {"key": "Delicious", "meaning": "Defence and strategic partnership"},
+    {"key": "Chocolate", "meaning": "Connectivity and logistics"},
+    {"key": "Mousse", "meaning": "Migration and people-to-people ties"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Seas on the Chennai-Vladivostok route",
+   "mnemonic": "Just Sail Monsoon",
+   "decode": [
+    {"key": "Just", "meaning": "J: Sea of Japan"},
+    {"key": "Sail", "meaning": "S: South China Sea"},
+    {"key": "Monsoon", "meaning": "M: Malacca Strait"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Summit economics and payments",
+   "passage": "India and Russia used their 23rd Annual Summit in New Delhi to widen cooperation well beyond their traditional areas. The summit came after the two countries upgraded their ties to a special and privileged strategic partnership, and it marked 25 years of that relationship. The leaders adopted a comprehensive programme meant to diversify bilateral ties beyond defence and energy. Its work is coordinated by a commission that handles trade, economic, scientific, technical and cultural cooperation between the two governments, and that body serves as the apex forum for economic dialogue between them.\n\nTrade and finance formed a central part of the discussions. Both sides agreed to boost settlements in national currencies, and they decided to work on interoperability of their payment systems and digital currencies. Officials described this as a way to reduce reliance on Western financial channels. The leaders also reaffirmed their commitment to energy security, with continued support for nuclear power projects in India, including small modular reactors and future civil nuclear work.\n\nThe summit also addressed terrorism. Both countries called for strict action against all UN-listed terrorist organisations and endorsed a zero-tolerance approach grounded in international law. Connectivity and mobility were additional priorities, as the two governments pursued new routes for cargo and skilled professionals.",
+   "questions": [
+    {
+     "q": "Which Indian minister chairs the IRIGC-TEC, the commission that coordinates Programme 2030?",
+     "options": ["External Affairs Minister of India", "Prime Minister of India", "Finance Minister of India", "Commerce and Industry Minister of India"],
+     "answer": 0,
+     "explanation": "The text states the IRIGC-TEC is chaired by India's External Affairs Minister and Russia's Deputy Prime Minister."
+    },
+    {
+     "q": "What trade target has been set for India and Russia under Programme 2030 (in US dollars)?",
+     "options": ["$50 billion", "$68.7 billion", "$100 billion", "$120 billion"],
+     "answer": 2,
+     "explanation": "Programme 2030 sets a trade target of $100 billion by 2030, against $68.7 billion in 2024-25."
+    },
+    {
+     "q": "Payment-system cooperation under the summit seeks to bypass which Western-led financial messaging system?",
+     "options": ["NEFT", "RTGS", "SWIFT", "UPI"],
+     "answer": 2,
+     "explanation": "The text says work on payment-system interoperability and CBDCs aims to bypass Western financial systems such as SWIFT."
+    },
+    {
+     "q": "Assertion (A): Russia formally joined the International Big Cat Alliance during the summit.\nReason (R): India welcomed Russia's interest in joining the International Solar Alliance.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "Russia formally joined the Big Cat Alliance and India welcomed Russia's interest in the Solar Alliance, but the two facts are unrelated."
+    },
+    {
+     "q": "Match List I with List II:\nI. Programme 2030   ->   A. $100 billion by 2030\nII. Payment-system interoperability   ->   D. Built in India with Russian cooperation\nIII. Trade target by 2030   ->   B. Diversify ties beyond defence and energy\nIV. Kudankulam Nuclear Power Plant   ->   C. Bypass SWIFT",
+     "options": ["I-A, II-C, III-B, IV-D", "I-B, II-C, III-A, IV-D", "I-C, II-B, III-A, IV-D", "I-B, II-A, III-C, IV-D"],
+     "answer": 1,
+     "explanation": "Programme 2030 diversifies ties beyond defence and energy, payment work bypasses SWIFT, the trade target is $100 billion and Kudankulam is built with Russian cooperation."
+    },
+    {
+     "q": "Consider the following statements about the outcomes of the 23rd India-Russia Annual Summit:\nI. Negotiations on a free trade agreement with the Eurasian Economic Union are to be fast-tracked.\nII. The proposed Chennai-Vladivostok sea route passes through the Malacca Strait.\nIII. The 2030 trade target of $100 billion has already been reached.\nWhich of the above statements is/are correct?",
+     "options": ["I and III only", "II and III only", "I, II and III", "I and II only"],
+     "answer": 3,
+     "explanation": "Statements I and II are correct, while the trade of $68.7 billion in 2024-25 shows that the $100 billion target has not been reached."
+    },
+    {
+     "q": "How many of the following statements about the 23rd India-Russia Annual Summit are correct?\nI. Putin's visit to India was his first in four years, since 2021.\nII. Russia formally joined the International Solar Alliance during the summit.\nIII. Both sides denounced the Pahalgam attack (2025) and the Crocus City Hall attack (2024).\nIV. The trade target under Programme 2030 is $68.7 billion.",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statements I and III are correct, while II wrongly claims formal membership of the Solar Alliance and IV confuses the 2024-25 trade figure with the target."
+    },
+    {
+     "q": "The proposed Chennai-Vladivostok Maritime Corridor aims to reduce the time taken to transport cargo to Russia by what percentage?",
+     "options": ["25 per cent", "30 per cent", "40 per cent", "50 per cent"],
+     "answer": 2,
+     "explanation": "The corridor is aimed at reducing transportation time to Russia by 40 per cent."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Defence and logistics facts",
+   "passage": "Defence cooperation remains one of the strongest pillars of India's partnership with Russia. The two countries have agreed on a reciprocal logistics arrangement that allows their armed forces to draw mutual support while operating away from home bases. Under this arrangement, each side can access the other's military facilities, ports and airspace, and it provides simplified refuelling and maintenance for deployments.\n\nA high-level dialogue that brings together the foreign and defence ministers of both countries helps align their strategic priorities. Russia has long been among India's largest suppliers of defence equipment, and the two sides continue to pursue joint research, co-production under Make in India and transfer of military technology. Regular joint exercises between the armed forces add to this cooperation, and recent frigates have been commissioned into the Indian Navy.\n\nSeveral major platforms reflect this partnership. A cruise missile is being developed jointly by an Indian research organisation and a Russian design bureau, while Indian production lines build multi-role fighter aircraft and main battle tanks based on Russian designs. India has also procured a long-range surface-to-air missile system from Russia, and a former Russian aircraft carrier has been refurbished for the Indian Navy.",
+   "questions": [
+    {
+     "q": "What percentage share of India's defence equipment supply did Russia account for? (in per cent)",
+     "answer": "36",
+     "accept": ["36%", "36 per cent", "36 percent", "thirty-six"],
+     "explanation": "Russia was India's main supplier of defence equipment, with a 36% share."
+    },
+    {
+     "q": "In which year did India and Russia sign a new Treaty of Friendship and Cooperation after the dissolution of the Soviet Union?",
+     "answer": "1993",
+     "accept": ["1993 AD"],
+     "explanation": "The new Treaty of Friendship and Cooperation was signed in 1993 after the Soviet Union dissolved."
+    },
+    {
+     "q": "What is the name of the joint military exercise between India and Russia highlighted in the text?",
+     "answer": "INDRA",
+     "accept": ["Indra", "INDRA exercise"],
+     "explanation": "The text lists INDRA as the joint exercise between India and Russia."
+    },
+    {
+     "q": "Under what name was the former Russian aircraft carrier Admiral Gorshkov transferred to the Indian Navy after refurbishment?",
+     "answer": "INS Vikramaditya",
+     "accept": ["Vikramaditya", "INS Vikramaditya"],
+     "explanation": "The text states the refurbished Admiral Gorshkov was transferred to the Indian Navy as INS Vikramaditya."
+    },
+    {
+     "q": "Which cruise missile was jointly developed by India's DRDO and Russia's NPO Mashinostroyeniya (NPOM)?",
+     "answer": "BrahMos",
+     "accept": ["Brahmos", "BrahMos missile"],
+     "explanation": "BrahMos is a cruise missile jointly developed by DRDO and NPOM."
+    },
+    {
+     "q": "Which Indian company produces the Sukhoi Su-30MKI multi-role fighter in India? (give the abbreviation)",
+     "answer": "HAL",
+     "accept": ["H.A.L.", "Hindustan Aeronautics Limited", "Hindustan Aeronautics"],
+     "explanation": "The Su-30MKI is produced in India by Hindustan Aeronautics Limited (HAL)."
+    },
+    {
+     "q": "By how many nautical miles does the proposed Chennai-Vladivostok sea route save distance over the existing route? (in nautical miles)",
+     "answer": "3028",
+     "accept": ["3,028", "3028 nautical miles", "3,028 nautical miles"],
+     "explanation": "The corridor saves 3,028 nautical miles in distance and up to 16 days in time."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 38, "what": "Year of the summit in which PM Modi received the Order of St Andrew the Apostle is garbled (printed as 'In22 Summit'); not used."},
+  {"page": 38, "what": "Year '2019' for the Chennai-Vladivostok corridor proposal sits in an ambiguous map label position; not used."},
+  {"page": 38, "what": "Existing-route distances (5647 and 8675 nautical miles) and INSTC length (7200 km) in the map are garbled; not used."},
+  {"page": 39, "what": "Recently commissioned frigate printed as 'INSA Tushil' (likely INS Tushil); not used."},
+  {"page": 39, "what": "Location of the AK-203 joint venture ('Korwa (Amethi, Kanpur)') is unclear in the text; not used."},
+  {"page": 40, "what": "'Extra Shots' bullet on PM Modi's visits (Bhutan, Maldives, Sri Lanka) and foreign recipients list are garbled; not used."}
+ ]
+}

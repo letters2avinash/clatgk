@@ -1,0 +1,380 @@
+{
+ "topic": {
+  "title": "Manipur Gets Elected Government After President's Rule",
+  "chapter_title": "National News and Issues",
+  "subtopics": [
+   {
+    "title": "New Government in Manipur",
+    "summary": "President Droupadi Murmu revoked President's Rule in Manipur after nearly one year, clearing the path for an elected government. Yumnam Khemchand Singh (BJP) was sworn in as the 13th Manipur Chief Minister. Two Deputy Chief Ministers, Nemcha Kipgen and Losii Dikho, took oath alongside him.",
+    "facts": [
+     "President Droupadi Murmu revoked President's Rule in Manipur",
+     "President's Rule in Manipur had lasted nearly one year",
+     "Yumnam Khemchand Singh (BJP) sworn in as 13th Manipur CM",
+     "Nemcha Kipgen: Kuki-Zo MLA from Kangpokpi constituency, Deputy CM",
+     "Losii Dikho: Naga MLA from Mao constituency, Deputy CM",
+     "Revocation cleared the way for an elected government"
+    ],
+    "keywords": ["Yumnam Khemchand Singh", "Nemcha Kipgen", "Losii Dikho", "President's Rule revoked", "Manipur Chief Minister"]
+   },
+   {
+    "title": "Kuki-Zomi and Meitei Violence",
+    "summary": "Violence erupted between Kuki-Zomi tribals and the Meitei community, the first clash of its kind in three decades in Manipur. A key trigger was the Meitei demand for Scheduled Tribe (ST) status, which has persisted since 2012. A 2023 High Court direction to consider that request added to tensions with Kuki groups.",
+    "facts": [
+     "Violence between Kuki-Zomi tribals and Meitei community",
+     "First clash of this kind in three decades in Manipur",
+     "Demand for ST status for Meitei community persisted since 2012",
+     "Meitei Tribe Union petitioned Manipur High Court for tribal status",
+     "Meiteis lost tribal status after the 1949 merger",
+     "High Court judge directed state to consider Meitei ST request in 2023",
+     "Kukis fear ST status would allow Meiteis to buy land in prohibited hill areas",
+     "State evicted 16 Kuki households over forest encroachment, sparking protests",
+     "State withdrew from suspension of operations agreement with KNA and ZRA in March 2023"
+    ],
+    "keywords": ["Kuki-Zomi", "Meitei", "ST status", "Manipur High Court", "land purchase", "eviction"]
+   },
+   {
+    "title": "Historical Background and Divides",
+    "summary": "Meiteis make up 52 per cent of Manipur's population and live mainly in valley areas covering about 10 per cent of the state. Hill areas cover 89 per cent of the land but have only 20 of the 60 assembly seats, while Meiteis hold 40. Meiteis are restricted from buying land in about 90 per cent of Manipur, whereas tribals can buy land in the Imphal Valley.",
+    "facts": [
+     "Meiteis comprise 52 per cent of Manipur's population",
+     "Valley areas cover just 10 per cent of the state",
+     "Hill areas cover 89 per cent of the state's land",
+     "Hill areas have 20 MLAs; Meiteis hold 40 of 60 assembly seats",
+     "Meiteis restricted from buying land in 90 per cent of Manipur",
+     "Tribals can buy land in Imphal Valley",
+     "Nagas and Kukis demand greater political autonomy or separate administrative units",
+     "Meitei concerns over inaccurate 2020 census figures and delimitation process",
+     "Concern over rapid growth of villages in Churachandpur due to migrants"
+    ],
+    "keywords": ["Meitei population", "valley and hills", "assembly seats", "land restrictions", "autonomy demand", "delimitation"]
+   },
+   {
+    "title": "President's Rule: Articles, Duration and Revocation",
+    "summary": "President's Rule is the Centre's takeover of a state government when the constitutional machinery fails, also called State Emergency. A proclamation must be approved by both Houses of Parliament within 2 months, and then continues for 6 months. It can be extended by Parliament up to a maximum of 3 years and can be revoked by the President at any time.",
+    "facts": [
+     "Article 355 imposes a duty on the Centre to ensure state governments run per the Constitution",
+     "Article 356 lets the President act when a state government cannot function per the Constitution",
+     "Article 365 covers a state's failure to comply with directions from the Centre",
+     "Both Houses must approve the proclamation within 2 months of its issue",
+     "Approved proclamation continues for 6 months; extension needs Parliament approval every 6 months",
+     "Maximum extension period is 3 years",
+     "Resolutions need a simple majority of members present and voting",
+     "Proclamation can be revoked by a later proclamation without Parliamentary approval",
+     "President can take over state government functions and powers of Governor",
+     "President can declare that Parliament will exercise state legislature powers"
+    ],
+    "keywords": ["Article 355", "Article 356", "Article 365", "State Emergency", "2 months", "6 months", "3 years"]
+   },
+   {
+    "title": "Key Records and Judicial Review",
+    "summary": "Manipur has had President's Rule the most number of times, 11, followed by UP, J&K and Punjab. The first three instances were in Punjab, PEPSU and Andhra. In S.R. Bommai vs Union of India (1994), the Supreme Court held that the President's power to dismiss a state government is not absolute.",
+    "facts": [
+     "First three President's Rule: Punjab (1951), PEPSU (1953), Andhra (1954)",
+     "Most instances: Manipur (11), UP (10), J&K (9), Punjab (8)",
+     "Longest total duration: J&K, then Punjab, then Puducherry",
+     "Shortest total duration: Uttarakhand",
+     "Longest single period: J&K",
+     "Shortest single periods: West Bengal, Bihar, Maharashtra",
+     "38th Amendment Act of 1975 made the President's satisfaction final and not challengeable in any court",
+     "Beyond 1 year, extension needs a National Emergency in operation and Election Commission certification",
+     "S.R. Bommai vs Union of India (1994): power to dismiss a state government is not absolute",
+     "Till Parliament approves, President can only suspend the Legislative Assembly"
+    ],
+    "keywords": ["Manipur 11 times", "Punjab 1951", "Bommai 1994", "38th Amendment", "longest single period"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Manipur Elected Government Restored",
+   "root": {
+    "label": "Manipur Elected Government Restored",
+    "children": [
+     {"label": "New Government", "children": [
+       {"label": "Yumnam Khemchand Singh (BJP)"},
+       {"label": "13th Manipur Chief Minister"},
+       {"label": "2 Deputy CMs sworn in"}
+     ]},
+     {"label": "President's Rule Revoked", "children": [
+       {"label": "Lasted nearly one year"},
+       {"label": "Revoked by President Droupadi Murmu"}
+     ]},
+     {"label": "Ethnic Conflict", "children": [
+       {"label": "Kuki-Zomi vs Meitei clash"},
+       {"label": "Meitei ST status demand"},
+       {"label": "Land purchase restrictions"}
+     ]},
+     {"label": "Historical Factors", "children": [
+       {"label": "Princely State 1891"},
+       {"label": "Accession treaty 1947"},
+       {"label": "Union Territory 1956"}
+     ]},
+     {"label": "Other Issues", "children": [
+       {"label": "Delimitation and census concerns"},
+       {"label": "AFSPA human rights allegations"},
+       {"label": "Myanmar refugee crisis"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "New Government Map",
+   "root": {
+    "label": "New Government in Manipur",
+    "children": [
+     {"label": "Chief Minister", "children": [
+       {"label": "Yumnam Khemchand Singh (BJP)"}
+     ]},
+     {"label": "Deputy Chief Ministers", "children": [
+       {"label": "Nemcha Kipgen: Kangpokpi MLA"},
+       {"label": "Losii Dikho: Mao MLA"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Violence and Triggers Map",
+   "root": {
+    "label": "Violence and Immediate Triggers",
+    "children": [
+     {"label": "Kuki-Zomi vs Meitei clash", "children": [
+       {"label": "First in three decades"}
+     ]},
+     {"label": "Meitei ST status demand", "children": [
+       {"label": "Persisted since 2012"},
+       {"label": "High Court direction in 2023"}
+     ]},
+     {"label": "Kuki concerns", "children": [
+       {"label": "Land purchase in hill areas"},
+       {"label": "16 households evicted"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Historical Divides Map",
+   "root": {
+    "label": "Manipur's Historical Divides",
+    "children": [
+     {"label": "Population and land", "children": [
+       {"label": "Meiteis: 52% of population"},
+       {"label": "Valleys cover 10% of land"}
+     ]},
+     {"label": "Hill areas", "children": [
+       {"label": "Cover 89% of land"},
+       {"label": "20 of 60 seats"}
+     ]},
+     {"label": "Land rules", "children": [
+       {"label": "Meiteis barred in 90% of state"},
+       {"label": "Tribals can buy in Imphal Valley"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "President's Rule Mechanics Map",
+   "root": {
+    "label": "President's Rule Mechanics",
+    "children": [
+     {"label": "Articles", "children": [
+       {"label": "355: Centre's duty"},
+       {"label": "356: President's proclamation"},
+       {"label": "365: Non-compliance with Centre"}
+     ]},
+     {"label": "Duration", "children": [
+       {"label": "Approval within 2 months"},
+       {"label": "Continues 6 months"},
+       {"label": "Extension up to 3 years"}
+     ]},
+     {"label": "Revocation", "children": [
+       {"label": "Any time by proclamation"},
+       {"label": "No Parliamentary approval"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Records and Rulings Map",
+   "root": {
+    "label": "Key Records and Rulings",
+    "children": [
+     {"label": "Most instances", "children": [
+       {"label": "Manipur: 11"},
+       {"label": "UP: 10"},
+       {"label": "J&K: 9"},
+       {"label": "Punjab: 8"}
+     ]},
+     {"label": "First three instances", "children": [
+       {"label": "Punjab 1951"},
+       {"label": "PEPSU 1953"},
+       {"label": "Andhra 1954"}
+     ]},
+     {"label": "Judgment", "children": [
+       {"label": "S.R. Bommai vs Union of India 1994"},
+       {"label": "Power not absolute"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Article Chain",
+   "mnemonic": "Duty, Takeover, Defiance: 355, 356, 365",
+   "decode": [
+    {"key": "355", "meaning": "Centre's duty to ensure state governments run per the Constitution"},
+    {"key": "356", "meaning": "President may act when a state government cannot function per the Constitution"},
+    {"key": "365", "meaning": "State fails to comply with directions from the Centre"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Duration Timeline",
+   "mnemonic": "Two to approve, six to last, three at most",
+   "decode": [
+    {"key": "Two", "meaning": "Months within which both Houses must approve the proclamation"},
+    {"key": "Six", "meaning": "Months it continues after approval"},
+    {"key": "Three", "meaning": "Years maximum for extension"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "MUJP Count",
+   "mnemonic": "MUJP: the four states with the most President's Rule instances",
+   "decode": [
+    {"key": "M", "meaning": "Manipur, 11 instances"},
+    {"key": "U", "meaning": "Uttar Pradesh, 10 instances"},
+    {"key": "J", "meaning": "Jammu & Kashmir, 9 instances"},
+    {"key": "P", "meaning": "Punjab, 8 instances"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "New Government Check",
+   "passage": "Manipur has moved back to an elected government after nearly one year of direct central control. The state's administration was run by the Centre because the state government could not control a crisis in which violence broke out between Kuki-Zomi tribal groups and the Meitei community. Reports described it as the first clash of this kind in three decades in the state. The President revoked the arrangement, clearing the way for an elected government to take office. The new chief minister belongs to the Bharatiya Janata Party. Two deputy chief ministers were also sworn in, one from the Kuki-Zo community and one from the Naga community. Their presence reflects the state's mix of communities, which has long shaped its politics. The oath-taking marked the start of a new government after a long period without one. The roots of the conflict go back much further. The Meitei community lives mainly in the valley, which covers a small share of the state's land, while the hill areas cover most of it. Land purchase rules differ between the two regions. Disputes over census figures, the delimitation process and demands for tribal status have added to the tension between communities. The Meitei community has also raised concerns about inaccurate census figures from 2020. Critics have raised allegations of human rights abuses in affected regions, where the armed forces have extensive powers. Demands for autonomy from Nagas and Kukis have also been part of the state's politics for years.",
+   "questions": [
+    {
+     "q": "Who was sworn in as the 13th Chief Minister of Manipur?",
+     "options": ["Yumnam Khemchand Singh", "N. Biren Singh", "Okram Ibobi Singh", "Mairembam Koireng Singh"],
+     "answer": 0,
+     "explanation": "Yumnam Khemchand Singh (BJP) was sworn in as the 13th Manipur Chief Minister."
+    },
+    {
+     "q": "Which constituency is represented by Deputy Chief Minister Losii Dikho?",
+     "options": ["Senapati", "Mao", "Imphal", "Kangpokpi"],
+     "answer": 1,
+     "explanation": "Losii Dikho is the Naga MLA from Mao constituency."
+    },
+    {
+     "q": "Under which Article can the President issue a proclamation if a state fails to comply with directions from the Centre?",
+     "options": ["Article 356", "Article 352", "Article 365", "Article 355"],
+     "answer": 2,
+     "explanation": "Article 365 covers a state's failure to comply with or give effect to directions from the Centre."
+    },
+    {
+     "q": "Assertion (A): Manipur became a Union Territory before it attained full statehood.\nReason (R): The Meitei community currently holds Scheduled Tribe status in Manipur.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 2,
+     "explanation": "Manipur became a Union Territory in 1956, but the Meitei demand for ST status has persisted since 2012, so R is false."
+    },
+    {
+     "q": "Match List I with List II:\nI. 1891   ->   A. Manipur became a Princely State under British rule\nII. 1947   ->   D. Maharaja Budhachandra signed the Treaty of Accession\nIII. 1956   ->   B. Manipur became a Union Territory\nIV. 2012   ->   C. Demand for ST status for the Meitei community persisted",
+     "options": ["I-B, II-A, III-C, IV-D", "I-A, II-B, III-D, IV-C", "I-D, II-A, III-B, IV-C", "I-A, II-D, III-B, IV-C"],
+     "answer": 3,
+     "explanation": "Manipur became a Princely State in 1891, the Treaty of Accession came in 1947, Union Territory status in 1956, and the ST demand has persisted since 2012."
+    },
+    {
+     "q": "Consider the following statements about President's Rule in India:\nI. Under Article 356, President's Rule can be imposed when the constitutional machinery of a state fails.\nII. A proclamation must be approved by both Houses of Parliament within 2 months of its issue.\nIII. The President needs Parliament's approval to revoke a proclamation of President's Rule.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "Statements I and II are correct, while III is wrong because a proclamation can be revoked by the President without Parliamentary approval."
+    },
+    {
+     "q": "How many of the following statements about President's Rule are correct?\nI. A resolution approving the proclamation needs a simple majority in either House.\nII. The President needs Parliament's approval to revoke a proclamation.\nIII. President's Rule can be extended up to a maximum period of 3 years with Parliament's approval.\nIV. Jammu and Kashmir had the shortest single period under President's Rule.",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and III are correct, while II is wrong (no approval is needed for revocation) and IV is wrong (J&K had the longest single period)."
+    },
+    {
+     "q": "Which state has experienced President's Rule the most number of times?",
+     "options": ["Jammu & Kashmir", "Punjab", "Uttar Pradesh", "Manipur"],
+     "answer": 3,
+     "explanation": "Manipur has had President's Rule 11 times, the most of any state listed in the booklet."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "President's Rule Recall",
+   "passage": "President's Rule is the term used when the Centre takes over the government of a state. The Constitution gives the Centre a duty to make sure that every state government is carried on in accordance with its provisions. When a state's constitutional machinery fails, the Centre can take over under a separate Article, which lets the President issue a proclamation if satisfied that a state government cannot function as the Constitution requires. Such a proclamation is also used when a state does not comply with directions from the Centre. Once a proclamation is issued, Parliament must approve it within a fixed time. If both Houses approve, the arrangement continues for a fixed period. It can be extended, but only with Parliament's approval and only up to an overall limit. During this time, the President can take over the functions of the state government and the powers of the Governor or other executive authorities. The President can also declare that the powers of the state legislature will be exercised by Parliament. A proclamation can be revoked by the President at any time through a later proclamation, and such a revocation does not need Parliamentary approval. Resolutions approving the proclamation in either House need only a simple majority of members present and voting. These rules on duration, approval and revocation are the main points to remember for this topic.",
+   "questions": [
+    {
+     "q": "What is the maximum overall period, in years, for which President's Rule can be extended? (in years)",
+     "answer": "3",
+     "accept": ["three", "3 years", "three years"],
+     "explanation": "Parliament can extend President's Rule every 6 months, up to a maximum period of 3 years."
+    },
+    {
+     "q": "Within how many months of its issue must both Houses of Parliament approve a proclamation of President's Rule? (in months)",
+     "answer": "2",
+     "accept": ["two", "2 months", "two months"],
+     "explanation": "The proclamation must be approved by both Houses within 2 months from the date of its issue."
+    },
+    {
+     "q": "For how many months does President's Rule continue after both Houses approve it? (in months)",
+     "answer": "6",
+     "accept": ["six", "6 months", "six months"],
+     "explanation": "If approved by both Houses, President's Rule continues for 6 months."
+    },
+    {
+     "q": "Which state has experienced President's Rule the most number of times?",
+     "answer": "Manipur",
+     "accept": ["Manipur state"],
+     "explanation": "Manipur has had President's Rule 11 times, the most of any state in the booklet."
+    },
+    {
+     "q": "Name the 1994 Supreme Court case which held that the President's power to dismiss a State Government is not absolute.",
+     "answer": "S.R. Bommai vs Union of India",
+     "accept": ["S R Bommai vs Union of India", "SR Bommai", "S.R. Bommai", "Bommai", "S R Bommai"],
+     "explanation": "In S.R. Bommai vs Union of India (1994), the Supreme Court concluded that the President's power to dismiss a State Government is not absolute."
+    },
+    {
+     "q": "Under which Article does the Centre's duty to ensure that every state government is carried on per the Constitution arise? (article number)",
+     "answer": "355",
+     "accept": ["Article 355", "art 355"],
+     "explanation": "Article 355 imposes a duty on the Centre to ensure that every state government is carried on in accordance with the Constitution."
+    },
+    {
+     "q": "Which state has experienced the longest single period under President's Rule? (state name)",
+     "answer": "Jammu & Kashmir",
+     "accept": ["J&K", "Jammu and Kashmir", "Jammu & Kashmir", "JK"],
+     "explanation": "J&K has the longest single period under President's Rule among the states listed in the booklet."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 26, "what": "Year Manipur was granted full-fledged statehood is garbled (reads '1o.72'); not used"},
+  {"page": 27, "what": "Whether Chief Minister Biren Singh resigned is unclear from the 'Position of Hon'ble Chief Minister' section; not used"},
+  {"page": 28, "what": "Layout of the 44th Amendment sentence (which provision it deleted) is ambiguous; only the 38th Amendment finality clause and the 1-year extension conditions were used"}
+ ]
+}
