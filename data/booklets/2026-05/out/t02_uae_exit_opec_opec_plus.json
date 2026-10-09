@@ -1,0 +1,298 @@
+{
+ "topic": {
+  "title": "UAE's Exit from OPEC and OPEC+",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "UAE's Exit from OPEC and OPEC+",
+    "summary": "The United Arab Emirates announced that it will leave OPEC and the wider OPEC+ alliance, effective 01 May 2026. The exit is seen as a major geopolitical shift that could weaken OPEC's influence over the global oil market. OPEC+ brings OPEC together with major non-OPEC producers, and the alliance pumps around 40% of the world's crude oil.",
+    "facts": [
+     "UAE joined OPEC in 1967.",
+     "UAE's exit from OPEC and OPEC+ is effective 01 May 2026.",
+     "The exit is seen as a major geopolitical shift.",
+     "The exit could weaken OPEC's influence over the global oil market.",
+     "The exit reduces the group's collective ability to control global oil prices.",
+     "OPEC+ is an alliance of OPEC and 11 major non-OPEC producers, formed in 2016.",
+     "OPEC+ pumps around 40% of the world's crude oil."
+    ],
+    "keywords": ["UAE", "OPEC+", "geopolitical shift", "effective 01 May 2026", "oil market influence"]
+   },
+   {
+    "title": "OPEC: Origin, Mandate and Membership",
+    "summary": "OPEC was established in 1960 at the Baghdad Conference and is headquartered in Vienna, Austria. Its mandate is to protect oil exporters' interests by coordinating production policies for stable supply and fair returns. It acts as a regulatory authority for the international energy market, using production quotas to prevent extreme fluctuations in crude oil prices.",
+    "facts": [
+     "Established in 1960 at the Baghdad Conference.",
+     "Founding members: Iran, Iraq, Kuwait, Saudi Arabia and Venezuela.",
+     "Headquarters in Vienna, Austria.",
+     "Mandate: protect oil exporters' interests through coordinated production policies.",
+     "Uses production quotas to prevent extreme fluctuations in crude oil prices.",
+     "After the UAE's exit, OPEC has 11 members.",
+     "Members include Algeria, Congo, Equatorial Guinea, Gabon, Iran, Iraq, Kuwait, Libya, Nigeria, Saudi Arabia and Venezuela.",
+     "Ecuador suspended its membership in 1992; Gabon terminated its membership in January 1995.",
+     "All OPEC member countries are signatories to the UNFCCC."
+    ],
+    "keywords": ["OPEC", "Baghdad Conference", "production quotas", "Vienna", "mandate"]
+   },
+   {
+    "title": "Reasons Behind the Exit and Its Impact",
+    "summary": "Production quota limits stopped the UAE from fully using its expanding oil capacity, and it aims for about 5 million barrels/day by 2027. The UAE also expects global oil demand to peak soon and then decline, so it wants strong oil revenues now while preparing for the energy transition. Long-standing tensions with Saudi Arabia over production policy add to the pressures behind the exit.",
+    "facts": [
+     "Production quota constraints limited the UAE's ability to fully use its expanding oil capacity.",
+     "The UAE aims to reach about 5 million barrels/day by 2027.",
+     "The UAE holds the world's 6th largest oil reserves.",
+     "The UAE predicts an imminent peak in global oil demand, followed by gradual decline.",
+     "Strategy: maximise short-term oil revenues while preparing for a long-term transition to renewables.",
+     "Oil revenues are meant to fund AI and data centre growth, driving a diversified economy.",
+     "Long-standing tensions with Saudi Arabia over production policy within OPEC.",
+     "Independent production strategies may lead to greater price volatility.",
+     "Peak Oil Theory, proposed by M. King Hubbert, says production follows a bell-shaped curve before irreversible decline."
+    ],
+    "keywords": ["production quotas", "peak demand", "5 million barrels/day", "energy transition", "Saudi Arabia rivalry", "Peak Oil Theory"]
+   },
+   {
+    "title": "Habshan-Fujairah Pipeline and India's Stake",
+    "summary": "The Habshan-Fujairah pipeline is a crude oil pipeline in the UAE that carries oil from inland fields to a port on the Gulf of Oman, bypassing the Strait of Hormuz. It boosts UAE export flexibility, which matters amid Strait of Hormuz disruption risks. For India, lower oil prices would reduce import costs and ease inflationary pressure.",
+    "facts": [
+     "Crude oil pipeline in the UAE.",
+     "Connects inland oil fields of Habshan to the port of Fujairah on the Gulf of Oman.",
+     "Bypasses the Strait of Hormuz.",
+     "Boosts UAE export flexibility and enables higher output amid Strait of Hormuz disruption risks.",
+     "India stands to gain from decreased oil prices.",
+     "Lower prices would reduce India's import costs and mitigate inflationary pressures.",
+     "The shift allows direct bilateral negotiations outside traditional cartel restrictions.",
+     "Supports India's de-dollarisation by encouraging energy settlements in rupees.",
+     "Heightened market volatility could complicate India's long-term energy budgeting."
+    ],
+    "keywords": ["Habshan-Fujairah", "Strait of Hormuz", "India", "de-dollarisation", "bilateral negotiations"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "UAE's Exit from OPEC and OPEC+",
+   "root": {
+    "label": "UAE exit from OPEC and OPEC+",
+    "children": [
+     {"label": "What changed", "children": [{"label": "Effective 01 May 2026"}, {"label": "Seen as major geopolitical shift"}, {"label": "Leaves OPEC and OPEC+"}]},
+     {"label": "OPEC's role", "children": [{"label": "Regulates supply via production quotas"}, {"label": "Established 1960, Baghdad Conference"}, {"label": "Headquarters in Vienna"}]},
+     {"label": "Reasons for exit", "children": [{"label": "Quota limits on expanding capacity"}, {"label": "Expected peak in oil demand"}, {"label": "Short-term revenue, long-term transition"}, {"label": "Tensions with Saudi Arabia"}]},
+     {"label": "Impact", "children": [{"label": "Weaker OPEC influence over prices"}, {"label": "Greater price volatility"}, {"label": "Shift in energy geopolitics"}]},
+     {"label": "Pipeline and India", "children": [{"label": "Habshan-Fujairah bypasses Hormuz"}, {"label": "India may gain from lower prices"}, {"label": "Settlements in rupees"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "UAE's Exit: Key Points",
+   "root": {
+    "label": "UAE exit from OPEC and OPEC+",
+    "children": [
+     {"label": "Effective 01 May 2026"},
+     {"label": "UAE joined OPEC in 1967"},
+     {"label": "Seen as major geopolitical shift"},
+     {"label": "OPEC+ formed in 2016"},
+     {"label": "OPEC+ pumps around 40% of world crude"}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "OPEC at a Glance",
+   "root": {
+    "label": "OPEC",
+    "children": [
+     {"label": "Origin", "children": [{"label": "1960, Baghdad Conference"}, {"label": "Founders: Iran, Iraq, Kuwait, Saudi Arabia, Venezuela"}]},
+     {"label": "Mandate", "children": [{"label": "Protect oil exporters' interests"}, {"label": "Stable supply, fair returns"}]},
+     {"label": "Tools", "children": [{"label": "Production quotas"}]},
+     {"label": "Membership", "children": [{"label": "11 members after UAE exit"}, {"label": "HQ: Vienna, Austria"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Reasons and Impact",
+   "root": {
+    "label": "Reasons and impact of exit",
+    "children": [
+     {"label": "Quota limits", "children": [{"label": "Capacity not fully used"}]},
+     {"label": "Demand outlook", "children": [{"label": "Imminent peak in oil demand"}]},
+     {"label": "Strategy", "children": [{"label": "Short-term oil revenues"}, {"label": "Long-term renewables transition"}]},
+     {"label": "Rivalry", "children": [{"label": "Tensions with Saudi Arabia"}]},
+     {"label": "Market impact", "children": [{"label": "Weaker collective discipline"}, {"label": "Greater price volatility"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Pipeline and India",
+   "root": {
+    "label": "Habshan-Fujairah and India",
+    "children": [
+     {"label": "Pipeline", "children": [{"label": "Inland Habshan to Fujairah port"}, {"label": "Bypasses Strait of Hormuz"}]},
+     {"label": "Export flexibility", "children": [{"label": "Higher output amid Hormuz risks"}]},
+     {"label": "India gains", "children": [{"label": "Lower import costs"}, {"label": "Less inflationary pressure"}, {"label": "Rupee energy settlements"}]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "OPEC founding members",
+   "mnemonic": "Iranian Iraqi Kings Sail Venice",
+   "decode": [
+    {"key": "I", "meaning": "Iran, a founding member"},
+    {"key": "I", "meaning": "Iraq, a founding member"},
+    {"key": "K", "meaning": "Kuwait, a founding member"},
+    {"key": "S", "meaning": "Saudi Arabia, a founding member"},
+    {"key": "V", "meaning": "Venezuela, a founding member"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "UAE's reasons for exit",
+   "mnemonic": "Quiet Peacocks Seek New Insight",
+   "decode": [
+    {"key": "Q", "meaning": "Quota constraints limited use of expanding capacity"},
+    {"key": "P", "meaning": "Peak in global oil demand expected imminently"},
+    {"key": "S", "meaning": "Short-term oil revenues are the strategy"},
+    {"key": "N", "meaning": "National interest: revenue to fund AI and data centres"},
+    {"key": "I", "meaning": "Internal OPEC tensions with Saudi Arabia"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "OPEC and the UAE Exit: MCQ Set",
+   "passage": "Oil-producing countries have long coordinated their output so that crude prices do not swing too sharply. When prices fall too low, exporters that depend on petroleum revenue lose income, and when supply runs ahead of demand, the market can become oversupplied. Recently the United Arab Emirates announced that it would leave the producer group and its wider alliance with other oil exporters, a move seen as a major geopolitical shift. Collective decisions by the group have traditionally helped it shape global oil prices, so the departure of a large producer may reduce that influence. Output quotas were one reason behind the exit, because they limited how fully the UAE could use its expanding capacity. The booklet also points to growing competition among producers, including rivalry between the UAE and a major regional neighbour. The episode matters for importing countries such as India as well, since lower prices could ease their import bills while greater volatility could make long-term budgeting harder. Taken together, the exit shows how energy markets, regional politics and national economic goals are closely linked.",
+   "questions": [
+    {
+     "q": "Where is the headquarters of OPEC located?",
+     "options": ["Geneva, Switzerland", "Brussels, Belgium", "Vienna, Austria", "Riyadh, Saudi Arabia"],
+     "answer": 2,
+     "explanation": "The booklet gives OPEC's headquarters as Vienna, Austria."
+    },
+    {
+     "q": "OPEC was established at which conference?",
+     "options": ["Bandung Conference", "Baghdad Conference", "Geneva Conference", "Vienna Conference"],
+     "answer": 1,
+     "explanation": "The booklet states OPEC was established at the Baghdad Conference in 1960."
+    },
+    {
+     "q": "Assertion (A): The UAE's exit reduces OPEC's collective ability to control global oil prices.\nReason (R): The UAE is a major oil producer.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 0,
+     "explanation": "The booklet says the UAE is a major oil producer, and its exit reduces the group's collective discipline over prices."
+    },
+    {
+     "q": "Match List I with List II:\nI. Peak Oil Theory   ->   A. Proposed by M. King Hubbert\nII. OPEC Fund for International Development   ->   B. Established in 1976\nIII. OPEC+ alliance   ->   C. Formed in 2016\nIV. Habshan-Fujairah Pipeline   ->   D. Connects Habshan to Fujairah",
+     "options": [
+      "I-B, II-A, III-D, IV-C",
+      "I-C, II-D, III-A, IV-B",
+      "I-D, II-C, III-B, IV-A",
+      "I-A, II-B, III-C, IV-D"
+     ],
+     "answer": 3,
+     "explanation": "Peak Oil Theory is linked to M. King Hubbert, OFID to 1976, OPEC+ to 2016, and the pipeline connects Habshan to Fujairah."
+    },
+    {
+     "q": "Consider the following statements:\nI. The UAE aims to reach about 5 million barrels per day by 2027.\nII. The UAE holds the world's 6th largest oil reserves.\nIII. Russia was the world's largest oil producer in 2022.\nWhich of the above statements is/are correct?",
+     "options": ["I and III only", "II and III only", "I and II only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statements I and II match the booklet, while Russia was the 3rd-largest oil producer in 2022, so III is wrong."
+    },
+    {
+     "q": "Consider the following statements about OPEC:\nI. Ecuador was suspended from OPEC in 1992.\nII. All OPEC member countries are signatories to the UNFCCC.\nIII. Ecuador rejoined OPEC in 1992.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statements I and II are stated in the booklet, while the claim that Ecuador rejoined in 1992 is wrong."
+    },
+    {
+     "q": "Which of the following was NOT a founding member of OPEC?",
+     "options": ["Iran", "Iraq", "UAE", "Venezuela"],
+     "answer": 2,
+     "explanation": "The booklet lists the founders as Iran, Iraq, Kuwait, Saudi Arabia and Venezuela, and says the UAE joined in 1967."
+    },
+    {
+     "q": "Which country terminated its OPEC membership in January 1995?",
+     "options": ["Libya", "Gabon", "Nigeria", "Ecuador"],
+     "answer": 1,
+     "explanation": "The booklet says Gabon terminated its membership in January 1995, while Ecuador was only suspended in 1992."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "Reasons and Impact: Short Answer Set",
+   "passage": "One reason given for the UAE's exit is that output limits set through the producer group kept it from using its growing production capacity in full. The country's outlook looks ahead to a time when global oil demand may peak and then decline gradually. Its present approach is to earn strong oil revenues in the near term while preparing for a longer-term shift to renewable energy. Those revenues are intended to help fund growth in artificial intelligence and data centres, supporting a more diversified economy. Friction within the producer group over production policy has been long-standing, and rivalry between the UAE and a regional neighbour over economic and political influence has intensified. Infrastructure also adds flexibility: an inland pipeline in the UAE carries crude from oil fields to a coastal terminal on the Gulf of Oman, which helps exporters when shipping routes face disruption risks. For India, which imports a large share of its crude, lower oil prices would reduce import costs and ease inflation pressure, while a move away from group restrictions could allow direct bilateral deals. The booklet also notes that rising volatility could complicate long-term energy budgeting. Taken together, these developments show how energy, security and economic strategy are tied together in the Gulf.",
+   "questions": [
+    {
+     "q": "By 2027, what daily production level (in million barrels per day) does the UAE aim to reach?",
+     "answer": "5",
+     "accept": ["5 million", "5 million barrels/day", "five", "5.0"],
+     "explanation": "The booklet states the UAE aims to reach about 5 million barrels/day by 2027."
+    },
+    {
+     "q": "Which port does the Habshan-Fujairah Pipeline connect the inland oil fields to?",
+     "answer": "Fujairah",
+     "accept": ["Port of Fujairah", "Fujairah port"],
+     "explanation": "The booklet says the pipeline connects inland oil fields of Habshan to the port of Fujairah on the Gulf of Oman."
+    },
+    {
+     "q": "With which regional oil producer does the UAE have long-standing tensions over OPEC production policy?",
+     "answer": "Saudi Arabia",
+     "accept": ["Saudi", "KSA"],
+     "explanation": "The booklet lists long-standing tensions with Saudi Arabia over production policy within OPEC."
+    },
+    {
+     "q": "In which currency would the UAE's exit encourage energy settlements for India, supporting its de-dollarisation strategy?",
+     "answer": "Rupees",
+     "accept": ["Rupee", "Indian rupees", "Indian rupee", "INR"],
+     "explanation": "The booklet says the shift supports India's de-dollarisation by encouraging energy settlements in rupees."
+    },
+    {
+     "q": "In which year was the OPEC+ alliance formed?",
+     "answer": "2016",
+     "accept": ["2016 "],
+     "explanation": "The booklet states that OPEC+ was formed in 2016."
+    },
+    {
+     "q": "Roughly what percentage of the world's crude oil does OPEC+ pump (in per cent)?",
+     "answer": "40",
+     "accept": ["40 per cent", "40%", "around 40", "forty"],
+     "explanation": "The booklet says OPEC+ pumps around 40% of the world's crude oil."
+    },
+    {
+     "q": "Which former OPEC member was suspended from the group in 1992?",
+     "answer": "Ecuador",
+     "accept": [],
+     "explanation": "The booklet says Ecuador suspended its membership in 1992."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 12, "what": "OPEC 2025 crude production share chart values are garbled; not used."},
+  {"page": 13, "what": "Gulf Cooperation Council box (formation year and details) is garbled; not used."},
+  {"page": 13, "what": "India crude import supplier share chart values are garbled; not used."},
+  {"page": 14, "what": "Membership timeline entries for Ecuador, Indonesia, Gabon and Qatar (joining, rejoining and terminating dates) are garbled; not used."},
+  {"page": 14, "what": "OPEC+ member list is partly garbled with repeated names; only the non-OPEC list on page 13 was used."},
+  {"page": 15, "what": "Practice question says UAE is the world's largest oil reserve holder, which conflicts with the 6th largest stated on page 13; not used."},
+  {"page": 16, "what": "Practice question calls UAE the largest oil producer, which conflicts with the 3rd largest stated on page 13; not used."}
+ ]
+}
