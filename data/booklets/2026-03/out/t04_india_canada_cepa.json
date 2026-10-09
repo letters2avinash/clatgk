@@ -1,0 +1,431 @@
+{
+ "topic": {
+  "title": "India-Canada Relations: Reset, CEPA and Strains",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "Background of Bilateral Ties",
+    "summary": "India and Canada established diplomatic ties in 1947 and cooperate in trade, nuclear energy and space. Bilateral trade was worth USD 30.9 billion in 2024. Their nuclear and space links date back to the 1950s and 2013.",
+    "facts": [
+     "Diplomatic ties established in 1947.",
+     "Bilateral trade worth USD 30.9 billion in 2024.",
+     "Nuclear Cooperation Agreement (2013) facilitates uranium supply and oversight.",
+     "Canada assisted India in building a nuclear research reactor named CIRUS in 1954.",
+     "Space collaboration between ISRO and the Canadian Space Agency.",
+     "Joint research collaboration exists between the two countries."
+    ],
+    "keywords": ["diplomatic ties", "1947", "bilateral trade", "nuclear agreement", "CIRUS", "ISRO"]
+   },
+   {
+    "title": "Key Outcomes of the Canadian PM's Visit",
+    "summary": "Canadian PM Mark Carney signalled a reset with India, and formal CEPA trade talks restarted. The visit produced outcomes in energy, climate, technology, agriculture, student mobility and critical minerals. Several outcomes came with a stated target or time frame.",
+    "facts": [
+     "Negotiations on CEPA formally restarted.",
+     "Bilateral trade target set at $50 billion by 2030.",
+     "Canada's Cameco to supply uranium ore concentrates from 2027 to 2035.",
+     "Canada announced intent to join the International Solar Alliance.",
+     "Canada to upgrade to full membership in the Global Biofuels Alliance.",
+     "ACITI (Australia-Canada-India Technology and Innovation) Partnership launched.",
+     "ACITI focus: emerging technologies, digital innovation, advanced manufacturing.",
+     "Pulse Protein Centre of Excellence set up at National Institute of Food Technology Entrepreneurship and Management.",
+     "Fully funded research internships for 300 Indian students annually.",
+     "MoU signed for secure and resilient critical minerals supply chains, aligned with the G7 Critical Minerals Action Plan."
+    ],
+    "keywords": ["Mark Carney", "CEPA", "Cameco", "ACITI", "International Solar Alliance", "Pulse Protein Centre"]
+   },
+   {
+    "title": "Diplomatic Strains and Trade Impact",
+    "summary": "Ties deteriorated after PM Justin Trudeau alleged a potential link between Indian agents and the 2023 killing of Hardeep Singh Nijjar. Both countries expelled diplomats and froze consular services. The rifts stalled CEPA talks, slowed trade and delayed visa processing.",
+    "facts": [
+     "PM Justin Trudeau alleged a potential link between Indian agents and Nijjar's killing in 2023.",
+     "Both countries expelled diplomats and froze consular services.",
+     "India sees Canada's tolerance of Khalistani separatist groups as a threat to territorial integrity.",
+     "Diplomatic rifts stalled CEPA negotiations and slowed bilateral trade.",
+     "Diplomatic rifts created uncertainty about Canadian investments in India.",
+     "Delays in Canadian visa processing for Indians due to reduced Canadian diplomatic staff.",
+     "The standoff may harm India's G20 reputation.",
+     "The standoff may complicate relations with Five Eyes allies and a G7 member."
+    ],
+    "keywords": ["Nijjar", "diplomatic expulsions", "consular services", "visa delays", "Five Eyes", "G20"]
+   },
+   {
+    "title": "Khalistan Movement and Its Context",
+    "summary": "The Khalistan movement is rooted in Sikh identity, the 1947 Partition and demands for Punjab's autonomy. Violent episodes such as the Air India bombing and the 1984 assassination of Indira Gandhi shaped the issue. Diaspora-based separatist support abroad keeps the issue alive in India-Canada ties.",
+    "facts": [
+     "Khalsa tradition established in 1699, marking Sikh identity and autonomy.",
+     "Partition of India (1947) left Sikhs as a minority, creating dissatisfaction over lost ancestral lands.",
+     "Anandpur Sahib Resolution demanded greater autonomy for Punjab.",
+     "Jarnail Singh Bhindranwale became the face of Sikh militancy, advocating Khalistan.",
+     "Operation Black Thunder: Indian forces removed militants from the Golden Temple.",
+     "Air India bombing: Canada-based Sikh extremists bombed a flight.",
+     "In 1984, Indira Gandhi's Sikh bodyguards killed her, triggering anti-Sikh riots.",
+     "Khalistani groups found support in Canada, the UK, the US and Australia."
+    ],
+    "keywords": ["Khalsa", "1699", "Anandpur Sahib Resolution", "Bhindranwale", "Operation Black Thunder", "Air India bombing"]
+   },
+   {
+    "title": "Vienna Conventions on Diplomatic Immunity",
+    "summary": "The Vienna Convention on Diplomatic Relations (1961) and the Vienna Convention on Consular Relations (1963) set the framework for diplomatic and consular ties. They protect diplomats from arrest and legal processes and make diplomatic missions inviolable. Consular officers can perform their duties without interference.",
+    "facts": [
+     "Vienna Convention on Diplomatic Relations (1961) sets the framework for diplomatic relations.",
+     "Vienna Convention on Consular Relations (1963) sets the framework for consular relations.",
+     "Diplomats are protected from arrest and legal processes (diplomatic immunity).",
+     "Missions cannot be entered without permission (inviolability of diplomatic premises).",
+     "Consular officers can perform duties without interference.",
+     "Diplomatic immunity is the key provision protecting diplomats."
+    ],
+    "keywords": ["Vienna Convention", "diplomatic immunity", "inviolability", "consular officers"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "India-Canada Relations at a Glance",
+   "root": {
+    "label": "India-Canada Relations",
+    "children": [
+     {
+      "label": "Background",
+      "children": [
+       {"label": "Diplomatic ties since 1947", "children": []},
+       {"label": "Bilateral trade USD 30.9 billion (2024)", "children": []},
+       {"label": "Nuclear Cooperation Agreement (2013)", "children": []}
+      ]
+     },
+     {
+      "label": "Visit outcomes",
+      "children": [
+       {"label": "CEPA talks formally resumed", "children": []},
+       {"label": "Trade target $50 billion by 2030", "children": []},
+       {"label": "Uranium supply 2027 to 2035", "children": []}
+      ]
+     },
+     {
+      "label": "Technology and climate",
+      "children": [
+       {"label": "ACITI partnership launched", "children": []},
+       {"label": "Intent to join International Solar Alliance", "children": []}
+      ]
+     },
+     {
+      "label": "Strains",
+      "children": [
+       {"label": "Nijjar killing allegation (2023)", "children": []},
+       {"label": "Diplomats expelled, consular services frozen", "children": []},
+       {"label": "Khalistan issue", "children": []},
+       {"label": "CEPA negotiations stalled", "children": []}
+      ]
+     },
+     {
+      "label": "Diplomatic immunity",
+      "children": [
+       {"label": "Vienna Conventions (1961 and 1963)", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Background Map",
+   "root": {
+    "label": "Background of Ties",
+    "children": [
+     {"label": "Diplomatic ties: 1947", "children": []},
+     {"label": "Trade: USD 30.9 billion (2024)", "children": []},
+     {
+      "label": "Nuclear cooperation",
+      "children": [
+       {"label": "2013 agreement: uranium supply", "children": []},
+       {"label": "CIRUS reactor built with Canadian help (1954)", "children": []}
+      ]
+     },
+     {"label": "Space: ISRO and Canadian Space Agency", "children": []}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Visit Outcomes Map",
+   "root": {
+    "label": "Key Outcomes of Visit",
+    "children": [
+     {
+      "label": "Trade",
+      "children": [
+       {"label": "CEPA talks restarted", "children": []},
+       {"label": "Target $50 billion by 2030", "children": []}
+      ]
+     },
+     {
+      "label": "Energy",
+      "children": [
+       {"label": "Cameco uranium supply 2027 to 2035", "children": []}
+      ]
+     },
+     {
+      "label": "Climate",
+      "children": [
+       {"label": "Intent to join International Solar Alliance", "children": []},
+       {"label": "Full membership in Global Biofuels Alliance", "children": []}
+      ]
+     },
+     {
+      "label": "Technology and agriculture",
+      "children": [
+       {"label": "ACITI partnership", "children": []},
+       {"label": "Pulse Protein Centre of Excellence", "children": []}
+      ]
+     },
+     {
+      "label": "People and minerals",
+      "children": [
+       {"label": "300 research internships a year", "children": []},
+       {"label": "Critical minerals MoU", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Strains Map",
+   "root": {
+    "label": "Diplomatic Strains",
+    "children": [
+     {"label": "Nijjar killing allegation (2023)", "children": []},
+     {
+      "label": "Diplomatic response",
+      "children": [
+       {"label": "Diplomats expelled", "children": []},
+       {"label": "Consular services frozen", "children": []}
+      ]
+     },
+     {"label": "Visa delays for Indians", "children": []},
+     {
+      "label": "Trade impact",
+      "children": [
+       {"label": "CEPA negotiations stalled", "children": []},
+       {"label": "Uncertainty for Canadian investments", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Khalistan Map",
+   "root": {
+    "label": "Khalistan Issue",
+    "children": [
+     {
+      "label": "Origins",
+      "children": [
+       {"label": "Khalsa tradition (1699)", "children": []},
+       {"label": "Partition left Sikhs as minority (1947)", "children": []}
+      ]
+     },
+     {
+      "label": "Key events",
+      "children": [
+       {"label": "Anandpur Sahib Resolution", "children": []},
+       {"label": "Operation Black Thunder", "children": []},
+       {"label": "Air India bombing", "children": []},
+       {"label": "Indira Gandhi killed (1984)", "children": []}
+      ]
+     },
+     {
+      "label": "Impact on ties",
+      "children": [
+       {"label": "Threat to territorial integrity (India view)", "children": []},
+       {"label": "Support abroad in Canada, UK, US, Australia", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Vienna Conventions Map",
+   "root": {
+    "label": "Vienna Conventions",
+    "children": [
+     {"label": "Diplomatic Relations (1961)", "children": []},
+     {"label": "Consular Relations (1963)", "children": []},
+     {
+      "label": "Key provisions",
+      "children": [
+       {"label": "Diplomats protected from arrest", "children": []},
+       {"label": "Missions cannot be entered without permission", "children": []},
+       {"label": "Consular officers act without interference", "children": []}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "CEPA Full Form",
+   "mnemonic": "Can Every Partner Agree?",
+   "decode": [
+    {"key": "C", "meaning": "Comprehensive: the scope of the CEPA deal"},
+    {"key": "E", "meaning": "Economic: the deal is an economic agreement"},
+    {"key": "P", "meaning": "Partnership: the agreement is between India and Canada"},
+    {"key": "A", "meaning": "Agreement: CEPA talks formally resumed during the visit"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "ACITI Partnership",
+   "mnemonic": "A Cricket Idea Takes Innovation",
+   "decode": [
+    {"key": "A", "meaning": "Australia, one of the three partner countries"},
+    {"key": "C", "meaning": "Canada, one of the three partner countries"},
+    {"key": "I", "meaning": "India, one of the three partner countries"},
+    {"key": "T", "meaning": "Technology, in the partnership's name"},
+    {"key": "I", "meaning": "Innovation, in the partnership's name"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Diplomatic Immunity Protections",
+   "mnemonic": "Diplomats Immune, Inviolable, Consuls Free",
+   "decode": [
+    {"key": "D", "meaning": "Diplomats are protected from arrest and legal processes"},
+    {"key": "I", "meaning": "Inviolability: missions cannot be entered without permission"},
+    {"key": "C", "meaning": "Consular officers can perform duties without interference"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "Visit Outcomes Check",
+   "passage": "Canadian Prime Minister Mark Carney visited India and signalled a reset in the relationship between the two countries. The reset came after a period of strained ties between the two countries. The visit led to a formal restart of negotiations on the Comprehensive Economic Partnership Agreement, known as CEPA. Cooperation was also widened in several areas. In energy, a Canadian company agreed to supply uranium ore concentrates to India, which supports India's fuel security. On climate and energy, Canada announced its intention to join a major solar alliance. In technology, a trilateral partnership was launched to promote innovation across the three countries. In agriculture, a centre of excellence was set up to work on pulse-based food products. Student mobility was a key theme of the visit, as education links continue to grow. Students and research ties also received attention, with research internships planned for Indian students. Finally, a memorandum of understanding was signed to build secure supply chains in critical minerals. Bilateral trade is an important part of the relationship, and both sides want it to grow further. The outcomes cover trade, energy, technology, agriculture and people-to-people links. Taken together, these outcomes show how the two countries plan to move beyond trade into new areas of partnership.",
+   "questions": [
+    {
+     "q": "From which year will Canada's Cameco begin supplying uranium ore concentrates to India?",
+     "options": ["2025", "2026", "2027", "2028"],
+     "answer": 2,
+     "explanation": "The booklet states that Cameco will supply uranium ore concentrates from 2027 to 2035."
+    },
+    {
+     "q": "What bilateral trade target has been set between India and Canada by 2030?",
+     "options": ["$50 Billion", "$20 Billion", "$35 Billion", "$75 Billion"],
+     "answer": 0,
+     "explanation": "The booklet sets the bilateral trade target at $50 Billion by 2030."
+    },
+    {
+     "q": "Assertion (A): The formal restart of CEPA talks was one of the outcomes of the Canadian PM's visit to India.\nReason (R): Diplomatic ties between India and Canada were established in 1947.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "The CEPA restart is a visit outcome, while the 1947 start of diplomatic ties is a separate fact that does not explain it."
+    },
+    {
+     "q": "Match List I with List II:\nI. Pulse Protein Centre of Excellence   ->   A. Fortified pulse products and food innovation\nII. Australia-Canada-India partnership   ->   B. Emerging technologies, digital innovation and advanced manufacturing\nIII. Global Biofuels Alliance   ->   C. Upgrade to full membership\nIV. Critical minerals MoU   ->   D. Alignment with G7 Critical Minerals Action Plan",
+     "options": ["I-B, II-A, III-C, IV-D", "I-A, II-B, III-C, IV-D", "I-A, II-C, III-B, IV-D", "I-C, II-A, III-B, IV-D"],
+     "answer": 1,
+     "explanation": "The Pulse centre focuses on fortified pulse products, the ACITI focus areas are the three technologies, and the other two rows are stated as full membership and G7 alignment."
+    },
+    {
+     "q": "Consider the following statements:\nI. Diplomatic ties between India and Canada were established in 1947.\nII. India remains the largest source of international students to Canada.\nIII. Canada's Cameco will supply uranium ore concentrates to India from 2025 to 2030.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "Statement III is wrong because the Cameco supply runs from 2027 to 2035, while statements I and II match the booklet."
+    },
+    {
+     "q": "How many of the following statements about the Australia-Canada-India Technology and Innovation Partnership are correct?\nI. It covers emerging technologies.\nII. It focuses on space and defence.\nIII. It covers digital innovation and advanced manufacturing.",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statements I and III match the booklet's listed focus areas, while statement II is not among them."
+    },
+    {
+     "q": "Which Canadian company is set to supply uranium ore concentrates to India?",
+     "options": ["Barrick Gold", "Teck Resources", "Cameco", "Suncor Energy"],
+     "answer": 2,
+     "explanation": "The booklet names Cameco as the Canadian company that will supply uranium ore concentrates to India."
+    },
+    {
+     "q": "At which institution was the India-Canada Pulse Protein Centre of Excellence established?",
+     "options": ["HT Delhi", "ICAR - Indian Agricultural Research Institute", "National Dairy Research Institute", "National Institute of Food Technology Entrepreneurship and Management"],
+     "answer": 3,
+     "explanation": "The booklet states the Pulse Protein Centre of Excellence was established at the National Institute of Food Technology Entrepreneurship and Management."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "Diplomatic Strain Recall",
+   "passage": "Relations between India and Canada came under strain after a series of disputes. Diplomatic ties between the two countries had been in place since 1947, so the strain was felt in a long-established relationship. Canada's Prime Minister alleged a possible link between Indian agents and the killing of a Sikh separatist leader, Hardeep Singh Nijjar. The disagreement deepened when both countries expelled diplomats and froze consular services, which made it harder for citizens to access official help. Routine services for citizens became harder to obtain for a time. India viewed Canada's tolerance of separatist groups as a threat to its territorial integrity, and this added to the mistrust between the two governments. The rifts also reached the economy. Trade negotiations were halted, bilateral trade slowed and investors in India were left facing uncertainty. Business planning became harder because of the uncertainty around trade ties and new investment in the region. Students and job applicants felt the impact as visa processing for Indians became slower. The standoff was also seen as a risk to India's standing in major global forums and to its ties with some of Canada's closest partners. Taken together, these developments show how a single dispute can spread into trade, visas and wider diplomacy.",
+   "questions": [
+    {
+     "q": "In which year was Hardeep Singh Nijjar killed? (in year)",
+     "answer": "2023",
+     "accept": ["2023"],
+     "explanation": "The booklet links the allegation to the killing of Nijjar in 2023."
+    },
+    {
+     "q": "Which Canadian Prime Minister alleged a potential link between Indian agents and the killing? (full name)",
+     "answer": "Justin Trudeau",
+     "accept": ["Trudeau", "PM Justin Trudeau"],
+     "explanation": "The booklet names PM Justin Trudeau as the leader who made the allegation."
+    },
+    {
+     "q": "Delays in Canadian visa processing for Indians are linked to reduced Canadian what? (two words)",
+     "answer": "diplomatic staff",
+     "accept": ["Diplomatic Staff", "diplomatic personnel"],
+     "explanation": "The booklet links visa delays to reduced Canadian diplomatic staff."
+    },
+    {
+     "q": "Canada's tolerance of which separatist groups does India see as a threat to its territorial integrity? (one word)",
+     "answer": "Khalistani",
+     "accept": ["Khalistan"],
+     "explanation": "The booklet says India perceives Canada's tolerance of Khalistani separatist groups as a threat."
+    },
+    {
+     "q": "Which trade agreement's negotiations were stalled by the diplomatic rifts? (acronym)",
+     "answer": "CEPA",
+     "accept": ["Comprehensive Economic Partnership Agreement"],
+     "explanation": "The booklet states that diplomatic rifts stalled CEPA negotiations."
+    },
+    {
+     "q": "The standoff may complicate relations with which group of allies? (two words)",
+     "answer": "Five Eyes",
+     "accept": ["Five Eyes allies", "Five Eyes alliance"],
+     "explanation": "The booklet says the standoff may complicate relations with Five Eyes allies and a G7 member."
+    },
+    {
+     "q": "The standoff may harm India's reputation in which grouping? (acronym)",
+     "answer": "G20",
+     "accept": ["G-20"],
+     "explanation": "The booklet states the diplomatic standoff may harm India's G20 reputation."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 28, "what": "Name of the joint research programme ('IC - IMPACTS') is garbled; not used."},
+  {"page": 28, "what": "Ordinal word before 'Nuclear Research Reactor CIRUS' is garbled; only 'a nuclear research reactor' and 1954 used."},
+  {"page": 30, "what": "Name of the founder of the Khalsa tradition is garbled; only the year 1699 used."},
+  {"page": 30, "what": "Name of the operation against the Golden Temple (text reads 'Operation BI: tar:') is garbled; not used by name."},
+  {"page": 30, "what": "Dharam Yudh Morcha description and Concept of Khalistan paragraph are garbled; not used."},
+  {"page": 30, "what": "Water disputes description and some Khalistan operation labels are garbled; not used."}
+ ]
+}

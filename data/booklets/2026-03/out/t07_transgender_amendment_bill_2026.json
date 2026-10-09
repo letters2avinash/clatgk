@@ -1,0 +1,359 @@
+{
+ "topic": {
+  "title": "Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+  "chapter_title": "Polity & Governance",
+  "subtopics": [
+   {
+    "title": "Definition and Certification Changes",
+    "summary": "The Bill narrows the definition of transgender person and omits Section 4(2) of the 2019 Act, which had recognised a person's right to self-perceived gender identity. Identity would be verified by a Medical Board led by a Chief Medical Officer or Deputy CMO, and the District Magistrate would issue the certificate on the Board's recommendation. Individuals who undergo gender reassignment surgery must apply for a revised gender certificate.",
+    "facts": [
+     "Bill omits Section 4(2) of the Transgender Persons Act, 2019.",
+     "Section 4(2) earlier recognised the right to self-perceived gender identity.",
+     "Definition keeps socio-cultural identities: Kinner, Hijra, Aravani, Jogta, Eunuch.",
+     "Definition covers specified inter-sex variations.",
+     "Definition covers congenital variations in sexual traits (genitalia, chromosomes, hormones).",
+     "Definition covers persons forced into transgender identity through mutilation or castration.",
+     "Removed categories: Trans-Man, Trans-Woman, Genderqueer.",
+     "Medical Board led by CMO or Deputy CMO verifies transgender identity.",
+     "District Magistrate issues certificate based on the Board's recommendation.",
+     "Gender reassignment surgery requires a revised gender certificate application."
+    ],
+    "keywords": ["Section 4(2)", "self-perceived gender identity", "Medical Board", "District Magistrate", "revised gender certificate", "narrowed definition"]
+   },
+   {
+    "title": "Penal, Reporting and National Council Provisions",
+    "summary": "The Bill expands penal provisions, with life imprisonment for forced mutilation of minors and up to 14 years for forcing children into begging. Medical institutions must report gender-affirming surgeries to the District Magistrate, and certificate holders can change their name in official documents. The National Council for Transgender Persons will include State and UT representatives, with rotational representation across regions.",
+    "facts": [
+     "Life imprisonment for forced mutilation of minors.",
+     "Up to 14 years imprisonment for forcing children into begging.",
+     "Medical institutions must report gender-affirming surgeries to the District Magistrate.",
+     "Certificate holders can change their name in official documents.",
+     "National Council to include State and UT representatives.",
+     "Representation on the National Council is rotational across regions.",
+     "Council members must be of Director rank or above.",
+     "Council members are nominated by the Centre Govt."
+    ],
+    "keywords": ["life imprisonment", "14 years", "gender-affirming surgeries", "name change", "National Council", "rotational representation"]
+   },
+   {
+    "title": "Significance and Criticism",
+    "summary": "Supporters say the narrower definition and medical certification target welfare, reduce the discretionary power of District Magistrates, and support a national healthcare database. Critics argue that removing self-identification contradicts the NALSA judgment, that medical verification may pathologise gender identity, and that surgery reporting may affect privacy. They also warn that broad terms could be used against NGOs and healthcare providers.",
+    "facts": [
+     "Narrow definition aims to ensure benefits reach the most marginalised communities.",
+     "Medical Boards reduce the discretionary power of District Magistrates.",
+     "Mandatory reporting enables a national database for healthcare planning and welfare schemes.",
+     "Penal framework addresses mutilation, abduction and forced identity.",
+     "Removal of self-identification contradicts NALSA vs Union of India (2014).",
+     "NALSA judgment recognised gender identity as a Fundamental Right under Article 21.",
+     "Medical Board verification may pathologise gender identity.",
+     "Mandatory reporting of surgeries may violate medical confidentiality and personal privacy.",
+     "Broad terms like 'Inducement' or 'Allurement' could be used against NGOs and healthcare providers.",
+     "Such terms may restrict voluntary gender transition support."
+    ],
+    "keywords": ["targeted welfare", "NALSA", "Article 21", "pathologise", "medical confidentiality", "Inducement", "Allurement"]
+   },
+   {
+    "title": "Legal and Welfare Background",
+    "summary": "Legal recognition of transgender persons in India developed through Supreme Court judgments and the 2019 Act. The NALSA judgment (2014) granted legal recognition and rights, and the 2019 Act provides legal recognition, protection of rights and welfare. Government initiatives include the SMILE scheme, a National Portal for ID cards and certificates, and Garima Greh shelter homes.",
+    "facts": [
+     "NALSA vs Union of India (2014) granted legal recognition and rights to transgender persons.",
+     "Justice K.S. Puttaswamy vs Union of India (2017): Supreme Court ruled privacy a fundamental right.",
+     "Navtej Singh Johar vs Union of India (2018): Section 377 struck down, decriminalising same-sex relationships.",
+     "Transgender Persons Act, 2019 grants legal recognition and prohibits discrimination.",
+     "Supriyo vs Union of India (2023): a 5-Judge Constitution Bench rejected petitions to legalise same-sex marriage.",
+     "SMILE scheme provides comprehensive rehabilitation and medical cover for marginalised individuals.",
+     "National Portal lets transgender persons apply for ID cards and certificates without physical visits to offices.",
+     "Garima Greh: government shelter homes offering safe spaces, food and skill development for transgender persons in distress."
+    ],
+    "keywords": ["NALSA", "Puttaswamy", "Navtej Singh Johar", "Supriyo", "SMILE", "National Portal", "Garima Greh"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Amendment Bill 2026 at a glance",
+   "root": {
+    "label": "Transgender Persons Amendment Bill 2026",
+    "children": [
+     {"label": "Definition narrowed", "children": [
+       {"label": "Section 4(2) omitted", "children": []},
+       {"label": "Self-perceived identity right removed", "children": []},
+       {"label": "Trans-Man, Trans-Woman, Genderqueer removed", "children": []}
+     ]},
+     {"label": "Certification by Medical Board", "children": [
+       {"label": "CMO or Deputy CMO leads Board", "children": []},
+       {"label": "DM issues certificate on Board's recommendation", "children": []},
+       {"label": "Revised certificate after surgery", "children": []}
+     ]},
+     {"label": "Mandatory surgery reporting", "children": [
+       {"label": "Medical institutions report to DM", "children": []},
+       {"label": "Basis for national database", "children": []}
+     ]},
+     {"label": "Penal provisions", "children": [
+       {"label": "Life imprisonment: forced mutilation of minors", "children": []},
+       {"label": "Up to 14 years: forcing children into begging", "children": []}
+     ]},
+     {"label": "National Council changes", "children": [
+       {"label": "State and UT representatives included", "children": []},
+       {"label": "Rotational regional representation", "children": []},
+       {"label": "Director rank or above; Centre nominates", "children": []}
+     ]},
+     {"label": "Name change allowed", "children": [
+       {"label": "Certificate holders change name in official documents", "children": []}
+     ]},
+     {"label": "Criticism", "children": [
+       {"label": "Conflicts with NALSA self-identification", "children": []},
+       {"label": "Risk of pathologising identity", "children": []},
+       {"label": "Privacy and confidentiality concerns", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Definition and certification",
+   "root": {
+    "label": "Definition and Certification",
+    "children": [
+     {"label": "Definition", "children": [
+       {"label": "Section 4(2) omitted", "children": []},
+       {"label": "Trans-Man, Trans-Woman, Genderqueer removed", "children": []}
+     ]},
+     {"label": "Certification", "children": [
+       {"label": "Medical Board led by CMO or Deputy CMO", "children": []},
+       {"label": "DM issues certificate", "children": []}
+     ]},
+     {"label": "Revision", "children": [
+       {"label": "Revised gender certificate after surgery", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Penal, reporting and Council",
+   "root": {
+    "label": "Penal, Reporting and Council",
+    "children": [
+     {"label": "Penal provisions", "children": [
+       {"label": "Life imprisonment for forced mutilation of minors", "children": []},
+       {"label": "Up to 14 years for forcing children into begging", "children": []}
+     ]},
+     {"label": "Reporting", "children": [
+       {"label": "Medical institutions report to District Magistrate", "children": []}
+     ]},
+     {"label": "Name change", "children": [
+       {"label": "Certificate holders change official documents", "children": []}
+     ]},
+     {"label": "National Council", "children": [
+       {"label": "State and UT representatives", "children": []},
+       {"label": "Rotational across regions", "children": []},
+       {"label": "Director rank or above, nominated by Centre", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Significance and criticism",
+   "root": {
+    "label": "Significance and Criticism",
+    "children": [
+     {"label": "Significance", "children": [
+       {"label": "Targeted welfare for marginalised communities", "children": []},
+       {"label": "Medical Boards reduce DM discretion", "children": []},
+       {"label": "National database for healthcare planning", "children": []}
+     ]},
+     {"label": "Criticism", "children": [
+       {"label": "Contradicts NALSA self-identification", "children": []},
+       {"label": "May pathologise gender identity", "children": []},
+       {"label": "Privacy and medical confidentiality", "children": []},
+       {"label": "Terms may be used against NGOs", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Legal and welfare background",
+   "root": {
+    "label": "Legal and Welfare Background",
+    "children": [
+     {"label": "Judicial milestones", "children": [
+       {"label": "NALSA (2014): legal recognition and rights", "children": []},
+       {"label": "Puttaswamy (2017): privacy a fundamental right", "children": []},
+       {"label": "Navtej (2018): Section 377 struck down", "children": []},
+       {"label": "Supriyo (2023): same-sex marriage petitions rejected", "children": []}
+     ]},
+     {"label": "Statute", "children": [
+       {"label": "Transgender Persons Act 2019: no discrimination", "children": []}
+     ]},
+     {"label": "Welfare initiatives", "children": [
+       {"label": "SMILE: rehabilitation and medical cover", "children": []},
+       {"label": "National Portal: ID cards and certificates", "children": []},
+       {"label": "Garima Greh: shelter for persons in distress", "children": []}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "LGBTQIA+ letters",
+   "mnemonic": "Let Good Boys Try Queer Ideas Always",
+   "decode": [
+    {"key": "L", "meaning": "Lesbian"},
+    {"key": "G", "meaning": "Gay"},
+    {"key": "B", "meaning": "Bisexual"},
+    {"key": "T", "meaning": "Transgender"},
+    {"key": "Q", "meaning": "Queer"},
+    {"key": "I", "meaning": "Intersex"},
+    {"key": "A", "meaning": "Asexual"},
+    {"key": "+", "meaning": "Many other identities still being explored"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Socio-cultural identities in the definition",
+   "mnemonic": "Kind Hearts Always Joke Easily",
+   "decode": [
+    {"key": "K", "meaning": "Kinner: socio-cultural identity in the definition"},
+    {"key": "H", "meaning": "Hijra: socio-cultural identity in the definition"},
+    {"key": "A", "meaning": "Aravani: socio-cultural identity in the definition"},
+    {"key": "J", "meaning": "Jogta: socio-cultural identity in the definition"},
+    {"key": "E", "meaning": "Eunuch: socio-cultural identity in the definition"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "National Council composition",
+   "mnemonic": "Directors Rotate, Centre Chooses",
+   "decode": [
+    {"key": "D", "meaning": "Members must be of Director rank or above"},
+    {"key": "R", "meaning": "Representation is rotational across regions"},
+    {"key": "C", "meaning": "Members are nominated by the Centre Govt"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Amendment Bill: direct and reasoning check",
+   "passage": "The Union Government presented the Transgender Persons (Protection of Rights) Amendment Bill, 2026 in the Lok Sabha. The Bill proposes to revise the Transgender Persons (Protection of Rights) Act, 2019, which was enacted after the Supreme Court's judgment in NALSA vs Union of India had granted legal recognition and rights to transgender persons. The Bill changes several parts of the 2019 framework. It revisits how the term transgender person is defined, how a transgender identity is verified and certified, what medical institutions must do in certain cases, how the National Council for Transgender Persons is constituted, and which penalties apply to certain offences. Supporters present these changes as a way to target welfare more precisely and to make certification more structured. Critics respond that some changes conflict with principles laid down in the NALSA judgment and raise concerns about medical scrutiny, privacy and the possible misuse of broadly worded terms. Understanding the debate therefore requires looking at how the new provisions relate to earlier rulings on identity, dignity and privacy. The wider history of these rights in India involves courts, Parliament and the executive, each shaping the rules that apply to the people concerned. Because the terminology in this area varies with historical, cultural and social contexts, the way a law defines its categories matters a great deal in practice.",
+   "questions": [
+    {
+     "q": "Under the Bill, who issues the transgender identity certificate based on the Medical Board's recommendation?",
+     "options": ["Chief Medical Officer", "District Magistrate", "State Health Minister", "High Court Judge"],
+     "answer": 1,
+     "explanation": "The booklet states that the District Magistrate will issue a certificate based on the Board's recommendation."
+    },
+    {
+     "q": "Assertion (A): Under the Bill, individuals who undergo gender reassignment surgery must apply for a revised gender certificate.\nReason (R): Under the Bill, medical institutions must report gender-affirming surgeries to the District Magistrate.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 1,
+     "explanation": "Revision after surgery and mandatory reporting are listed as separate provisions of the Bill."
+    },
+    {
+     "q": "Match List I with List II:\nList I\nI. Life imprisonment\nII. Up to 14 years imprisonment\nIII. Director rank or above\nIV. Certificate holders\nList II\nA. Forced mutilation of minors\nB. Forcing children into begging\nC. Nominated members of the National Council\nD. Change of name in official documents",
+     "options": ["I-B, II-A, III-C, IV-D", "I-A, II-C, III-B, IV-D", "I-D, II-A, III-C, IV-B", "I-A, II-B, III-C, IV-D"],
+     "answer": 3,
+     "explanation": "Life imprisonment is for forced mutilation of minors, up to 14 years for forcing children into begging, and certificate holders may change names in official documents."
+    },
+    {
+     "q": "Consider the following statements about the Amendment Bill:\nI. The Bill omits Section 4(2) of the 2019 Act.\nII. A Medical Board led by a Chief Medical Officer or Deputy CMO verifies transgender identity under the Bill.\nIII. The National Council will have no representatives from States or Union Territories.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I only", "I, II and III"],
+     "answer": 0,
+     "explanation": "The booklet says the Bill omits Section 4(2) and the National Council is to include State and UT representatives, so only I and II are correct."
+    },
+    {
+     "q": "Consider the following provisions of the Amendment Bill:\nI. Life imprisonment for forced mutilation of minors.\nII. Up to 14 years imprisonment for forcing children into begging.\nIII. Mandatory reporting of gender-affirming surgeries to the District Magistrate.\nIV. Dissolution of the National Council for Transgender Persons.\nHow many of the above are provisions of the Bill, as described in the booklet?",
+     "options": ["Only one", "Only two", "Only three", "All four"],
+     "answer": 2,
+     "explanation": "Provisions I, II and III are stated in the booklet, while the Bill revises the National Council rather than dissolving it."
+    },
+    {
+     "q": "According to the booklet, what does the requirement for medical institutions to report gender-affirming surgeries enable?",
+     "options": ["Enforcement of decriminalisation of same-sex relationships", "Discretionary power for District Magistrates over surgeries", "A national database for healthcare planning and welfare", "Prevention of changes to first names in documents"],
+     "answer": 2,
+     "explanation": "The booklet says mandatory reporting enables creation of a national database for healthcare planning and welfare schemes."
+    },
+    {
+     "q": "In the Supriyo vs Union of India (2023) case, what did the five-judge Constitution Bench do?",
+     "options": ["Legalised same-sex marriage in India", "Recognised privacy as a fundamental right", "Struck down Section 377", "Rejected petitions to legalise same-sex marriage"],
+     "answer": 3,
+     "explanation": "The booklet states the 5-Judge Constitution Bench rejected petitions to legalise same-sex marriage in India."
+    },
+    {
+     "q": "Consider the following statements:\nI. Nepal was the first country in Asia to legalise same-sex marriage.\nII. Taiwan was the first country in Asia to legalise same-sex marriage.\nWhich of the above statements is/are correct?",
+     "options": ["II only", "I only", "Both I and II", "Neither I nor II"],
+     "answer": 0,
+     "explanation": "The booklet says Taiwan was the first country in Asia to legalise same-sex marriage, followed by Nepal and Thailand."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "Legal and welfare milestones: typed answers",
+   "passage": "The legal status of gender and sexual minorities in India has changed through a sequence of court judgments, a statute and government initiatives. LGBTQ+ is a broad category covering people who identify in different ways, and the terminology used varies with historical, cultural and social contexts. Discrimination can be based on sexual orientation, gender expression, gender identity or sex characteristics. Over the years the Supreme Court has been asked to decide several questions about these rights, including the status of relations between consenting adults and whether marriage between people of the same sex can be legally recognised. Parliament has also enacted a law meant to protect the rights of transgender persons and provide for their welfare. Alongside legal change, the government has launched support programmes that offer rehabilitation, identity documents, shelter and skill training. Countries across the world have taken different paths on these questions, and their rights records are compared through indices. Understanding the sequence of cases, statutes and schemes helps place the current debate on the Amendment Bill in context. Such schemes are designed to support people who face social exclusion, and the benefits they offer are meant to reach communities that have historically been marginalised. A useful way to study this topic is to connect each legal development with the rights it recognised and the practical support that followed it.",
+   "questions": [
+    {
+     "q": "In which year did the Supreme Court strike down Section 377 in Navtej Singh Johar vs Union of India? (year)",
+     "answer": "2018",
+     "accept": ["2018"],
+     "explanation": "The booklet dates the Navtej Singh Johar judgment, which decriminalised same-sex relationships, to 2018."
+    },
+    {
+     "q": "How many judges sat on the Constitution Bench in Supriyo vs Union of India (2023)? (number)",
+     "answer": "5",
+     "accept": ["five", "5-judge", "five judge", "5 judges", "five judges"],
+     "explanation": "The booklet describes the case as decided by a 5-Judge Constitution Bench."
+    },
+    {
+     "q": "Which scheme provides comprehensive rehabilitation and medical cover for marginalised individuals, including transgender persons? (acronym)",
+     "answer": "SMILE",
+     "accept": ["SMILE Scheme", "SMILE scheme"],
+     "explanation": "The booklet describes the SMILE scheme as providing comprehensive rehabilitation and medical cover."
+    },
+    {
+     "q": "Garima Greh shelter homes are provided by the government to offer safe spaces to transgender persons in what condition? (one word)",
+     "answer": "distress",
+     "accept": ["in distress", "Distress"],
+     "explanation": "The booklet says Garima Greh offers safe spaces, food and skill development for transgender persons in distress."
+    },
+    {
+     "q": "Which country became the first to legalise same-sex marriage, in 2001? (country)",
+     "answer": "Netherlands",
+     "accept": ["The Netherlands", "the Netherlands"],
+     "explanation": "The booklet lists the Netherlands as the first country to legalise same-sex marriage, in 2001."
+    },
+    {
+     "q": "Which 2017 Supreme Court judgment ruled that privacy is a fundamental right? (surname of the petitioner)",
+     "answer": "Puttaswamy",
+     "accept": ["K.S. Puttaswamy", "K. S. Puttaswamy", "Justice K.S. Puttaswamy", "Puttaswamy vs Union of India"],
+     "explanation": "The booklet records that the 2017 Puttaswamy vs Union of India judgment ruled privacy a fundamental right."
+    },
+    {
+     "q": "What minimum rank must nominated members of the National Council for Transgender Persons hold under the Amendment Bill? (one word)",
+     "answer": "Director",
+     "accept": ["Director rank", "Director rank or above", "Director or above"],
+     "explanation": "The booklet states that members must be of Director rank or above."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 46, "what": "Timeline entry reads '2045: A private member's bill in Lok Sabha seeking decriminalizing homosexuality was introduced'; the year is garbled (2045 is not a valid year) and was not used."},
+  {"page": 45, "what": "NALSA line reads '\"3\" Gender' (third gender); OCR garble, so the phrase was not used."},
+  {"page": 44, "what": "LGBTQIA+ sidebar and the 'Narrowing Definition' line are overlapped with OCR noise ('ooorrrrr...'); only the definition items that read clearly were used."}
+ ]
+}

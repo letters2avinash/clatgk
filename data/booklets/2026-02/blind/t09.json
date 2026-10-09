@@ -1,0 +1,193 @@
+{
+ "topic": "Corruption Perceptions Index 2025",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Global CPI 2025 Findings",
+   "summary": "Transparency International released the Corruption Perceptions Index 2025, which assesses public sector corruption in 182 countries on a scale from 0 (Highly Corrupt) to 100 (Very Clean). The global average fell to 42, the lowest level in over a decade, signalling worsening corruption trends. Denmark remained the least corrupt country, while only five countries scored above 80.",
+   "facts": [
+    "CPI 2025 assessed public sector corruption across 182 countries.",
+    "CPI scale runs from 0 (Highly Corrupt) to 100 (Very Clean).",
+    "Transparency International, founded in 1993, released CPI 2025; the index started in 1995.",
+    "Global average CPI score declined to 42, the lowest level in over a decade.",
+    "About 122 of 182 countries scored below 50.",
+    "Denmark ranked 1st with a score of 89.",
+    "Denmark has been the least corrupt country for 8 consecutive years.",
+    "Only 5 countries scored above 80, compared with 12 a decade ago.",
+    "Somalia and South Sudan, each scoring 9, ranked among the most corrupt, along with Venezuela."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "India's CPI 2025 Performance",
+   "summary": "India ranked 91st out of 182 countries with a score of 39 out of 100 in CPI 2025. This is a modest improvement from its 96th rank in 2024, but the score remains below the global average of 42. The source attributes this to persistent governance and accountability challenges.",
+   "facts": [
+    "India ranked 91st out of 182 countries in CPI 2025.",
+    "India scored 39 out of 100 in CPI 2025.",
+    "India's rank was a modest improvement from 96th in 2024.",
+    "India's score remains below the global average of 42.",
+    "The booklet links India's position to persistent governance and accountability challenges.",
+    "India performs better than Pakistan, Bangladesh, Nepal and Sri Lanka.",
+    "India lags behind countries such as Bhutan and China."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "India's Laws and Agencies",
+   "summary": "India's anti-corruption framework combines statutes such as the Prevention of Corruption Act 1988 and the Right to Information Act 2005 with bodies including the CVC, CBI, ED and CAG. The CVC oversees vigilance administration, while the CBI is the premier investigating police agency for combating corruption in public life. The CAG is the Supreme Audit Institution that helps identify financial mismanagement, corruption or fraud.",
+   "facts": [
+    "Prevention of Corruption Act 1988 provides penalties for corruption by public servants and for abetment of corruption.",
+    "Prevention of Money Laundering Act 2002 prohibits use of proceeds of crime in India.",
+    "Right to Information Act 2005 gives citizens smoother and greater access to information.",
+    "Whistleblower Protection Act 2014 allows registration of corruption or misuse of power against public servants.",
+    "Central Vigilance Commission was established in 1964 on K Santhanam Committee recommendations.",
+    "CVC was granted statutory status by the CVC Act 2003 and is headquartered in New Delhi.",
+    "Central Bureau of Investigation was formed in 1963 and is the premier investigating police agency for corruption in public life.",
+    "Directorate of Enforcement was established in 1956 as an Enforcement Unit under the Ministry of Finance.",
+    "The CAG is the Supreme Audit Institution under Art 148, appointed by the President.",
+    "The CAG holds office for 6 years or up to the age of 65 years."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "International Efforts and Bodies",
+   "summary": "UNCAC 2003 is the only legally binding universal anti-corruption instrument, and India ratified it in 2011. The FATF, set up by the G7 in 1989, acts as a watchdog on money laundering and terrorist financing. INTERPOL, established in 1923, is the world's largest international police organisation, and SDG 16 recognises anti-corruption as an institutional principle.",
+   "facts": [
+    "UN Convention against Corruption 2003 is the only legally binding universal anti-corruption instrument.",
+    "India ratified UNCAC in 2011.",
+    "G20 Anti-Corruption Working Group (2010) shares effective strategies to combat corruption, especially through emerging technologies.",
+    "Financial Action Task Force was established in 1989 by the G7.",
+    "FATF has 38 member countries and 2 member organisations: the Gulf Cooperation Council and the European Union.",
+    "FATF Black List labels Iran, North Korea and Myanmar as Non-Cooperative Countries or Territories.",
+    "FATF Grey List has 21 countries.",
+    "SDG 16 acknowledges anti-corruption as an institutional principle.",
+    "INTERPOL was established in 1923 and has 196 member countries, including India.",
+    "INTERPOL's General Assembly is its highest decision-making body, with one delegate from each member nation."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t09-0",
+   "type": "MCQ",
+   "passage": "The Corruption Perceptions Index 2025 was released to assess public sector corruption across 182 countries. Each country is placed on a scale from 0 to 100, where 0 stands for highly corrupt and 100 stands for very clean. The global average score fell to 42, which is the lowest level in over a decade and points to worsening corruption trends worldwide. Around 122 of the 182 countries scored below 50, which shows that serious corruption challenges exist in most nations. Denmark placed first with a score of 89, while only five countries scored above 80, compared with twelve a decade ago. This decline suggests an erosion of governance standards even among countries that once performed strongly. India ranked 91st with a score of 39 out of 100, a figure that sits below the global average. Countries such as Somalia and South Sudan, each scoring 9, ranked among the most corrupt, along with Venezuela. The index began in 1995 and is treated as a leading global indicator of public sector corruption. Countries are compared on the same scale, so their positions can be read side by side. It also highlights how corruption hinders global efforts to combat climate change, and it recommends measures to strengthen institutional integrity.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Where is the headquarters of Transparency International, the organisation that releases the Corruption Perceptions Index?",
+     "options": [
+      "Geneva, Switzerland",
+      "Paris, France",
+      "London, United Kingdom",
+      "Berlin, Germany"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Assertion (A): India's rank in the Corruption Perceptions Index 2025 improved compared with 2024.\nReason (R): India's CPI 2025 score of 39 remains below the global average of 42.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which Act provides penalties for corruption by public servants and for abetment of an act of corruption?",
+     "options": [
+      "Prevention of Corruption Act, 1988",
+      "Prevention of Money Laundering Act, 2002",
+      "Right to Information Act, 2005",
+      "Whistleblower Protection Act, 2014"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "In which year was Transparency International founded?",
+     "options": [
+      "1989",
+      "1993",
+      "1995",
+      "2003"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Central Bureau of Investigation   ->   A. Established in 1956 as Enforcement Unit\nII. Directorate of Enforcement   ->   B. Statutory status under CVC Act 2003\nIII. Central Vigilance Commission   ->   C. Art 148\nIV. Comptroller and Auditor General   ->   D. Formed in 1963",
+     "options": [
+      "I-B, II-A, III-C, IV-D",
+      "I-D, II-A, III-C, IV-B",
+      "I-D, II-A, III-B, IV-C",
+      "I-B, II-D, III-C, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about INTERPOL:\nI. INTERPOL was established in 1923.\nII. Its General Secretariat coordinates policing and administrative tasks.\nIII. Its Secretary-General is appointed by the Executive Committee.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "II and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about the Corruption Perceptions Index 2025 are correct?\nI. CPI 2025 assessed 182 countries.\nII. Denmark ranked first with a score of 89.\nIII. India ranked 96th in CPI 2025.\nIV. The global average CPI score was 42.",
+     "options": [
+      "Only one",
+      "Only three",
+      "Only two",
+      "All four"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "What is the tenure and age limit of the Comptroller and Auditor General (CAG) of India?",
+     "options": [
+      "6 years or up to the age of 65 years",
+      "4 years or up to the age of 70 years",
+      "5 years or up to the age of 62 years",
+      "Indefinite tenure at the pleasure of the President"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t09-1",
+   "type": "TITA",
+   "passage": "India relies on a mix of laws and specialised bodies to fight corruption in public life. The Prevention of Corruption Act penalises corruption by public servants and those who abet it, while the Prevention of Money Laundering Act prohibits the use of proceeds of crime. Citizens gain smoother and greater access to information through a citizen-centric approach to governance. The Central Vigilance Commission oversees vigilance administration and advises the executive on corruption matters. The Central Bureau of Investigation is described as the premier investigating police agency for combating corruption in public life, and it serves as the nodal agency for INTERPOL in India. The Directorate of Enforcement deals with cases related to money laundering by public servants. The Comptroller and Auditor General acts as the Supreme Audit Institution that helps identify financial mismanagement, corruption or fraud. Together these institutions form the backbone of India's governance and accountability framework, although the booklet notes that persistent challenges remain. Each body works within its own mandate, and together they support the country's broader efforts against corruption. The Right to Information Act is one of the tools that gives citizens a more open route to government information. Public servants, who are the focus of several of these laws, face penalties when they engage in corruption.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the Central Vigilance Commission established? (year)"
+    },
+    {
+     "n": 2,
+     "q": "Which Article is cited for the Comptroller and Auditor General of India? (article number)"
+    },
+    {
+     "n": 3,
+     "q": "Which Act, enacted in 2014, allows registration of corruption or misuse of power against public servants? (name of the Act)"
+    },
+    {
+     "n": 4,
+     "q": "In which year was the Directorate of Enforcement established as an Enforcement Unit? (year)"
+    },
+    {
+     "n": 5,
+     "q": "Which committee's recommendations led to the setting up of the Central Vigilance Commission? (name of committee)"
+    },
+    {
+     "n": 6,
+     "q": "What is the fixed tenure of the CAG of India, ignoring the age limit? (in years)"
+    },
+    {
+     "n": 7,
+     "q": "In which year was the Central Bureau of Investigation formed? (year)"
+    }
+   ]
+  }
+ ]
+}

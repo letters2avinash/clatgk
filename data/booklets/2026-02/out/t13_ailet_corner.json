@@ -1,0 +1,434 @@
+{
+ "topic": {
+  "title": "Current Affairs February 2026: Defence, Security, Transport, Space and Institutions",
+  "chapter_title": "AILET Corner",
+  "subtopics": [
+   {
+    "title": "Defence Technology and Missiles",
+    "summary": "The booklet covers a missile test of Agni-III, the Kaveri Engine Programme for military aviation, and the World Defence Show 2026. Agni-III is described with its range, propulsion and payload, while the Kaveri programme is tied to Aatmanirbhar Bharat. The World Defence Show is presented as a biennial global exhibition.",
+    "facts": [
+     "Agni-III was successfully tested from Odisha.",
+     "Agni-III is an intermediate-range ballistic missile.",
+     "Agni-III is a two-stage solid-fuel missile system.",
+     "Agni-III range is beyond 3000 km.",
+     "Agni-III payload capability covers conventional and nuclear warheads.",
+     "Agni-III was designed and developed by DRDO.",
+     "Kaveri Engine Programme progress was reviewed at the Gas Turbine Research Establishment.",
+     "Kaveri is an indigenous jet engine programme for fighter aircraft (LCA Tejas).",
+     "World Defence Show 2026 was held in Riyadh, Saudi Arabia; it is biennial and organised by GAMI."
+    ],
+    "keywords": ["Agni-III", "Kaveri Engine", "DRDO", "GTRE", "LCA Tejas", "World Defence Show", "GAMI", "Aatmanirbhar Bharat"]
+   },
+   {
+    "title": "Global Security and Maritime Forums",
+    "summary": "NATO launched the Arctic Sentry mission to strengthen its presence in the Arctic, led by JFC Norfolk. The Indian Ocean Naval Symposium is a voluntary forum of Indian Ocean navies that India now chairs. The UN Office for Disarmament Affairs works on disarmament, and the Indian Army hosted one of its small arms training programmes.",
+    "facts": [
+     "NATO launched the Arctic Sentry mission to enhance security presence in the Arctic region.",
+     "Arctic Sentry is led by Joint Force Command Norfolk (JFC Norfolk).",
+     "JFC Norfolk acts as a strategic bridge between North America and Europe for NATO operations.",
+     "Arctic Sentry aims to safeguard NATO member states, protect territorial integrity and maintain regional stability.",
+     "The mission responds to Russian military activity and China's growing interest in the Arctic.",
+     "Competition over Arctic shipping routes and natural resources is emerging.",
+     "Indian Ocean Naval Symposium was established in 2008 and initiated by the Indian Navy.",
+     "IONS is a voluntary and inclusive multilateral forum of navies of the Indian Ocean Region.",
+     "India assumed the chairmanship of the Indian Ocean Naval Symposium.",
+     "UN Office for Disarmament Affairs was established in 1998 by the UN Secretary-General and is headquartered in New York.",
+     "Core objective of the UN Office for Disarmament Affairs is complete elimination of weapons of mass destruction."
+    ],
+    "keywords": ["Arctic Sentry", "NATO", "JFC Norfolk", "IONS", "Indian Navy", "UNODA", "Disarmament", "Weapons of Mass Destruction"]
+   },
+   {
+    "title": "Transport and Connectivity",
+    "summary": "Kavach is India's indigenous automated train protection system, developed by RDSO and deployed across more than 2200 route km. The Cabinet Committee on Economic Affairs approved an underwater twin tube road-cum-rail tunnel under the Brahmaputra in Assam to boost North-East connectivity. The tunnel links Gohpur on NH-15 with Numaligarh on NH-715.",
+    "facts": [
+     "Kavach is India's Indigenous Automated Train Protection System.",
+     "Kavach is deployed across over 2200 route km in India.",
+     "Kavach objectives: prevent train collisions, avoid signal passing at danger, enhance situational awareness for loco pilots.",
+     "Kavach was developed by RDSO (Indian Railways).",
+     "The Cabinet Committee on Economic Affairs approved an underwater twin tube road-cum-rail tunnel to boost North-East connectivity.",
+     "The tunnel is located under the Brahmaputra River in Assam.",
+     "Total tunnel project length is 33.7 km; the underwater twin tube tunnel is 15.79 km.",
+     "The tunnel connects Gohpur (NH-15) with Numaligarh (NH-715)."
+    ],
+    "keywords": ["Kavach", "RDSO", "Automated Train Protection", "Brahmaputra", "Gohpur", "Numaligarh", "NH-15", "NH-715"]
+   },
+   {
+    "title": "Space and Cyber Security",
+    "summary": "NASA's MESSENGER data revealed bright streaks across Mercury's surface, and the booklet gives key facts about the planet. The Global CyberPeace Summit 2026 was held in New Delhi and launched cyber-related initiatives. The summit also set up a centre of excellence on automotive cybersecurity.",
+    "facts": [
+     "NASA's MESSENGER data revealed numerous bright streaks scattered across Mercury's surface.",
+     "Mercury is the closest planet to the Sun and the smallest planet in the Solar System.",
+     "Mercury is the fastest orbiting planet around the Sun.",
+     "Mercury is the densest planet after Earth and has no moons or rings.",
+     "Key Mercury discoveries: water ice in permanently shadowed polar craters and a large, iron-rich core.",
+     "Global CyberPeace Summit 2026 concluded in New Delhi, organised by CyberPeace.",
+     "Global Quantum Threat Alliance addresses future cyber risks arising from quantum computing.",
+     "CoE on Automotive Cybersecurity focuses on securing connected, autonomous and electric vehicles."
+    ],
+    "keywords": ["MESSENGER", "NASA", "Mercury", "Water Ice", "CyberPeace", "Quantum Threat Alliance", "Automotive Cybersecurity", "New Delhi"]
+   },
+   {
+    "title": "Institutions and Places in News",
+    "summary": "The Indian Pharmacopoeia Commission, established in 2005, sets quality standards for medicines in India and signed three MoUs. APEDA marked 40 years of promoting agricultural exports, having been established in 1986. The Rafah Crossing in Gaza partially reopened after two years, allowing limited movement and humanitarian access.",
+    "facts": [
+     "Indian Pharmacopoeia Commission signed 3 MoUs to strengthen medicine safety, quality and pharmacovigilance.",
+     "The Pharmacopoeia is a legally binding compendium defining standards for identity, purity, strength and quality of medicines.",
+     "Indian Pharmacopoeia Commission was established in 2005 and is headquartered in Ghaziabad (Uttar Pradesh).",
+     "Indian Pharmacopoeia Commission is under the Ministry of Health & Family Welfare.",
+     "Key publications: Indian Pharmacopoeia and National Formulary of India.",
+     "APEDA marked 40 years of promoting India's agricultural exports; it was established in 1986.",
+     "APEDA is a statutory body under the APEDA Act 1985 and operates under the Ministry of Commerce and Industry.",
+     "APEDA headquarters is in New Delhi.",
+     "Rafah Crossing in Gaza was partially reopened after two years, allowing limited movement and humanitarian access."
+    ],
+    "keywords": ["Indian Pharmacopoeia Commission", "APEDA", "Pharmacovigilance", "Ghaziabad", "Rafah Crossing", "Gaza", "Agricultural Exports", "Ministry of Commerce"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Current Affairs February 2026 map",
+   "root": {
+    "label": "Current Affairs February 2026",
+    "children": [
+     {
+      "label": "Defence and missiles",
+      "children": [
+       {"label": "Agni-III: range beyond 3000 km", "children": []},
+       {"label": "Kaveri: jet engine for fighter aircraft", "children": []},
+       {"label": "World Defence Show 2026: biennial", "children": []}
+      ]
+     },
+     {
+      "label": "Global security and forums",
+      "children": [
+       {"label": "Arctic Sentry: NATO mission led by JFC Norfolk", "children": []},
+       {"label": "IONS: navies of Indian Ocean Region", "children": []},
+       {"label": "UNODA: elimination of WMD", "children": []}
+      ]
+     },
+     {
+      "label": "Transport and connectivity",
+      "children": [
+       {"label": "Kavach: train collision prevention", "children": []},
+       {"label": "Brahmaputra tunnel: 33.7 km total", "children": []}
+      ]
+     },
+     {
+      "label": "Space and cyber",
+      "children": [
+       {"label": "Mercury: water ice in polar craters", "children": []},
+       {"label": "MESSENGER: streaks on Mercury", "children": []},
+       {"label": "CyberPeace Summit 2026: New Delhi", "children": []}
+      ]
+     },
+     {
+      "label": "Institutions and places",
+      "children": [
+       {"label": "Indian Pharmacopoeia Commission: est. 2005", "children": []},
+       {"label": "APEDA: est. 1986, New Delhi HQ", "children": []},
+       {"label": "Rafah Crossing: partial reopening", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Defence technology map",
+   "root": {
+    "label": "Defence technology and missiles",
+    "children": [
+     {
+      "label": "Agni-III missile",
+      "children": [
+       {"label": "Tested from Odisha", "children": []},
+       {"label": "Range beyond 3000 km", "children": []},
+       {"label": "Two-stage solid-fuel system", "children": []}
+      ]
+     },
+     {
+      "label": "Kaveri Engine Programme",
+      "children": [
+       {"label": "Indigenous jet engine", "children": []},
+       {"label": "Fighter aircraft (LCA Tejas)", "children": []}
+      ]
+     },
+     {
+      "label": "World Defence Show 2026",
+      "children": [
+       {"label": "Biennial, organised by GAMI", "children": []},
+       {"label": "Five domains: Air, Land, Sea, Space, Security", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Global security map",
+   "root": {
+    "label": "Global security and maritime forums",
+    "children": [
+     {
+      "label": "Arctic Sentry (NATO)",
+      "children": [
+       {"label": "Led by JFC Norfolk", "children": []},
+       {"label": "Protect territorial integrity", "children": []}
+      ]
+     },
+     {
+      "label": "Indian Ocean Naval Symposium",
+      "children": [
+       {"label": "Established 2008", "children": []},
+       {"label": "Initiated by Indian Navy", "children": []}
+      ]
+     },
+     {
+      "label": "UN Office for Disarmament Affairs",
+      "children": [
+       {"label": "Established 1998", "children": []},
+       {"label": "HQ New York", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Transport and connectivity map",
+   "root": {
+    "label": "Transport and connectivity",
+    "children": [
+     {
+      "label": "Kavach",
+      "children": [
+       {"label": "Prevent train collisions", "children": []},
+       {"label": "Deployed over 2200 route km", "children": []}
+      ]
+     },
+     {
+      "label": "Brahmaputra twin tube tunnel",
+      "children": [
+       {"label": "Connects Gohpur and Numaligarh", "children": []},
+       {"label": "Underwater length 15.79 km", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Space and cyber map",
+   "root": {
+    "label": "Space and cyber security",
+    "children": [
+     {
+      "label": "Mercury",
+      "children": [
+       {"label": "Closest planet to the Sun", "children": []},
+       {"label": "Densest planet after Earth", "children": []},
+       {"label": "Iron-rich core", "children": []}
+      ]
+     },
+     {
+      "label": "MESSENGER (NASA)",
+      "children": [
+       {"label": "Bright streaks on Mercury", "children": []}
+      ]
+     },
+     {
+      "label": "Cyber initiatives",
+      "children": [
+       {"label": "CyberPeace Summit 2026, New Delhi", "children": []},
+       {"label": "Quantum Threat Alliance", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Institutions and places map",
+   "root": {
+    "label": "Institutions and places in news",
+    "children": [
+     {
+      "label": "Indian Pharmacopoeia Commission",
+      "children": [
+       {"label": "Established 2005", "children": []},
+       {"label": "Signed 3 MoUs", "children": []}
+      ]
+     },
+     {
+      "label": "APEDA",
+      "children": [
+       {"label": "Established 1986", "children": []},
+       {"label": "Under Ministry of Commerce and Industry", "children": []}
+      ]
+     },
+     {
+      "label": "Rafah Crossing",
+      "children": [
+       {"label": "Partially reopened after two years", "children": []}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Mercury facts",
+   "mnemonic": "Clever Snakes Fear Dogs",
+   "decode": [
+    {"key": "C", "meaning": "Closest planet to the Sun"},
+    {"key": "S", "meaning": "Smallest planet in the Solar System"},
+    {"key": "F", "meaning": "Fastest orbiting planet around the Sun"},
+    {"key": "D", "meaning": "Densest planet after Earth"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Kavach objectives",
+   "mnemonic": "Please Avoid Signals",
+   "decode": [
+    {"key": "P", "meaning": "Prevent train collisions"},
+    {"key": "A", "meaning": "Avoid signal passing at danger"},
+    {"key": "S", "meaning": "Situational awareness for loco pilots"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Defence and missiles: MCQ practice",
+   "passage": "February 2026 brought several developments in India's defence sector. The Agni-III missile was successfully tested, a step that strengthens the country's strategic deterrence and its capacity for long-range strikes. The missile belongs to the ballistic class, and the test confirmed its technical readiness. Long-range capability is central to any deterrence policy, so the result was closely watched.\n\nAlongside missiles, engine development also drew attention. Progress on the Kaveri Engine Programme was reviewed at a research establishment, with the aim of strengthening indigenous military aviation capability. The review focused on progress made so far. The programme is part of India's Aatmanirbhar Bharat push in defence technology and seeks an indigenous jet engine for fighter aircraft.\n\nOn the global stage, the World Defence Show 2026 was held as a major international exhibition. The event brought together companies and governments from many countries and showcased innovations across the defence sector. Its exhibits covered new technologies and the industrial capabilities behind them. Such events give officials and industry leaders a shared space to compare new systems.\n\nTogether, these developments show how missile testing, engine research and international showcases fit into the wider defence agenda. Each one links a technology to a national goal, and this link is worth remembering.",
+   "questions": [
+    {
+     "q": "The booklet describes the range of the Agni-III missile as which of the following?",
+     "options": ["Under 1000 km", "Up to 2000 km", "Beyond 3000 km", "Under 500 km"],
+     "answer": 2,
+     "explanation": "The booklet states the Agni-III range as beyond 3000 km."
+    },
+    {
+     "q": "The Kaveri Engine Programme is an indigenous jet engine effort meant for which aircraft?",
+     "options": ["Commercial airliners", "LCA Tejas", "Cargo drones", "Rocket boosters"],
+     "answer": 1,
+     "explanation": "The booklet ties the Kaveri programme to fighter aircraft and names LCA Tejas."
+    },
+    {
+     "q": "Which of these is NOT among the five defence domains showcased at the World Defence Show 2026?",
+     "options": ["Air", "Sea", "Cyber", "Space"],
+     "answer": 2,
+     "explanation": "The booklet lists the five domains as Air, Land, Sea, Space and Security, so Cyber is not one of them."
+    },
+    {
+     "q": "Assertion (A): The Agni-III missile can carry nuclear warheads.\nReason (R): Agni-III was developed by the Gas Turbine Research Establishment.",
+     "options": [
+      "Both A and R are true and R explains A",
+      "Both A and R are true but R does not explain A",
+      "A is false but R is true",
+      "A is true but R is false"
+     ],
+     "answer": 3,
+     "explanation": "The booklet lists nuclear warheads as a payload option but names DRDO, not the Gas Turbine Research Establishment, as the developer."
+    },
+    {
+     "q": "Match List I with List II:\nI. Venue where Kaveri Engine Programme progress was reviewed\nII. Developer of the Agni-III missile\nIII. Organiser of the World Defence Show\nIV. Host city of the World Defence Show 2026\n\nList II:\nA. Riyadh\nB. Gas Turbine Research Establishment\nC. General Authority for Military Industries\nD. Defence Research and Development Organisation",
+     "options": ["I-B, II-D, III-C, IV-A", "I-A, II-B, III-D, IV-C", "I-C, II-A, III-B, IV-D", "I-D, II-C, III-A, IV-B"],
+     "answer": 0,
+     "explanation": "Kaveri progress was reviewed at GTRE, Agni-III was developed by DRDO, GAMI organises the show, and the show was held in Riyadh."
+    },
+    {
+     "q": "I. The Agni-III missile is powered by a two-stage solid-fuel system.\nII. The Kaveri Engine Programme seeks an indigenous jet engine for fighter aircraft.\nIII. The World Defence Show is held every year.\nWhich of the above statements is/are correct?",
+     "options": ["II and III only", "I and III only", "I, II and III", "I and II only"],
+     "answer": 3,
+     "explanation": "Statements I and II match the booklet, while III is wrong because the show is biennial, not annual."
+    },
+    {
+     "q": "Consider the following statements:\nI. The Agni-III missile can carry only conventional warheads.\nII. The Agni-III missile was tested from Odisha.\nIII. A jet engine converts chemical energy of fuel into mechanical energy and thrust.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statement I is wrong because the booklet lists nuclear warheads too, while II and III are correct."
+    },
+    {
+     "q": "How often is the World Defence Show held, according to the booklet?",
+     "options": ["Biennial", "Annual", "Every five years", "Once in a decade"],
+     "answer": 0,
+     "explanation": "The booklet lists the World Defence Show frequency as biennial."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Global security and forums: TITA practice",
+   "passage": "Security and maritime cooperation were in focus in early 2026. NATO launched a mission to raise its security presence in the Arctic region, with the aim of safeguarding member states, protecting territorial integrity and keeping the region stable. The mission responds to rising military activity in the area and to the growing strategic and economic interest of outside powers in the Arctic. Competition over shipping routes and natural resources is also emerging in the region.\n\nIn the Indian Ocean, India took over the chairmanship of a multilateral forum of navies from the region. The forum is voluntary and inclusive, and its purpose is to enhance maritime cooperation among the littoral states of the ocean. Leading such a forum adds to a country's maritime profile in the region.\n\nDisarmament formed another strand of the year's news. The Indian Army hosted a United Nations training programme on small arms control for the Asia-Pacific region, held together with a UN office that works inside the UN Secretariat. That office traces its roots to an earlier department and works to strengthen international peace and security through disarmament. Taken together, these stories show how military, naval and diplomatic tools are used to manage risk. Each case reflects a balance between cooperation and competition among states.",
+   "questions": [
+    {
+     "q": "Which NATO command leads the Arctic Sentry Mission? (give the full name)",
+     "answer": "Joint Force Command Norfolk",
+     "accept": ["JFC Norfolk", "Joint Force Command, Norfolk", "Joint Force Command (JFC) Norfolk"],
+     "explanation": "The booklet states that Arctic Sentry is led by JFC Norfolk."
+    },
+    {
+     "q": "In which year was the Indian Ocean Naval Symposium established?",
+     "answer": "2008",
+     "accept": ["2008 AD"],
+     "explanation": "The booklet gives 2008 as the year the Indian Ocean Naval Symposium was established."
+    },
+    {
+     "q": "In which year was the UN Office for Disarmament Affairs established?",
+     "answer": "1998",
+     "accept": [],
+     "explanation": "The booklet says the office was established in 1998 by the UN Secretary-General."
+    },
+    {
+     "q": "In which city is the headquarters of the UN Office for Disarmament Affairs located?",
+     "answer": "New York",
+     "accept": ["New York (USA)", "New York, USA", "New York City", "NYC"],
+     "explanation": "The booklet lists New York (USA) as the headquarters of the office."
+    },
+    {
+     "q": "In which Indian city did the Indian Army host the UN small arms control training programme? (city name only)",
+     "answer": "Jabalpur",
+     "accept": ["Jabalpur, Madhya Pradesh", "Jabalpur (MP)"],
+     "explanation": "The booklet places the programme in Jabalpur, Madhya Pradesh."
+    },
+    {
+     "q": "Which navy initiated the Indian Ocean Naval Symposium?",
+     "answer": "Indian Navy",
+     "accept": ["Indian navy", "IN"],
+     "explanation": "The booklet says the symposium was initiated by the Indian Navy."
+    },
+    {
+     "q": "The UN Office for Disarmament Affairs has a core objective of complete elimination of which category of weapons? (abbreviation or full name)",
+     "answer": "Weapons of Mass Destruction",
+     "accept": ["WMD", "Weapons of Mass Destruction (WMD)", "weapons of mass destruction"],
+     "explanation": "The booklet names complete elimination of weapons of mass destruction as the office's core objective."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 85, "what": "Fragment 'Spoken mainly in Jharkhand, Odisha, West Bengal, Assam, Bihar, Parts of Nepal and Bangladesh' has no heading in the OCR; not used."},
+  {"page": 85, "what": "Ordinal before 'Underwater Twin Tube Road-cum-Rail Tunnel' is garbled ('1' followed by a quote mark); not used."},
+  {"page": 86, "what": "Ordinal in 'Edition of World Defence Show 2026' is garbled ('3' followed by a quote mark); not used."},
+  {"page": 86, "what": "MESSENGER full form is cut off after 'GEochemistry' (the 'and Ranging' part is missing) and 'dRanei' is garbled; full form not used."},
+  {"page": 86, "what": "Ordinal before 'Spacecraft to orbit Mercury' is garbled ('1' followed by a quote mark); not used."},
+  {"page": 86, "what": "Programme name 'AlJScholarship' (AI Scholarship?) is garbled; the EC Council partnership line was not used."},
+  {"page": 87, "what": "Ordinal in 'UN Training Programme on Small Arms Control' is garbled ('1' followed by a quote mark); not used."},
+  {"page": 87, "what": "Rafah Crossing block is misaligned in OCR: 'Members: 25 Nations' and the crossing-location bullets (southernmost exit, Erez, Kerem Shalom, the only crossing not passing through Israel) cannot be attributed reliably; not used."}
+ ]
+}

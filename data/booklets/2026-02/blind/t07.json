@@ -1,0 +1,190 @@
+{
+ "topic": "CPI Base Year Revised to 2024",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Why the CPI base year was revised",
+   "summary": "The Ministry of Statistics & Programme Implementation revised the CPI base year to 2024, replacing the 2012 benchmark. The revision reflects updated consumption patterns, price structures and economic changes since 2012. It uses 2023-24 Household Consumer Expenditure Survey data, and an advisory committee chaired by Biswanath Goldar helped decide the base year.",
+   "facts": [
+    "CPI base year revised to 2024, replacing the 2012 benchmark.",
+    "Ministry of Statistics & Programme Implementation revised the CPI base year.",
+    "26-member Advisory Committee on National Accounts Statistics, chaired by Biswanath Goldar.",
+    "2024 identified as CPI base year using 2023-24 Household Consumer Expenditure Survey data.",
+    "New GDP series released with FY 2022-23 as revised base year.",
+    "Revision aims to reflect updated consumption patterns, price structures and economic changes.",
+    "Since 2012, India's economy shifted towards urbanisation, services expansion and digitalisation of consumer spending.",
+    "Rising incomes and lifestyle changes diversify household expenditure patterns.",
+    "Without periodic revision, an inflation index risks misrepresenting the actual price rise felt by households."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "What CPI measures and why it matters",
+   "summary": "The Consumer Price Index measures the average change over time in retail prices of goods and services consumed by households. It is the main indicator of retail inflation and is used by the Reserve Bank of India for monetary policy decisions. It also serves as a benchmark for wage revision, pension adjustment and dearness allowance calculation.",
+   "facts": [
+    "CPI measures average change over time in retail prices of goods and services consumed by households.",
+    "CPI reflects the cost of living and inflation experienced by consumers.",
+    "CPI is the main indicator of retail inflation.",
+    "CPI is used by the Reserve Bank of India for monetary policy decisions.",
+    "CPI is used for dearness allowance calculation, wage revision and pension adjustment.",
+    "Current inflation target is 4%, with a band of 2% (2% to 6%).",
+    "Overall inflation in January 2026 (YoY) was 2.75% (provisional).",
+    "Rural inflation in January 2026 was 2.73%; urban inflation was 2.77%.",
+    "Significance of base revision: better reflection of cost of living, improved monetary policy transmission, greater statistical credibility."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "CPI 2012 versus CPI 2024: key changes",
+   "summary": "The revised CPI 2024 has a larger basket than CPI 2012, with 358 items against 299. It covers online markets, uses the COICOP 2018 classification, and compiles house rent for both urban and rural areas. The food and beverages weightage has been reduced from 45.86% to 36.75%.",
+   "facts": [
+    "Items: 299 (259 goods and 40 services) in CPI 2012; 358 (308 goods and 50 services) in CPI 2024.",
+    "Online markets: not covered in CPI 2012; 12 online markets covered in CPI 2024 in cities above 25 lakh population.",
+    "Classification: COICOP 1999 in CPI 2012; COICOP 2018 in CPI 2024.",
+    "House rent index: only urban areas in CPI 2012; urban and rural in CPI 2024, both excluding employer-provided accommodation.",
+    "Data dissemination: combined index only in CPI 2012; rural, urban and combined indices in CPI 2024.",
+    "Food and beverages weightage: 45.86% in CPI 2012; 36.75% in CPI 2024.",
+    "Formula used: Laspeyres index (base year prices, base year weights, current prices).",
+    "Newly added items (January 2026): OTT subscriptions, rural house rent, value-added dairy products, pen drives, babysitting services, fitness equipment, barley products, cleaner fuels.",
+    "Removed items: VCR/VCD/DVD players, tape recorders, radios, cassettes, second hand clothing, rope."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "CPI compared with WPI",
+   "summary": "The Wholesale Price Index (WPI) has a base year of 2011-12 and is released by the Office of Economic Adviser, Ministry of Commerce and Industry. The CPI is released by the National Statistical Office (NSO). WPI covers only goods and excludes indirect taxes, whereas CPI covers both goods and services and includes indirect taxes.",
+   "facts": [
+    "WPI base year is 2011-12.",
+    "WPI is released by the Office of Economic Adviser, Ministry of Commerce and Industry.",
+    "CPI is released by the National Statistical Office (NSO).",
+    "WPI includes only goods; CPI includes both goods and services.",
+    "WPI excludes indirect taxes; CPI includes indirect taxes.",
+    "WPI does not reflect up-to-date expenditure patterns; CPI does."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t07-0",
+   "type": "MCQ",
+   "passage": "A price index is useful only when it reflects what people actually buy. An economy changes over time, and so do the habits of households. Consumer spending has become more varied, cities have grown, and many purchases now happen digitally. Services now make up a larger part of household budgets, and families in towns and villages often buy different things. A consumer price index that keeps an old set of items and weights can therefore give a distorted picture of living costs. The statistical agency that compiles the index must periodically revisit the base year, the basket of goods and services, and the weights given to each item. The new base year is chosen with care, using evidence from a recent household expenditure survey and from an advisory committee of experts. Revising the index is a technical task, but its effects are practical. Pay revisions, pension adjustments and policy decisions can all depend on the index. If the index does not match real price changes, these payments and decisions may be wrong. A credible revision therefore helps workers, businesses and governments judge how far household money goes.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which ministry revised the CPI base year to 2024?",
+     "options": [
+      "Ministry of Statistics & Programme Implementation",
+      "Ministry of Finance",
+      "Ministry of Commerce and Industry",
+      "Ministry of Consumer Affairs"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which CPI base year was replaced by the 2024 base year?",
+     "options": [
+      "2011",
+      "2010",
+      "2015",
+      "2012"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Who was appointed Chairman of the 26-member Advisory Committee on National Accounts Statistics?",
+     "options": [
+      "Shaktikanta Das",
+      "Biswanath Goldar",
+      "Raghuram Rajan",
+      "Urjit Patel"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The 2024 CPI base year was identified using data from the 2011 Census of India.\nReason (R): The 2023-24 Household Consumer Expenditure Survey was used to identify the new CPI base year.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Revised CPI base year   ->   A. Biswanath Goldar\nII. Replaced CPI base year   ->   B. Laspeyres Index\nIII. Chairman of the advisory committee   ->   C. 2012\nIV. Formula used for the revised CPI   ->   D. 2024",
+     "options": [
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-C, III-A, IV-B",
+      "I-C, II-A, III-B, IV-D",
+      "I-A, II-D, III-C, IV-B"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. The CPI 2024 basket contains 358 items, of which 50 are services.\nII. Online markets were covered under the CPI 2012 basket.\nIII. The CPI 2024 groups its items in line with COICOP 2018.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I, II and III",
+      "I and III only",
+      "II and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. Overall inflation in January 2026 was 2.75% on a year-on-year basis (provisional).\nII. Rural inflation in January 2026 was higher than urban inflation.\nIII. FY 2022-23 is the revised base year for the new GDP series.\nIV. Tape recorders were added to the CPI 2024 basket.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Which of the following items was newly added in the CPI 2024 basket?",
+     "options": [
+      "OTT Subscriptions",
+      "Cassettes",
+      "Radios",
+      "Second Hand Clothing"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t07-1",
+   "type": "TITA",
+   "passage": "A consumer price index tracks the prices of a fixed set of goods and services, called the basket, and gives each item a weight. When the index is revised to a new base year, the basket is reviewed so that it matches what households now buy. Several parts of the method change in such a revision. The number of items in the basket can rise, and the split between goods and services can shift to give services a larger place. Prices from online sellers may be recorded directly where the market is large enough to be tracked. The grouping of items into divisions, groups and classes follows an international classification standard, and the newer version is adopted in the revision. Housing is handled separately, through a rent index that depends on what households pay for accommodation. Coverage of this rent index can be widened beyond its earlier scope. The weight given to food is also revised, because household spending has diversified. Finally, the agency decides how widely the results are published. Releasing the index for each state, not only for the country as a whole, gives policy makers a closer view of regional prices. Each of these choices affects how accurately the index measures the cost of living.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many items are included in the CPI 2024 basket (in number)?"
+    },
+    {
+     "n": 2,
+     "q": "How many of the CPI 2024 items are services (in number)?"
+    },
+    {
+     "n": 3,
+     "q": "How many online markets will be covered under CPI 2024 (in number)?"
+    },
+    {
+     "n": 4,
+     "q": "Which version of the COICOP classification does CPI 2024 follow? (give the year)"
+    },
+    {
+     "n": 5,
+     "q": "What was the food and beverages weightage under CPI 2012 (in per cent)?"
+    },
+    {
+     "n": 6,
+     "q": "What is the food and beverages weightage under CPI 2024 (in per cent)?"
+    },
+    {
+     "n": 7,
+     "q": "Apart from urban areas, for which other type of area is the CPI 2024 house rent index compiled? (one word)"
+    }
+   ]
+  }
+ ]
+}

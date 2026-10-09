@@ -1,0 +1,214 @@
+{
+ "topic": "India AI Impact Summit 2026",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Summit Theme, Principles and Objectives",
+   "summary": "India hosted the India AI Impact Summit 2026 at Bharat Mandapam in New Delhi, presented as the first multilateral AI summit in the Global South. The summit marked a shift from a Western safety-first model to an impact-first, developmental approach to AI, under the theme 'Sarvajana Hitaya, Sarvajana Sukhaya'. Its work rests on three Sutras and seven Chakras, and it set out four key objectives.",
+   "facts": [
+    "Held at Bharat Mandapam, New Delhi; described as the 1st multilateral AI summit in the Global South",
+    "Signals a shift from a Western safety-first model to an impact-first, developmental AI paradigm",
+    "Theme: 'Sarvajana Hitaya, Sarvajana Sukhaya' (Welfare for All, Happiness for All)",
+    "3 Sutras: People (Inclusive Development), Planet (Ethical Innovation), Progress (Sustainable Societal Impact)",
+    "7 Chakras (Priority Cooperation Areas): Healthcare, Agriculture, Education, Governance, Climate action, Digital Economy, Social Inclusion",
+    "Objective 1: translate global AI discussions into development outcomes aligned with IndiaAI Mission and Digital India",
+    "Objective 2: promote responsible and ethical AI, addressing algorithmic bias, privacy protection and accountability",
+    "Objective 3: build partnerships between governments, startups, academia and industry",
+    "Objective 4: position India as a Global AI Hub and promote an indigenous AI ecosystem",
+    "Switzerland will host the 2027 World Summit on AI in Geneva"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "New Delhi Declaration and Its Seven Pillars",
+   "summary": "The New Delhi Declaration on AI was adopted at the summit and focuses on inclusive, ethical and development-oriented AI. It is endorsed by 87 countries and 2 international organisations and is built around seven pillars supported by voluntary global initiatives. Separately, the New Delhi Frontier AI Impact Commitments form a voluntary framework signed by frontier AI companies and domestic innovators.",
+   "facts": [
+    "Adopted at the India AI Impact Summit 2026; focuses on inclusive, ethical and development-oriented AI",
+    "Endorsed by 87 countries and 2 international organisations (European Union and International Fund for Agricultural Development)",
+    "Built around 7 pillars, each supported by voluntary global initiatives",
+    "Charter for Democratic Diffusion of AI: promotes locally relevant AI ecosystems and Global South participation",
+    "Global AI Impact Commons: platform for sharing successful AI solutions and replicating best practices globally",
+    "Trusted AI Commons: repository of tools, benchmarks, safety standards and best practices",
+    "International Network of AI for Science Institutions: connects research institutions for collaborative scientific innovation",
+    "AI for Social Empowerment Platform: platform for sharing scalable AI solutions for social welfare",
+    "AI Workforce Development Playbook & Reskilling Principles: guidance for governments to prepare workforce for AI transformation",
+    "Guiding Principles on Resilient & Efficient AI: focus on sustainability and energy-efficient AI systems"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "M.A.N.A.V. Roadmap and Previous AI Summits",
+   "summary": "The Prime Minister unveiled the human-centric M.A.N.A.V. Framework for Ethical and Inclusive AI at the summit, with each letter standing for one principle. The booklet also traces earlier global AI summits: the UK's 1st AI Safety Summit and its Bletchley Declaration, the Seoul Summit of 2024 and the 3rd AI Action Summit held in Paris in 2025.",
+   "facts": [
+    "Prime Minister unveiled the human-centric M.A.N.A.V. Framework for Ethical and Inclusive AI at the summit",
+    "M: Moral and Ethical Systems; AI must be fair and transparent, subject to human oversight",
+    "A: Accountable Governance; clear institutional responsibility, transparent regulatory rules, strong oversight",
+    "N: National Sovereignty; securing critical datasets, strengthening domestic compute, indigenous model development",
+    "A: Accessible and Inclusive AI; democratise benefits, bridge the digital divide, reach marginalised populations",
+    "V: Valid and Legitimate Systems; trust, safety and legal compliance, important given deepfakes and misinformation",
+    "UK hosted the 1st AI Safety Summit and adopted the Bletchley Declaration on AI's promises and risks",
+    "Bletchley Declaration emphasises aligning AI with human intent, safeguarding rights, safety, ethics and accountability",
+    "AI Seoul Summit took place in 2024, co-hosted by the Republic of Korea and the UK government",
+    "3rd AI Action Summit was held in 2025 in Paris, France"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Sovereign Models and Domain Platforms",
+   "summary": "India's sovereign AI models include Sarvam's large language models, the Vikram chatbot, Gnani.ai's Vachana speech model and BharatGen's Param2 17B. Bharat GenAI develops foundational models tailored to 22 Indian languages, while BODH, SAHI, VoicERA and BHASHINI cover health and language platforms. The Bio-AI Mulankur Hubs link AI with biotechnology under the BioE3 policy.",
+   "facts": [
+    "Sarvam-30B and Sarvam-105B by Sarvam AI are large language models that generate human-like text",
+    "Sarvam's Vikram is a multilingual chatbot for seamless conversations across Indian languages",
+    "Vachana is a text-to-speech model by Gnani.ai that supports 12 Indian languages",
+    "Param2 17B is a multilingual foundational AI model by BharatGen",
+    "Bharat GenAI: India's first government-supported initiative for sovereign foundational AI models, spearheaded by IIT Bombay",
+    "Bharat GenAI models are tailored to 22 Indian languages and cover text, text-to-speech and vision-language",
+    "BODH: privacy-preserving benchmarking platform for health AI using diverse, real-world health data; positioned under Ayushman Bharat Digital Mission",
+    "SAHI (Strategy for Artificial Intelligence in Healthcare for India): national framework for responsible AI integration in healthcare",
+    "VoicERA: open-source, end-to-end voice AI stack serving as a national execution layer for multilingual voice AI",
+    "BHASHINI (Bhasha Interface for India): AI-powered national language translation and speech platform under Digital India"
+   ]
+  },
+  {
+   "i": 4,
+   "title": "Flagship Initiatives, Funding and Global Bodies",
+   "summary": "India's flagship initiatives include the IndiaAI Mission, which builds AI infrastructure around sovereign GPUs, and programmes for startups, women and youth. The summit highlighted large pledges, including $20 billion for frontier deep-tech research. Global context comes from GPAI, established in 2020, and the G7 Hiroshima AI Process, which sets guardrails for advanced AI systems.",
+   "facts": [
+    "IndiaAI Mission: builds AI infrastructure with 10,000 GPUs initially, backed by a budget of 10,372 crore",
+    "GPU target: initially 10,000, achieved 38,000, with 20,000 new GPUs being added",
+    "IndiaAI Mission 2.0 aims to onboard 38,000 sovereign GPUs and advance the National Compute Portal and strategic compute autonomy",
+    "AIRAWAT: India's largest AI supercomputing system at C-DAC Pune, manufactured by Netweb Technologies",
+    "AIRAWAT stands for AI Research, Analytics and Knowledge Assimilation",
+    "AI for ALL: identifies scalable AI solutions for development challenges, implemented with Startup India",
+    "AI by HER: promotes women-led AI innovation, implemented with NITI Aayog's Women Entrepreneurship Platform",
+    "YUVAi: encourages AI innovation among youth aged 13-21",
+    "$20 billion pledged for frontier deep-tech research",
+    "GPAI (Global Partnership on AI): established 2020, officially proposed by France and Canada; secretariat in Paris (OECD); 2024 summit held in India"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t08-0",
+   "type": "MCQ",
+   "passage": "India hosted the India AI Impact Summit 2026 at Bharat Mandapam in New Delhi, and the event marked an important step for the Global South in artificial intelligence governance. The summit's central outcome is the New Delhi Declaration on AI, which focuses on AI that is inclusive, ethical and oriented to development. Rather than limiting the discussion to risks alone, the declaration asks how AI can deliver practical benefits to ordinary people. Its framework is organised into seven pillars, and each pillar is backed by voluntary global initiatives. Some pillars concern sharing solutions, some concern shared tools and standards, and others concern workforce preparation and energy-efficient systems. The declaration also draws on partnerships between governments, startups, academia and industry. Alongside it, a separate voluntary framework for frontier AI developers was launched, with a focus on equitable access and real-world understanding of how AI is used. The theme of the gathering, welfare for all, shaped many of its discussions and gave a human focus to technical debates. Together, these efforts seek to translate high-level global discussions into outcomes that can be measured in development terms. Participants were encouraged to build scalable applications that complement national programmes, so that AI benefits reach more communities across the world.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which New Delhi Declaration pillar is a platform for sharing successful AI solutions and enabling replication of best practices globally?",
+     "options": [
+      "Trusted AI Commons",
+      "Global AI Impact Commons",
+      "Charter for Democratic Diffusion of AI",
+      "AI for Social Empowerment Platform"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which of the three Sutras stands for Sustainable Societal Impact?",
+     "options": [
+      "People",
+      "Planet",
+      "Profit",
+      "Progress"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "How many countries endorsed the New Delhi Declaration on AI, excluding international organisations?",
+     "options": [
+      "87",
+      "78",
+      "27",
+      "102"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Accountable Governance is one of the principles of the M.A.N.A.V. framework.\nReason (R): The 'N' in M.A.N.A.V. stands for Non-biased Algorithms.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. VoicERA   ->   A. Privacy-preserving benchmarking platform for health AI\nII. BODH   ->   B. Multilingual foundational AI model by BharatGen\nIII. Vachana   ->   C. National execution layer for multilingual voice and language AI\nIV. Param2 17B   ->   D. Text-to-speech model supporting 12 Indian languages",
+     "options": [
+      "I-D, II-A, III-C, IV-B",
+      "I-C, II-A, III-D, IV-B",
+      "I-A, II-C, III-B, IV-D",
+      "I-C, II-A, III-B, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. BODH is positioned under the Digital India BHASHINI Division.\nII. The GPAI secretariat is based in Paris, at the OECD.\nIII. The IndiaAI Mission's initial GPU target of 10,000 was exceeded, reaching 38,000 GPUs.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "I, II and III",
+      "II and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about the M.A.N.A.V. framework are correct?\na. The 'M' stands for Moral and Ethical Systems.\nb. The framework was unveiled at the Paris AI Action Summit 2025.\nc. The 'V' stands for Valid and Legitimate Systems.",
+     "options": [
+      "All three",
+      "Only one",
+      "Only two",
+      "None"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Bharat GenAI's sovereign foundational models are tailored to how many Indian languages?",
+     "options": [
+      "22",
+      "12",
+      "18",
+      "24"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t08-1",
+   "type": "TITA",
+   "passage": "India's flagship AI efforts combine large-scale infrastructure with social and developmental goals. Public programmes aim to widen access to computing power for researchers, startups and public institutions, so that more people can build and use AI within the country. National strategy emphasises sovereign capacity, meaning that India should rely less on foreign systems for its critical digital needs. Large financial commitments support this push, including pledges for frontier deep-tech research and a broad infrastructure build-out that includes new data centres. A national portal acts as a knowledge hub and helps build the wider AI ecosystem. Several schemes target specific communities, such as women entrepreneurs and young innovators, and some are delivered through partnerships with government bodies and research institutions. Internationally, India's initiatives sit alongside global bodies that guide responsible AI development and the governance processes that set guardrails for advanced AI systems. Together, these programmes aim to turn national ambition into practical tools that serve citizens across sectors and languages, while keeping ethics and inclusion at the centre of the effort.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What budget, in crore, backs the IndiaAI Mission? (number only)"
+    },
+    {
+     "n": 2,
+     "q": "How many sovereign GPUs does IndiaAI Mission 2.0 aim to onboard? (number)"
+    },
+    {
+     "n": 3,
+     "q": "In which city is AIRAWAT, India's largest AI supercomputing system, located? (city)"
+    },
+    {
+     "n": 4,
+     "q": "Which company manufactured AIRAWAT? (company name)"
+    },
+    {
+     "n": 5,
+     "q": "Which programme identifies scalable AI solutions for development challenges and is implemented with Startup India? (programme name)"
+    },
+    {
+     "n": 6,
+     "q": "In which city is the secretariat of GPAI based? (city)"
+    },
+    {
+     "n": 7,
+     "q": "Which institute spearheads the Bharat GenAI initiative? (institute, short name)"
+    }
+   ]
+  }
+ ]
+}

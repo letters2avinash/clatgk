@@ -1,0 +1,397 @@
+[
+ {
+  "topic": "US Supreme Court Blocks Trump's IEEPA Tariffs",
+  "page": 7,
+  "what": "Value of the 'Buy American' procurement pledge (OCR shows a partly garbled '$500 Billion' figure)"
+ },
+ {
+  "topic": "US Supreme Court Blocks Trump's IEEPA Tariffs",
+  "page": 7,
+  "what": "New effective US tariff rate under the 2026 trade deal (graphic text garbled)"
+ },
+ {
+  "topic": "US Supreme Court Blocks Trump's IEEPA Tariffs",
+  "page": 7,
+  "what": "Countries India is expected to prioritise for oil procurement (text garbled)"
+ },
+ {
+  "topic": "End of New START Treaty",
+  "page": 11,
+  "what": "'Ist time since 1972' is garbled (OCR); the 'first time since 1972' claim was not used."
+ },
+ {
+  "topic": "End of New START Treaty",
+  "page": 12,
+  "what": "START II entry: the link between the '2002' date and the US exit from the ABM Treaty is unclear; the year was not used."
+ },
+ {
+  "topic": "End of New START Treaty",
+  "page": 13,
+  "what": "Count of nuclear-armed nations in the Outer Space Treaty line is garbled ('All9Nuclear'); the number was not used."
+ },
+ {
+  "topic": "End of New START Treaty",
+  "page": 13,
+  "what": "Codenames of the second-round Pokhran-II tests ('Shakti - LI', 'Shakti - III') are garbled; only Shakti-I was used."
+ },
+ {
+  "topic": "Tarique Rahman Becomes Bangladesh's Next PM",
+  "page": 21,
+  "what": "Name of the Ahaura-Agartala rail link place is garbled; the link itself was not used"
+ },
+ {
+  "topic": "Tarique Rahman Becomes Bangladesh's Next PM",
+  "page": 21,
+  "what": "Rooppur nuclear project line lists parties to an MoU that conflicts with the project details; not used"
+ },
+ {
+  "topic": "Tarique Rahman Becomes Bangladesh's Next PM",
+  "page": 21,
+  "what": "Friendship Pipeline annual high-speed diesel quantity is garbled; not used"
+ },
+ {
+  "topic": "Tarique Rahman Becomes Bangladesh's Next PM",
+  "page": 22,
+  "what": "Farakka tiered water distribution table: allocations per flow band are garbled and could not be matched; not used"
+ },
+ {
+  "topic": "Tarique Rahman Becomes Bangladesh's Next PM",
+  "page": 18,
+  "what": "Year and count line for the 1973 elections is garbled ('Hedecided to hold 1st Elections'); not used"
+ },
+ {
+  "topic": "Tarique Rahman Becomes Bangladesh's Next PM",
+  "page": 23,
+  "what": "Referendum 'Yes Votes Secured' figure label is garbled; the 65.3% result was used instead"
+ },
+ {
+  "topic": "Manipur Gets Elected Government After President's Rule",
+  "page": 26,
+  "what": "Year Manipur was granted full-fledged statehood is garbled (reads '1o.72'); not used"
+ },
+ {
+  "topic": "Manipur Gets Elected Government After President's Rule",
+  "page": 27,
+  "what": "Whether Chief Minister Biren Singh resigned is unclear from the 'Position of Hon'ble Chief Minister' section; not used"
+ },
+ {
+  "topic": "Manipur Gets Elected Government After President's Rule",
+  "page": 28,
+  "what": "Layout of the 44th Amendment sentence (which provision it deleted) is ambiguous; only the 38th Amendment finality clause and the 1-year extension conditions were used"
+ },
+ {
+  "topic": "Union Budget 2026-27",
+  "page": 32,
+  "what": "Semiconductor Mission allocation printed as '%1,000 Crore' (currency symbol garbled); figure not used"
+ },
+ {
+  "topic": "Union Budget 2026-27",
+  "page": 32,
+  "what": "Electronics Component Manufacturing Scheme outlay split across a line break ('740,000' then 'crore'); figure not used"
+ },
+ {
+  "topic": "Union Budget 2026-27",
+  "page": 32,
+  "what": "Container Ecosystem scheme amount garbled ('=10,00S0 Crore'); figure not used"
+ },
+ {
+  "topic": "Union Budget 2026-27",
+  "page": 32,
+  "what": "Bio-economy growth trajectory line garbled ('USD 10 Bn (2014) + USD 165.7 Bn (2024)'); not used"
+ },
+ {
+  "topic": "Union Budget 2026-27",
+  "page": 34,
+  "what": "Income tax pie chart: mapping of categories (Income Tax, Excise and Customs, Non-Tax Revenues, Central Sector Scheme, Subsidies, Defence) to percentages is garbled; not used"
+ },
+ {
+  "topic": "Union Budget 2026-27",
+  "page": 34,
+  "what": "New fiscal plan debt target printed as '50% (+1%)' by FY 2030-31; the band is unclear, so only the approximate target is noted and the band is not used"
+ },
+ {
+  "topic": "16th Finance Commission Report",
+  "page": 39,
+  "what": "Total grants-in-aid amount for local bodies and disaster management is garbled (currency symbol and figure '9.47' unclear); not used"
+ },
+ {
+  "topic": "16th Finance Commission Report",
+  "page": 39,
+  "what": "Disaster relief fund figure reads '22.04' lakh crore on page 39 while page 43 options are garbled (%1.04 / 21.54 / 2.04 / %2.54); not used"
+ },
+ {
+  "topic": "16th Finance Commission Report",
+  "page": 39,
+  "what": "Rural and urban local body amounts (4.4 and 3.6 lakh crore, total 8 lakh crore) do not match the stated 60:40 ratio; amounts not used, only the ratio"
+ },
+ {
+  "topic": "16th Finance Commission Report",
+  "page": 38,
+  "what": "16th FC 'Fiscal Efforts' cell in the horizontal devolution table is unreadable; not used"
+ },
+ {
+  "topic": "16th Finance Commission Report",
+  "page": 38,
+  "what": "Exclusion clause says SASCI borrowings are excluded 'from this limit' without saying whether it applies to the Centre's limit, the States' limit, or both; SASCI exclusion stated without naming the limit"
+ },
+ {
+  "topic": "16th Finance Commission Report",
+  "page": 39,
+  "what": "Constitutional reform article references are garbled ('[Articles ... 280(3)(bb) and 280(3)(c)'); article numbers not used"
+ },
+ {
+  "topic": "16th Finance Commission Report",
+  "page": 40,
+  "what": "Surcharge income threshold has a garbled currency symbol ('50 lakh'); threshold not used"
+ },
+ {
+  "topic": "16th Finance Commission Report",
+  "page": 40,
+  "what": "Funds table (Consolidated Fund, Public Account, Contingency Fund) columns are misaligned in OCR; article numbers and authorisation rules not used"
+ },
+ {
+  "topic": "CPI Base Year Revised to 2024",
+  "page": 44,
+  "what": "Phrase 'Sets FY 2022-23 as New LIP Base' is garbled (likely IIP); not used. The FY 2022-23 base is taken from the clear 'New GDP Series' line and the quiz on page 48."
+ },
+ {
+  "topic": "CPI Base Year Revised to 2024",
+  "page": 44,
+  "what": "Line 'Removes Inflation Effect, Enables Accurate ...' is cut off by OCR; not used."
+ },
+ {
+  "topic": "CPI Base Year Revised to 2024",
+  "page": 46,
+  "what": "'Types of CPI' table (CPI-AL, CPI-RL, CPI-IW and rural/urban/combined variants, with release and compilation agencies) is garbled; not used."
+ },
+ {
+  "topic": "CPI Base Year Revised to 2024",
+  "page": 46,
+  "what": "CPI commodity weights diagram (fuel and light, clothing, housing, pan/tobacco, miscellaneous) has unclear number-to-label mapping; not used."
+ },
+ {
+  "topic": "CPI Base Year Revised to 2024",
+  "page": 46,
+  "what": "Consumer Food Price Index box and WPI notes ('Excludes taxes, discounts, & transport', GDP deflator release agency) are garbled; not used."
+ },
+ {
+  "topic": "CPI Base Year Revised to 2024",
+  "page": 46,
+  "what": "WPI vs CPI vs GDP deflator comparison rows for imported items, capital goods and services coverage have unclear column mapping; not used."
+ },
+ {
+  "topic": "India AI Impact Summit 2026",
+  "page": 50,
+  "what": "Heading reads '3 Sovereign AI Models' but four models are listed; the count was not used"
+ },
+ {
+  "topic": "India AI Impact Summit 2026",
+  "page": 51,
+  "what": "Line 'Implemented with MyBharat & NIELIT' sits across a page break (printed on page 52) so the YUVAi attribution is inferred; not used"
+ },
+ {
+  "topic": "India AI Impact Summit 2026",
+  "page": 52,
+  "what": "Stargate Project partner list is garbled ('SofiBank'); partner names were not used"
+ },
+ {
+  "topic": "Corruption Perceptions Index 2025",
+  "page": 55,
+  "what": "Country score table (Libya, Yemen, Finland, Singapore, New Zealand, Norway, Venezuela) is garbled; only the scores stated in running text were used."
+ },
+ {
+  "topic": "Corruption Perceptions Index 2025",
+  "page": 56,
+  "what": "Regional comparison numbers (ranks and scores for Maldives, Pakistan, Bangladesh, Nepal, Sri Lanka, Afghanistan, Myanmar, Bhutan, China) are garbled; only the country orderings were used."
+ },
+ {
+  "topic": "Corruption Perceptions Index 2025",
+  "page": 56,
+  "what": "Maldives tie with India (rank 91 / score 39) is unclear because the rank and score labels are scrambled."
+ },
+ {
+  "topic": "Corruption Perceptions Index 2025",
+  "page": 56,
+  "what": "Present CAG name is garbled ('Kundu Sanjay Murthy'); not used."
+ },
+ {
+  "topic": "Corruption Perceptions Index 2025",
+  "page": 56,
+  "what": "The ED line about cases being investigated and prosecuted by ED 'and Financial Intelligence Unit' is garbled; not used."
+ },
+ {
+  "topic": "Corruption Perceptions Index 2025",
+  "page": 57,
+  "what": "INTERPOL colour-coded notice labels (Wanted, Yellow Notice, Missing Persons, Modus Operandi) are not clearly mapped to their notices; not used."
+ },
+ {
+  "topic": "Corruption Perceptions Index 2025",
+  "page": 57,
+  "what": "Definition of FATF Grey List is cut off and the Interpol headquarters location is not legible; not used."
+ },
+ {
+  "topic": "Corruption Perceptions Index 2025",
+  "page": 57,
+  "what": "Statement on FATF membership of Russia reads oddly (suspension versus remaining a member); not used."
+ },
+ {
+  "topic": "NGT Clears Great Nicobar Mega Infrastructure Project",
+  "page": 62,
+  "what": "Regional bench listed as 'Kotkata' is probably an OCR error for Kolkata; only Bhopal, Pune and Chennai used."
+ },
+ {
+  "topic": "NGT Clears Great Nicobar Mega Infrastructure Project",
+  "page": 62,
+  "what": "The second '10-20' member-count block has a garbled label; only the Judicial Members count is used."
+ },
+ {
+  "topic": "NGT Clears Great Nicobar Mega Infrastructure Project",
+  "page": 62,
+  "what": "The list of seven laws is partly garbled (for example the Water Cess Act line); only the Forest Rights Act and Wildlife Protection Act exclusions and the NGT Act year are used."
+ },
+ {
+  "topic": "NGT Clears Great Nicobar Mega Infrastructure Project",
+  "page": 60,
+  "what": "The name 'Norcondam (Extinct Volcano)' is spelled unclearly; not used."
+ },
+ {
+  "topic": "NGT Clears Great Nicobar Mega Infrastructure Project",
+  "page": 60,
+  "what": "The threatened species line is fragmented in the OCR text; not used."
+ },
+ {
+  "topic": "NGT Clears Great Nicobar Mega Infrastructure Project",
+  "page": 61,
+  "what": "The full PM-JANMAN scheme name and its 'Janjatiya' line are garbled; only the acronym and Rs. 24,000 crore outlay are used."
+ },
+ {
+  "topic": "World Wetlands Day 2026",
+  "page": 65,
+  "what": "The line 'Most Ramsar Sites are in United Kingdom, Mexico, India' is split across interleaved columns and could not be read reliably; not used."
+ },
+ {
+  "topic": "World Wetlands Day 2026",
+  "page": 66,
+  "what": "The accredited-cities ranking breaks off at 'Highest from China (22), followed by'; the rest of the ranking is unreadable, so no country ranking is used."
+ },
+ {
+  "topic": "World Wetlands Day 2026",
+  "page": 66,
+  "what": "The venue of COP 12 (2015) is garbled ('Urugauy'); only the COP number and year are used."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 69,
+  "what": "Partner name for the museum project reads 'Yuge Yugeen Bharat Museum' (likely Yuga Yugeen Bharat); not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 72,
+  "what": "Malaysia country-data table (PM, currency, official language) is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 72,
+  "what": "Malaysia rank among Persons of Indian Origin ('2nd largest, after US') is partly garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 72,
+  "what": "Malaysia palm-oil supplier phrasing ('Reliable Largest Supplier') is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 74,
+  "what": "CCI penalty amount on WhatsApp ('=213.14 Crore') has a garbled currency symbol; amount not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 74,
+  "what": "MPLADS annual allocation ('%5 Crore per MP') has a garbled currency symbol; amount not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 74,
+  "what": "MPLADS out-of-constituency limit ('<25 Lakh') is garbled; amount not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 75,
+  "what": "MPLADS disaster relief limit per district ('ceiling 1 Crore' with garbled symbol) is uncertain; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 75,
+  "what": "Bharat Taxi share capital cap ('$500') may be a garbled currency symbol; amount not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 75,
+  "what": "Bharat Taxi free medical treatment amount ('up to 5 Lakh') is missing its currency symbol; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 79,
+  "what": "Electoral trust disclosure threshold ('above 220,000') has a garbled currency symbol; amount not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 80,
+  "what": "Debt-to-GDP target ('50 + 1% by 2030-31') has a garbled symbol; target not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 81,
+  "what": "BIRAC RDI Fund first national call amount conflicts: 22,000 crore in one place and 32,000 crore in another; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 81,
+  "what": "BIRAC RDI Fund total outlay has a garbled currency symbol ('#1 Lakh Crore'); amount not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 82,
+  "what": "DAC approval total ('%3.60 Lakh Crore') has a garbled currency symbol; amount not used"
+ },
+ {
+  "topic": "Current Affairs February 2026: Defence, Security, Transport, Space and Institutions",
+  "page": 85,
+  "what": "Fragment 'Spoken mainly in Jharkhand, Odisha, West Bengal, Assam, Bihar, Parts of Nepal and Bangladesh' has no heading in the OCR; not used."
+ },
+ {
+  "topic": "Current Affairs February 2026: Defence, Security, Transport, Space and Institutions",
+  "page": 85,
+  "what": "Ordinal before 'Underwater Twin Tube Road-cum-Rail Tunnel' is garbled ('1' followed by a quote mark); not used."
+ },
+ {
+  "topic": "Current Affairs February 2026: Defence, Security, Transport, Space and Institutions",
+  "page": 86,
+  "what": "Ordinal in 'Edition of World Defence Show 2026' is garbled ('3' followed by a quote mark); not used."
+ },
+ {
+  "topic": "Current Affairs February 2026: Defence, Security, Transport, Space and Institutions",
+  "page": 86,
+  "what": "MESSENGER full form is cut off after 'GEochemistry' (the 'and Ranging' part is missing) and 'dRanei' is garbled; full form not used."
+ },
+ {
+  "topic": "Current Affairs February 2026: Defence, Security, Transport, Space and Institutions",
+  "page": 86,
+  "what": "Ordinal before 'Spacecraft to orbit Mercury' is garbled ('1' followed by a quote mark); not used."
+ },
+ {
+  "topic": "Current Affairs February 2026: Defence, Security, Transport, Space and Institutions",
+  "page": 86,
+  "what": "Programme name 'AlJScholarship' (AI Scholarship?) is garbled; the EC Council partnership line was not used."
+ },
+ {
+  "topic": "Current Affairs February 2026: Defence, Security, Transport, Space and Institutions",
+  "page": 87,
+  "what": "Ordinal in 'UN Training Programme on Small Arms Control' is garbled ('1' followed by a quote mark); not used."
+ },
+ {
+  "topic": "Current Affairs February 2026: Defence, Security, Transport, Space and Institutions",
+  "page": 87,
+  "what": "Rafah Crossing block is misaligned in OCR: 'Members: 25 Nations' and the crossing-location bullets (southernmost exit, Erez, Kerem Shalom, the only crossing not passing through Israel) cannot be attributed reliably; not used."
+ }
+]
