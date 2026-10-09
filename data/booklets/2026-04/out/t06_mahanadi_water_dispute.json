@@ -1,0 +1,350 @@
+{
+ "topic": {
+  "title": "Mahanadi Water Dispute",
+  "chapter_title": "Polity and Governance",
+  "subtopics": [
+   {
+    "title": "Dispute background and positions",
+    "summary": "The Mahanadi dispute concerns how the river's waters are shared between upstream Chhattisgarh and downstream Odisha. Odisha says upstream construction has reduced its downstream flow, while Chhattisgarh cites its larger catchment share and development needs. The conflict is sharpest in the non-monsoon season and is intensified by the absence of a formal sharing agreement.",
+    "facts": [
+     "Dispute escalated around 2016 after increased upstream infrastructure development",
+     "Odisha approached the Supreme Court of India, which led to a tribunal being constituted",
+     "Odisha argues that upstream constructions by Chhattisgarh reduced downstream water flow",
+     "Odisha's concerns: irrigation, drinking water supply, fisheries and ecological sustainability",
+     "Chhattisgarh says it accounts for a larger share of the basin's catchment area",
+     "Chhattisgarh says its projects are necessary for regional development and water security",
+     "Dispute is most critical in the non-monsoon season when downstream water availability matters most",
+     "Absence of a formal inter-state water-sharing agreement has intensified the conflict"
+    ],
+    "keywords": ["Odisha", "Chhattisgarh", "non-monsoon season", "upstream construction", "catchment area", "water-sharing agreement"]
+   },
+   {
+    "title": "Tribunal status and deadlock",
+    "summary": "The Mahanadi Water Disputes Tribunal has given both states a final opportunity to agree a water-sharing formula and has issued an ultimatum for a settlement by May 2. If no settlement is reached, the Tribunal will decide on available evidence and legal principles. The Tribunal has voiced dissatisfaction with repeated adjournments, and the deadlock is linked to unreliable data and a trust deficit.",
+    "facts": [
+     "Tribunal granted both states a Final Opportunity to agree a mutually agreed water-sharing formula",
+     "Final ultimatum: present a water-sharing settlement to the Tribunal by May 2",
+     "If the states fail, the Tribunal will adjudicate on available evidence and legal principles",
+     "Tribunal will deliver a Final Judgment on Merits if Odisha and Chhattisgarh fail to settle",
+     "Tribunal is dissatisfied with repeated adjournments and lack of substantive progress",
+     "No concrete proposals or narrowing of contentious issues have been placed on record",
+     "Deadlock is attributed to absence of reliable and mutually accepted hydrological data",
+     "A persistent trust deficit between the two states has hindered negotiation and consensus"
+    ],
+    "keywords": ["final opportunity", "May 2", "final judgment on merits", "adjournments", "hydrological data", "trust deficit"]
+   },
+   {
+    "title": "Legal framework for inter-state waters",
+    "summary": "Article 262 empowers Parliament to adjudicate inter-state river disputes and allows it to exclude courts' jurisdiction in such matters. The Inter-State River Water Disputes Act, 1956 was used for the Mahanadi tribunal, and the River Boards Act, 1956 provides for river boards. Entries 17 and 56 divide powers between the States and the Union, and the Supreme Court cannot question a tribunal's award but can question its working.",
+    "facts": [
+     "Article 262 empowers Parliament to adjudicate disputes relating to inter-state rivers",
+     "Article 262 allows Parliament to exclude the jurisdiction of courts in such matters",
+     "Inter-State River Water Disputes Act, 1956 was used to constitute the Mahanadi tribunal",
+     "Centre first tries consultation among aggrieved states; if that fails it may constitute a tribunal",
+     "River Boards Act, 1956 lets the Centre establish boards for inter-state rivers in consultation with states",
+     "A River Board is to meet at least thrice a year and the Prime Minister is its Chairman",
+     "No River Board has been created to date",
+     "Entry 17 (State List) covers water supplies, irrigation, canals, drainage and embankments",
+     "Entry 56 (Union List) empowers the Union to regulate and develop inter-state rivers in public interest",
+     "Supreme Court cannot question a tribunal's award or formula but can question its working"
+    ],
+    "keywords": ["Article 262", "Inter-State River Water Disputes Act 1956", "River Boards Act 1956", "Entry 17", "Entry 56", "State List", "Union List"]
+   },
+   {
+    "title": "River course and Hirakud Dam",
+    "summary": "The Mahanadi originates at Sihawa Hill in Raipur, Chhattisgarh, and flows through Odisha before emptying into the Bay of Bengal. It receives left-bank and right-bank tributaries. Hirakud Dam on the river is described in the booklet as the longest earthen dam in the world.",
+    "facts": [
+     "Mahanadi originates at Sihawa Hill in Raipur, Chhattisgarh",
+     "Mahanadi flows through Odisha before emptying into the Bay of Bengal",
+     "Left bank tributaries: Shivnath, Hasdeo, Mand and Ib",
+     "Right bank tributaries: Jonk, Ong and Tel",
+     "Hirakud Dam is the longest earthen dam in the world"
+    ],
+    "keywords": ["Sihawa Hill", "Raipur", "Bay of Bengal", "Shivnath", "Hasdeo", "Mand", "Ib", "Jonk", "Ong", "Tel", "Hirakud Dam"]
+   },
+   {
+    "title": "Other inter-state water tribunals",
+    "summary": "India has several inter-state water tribunals, each set up for a particular river dispute. The booklet lists tribunals formed between 1986 and 2018, covering states such as Punjab, Karnataka, Andhra Pradesh and Odisha. The Mahanadi tribunal is one of these five.",
+    "facts": [
+     "Ravi & Beas Water Tribunal, formed 1986: Rajasthan, Haryana and Punjab",
+     "Krishna Water Disputes Tribunal II, formed 2004: Andhra Pradesh, Maharashtra, Telangana and Karnataka",
+     "Mahadayi Water Disputes Tribunal, formed 2010: Karnataka, Goa and Maharashtra",
+     "Vansadhara Water Disputes Tribunal, formed 2010: Odisha and Andhra Pradesh",
+     "Mahanadi Water Disputes Tribunal, formed 2018: Chhattisgarh and Odisha"
+    ],
+    "keywords": ["Ravi & Beas", "Krishna Water Disputes Tribunal II", "Mahadayi", "Vansadhara", "Mahanadi tribunal"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Mahanadi water dispute overview",
+   "root": {
+    "label": "Mahanadi water dispute",
+    "children": [
+     {
+      "label": "Dispute background",
+      "children": [
+       {"label": "Escalated around 2016", "children": []},
+       {"label": "Upstream infrastructure growth", "children": []},
+       {"label": "No formal sharing agreement", "children": []}
+      ]
+     },
+     {
+      "label": "Positions of the states",
+      "children": [
+       {"label": "Odisha: downstream flow decline", "children": []},
+       {"label": "Chhattisgarh: larger catchment share", "children": []}
+      ]
+     },
+     {
+      "label": "Tribunal stage",
+      "children": [
+       {"label": "Final opportunity to settle", "children": []},
+       {"label": "Ultimatum: settlement by May 2", "children": []},
+       {"label": "Final judgment on merits if no deal", "children": []}
+      ]
+     },
+     {
+      "label": "Legal framework",
+      "children": [
+       {"label": "Article 262: Parliament adjudicates", "children": []},
+       {"label": "Inter-State River Water Disputes Act, 1956", "children": []},
+       {"label": "Entry 17: State List", "children": []},
+       {"label": "Entry 56: Union List", "children": []}
+      ]
+     },
+     {
+      "label": "River course",
+      "children": [
+       {"label": "Origin: Sihawa Hill", "children": []},
+       {"label": "Mouth: Bay of Bengal", "children": []},
+       {"label": "Hirakud Dam: longest earthen dam", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Dispute background map",
+   "root": {
+    "label": "Dispute background and positions",
+    "children": [
+     {"label": "Escalation", "children": [{"label": "Around 2016", "children": []}, {"label": "Upstream infrastructure growth", "children": []}]},
+     {"label": "Odisha's concerns", "children": [{"label": "Decline in downstream flow", "children": []}, {"label": "Irrigation, drinking water, fisheries", "children": []}]},
+     {"label": "Chhattisgarh's position", "children": [{"label": "Larger catchment share", "children": []}, {"label": "Development and water security", "children": []}]},
+     {"label": "Key gaps", "children": [{"label": "No formal sharing agreement", "children": []}, {"label": "Non-monsoon season is critical", "children": []}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Tribunal status map",
+   "root": {
+    "label": "Tribunal status and deadlock",
+    "children": [
+     {"label": "Tribunal stance", "children": [{"label": "Final opportunity for states", "children": []}, {"label": "Adjudicate on evidence if no deal", "children": []}]},
+     {"label": "Court's dissatisfaction", "children": [{"label": "Repeated adjournments", "children": []}, {"label": "No concrete proposals on record", "children": []}]},
+     {"label": "Deadlock reasons", "children": [{"label": "Unreliable hydrological data", "children": []}, {"label": "Persistent trust deficit", "children": []}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Legal framework map",
+   "root": {
+    "label": "Legal framework",
+    "children": [
+     {"label": "Constitution", "children": [{"label": "Article 262: Parliament adjudicates", "children": []}, {"label": "Courts' jurisdiction may be excluded", "children": []}]},
+     {"label": "Statutes", "children": [{"label": "Inter-State River Water Disputes Act, 1956", "children": []}, {"label": "River Boards Act, 1956", "children": []}]},
+     {"label": "Lists", "children": [{"label": "Entry 17: State List", "children": []}, {"label": "Entry 56: Union List", "children": []}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "River course map",
+   "root": {
+    "label": "Mahanadi river course",
+    "children": [
+     {"label": "Origin", "children": [{"label": "Sihawa Hill, Raipur", "children": []}]},
+     {"label": "Flow", "children": [{"label": "Through Odisha", "children": []}, {"label": "Mouth: Bay of Bengal", "children": []}]},
+     {"label": "Left bank tributaries", "children": [{"label": "Shivnath, Hasdeo, Mand, Ib", "children": []}]},
+     {"label": "Right bank tributaries", "children": [{"label": "Jonk, Ong, Tel", "children": []}]},
+     {"label": "Infrastructure", "children": [{"label": "Hirakud Dam", "children": []}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Other tribunals map",
+   "root": {
+    "label": "Other inter-state water tribunals",
+    "children": [
+     {"label": "Ravi & Beas (1986)", "children": [{"label": "Rajasthan, Haryana, Punjab", "children": []}]},
+     {"label": "Krishna II (2004)", "children": [{"label": "AP, Maharashtra, Telangana, Karnataka", "children": []}]},
+     {"label": "Mahadayi (2010)", "children": [{"label": "Karnataka, Goa, Maharashtra", "children": []}]},
+     {"label": "Vansadhara (2010)", "children": [{"label": "Odisha, Andhra Pradesh", "children": []}]},
+     {"label": "Mahanadi (2018)", "children": [{"label": "Chhattisgarh, Odisha", "children": []}]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Left bank tributaries",
+   "mnemonic": "Some Hungry Monkeys Itch",
+   "decode": [
+    {"key": "S", "meaning": "Shivnath, a left bank tributary of the Mahanadi"},
+    {"key": "H", "meaning": "Hasdeo, a left bank tributary of the Mahanadi"},
+    {"key": "M", "meaning": "Mand, a left bank tributary of the Mahanadi"},
+    {"key": "I", "meaning": "Ib, a left bank tributary of the Mahanadi"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "State List vs Union List",
+   "mnemonic": "Seventeen stays with States, Fifty-six goes to the Union",
+   "decode": [
+    {"key": "17", "meaning": "Entry 17 of the State List covers water supplies, irrigation, canals, drainage and embankments"},
+    {"key": "56", "meaning": "Entry 56 of the Union List lets the Union regulate and develop inter-state rivers in public interest"}
+   ]
+  },
+  {
+   "scope": "topic",
+   "title": "Article 262 in one line",
+   "mnemonic": "Two-Six-Two: Parliament decides, courts step aside",
+   "decode": [
+    {"key": "262", "meaning": "Article 262 empowers Parliament to adjudicate inter-state river disputes"},
+    {"key": "Courts step aside", "meaning": "Article 262 allows Parliament to exclude the jurisdiction of courts in such matters"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Dispute Background Check",
+   "passage": "The Mahanadi water dispute is a conflict between Odisha and Chhattisgarh over how the river's waters should be shared. Odisha, the downstream state, says that extensive upstream constructions in Chhattisgarh have reduced the water flowing into its territory. In Odisha's view, this decline threatens irrigation, drinking water supply, fisheries and the ecological sustainability of the state. Chhattisgarh, the upstream state, argues that it has a legitimate right to utilise river waters. It points out that it accounts for a larger share of the basin's catchment area. It also says its projects are necessary for regional development and water security. The conflict is most sharp during the non-monsoon season, when water availability downstream becomes critically important. A central obstacle is that the two states have no formal water-sharing agreement between them. The dispute grew more serious after upstream infrastructure work expanded, and Odisha took the matter forward by approaching the highest court of the country. Efforts at negotiation have so far not produced a shared formula. Because no agreed rules exist, each state relies on its own reading of how the river's flow should be shared. Both states continue to hold firmly to their positions, and the question of how the water should be divided remains open.",
+   "questions": [
+    {
+     "q": "Around which year did the Mahanadi water dispute between Odisha and Chhattisgarh significantly escalate?",
+     "options": ["2008", "2012", "2016", "2019"],
+     "answer": 2,
+     "explanation": "The dispute escalated around 2016, following increased upstream infrastructure development."
+    },
+    {
+     "q": "Under which Act was the Mahanadi Water Disputes Tribunal constituted?",
+     "options": ["Inter-State River Water Disputes Act, 1956", "River Boards Act, 1956", "Water (Prevention and Control of Pollution) Act, 1974", "National Water Policy Act, 2002"],
+     "answer": 0,
+     "explanation": "Odisha's approach to the Supreme Court led to the tribunal being constituted under the Inter-State River Water Disputes Act, 1956."
+    },
+    {
+     "type": "AR",
+     "q": "Assertion (A): Parliament can exclude the jurisdiction of courts in disputes relating to inter-state rivers.\nReason (R): The Supreme Court cannot question the award or formula given by a Water Disputes Tribunal.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 1,
+     "explanation": "Article 262 gives the power to exclude courts, while the bar on questioning awards is a separate rule, so R does not explain A."
+    },
+    {
+     "type": "match",
+     "q": "Match List I with List II:\nI. Entry 17 (State List)   ->   A. Water supplies, irrigation, canals, drainage, embankments\nII. River Boards Act, 1956   ->   B. Boards for inter-state rivers and river valleys\nIII. Entry 56 (Union List)   ->   C. Regulate and develop inter-state rivers in public interest\nIV. Inter-State River Water Disputes Act, 1956   ->   D. Tribunal constituted if consultation between states fails",
+     "options": ["I-B, II-C, III-A, IV-D", "I-C, II-A, III-B, IV-D", "I-A, II-B, III-C, IV-D", "I-D, II-A, III-B, IV-C"],
+     "answer": 2,
+     "explanation": "Entry 17 covers water supplies under the State List, while Entry 56 gives the Union power over inter-state rivers."
+    },
+    {
+     "type": "multi",
+     "q": "I. The Mahanadi Water Disputes Tribunal was constituted in 2016.\nII. The Mahanadi Water Disputes Tribunal was constituted in 2018 for Chhattisgarh and Odisha.\nIII. The Krishna Water Disputes Tribunal II was constituted in 2004 for four states.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 1,
+     "explanation": "The tribunal table gives 2018 for the Mahanadi tribunal and 2004 for Krishna II, while 2016 is the year the dispute escalated."
+    },
+    {
+     "type": "how-many",
+     "q": "I. The Tribunal has issued a final ultimatum asking the two states to present a settlement by May 2.\nII. The Supreme Court can question the award or formula given by the Tribunal.\nIII. No River Board has been created so far under the River Boards Act, 1956.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and III are correct, while the Supreme Court cannot question a tribunal's award, so statement II is wrong."
+    },
+    {
+     "q": "Which Article of the Indian Constitution empowers Parliament to adjudicate disputes relating to inter-state rivers?",
+     "options": ["Article 245", "Article 256", "Article 280", "Article 262"],
+     "answer": 3,
+     "explanation": "Article 262 empowers Parliament to adjudicate disputes relating to inter-state rivers."
+    },
+    {
+     "q": "What is the significance of the Hirakud Dam built on the Mahanadi River?",
+     "options": ["It is the tallest concrete dam in India", "It is the first hydroelectric dam in India", "It is the largest reservoir in Asia by surface area", "It is the longest earthen dam in the world"],
+     "answer": 3,
+     "explanation": "The booklet describes Hirakud Dam as the longest earthen dam in the world."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Tribunal Status Check",
+   "passage": "The Mahanadi Water Disputes Tribunal has now reached a stage where the two states must act or face a judgment. The Tribunal has granted both Odisha and Chhattisgarh a final opportunity to arrive at a mutually agreed water-sharing formula within a deadline set for this year. If the states fail, the Tribunal has made clear that it will proceed to adjudicate the dispute on the basis of available evidence and legal principles. The Tribunal has also expressed serious dissatisfaction with repeated adjournments and a lack of substantive progress. It observed that no concrete proposals or narrowing of contentious issues have been placed on record, despite assurances of settlement efforts. The deadlock is attributed mainly to two causes: the absence of information that both sides accept as reliable, and a persistent trust deficit between the two states. These problems have made meaningful negotiation and consensus building difficult. Disputes of this kind are handled by tribunals set up for particular rivers and particular groups of states. The Odisha and Chhattisgarh dispute is one such case, and India has several other tribunals that deal with water sharing between neighbouring states. Each tribunal works within its own dispute and its own set of states.",
+   "questions": [
+    {
+     "q": "In which year was the Mahanadi Water Disputes Tribunal formed?",
+     "answer": "2018",
+     "accept": ["2018"],
+     "explanation": "The tribunal table lists 2018 for the Mahanadi tribunal involving Chhattisgarh and Odisha."
+    },
+    {
+     "q": "By which date were the two states asked to present a water-sharing settlement? (Month Day)",
+     "answer": "May 2",
+     "accept": ["2 May", "May 2nd", "2nd May", "May 02"],
+     "explanation": "The Tribunal issued a final ultimatum for a settlement by May 2."
+    },
+    {
+     "q": "Which tribunal in the booklet's table was formed earliest? (name)",
+     "answer": "Ravi & Beas Water Tribunal",
+     "accept": ["Ravi and Beas Water Tribunal", "Ravi & Beas Water Disputes Tribunal", "Ravi and Beas Water Disputes Tribunal", "Ravi & Beas"],
+     "explanation": "The Ravi & Beas Water Tribunal was formed in 1986, earlier than the other tribunals in the table."
+    },
+    {
+     "q": "Which tribunal covers Odisha and Andhra Pradesh? (name)",
+     "answer": "Vansadhara Water Disputes Tribunal",
+     "accept": ["Vansadhara Tribunal", "Vansadhara"],
+     "explanation": "The table lists the Vansadhara Water Disputes Tribunal, formed in 2010, for Odisha and Andhra Pradesh."
+    },
+    {
+     "q": "Absence of reliable and mutually accepted ____ data has contributed to the deadlock. (one word)",
+     "answer": "Hydrological",
+     "accept": ["hydrological"],
+     "explanation": "The booklet attributes the deadlock to the absence of reliable and mutually accepted hydrological data."
+    },
+    {
+     "q": "How many River Boards have been created under the River Boards Act, 1956 so far? (as a number)",
+     "answer": "0",
+     "accept": ["zero", "none", "None"],
+     "explanation": "The booklet states that to date no River Board has been created."
+    },
+    {
+     "q": "Who is the Chairman of a River Board under the River Boards Act, 1956? (position)",
+     "answer": "Prime Minister",
+     "accept": ["PM", "Prime Minister of India", "the Prime Minister"],
+     "explanation": "The River Board composition in the booklet lists the Prime Minister as Chairman."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 27, "what": "Tributary line has 'West Bengal' overlaid on the tributary list; only the clearly readable tributary names were used"},
+  {"page": 28, "what": "Article 262 text is overlaid with an Inter-State Council box; the Council's 'Recommendatory Body' type is not attributed in this topic"},
+  {"page": 28, "what": "River Boards composition text is interleaved with other boxes; the number of Cabinet-rank Ministers nominated by the PM is not used"}
+ ]
+}

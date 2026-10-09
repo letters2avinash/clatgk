@@ -1,0 +1,338 @@
+{
+ "topic": {
+  "title": "Constitution (131st Amendment) Bill, 2026",
+  "chapter_title": "National News and Issues",
+  "subtopics": [
+   {
+    "title": "Bill and Lok Sabha expansion",
+    "summary": "The Constitution (131st Amendment) Bill, 2026 was proposed along with the Delimitation Bill, 2026 to restructure representation. It would expand the Lok Sabha from 543 to 850 seats, with 815 for States and 35 for Union Territories. Seat allocation and delimitation would use the 2011 Census, and Parliament would decide which population data to use.",
+    "facts": [
+     "Constitution (131st Amendment) Bill, 2026 proposed with the Delimitation Bill, 2026",
+     "Lok Sabha to expand from 543 to 850 seats",
+     "Proposed 850 seats: 815 for States and 35 for Union Territories",
+     "Current Lok Sabha strength: 543 elected members",
+     "2011 Census used for seat allocation and delimitation",
+     "Article 82 amended to lift the freeze on redrawing constituency boundaries",
+     "Parliament empowered to decide which population data to use",
+     "Current Lok Sabha seat freeze is based on the 1971 Census under the 84th Amendment"
+    ],
+    "keywords": ["Lok Sabha", "850 seats", "543 seats", "Delimitation Bill 2026", "2011 Census", "Article 82"]
+   },
+   {
+    "title": "Women's reservation",
+    "summary": "The Bill overrides the delay linked to the Census for women's reservation under the Nari Shakti Vandan Adhiniyam. Reservation is for one-third of seats in the Lok Sabha and State Assemblies, valid for 15 years and extendable by Parliament. Reserved constituencies rotate after each delimitation, and the reservation does not extend to the Rajya Sabha or State Legislative Councils.",
+    "facts": [
+     "Women's Reservation Act, 2023 is the 106th Constitutional Amendment Act",
+     "One-third of total seats in Lok Sabha and State Assemblies reserved for women",
+     "Article 330A: reservation for women in the Lok Sabha",
+     "Article 332A: reservation for women in State Legislative Assemblies",
+     "Article 239AA: reservation for women in the NCT of Delhi",
+     "Article 334A: reservation effective after delimitation and Census",
+     "Reservation valid for 15 years and can be extended",
+     "Reserved seats rotate after each delimitation",
+     "Within SC/ST reserved seats, one-third reserved for SC/ST women under the Bill",
+     "Women's reservation bills were introduced in 1996, 1998, 2009, 2010 and 2014",
+     "No women's reservation in the Rajya Sabha or State Legislative Councils"
+    ],
+    "keywords": ["Women's reservation", "Nari Shakti Vandan Adhiniyam", "106th Amendment", "33%", "Article 330A", "Rotation"]
+   },
+   {
+    "title": "Delimitation and the Commission",
+    "summary": "Delimitation redraws territorial constituency boundaries so that representation stays fair after population changes. Article 82 requires Parliament to pass a Delimitation Act after every Census, and the President appoints the Delimitation Commission. The Delimitation Bill, 2026 gives the Commission civil court powers and states that its orders cannot be challenged in courts.",
+    "facts": [
+     "Delimitation defines territorial constituency boundaries after population changes",
+     "Article 82: Parliament to pass a Delimitation Act after every Census",
+     "Article 170 governs the division of constituencies for State Assemblies",
+     "President appoints the Delimitation Commission in consultation with the Election Commission",
+     "Commission members: a retired Supreme Court judge (Chairperson), the Chief Election Commissioner and State Election Commissioners",
+     "Commission decisions are final and not subject to court review or modification by Parliament or State Assemblies",
+     "Delimitation Commissions were formed under Acts of 1952, 1962, 1972 and 2002",
+     "No Commission was formed after the 1981 and 1991 Censuses",
+     "84th Amendment (2002) extended the freeze until the first Census after 2026"
+    ],
+    "keywords": ["Delimitation", "Article 82", "Article 170", "Delimitation Commission", "Census", "84th Amendment"]
+   },
+   {
+    "title": "Concerns and consequences",
+    "summary": "Critics point to federal imbalance, with the South's share of Lok Sabha seats projected to fall from 24.3% to about 20.7%. Concerns also include outdated 2011 data, removal of judicial review and excess legislative control over delimitation. Supporters point to smaller constituencies, better grievance redressal and a more efficient use of MPLADS funds.",
+    "facts": [
+     "Federal imbalance: Southern States' share falls from 24.3% to about 20.7%",
+     "Northern dominance: high population growth states gain more seats",
+     "Outdated data: the 2011 Census may distort representation for decades",
+     "Judicial review removed: risk of gerrymandering",
+     "Excess legislative control: Parliament's discretion may politicise delimitation",
+     "Ministers capped at 15% of Lok Sabha strength under Article 75(1A)",
+     "Joint sittings: Lok Sabha dominance dilutes the Rajya Sabha's federal role",
+     "Expansion reduces constituency size and improves accessibility and grievance redressal",
+     "Census dependency delays implementation of women's reservation"
+    ],
+    "keywords": ["Federal imbalance", "Northern dominance", "Judicial review", "Article 75(1A)", "Rajya Sabha", "Gerrymandering"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Constitution (131st Amendment) Bill, 2026: overview",
+   "root": {
+    "label": "Constitution (131st Amendment) Bill, 2026",
+    "children": [
+     {"label": "Lok Sabha expansion", "children": [
+      {"label": "543 to 850 seats proposed"},
+      {"label": "815 for States, 35 for UTs"}
+     ]},
+     {"label": "Women's reservation", "children": [
+      {"label": "One-third of seats for women"},
+      {"label": "Valid 15 years, extendable"},
+      {"label": "Seats rotate after each delimitation"}
+     ]},
+     {"label": "Delimitation", "children": [
+      {"label": "2011 Census used as basis"},
+      {"label": "Commission chaired by SC judge"},
+      {"label": "Orders not open to court challenge"}
+     ]},
+     {"label": "Concerns", "children": [
+      {"label": "Southern share 24.3% to about 20.7%"},
+      {"label": "Outdated 2011 population data"},
+      {"label": "Rajya Sabha role weakened"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Lok Sabha expansion",
+   "root": {
+    "label": "Lok Sabha expansion",
+    "children": [
+     {"label": "Current strength: 543 elected members"},
+     {"label": "Proposed strength: 850 seats"},
+     {"label": "Split: 815 States, 35 UTs"},
+     {"label": "Population base: 2011 Census"}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Women's reservation",
+   "root": {
+    "label": "Women's reservation",
+    "children": [
+     {"label": "Seats: one-third in LS and State LAs", "children": [
+      {"label": "330A: Lok Sabha"},
+      {"label": "332A: State Assemblies"},
+      {"label": "239AA: NCT of Delhi"},
+      {"label": "334A: effective after delimitation and Census"}
+     ]},
+     {"label": "Duration: 15 years, extendable"},
+     {"label": "Rotation after each delimitation"},
+     {"label": "Not covered: Rajya Sabha, State Councils"}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Delimitation and the Commission",
+   "root": {
+    "label": "Delimitation",
+    "children": [
+     {"label": "Article 82: Delimitation Act after each Census"},
+     {"label": "Article 170: State Assembly constituencies"},
+     {"label": "Commission appointed by the President", "children": [
+      {"label": "Retired SC judge chairs"},
+      {"label": "CEC and State Election Commissioners"}
+     ]},
+     {"label": "Decisions final, not subject to court review"}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Concerns and consequences",
+   "root": {
+    "label": "Concerns",
+    "children": [
+     {"label": "Federal imbalance", "children": [
+      {"label": "Southern share 24.3% to about 20.7%"},
+      {"label": "High-growth states gain seats"}
+     ]},
+     {"label": "Governance", "children": [
+      {"label": "Ministers capped at 15% (Art 75(1A))"},
+      {"label": "Weaker Rajya Sabha in joint sittings"}
+     ]},
+     {"label": "Oversight", "children": [
+      {"label": "Judicial review removed"},
+      {"label": "Excess legislative control"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Five key concerns",
+   "mnemonic": "Fine Nations Often Judge Earnestly",
+   "decode": [
+    {"key": "F", "meaning": "Federal imbalance: South's share falls from 24.3% to about 20.7%"},
+    {"key": "N", "meaning": "Northern dominance: high population growth states gain more seats"},
+    {"key": "O", "meaning": "Outdated data: 2011 Census may distort representation"},
+    {"key": "J", "meaning": "Judicial review removed: risk of gerrymandering"},
+    {"key": "E", "meaning": "Excess legislative control: Parliament's discretion may politicise delimitation"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Women's reservation terms",
+   "mnemonic": "Three Fifteen Rotate",
+   "decode": [
+    {"key": "Three", "meaning": "One-third of total seats in Lok Sabha and State Assemblies reserved for women"},
+    {"key": "Fifteen", "meaning": "Reservation valid for 15 years, extendable by Parliament"},
+    {"key": "Rotate", "meaning": "Reserved constituencies rotate after each delimitation"}
+   ]
+  },
+  {
+   "scope": "topic",
+   "title": "Four women's reservation articles",
+   "mnemonic": "Lions Also Dine Wisely",
+   "decode": [
+    {"key": "L", "meaning": "Article 330A: reservation for women in the Lok Sabha"},
+    {"key": "A", "meaning": "Article 332A: reservation for women in State Assemblies"},
+    {"key": "D", "meaning": "Article 239AA: reservation for women in the NCT of Delhi"},
+    {"key": "W", "meaning": "Article 334A: reservation effective after delimitation and Census"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Bill and Lok Sabha expansion: practice MCQs",
+   "passage": "In April 2026, the government proposed the Constitution (131st Amendment) Bill, 2026 along with a Delimitation Bill, 2026. Delimitation is the process of redrawing constituency boundaries so that each constituency has a roughly equal population and representation keeps pace with population change. For the Lok Sabha, the proposal is to change the number of seats and to decide which census should serve as the population base for allocating them. Because population growth has been uneven across regions, a fresh allocation could shift the share of seats held by different states. States that grew faster could gain seats, while states with slower population growth could see their share fall. The Bill is also linked to women's reservation, which an earlier law set out but tied to the completion of a census and a delimitation exercise. Supporters say the Bill would bring the House closer to a fair and representative structure. Critics argue that the choice of population data and the discretion given to Parliament could weaken federal balance and invite political influence over boundary-making. The debate therefore centres on how the House should grow, which data should count, and who should control the process.",
+   "questions": [
+    {
+     "q": "To how many seats does the Constitution (131st Amendment) Bill, 2026 propose to expand the Lok Sabha?",
+     "options": ["850", "800", "750", "650"],
+     "answer": 0,
+     "explanation": "The Bill proposes expanding the Lok Sabha from 543 to 850 seats."
+    },
+    {
+     "q": "Of the proposed Lok Sabha seats, how many are allocated to Union Territories?",
+     "options": ["15", "25", "35", "50"],
+     "answer": 2,
+     "explanation": "The 850 seats comprise 815 for States and 35 for Union Territories."
+    },
+    {
+     "q": "Which Census does the Bill propose to use for seat allocation and delimitation?",
+     "options": ["1971 Census", "1981 Census", "2001 Census", "2011 Census"],
+     "answer": 3,
+     "explanation": "The Bill uses the 2011 Census for seat allocation and delimitation."
+    },
+    {
+     "q": "Assertion (A): The Bill proposes to amend Article 82 to lift the freeze on redrawing constituency boundaries.\nReason (R): Article 82 mandates Parliament to pass a Delimitation Act after every Census.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "Both statements are true, but the Delimitation Act mandate does not explain why the Bill amends Article 82 to lift the freeze."
+    },
+    {
+     "q": "Match List I with List II:\nI. Proposed Lok Sabha seats   ->   A. 850\nII. Current SC reserved Lok Sabha seats   ->   B. 84\nIII. Current ST reserved Lok Sabha seats   ->   C. 47\nIV. Validity of women's reservation (years)   ->   D. 15",
+     "options": ["I-A, II-B, III-C, IV-D", "I-B, II-A, III-D, IV-C", "I-C, II-D, III-A, IV-B", "I-D, II-C, III-B, IV-A"],
+     "answer": 0,
+     "explanation": "The booklet gives 850 proposed seats, 84 SC and 47 ST reserved seats, and a 15-year validity for women's reservation."
+    },
+    {
+     "q": "Consider the following statements about women's reservation under the Bill:\nI. The reservation is valid for 15 years and can be extended by Parliament.\nII. Reserved constituencies for women are rotated only once, at the first delimitation.\nIII. Within SC/ST reserved seats, one-third are reserved for SC/ST women.\nWhich of the above statements is/are correct?",
+     "options": ["I only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Reserved constituencies rotate after each delimitation, so statement II is incorrect while I and III are correct."
+    },
+    {
+     "q": "How many of the following statements about the Delimitation Commission under the Delimitation Bill, 2026 are correct?\nI. It is chaired by a Supreme Court Judge.\nII. It has civil court powers to summon witnesses and access public records.\nIII. Its orders can be challenged in courts.",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and II match the Bill, while statement III is wrong because its orders cannot be challenged in courts."
+    },
+    {
+     "q": "Under Article 75(1A), Ministers are capped at what percentage of Lok Sabha strength?",
+     "options": ["10%", "15%", "20%", "25%"],
+     "answer": 1,
+     "explanation": "Article 75(1A) caps the number of Ministers at 15% of Lok Sabha strength."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Women's reservation: practice TITA",
+   "passage": "India has long had a small number of women in its elected bodies. Successive governments have debated reserving seats for women, and a women's reservation bill has been put before Parliament several times since 1996. The law that was finally enacted reserves seats for women in the Lok Sabha and in State Legislative Assemblies, and it also covers the National Capital Territory of Delhi. The reservation is meant to take effect only after a delimitation exercise is carried out and a census is conducted, so its timing depends on those steps. Supporters argue that the measure advances gender equality and brings a wider range of perspectives into decision-making. Critics note that the law does not extend the same reservation to the Rajya Sabha or to State Legislative Councils. Committees on the status of women have examined these questions since the 1970s, and several of them shaped the debate. Within the seats already set aside for Scheduled Castes and Scheduled Tribes, a share is meant to go to women from those communities. The reserved seats are also expected to change over time, so that different constituencies are available to women after each redrawing of boundaries.",
+   "questions": [
+    {
+     "q": "What percentage of total seats in the Lok Sabha and State Assemblies is reserved for women under the law? (in per cent)",
+     "answer": "33",
+     "accept": ["33%", "33 per cent", "33 percent", "one-third", "one third", "1/3"],
+     "explanation": "The law reserves one-third of total seats in the Lok Sabha and State Assemblies for women."
+    },
+    {
+     "q": "For how many years is the women's reservation valid before Parliament may extend it? (in years)",
+     "answer": "15",
+     "accept": ["15 years", "fifteen", "fifteen years"],
+     "explanation": "The reservation is valid for 15 years and can be extended by Parliament."
+    },
+    {
+     "q": "Which Article inserts reservation for women in the Lok Sabha?",
+     "answer": "330A",
+     "accept": ["Article 330A", "330 A", "Art 330A", "Art. 330A"],
+     "explanation": "Article 330A provides reservation for women in the Lok Sabha."
+    },
+    {
+     "q": "Which Article provides reservation for women in the National Capital Territory of Delhi?",
+     "answer": "239AA",
+     "accept": ["Article 239AA", "239 AA", "Art 239AA"],
+     "explanation": "Article 239AA inserts reservation for women in the NCT of Delhi."
+    },
+    {
+     "q": "How many different years are listed in the booklet as years when a women's reservation bill was introduced? (number)",
+     "answer": "5",
+     "accept": ["five"],
+     "explanation": "The booklet lists women's reservation bills introduced in 1996, 1998, 2009, 2010 and 2014."
+    },
+    {
+     "q": "Under which leader's committee on women was a committee constituted in 1987? (surname)",
+     "answer": "Alva",
+     "accept": ["Margaret Alva", "Alva committee", "Margaret Alva committee"],
+     "explanation": "The booklet lists a committee under Margaret Alva in 1987."
+    },
+    {
+     "q": "In which year was the Committee on the Status of Women in India set up? (year)",
+     "answer": "1974",
+     "accept": ["the year 1974"],
+     "explanation": "The Committee on the Status of Women in India was set up in 1974."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 9, "what": "Seat-change table: Hindi heartland, North-East and Grand total rows are garbled; only the South row (24.3% to 20.7%) was used"},
+  {"page": 9, "what": "Map labels for state seat changes (Bihar, West Bengal, Kerala, Tamil Nadu) are garbled and their meaning is unclear; not used"},
+  {"page": 9, "what": "Women's reservation timing: 'Implements 33% Reservation Immediately' conflicts with Article 334A on page 11 (effective after delimitation and Census); timing not stated"},
+  {"page": 10, "what": "Seat-share table rows for Uttar Pradesh, Karnataka and the Telangana/Andhra Pradesh row are garbled; only Maharashtra, Tamil Nadu, Odisha and West Bengal rows were used"},
+  {"page": 10, "what": "Tamil Nadu seat change on map (-11) does not match the seat table (39 to 51); not used"},
+  {"page": 10, "what": "MPLADS annual fund amount is garbled ('%5 Crore'); not used"},
+  {"page": 11, "what": "'Only 82 Women MPs in LS (45.2%)': 45.2% does not match 82 of 543 seats; not used"},
+  {"page": 11, "what": "'Executive size (~133 Ministers)' is not consistent with the 15% cap on 850 seats; not used"},
+  {"page": 11, "what": "Argument against the Bill refers to a '2021 census (yet to be conducted)', which conflicts with the next Census being after 2026 (page 10); not used"},
+  {"page": 12, "what": "42nd Amendment freeze stated as 'post-2000 Census', while page 9 gives the freeze base as 1971 Census; not used"},
+  {"page": 13, "what": "Practice-question option lists contain garbled values (e.g. '1/4', '%3 Crore'); no question built on them"}
+ ]
+}
