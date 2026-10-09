@@ -1,0 +1,36 @@
+{
+  "passage_fixes": [
+    {"quiz": "q-t01-0", "old": " Observers describe the conflict in very different terms depending on their sympathies, which makes a settlement hard to reach.", "new": ""},
+    {"quiz": "t-t01-1", "old": "Years of fighting put the Red Sea ports under heavy pressure, and trade and public revenues were disrupted as a result. ", "new": ""},
+    {"quiz": "t-t01-1", "old": "Fighting continued along the coast for several years, and civilians in the affected areas faced shortages and displacement.", "new": "Renewed fighting caused civilian displacement and disrupted local supply lines."},
+    {"quiz": "t-t01-1", "old": " Implementation, however, remained difficult because each side had strong backers and deep mistrust of the other.", "new": ""},
+    {"quiz": "t-t04-1", "old": "A tariff that rests only on a decision by the executive can be challenged in court, and courts can strike down a wide trade regime built on such a decision. ", "new": ""},
+    {"quiz": "q-t05-0", "old": " Any arrangement touching this area is examined closely by New Delhi, which has long held that the territory forms part of India.", "new": ""},
+    {"quiz": "t-t05-1", "old": ", and each new clash is watched closely by both capitals and by the wider region", "new": ""},
+    {"quiz": "q-t06-0", "old": "others help students compare the sizes of continents", "new": "others serve thematic and statistical purposes, such as showing population density"},
+    {"quiz": "q-t08-0", "old": "The latest phase of this programme is a far larger policy framework than the original one. ", "new": ""},
+    {"quiz": "q-t09-0", "old": "Its wide use has made it an important part of commerce, from neighbourhood shops to large retailers.", "new": "Its wide use has made it an important part of commerce for individuals and merchants alike."},
+    {"quiz": "t-t09-1", "old": "Many of these businesses operate on thin margins, so an extra charge on each small sale can matter a great deal.", "new": "Small businesses need protection from additional payment processing costs."},
+    {"quiz": "q-t10-0", "old": " Officials framed these discussions as part of a broader effort to make economic relationships more balanced and predictable, especially for countries that rely heavily on trade with partners outside their immediate regions.", "new": ""},
+    {"quiz": "q-t10-0", "old": "The conversations also highlighted the role of new technology in making financial services more accessible to ordinary businesses and households.", "new": "The conversations also highlighted the role of new technologies and digital solutions for development."},
+    {"quiz": "t-t10-1", "old": " Officials said these measures were designed to work alongside existing mechanisms rather than replace them.", "new": ""},
+    {"quiz": "q-t15-0", "old": " Officials and planners see the mission as part of India's effort to build an indigenous heavy-lift launch capability.", "new": ""},
+    {"quiz": "t-t15-1", "old": ", and repeated observations of the same areas help show how the ground changes over time", "new": ""},
+    {"quiz": "q-t17-0", "old": ", and that is why the claim has drawn wide attention", "new": ""},
+    {"quiz": "t-t17-1", "old": ", so that they can take part fully in public life", "new": ""},
+    {"quiz": "t-t17-1", "old": "This year's recipient is a veteran actor from Karnataka, and he follows an earlier recipient from the same regional film industry.", "new": "A veteran actor from Karnataka was selected for the 2024 award and became the second Kannada actor to receive it."}
+  ],
+  "fact_fixes": [
+    {"old": "In January 2026, Saudi Arabia carried out airstrikes on Mukalla Port", "new": "Saudi Arabia carried out airstrikes on Mukalla Port", "page": 5},
+    {"old": "The UAE pulled troops out in January 2026 following the Mukalla airstrikes.", "new": "", "page": 5},
+    {"old": "The 2023 Act replaced the Election Commission Act of 1991 on conditions of service and transaction of business", "new": "The 2023 Act replaced the Election Commission (Conditions of Service of Election Commissioners and Transaction of Business) Act, 1991 on conditions of service and transaction of business", "page": 45},
+    {"old": "Radar side developed by NASA's Jet Propulsion Laboratory (JPL)", "new": "The NASA-side radar, with a wavelength of about 24 cm, was developed by NASA's Jet Propulsion Laboratory (JPL)", "page": 100},
+    {"old": "the Montreal Protocol and Kigali Amendment govern the phase-out of ozone-depleting and hydrofluorocarbon substances", "new": "the Montreal Protocol governs the phase-out of ozone-depleting substances and the Kigali Amendment mandates the phase-down of hydrofluorocarbons", "page": 115},
+    {"old": "CosmoCube and PRATUSH are proposed Indian and international missions for detecting the 21-cm signal from the early universe", "new": "PRATUSH is a proposed Indian mission, while CosmoCube is a proposed lunar-orbiting mission led by scientists associated with the Royal Astronomical Society and University of Cambridge, both aimed at detecting the 21-cm signal from the early universe", "page": 111},
+    {"old": "The project has been given National Project Status by the Union Government.", "new": "The project is the first irrigation project in Karnataka to receive National Project Status from the Union Government.", "page": 117}
+  ],
+  "replacements": [
+    {"quiz": "t-t08-1", "n": 2, "question": {"q": "What budgetary provision, in crore rupees, has been made for FY 2026-27 to support India Semiconductor Mission 2.0? (number)", "answer": "21,000", "accept": ["21000", "Rs 21,000 crore", "21,000 crore", "₹21,000 crore"], "explanation": "The booklet says a budgetary provision of Rs 21,000 crore has been made for FY 2026-27 to support ISM 2.0."}, "evidence": {"page": 57, "quote": "Budgetary Provision of 21,000 Crore has been made for FY"}},
+    {"quiz": "t-t08-1", "n": 4, "question": {"q": "What is the name of the coalition India joined to strengthen global semiconductor supply-chain resilience? (two words)", "answer": "Pax Silica", "accept": ["Pax Silica coalition"], "explanation": "The booklet says India has joined the Pax Silica coalition to strengthen global semiconductor supply-chain resilience."}, "evidence": {"page": 57, "quote": "India has joined Pax Silica coalition to strengthen Global Semiconductor Supply"}}
+  ]
+}
