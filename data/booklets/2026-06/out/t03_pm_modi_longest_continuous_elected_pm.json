@@ -1,0 +1,332 @@
+{
+ "topic": {
+  "title": "PM Modi Became India's Longest Continuously Serving Elected PM",
+  "chapter_title": "National News and Issues",
+  "subtopics": [
+   {
+    "title": "Modi's Record-Breaking Continuous Tenure",
+    "summary": "Narendra Modi became India's longest continuously serving elected Prime Minister after completing 4,399 consecutive days in office since 26 May 2014. He surpassed the uninterrupted tenure record held by Jawaharlal Nehru. The milestone is the longest uninterrupted period served by a democratically elected Prime Minister in independent India.",
+    "facts": [
+      "Modi completed 4,399 consecutive days in office.",
+      "He has been in office since 26 May 2014.",
+      "He surpassed the uninterrupted tenure record held by Jawaharlal Nehru.",
+      "It is the longest uninterrupted period served by a democratically elected PM in independent India.",
+      "Nehru's overall tenure as Prime Minister lasted approximately 6,131 days.",
+      "Nehru's cumulative tenure includes his time as PM of the Interim Government.",
+      "Gulzari Lal Nanda was interim PM on both occasions."
+    ],
+    "keywords": ["4,399 days", "26 May 2014", "Jawaharlal Nehru", "Uninterrupted tenure", "Continuous service"]
+   },
+   {
+    "title": "Constitutional Position of the Prime Minister",
+    "summary": "The Prime Minister is the head of the Union Government and the leader of the Council of Ministers. The booklet describes the PM as head of the executive, chairperson of the Union Cabinet and chief coordinator of government policy and administration. Article 74 provides for a Council of Ministers headed by the PM to aid and advise the President, while Article 75 deals with the appointment, tenure and responsibilities of the PM and the Council of Ministers.",
+    "facts": [
+      "The PM is the Head of the Executive.",
+      "The PM is the Chairperson of the Union Cabinet.",
+      "The PM is Head of the Union Government and leader of the Council of Ministers.",
+      "The PM is the chief coordinator of government policy and administration.",
+      "If a member of Lok Sabha, the PM is its leader.",
+      "Article 74 provides for a Council of Ministers headed by the PM to aid and advise the President.",
+      "Article 75 deals with the appointment, tenure and responsibilities of the PM and Council of Ministers.",
+      "Article 163 establishes State Councils of Ministers led by the Chief Minister to aid and advise the Governor."
+    ],
+    "keywords": ["Head of the Executive", "Union Cabinet", "Article 74", "Article 75", "Chief coordinator"]
+   },
+   {
+    "title": "Appointment, Tenure and the Council of Ministers",
+    "summary": "The President appoints the PM but is not free in the selection, and normally invites the leader of the majority party in the Lok Sabha to form the government. If no single party has a clear majority, the President invites a person likely to command support of two or more parties that make up a Lok Sabha majority. The PM holds office during the pleasure of the President but cannot be dismissed while enjoying majority support in the Lok Sabha. Rules for the Council of Ministers include a 15% size cap and a six-month limit for ministers who are not in Parliament.",
+    "facts": [
+      "The President normally invites the leader of the majority party to form the government.",
+      "If no single party has a clear majority, the President invites a person who can command support of two or more parties forming a Lok Sabha majority.",
+      "The PM is normally the leader of the majority party in the Lok Sabha.",
+      "Some Members of the Rajya Sabha have been made Prime Minister.",
+      "The PM holds office during the pleasure of the President.",
+      "The President cannot dismiss the PM while he enjoys majority support in the Lok Sabha.",
+      "If the PM loses the confidence of the Lok Sabha, he must resign or the President can dismiss him.",
+      "The salary and allowances of the PM are determined by Parliament.",
+      "The size of the Council of Ministers cannot exceed 15% of the total strength of the Lok Sabha (91st Amendment, 2003).",
+      "A minister who is not in Parliament for six months will lose their position.",
+      "Article 88 allows ministers to take part in both Houses but does not guarantee them voting rights."
+    ],
+    "keywords": ["Pleasure of President", "Lok Sabha majority", "Confidence", "91st Amendment", "Article 88"]
+   },
+   {
+    "title": "Modi's Firsts and Records in Context",
+    "summary": "Modi is the first Indian PM born after 15 August 1947 and the longest-serving PM from outside the Indian National Congress. He is among the few Indian PMs to secure three consecutive electoral mandates at the Union level. In 2014, the BJP-led NDA won an absolute majority of 336 out of 543 Lok Sabha seats, which the booklet calls the first Non-Congress single party majority government.",
+    "facts": [
+      "Modi is the first Indian PM born after 15 August 1947.",
+      "Modi is the longest-serving PM from outside the Indian National Congress.",
+      "Modi is among the few Indian PMs to secure 3 consecutive electoral mandates at the Union level.",
+      "Modi is the 3rd PM after Nehru and Indira Gandhi to serve 3 terms.",
+      "In 2014, the BJP-led NDA got an absolute majority of 336 out of 543 Lok Sabha seats.",
+      "The 2014 government is described as the first Non-Congress single party majority government.",
+      "The BJP became the first party since 1984 to get a majority in the Lok Sabha.",
+      "Morarji Desai was India's first Non-Congress PM and its oldest PM at 81 years.",
+      "Rajiv Gandhi was India's youngest PM at 40 years.",
+      "V.P. Singh was the first PM to leave office following a no-confidence vote."
+    ],
+    "keywords": ["Born after Independence", "Three consecutive mandates", "NDA 336 seats", "BJP since 1984", "Non-Congress PM"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Modi's Milestone and the Office of PM",
+   "root": {
+    "label": "Longest continuously serving elected PM",
+    "children": [
+     {"label": "Milestone", "children": [
+       {"label": "4,399 consecutive days"},
+       {"label": "Since 26 May 2014"},
+       {"label": "Surpassed Nehru's uninterrupted record"}
+     ]},
+     {"label": "Constitutional position", "children": [
+       {"label": "Head of the Union Government"},
+       {"label": "Chairperson of Union Cabinet"},
+       {"label": "Article 74: Council of Ministers"},
+       {"label": "Article 75: appointment and tenure"}
+     ]},
+     {"label": "Appointment", "children": [
+       {"label": "President appoints the PM"},
+       {"label": "Normally Lok Sabha majority leader"},
+       {"label": "Two or more parties if no clear majority"}
+     ]},
+     {"label": "Tenure", "children": [
+       {"label": "Held during pleasure of President"},
+       {"label": "No dismissal while majority support"},
+       {"label": "Must resign if confidence is lost"}
+     ]},
+     {"label": "Council of Ministers", "children": [
+       {"label": "Size cap: 15% of Lok Sabha"},
+       {"label": "Six-month rule for non-members"},
+       {"label": "Article 88: no voting right guarantee"}
+     ]},
+     {"label": "Modi's other firsts", "children": [
+       {"label": "First PM born after Independence"},
+       {"label": "Three consecutive electoral mandates"},
+       {"label": "Longest-serving non-Congress PM"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Modi's Record Milestone",
+   "root": {
+    "label": "Record of continuous service",
+    "children": [
+      {"label": "Consecutive days: 4,399"},
+      {"label": "Start date: 26 May 2014"},
+      {"label": "Record surpassed: Nehru's tenure record"},
+      {"label": "Nehru's overall tenure: about 6,131 days"}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Constitutional Position of PM",
+   "root": {
+    "label": "Constitutional position of the PM",
+    "children": [
+      {"label": "Head of the Executive"},
+      {"label": "Chairperson of Union Cabinet"},
+      {"label": "Chief coordinator of policy"},
+      {"label": "Article 74: Council of Ministers"},
+      {"label": "Article 75: appointment and tenure"}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Appointment, Tenure and Council of Ministers",
+   "root": {
+    "label": "Appointment, tenure and Council of Ministers",
+    "children": [
+      {"label": "Appointment", "children": [
+        {"label": "Normally leader of Lok Sabha majority"},
+        {"label": "Two or more parties if no majority"}
+      ]},
+      {"label": "Tenure", "children": [
+        {"label": "Held during pleasure of President"},
+        {"label": "Resign if Lok Sabha confidence lost"}
+      ]},
+      {"label": "Council of Ministers", "children": [
+        {"label": "15% Lok Sabha size cap"},
+        {"label": "Six-month rule for non-members"}
+      ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Modi's Firsts and Records",
+   "root": {
+    "label": "Modi's firsts and records",
+    "children": [
+      {"label": "First PM born after Independence"},
+      {"label": "Longest-serving non-Congress PM"},
+      {"label": "Three consecutive electoral mandates"},
+      {"label": "2014: NDA won 336 of 543 seats"},
+      {"label": "BJP first party majority since 1984"}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Modi's firsts and records",
+   "mnemonic": "BLT: Born, Longest, Three",
+   "decode": [
+     {"key": "B", "meaning": "First Indian PM born after 15 August 1947"},
+     {"key": "L", "meaning": "Longest-serving PM from outside the Indian National Congress"},
+     {"key": "T", "meaning": "Among few Indian PMs with 3 consecutive electoral mandates"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Conditions for dismissal of PM",
+   "mnemonic": "PMR: Pleasure, Majority, Resign",
+   "decode": [
+     {"key": "P", "meaning": "PM holds office during the pleasure of the President"},
+     {"key": "M", "meaning": "PM cannot be dismissed while he has Lok Sabha majority support"},
+     {"key": "R", "meaning": "PM must resign if he loses the confidence of the Lok Sabha"}
+   ]
+  },
+  {
+   "scope": "topic",
+   "title": "Articles 74 and 75",
+   "mnemonic": "Seventy-Four Advises, Seventy-Five Appoints",
+   "decode": [
+     {"key": "74", "meaning": "Council of Ministers headed by the PM aids and advises the President"},
+     {"key": "75", "meaning": "Deals with appointment, tenure and responsibilities of PM and Council of Ministers"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Modi's Milestone and the PM's Office",
+   "passage": "Narendra Modi has become India's longest continuously serving elected Prime Minister. This milestone was reached after he completed a long run of consecutive days in office, counted from the day he took office in 2014. The record he surpassed was an uninterrupted tenure record held by an earlier Prime Minister, and such records are measured in days rather than years. The Prime Minister is the head of the Union Government and the leader of the Council of Ministers. He is normally the leader of the majority party in the Lok Sabha, and the President usually invites that leader to form the government. The Prime Minister is also the chief coordinator of government policy and administration, and he chairs the Union Cabinet. The Prime Minister's salary and allowances are decided by Parliament from time to time. Many Prime Ministers of India have held the office for very different lengths of time, and their careers are often compared through such records. Students preparing for examinations should understand both the constitutional rules that govern the office and the historical milestones attached to individual leaders. A clear grasp of appointment, tenure and the Council of Ministers helps in answering questions on the Prime Minister's position in the Union Government. Modi's record is a reminder that the office rests on the confidence of the Lok Sabha, not just on the length of a term.",
+   "questions": [
+    {
+     "q": "After completing how many consecutive days in office did PM Narendra Modi become India's longest continuously serving elected Prime Minister?",
+     "options": ["4,199 days", "4,299 days", "4,399 days", "4,499 days"],
+     "answer": 2,
+     "explanation": "The booklet states that Modi completed 4,399 consecutive days in office since 26 May 2014."
+    },
+    {
+     "q": "Whose uninterrupted tenure record did Modi surpass to become the longest continuously serving elected Prime Minister?",
+     "options": ["Atal Bihari Vajpayee", "Jawaharlal Nehru", "Indira Gandhi", "Manmohan Singh"],
+     "answer": 1,
+     "explanation": "The booklet says Modi surpassed the previous uninterrupted tenure record held by Jawaharlal Nehru."
+    },
+    {
+     "q": "Which Article of the Constitution provides for a Council of Ministers headed by the Prime Minister to aid and advise the President?",
+     "options": ["Article 72", "Article 73", "Article 76", "Article 74"],
+     "answer": 3,
+     "explanation": "The booklet states that Article 74 provides for a Council of Ministers headed by the Prime Minister to aid and advise the President."
+    },
+    {
+     "q": "Read the statements.\nAssertion (A): The Prime Minister holds office during the pleasure of the President.\nReason (R): The President can dismiss the Prime Minister at any time.\nWhich one of the following is correct?",
+     "options": [
+       "Both A and R are true and R is the correct explanation of A",
+       "Both A and R are true but R is not the correct explanation of A",
+       "A is true but R is false",
+       "A is false but R is true"
+     ],
+     "answer": 2,
+     "explanation": "The booklet says the President cannot dismiss the PM at any time, and the PM cannot be dismissed while he has majority support in the Lok Sabha."
+    },
+    {
+     "q": "Match List I with List II:\nI. Morarji Desai   ->   A. India's oldest Prime Minister\nII. Rajiv Gandhi   ->   B. India's youngest Prime Minister\nIII. V.P. Singh   ->   C. First PM to leave office after a no-confidence vote\nIV. Atal Bihari Vajpayee   ->   D. PM with the shortest tenure\nWhich one of the following is the correct match?",
+     "options": ["I-B, II-A, III-C, IV-D", "I-A, II-B, III-C, IV-D", "I-C, II-D, III-A, IV-B", "I-D, II-C, III-B, IV-A"],
+     "answer": 1,
+     "explanation": "The booklet lists Desai as the oldest PM, Rajiv Gandhi as the youngest, V.P. Singh as the first to leave after a no-confidence vote, and Vajpayee as the shortest-tenure PM."
+    },
+    {
+     "q": "Consider the following statements about the Prime Ministers of India:\nI. Jawaharlal Nehru was the only Prime Minister to die in office.\nII. Gulzarilal Nanda served twice as Acting Prime Minister of India.\nIII. Indira Gandhi was the first Prime Minister to come from the Rajya Sabha.\nWhich of the above statements is/are correct?",
+     "options": ["II and III only", "I and II only", "I and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "The booklet calls Nehru the first PM to die in office, with Shastri and Indira Gandhi also dying in office, so statement I is wrong."
+    },
+    {
+     "q": "How many of the following statements about Narendra Modi are correct?\nI. He is the first Indian Prime Minister born after 15 August 1947.\nII. He is the first Non-Congress Prime Minister of India.\nIII. He is among the few Indian PMs to secure three consecutive electoral mandates at the Union level.",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and III are stated in the booklet, while Morarji Desai, not Modi, was India's first Non-Congress PM."
+    },
+    {
+     "q": "Morarji Desai's birthday was celebrated only once every four years. On which date was he born?",
+     "options": ["29 February", "28 February", "1 March", "15 August"],
+     "answer": 0,
+     "explanation": "The booklet states that Morarji Desai was born on 29 February, which is why his birthday came once every four years."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Council of Ministers and Key Rules",
+   "passage": "The Prime Minister is the head of the Union Government and leads the Council of Ministers. The Council is the body through which the government functions, and the Prime Minister acts as its chief coordinator for government policy and administration. Ministers are placed at different levels. Cabinet ministers are the senior members, and they often oversee key ministries such as Home Affairs, Finance and Defence. Ministers of State assist Cabinet ministers with specific functions, and some of them are given independent charge of a ministry. Deputy Ministers help Cabinet ministers or Ministers of State with administrative, political and parliamentary duties. This structure allows policy decisions to pass through senior leaders before they reach individual departments. The Constitution sets out the office of the Prime Minister, the Council of Ministers and the relationship between them and the President. At the state level, a similar arrangement exists, with a Chief Minister heading the council and advising the Governor. Students should learn which constitutional provisions govern these arrangements, and how the rules connect to the everyday working of the government.",
+   "questions": [
+    {
+     "q": "Which Article of the Constitution deals with the appointment, tenure and responsibilities of the Prime Minister and the Council of Ministers? (give the article number)",
+     "answer": "75",
+     "accept": ["Article 75", "Art 75", "Art. 75"],
+     "explanation": "The booklet states that Article 75 deals with the appointment, tenure and responsibilities of the PM and the Council of Ministers."
+    },
+    {
+     "q": "Under which Article can ministers take part in the proceedings of both Houses of Parliament without a guaranteed right to vote? (give the article number)",
+     "answer": "88",
+     "accept": ["Article 88", "Art 88", "Art. 88"],
+     "explanation": "The booklet says Article 88 allows ministers to participate in both Houses but does not guarantee them voting rights."
+    },
+    {
+     "q": "Under the 91st Amendment (2003), what is the maximum size of the Council of Ministers as a share of the total strength of the Lok Sabha? (in per cent)",
+     "answer": "15",
+     "accept": ["15%", "15 per cent", "15 percent", "fifteen"],
+     "explanation": "The booklet states that the Council of Ministers cannot exceed 15% of the total strength of the Lok Sabha."
+    },
+    {
+     "q": "After how many months out of Parliament does a minister lose their position? (in months)",
+     "answer": "6",
+     "accept": ["six", "6 months", "six months"],
+     "explanation": "The booklet says a minister who is not in Parliament for six months will lose their position."
+    },
+    {
+     "q": "Which Article provides for State Councils of Ministers led by the Chief Minister to assist and advise the Governor? (give the article number)",
+     "answer": "163",
+     "accept": ["Article 163", "Art 163", "Art. 163"],
+     "explanation": "The booklet says Article 163 establishes State Councils of Ministers led by the Chief Minister."
+    },
+    {
+     "q": "Which Prime Minister of India is described in the booklet as the first PM of South Indian origin, from Andhra Pradesh? (give full name)",
+     "answer": "P.V. Narasimha Rao",
+     "accept": ["PV Narasimha Rao", "P V Narasimha Rao", "Narasimha Rao", "P.V. Narsimha Rao", "PV Narsimha Rao"],
+     "explanation": "The booklet calls PV Narasimha Rao India's first PM of South Indian origin, from Andhra Pradesh."
+    },
+    {
+     "q": "Which Prime Minister is described in the booklet as India's first Sikh PM? (give full name)",
+     "answer": "Manmohan Singh",
+     "accept": ["Dr Manmohan Singh", "Dr. Manmohan Singh", "Dr Manmohan singh"],
+     "explanation": "The booklet notes that Manmohan Singh was India's first Sikh (minority community) Prime Minister."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 12, "what": "Note on Nehru's cumulative tenure refers to a period 'before 1st General Elections' with a garbled ordinal; not used."},
+  {"page": 14, "what": "Morarji Desai note 'second and last PM born in 19th century' has garbled ordinal and century; not used."},
+  {"page": 15, "what": "Phrase 'won, 1st Non-Congress Alliance to do so' is unclear about what 'to do so' refers to (majority or government formation); not used."},
+  {"page": 16, "what": "Word before 'Secretariat' in the line on PM assigning ministerial roles is garbled; not used."},
+  {"page": 16, "what": "Columns for Cabinet Ministers, MoS (Independent Charge) and MoS are interleaved; cabinet membership of each rank not used."}
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t14-0",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 77, "quote": "Implemented By: Ministry of External Affairs"}, "issues": []},
+    {"n": 2, "my_answer": 0, "supported": true, "evidence": {"page": 79, "quote": "Recent Additions: Croatia (2023) and Bulgaria (2026)."}, "issues": []},
+    {"n": 3, "my_answer": 1, "supported": true, "evidence": {"page": 78, "quote": "Tea Act 1953 established Tea Board to regulate Cultivation, Production, Sale and Export of Indian Tea."}, "issues": []},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 79, "quote": "HQ: Frankfurt"}, "issues": ["other: HQ and ownership bullets sit under the Eurozone heading on page 79, not under the ECB entry; R does not explain A"]},
+    {"n": 5, "my_answer": 0, "supported": true, "evidence": {"page": 79, "quote": "Established in 1998 under Maastricht Treaty."}, "issues": []},
+    {"n": 6, "my_answer": 3, "supported": true, "evidence": {"page": 79, "quote": "Consists of 21 Member Countries using Euro Currency."}, "issues": []},
+    {"n": 7, "my_answer": 3, "supported": true, "evidence": {"page": 78, "quote": "invoked Article 24 of Constitution of International Labour Organization"}, "issues": []},
+    {"n": 8, "my_answer": 2, "supported": true, "evidence": {"page": 79, "quote": "Established in 1998 under Maastricht Treaty."}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "The projects are part of a wider effort by India to share development resources with friendly nations.", "problem": "not found in booklet text; the booklet describes SEEDS only as an Indian developmental cooperation initiative for SMEs in the Global South, with no 'wider effort' or 'friendly nations' wording", "page": 77}
+   ]
+  },
+  {
+   "id": "t-t14-1",
+   "questions": [
+    {"n": 1, "my_answer": "Palamu Tiger Reserve", "supported": true, "evidence": {"page": 77, "quote": "at Palamu Tiger Reserve."}, "issues": []},
+    {"n": 2, "my_answer": "1992", "supported": true, "evidence": {"page": 77, "quote": "Project Elephant (1992): Launched by Government of India to protect Elephants, conserve Habitats and Corridors."}, "issues": []},
+    {"n": 3, "my_answer": "Haathi Mere Saathi", "supported": true, "evidence": {"page": 77, "quote": "Haathi Mere Saathi Campaign: Promote Coexistence between Humans and Elephants."}, "issues": []},
+    {"n": 4, "my_answer": "Khadi and Village Industries Commission", "supported": false, "evidence": {"page": 77, "quote": "implemented by Khadi and Village Industries Commission."}, "issues": ["other: question asks for the short form (KVIC); booklet gives only the full name, so the requested form is not supported"]},
+    {"n": 5, "my_answer": "Ministry of Earth Sciences", "supported": true, "evidence": {"page": 77, "quote": "Ministry of Earth Sciences inaugurated"}, "issues": []},
+    {"n": 6, "my_answer": "Indian Institute of Tropical Meteorology", "supported": false, "evidence": {"page": 77, "quote": "Indian Institute of Tropical Meteorology in Chennai"}, "issues": ["other: question asks for the short form (IITM); booklet gives only the full name, so the requested form is not supported"]},
+    {"n": 7, "my_answer": "Jharkhand", "supported": true, "evidence": {"page": 77, "quote": "Jharkhand is set to establish"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "so that field data and local solutions can be studied in one place", "problem": "purpose not found in booklet text; the booklet only says Jharkhand is set to establish the research centre", "page": 77},
+    {"claim": "One method uses bees to keep elephants away from crops", "problem": "'away from crops' not found in booklet text; the booklet says only that RE-HAB reduces elephant-human attacks using bees", "page": 77}
+   ]
+  }
+ ],
+ "fact_flags": []
+}

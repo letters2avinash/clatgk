@@ -38,7 +38,7 @@
    },
    {
     "title": "Defence and Security",
-    "summary": "This group covers the SIPRI Yearbook 2026 on global militarisation and India's nuclear posture, and the two councils of India's Nuclear Command Authority. It also covers the S-400 and BrahMos systems, the major air and missile defence systems of other countries, and a leadership change at the Intelligence Bureau.",
+    "summary": "This group covers the SIPRI Yearbook 2026 on global militarisation and India's nuclear posture, and the two councils of India's Nuclear Command Authority. It also covers the S-400 and BrahMos systems, other major air and missile defence systems, and a leadership change at the Intelligence Bureau.",
     "facts": [
      "SIPRI Yearbook 2026 ranks India as the 5th largest military spender after USA, China, Russia and Germany.",
      "India's defence expenditure rose 8.9% to USD 92.1 billion in 2025.",
@@ -48,7 +48,7 @@
      "India's nuclear milestones: 1974 Pokhran test, 1998 Operation Shakti, 2003 nuclear doctrine, 2008 NSG waiver.",
      "India received the 4th squadron of S-400 Triumf from Russia; it is called Sudarshan in Indian service.",
      "BrahMos is a supersonic cruise missile (Mach 2.8), jointly developed by DRDO and NPOM, and is conventional only; it was used in combat during Operation Sindoor.",
-     "Beaufort Castle, a 12th century Crusader fortress in southern Lebanon, was held by Israel from 1982 until 2000.",
+     "Beaufort Castle, a Crusader-era fortress in southern Lebanon, was under Israeli control from the 1982 invasion until withdrawal in 2000.",
      "Mahesh Dixit was appointed Director of the Intelligence Bureau for a 2-year tenure, succeeding Tapan Kumar Deka."
     ],
     "keywords": ["SIPRI Yearbook 2026", "Nuclear Command Authority", "S-400 Sudarshan", "BrahMos", "Intelligence Bureau"]
@@ -59,12 +59,12 @@
     "facts": [
      "The Ministry of Home Affairs notified the FCRA Amendment Rules 2026; the FCRA Act 2010 replaced the 1976 Act.",
      "NGOs must register under one or more of 5 approved categories: social, economic, educational, cultural and religious.",
-     "FCRA registration is valid for 5 years and must be renewed before expiry; foreign funds cannot be transferred to other entities.",
+     "FCRA registration is valid for 5 years and must be renewed before expiry; foreign contributions cannot be transferred to other persons or organisations.",
      "NGOs must utilise at least 75% of previously released foreign funds before receiving the next instalment.",
-     "FATF was created in 1989 by the G7 and is headquartered in Paris; India will hold its first FATF Vice-Presidency (Vivek Aggarwal).",
+     "FATF was created in 1989 by the G7 and is headquartered in Paris; Vivek Aggarwal was appointed its next Vice-President, the first time India will hold that post.",
      "FATF grey list covers jurisdictions under increased monitoring; the black list covers high-risk jurisdictions.",
      "Pax Silica is a US-led initiative for secure supply chains of AI-critical technologies; India joined in February 2026.",
-     "India is the 4th largest troop contributor to UN Peacekeeping and the first country to deploy an all-women contingent (2007).",
+     "India is the 4th largest troop contributor to UN Peacekeeping and was the first country to deploy an all-women contingent (2007).",
      "Major Abhilasha Barak received the UN Military Gender Advocate of the Year Award 2025 for work in UNIFIL, Lebanon.",
      "The International Day of UN Peacekeepers is observed on 29 May; the 2026 theme is Invest in Peace."
     ],
@@ -72,7 +72,7 @@
    },
    {
     "title": "Awards, Rankings, Health and Heritage",
-    "summary": "This group covers the Padma Awards 2026 and their rules, the Pradhan Mantri Rashtriya Bal Puraskar and QS World University Rankings 2027. It also covers NFHS-6, International Day of Yoga 2026, the NCERT Dancing Girl restoration, and the Xuanzang records nomination.",
+    "summary": "This group covers the Padma Awards 2026 and their rules, the Pradhan Mantri Rashtriya Bal Puraskar and QS World University Rankings 2027. It also covers NFHS-6, International Day of Yoga 2026, the NCERT Dancing Girl restoration, and the proposed UNESCO nomination of Xuanzang's records.",
     "facts": [
      "Padma Awards 2026 conferred 131 honours, including 5 Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri.",
      "Padma Awards were instituted in 1954 and reorganised in 1955 into three categories.",
@@ -83,11 +83,311 @@
      "NFHS-6 (2023-24): institutional births rose from 88.6% to 90.6%; stunting declined from 35.5% to 29.3%.",
      "International Day of Yoga 2026 was the 12th edition, held on 21 June with the theme Yoga for Healthy Ageing.",
      "NCERT restored the original image of the Dancing Girl figurine, a bronze statuette of about 4,500 years, excavated from Mohenjo-daro.",
-     "Xuanzang's 'Great Tang Records on the Western Regions' is proposed for UNESCO Documentary Heritage nomination by India and China."
+     "India and China are in advanced discussions to jointly nominate Xuanzang's 'Great Tang Records on the Western Regions' for UNESCO recognition."
     ],
     "keywords": ["Padma Awards 2026", "Bal Puraskar", "QS Rankings 2027", "NFHS-6", "Yoga Day 2026", "Dancing Girl"]
    }
-  ],
-  "mindmaps": []
- }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Miscellaneous: June 2026 Snapshot",
+   "root": {
+    "label": "Miscellaneous (June 2026)",
+    "children": [
+     {"label": "Economy, Logistics and Infrastructure", "children": [
+      {"label": "IIP growth 4.9% in April 2026"},
+      {"label": "Revised IIP base year 2022-23"},
+      {"label": "Zojila Tunnel expected 2028"}
+     ]},
+     {"label": "Environment, Energy and Space", "children": [
+      {"label": "Western Ghats ESA notification"},
+      {"label": "GRAPES-3 at Ooty"},
+      {"label": "Energy Transition Index: India 70th"}
+     ]},
+     {"label": "Defence and Security", "children": [
+      {"label": "SIPRI: India 5th largest spender"},
+      {"label": "Nuclear Command Authority: two councils"},
+      {"label": "S-400 and BrahMos systems"}
+     ]},
+     {"label": "Governance, Global Bodies and Peacekeeping", "children": [
+      {"label": "FCRA Amendment Rules 2026"},
+      {"label": "FATF grey and black lists"},
+      {"label": "Pax Silica and UN Peacekeeping"}
+     ]},
+     {"label": "Awards, Rankings, Health and Heritage", "children": [
+      {"label": "Padma Awards 2026: 131 honours"},
+      {"label": "QS World University Rankings 2027"},
+      {"label": "NFHS-6 findings"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Economy, Logistics and Infrastructure",
+   "root": {
+    "label": "Economy, Logistics and Infrastructure",
+    "children": [
+     {"label": "IIP", "children": [
+      {"label": "April 2026 growth 4.9%"},
+      {"label": "Manufacturing 6.2%, mining down over 5%"},
+      {"label": "Base year 2022-23"}
+     ]},
+     {"label": "Logistics Port Performance Index", "children": [
+      {"label": "Dry bulk: Paradip Port"},
+      {"label": "Liquid bulk: Sikka Port"},
+      {"label": "World Bank LPI rank 44 to 22"}
+     ]},
+     {"label": "Zojila Tunnel", "children": [
+      {"label": "Length 13.15 km"},
+      {"label": "Expected operational 2028"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Environment, Energy and Space",
+   "root": {
+    "label": "Environment, Energy and Space",
+    "children": [
+     {"label": "Western Ghats ESA", "children": [
+      {"label": "Based on Kasturirangan Committee 2013"},
+      {"label": "About 56,000 sq km coverage"},
+      {"label": "Restricts new mining and thermal plants"}
+     ]},
+     {"label": "GRAPES-3", "children": [
+      {"label": "Telescope at Ooty"},
+      {"label": "Operated by TIFR"}
+     ]},
+     {"label": "Energy Transition Index 2026", "children": [
+      {"label": "120 countries assessed"},
+      {"label": "India ranks 70th"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Defence and Security",
+   "root": {
+    "label": "Defence and Security",
+    "children": [
+     {"label": "SIPRI Yearbook 2026", "children": [
+      {"label": "Defence spend USD 92.1 billion"},
+      {"label": "190 warheads, 12 deployed"}
+     ]},
+     {"label": "Nuclear Command Authority", "children": [
+      {"label": "Political Council: sole release authority"},
+      {"label": "Executive Council: inputs and execution"}
+     ]},
+     {"label": "Missile systems", "children": [
+      {"label": "S-400 called Sudarshan in India"},
+      {"label": "BrahMos: Mach 2.8, conventional only"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Governance, Global Bodies and Peacekeeping",
+   "root": {
+    "label": "Governance, Global Bodies and Peacekeeping",
+    "children": [
+     {"label": "FCRA Amendment Rules 2026", "children": [
+      {"label": "Five NGO categories"},
+      {"label": "Registration valid 5 years"}
+     ]},
+     {"label": "FATF lists", "children": [
+      {"label": "Grey list: increased monitoring"},
+      {"label": "Black list: high-risk jurisdictions"}
+     ]},
+     {"label": "UN Peacekeeping", "children": [
+      {"label": "India 4th largest troop contributor"},
+      {"label": "All-women contingent in 2007"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Awards, Rankings, Health and Heritage",
+   "root": {
+    "label": "Awards, Rankings, Health and Heritage",
+    "children": [
+     {"label": "Padma Awards 2026", "children": [
+      {"label": "Vibhushan, Bhushan, Shri"},
+      {"label": "Cap of 120 awards per year"}
+     ]},
+     {"label": "Rankings and surveys", "children": [
+      {"label": "QS 2027: MIT top for 15th year"},
+      {"label": "NFHS-6: institutional births 90.6%"}
+     ]},
+     {"label": "Days and heritage", "children": [
+      {"label": "Yoga Day 21 June 2026"},
+      {"label": "Dancing Girl image restored in NCERT"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Padma award categories",
+   "mnemonic": "Very Bright Stars",
+   "decode": [
+    {"key": "V", "meaning": "Padma Vibhushan: for exceptional and distinguished service of the highest order"},
+    {"key": "B", "meaning": "Padma Bhushan: for distinguished service of a high order in any field"},
+    {"key": "S", "meaning": "Padma Shri: for distinguished contributions in any discipline or area of public life"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "FATF lists",
+   "mnemonic": "Grey warns, Black blocks",
+   "decode": [
+    {"key": "Grey", "meaning": "Grey list: jurisdictions under increased monitoring, subject to regular progress reviews"},
+    {"key": "Black", "meaning": "Black list: high-risk jurisdictions that FATF calls on members to apply countermeasures to"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Nuclear Command Authority",
+   "mnemonic": "Political PM, Executive NSA",
+   "decode": [
+    {"key": "Political", "meaning": "Political Council: chaired by the Prime Minister; sole body authorised to release nuclear weapons"},
+    {"key": "Executive", "meaning": "Executive Council: chaired by the National Security Advisor; gives inputs and executes directives"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 2,
+   "title": "Defence and Nuclear Developments",
+   "passage": "Defence and nuclear developments featured prominently this month. The annual SIPRI Yearbook 2026, published by the Stockholm International Peace Research Institute, highlights rising global militarisation, nuclear modernisation and India's evolving nuclear posture. It reports that India's defence expenditure rose to USD 92.1 billion in 2025, placing India among the world's largest military spenders.\n\nIndia's nuclear decision-making rests on its Nuclear Command Authority, which has two bodies. The Political Council is the sole body authorised to release nuclear weapons, while the Executive Council provides inputs to it and executes its directives.\n\nOn air defence, India has received the fourth squadron of the S-400 Triumf system from Russia, which is designated Sudarshan in Indian service. India has also signed a deal to supply BrahMos supersonic cruise missiles to Vietnam, as announced during the Shangri-La Dialogue. BrahMos was used in combat for the first time during Operation Sindoor.\n\nGlobally, military spending reached USD 2.9 trillion in 2025, marking the 11th consecutive year of growth. The world retained 12,187 nuclear warheads, and nuclear-armed states continue to rely on nuclear deterrence as a strategic tool. The Yearbook also notes that Ukraine recorded the highest military burden in the world, with its military spending equivalent to 40% of its GDP.",
+   "questions": [
+    {
+     "q": "Which authority chairs the Executive Council of India's Nuclear Command Authority?",
+     "options": ["Prime Minister", "National Security Advisor", "Defence Minister", "President of India"],
+     "answer": 1,
+     "explanation": "The Executive Council is chaired by the National Security Advisor and executes the directives of the Political Council."
+    },
+    {
+     "q": "Assertion (A): India signed a USD 5.43 billion agreement with Russia in 2018 for five S-400 regimental systems.\nReason (R): The S-400 system is designed and manufactured by Almaz-Antey.",
+     "options": ["Both A and R are true and R explains A", "Both A and R are true but R does not explain A", "A is true but R is false", "A is false but R is true"],
+     "answer": 1,
+     "explanation": "Both statements are given in the booklet, and the Almaz-Antey design credit does not explain the 2018 procurement deal."
+    },
+    {
+     "q": "Match List I with List II:\nI. Iron Dome   ->   A. Russia\nII. S-500 Prometey   ->   B. Israel\nIII. HQ-9   ->   C. China\nIV. THAAD   ->   D. USA",
+     "options": ["I-A, II-B, III-C, IV-D", "I-B, II-C, III-A, IV-D", "I-C, II-A, III-B, IV-D", "I-B, II-A, III-C, IV-D"],
+     "answer": 3,
+     "explanation": "Iron Dome is Israeli, S-500 Prometey is Russian, HQ-9 is Chinese and THAAD is American, per the booklet's air defence list."
+    },
+    {
+     "q": "Consider the following statements about the BrahMos missile:\nI. It is a supersonic cruise missile operating at Mach 2.8.\nII. It is capable of carrying a nuclear warhead.\nIII. It is jointly developed by India's DRDO and Russia's NPOM.\nWhich of the above statements is/are correct?",
+     "options": ["I and III only", "I and II only", "II and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "Statement II is wrong because the booklet lists BrahMos as conventional only and not nuclear."
+    },
+    {
+     "q": "How many of the following statements about India's nuclear milestones are correct?\nI. 1974: first nuclear test at Pokhran, known as Smiling Buddha.\nII. 1998: Operation Shakti established India as a nuclear weapons state.\nIII. 2008: India secured an NSG waiver.\nIV. 1998: India formally adopted its nuclear doctrine.",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 2,
+     "explanation": "The booklet dates the nuclear doctrine to 2003, so statement IV is wrong while I, II and III are correct."
+    },
+    {
+     "q": "Approximately what share of all nuclear warheads in the world is held collectively by the USA and Russia?",
+     "options": ["About 40%", "About 50%", "About 65%", "About 86%"],
+     "answer": 3,
+     "explanation": "The booklet states that the US and Russia together hold around 86% of all warheads."
+    },
+    {
+     "q": "Which country was the first state ever to withdraw from the Convention on Cluster Munitions, in 2025?",
+     "options": ["Estonia", "Lithuania", "Poland", "Latvia"],
+     "answer": 1,
+     "explanation": "The booklet records Lithuania as the first state to withdraw from the Convention on Cluster Munitions in 2025."
+    },
+    {
+     "q": "At which centre is the BrahMos Integration and Testing Facility located?",
+     "options": ["Lucknow", "Ooty", "Pune", "Hyderabad"],
+     "answer": 0,
+     "explanation": "The booklet places the BrahMos Integration and Testing Facility Centre in Lucknow, Uttar Pradesh."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 0,
+   "title": "Industry, Ports and Infrastructure",
+   "passage": "India's industrial and infrastructure indicators drew attention this month. The Index of Industrial Production (IIP) recorded a growth of 4.9 per cent in April 2026, lower than the 5.8 per cent growth registered in April 2025. Manufacturing, which carries a large share of the index, expanded by 6.2 per cent, while mining and quarrying contracted. Alongside this, the government released a revised IIP series with 2022-23 as the new base year, replacing the earlier 2011-12 base.\n\nOn the logistics front, India released its Logistics Port Performance Index for FY 2024-25 along with four new digital governance initiatives. The index evaluates ports across dry bulk, liquid bulk and container cargo. Its key performance indicators include vessel turnaround time, berth idle time and container dwell time. The framework was developed by the Ministry of Ports, Shipping and Waterways.\n\nRoad connectivity also advanced, as the Zojila Tunnel crossed a 13 km excavation milestone. The tunnel is part of an all-weather road link between Kashmir and Ladakh. The revised IIP series retains mining and quarrying, manufacturing and electricity as traditional sectors, while adding new activities such as gas supply, water supply and waste management. Electricity generation is now classified separately into renewable and non-renewable sources, which sharpens the picture of industrial output.",
+   "questions": [
+    {
+     "q": "What is the total length of the Zojila Tunnel (in km)?",
+     "answer": "13.15",
+     "accept": ["13.15 km", "13.15km", "13.15 kilometres"],
+     "explanation": "The booklet gives the tunnel's length as 13.15 km, while the passage mentions only the 13 km excavation milestone."
+    },
+    {
+     "q": "In which year is the Zojila Tunnel expected to become operational?",
+     "answer": "2028",
+     "accept": ["2028 AD"],
+     "explanation": "The booklet gives 2028 as the expected operational timeline for the tunnel."
+    },
+    {
+     "q": "How many item groups are covered in the revised IIP series?",
+     "answer": "463",
+     "accept": ["463 item groups"],
+     "explanation": "The revised series raised the number of item groups from 407 to 463."
+    },
+    {
+     "q": "How many products are covered in the revised IIP series?",
+     "answer": "1042",
+     "accept": ["1,042"],
+     "explanation": "Products covered rose from 839 in the earlier series to 1,042 in the revised series."
+    },
+    {
+     "q": "Which port topped the liquid bulk category of the Logistics Port Performance Index FY 2024-25?",
+     "answer": "Sikka",
+     "accept": ["Sikka Port"],
+     "explanation": "The booklet names Sikka Port as the top performer in the liquid bulk category."
+    },
+    {
+     "q": "India's rank in the international shipments category of the World Bank Logistics Performance Index improved from which rank?",
+     "answer": "44",
+     "accept": ["44th", "44th rank"],
+     "explanation": "The booklet states India improved from 44th to 22nd in that category."
+    },
+    {
+     "q": "How many Indian ports featured among the world's top 100 in the Container Port Performance Index 2024?",
+     "answer": "7",
+     "accept": ["seven"],
+     "explanation": "The booklet says seven Indian ports featured among the world's top 100 ports."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 60, "what": "Container cargo top performer reads 'Mundra Por' followed by 'Jawaharlal Nehru Port'; the winning port name is unclear."},
+  {"page": 60, "what": "Name of the port performance assessment initiative reads 'Sagar Aankalan'; garbled, not used."},
+  {"page": 61, "what": "Western Ghats classification reads 'Eco-Sensitive Zones I, II & II'; the third zone label is unclear."},
+  {"page": 61, "what": "ESA restriction threshold for large construction reads '(= 20,000 sq. m)'; the comparison symbol is garbled, not used."},
+  {"page": 61, "what": "SIPRI line 'India became 2nd Largest Arms Importer (8.2%) globally, after Ukraine' could not be verified from the text; not used."},
+  {"page": 63, "what": "S-400 missile range table labels (QM96E, A8N6E2, 48N6DM, 40N6) and speed/altitude column text are garbled; not used."},
+  {"page": 64, "what": "BrahMos specification table (range, altitude, weight, induction years) is garbled in layout; only text-stated facts used."},
+  {"page": 65, "what": "QS ranking of Jawaharlal Nehru University reads '555'; the digits are unclear, not used."},
+  {"page": 68, "what": "Padma Vibhushan ranking line ('2nd Highest Civilian Honour, after Bharat Ratna') sits in a split column; category attribution unclear, not used."}
+ ]
 }
