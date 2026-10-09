@@ -1,0 +1,33 @@
+{
+  "questions": [
+    {
+      "id": "t-t05-1",
+      "n": 1,
+      "my_answer": "15",
+      "supported": true,
+      "evidence": {
+        "page": 24,
+        "quote": "Mandatory Payment within 15 Days of Work Completion."
+      },
+      "issues": []
+    }
+  ],
+  "passage_flags": [
+    {
+      "quiz": "q-t02-0",
+      "claim": "Trade between the two countries is an important part of the relationship as well.",
+      "problem": "Not stated in the booklet. Page 9 only says bilateral trade is conducted under the ASEAN-India Trade in Goods Agreement (AITIGA); it does not say trade is important to the relationship."
+    },
+    {
+      "quiz": "t-t08-1",
+      "claim": "A manufacturer that receives lower prices for its output may reduce production, while a rise in the cost of materials or energy can squeeze profits and later feed into the prices of finished goods.",
+      "problem": "The causal claim that lower output prices lead manufacturers to reduce production is not in the booklet (page 38-39 covers PPI definitions and the input/output cost measures only). The squeeze-and-pass-through point is general reasoning, not booklet text."
+    },
+    {
+      "quiz": "t-t11-1",
+      "claim": "Several initiatives are run by different bodies, so the same raw material can fall under more than one programme.",
+      "problem": "Not stated in the booklet (pages 48-52). The booklet lists several biofuel schemes but never says one raw material can fall under more than one programme."
+    }
+  ],
+  "fact_flags": []
+}
