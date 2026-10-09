@@ -1,0 +1,163 @@
+{
+ "passage_fixes": [
+  {
+   "quiz": "q-t01-0",
+   "old": "and the two countries share a free trade agreement that governs much of their commercial relationship",
+   "new": "and the two countries signed a free trade agreement in 2000"
+  },
+  {
+   "quiz": "t-t01-1",
+   "old": "which functioned under a ruling dynasty based in the southern part of the country",
+   "new": "which functioned under a ruling dynasty"
+  },
+  {
+   "quiz": "t-t02-1",
+   "old": ", and several of them shaped the debate.",
+   "new": "."
+  },
+  {
+   "quiz": "t-t03-1",
+   "old": ", and the national debate on caste data has grown stronger.",
+   "new": "."
+  },
+  {
+   "quiz": "q-t04-0",
+   "old": ", where the state's presence has often been thin.",
+   "new": "."
+  },
+  {
+   "quiz": "q-t04-0",
+   "old": ", which are central to their livelihoods.",
+   "new": "."
+  },
+  {
+   "quiz": "q-t04-0",
+   "old": " The booklet presents these problems as connected, so a response has to work on several fronts at once.",
+   "new": ""
+  },
+  {
+   "quiz": "t-t04-1",
+   "old": " These steps are described as connected, so success depends on them working together.",
+   "new": ""
+  },
+  {
+   "quiz": "t-t04-1",
+   "old": "The movement also depended on its own system of control in some villages.",
+   "new": "The movement also had a parallel system of governance of its own."
+  },
+  {
+   "quiz": "q-t05-0",
+   "old": "was the first state to enact a UCC.",
+   "new": "was the first state to adopt such a code after pre-Independence Goa."
+  },
+  {
+   "quiz": "q-t06-0",
+   "old": " Because no agreed rules exist, each state relies on its own reading of how the river's flow should be shared.",
+   "new": ""
+  },
+  {
+   "quiz": "t-t07-1",
+   "old": ", which gave elected local bodies a role in planning and running village affairs.",
+   "new": "."
+  },
+  {
+   "quiz": "t-t07-1",
+   "old": " Such studies were seen as necessary before any wider change could be made to the system.",
+   "new": ""
+  },
+  {
+   "quiz": "q-t09-0",
+   "old": "over agriculture and transparency norms, and over the wider direction of trade rules.",
+   "new": "and over agriculture and transparency norms."
+  },
+  {
+   "quiz": "t-t09-1",
+   "old": ", which would bind only those members who sign it.",
+   "new": "."
+  },
+  {
+   "quiz": "q-t10-0",
+   "old": ", because these tiny particles can travel deep into the lungs.",
+   "new": "."
+  },
+  {
+   "quiz": "q-t10-0",
+   "old": "Every reading is compared against the same guideline, so results from very different places can be placed side by side on one scale. ",
+   "new": ""
+  },
+  {
+   "quiz": "t-t12-1",
+   "old": "The class shares a design that balances power, launch tubes and displacement across its members. ",
+   "new": ""
+  },
+  {
+   "quiz": "t-t13-1",
+   "old": "India is also testing its systems with a humanoid robot that can monitor module parameters and raise alerts. Another tool, an application named SAKHI, will help",
+   "new": "An application named SAKHI will help"
+  },
+  {
+   "quiz": "t-t13-1",
+   "old": " Together these tools are designed to support Indian astronauts from launch to return.",
+   "new": ""
+  }
+ ],
+ "fact_fixes": [
+  {
+   "old": "Article 262 allows Parliament to exclude the jurisdiction of courts in such matters",
+   "new": "Article 262 empowers Parliament to adjudicate disputes relating to inter-State rivers",
+   "page": 28
+  },
+  {
+   "old": "Later committees under Ashok Mehta, G.V.K. Rao and L.M. Singhvi reviewed the system and its constitutional status.",
+   "new": "Later committees under Ashok Mehta, G.V.K. Rao and L.M. Singhvi reviewed the system: the Ashok Mehta committee recommended a two-tier system, the G.V.K. Rao committee reviewed administrative arrangements for rural development and poverty alleviation programmes, and the Singhvi committee recommended constitutional recognition of panchayats.",
+   "page": 30
+  },
+  {
+   "old": "it is appointed by the Governor.",
+   "new": "its State Election Commissioner is appointed by the Governor.",
+   "page": 32
+  },
+  {
+   "old": "India withdrew its bid to host COP33 in 2028",
+   "new": "India withdrew its bid to host COP33, which is scheduled for 2028",
+   "page": 75
+  }
+ ],
+ "replacements": [
+  {
+   "quiz": "t-t08-1",
+   "n": 6,
+   "question": {
+    "q": "At what rate, in per cent, did the RBI's Monetary Policy Committee keep the Repo Rate unchanged in its latest review?",
+    "answer": "5.25",
+    "accept": [
+     "5.25%",
+     "5.25 per cent",
+     "5.25 percent"
+    ],
+    "explanation": "The booklet says the Monetary Policy Committee kept the Repo Rate unchanged at 5.25%."
+   },
+   "evidence": {
+    "page": 35,
+    "quote": "Monetary Policy Committee of Reserve Bank of India kept Repo Rate Unchanged at 5.25%."
+   }
+  },
+  {
+   "quiz": "t-t12-1",
+   "n": 3,
+   "question": {
+    "q": "Which submarine did India commission as its 3rd nuclear-powered ballistic missile submarine? (name)",
+    "answer": "INS Aridaman",
+    "accept": [
+     "Aridaman",
+     "INS Aridaman submarine"
+    ],
+    "explanation": "The booklet says India commissioned INS Aridaman, its 3rd nuclear-powered ballistic missile submarine."
+   },
+   "evidence": {
+    "page": 56,
+    "quote": "India commissioned INS Aridaman, its 3rd Nuclear — powered Ballistic Missile Submarine"
+   }
+  }
+ ]
+}
