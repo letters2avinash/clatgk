@@ -1,0 +1,107 @@
+{
+ "passage_fixes": [
+  {
+   "quiz": "q-t01-0",
+   "old": "a memorandum drafted in Islamabad",
+   "new": "a memorandum known as the Islamabad MoU"
+  },
+  {
+   "quiz": "t-t01-1",
+   "old": "Meanwhile, an armed group and a regional state continue to clash over their long-running conflict, and proxy tensions remain.",
+   "new": "Meanwhile, tensions involving regional proxies remain."
+  },
+  {
+   "quiz": "q-t02-0",
+   "old": "Both governments see the relationship as a key part of their regional strategies. ",
+   "new": ""
+  },
+  {
+   "quiz": "q-t03-0",
+   "old": ", and such records are measured in days rather than years.",
+   "new": "."
+  },
+  {
+   "quiz": "q-t08-0",
+   "old": ", with new industries, new energy sources and new patterns of production becoming significant.",
+   "new": "."
+  },
+  {
+   "quiz": "t-t08-1",
+   "old": "The service sector contributes a large share of output, and its prices are influenced by factors that differ from those affecting goods.",
+   "new": "The service sector is also part of economic activity, and a separate Service Producer Price Index tracks its prices."
+  },
+  {
+   "quiz": "q-t10-0",
+   "old": "that has grown from a set of humanitarian contacts into a regular diplomatic forum.",
+   "new": "that has grown from a set of humanitarian contacts into a diplomatic grouping."
+  },
+  {
+   "quiz": "q-t10-0",
+   "old": "Maritime cooperation is the most visible strand, with",
+   "new": "Maritime cooperation is one strand, with"
+  },
+  {
+   "quiz": "t-t10-1",
+   "old": "can disrupt entire industries, so",
+   "new": "can create supply vulnerabilities, so"
+  },
+  {
+   "quiz": "t-t10-1",
+   "old": "to help countries across the Indo-Pacific cope with uncertainty in fuel and power markets.",
+   "new": "to help countries across the Indo-Pacific manage market risks."
+  },
+  {
+   "quiz": "t-t11-1",
+   "old": "rests on several policy instruments rather than a single law.",
+   "new": "rests on several policy instruments."
+  },
+  {
+   "quiz": "t-t11-1",
+   "old": " Implementation depends on coordination between government departments, state governments and industry, and on steady funding for research and plant construction.",
+   "new": ""
+  },
+  {
+   "quiz": "q-t12-0",
+   "old": "several of these are recognised under an international convention on wetlands.",
+   "new": "several of these are recognised as Ramsar Sites."
+  },
+  {
+   "quiz": "q-t12-0",
+   "old": " Such efforts are most effective when local communities and government agencies coordinate their work.",
+   "new": ""
+  }
+ ],
+ "fact_fixes": [
+  {
+   "old": "The booklet also links the platform's privacy features, bots and bank-account marketplaces to rising cybercrime complaints.",
+   "new": "The booklet also links rising cybercrime complaints to activities organised within Telegram groups.",
+   "page": 32
+  },
+  {
+   "old": "Maritime cooperation is the most visible strand of the 11th meeting's outcomes.",
+   "new": "Maritime cooperation is one strand of the 11th meeting's outcomes.",
+   "page": 46
+  }
+ ],
+ "replacements": [
+  {
+   "quiz": "t-t05-1",
+   "n": 1,
+   "question": {
+    "q": "Within how many days of completing work must wage payment be made under the VB-G RAM G Act? (Give the number of days.)",
+    "answer": "15",
+    "accept": [
+     "15 days",
+     "fifteen days",
+     "fifteen",
+     "15 Days"
+    ],
+    "explanation": "The draft rules make wage payment mandatory within 15 days of work completion."
+   },
+   "evidence": {
+    "page": 24,
+    "quote": "Mandatory Payment within 15 Days of Work Completion."
+   }
+  }
+ ]
+}
