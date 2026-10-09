@@ -72,18 +72,18 @@
  ],
  "quizzes": [
   {
-   "id": "q-x03-22",
+   "id": "q-x03-26",
    "type": "MCQ",
    "passage": "Legal aid in India is delivered through a network of institutions rather than a single office. At the top of this network sits the National Legal Services Authority, which guides a chain of bodies that reach down to the districts and to the courts. The network exists so that people who cannot easily afford a lawyer are not shut out of the justice system, and its services are meant to be offered on the basis of equal opportunity. The institutions are also expected to spread awareness about legal rights, so that people know when and how to seek help. They organise Lok Adalats and promote the settlement of disputes outside a formal trial. The national body is further expected to monitor how legal aid programmes are working and to develop the rules that govern them. The law that created this network also set out principles on which legal services are to be provided, and these principles guide every level of the structure. Before the present structure was built, the government had already recognised the need to supervise legal aid schemes at the national level, and a dedicated committee was created for that purpose. Each level of the network has its own authority or committee, and together they are meant to make legal help available to people from every background, whatever their income or social position.",
    "questions": [
     {
      "n": 1,
-     "q": "Consider the following statements about the legal aid network:\nI. Legal aid institutions operate at taluka or sub-division level.\nII. The Supreme Court has its own Legal Services Committee.\nIII. The Legal Services Authorities Act, 1987 came into force on 1 January 1987.\nHow many of the above statements are correct?",
+     "q": "Who is the Patron-in-Chief of NALSA at the national level?",
      "options": [
-      "Only two",
-      "Only one",
-      "Only three",
-      "All of the above"
+      "Union Minister of Law",
+      "Attorney General of India",
+      "Secretary, Ministry of Law",
+      "Chief Justice of India"
      ]
     },
     {
@@ -98,26 +98,16 @@
     },
     {
      "n": 3,
-     "q": "Consider the following statements about NALSA and legal aid:\nI. Objectives of legal services institutions include providing compensation to victims of crime.\nII. The Legal Services Authorities Act, 1987 was enacted by State Legislatures.\nIII. A State Legal Services Authority operates at the state level.\nWhich of the above statements is/are correct?",
+     "q": "Match List I with List II:\nI. Legal Services Authorities Act, 1987   ->   A. Headed by the Chief Justice of the State High Court\nII. High Court Legal Services Committee   ->   B. Constituted under the Act\nIII. District Legal Services Authority   ->   C. Statutory base for legal aid programmes\nIV. National Legal Services Authority   ->   D. Ex-officio chairman is the District Judge",
      "options": [
-      "I and II only",
-      "I and III only",
-      "II and III only",
-      "I, II and III"
+      "I-C, II-B, III-A, IV-D",
+      "I-C, II-D, III-A, IV-B",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-A, III-C, IV-B"
      ]
     },
     {
      "n": 4,
-     "q": "Who is the Patron-in-Chief of NALSA at the national level?",
-     "options": [
-      "Union Minister of Law",
-      "Attorney General of India",
-      "Secretary, Ministry of Law",
-      "Chief Justice of India"
-     ]
-    },
-    {
-     "n": 5,
      "q": "Article 39A of the Constitution provides for which of the following?",
      "options": [
       "Right to speedy trial",
@@ -127,17 +117,17 @@
      ]
     },
     {
-     "n": 6,
-     "q": "Match List I with List II:\nI. Legal Services Authorities Act, 1987   ->   A. Headed by the Chief Justice of the State High Court\nII. High Court Legal Services Committee   ->   B. Constituted under the Act\nIII. District Legal Services Authority   ->   C. Statutory base for legal aid programmes\nIV. National Legal Services Authority   ->   D. Ex-officio chairman is the District Judge",
+     "n": 5,
+     "q": "Consider the following statements about NALSA and legal aid:\nI. Objectives of legal services institutions include providing compensation to victims of crime.\nII. The Legal Services Authorities Act, 1987 was enacted by State Legislatures.\nIII. A State Legal Services Authority operates at the state level.\nWhich of the above statements is/are correct?",
      "options": [
-      "I-D, II-B, III-A, IV-C",
-      "I-C, II-D, III-A, IV-B",
-      "I-C, II-A, III-D, IV-B",
-      "I-D, II-B, III-C, IV-A"
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
      ]
     },
     {
-     "n": 7,
+     "n": 6,
      "q": "Which committee was set up at the national level in 1980 to supervise legal aid programmes?",
      "options": [
       "CILAS",
@@ -145,11 +135,21 @@
       "SUPACE",
       "Ministry of Law and Justice"
      ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about the legal aid network:\nI. Legal aid institutions operate at taluka or sub-division level.\nII. The Supreme Court has its own Legal Services Committee.\nIII. The Legal Services Authorities Act, 1987 came into force on 1 January 1987.\nHow many of the above statements are correct?",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
     }
    ]
   },
   {
-   "id": "t-x03-23",
+   "id": "t-x03-27",
    "type": "TITA",
    "passage": "Legal aid in India is delivered through a network of institutions rather than a single office. At the top of this network sits the National Legal Services Authority, which guides a chain of bodies that reach down to the districts and to the courts. The network exists so that people who cannot easily afford a lawyer are not shut out of the justice system, and its services are meant to be offered on the basis of equal opportunity. The institutions are also expected to spread awareness about legal rights, so that people know when and how to seek help. They organise Lok Adalats and promote the settlement of disputes outside a formal trial. The national body is further expected to monitor how legal aid programmes are working and to develop the rules that govern them. The law that created this network also set out principles on which legal services are to be provided, and these principles guide every level of the structure. Before the present structure was built, the government had already recognised the need to supervise legal aid schemes at the national level, and a dedicated committee was created for that purpose. Each level of the network has its own authority or committee, and together they are meant to make legal help available to people from every background, whatever their income or social position.",
    "questions": [
@@ -184,7 +184,7 @@
    ]
   },
   {
-   "id": "q-x03-24",
+   "id": "q-x03-28",
    "type": "MCQ",
    "passage": "The e-Courts Project is an effort to bring information and communication technology into courts across India. It was based on a plan prepared for the judiciary to change its working through digital tools, and its work has moved through several phases over more than a decade. The phases have extended computerisation to district and subordinate courts, and the project now includes platforms for managing case records. Digital platforms carry case information from courts at several levels. Other tools serve judges and litigants more directly. Some tools support language needs so that regional languages can take a larger role in court proceedings, while others securely transmit electronic records such as interim orders and bail orders to the authorities concerned. A separate tool supports judges in their work. Courts have also begun to stream some of their hearings live. The project is funded by the central government ministry that deals with law and justice matters. Each of these tools is part of the same effort, and together they show how technology has been brought into different parts of the court system. The phases were carried out one after another over the years, and the tools described here belong to that same programme of work. Each tool has a different purpose, from handling language needs to managing the flow of orders between courts and the authorities that act on them.",
    "questions": [
@@ -230,12 +230,12 @@
     },
     {
      "n": 5,
-     "q": "Match List I with List II:\nI. SUVAS   ->   A. Collects relevant facts and laws for judges\nII. SUPACE   ->   B. Online database of orders, judgments and case details\nIII. National Judicial Data Grid   ->   C. ICT enablement of courts\nIV. e-Courts Project   ->   D. Machine-assisted translation tool trained by AI",
+     "q": "Match List I with List II:\nI. SUVAS   ->   A. ICT enablement of courts\nII. SUPACE   ->   B. Online database of orders, judgments and case details\nIII. National Judicial Data Grid   ->   C. Machine-assisted translation tool trained by AI\nIV. e-Courts Project   ->   D. Collects relevant facts and laws for judges",
      "options": [
+      "I-B, II-C, III-A, IV-D",
+      "I-A, II-B, III-C, IV-D",
       "I-C, II-D, III-B, IV-A",
-      "I-D, II-B, III-C, IV-A",
-      "I-D, II-A, III-B, IV-C",
-      "I-A, II-D, III-B, IV-C"
+      "I-D, II-C, III-A, IV-B"
      ]
     },
     {
@@ -261,7 +261,7 @@
    ]
   },
   {
-   "id": "t-x03-25",
+   "id": "t-x03-29",
    "type": "TITA",
    "passage": "The e-Courts Project is an effort to bring information and communication technology into courts across India. It was based on a plan prepared for the judiciary to change its working through digital tools, and its work has moved through several phases over more than a decade. The phases have extended computerisation to district and subordinate courts, and the project now includes platforms for managing case records. Digital platforms carry case information from courts at several levels. Other tools serve judges and litigants more directly. Some tools support language needs so that regional languages can take a larger role in court proceedings, while others securely transmit electronic records such as interim orders and bail orders to the authorities concerned. A separate tool supports judges in their work. Courts have also begun to stream some of their hearings live. The project is funded by the central government ministry that deals with law and justice matters. Each of these tools is part of the same effort, and together they show how technology has been brought into different parts of the court system. The phases were carried out one after another over the years, and the tools described here belong to that same programme of work. Each tool has a different purpose, from handling language needs to managing the flow of orders between courts and the authorities that act on them.",
    "questions": [

@@ -64,7 +64,7 @@
  ],
  "quizzes": [
   {
-   "id": "q-x02-18",
+   "id": "q-x02-22",
    "type": "MCQ",
    "passage": "The Viksit Bharat G RAM G Bill 2025 was brought forward to replace MGNREGA, the rural employment law that has shaped rural work for many years. The government has circulated the bill to members of Parliament. It describes the bill as a framework for rural development aligned with a national vision, and says the bill aims to boost rural employment, promote durable asset creation and align development with infrastructure-led growth.\n\nThe government's case for change rests on the argument that the older framework is now outdated. It points to major transformations in the rural economy, in livelihoods and in employment patterns since the earlier law was enacted. These shifts, the government says, make the older design a poor fit for present conditions. Critics have also questioned the quality of the assets created under the scheme.\n\nThe bill also changes how the programme is funded. Under the earlier model, funding was open-ended and mostly drawn from one level of government. The new framework uses a shared arrangement, and normative allocations are expected to improve fiscal management and targeted spending.\n\nLabour shortages during sowing and harvest seasons form part of the rural context behind the change. The bill also adds a digital layer to oversight, with a planned digital ecosystem meant to reduce leakages, improve transparency and track work effectively.",
    "questions": [
@@ -110,12 +110,12 @@
     },
     {
      "n": 5,
-     "q": "Match List I with List II:\nI. Digital technologies under the bill   ->   A. Review, monitor and advise\nII. Viksit Gram Panchayat Plans   ->   B. Recommendations on financial allocation\nIII. Central and State Gramin Rozgar Guarantee Councils   ->   C. Prepared by Gram Panchayats\nIV. National and State Steering Committees   ->   D. Biometric authentication",
+     "q": "Match List I with List II:\nI. Digital technologies under the bill   ->   A. Prepared by Gram Panchayats\nII. Viksit Gram Panchayat Plans   ->   B. Recommendations on financial allocation\nIII. Central and State Gramin Rozgar Guarantee Councils   ->   C. Biometric authentication\nIV. National and State Steering Committees   ->   D. Review, monitor and advise",
      "options": [
-      "I-B, II-C, III-A, IV-D",
-      "I-D, II-C, III-A, IV-B",
-      "I-B, II-C, III-D, IV-A",
-      "I-A, II-B, III-C, IV-D"
+      "I-D, II-B, III-A, IV-C",
+      "I-C, II-A, III-D, IV-B",
+      "I-C, II-D, III-A, IV-B",
+      "I-D, II-B, III-C, IV-A"
      ]
     },
     {
@@ -141,7 +141,7 @@
    ]
   },
   {
-   "id": "t-x02-19",
+   "id": "t-x02-23",
    "type": "TITA",
    "passage": "The Viksit Bharat G RAM G Bill 2025 was brought forward to replace MGNREGA, the rural employment law that has shaped rural work for many years. The government has circulated the bill to members of Parliament. It describes the bill as a framework for rural development aligned with a national vision, and says the bill aims to boost rural employment, promote durable asset creation and align development with infrastructure-led growth.\n\nThe government's case for change rests on the argument that the older framework is now outdated. It points to major transformations in the rural economy, in livelihoods and in employment patterns since the earlier law was enacted. These shifts, the government says, make the older design a poor fit for present conditions. Critics have also questioned the quality of the assets created under the scheme.\n\nThe bill also changes how the programme is funded. Under the earlier model, funding was open-ended and mostly drawn from one level of government. The new framework uses a shared arrangement, and normative allocations are expected to improve fiscal management and targeted spending.\n\nLabour shortages during sowing and harvest seasons form part of the rural context behind the change. The bill also adds a digital layer to oversight, with a planned digital ecosystem meant to reduce leakages, improve transparency and track work effectively.",
    "questions": [
@@ -176,7 +176,7 @@
    ]
   },
   {
-   "id": "q-x02-20",
+   "id": "q-x02-24",
    "type": "MCQ",
    "passage": "The Viksit Bharat G RAM G Bill 2025 proposes a new rural employment framework in place of MGNREGA. The booklet compares the two frameworks on six features: guaranteed workdays, wage funding, nature of the right, budgeting approach, operating period and payment frequency.\n\nOn guaranteed workdays, the proposed bill raises the statutory guarantee for each rural household. On wage funding, the earlier model placed most of the cost on one level of government, while the new bill introduces a shared arrangement for most states.\n\nThe two frameworks also differ in how the guarantee is framed and in how work is planned. Under the earlier scheme, planning followed the demand for work reported by states. The proposed bill, by contrast, sets an allocation in advance for each state and allows work to be paused in busy agricultural periods. The booklet also notes that the proposed bill mandates a digital ecosystem to reduce leakages.\n\nPayment timing also differs. The earlier law set a deadline for paying wages after work was completed, and the new bill sets out a different pattern aimed at improving the cash flow of workers. Overall, the booklet presents the proposed bill as an upgrade that fixes structural weaknesses while enhancing employment, transparency, planning and accountability.",
    "questions": [
@@ -222,12 +222,12 @@
     },
     {
      "n": 5,
-     "q": "Match List I with List II:\nI. Budgeting approach under MGNREGA   ->   A. Continuous operation without seasonal pauses\nII. Operating period under MGNREGA   ->   B. Fixed state-wise annual allocation\nIII. Nature of right under MGNREGA   ->   C. Labour budget reflecting actual demand for work\nIV. Budgeting approach under the proposed bill   ->   D. Justiciable right",
+     "q": "Match List I with List II:\nI. Budgeting approach under MGNREGA   ->   A. Continuous operation without seasonal pauses\nII. Operating period under MGNREGA   ->   B. Justiciable right\nIII. Nature of right under MGNREGA   ->   C. Fixed state-wise annual allocation\nIV. Budgeting approach under the proposed bill   ->   D. Labour budget reflecting actual demand for work",
      "options": [
-      "I-B, II-A, III-C, IV-D",
-      "I-D, II-C, III-A, IV-B",
+      "I-C, II-D, III-B, IV-A",
+      "I-D, II-B, III-C, IV-A",
       "I-A, II-D, III-B, IV-C",
-      "I-C, II-A, III-D, IV-B"
+      "I-D, II-A, III-B, IV-C"
      ]
     },
     {
@@ -253,7 +253,7 @@
    ]
   },
   {
-   "id": "t-x02-21",
+   "id": "t-x02-25",
    "type": "TITA",
    "passage": "The Viksit Bharat G RAM G Bill 2025 proposes a new rural employment framework in place of MGNREGA. The booklet compares the two frameworks on six features: guaranteed workdays, wage funding, nature of the right, budgeting approach, operating period and payment frequency.\n\nOn guaranteed workdays, the proposed bill raises the statutory guarantee for each rural household. On wage funding, the earlier model placed most of the cost on one level of government, while the new bill introduces a shared arrangement for most states.\n\nThe two frameworks also differ in how the guarantee is framed and in how work is planned. Under the earlier scheme, planning followed the demand for work reported by states. The proposed bill, by contrast, sets an allocation in advance for each state and allows work to be paused in busy agricultural periods. The booklet also notes that the proposed bill mandates a digital ecosystem to reduce leakages.\n\nPayment timing also differs. The earlier law set a deadline for paying wages after work was completed, and the new bill sets out a different pattern aimed at improving the cash flow of workers. Overall, the booklet presents the proposed bill as an upgrade that fixes structural weaknesses while enhancing employment, transparency, planning and accountability.",
    "questions": [

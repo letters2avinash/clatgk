@@ -1,0 +1,298 @@
+{
+ "topic": "December 2025 AILET Corner: Current Affairs Facts",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Polity, Law and Regulators",
+   "summary": "This subtopic covers the contempt of court framework in India, including the Court of Record status given to the Supreme Court and High Courts. It also covers the UMEED portal for Waqf properties and the Competition Commission of India's probe into airline flight disruptions.",
+   "facts": [
+    "Contempt of Courts Act, 1971 governs contempt proceedings in India",
+    "Civil contempt: wilful disobedience of a judgment, decree, direction or order of a court",
+    "Criminal contempt: publication or act that scandalises or lowers the authority of a court",
+    "Criminal contempt also covers interfering with judicial proceedings and obstructing administration of justice",
+    "Article 129: Supreme Court is a Court of Record with power to punish for its own contempt",
+    "Article 215: High Courts enjoy similar Court of Record status with power to punish for contempt",
+    "UMEED stands for Unified Waqf Management, Empowerment, Efficiency and Development under the Waqf Act, 1995",
+    "UMEED is a centralised digital platform for Waqf property management, monitoring and transparency",
+    "UMEED nodal agency: Ministry of Minority Affairs",
+    "CCI is a statutory body under the Competition Act, 2002; established in 2003",
+    "CCI took cognisance of IndiGo flight disruptions to probe possible abuse of dominant position"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Economy and Finance",
+   "summary": "This subtopic covers the RBI's regulation of Domestic Systemically Important Banks, the Integrated Ombudsman Scheme 2021 for customer grievances, and the Goldilocks economy after a repo rate cut. It also covers the Economic Census, which is conducted to build a business register and support planning.",
+   "facts": [
+    "D-SIBs are referred to as 'Too Big To Fail'",
+    "D-SIBs are banks whose failure could trigger a significant disruption in the financial system and economy",
+    "D-SIBs are designated by the Reserve Bank of India",
+    "D-SIBs must maintain higher Common Equity Tier 1 (CET 1) capital than regular banks",
+    "Each D-SIB is placed in a risk bucket; a higher bucket means a higher additional CET 1 requirement",
+    "Integrated Ombudsman Scheme 2021 merges the Banking (2006), NBFC (2018) and Digital Transactions (2019) ombudsman schemes",
+    "Ombudsman can direct regulated entities to pay up to 20 lakh as compensation for financial loss",
+    "Goldilocks economy: RBI cut the repo rate by 25 basis points to 5.25%, an economy neither too hot nor too cold",
+    "Economic Census: first held in 1977; the next one is due in 2027, after the two-phase population census"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Environment, Science and Defence",
+   "summary": "This subtopic covers the CAFE fuel-efficiency norms and their phases, the UNEP Global Environment Outlook (GEO-7) report, and the ISRO launch of BlueBird Block-2. It also covers wetland additions to the Ramsar List and the Majuli river island.",
+   "facts": [
+    "CAFE norms are notified under the Energy Conservation Act, 2001",
+    "CAFE objectives: reduce fuel consumption, lower CO2 emissions, curb air pollution and reduce oil import dependency",
+    "CAFE phases: Phase I 2017-18, Phase II 2022-23, Phase III 2027-32",
+    "UNEP released the 7th Global Environment Outlook (GEO-7), 'A Future We Choose'; HQ in Nairobi",
+    "Pollution is linked to 9 million deaths every year",
+    "ISRO's LVM3-M6 launched BlueBird Block-2 into Low Earth Orbit on a commercial mission for AST SpaceMobile (USA)",
+    "Indian Coast Guard inducted Samudra Pratap, an indigenous pollution control vessel",
+    "Majuli: Charaichung Royal Bird Sanctuary was established in 1633 by Ahom ruler Pratap Singha; Majuli is the world's largest river island",
+    "Siliserh Lake and Kopra Reservoir were added to the Ramsar List, taking India's total to 96 wetlands"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "International Bodies and Conventions",
+   "summary": "This subtopic covers the US-led Pax Silica initiative, from which India is excluded, and SoLAR Phase II for solar irrigation. It also covers the Biological Weapons Convention, the UNESCO education convention, the Kimberley Process chair and the ADB.",
+   "facts": [
+    "Pax Silica is a US-led strategic geo-economic and technology initiative; India is excluded from it",
+    "Pax Silica covers the entire silicon value chain, from critical minerals to chips, AI infrastructure and logistics",
+    "Pax Silica members: US, Japan, South Korea, Singapore, Netherlands, UK, Israel, UAE and Australia",
+    "SoLAR (Solar Irrigation for Agricultural Resilience) Phase II covers India, Bangladesh, Kenya and Ethiopia",
+    "SoLAR Phase I (2019-2024) was implemented by IWMI (Colombo) and the Swiss Agency for Development and Cooperation",
+    "Biological Weapons Convention: opened for signature in 1972, entered into force in 1975, 189 member states",
+    "Biological Weapons Convention prohibits development, production, stockpiling and use of biological and toxin weapons",
+    "UNESCO Convention against Discrimination in Education was adopted in 1960; India has not ratified it",
+    "ADB was established in 1966 and is headquartered in Manila; it revised India's FY26 GDP growth forecast to 7.2%",
+    "India chairs the Kimberley Process from January 2026 to keep conflict diamonds out of global trade"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x09-56",
+   "type": "MCQ",
+   "passage": "Corporate Average Fuel Efficiency, or CAFE, norms are rules that set fuel efficiency standards for vehicles in India. The norms are designed to reduce fuel consumption, lower carbon dioxide emissions and curb air pollution. They apply to petrol, diesel, LPG, CNG, hybrid and electric passenger vehicles, and they are implemented in phases. Automobile manufacturers have pushed for relaxed emission standards compared with the CAFE-III norms.\n\nSeparately, the United Nations has released the seventh edition of its Global Environment Outlook, titled 'A Future We Choose'. The report states that the world is far off track from Paris Agreement targets. It also warns that pollution remains one of the largest environmental health risks, and that rapid land degradation threatens food security and biodiversity. The Outlook is described as a leading voice for planetary protection, and it defines the international environmental agenda.\n\nIn defence news, DRDO successfully tested the K-4 submarine-launched ballistic missile from INS Arighat. It also completed trials of the Akash-NG surface-to-air missile, which was produced in collaboration with Bharat Electronics Limited.\n\nIndia also marks Antarctica Day on December 1, which commemorates the 1959 Antarctic Treaty. The treaty bans nuclear activities south of 60 degrees south latitude and preserves 10 per cent of Earth for peace and science.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Under which Act are the CAFE norms notified?",
+     "options": [
+      "Environment Protection Act, 1986",
+      "Energy Conservation Act, 2001",
+      "Motor Vehicles Act, 1988",
+      "Air (Prevention and Control of Pollution) Act, 1981"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which Ahom ruler established the Charaichung Royal Bird Sanctuary in 1633?",
+     "options": [
+      "Rudra Singha",
+      "Gadadhar Singha",
+      "Siva Singha",
+      "Pratap Singha"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "The Global Environment Outlook (GEO-7) is headquartered in which city?",
+     "options": [
+      "Nairobi",
+      "Geneva",
+      "Paris",
+      "Manila"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Read the two statements.\nAssertion (A): Phase I of the CAFE norms, in 2017-18, set baseline efficiency targets for passenger vehicles.\nReason (R): Phase II of the CAFE norms, in 2022-23, introduced stricter fuel efficiency targets.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Siliserh Lake   ->   A. AST SpaceMobile (USA)\nII. Kopra Reservoir   ->   B. Rajasthan\nIII. Samudra Pratap   ->   C. Chhattisgarh\nIV. BlueBird Block-2   ->   D. Indian Coast Guard",
+     "options": [
+      "I-D, II-B, III-A, IV-C",
+      "I-B, II-C, III-D, IV-A",
+      "I-C, II-B, III-D, IV-A",
+      "I-C, II-D, III-A, IV-B"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. Majuli is recognised as the world's largest river island.\nII. Phase III of the CAFE norms covers the years 2027-32.\nIII. Phase I of the CAFE norms was implemented in 2022-23.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. Pollution is linked to 9 million deaths every year.\nII. BlueBird Block-2 was placed into Low Earth Orbit by the LVM3-M6 launch.\nIII. Samudra Pratap is India's first hydrogen fuel-cell passenger vessel.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only three",
+      "Only two",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-57",
+   "type": "TITA",
+   "passage": "India has added two wetlands, Siliserh Lake and Kopra Reservoir, to the Ramsar List of wetlands of international importance. Siliserh Lake is located in Alwar, Rajasthan, while Kopra Reservoir is in Bilaspur, Chhattisgarh. The additions raise the total number of such wetlands in India.\n\nA commercial communications satellite, BlueBird Block-2, was launched by ISRO for AST SpaceMobile, a company based in the United States. The satellite was launched on a commercial mission. The satellite is described as the largest commercial communications satellite deployed in Low Earth Orbit. Low Earth Orbit is preferred for Earth observation, communication constellations and hosting platforms such as the International Space Station.\n\nIn defence news, DRDO successfully tested the K-4 submarine-launched ballistic missile from INS Arighat. It also completed trials of the Akash-NG surface-to-air missile, produced with Bharat Electronics Limited.\n\nAssam's Majuli hosts the Charaichung Festival, which promotes awareness of a protected royal bird sanctuary described as Asia's first. Majuli is recognised as the world's largest river island.\n\nIndia marks International Cheetah Day on December 4. Project Cheetah, launched in 2022, marks the world's first inter-continental translocation of a large wild carnivore to reintroduce cheetahs in India. The International Cheetah Day was established by Dr. Laurie Marker to honour Khayam, the cheetah she raised.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the Charaichung Royal Bird Sanctuary established? (year)"
+    },
+    {
+     "n": 2,
+     "q": "Siliserh Lake lies within the buffer zone of which tiger reserve? (name)"
+    },
+    {
+     "n": 3,
+     "q": "Kopra Reservoir is situated in the upper catchment of which river basin? (name)"
+    },
+    {
+     "n": 4,
+     "q": "From which space centre did BlueBird Block-2 lift off? (name of the centre)"
+    },
+    {
+     "n": 5,
+     "q": "What is the mass of BlueBird Block-2? (in kg)"
+    },
+    {
+     "n": 6,
+     "q": "Which commercial interface of ISRO facilitated the BlueBird Block-2 launch? (name or acronym)"
+    },
+    {
+     "n": 7,
+     "q": "Majuli, the world's largest river island, lies on which river? (name of river)"
+    }
+   ]
+  },
+  {
+   "id": "q-x09-58",
+   "type": "MCQ",
+   "passage": "Pax Silica is a US-led strategic geo-economic and technology initiative. Its stated focus is building a secure, resilient and innovation-driven silicon supply chain. One of its key objectives is to reduce strategic dependencies on concentrated supply chains, while another is to strengthen technological leadership in semiconductors and AI.\n\nSoLAR stands for Solar Irrigation for Agricultural Resilience. It aims to expand climate-resilient, solar-powered irrigation systems across South Asia and East Africa. The initiative seeks equitable and sustainable access for small and marginal farmers, and it promotes resilient agriculture under changing climate conditions.\n\nOn the 50th anniversary of the Biological Weapons Convention, India called for stronger global biosecurity, compliance and the promotion of peaceful uses of biological science. The convention is described as the first multilateral, legally binding disarmament treaty that eliminates an entire category of weapons of mass destruction. The convention is administered by the United Nations Office for Disarmament Affairs.\n\nThe Asian Development Bank works to promote sustainable, inclusive and climate-resilient economic development in Asia and the Pacific.\n\nUNESCO, the United Nations Educational, Scientific and Cultural Organization, aims to foster shared humanity through education, science, culture and communication. UNESCO was established in 1945 and the organisation is headquartered in Paris, France. India has been re-elected to its Executive Board for 2025 to 2029.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which of the following countries is covered by SoLAR Phase II?",
+     "options": [
+      "Nepal",
+      "Bangladesh",
+      "Sri Lanka",
+      "Bhutan"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which convention, adopted in 1960, is described as the first legally binding international treaty devoted exclusively to the right to education?",
+     "options": [
+      "Biological Weapons Convention",
+      "Antarctic Treaty",
+      "Kimberley Process Certification Scheme",
+      "UNESCO Convention against Discrimination in Education"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "In the Kimberley Process, what term refers to rough diamonds used by rebel groups or their affiliates to finance armed conflicts against legitimate governments?",
+     "options": [
+      "Conflict diamonds",
+      "Artisanal diamonds",
+      "Industrial diamonds",
+      "Synthetic diamonds"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Read the two statements.\nAssertion (A): India is excluded from the US-led Pax Silica initiative.\nReason (R): Pax Silica covers the entire silicon value chain, from critical minerals to chips, AI infrastructure and logistics.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Biological Weapons Convention (opened for signature)   ->   A. 1966\nII. Asian Development Bank (established)   ->   B. 2019\nIII. India's chairmanship of the Kimberley Process (began)   ->   C. 1972\nIV. SoLAR Phase I (began)   ->   D. 2026",
+     "options": [
+      "I-B, II-C, III-A, IV-D",
+      "I-C, II-A, III-D, IV-B",
+      "I-A, II-B, III-D, IV-C",
+      "I-C, II-B, III-D, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. The Biological Weapons Convention prohibits the acquisition and transfer of biological and toxin weapons.\nII. The Asian Development Bank is headquartered in Manila.\nIII. The ADB revised India's FY26 GDP growth forecast down to 6.5 per cent.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I, II and III",
+      "I and II only",
+      "I and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. Pax Silica's scope is limited to critical minerals and energy inputs.\nII. SoLAR Phase I was implemented by the International Water Management Institute and the Swiss Agency for Development and Cooperation.\nIII. The Kimberley Process is a tripartite mechanism involving national governments, the international diamond industry and civil society organisations.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only three",
+      "Only two",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-59",
+   "type": "TITA",
+   "passage": "Pax Silica is a US-led strategic geo-economic and technology initiative. It focuses on building a secure, resilient and innovation-driven silicon supply chain, and its scope spans critical minerals, chips, AI infrastructure and logistics. Its key objectives include reducing strategic dependencies on concentrated supply chains.\n\nSoLAR stands for Solar Irrigation for Agricultural Resilience and aims to expand climate-resilient, solar-powered irrigation across South Asia and East Africa. Its first phase focused on pilot interventions and on demonstrating solar irrigation models in South Asia. The initiative seeks equitable and sustainable access for small and marginal farmers.\n\nThe Biological Weapons Convention marked its 50th anniversary, and India called for stronger global biosecurity and compliance. The convention prohibits development, production, stockpiling and use of biological and toxin weapons. The convention is administered by the United Nations Office for Disarmament Affairs.\n\nUNESCO is a specialised UN agency dedicated to fostering shared humanity through education, science, culture and communication.\n\nThe Asian Development Bank promotes sustainable, inclusive and climate-resilient economic development in Asia and the Pacific. In a recent update, it revised India's FY26 GDP growth forecast upward, from an earlier projection of 6.5 per cent.\n\nThe Kimberley Process is a tripartite global mechanism involving national governments, the international diamond industry and civil society organisations. The Kimberley Process aims to ensure that the global diamond trade does not fuel armed conflict or instability.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Name the Gulf country that is a member of the US-led Pax Silica initiative. (country)"
+    },
+    {
+     "n": 2,
+     "q": "In which city is the International Water Management Institute, which implemented SoLAR Phase I, located? (city)"
+    },
+    {
+     "n": 3,
+     "q": "In which city is the UN Office for Disarmament Affairs, which administers the Biological Weapons Convention, located? (city)"
+    },
+    {
+     "n": 4,
+     "q": "In which city is UNESCO headquartered? (city)"
+    },
+    {
+     "n": 5,
+     "q": "Who is the Director-General of UNESCO? (name)"
+    },
+    {
+     "n": 6,
+     "q": "In which year did the Biological Weapons Convention enter into force? (year)"
+    },
+    {
+     "n": 7,
+     "q": "What percentage shareholding does Japan hold in the Asian Development Bank? (in per cent)"
+    }
+   ]
+  }
+ ]
+}

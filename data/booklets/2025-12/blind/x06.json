@@ -1,0 +1,401 @@
+{
+ "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Dec 2025 Repo Rate Cut and Goldilocks Phase",
+   "summary": "In December 2025 the RBI cut the repo rate by 25 basis points to 5.25%, its fourth reduction in 2025. The RBI said the cut aims to sustain a Goldilocks phase of strong growth and low inflation. Inflation had fallen below the lower tolerance band, giving the central bank room to ease while growth stayed robust.",
+   "facts": [
+    "RBI cut the repo rate by 25 basis points to 5.25% in December 2025.",
+    "The December 2025 cut was the 4th reduction by RBI in 2025.",
+    "Total reduction by RBI in 2025 was 125 basis points.",
+    "Goldilocks phase means not too hot (high inflation) and not too cold (low growth).",
+    "Goldilocks phase enables balanced and sustainable expansion.",
+    "GDP growth was 8.2% in Q2 FY2025-26.",
+    "Inflation was 1.7% in Q2 and dipped to 0.3% in October 2025.",
+    "Inflation fell below the 2% lower tolerance band of the RBI framework.",
+    "Reasons for cut: sustained disinflation, strong growth momentum, external risks."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Repo Rate Transmission and Other Instruments",
+   "summary": "The repo rate is the rate at which RBI lends to commercial banks, and it moves borrowing costs across the economy. RBI raises it to curb spending when inflation is high and lowers it to pump money in during a liquidity crunch. Other tools include the reverse repo rate, Bank Rate, MSF, CRR, SLR and open market operations.",
+   "facts": [
+    "Repo stands for 'Repurchasing Option' or 'Repurchase Agreement'.",
+    "Repo rate is the rate at which RBI lends money to commercial banks.",
+    "Reverse repo rate is the rate at which RBI borrows money from commercial banks.",
+    "In high inflation, RBI increases the repo rate to reduce the flow of money.",
+    "A higher repo rate makes loans costlier for banks and borrowing costly for businesses.",
+    "In a short-term liquidity crunch, RBI lowers the repo rate to pump funds into the economy.",
+    "Bank Rate is a long-term rate at which the central bank lends to other banks.",
+    "MSF is a window for banks to borrow overnight funds at a higher rate than the repo rate.",
+    "CRR is the proportion of deposits banks must hold as cash with RBI.",
+    "SLR is the minimum share of deposits banks must hold as liquid cash, gold or other securities.",
+    "Open market operations: purchase or sale of government securities to inject or absorb liquidity."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Monetary Policy Committee and Inflation Targeting",
+   "summary": "The MPC is a statutory body that sets the benchmark policy rate needed to contain inflation within the target range. It has six members, the RBI Governor chairs it ex officio, and decisions are taken by majority vote with the Governor holding a casting vote in a tie. India's flexible inflation targeting uses a 4% target with a 2% tolerance band, formalised by the Urjit Patel Committee (2014).",
+   "facts": [
+    "The MPC is a statutory body under the RBI Act, 1934.",
+    "The Central Government is empowered to constitute a six-member MPC.",
+    "MPC members: RBI Governor, Deputy Governor in charge of monetary policy, one RBI officer nominated by the central board, and three members appointed by the Central Government.",
+    "The RBI Governor is the ex-officio chairperson of the MPC.",
+    "The MPC must meet at least four times a year.",
+    "Quorum is four members, including the RBI Governor or, in his absence, the Deputy Governor.",
+    "Decisions are by majority vote; the Governor has a casting vote in a tie.",
+    "MPC decisions are binding on banks.",
+    "Inflation target is 4% with a 2% band (2% to 6%).",
+    "India adopted flexible inflation targeting in 2016.",
+    "Urjit Patel Committee (2014) formalised inflation targeting; the target was first proposed by the Chakravarty Committee (1982-85).",
+    "The inflation target is set by the government in consultation with RBI every 5 years.",
+    "RBI releases a Monetary Policy Report every six months, forecasting inflation 6-18 months ahead."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Inflation Measures: CPI, WPI and GDP Deflator",
+   "summary": "Inflation is an increase in the overall prices of goods and services in an economy over time, and it is tracked through several indices. CPI measures retail inflation and covers both goods and services, while WPI covers only goods and reflects wholesale prices. The GDP deflator compares annual production value at current prices with a base year.",
+   "facts": [
+    "Inflation is an increase in the overall prices of goods and services in an economy over time.",
+    "CPI measures inflation in the retail market.",
+    "CPI has a base year of 2012.",
+    "CPI is released by the National Statistical Office (NSO).",
+    "CPI includes both goods and services.",
+    "CPI reflects up-to-date expenditure patterns.",
+    "WPI includes only goods and does not consider the services sector.",
+    "WPI is released by the Office of Economic Advisor, Ministry of Commerce and Industry.",
+    "GDP deflator compares annual production value at current prices to a base year."
+   ]
+  },
+  {
+   "i": 4,
+   "title": "RBI: Origins and Core Functions",
+   "summary": "The RBI is the central bank responsible for managing India's financial system. It was established on April 1 in Calcutta, was later nationalised from private stakeholders, and performs supervisory, monetary, currency and banking roles. Its concept was inspired by Dr. Ambedkar's strategies in his book on the rupee.",
+   "facts": [
+    "RBI is the central bank responsible for managing the country's financial system.",
+    "RBI's concept was inspired by Dr. Ambedkar's strategies in his book 'The Problem of the Rupee'.",
+    "RBI was established on April 1 in Calcutta.",
+    "RBI was nationalised; it was previously owned by private stakeholders.",
+    "Supervisory function: issue bank licences, open branches, set minimum reserves and inspect commercial banks.",
+    "Monetary authority: maintain price stability while promoting economic growth.",
+    "Issuer of currency: exchanges and destroys currency notes.",
+    "Manager of foreign exchange and custodian of India's forex reserves.",
+    "Lender of last resort and banker to the government and to other banks.",
+    "Custodian of the cash reserves of commercial banks.",
+    "Regulates the forex market through exchange rules."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x06-40",
+   "type": "MCQ",
+   "passage": "Monetary policy is formed and managed by the central bank to control a nation's overall money supply and to achieve economic growth. It differs from fiscal policy, which is managed by the Ministry of Finance and measures spending and taxation in the economy. The Reserve Bank of India releases a Monetary Policy Report once every six months, explaining the sources of inflation and forecasting it for six to eighteen months ahead. The Monetary Policy Committee is chaired by the RBI Governor and determines the policy rate required to achieve the inflation target. The repo rate is the central tool in this framework. When inflation is high, the central bank raises it so that the flow of money in the economy slows down. Borrowing becomes expensive for businesses and industries, investment slows, and excessive spending is curbed. Changes in this rate pass through to the cost of credit across the economy, so lenders and borrowers both feel the effect. The central bank also has other instruments at its disposal. Each of them acts on a different part of the banking system, and each is designed for a specific purpose. Together these tools let the central bank steer liquidity, price stability and growth in the economy, which is the broad aim of monetary policy.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What does the 'Repo' in 'repo rate' stand for?",
+     "options": [
+      "Reserve Pricing Offer",
+      "Regulated Payment Option",
+      "Repurchasing Option",
+      "Revised Purchase Obligation"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which rate is the rate at which RBI borrows money from commercial banks?",
+     "options": [
+      "Repo rate",
+      "Reverse repo rate",
+      "Bank Rate",
+      "Cash Reserve Ratio"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which facility allows banks to borrow overnight funds at a rate higher than the repo rate?",
+     "options": [
+      "Cash Reserve Ratio",
+      "Statutory Liquidity Ratio",
+      "Open market operations",
+      "Marginal Standing Facility"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): RBI lowers the repo rate when it needs to pump funds into the economy during a short-term liquidity crunch.\nReason (R): A lower repo rate makes loans cheaper for banks, which increases the overall supply of money in the economy.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements:\nI. A higher repo rate makes loans costlier for banks.\nII. Bank Rate is a short-term rate, while the repo rate is a long-term rate.\nIII. The Marginal Standing Facility lets banks borrow overnight funds at a rate lower than the repo rate.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements about monetary policy tools are correct?\nI. Open market operations are used to inject or absorb liquidity.\nII. Bank Rate is a long-term rate at which the central bank lends to other banks.\nIII. The reverse repo rate is the rate at which RBI lends money to commercial banks.",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x06-41",
+   "type": "TITA",
+   "passage": "The central bank steers the economy through the interest rates it sets, and the repo rate is one of its main tools in this context. When inflation is high, raising the rate makes borrowing expensive, which discourages spending and slows the flow of money in the economy. Monetary policy is formed and managed by the central bank to control a nation's overall money supply and to achieve economic growth. It differs from fiscal policy, which is managed by the Ministry of Finance and measures spending and taxation. The Reserve Bank of India releases a Monetary Policy Report once every six months, explaining the sources of inflation and forecasting it for six to eighteen months ahead. Inflation targeting is a monetary policy framework in which the central bank aims to keep the rate of inflation within a targeted range that is defined in advance. Apart from the repo rate, the central bank has several other instruments, and each of them acts on a different part of the banking system. The central bank uses these tools together to balance liquidity, price stability and growth, which are the goals of monetary policy. The Reserve Bank of India is the central bank responsible for managing the country's financial system, and its policy tools are read together with the rate decisions it announces.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the abbreviation for the ratio of deposits that banks must hold as cash with the RBI? (abbreviation)"
+    },
+    {
+     "n": 2,
+     "q": "Which long-term rate, unlike the short-term repo rate, is charged by the central bank when it lends to other banks? (name the rate)"
+    },
+    {
+     "n": 3,
+     "q": "What does the abbreviation MSF stand for? (name the facility)"
+    },
+    {
+     "n": 4,
+     "q": "What is the abbreviation for the statutory minimum share of deposits that banks hold as liquid cash, gold or other securities? (abbreviation)"
+    },
+    {
+     "n": 5,
+     "q": "What does the 'Repo' in 'repo rate' stand for? (name the two-word term)"
+    },
+    {
+     "n": 6,
+     "q": "Which tool involves the buying or selling of government securities to inject or absorb liquidity? (name the tool)"
+    },
+    {
+     "n": 7,
+     "q": "What is the rate at which RBI borrows money from commercial banks called? (name the rate)"
+    }
+   ]
+  },
+  {
+   "id": "q-x06-42",
+   "type": "MCQ",
+   "passage": "Prices in an economy do not all move together, so official statisticians rely on several indices to track them. Each index is built with its own scope and method. One widely used measure groups household spending into commodity groups such as food, fuel and light, clothing and footwear, housing, pan, tobacco and intoxicants, and miscellaneous items. The same kind of measure also appears in separate versions for agricultural labourers, rural labourers and industrial workers. Each commodity group carries a weight, expressed as a percentage, that determines how much it influences the final figure. A group with a higher weight therefore matters more to the index. The choice of index changes what a number means, so readers must check what each one covers before comparing figures. Some measures capture a broad range of spending, while others rely on a narrower set of items. Two sources that track the same period can therefore show different movements, even when both are official. Knowing what each series includes is the starting point for reading any published price figure. Index values are compared with a reference point, and the coverage of each measure determines which prices enter that comparison. Some measures are built on a narrow set of commodities, while others are compiled from a much wider set of items.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which year is the base year of the Consumer Price Index?",
+     "options": [
+      "2010",
+      "2012",
+      "2015",
+      "2018"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which body releases the Wholesale Price Index?",
+     "options": [
+      "National Statistical Office",
+      "Reserve Bank of India",
+      "Office of Economic Advisor, Ministry of Commerce and Industry",
+      "Ministry of Finance"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which index is described as reflecting up-to-date expenditure patterns?",
+     "options": [
+      "WPI",
+      "GDP deflator",
+      "Consumer Food Price Index",
+      "CPI"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): WPI is a measure of wholesale prices.\nReason (R): WPI includes only goods and does not consider the services sector.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements:\nI. CPI includes both goods and services.\nII. WPI is released by the National Statistical Office.\nIII. Inflation is a fall in the overall prices of goods and services over time.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements about price indices are correct?\nI. Inflation refers to an increase in the overall prices of goods and services in an economy over time.\nII. CPI is released by the Office of Economic Advisor.\nIII. GDP deflator measures wholesale prices alone.",
+     "options": [
+      "Only one",
+      "Only two",
+      "All of the above",
+      "Only three"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x06-43",
+   "type": "TITA",
+   "passage": "Price movements in an economy are followed through statistical indices rather than through a single figure. An index tracks a set of goods and services over time and compares their prices with those in a chosen base period. Each item in the set is given a weight, usually expressed as a percentage, which shows how much that item contributes to the final number. Because the set of items and the weights differ from one index to another, the same economy can present different figures depending on the index used. One index breaks household spending into groups such as food, fuel and light, clothing and footwear, housing, and miscellaneous items, each with its own percentage weight. The publishing body and the method note therefore matter as much as the headline value. A reader who wishes to compare two numbers should first check which goods and services each index includes, whether the index covers services, and which period is treated as the reference. Changes measured from the base period are read as movements in the index, and a rise or fall in the value shows how the set of items has moved. Careful readers therefore look at coverage, weights and reference period together before deciding what a change in an index means.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the base year of the Consumer Price Index? (year)"
+    },
+    {
+     "n": 2,
+     "q": "Which agency releases the Consumer Price Index? (acronym)"
+    },
+    {
+     "n": 3,
+     "q": "Under which ministry does the Office of Economic Advisor, which releases the WPI, function? (name the ministry)"
+    },
+    {
+     "n": 4,
+     "q": "Which index covers only goods and does not consider the services sector? (abbreviation)"
+    },
+    {
+     "n": 5,
+     "q": "What is the name of the measure that compares annual production value at current prices with a base year? (name)"
+    },
+    {
+     "n": 6,
+     "q": "Which index has separate versions for agricultural labourers, rural labourers and industrial workers? (abbreviation)"
+    },
+    {
+     "n": 7,
+     "q": "What is the term for an increase in the overall prices of goods and services in an economy over time? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x06-44",
+   "type": "MCQ",
+   "passage": "The Reserve Bank of India is the institution that the country relies on for managing its financial system. Its role has grown over time, and it now touches the government, the banking sector and the wider public. The Bank sets policy and keeps watch over the institutions that carry it out. Among its responsibilities it holds and manages the foreign exchange reserves that the country maintains. The Bank was created after a period of official consideration, under a law passed when the country was under foreign rule. Its work is defined by statute, and that statute gives it powers over money and banking. Monetary policy, which the Bank manages, differs from fiscal policy handled by the Ministry of Finance, which deals with government spending and taxation. The Bank publishes a Monetary Policy Report once every six months to explain the sources of inflation. The RBI Governor is the ex-officio chairperson of the Monetary Policy Committee, which determines the policy rate needed to meet the inflation target. The Bank's influence on everyday finance is therefore broad, and its statute defines the scope of its authority. The Bank's presence is felt in everyday finance, through the notes people carry, the rates banks charge and the rules that govern the wider system.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which commission recommended the establishment of the Reserve Bank of India?",
+     "options": [
+      "Chakravarty Committee",
+      "Hilton Young Commission",
+      "Urjit Patel Committee",
+      "Simon Commission"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Dr. Ambedkar's strategies, set out in his book on the rupee, inspired the concept of which institution?",
+     "options": [
+      "The Monetary Policy Committee",
+      "The Finance Commission",
+      "The Reserve Bank of India",
+      "The Securities and Exchange Board of India"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "On what date was the Reserve Bank of India established?",
+     "options": [
+      "January 26",
+      "April 1",
+      "August 15",
+      "July 1"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The RBI acts as banker to the Government of India.\nReason (R): The RBI manages all financial operations of the Central Government under the RBI Act of 1934.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements:\nI. The RBI is the custodian of the cash reserves of commercial banks.\nII. The RBI has been privately owned since its establishment.\nIII. The RBI intervenes to stabilise USD/INR currency volatility.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements about the RBI are correct?\nI. The RBI can grant bank licences and inspect commercial banks.\nII. The RBI's concept was inspired by a book written by Mahatma Gandhi.\nIII. The RBI regulates the forex market through exchange rules.",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x06-45",
+   "type": "TITA",
+   "passage": "The Reserve Bank of India sits at the centre of the country's financial system. The institution was not always under public control, since it began with private stakeholders before the state took over. It was set up under a law passed by the British government and began operating in an eastern city, on a fixed day of the year. Its tasks are varied. It grants bank licences, approves the opening of branches and inspects banks. In the foreign exchange area it holds the country's reserves, manages its dealings and enforces exchange rules. It also manages the financial affairs of the central government and provides advances to state governments through agreements. The Bank acts as a banker to other banks and to the government. Monetary policy, which the Bank manages, differs from fiscal policy handled by the Ministry of Finance. The Bank also publishes a Monetary Policy Report and intervenes to limit volatility in the rupee against the dollar. Its functions are set out in the RBI Act of 1934, and that Act sets the framework within which the Bank works with the government, the banking sector and the public. The Bank's tasks are discharged across its offices and departments in the country. Together these roles make the Bank a central point of the country's money and banking system.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which commission recommended the establishment of the RBI? (name)"
+    },
+    {
+     "n": 2,
+     "q": "In which city was the RBI established? (name the city)"
+    },
+    {
+     "n": 3,
+     "q": "On which day and month was the RBI established? (day and month)"
+    },
+    {
+     "n": 4,
+     "q": "Dr. Ambedkar's book, whose ideas inspired the RBI's concept, has what title? (name the title)"
+    },
+    {
+     "n": 5,
+     "q": "The RBI acts as custodian of the cash reserves of which institutions? (name, two words)"
+    },
+    {
+     "n": 6,
+     "q": "What is the name of the RBI's role of formulating policy to keep prices steady while promoting growth? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "What is the name of the function under which the RBI exchanges and destroys currency notes? (two words)"
+    }
+   ]
+  }
+ ]
+}
