@@ -119,10 +119,10 @@
      "n": 5,
      "q": "Match List I with List II:\nI. Syria   ->   A. Rank 157th with score 31.96\nII. Niger   ->   B. Sharpest rise after political transition\nIII. India   ->   C. Second-highest score at 88.92\nIV. Netherlands   ->   D. Steepest ranking fall due to military rule",
      "options": [
-      "I-D, II-C, III-B, IV-A",
+      "I-C, II-B, III-D, IV-A",
       "I-B, II-D, III-A, IV-C",
-      "I-C, II-D, III-B, IV-A",
-      "I-C, II-B, III-D, IV-A"
+      "I-D, II-C, III-B, IV-A",
+      "I-C, II-D, III-B, IV-A"
      ]
     },
     {

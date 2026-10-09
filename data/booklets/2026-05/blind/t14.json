@@ -97,10 +97,10 @@
      "n": 3,
      "q": "Match List I with List II:\nI. Tea Board   ->   A. Implemented by the Ministry of External Affairs\nII. European Central Bank   ->   B. Created under the Tea Act 1953\nIII. Eurozone   ->   C. Headquartered in Frankfurt\nIV. SEEDS   ->   D. 21 member countries",
      "options": [
-      "I-B, II-C, III-A, IV-D",
-      "I-B, II-C, III-D, IV-A",
       "I-D, II-A, III-B, IV-C",
-      "I-D, II-C, III-B, IV-A"
+      "I-B, II-C, III-D, IV-A",
+      "I-D, II-C, III-B, IV-A",
+      "I-B, II-C, III-A, IV-D"
      ]
     },
     {

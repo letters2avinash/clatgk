@@ -124,9 +124,9 @@
      "n": 4,
      "q": "Match List I with List II:\nI. Trishul missile test   ->   A. First successful test flight\nII. Hansa-3 test flight   ->   B. Three nuclear tests on 11 May 1998\nIII. Pokhran-II first set   ->   C. India's first nuclear test ('Smiling Buddha')\nIV. Pokhran-I   ->   D. Short-range surface-to-air missile",
      "options": [
-      "I-D, II-A, III-C, IV-B",
       "I-B, II-D, III-C, IV-A",
       "I-B, II-A, III-C, IV-D",
+      "I-D, II-A, III-C, IV-B",
       "I-D, II-A, III-B, IV-C"
      ]
     },

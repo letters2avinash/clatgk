@@ -103,10 +103,10 @@
      "n": 3,
      "q": "Match List I with List II:\nI. Governance reforms   ->   A. Computer Adaptive Testing\nII. Institutional restructuring   ->   B. Technology-enabled authentication system\nIII. Digi-Exam framework   ->   C. Empowered governing body with sub-committees\nIV. Shift towards online examinations   ->   D. Creation of 10 new posts",
      "options": [
-      "I-C, II-A, III-B, IV-D",
       "I-A, II-B, III-C, IV-D",
+      "I-B, II-C, III-A, IV-D",
       "I-C, II-D, III-B, IV-A",
-      "I-B, II-C, III-A, IV-D"
+      "I-C, II-A, III-B, IV-D"
      ]
     },
     {

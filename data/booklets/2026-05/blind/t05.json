@@ -100,10 +100,10 @@
      "n": 3,
      "q": "Match List I with List II:\nI. Justice Soumitra Sen (2011)   ->   A. Resigned before impeachment proceedings could be initiated\nII. Justice Ramaswami (1993)   ->   B. Motion failed due to lack of signatures\nIII. Justice C. V. Nagarjuna (2017)   ->   C. Motion failed as Lok Sabha abstained from voting\nIV. PD Dinakaran (2011)   ->   D. Impeached in Rajya Sabha but resigned before Lok Sabha discussion",
      "options": [
-      "I-A, II-D, III-C, IV-B",
       "I-C, II-B, III-A, IV-D",
+      "I-C, II-A, III-B, IV-D",
       "I-D, II-C, III-B, IV-A",
-      "I-C, II-A, III-B, IV-D"
+      "I-A, II-D, III-C, IV-B"
      ]
     },
     {

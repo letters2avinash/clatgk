@@ -86,7 +86,7 @@ def fix_match(x, rnd):
     while len(opts) < 4:
         pl = list(LET); rnd.shuffle(pl); c = fmt(dict(zip(ROM, pl)))
         if c != correct and all(dict(zip(ROM, pl))[r] != LET[ROM.index(r)] for r in ROM[:0]): opts.add(c)
-    others = [o for o in opts if o != correct]; rnd.shuffle(others)
+    others = sorted(o for o in opts if o != correct); rnd.shuffle(others)
     new = others[:]; new.insert(x["answer"], correct)
     rows = "\n".join(f"{r}. {l1[r]}   ->   {LET[j]}. {shown[j]}" for j, r in enumerate(ROM))
     x["q"] = "Match List I with List II:\n" + rows; x["options"] = new
