@@ -1,0 +1,298 @@
+{
+ "topic": "Global Gender Gap Index 2026",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Report Basics and Scoring",
+   "summary": "The Global Gender Gap Report is an annual flagship publication of the World Economic Forum, introduced in 2006. It tracks how far countries have closed gender disparities rather than only counting women's absolute outcomes. Each country is scored from 0 to 1, and the scores are also expressed on a 0-100 scale where 100 means complete parity. The index is built on four dimensions.",
+   "facts": [
+    "Introduced in 2006 by the World Economic Forum",
+    "The 2026 report is the 20th edition",
+    "Annual flagship publication of the World Economic Forum",
+    "Tracks closing of gender disparities, not women's absolute outcomes",
+    "Four dimensions: Economic Participation and Opportunity, Educational Attainment, Health and Survival, Political Empowerment",
+    "Score of 0 reflects absolute inequality; score of 1 means complete gender equality",
+    "Scores expressed on a 0-100 scale; 100 represents complete parity",
+    "World Economic Forum is a Switzerland-based think tank and advocacy group",
+    "The Forum was founded by Klaus Schwab in 1971"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Global Highlights and Leadership",
+   "summary": "Iceland retained the first position for the 17th consecutive year, while Chad ranked last among 145 countries. The world has closed 69.2% of the overall gender gap, improving by only 0.4 percentage points in the year. At the current pace, complete parity could take about 120 years. Women hold 19.1% of CEO positions globally.",
+   "facts": [
+    "Iceland retained 1st position for the 17th consecutive year",
+    "Iceland closed around 93% of its gender gap",
+    "Finland and Norway followed Iceland",
+    "Australia entered the global top 10 for the first time",
+    "Chad ranked 145th, lowest among the 145 countries covered",
+    "Pakistan and Iran were among the three lowest-ranked countries",
+    "World has closed 69.2% of the overall gender gap",
+    "Global parity improved by only 0.4 percentage points over the previous year",
+    "Complete global parity could take about 120 years at the present rate of progress",
+    "Women hold 19.1% of CEO positions globally"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "India's Performance",
+   "summary": "India retained its 131st position among 145 countries, with an overall gender parity score of 64.5%. Its dimension scores are 96.6% in educational attainment, 95.6% in health and survival, 41.2% in economic participation and opportunity, and 24.5% in political empowerment. Women hold only 5.9% of ministers and 13.1% of senior leadership and managerial positions. The booklet notes that progress in education and health has not yet carried over to the economic and political dimensions.",
+   "facts": [
+    "India's rank: 131st of 145 countries, retaining its position",
+    "Overall gender parity score 64.5%, against a global average of 69.2%",
+    "Educational attainment: 96.6% parity",
+    "Health and survival: 95.6% parity",
+    "Economic participation and opportunity: 41.2%",
+    "Political empowerment: 24.5%",
+    "Women are 5.9% of ministers, compared with a peak of 30% in 2019",
+    "Women are 13.6% (74) of the 18th Lok Sabha in 2024, down from 14.4% in 2019",
+    "Women occupy 13.1% of senior leadership and managerial positions",
+    "Only 17% of CEOs and 20% of board members in Indian corporates are women"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Barriers and Government Initiatives",
+   "summary": "Women spend nearly five hours a day on unpaid household chores, three times more than men, and this unpaid work is valued at 22.7 lakh crore or 7.5% of GDP. Labour market, workplace safety and childcare issues continue to hinder women's participation. The Nari Shakti Vandan Adhiniyam mandates 33% representation for women in legislatures. Schemes such as Beti Bachao Beti Padhao, PM Matru Vandana Yojana and Pradhan Mantri Jan-Dhan Yojana support girls' education, maternal health and financial access.",
+   "facts": [
+    "Women spend nearly 5 hours daily on unpaid household chores, three times more than men",
+    "Unpaid work is valued at 22.7 lakh crore, or 7.5% of GDP",
+    "Most women are in informal, low-paid roles despite rising participation",
+    "Workplace safety concerns and inadequate childcare are major hurdles",
+    "40% of girls aged 15-18 are not in school",
+    "Female labour participation grew from 23.3% (2017-18) to 41.7% (2023-24)",
+    "Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment, 2023) mandates 33% representation for women in legislatures",
+    "Beti Bachao Beti Padhao (2015) targets the falling child sex ratio",
+    "Over 28 crore women have Jan Dhan bank accounts",
+    "Maternal health programmes have cut the maternal mortality rate from 174 to 97"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x13-90",
+   "type": "MCQ",
+   "passage": "The Global Gender Gap Index is an annual flagship publication of the World Economic Forum. It tracks the extent to which countries have closed gender disparities, rather than simply measuring women's absolute outcomes. The index has four dimensions: economic participation and opportunity, educational attainment, health and survival, and political empowerment. Each nation is scored from 0 to 1, and the scores are expressed on a 0-100 scale, where 100 represents complete parity. In the 2026 report, India retained its position in the rankings. Its performance is uneven across the dimensions. In educational attainment and in health and survival, India's scores are close to complete parity, and the booklet describes near-complete parity between boys and girls in secondary and tertiary enrolment. Economic participation and political empowerment show far wider gaps. Women are a small share of ministers and of members of the Lok Sabha, and they hold a limited share of senior leadership and managerial posts. In corporate India, women are also few among chief executives and board members. The booklet notes that progress in education and health has not yet carried over to the economic and political dimensions. The booklet also notes that women's share among professional and technical workers has increased, even as women remain under-represented in senior roles. Overall, the booklet presents India's gender gap as a mix of strong and weak dimensions.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What was the peak share of women ministers in India, according to the booklet?",
+     "options": [
+      "14.4%",
+      "5.9%",
+      "30%",
+      "13.1%"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Assertion (A): India's score in economic participation and opportunity is lower than its score in educational attainment.\nReason (R): The index is expressed on a 0-100 scale, where 100 represents complete parity.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What share of the 18th Lok Sabha elected in 2024 was women?",
+     "options": [
+      "13.6%",
+      "14.4%",
+      "13.1%",
+      "5.9%"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "How many of the following statements about India's performance are correct?\nI. India's score in educational attainment is 96.6%.\nII. Women hold 24.5% of senior leadership and managerial positions in India.\nIII. Women hold 13.1% of senior leadership and managerial positions in India.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements:\nI. Women are 17% of CEOs in Indian corporates.\nII. Women are 20% of board members in Indian corporates.\nIII. Women are 30% of ministers in India in 2026.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I, II and III",
+      "II and III only",
+      "I and III only",
+      "I and II only"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "According to the 2026 report, what share of ministers in India are women?",
+     "options": [
+      "13.6%",
+      "5.9%",
+      "14.4%",
+      "24.5%"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Match List I with List II:\nI. Educational attainment   ->   A. 24.5%\nII. Health and survival   ->   B. 96.6%\nIII. Economic participation and opportunity   ->   C. 95.6%\nIV. Political empowerment   ->   D. 41.2%",
+     "options": [
+      "I-B, II-D, III-C, IV-A",
+      "I-C, II-B, III-A, IV-D",
+      "I-B, II-C, III-D, IV-A",
+      "I-C, II-B, III-D, IV-A"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x13-91",
+   "type": "TITA",
+   "passage": "India's overall gender parity score in the 2026 report is 64.5%, and the booklet compares it with a global average. The country's performance differs sharply across the four dimensions. Education is its strongest area, and the booklet says India has attained near-complete parity between boys and girls in secondary and tertiary enrolment. Health and survival is also close to parity. Economic participation and political empowerment are much weaker. Women's share among professional and technical workers has nearly doubled since 2006, which shows some progress in the workforce. However, few women reach the top. The booklet notes low representation in leadership, with few women among chief executives and board members in Indian corporates. In the political sphere, women hold a small share of seats in the Lok Sabha, and their share of ministers has fallen from an earlier peak. Among the booklet's figures for the workforce, women hold a notable share of professional roles, but few hold the most senior positions. Women are also underrepresented in senior leadership and managerial positions. The booklet notes that gains in education and health have not yet translated into the economic and political dimensions. In the Lok Sabha, women's share in 2024 is below their share in 2019. The overall picture is one of progress in some areas and persistent gaps in others.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What per cent of board members in Indian corporates are women?"
+    },
+    {
+     "n": 2,
+     "q": "What per cent of CEOs in Indian corporates are women?"
+    },
+    {
+     "n": 3,
+     "q": "What is India's score in economic participation and opportunity, in per cent?"
+    },
+    {
+     "n": 4,
+     "q": "What is India's score in health and survival, in per cent?"
+    },
+    {
+     "n": 5,
+     "q": "What per cent of professional and technical workers in India are women, according to the booklet?"
+    },
+    {
+     "n": 6,
+     "q": "What was women's share in the Lok Sabha in 2019, in per cent?"
+    },
+    {
+     "n": 7,
+     "q": "What is India's score in political empowerment, in per cent?"
+    }
+   ]
+  },
+  {
+   "id": "q-x13-92",
+   "type": "MCQ",
+   "passage": "Women's participation in India's labour market has risen between 2017-18 and 2023-24, but much of their work remains in informal, low-paid roles. Workplace safety concerns and inadequate childcare are among the major hurdles they face. Women also carry a heavy load of unpaid domestic work, and the booklet puts a value on this work in economic terms. Girls' education faces obstacles too. A considerable share of girls aged 15 to 18 are not in school, and many drop out because of a lack of hygiene infrastructure and societal stigma. Female literacy also trails male literacy. Government programmes respond to these gaps by supporting girls' education, maternal health and women's access to financial services. Maternal health programmes have contributed to a fall in maternal mortality, and the National Health Mission aims to deliver affordable, quality healthcare to India's most vulnerable. The booklet also notes that many government programmes face setbacks due to poor outreach, lack of awareness and weak execution, especially in remote and rural areas. Constitutional provisions also address women's representation in legislatures. The booklet lists these challenges in its section on barriers to gender equality in India. In the education system, female literacy is set against male literacy as one of the gaps the booklet highlights. The booklet describes participation as rising despite most women remaining in informal, low-paid roles.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What was female labour participation in India in 2017-18, according to the booklet?",
+     "options": [
+      "13.3%",
+      "23.3%",
+      "32.3%",
+      "33.3%"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Maternal health programmes have cut the maternal mortality rate to what level, according to the booklet?",
+     "options": [
+      "79",
+      "87",
+      "97",
+      "107"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "The Nari Shakti Vandan Adhiniyam is which Constitutional Amendment Act?",
+     "options": [
+      "101st",
+      "104th",
+      "110th",
+      "106th"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Most women in India are in formal, high-paid jobs.\nReason (R): Most women in India are in informal, low-paid roles despite rising participation.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Beti Bachao Beti Padhao   ->   A. Financial access for women\nII. Pradhan Mantri Matru Vandana Yojana   ->   B. Falling child sex ratio\nIII. Pradhan Mantri Jan-Dhan Yojana   ->   C. Schoolgirls in STEM fields\nIV. Vigyan Jyoti   ->   D. Maternity benefits for pregnant and lactating women",
+     "options": [
+      "I-B, II-D, III-A, IV-C",
+      "I-A, II-C, III-D, IV-B",
+      "I-B, II-C, III-D, IV-A",
+      "I-B, II-A, III-C, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. Over 28 crore women have Jan Dhan bank accounts.\nII. The Nari Shakti Vandan Adhiniyam mandates 50% representation for women in legislatures.\nIII. Female labour participation grew from 23.3% (2017-18) to 41.7% (2023-24).\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements are correct?\nI. Unpaid household work is valued at 7.5% of GDP.\nII. Most girls aged 15 to 18 are not in school.\nIII. PM Matru Vandana Yojana was launched in 2017.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x13-93",
+   "type": "TITA",
+   "passage": "Several programmes aim to improve outcomes for girls and women. Beti Bachao Beti Padhao targets the falling child sex ratio and champions girls' survival, safety and schooling. Vigyan Jyoti is a flagship scheme that empowers meritorious schoolgirls to shine in STEM fields. Pradhan Mantri Jan-Dhan Yojana supports women's autonomy through financial access, and women have opened large numbers of bank accounts under it. The National Health Mission aims to deliver affordable, quality healthcare to India's most vulnerable. Pradhan Mantri Matru Vandana Yojana offers maternity benefits to pregnant and lactating women across India. Maternal health programmes have reduced the maternal mortality rate. Unpaid work is another part of the picture. Women spend many hours each day on household chores, and the booklet estimates the economic value of this unpaid work in lakh crore. Female literacy remains lower than male literacy, and a large share of girls in the 15 to 18 age group are outside school. Despite rising participation, most women remain in informal, low-paid work. Workplace safety concerns and inadequate childcare remain major hurdles for women at work. The Nari Shakti Vandan Adhiniyam mandates representation for women in legislatures. The booklet also notes that many government programmes face setbacks due to poor outreach and weak execution, especially in remote and rural areas.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the estimated economic value of women's unpaid domestic work, in lakh crore?"
+    },
+    {
+     "n": 2,
+     "q": "What per cent of girls aged 15 to 18 are not in school?"
+    },
+    {
+     "n": 3,
+     "q": "How many crore women have Jan Dhan bank accounts?"
+    },
+    {
+     "n": 4,
+     "q": "From what level did the maternal mortality rate fall to 97?"
+    },
+    {
+     "n": 5,
+     "q": "In which year was the National Health Mission introduced?"
+    },
+    {
+     "n": 6,
+     "q": "Which department runs the Vigyan Jyoti scheme?"
+    },
+    {
+     "n": 7,
+     "q": "What per cent is female literacy in India, according to the booklet?"
+    }
+   ]
+  }
+ ]
+}

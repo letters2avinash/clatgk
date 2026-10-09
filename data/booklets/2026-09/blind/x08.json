@@ -1,0 +1,293 @@
+{
+ "topic": "SEMICON India 2026",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Why Semiconductors Matter",
+   "summary": "Semiconductors are foundational to modern technology and are used in automobiles, healthcare, defence, aerospace, telecommunications and consumer electronics. Chips with billions of transistors power high-performance computing and artificial intelligence, within a global electronics industry valued at approximately USD 4.3 trillion. COVID-19 exposed the risks of concentrated global supply chains, which has pushed countries to build domestic capabilities.",
+   "facts": [
+    "Semiconductors are used in automobiles, healthcare, defence, aerospace, telecommunications and consumer electronics.",
+    "Availability of semiconductor components directly influences the resilience of digital and industrial supply chains.",
+    "Modern chips can contain billions of transistors within extremely small areas.",
+    "Leading-edge processors based on 3-nanometre technology can integrate tens of billions of transistors.",
+    "Such capabilities support high-performance computing, artificial intelligence and advanced digital applications.",
+    "The global electronics industry is valued at approximately USD 4.3 trillion.",
+    "COVID-19 exposed vulnerabilities arising from concentration in global semiconductor supply chains.",
+    "Countries have sought to develop domestic semiconductor capabilities and diversify sources.",
+    "Materials with conductivity between conductors and insulators, such as silicon and germanium, are semiconductors."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "SEMICON India Conference and Programme 1.0",
+   "summary": "SEMICON India is an annual flagship conference and exhibition that showcases India's semiconductor capabilities, and the 2026 edition is the fifth. PM Modi inaugurated it at Yashobhoomi, New Delhi, under the theme 'Silicon to Systems: Building the Ecosystem'. The Semicon India Programme, launched in 2021, aims to establish a complete semiconductor ecosystem in India, with focus on chip design, fabrication, advanced packaging, talent development, and research and innovation.",
+   "facts": [
+    "SEMICON India is an annual flagship semiconductor conference and exhibition.",
+    "The first edition of SEMICON India was held in Bengaluru in 2022.",
+    "The 2026 edition of SEMICON India is the fifth edition.",
+    "PM Modi inaugurated SEMICON India 2026 at Yashobhoomi, New Delhi.",
+    "The theme of SEMICON India 2026 is 'Silicon to Systems: Building the Ecosystem'.",
+    "SEMICON India is organised by the India Semiconductor Mission, the Ministry of Electronics and Information Technology and SEMI.",
+    "The Semicon India Programme was launched in 2021.",
+    "The objective of the programme is to establish a complete semiconductor ecosystem in India.",
+    "The programme focuses on chip design, fabrication, advanced packaging, talent development, and research and innovation."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Semicon India Programme 2.0 and Its Pillars",
+   "summary": "The Semicon India Programme 2.0 was approved in July 2026 as part of the India Semiconductor Mission, with an enhanced outlay of Rs 1,27,500 crore. It is a comprehensive, macro-level national policy framework that gives sustained, long-term financial and infrastructure support to the sector. Its six key pillars cover chip design, equipment and materials, fabrication facilities, advanced packaging, research and development, and talent development. So far 12 projects have been approved across 6 States.",
+   "facts": [
+    "Semicon India Programme 2.0 was approved in July 2026 and is part of the India Semiconductor Mission.",
+    "The enhanced outlay of Semicon India Programme 2.0 is Rs 1,27,500 crore.",
+    "Programme 2.0 is a comprehensive, macro-level national policy framework.",
+    "Programme 2.0 provides sustained, long-term financial and infrastructure support to the semiconductor sector.",
+    "The six key pillars are chip design, semiconductor equipment and materials, fabrication facilities (FABs), advanced packaging, research and development (R&D), and talent development.",
+    "12 semiconductor projects have been approved across 6 States."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Schemes, Missions and Global Partnerships",
+   "summary": "The India Semiconductor Mission (2021) is the nodal agency for semiconductor and display ecosystem schemes, and its 2.0 phase aims to make India a reliable and competitive player in the global value chain. Incentive schemes such as the PLI scheme (2020) and the Design-Linked Incentive scheme support manufacturing and design, while the Chips to Startup programme and the ChipIN Centre at C-DAC build design capacity. Internationally, India signed the iCET with the United States in 2022 and joined the Pax Silica coalition to strengthen supply-chain resilience.",
+   "facts": [
+    "The India Semiconductor Mission (2021) is the nodal agency for implementing Semiconductor and Display Ecosystem Schemes.",
+    "India Semiconductor Mission 2.0 aims to position India as a reliable and competitive player in the global semiconductor value chain.",
+    "A budgetary provision of Rs 21,000 crore has been made for FY 2026-27 to support ISM 2.0.",
+    "The Production Linked Incentive Scheme (2020) offers incentives based on incremental sales.",
+    "The PLI scheme includes 4-6% domestic production-linked incentives for electronics companies making mobile phones and specified components.",
+    "The Design-Linked Incentive (DLI) Scheme provides financial and infrastructure support to semiconductor design companies for over 5 years.",
+    "The Chips to Startup (C2S) Programme gives academic institutions access to Electronic Design Automation tools, training facilities and design infrastructure.",
+    "The ChipIN Centre at C-DAC was established under the C2S Programme and the DLI Scheme.",
+    "India signed the India-US iCET deal in 2022 to elevate the Indo-US strategic technology partnership.",
+    "India has joined the Pax Silica coalition to strengthen global semiconductor supply-chain resilience."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x08-66",
+   "type": "MCQ",
+   "passage": "Semiconductors are fundamental to modern technological systems, and they are built into a wide range of products. Automobiles and healthcare equipment are two of the many areas that depend on them, and consumer electronics relies on them as well. Because so much of modern life depends on these components, their availability shapes how resilient digital and industrial supply chains can be. Semiconductor materials have an electrical conductivity that falls between that of conductors and insulators, which is what makes them useful in electronic devices.\n\nChip design has advanced to the point where a single chip can hold billions of transistors packed into an extremely small area. The most advanced processors use very fine manufacturing technology and can integrate a very large number of transistors. Such capability supports demanding workloads and advanced digital applications. The electronics industry that these chips serve is very large, and semiconductors form part of its base in modern technology.\n\nThe way production is organised has also been questioned. Past disruptions showed how much risk comes from relying on a small number of places for supply. In response, many governments have looked for ways to build their own chip-making strength and to draw components from a wider set of sources.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "According to the booklet, which of the following sectors is one where semiconductors are widely used?",
+     "options": [
+      "Textiles",
+      "Mining",
+      "Shipping",
+      "Aerospace"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "According to the booklet, the global electronics industry is valued at approximately how many trillion US dollars?",
+     "options": [
+      "1.5",
+      "2.8",
+      "4.3",
+      "6.0"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which pair of materials is given in the booklet as examples of semiconductors?",
+     "options": [
+      "Silicon and germanium",
+      "Copper and iron",
+      "Gold and silver",
+      "Aluminium and carbon"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following two statements.\nAssertion (A): Availability of semiconductor components directly influences the resilience of digital and industrial supply chains.\nReason (R): Semiconductors are used in automobiles, healthcare, defence, aerospace, telecommunications and consumer electronics.\nSelect the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Leading-edge 3-nanometre processors   ->   A. Vulnerabilities from concentrated supply chains\nII. Global electronics industry   ->   B. Materials with conductivity between conductors and insulators\nIII. Silicon and germanium   ->   C. Tens of billions of transistors\nIV. COVID-19 pandemic   ->   D. Approximately USD 4.3 trillion",
+     "options": [
+      "I-A, II-D, III-B, IV-C",
+      "I-C, II-D, III-B, IV-A",
+      "I-D, II-B, III-C, IV-A",
+      "I-A, II-C, III-B, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. Semiconductors are used in automobiles, healthcare, defence, aerospace, telecommunications and consumer electronics.\nII. Modern chips can contain billions of transistors within extremely small areas.\nIII. Materials with conductivity greater than conductors are called semiconductors.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements are correct?\nI. Modern chips can contain billions of transistors within extremely small areas.\nII. COVID-19 exposed vulnerabilities arising from dispersion of global semiconductor supply chains.\nIII. Leading-edge processors based on 3-nanometre technology can integrate tens of billions of transistors.",
+     "options": [
+      "Only three",
+      "Only one",
+      "Only two",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-67",
+   "type": "TITA",
+   "passage": "Semiconductors are fundamental to modern technological systems, and they are built into a wide range of products. Automobiles and healthcare equipment are two of the many areas that depend on them, and consumer electronics relies on them as well. Because so much of modern life depends on these components, their availability shapes how resilient digital and industrial supply chains can be. Semiconductor materials have an electrical conductivity that falls between that of conductors and insulators, which is what makes them useful in electronic devices.\n\nChip design has advanced to the point where a single chip can hold billions of transistors packed into an extremely small area. The most advanced processors use very fine manufacturing technology and can integrate a very large number of transistors. Such capability supports demanding workloads and advanced digital applications. The electronics industry that these chips serve is very large, and semiconductors form part of its base in modern technology.\n\nThe way production is organised has also been questioned. Past disruptions showed how much risk comes from relying on a small number of places for supply. In response, many governments have looked for ways to build their own chip-making strength and to draw components from a wider set of sources.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In nanometres, what is the technology node of the leading-edge processors described in the booklet? (number only)"
+    },
+    {
+     "n": 2,
+     "q": "Semiconductors form a foundational layer of which broader value chain? (two words)"
+    },
+    {
+     "n": 3,
+     "q": "Which global event exposed vulnerabilities from concentration in semiconductor supply chains? (short name)"
+    },
+    {
+     "n": 4,
+     "q": "What is the approximate value, in trillion US dollars, of the global electronics industry? (number only)"
+    },
+    {
+     "n": 5,
+     "q": "Which material, with conductivity between conductors and insulators, is named alongside germanium? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "Besides high-performance computing, which advanced field is named as a use for such chip capabilities? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "Countries have sought to develop which kind of semiconductor capabilities and diversify their sources? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x08-68",
+   "type": "MCQ",
+   "passage": "SEMICON India is a conference and exhibition that showcases India's semiconductor capabilities. It gives the sector one place to display its progress, and each edition is an occasion to present the work done in chip-related fields. The event is staged alongside the national effort to build a domestic base for chips, which the government has pursued through a dedicated programme. Its organisation involves the India Semiconductor Mission, which serves as the nodal body for the schemes in this area. The gathering brings together displays of work from across the sector, which makes it a useful window into the country's chip-related strengths.\n\nThe Semicon India Programme is the central scheme behind this effort. Its objective is to establish a complete set of capabilities in the country, running from the creation of designs through to the production and packaging of chips. The programme's work is grouped into several connected areas, and it also covers the training of skilled people and the support of research and new ideas.\n\nSeveral projects have already been announced, with companies planning facilities in different parts of the country. Some of these projects involve partnerships between Indian companies and overseas firms, and they show how the programme's goals are being turned into physical units. The projects are spread across several states and cover different stages of chip making.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Who inaugurated SEMICON India 2026?",
+     "options": [
+      "President Droupadi Murmu",
+      "Union IT Minister",
+      "PM Modi",
+      "Chief Minister of Gujarat"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Where was the first edition of SEMICON India held in 2022?",
+     "options": [
+      "New Delhi",
+      "Hyderabad",
+      "Gandhinagar",
+      "Bengaluru"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "In which year was the Semicon India Programme launched?",
+     "options": [
+      "2021",
+      "2019",
+      "2020",
+      "2022"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following two statements.\nAssertion (A): SEMICON India is an annual flagship conference and exhibition that showcases India's semiconductor capabilities.\nReason (R): SEMICON India is organised by the India Semiconductor Mission, the Ministry of Electronics and Information Technology and SEMI.\nSelect the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Theme of SEMICON India 2026   ->   A. SEMI\nII. Venue of the 2026 inauguration   ->   B. 2021\nIII. Launch year of the Semicon India Programme   ->   C. Yashobhoomi, New Delhi\nIV. Co-organiser alongside the India Semiconductor Mission and MeitY   ->   D. Silicon to Systems: Building the Ecosystem",
+     "options": [
+      "I-D, II-B, III-C, IV-A",
+      "I-D, II-C, III-B, IV-A",
+      "I-C, II-A, III-D, IV-B",
+      "I-A, II-B, III-D, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. The Semicon India Programme was launched in 2021 to establish a complete semiconductor ecosystem in India.\nII. The first edition of SEMICON India was held in Bengaluru in 2022.\nIII. PM Modi inaugurated SEMICON India 2026 at Dholera (Gujarat).\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I only",
+      "I and III only",
+      "I and II only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements are correct?\nI. Chip design and fabrication are among the focus areas of the Semicon India Programme.\nII. SEMICON India is organised by the Ministry of Commerce and Industry.\nIII. Advanced packaging is among the focus areas of the Semicon India Programme.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-69",
+   "type": "TITA",
+   "passage": "SEMICON India is a conference and exhibition that showcases India's semiconductor capabilities. It gives the sector one place to display its progress, and each edition is an occasion to present the work done in chip-related fields. The event is staged alongside the national effort to build a domestic base for chips, which the government has pursued through a dedicated programme. Its organisation involves the India Semiconductor Mission, which serves as the nodal body for the schemes in this area. The gathering brings together displays of work from across the sector, which makes it a useful window into the country's chip-related strengths.\n\nThe Semicon India Programme is the central scheme behind this effort. Its objective is to establish a complete set of capabilities in the country, running from the creation of designs through to the production and packaging of chips. The programme's work is grouped into several connected areas, and it also covers the training of skilled people and the support of research and new ideas.\n\nSeveral projects have already been announced, with companies planning facilities in different parts of the country. Some of these projects involve partnerships between Indian companies and overseas firms, and they show how the programme's goals are being turned into physical units. The projects are spread across several states and cover different stages of chip making.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the first edition of SEMICON India held? (year)"
+    },
+    {
+     "n": 2,
+     "q": "What is the theme of SEMICON India 2026? (quoted phrase)"
+    },
+    {
+     "n": 3,
+     "q": "Apart from the India Semiconductor Mission and the Ministry of Electronics and Information Technology, which body organises SEMICON India? (short name)"
+    },
+    {
+     "n": 4,
+     "q": "At which New Delhi venue did PM Modi inaugurate SEMICON India 2026? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "Which Taiwanese company partnered with Tata Electronics to set up a semiconductor fab in Gujarat? (short name)"
+    },
+    {
+     "n": 6,
+     "q": "Which programme focus area concerns the training of skilled people? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "In which Gujarat town is the Tata Electronics semiconductor fab being set up? (one word)"
+    }
+   ]
+  }
+ ]
+}

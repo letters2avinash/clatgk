@@ -1,0 +1,292 @@
+{
+ "topic": "NPCI Introduces MDR on UPI Transactions",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "MDR framework and rates",
+   "summary": "NPCI has introduced a Merchant Discount Rate (MDR) framework for eligible person-to-merchant (P2M) UPI transactions, effective from 15 October 2026. The main rate is 0.4 per cent of value for the mid-value slab. The zero-MDR policy introduced in 2020 had exempted merchants from paying any fee for UPI and RuPay transactions.",
+   "facts": [
+    "Framework covers eligible P2M UPI transactions above ₹2,000",
+    "New framework comes into effect from 15 October 2026",
+    "MDR of 0.40% of value applies to the mid-value slab",
+    "High-value transactions of ₹75,000 and above are capped at ₹300 per transaction",
+    "Zero-MDR policy for UPI and RuPay was introduced in 2020",
+    "Zero-MDR policy aimed to encourage digital adoption among small businesses and informal sectors",
+    "MDR is a fee for processing a digital payment, borne by the merchant"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Exemptions, caps and special categories",
+   "summary": "Several categories of UPI payments are exempt from MDR, including person-to-person (P2P) transactions and P2M payments up to ₹2,000. Small merchants receiving up to ₹1 lakh per month through UPI QR codes under the P2PM category also remain exempt. Sector-specific payments and capital-market payments follow separate charging structures.",
+   "facts": [
+    "P2P UPI transactions are not subject to MDR",
+    "P2M UPI payments up to ₹2,000 are exempt, including through RuPay debit cards",
+    "Transactions involving small vendors are exempt",
+    "Small merchants receiving up to ₹1 lakh per month via UPI QR codes (P2PM) remain exempt",
+    "Railways, telecom, insurance, fuel and agricultural inputs pay a flat MDR of ₹5 per transaction above ₹2,000",
+    "Mutual funds, securities, stock brokers and stock dealers attract a reduced MDR of 0.02%",
+    "Capital-market payments are subject to a ₹300 cap",
+    "Lower capital-market rate is intended to encourage digital payments in formal financial markets"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Why MDR was introduced",
+   "summary": "The booklet lists several reasons for the MDR framework, centred on the financial sustainability of UPI. Revenue from the framework can fund infrastructure, cybersecurity and innovation. The framework also keeps P2P and low-value merchant payments free to protect consumers.",
+   "facts": [
+    "UPI requires continuous investment in payment infrastructure and technology",
+    "Growing digital payments need stronger systems to prevent fraud and cyber threats",
+    "A revenue mechanism can support continued operation and expansion of UPI",
+    "Revenue can support technological improvements and new payment solutions",
+    "Framework keeps P2P payments and low-value merchant payments free",
+    "Eligible small merchants continue to receive zero-MDR benefits",
+    "A self-funded payment ecosystem can reduce dependence on continued public funding",
+    "Small merchants and ordinary users need protection from additional costs"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "MDR, UPI and NPCI basics",
+   "summary": "MDR is a fee charged on digital payment transactions and borne by the merchant, and it is not a tax collected by the government. UPI is a real-time, 24/7 payment system that is accepted in 11 countries. NPCI was established in 2008 as a Section 8 company under the Companies Act 2013.",
+   "facts": [
+    "MDR is distributed among banks, payment service providers and other relevant participants",
+    "MDR is not a tax collected by the government",
+    "MDR revenue remains within the payment ecosystem",
+    "UPI is a real-time, 24/7, instant and interoperable payment system",
+    "UPI is the world's largest retail fast payment system by transaction volume",
+    "UPI is accepted in 11 countries, including Greece, Singapore, France and Qatar",
+    "NPCI was established in 2008 as a Section 8 company under the Companies Act 2013",
+    "NPCI was set up as an initiative of the RBI and the Indian Banks' Association",
+    "NPCI's major payment systems are UPI, RuPay, IMPS and FASTag",
+    "NPCI's headquarters is in Mumbai, Maharashtra"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x09-70",
+   "type": "MCQ",
+   "passage": "Unified Payments Interface (UPI) has grown into a large digital payment infrastructure that handles billions of transactions every month. As the network expands, it serves more users and more transactions, and its server capacity and customer support must keep pace. To meet these needs, the National Payments Corporation of India introduced a Merchant Discount Rate framework for certain UPI transactions. The framework gives the payment ecosystem a revenue mechanism of its own. The zero-MDR policy, introduced in 2020, had exempted merchants from paying any fee for UPI and RuPay transactions to encourage digital adoption, particularly among small traders and informal sectors. The new framework is designed so that everyday low-value transactions remain free, and the government and the payments body have both emphasised protecting small merchants and ordinary users from additional costs. Essential services such as railways, telecom, insurance and fuel are treated separately under the framework. Capital markets also receive a separate treatment. The booklet presents the framework against this background of network growth, and readers should look at its reasons as well as its rates to understand why it was introduced.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Under the 'Innovation' reason for the framework, what can its revenue support?",
+     "options": [
+      "Cash withdrawals at ATMs",
+      "Payments to foreign central banks",
+      "Technological improvements and new payment solutions",
+      "Mandatory bank account opening"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which reason for the framework is linked to eligible small merchants continuing to receive zero-MDR benefits?",
+     "options": [
+      "Support for Small Businesses",
+      "Financial Sustainability",
+      "Cybersecurity",
+      "Infrastructure Development"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Assertion (A): The framework was introduced partly to reduce UPI's dependence on continued public funding.\nReason (R): A payment ecosystem with its own revenue mechanism can reduce dependence on continued public funding.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. Financial Sustainability   ->   A. Eligible small merchants keep zero-MDR benefits\nII. Cybersecurity   ->   B. Revenue supports continued operation and expansion\nIII. Innovation   ->   C. Stronger systems for preventing fraud and cyber threats\nIV. Support for Small Businesses   ->   D. Revenue supports technological improvements and new payment solutions",
+     "options": [
+      "I-D, II-B, III-A, IV-C",
+      "I-C, II-B, III-D, IV-A",
+      "I-B, II-C, III-D, IV-A",
+      "I-C, II-D, III-A, IV-B"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about the reasons for the MDR framework:\nI. UPI requires continuous investment in payment infrastructure and technology.\nII. MDR revenue is a tax collected by the government.\nIII. Revenue can support technological improvements and new payment solutions.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements about the MDR framework are correct?\nI. Infrastructure development is one of the stated reasons for the framework.\nII. MDR revenue is distributed only to the NPCI.\nIII. Consumer protection is one of the stated reasons for the framework.",
+     "options": [
+      "Only one",
+      "Only two",
+      "All of the above",
+      "Only three"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which of the following is NOT listed among the stated reasons for the framework?",
+     "options": [
+      "Cybersecurity",
+      "Innovation",
+      "Infrastructure Development",
+      "Public-sector advertising"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-71",
+   "type": "TITA",
+   "passage": "The network behind UPI handles a very large number of payments each month, and that volume keeps growing. Growth of this kind places heavy demands on the systems that run the network. Equipment and software must be upgraded regularly, and server capacity must expand as more users join. Customer support also has to be maintained for a large base of users. Fraud and other threats appear as digital payments become more common, so the operators must watch for them constantly. The Merchant Discount Rate framework was introduced to address these demands. It creates a revenue source inside the payment ecosystem. Before the framework, the zero-MDR policy had allowed merchants to accept UPI and RuPay payments without any fee, an arrangement that encouraged digital adoption among small traders and informal sectors. Under the new framework, everyday low-value transactions remain free, and the government and the National Payments Corporation of India have stressed the need to protect small merchants and ordinary users from additional costs. The framework is therefore presented as a way to sustain the network while keeping daily payments affordable for people who use them.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which reason for the framework is linked to revenue supporting technological improvements and new payment solutions? Give one word."
+    },
+    {
+     "n": 2,
+     "q": "Which reason for the framework is linked to stronger systems against fraud and cyber threats? Give one word."
+    },
+    {
+     "n": 3,
+     "q": "Which reason says that a revenue mechanism can support the continued operation and expansion of UPI? Give two words."
+    },
+    {
+     "n": 4,
+     "q": "The framework is meant to reduce dependence on continued ____ funding. Give one word."
+    },
+    {
+     "n": 5,
+     "q": "Which reason is linked to continuous investment in payment infrastructure and technology? Give two words."
+    },
+    {
+     "n": 6,
+     "q": "Which reason for the framework is named after the protection it gives to people? Give two words."
+    },
+    {
+     "n": 7,
+     "q": "Which reason's name begins with 'Support for' and concerns eligible small merchants? Give the two words that follow 'Support for'."
+    }
+   ]
+  },
+  {
+   "id": "q-x09-72",
+   "type": "MCQ",
+   "passage": "Unified Payments Interface, widely known as UPI, lets people send and receive money through mobile applications linked to their bank accounts. Individuals use it to pay one another, and merchants use it to accept payments at shops, restaurants and online outlets. The network has grown into a major platform that handles a very large number of transactions every month, and its services are meant for both small and large users. Many everyday low-value transactions take place on it. Behind the system is an organisation that operates and develops retail payment and settlement systems in India. Digital payments have expanded over the years, and the booklet links this growth to the need for continued investment. Keeping such a network working smoothly is a continuing task, and the booklet describes several areas that need attention as it grows. The framework discussed in the booklet applies to merchant payments above a certain value and treats some sectors separately. Readers who want to understand it should look at its slabs, its exemptions and the reasons behind it.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Among which participants is the MDR distributed, according to the booklet?",
+     "options": [
+      "Only the NPCI",
+      "Banks, payment service providers and other relevant participants",
+      "Only customers",
+      "State governments"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which of the following is a stated feature of UPI?",
+     "options": [
+      "Available only during bank working hours",
+      "Real-time, 24/7, instant and interoperable transactions",
+      "Limited to transactions within one bank",
+      "Paper-based clearing"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which of the following countries is NOT listed in the booklet as accepting UPI?",
+     "options": [
+      "Nepal",
+      "Qatar",
+      "Mauritius",
+      "Italy"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): UPI is accepted in several countries outside India.\nReason (R): UPI is a real-time, 24/7, instant and interoperable payment system.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. MDR   ->   A. Real-time, 24/7 interoperable payment system\nII. UPI   ->   B. Remains within the payment ecosystem\nIII. NPCI   ->   C. Fee for processing a digital payment, borne by the merchant\nIV. MDR revenue   ->   D. Umbrella organisation for retail payment and settlement systems",
+     "options": [
+      "I-B, II-C, III-A, IV-D",
+      "I-A, II-B, III-D, IV-C",
+      "I-C, II-A, III-D, IV-B",
+      "I-C, II-B, III-D, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the payment system in the booklet:\nI. MDR is a tax collected by the government.\nII. Sri Lanka is among the countries that accept UPI.\nIII. Qatar is among the countries that accept UPI.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements are correct?\nI. MDR is a fee charged for processing a digital payment transaction.\nII. UPI was developed by the Reserve Bank of India.\nIII. Mauritius is a country listed among those accepting UPI.",
+     "options": [
+      "Only one",
+      "All of the above",
+      "Only two",
+      "Only three"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-73",
+   "type": "TITA",
+   "passage": "UPI is used for transfers between individuals and for payments made to merchants. The payments are made through mobile applications, and the network processes them quickly. One category of payments is made from a customer to a business, and the booklet explains how fees apply to such payments. The fee charged for handling a digital payment is known by a short form that appears throughout the booklet. The fee falls on the business that receives the money, while the framework for it is designed around a few value slabs. The revenue from these fees stays within the network and helps support its work. Among the countries listed as accepting the system are several in Asia, along with a small number of other nations on different continents. The network is operated by a body whose functions include developing and operating payment systems across the country. Many small businesses and informal sectors were encouraged to adopt digital payments in earlier years, when merchants paid no fee at all. The booklet presents the framework as one that fits into the wider payment ecosystem and protects ordinary users from additional costs. Readers who want to understand the framework should look at its slabs, its exemptions and the reasons behind it.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What does the abbreviation MDR stand for? Give the full name."
+    },
+    {
+     "n": 2,
+     "q": "What does the abbreviation UPI stand for? Give the full name."
+    },
+    {
+     "n": 3,
+     "q": "What does the abbreviation P2M stand for? Give the phrase with hyphens between the words."
+    },
+    {
+     "n": 4,
+     "q": "Which Middle East nation in the booklet's list of UPI-accepting countries is named by its abbreviation? Give the abbreviation."
+    },
+    {
+     "n": 5,
+     "q": "Which European nation, other than Greece, is listed as accepting UPI? Give the country name."
+    },
+    {
+     "n": 6,
+     "q": "The booklet describes UPI as a system that works across different banks and platforms. Which single word describes this quality?"
+    },
+    {
+     "n": 7,
+     "q": "What does the abbreviation NPCI stand for? Give the full name."
+    }
+   ]
+  }
+ ]
+}

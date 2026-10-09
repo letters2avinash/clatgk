@@ -1,0 +1,299 @@
+{
+ "topic": "Removal of Chief Election Commissioner",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Constitutional Status and Powers of the ECI",
+   "summary": "The Election Commission of India is a permanent, independent constitutional body under Articles 324 to 329 (Part XV), established in 1950. It administers elections to Parliament, State Legislatures, the President and the Vice President, and has been a three-member body since 1993. Its powers are administrative, advisory and quasi-judicial, and the Supreme Court in Mohinder Singh Gill (1977) treated the case as a cornerstone for its plenary powers.",
+   "facts": [
+    "Permanent, all-India, quasi-judicial and independent constitutional body",
+    "Constitutional basis: Articles 324-329 (Part XV)",
+    "Ensures free and fair elections for Parliament, State Legislatures, President and Vice President",
+    "Three members since 1993: one CEC and two ECs",
+    "Administrative power: defining constituencies, preparing voter lists, scheduling elections",
+    "Advisory power: advises the President and Governors, guides during emergencies",
+    "Quasi-judicial power: resolves disputes over party recognition, allocates election symbols",
+    "Mohinder Singh Gill v. CEC (1977): cornerstone case on ECI's plenary powers under Article 324",
+    "Where laws are silent (Articles 327 and 328), ECI can act independently to safeguard free and fair elections",
+    "ECI can order a re-poll if the purity of the electoral process is compromised; judicial review usually comes after the election"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Appointment, Tenure and Removal of CEC and ECs",
+   "summary": "The CEC and Other Election Commissioners Act, 2023 replaced the 1991 Act and provides for appointment by the President on the recommendation of a Selection Committee, following the Supreme Court's directive in Anoop Baranwal vs Union of India (2023). The CEC and ECs enjoy Supreme Court Judge-level salary and benefits. The CEC serves for six years or until 65 years of age, whichever is earlier, and is removed through the same process as a Supreme Court Judge.",
+   "facts": [
+    "Anoop Baranwal vs Union of India (2023): five-judge bench directed appointment on the advice of a Selection Committee",
+    "Earlier, the President made appointments on the advice of the Prime Minister",
+    "The 2023 Act replaced the Election Commission (Conditions of Service of Election Commissioners and Transaction of Business) Act, 1991 on conditions of service and transaction of business",
+    "Selection Committee: Prime Minister, a Union Cabinet Minister, and Leader of Opposition in Lok Sabha",
+    "Search Committee, headed by the Minister of Law and Justice, proposes a panel of five names",
+    "Selection Committee can consider names beyond the shortlist and can function despite vacancies",
+    "Tenure: six years or 65 years of age, whichever is earlier; not eligible for re-appointment",
+    "An EC appointed as CEC: combined term as EC and CEC must not exceed six years",
+    "CEC and ECs enjoy Supreme Court Judge-level salary and benefits",
+    "CEC is removed by the same process as a Supreme Court Judge"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Electoral Rolls, SIR and the Right to Vote",
+   "summary": "An electoral roll is the official list of persons eligible to vote in a jurisdiction, and being listed on it is a legal prerequisite for casting a vote. Rolls can be revised intensively, summarily or in special cases. The Special Intensive Revision (SIR) is a focused, time-bound house-to-house verification by Booth Level Officers, and courts have held that deletion from rolls cannot rest on mere suspicion.",
+   "facts": [
+    "Electoral roll: official list of individuals eligible to vote in a given election within a jurisdiction",
+    "Being on the electoral roll is a legal prerequisite for casting a vote in India",
+    "Publishing and updating rolls: ECI, state's Chief Electoral Officer, and state election commission",
+    "Article 325: no individual excluded from electoral rolls on grounds of religion, race, caste or sex",
+    "Intensive revision: complete fresh preparation of rolls through house-to-house enumeration",
+    "Summary revision: routine annual updating of existing rolls",
+    "SIR: house-to-house verification by BLOs to add missing voters, remove ineligible ones and correct entries",
+    "Lal Babu Hussein vs Electoral Registration Officer (1995): guidelines allowing deletion on mere suspicion struck down",
+    "Kuldip Nayar vs Union of India (2006): right to vote is statutory, not fundamental",
+    "Bihar SIR: those not in the 2003 rolls had to submit any of 11 listed documents to prove birth date or place"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "EVM and VVPAT",
+   "summary": "The Electronic Voting Machine (EVM) records votes in place of ballot papers and boxes, and was first used in Paravur, Kerala, in 1982. The VVPAT prints a slip that lets voters verify their vote; the slip stays visible for seven seconds before dropping into a sealed box. In 2019 the Supreme Court ruled that VVPAT slips of five EVMs in every constituency should be counted instead of just one.",
+   "facts": [
+    "EVM: electronic device used to record votes in place of ballot papers and boxes",
+    "First used in Paravur Assembly Constituency, Kerala, in 1982",
+    "Developed by Bharat Electronics Ltd (Bangalore) and Electronic Corporation of India Ltd (Hyderabad)",
+    "Two parts: Control Unit (with Polling Officer) and Balloting Unit (in voting booth)",
+    "VVPAT slip shows the serial number, candidate name and symbol",
+    "Slip is visible through a transparent window for 7 seconds, then is cut and falls into a sealed drop box",
+    "VVPAT machines can be accessed by Polling Officers only",
+    "VVPAT first introduced in the Noksen Assembly bye-election, Nagaland, in 2013",
+    "VVPAT used in all constituencies in the 2019 Lok Sabha elections",
+    "2019 Supreme Court ruling: VVPAT slips of 5 EVMs per constituency to be counted instead of 1"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x07-62",
+   "type": "MCQ",
+   "passage": "The Election Commission of India is a permanent, all-India and independent body that conducts elections across the country. Its basic task is to ensure that elections to the Lok Sabha, the Rajya Sabha and the State Legislative Assemblies are free and fair, and it also oversees the elections of the President and the Vice President. Since 1993, the Commission has been a three-member body. It consists of one Chief Election Commissioner and two Election Commissioners, who together carry out its work. The Commission shares responsibility for electoral rolls with the state chief electoral officers and state election commissions. An electoral roll is the official list of people eligible to vote in a given election within a specific area, and being on that list is a legal requirement for casting a vote. Its work involves preparing voter lists and managing polls, and it also has functions that the Constitution and the courts have helped to define. Because its powers are rooted in the Constitution, the Commission is described as a constitutional body. Its members also enjoy fixed service conditions that cannot be varied to their disadvantage after appointment. The Commission's responsibilities cover the whole country, including every state and union territory.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Under which power does the ECI resolve disputes over party recognition and allocate election symbols?",
+     "options": [
+      "Administrative power",
+      "Advisory power",
+      "Quasi-judicial power",
+      "Legislative power"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "In which situation can the ECI order a re-poll?",
+     "options": [
+      "Only when a court disqualifies a candidate",
+      "When a State Legislature amends the election law",
+      "When voter turnout falls below half the electorate",
+      "When the purity of the electoral process is compromised"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "When does judicial review of the ECI's decisions usually take place?",
+     "options": [
+      "Before the poll schedule is announced",
+      "After the election process",
+      "Immediately after nominations are filed",
+      "Only during a national emergency"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Read the statements below.\nAssertion (A): The ECI can act independently to safeguard free and fair elections where laws made by Parliament or State Legislatures are silent.\nReason (R): The scope of the ECI's powers under Articles 327 and 328 covers situations in which such laws are silent.\nChoose the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about the ECI:\nI. The advisory power of the ECI includes guiding the authorities during emergencies.\nII. Judicial review of the ECI's actions generally takes place before the election process begins.\nIII. The principles of natural justice are applied in a flexible and pragmatic manner in electoral matters.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the ECI:\nI. The administrative power of the ECI covers scheduling elections.\nII. The advisory power of the ECI covers resolving disputes over party recognition.\nIII. The advisory power of the ECI covers advising the President and Governors.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "The Election Commission of India is a constitutional body under which Part of the Constitution?",
+     "options": [
+      "Part III",
+      "Part XVII",
+      "Part XX",
+      "Part XV"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x07-63",
+   "type": "TITA",
+   "passage": "The Election Commission of India is a permanent, all-India and independent body that conducts elections across the country. Its basic task is to ensure that elections to the Lok Sabha, the Rajya Sabha and the State Legislative Assemblies are free and fair, and it also oversees the elections of the President and the Vice President. Since 1993, the Commission has been a three-member body. It consists of one Chief Election Commissioner and two Election Commissioners, who together carry out its work. The Commission shares responsibility for electoral rolls with the state chief electoral officers and state election commissions. An electoral roll is the official list of people eligible to vote in a given election within a specific area, and being on that list is a legal requirement for casting a vote. Its work involves preparing voter lists and managing polls, and it also has functions that the Constitution and the courts have helped to define. Because its powers are rooted in the Constitution, the Commission is described as a constitutional body. Its members also enjoy fixed service conditions that cannot be varied to their disadvantage after appointment. The Commission's responsibilities cover the whole country, including every state and union territory.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "A CEC or EC serves for six years or until what age, whichever is earlier? (number)"
+    },
+    {
+     "n": 2,
+     "q": "The CEC and ECs enjoy salary and status equal to a judge of which court? (name of the court)"
+    },
+    {
+     "n": 3,
+     "q": "Which power of the ECI covers allocating election symbols? (name the power)"
+    },
+    {
+     "n": 4,
+     "q": "Which power of the ECI covers defining constituencies? (name the power)"
+    },
+    {
+     "n": 5,
+     "q": "Which legal principle does the Supreme Court say is applied in a flexible and pragmatic manner in electoral matters? (two words)"
+    },
+    {
+     "n": 6,
+     "q": "In which year was the Election Commission of India established? (year)"
+    },
+    {
+     "n": 7,
+     "q": "Can a CEC who has completed a term be re-appointed? (answer yes or no)"
+    }
+   ]
+  },
+  {
+   "id": "q-x07-64",
+   "type": "MCQ",
+   "passage": "The Electronic Voting Machine, known as the EVM, is an electronic device that records votes in place of the traditional ballot papers and ballot boxes. The machine has been used in elections to the Lok Sabha, State Legislative Assemblies and by-elections, and it has been in use across different parts of the country for several decades. Since it is electronic, votes are stored in the machine rather than being collected and counted manually from paper. A companion system, the Voter Verifiable Paper Audit Trail, is attached to the EVM and is meant to give voters a way to check their choice. When a vote is cast, a paper slip is generated, and the slip lets the voter see the choice made before it is stored. The system is described as an independent unit that works alongside the EVM. The purpose of this arrangement is to increase confidence in the voting process among voters and political parties alike. Courts have also commented on the role of such systems in elections, and several judgments have discussed them. The overall aim is to make the physical record of each vote available for verification. Its use expanded gradually over the following years, and it was extended to elections across the country.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which Assembly constituency first used EVMs in 1982?",
+     "options": [
+      "Noksen, Nagaland",
+      "Paravur, Kerala",
+      "Bangalore, Karnataka",
+      "Hyderabad, Telangana"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "For how many seconds does the VVPAT slip remain visible through the transparent window?",
+     "options": [
+      "3 seconds",
+      "5 seconds",
+      "10 seconds",
+      "7 seconds"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Along with Electronic Corporation of India Ltd, which company developed the EVM?",
+     "options": [
+      "Bharat Heavy Electricals Ltd",
+      "Bharat Electronics Ltd",
+      "Indian Telephone Industries Ltd",
+      "Hindustan Aeronautics Ltd"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Read the statements below.\nAssertion (A): The VVPAT allows voters to verify that their votes are cast as intended.\nReason (R): The VVPAT prints a slip showing the serial number, candidate name and symbol, which the voter can see before it is stored.\nChoose the correct option.",
+     "options": [
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true and R is the correct explanation of A",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Control Unit   ->   A. Seven seconds\nII. Balloting Unit   ->   B. First VVPAT use (2013)\nIII. VVPAT slip visibility   ->   C. Kept with the Polling Officer\nIV. Noksen Assembly bye-election   ->   D. Placed in the voting booth",
+     "options": [
+      "I-C, II-D, III-A, IV-B",
+      "I-D, II-A, III-B, IV-C",
+      "I-C, II-D, III-B, IV-A",
+      "I-C, II-A, III-B, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the EVM and VVPAT:\nI. The VVPAT machines can be accessed by Polling Officers only.\nII. The Conduct of Elections Rules, 1961 were amended to allow a printer with a drop box to be attached to the EVM.\nIII. The EVM was first used in Kerala in 1989.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "II and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about the EVM and VVPAT:\nI. The EVM records votes in place of ballot papers and boxes.\nII. The VVPAT slip remains visible for 10 seconds before it falls into the drop box.\nIII. EVMs were adopted for general elections in 2004.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x07-65",
+   "type": "TITA",
+   "passage": "The Electronic Voting Machine, known as the EVM, is an electronic device that records votes in place of the traditional ballot papers and ballot boxes. The machine has been used in elections to the Lok Sabha, State Legislative Assemblies and by-elections, and it has been in use across different parts of the country for several decades. Since it is electronic, votes are stored in the machine rather than being collected and counted manually from paper. A companion system, the Voter Verifiable Paper Audit Trail, is attached to the EVM and is meant to give voters a way to check their choice. When a vote is cast, a paper slip is generated, and the slip lets the voter see the choice made before it is stored. The system is described as an independent unit that works alongside the EVM. The purpose of this arrangement is to increase confidence in the voting process among voters and political parties alike. Courts have also commented on the role of such systems in elections, and several judgments have discussed them. The overall aim is to make the physical record of each vote available for verification. Its use expanded gradually over the following years, and it was extended to elections across the country.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was VVPAT first introduced, in the Noksen bye-election in Nagaland? (year)"
+    },
+    {
+     "n": 2,
+     "q": "After the 2019 Supreme Court ruling, how many EVMs' VVPAT slips per constituency must be counted? (number)"
+    },
+    {
+     "n": 3,
+     "q": "In which year were VVPATs used in all constituencies of the Lok Sabha elections? (year)"
+    },
+    {
+     "n": 4,
+     "q": "The Representation of the People Act, of which year, was amended in 1989 to permit EVM use? (year)"
+    },
+    {
+     "n": 5,
+     "q": "Which model of EVM and VVPAT is presently used? (model name)"
+    },
+    {
+     "n": 6,
+     "q": "In which city is Electronic Corporation of India Ltd based? (city)"
+    },
+    {
+     "n": 7,
+     "q": "In which year was VVPAT first proposed? (year)"
+    }
+   ]
+  }
+ ]
+}

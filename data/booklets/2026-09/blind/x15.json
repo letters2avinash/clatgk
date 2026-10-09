@@ -1,0 +1,300 @@
+{
+ "topic": "EOS-05: India's 1st Dedicated GEO Satellite",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "EOS-05 (GISAT-1A) and the GSLV-F17 launch",
+   "summary": "ISRO launched Earth Observation Satellite-05 (EOS-05), also called GISAT-1A, aboard GSLV-F17 from the Satish Dhawan Space Centre, Sriharikota. The booklet calls it India's first dedicated imaging satellite, designed to operate from a sub-geosynchronous orbit about 35,786 km above Earth. The launch was the 19th operational flight of GSLV and was described as validating India's cryogenic upper-stage technology for future human spaceflight.",
+   "facts": [
+    "Launch vehicle: GSLV-F17, marked as the 19th operational flight of GSLV",
+    "Launch site: Satish Dhawan Space Centre, Sriharikota",
+    "EOS-05 is India's first dedicated imaging satellite for sub-geosynchronous operations",
+    "Mass of EOS-05: approx 2,367 kg",
+    "Heaviest payload successfully injected into orbit by a GSLV",
+    "GSLV three stages: solid core first stage with 4 liquid strap-on boosters",
+    "GSLV second stage: liquid propellant",
+    "GSLV third stage: cryogenic",
+    "Nickname of EOS-05: 'Eye in the Sky'",
+    "EOS-05 carries optical and infrared imaging payloads"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Satellite orbits: LEO, MEO and GEO",
+   "summary": "An orbit is the curved path a satellite follows around Earth under gravity, and the choice of orbit shapes coverage, resolution, revisit time, delay and fuel need. LEO lies about 160-2,000 km up and offers low latency and high-resolution observation. MEO spans about 2,000-35,786 km and hosts navigation systems, while GEO is a special case of geosynchronous orbit at about 35,786 km.",
+   "facts": [
+    "Orbit: curved path followed by a satellite around Earth under gravity",
+    "Orbit choice determines coverage, image resolution, revisit time, delay, fuel and mission",
+    "LEO altitude: approx 160-2,000 km; orbital period about 90-120 minutes",
+    "LEO features: low communication latency, suited to large constellations",
+    "Sun-synchronous orbit: LEO subtype giving relatively consistent solar illumination",
+    "Very Low Earth Orbit: very high-resolution observation but greater atmospheric drag",
+    "MEO altitude: approx 2,000 km to 35,786 km",
+    "MEO use: navigation systems such as GPS and Europe's Galileo",
+    "Geosynchronous orbit period equals Earth's rotation (23 hrs, 56 mins, 4 secs)",
+    "GEO: zero-degree inclination, directly over the Equator, moving in Earth's rotation direction",
+    "A GEO satellite appears fixed over one point on Earth"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Why GEO imaging matters and its uses",
+   "summary": "A LEO satellite observes a location only when it passes overhead, which leaves intervals between observations. A geosynchronous imaging platform can give persistent, wide-area monitoring, useful for fast events such as cyclones, cloudbursts, flash floods and forest fires. The booklet lists EOS-05 applications under disaster management, strategic and national security, and agriculture and environment.",
+   "facts": [
+    "LEO satellite sees a particular location only when it passes overhead",
+    "Geosynchronous platform provides persistent and wide-area monitoring",
+    "Useful for tracking cyclones, cloudbursts, flash floods and forest fires",
+    "Frequent observations support weather monitoring, disaster management, early warning and emergency response",
+    "Disaster management: near real-time monitoring of cyclones, floods and cloudbursts",
+    "Strategic security: continuous surveillance of land borders and maritime domain",
+    "Agriculture and environment: monitoring forest fires, vegetation health and crop cycles",
+    "Optical sensors cannot penetrate thick clouds",
+    "High altitude limits sub-meter spatial resolution",
+    "Crop insurance claims streamlined by replacing manual experiments with objective satellite indices"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "NISAR: NASA-ISRO radar satellite",
+   "summary": "NISAR (NASA-ISRO Synthetic Aperture Radar) is described as the first joint Earth-observation satellite of NASA and ISRO. As a radar satellite it uses microwave pulses to capture sharp images in darkness and through clouds, unlike cameras that rely on visible light. Its data supports study of solid Earth processes, natural hazards, biomass and crop health.",
+   "facts": [
+    "First joint Earth-observation satellite by NASA and ISRO",
+    "Uses microwave pulses, so it works in darkness and through clouds",
+    "World's first radar satellite using dual S- and L-band frequencies",
+    "Designed for a 3-year mission life",
+    "Orbit: 747 km, Sun-Synchronous (Low Earth) Orbit with a 12-day repeat cycle",
+    "The NASA-side radar, with a wavelength of about 24 cm, was developed by NASA's Jet Propulsion Laboratory (JPL)",
+    "Sweep SAR captures wide 3D high-resolution images over a 242 km swath",
+    "Large 12-metre antenna for receiving signals",
+    "Detects minute ground shifts for tectonic and structural analysis",
+    "Tracks biomass, deforestation, crop health and soil moisture; assesses earthquakes, floods, landslides and volcanoes"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x15-98",
+   "type": "MCQ",
+   "passage": "An orbit is the curved path that a satellite follows around Earth under the influence of gravity. Mission designers must weigh several trade-offs before they choose one, and no single orbit suits every purpose. Earth orbits are classified by altitude, by inclination and by shape. Shape refers to whether an orbit is circular or elliptical, and inclination refers to its tilt relative to the Equator.\n\nSatellites are commonly grouped into three broad families. The first family is Low Earth Orbit, the closest of the three to the planet. Its satellites are widely used for Earth observation and communication, and crewed platforms such as the International Space Station also operate in this zone. Several sub-types exist for particular purposes, including the Sun-synchronous orbit and the Very Low Earth Orbit. Both of these are sub-types of Low Earth Orbit.\n\nThe second family is Medium Earth Orbit. Mission planners place it beyond the first family but below the third. The third family is Geosynchronous Orbit, and Geostationary Orbit is a special case within it. Geostationary Orbit is used for communication, weather and imaging. Each family is described in order of increasing distance from Earth, and each differs in altitude, latency and typical use.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Approximately how long does one orbit take for a satellite in Low Earth Orbit?",
+     "options": [
+      "About 23 hours and 56 minutes",
+      "About 90 to 120 minutes",
+      "About 12 hours",
+      "About 30 days"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which orbit family is described as providing a balance between coverage area and signal latency?",
+     "options": [
+      "Low Earth Orbit",
+      "Geostationary Orbit",
+      "Very Low Earth Orbit",
+      "Medium Earth Orbit"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What apparent ground movement may a geosynchronous satellite that is not geostationary show?",
+     "options": [
+      "It appears stationary over one point",
+      "It may appear to move North-South",
+      "It moves only East-West",
+      "It circles over the poles"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): A geostationary satellite appears fixed over one particular point on Earth.\nReason (R): Its orbit lies directly over the Equator with zero-degree inclination and it moves in the same direction as Earth's rotation.\nSelect the correct option.",
+     "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Low Earth Orbit   ->   A. Greater atmospheric drag\nII. Medium Earth Orbit   ->   B. Altitude of about 35,786 km\nIII. Very Low Earth Orbit   ->   C. Global navigation satellite systems\nIV. Geostationary Orbit   ->   D. Altitude of about 160 to 2,000 km",
+     "options": [
+      "I-D, II-C, III-A, IV-B",
+      "I-D, II-A, III-C, IV-B",
+      "I-A, II-D, III-C, IV-B",
+      "I-A, II-C, III-D, IV-B"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about orbits:\nI. Low Earth Orbit satellites are suited to large satellite constellations.\nII. Medium Earth Orbit is primarily used by weather satellites.\nIII. Low Earth Orbit offers low communication latency.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about geosynchronous and geostationary satellites are correct?\nI. A geosynchronous satellite's orbital period equals Earth's rotational period.\nII. Medium Earth Orbit lies below the altitude range of Low Earth Orbit.\nIII. A geostationary satellite may be inclined to the Equator.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x15-99",
+   "type": "TITA",
+   "passage": "An orbit is the curved path a satellite follows around Earth under the influence of gravity. Different orbits suit different missions, and the orbit a satellite uses determines the kind of work it can do. Earth orbits are classified by altitude, by inclination and by shape. Inclination is the tilt of an orbit relative to the Equator, and shape refers to whether an orbit is circular or elliptical. Some families lie close to the planet, while others lie far above it. Navigation systems also rely on satellites placed in one of these families.\n\nThe lowest family is often used for Earth observation and communication, and it suits large constellations of satellites. Low communication latency is a key feature of this family. Crewed space stations also operate in this closer region. Within the lowest family, specialised sub-types exist for particular purposes. Each family is linked to particular mission applications.\n\nA middle family lies farther away than the lowest family. The highest family, known as geosynchronous, is defined by the timing of a satellite's revolution relative to the planet's spin. A special member of this family appears to hang above one place on the ground, which makes it useful for watching the same region continuously.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the approximate upper altitude limit, in km, of Low Earth Orbit?"
+    },
+    {
+     "n": 2,
+     "q": "What is the lower end, in minutes, of the orbital period range given for Low Earth Orbit?"
+    },
+    {
+     "n": 3,
+     "q": "Name the European navigation system that the booklet cites as an example of a Medium Earth Orbit system (one word)."
+    },
+    {
+     "n": 4,
+     "q": "Which Low Earth Orbit sub-type enables very high-resolution observations but experiences greater atmospheric drag? (name the sub-type)"
+    },
+    {
+     "n": 5,
+     "q": "What is the approximate altitude, in km, of Geosynchronous Orbit?"
+    },
+    {
+     "n": 6,
+     "q": "A geosynchronous orbit's period equals 23 hours, 56 minutes and how many seconds? (number)"
+    },
+    {
+     "n": 7,
+     "q": "Which orbit family does the booklet describe as offering wider coverage with moderate latency? (acronym)"
+    }
+   ]
+  },
+  {
+   "id": "q-x15-100",
+   "type": "MCQ",
+   "passage": "ISRO launched Earth Observation Satellite 05, known as EOS-05, from the Satish Dhawan Space Centre at Sriharikota. The satellite is also called GISAT-1A, and the booklet describes it as India's first dedicated imaging satellite. It is designed to operate from a sub-geosynchronous orbit.\n\nThe launch validated India's cryogenic upper-stage technology for future human spaceflight, according to the booklet. The booklet also says it is the heaviest payload a GSLV has injected into orbit. Its launch was the nineteenth operational flight of the GSLV.\n\nA low orbit satellite sees a given location only when it passes overhead, which leaves gaps between observations. A satellite that stays over one region of the planet can instead keep a wide area under watch for long periods. The booklet lists a fixed, 24/7 footprint over the Indian subcontinent as a geostationary advantage. Such platforms are described as useful for tracking cyclones, cloudbursts, flash floods and forest fires.\n\nEOS-05 is equipped with optical and infrared imaging payloads, and its applications are presented under three headings: disaster management, strategic and national security, and agriculture and environment. Each heading is linked to a set of monitoring tasks, and the booklet lists examples under each one. The booklet presents these points together in a short summary of the satellite and its applications.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which of these is NOT one of the application areas that the booklet gives for EOS-05?",
+     "options": [
+      "Disaster management",
+      "Strategic and national security",
+      "Agriculture and environment",
+      "Urban transport planning"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which of these is NOT listed as a purpose that frequent observations can support?",
+     "options": [
+      "Weather monitoring",
+      "Early warning",
+      "Emergency response",
+      "Mineral exploration"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "How does the booklet describe cyclones, cloudbursts, flash floods and forest fires?",
+     "options": [
+      "Slow-moving climate trends",
+      "Rapidly developing events",
+      "Seasonal crop events",
+      "Deep-sea currents"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Crop insurance claims can be settled using objective satellite indices.\nReason (R): Satellite indices replace manual experiments in the claim process.\nSelect the correct option.",
+     "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true but R is not the correct explanation of A",
+      "Both A and R are true and R is the correct explanation of A"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Optical sensors   ->   A. Continuous surveillance of land borders and maritime domain\nII. High altitude   ->   B. Monitoring of forest fires, vegetation health and crop cycles\nIII. Strategic and national security   ->   C. Cannot penetrate thick clouds\nIV. Agriculture and environment   ->   D. Limits sub-meter spatial resolution",
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-D, II-C, III-B, IV-A",
+      "I-C, II-D, III-A, IV-B",
+      "I-D, II-A, III-C, IV-B"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about EOS-05 applications:\nI. Frequent observations can support early warning and emergency response.\nII. Strategic security applications include enhancing situational awareness.\nIII. Disaster management applications include tracking the maritime domain.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about EOS-05 are correct?\nI. EOS-05 enables gapless cyclone tracking.\nII. Crop insurance claims rely on manual field experiments rather than satellite indices.\nIII. Forest fire monitoring is part of the strategic and national security application area.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x15-101",
+   "type": "TITA",
+   "passage": "A satellite in a low orbit sees a given location only when it passes overhead, which leaves gaps between observations. A satellite that stays over one region of the planet can instead keep a wide area under watch for long periods.\n\nThe booklet connects this kind of monitoring with several tasks. Persistent watch can help track storms and floods, and it can support warnings issued before a hazard grows. Surveillance of the sea approaches and the land frontiers is also mentioned, as are checks on plant cover and forest condition. The booklet also says that the use of such data can streamline crop insurance claims.\n\nEOS-05 is India's first dedicated imaging satellite and is also known by another name. It carries optical and infrared imaging payloads, and it is designed to operate from a sub-geosynchronous orbit. The satellite's optical sensors form one part of its imaging system, and the booklet also notes that the sensors face physical limits.\n\nAnother listed advantage is a steady footprint that stays fixed over the same land all day. Cyclones, cloudbursts and flash floods are among the events that the booklet mentions. The booklet presents these uses as part of the satellite's significance for India. Each use is described with a short list of examples.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Name the application area of EOS-05 that the booklet links with continuous surveillance of land borders and the maritime domain."
+    },
+    {
+     "n": 2,
+     "q": "Name the application area that the booklet links with monitoring of forest fires, vegetation health and crop cycles."
+    },
+    {
+     "n": 3,
+     "q": "By what other name is EOS-05 known, according to the booklet?"
+    },
+    {
+     "n": 4,
+     "q": "Over which region does the booklet say a geostationary advantage gives a fixed, 24/7 footprint? (name the region)"
+    },
+    {
+     "n": 5,
+     "q": "Through what weather feature are optical sensors unable to see? (two words)"
+    },
+    {
+     "n": 6,
+     "q": "What kind of data replaces manual experiments in crop insurance claims? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "What phrase does the booklet use to describe cyclones, cloudbursts, flash floods and forest fires? (two words)"
+    }
+   ]
+  }
+ ]
+}

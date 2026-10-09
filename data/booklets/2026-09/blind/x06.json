@@ -1,0 +1,298 @@
+{
+ "topic": "Map Projections: From Mercator to Equal Earth",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Why flat maps must distort",
+   "summary": "The Earth is an oblate spheroid, so its curved surface cannot be shown on a flat map without distortion. A projection converts the 3D surface into a 2D representation, and no single flat map keeps area, shape, distance and direction exact at once. Conformal, equal-area and equidistant projections each preserve one property, while compromise projections balance distortion across all four.",
+   "facts": [
+    "Earth is an oblate spheroid rather than a perfect sphere.",
+    "The oblate shape is due to Earth's rotation and uneven distribution of mass.",
+    "A projection converts Earth's 3D curved surface into a 2D representation.",
+    "Some degree of distortion is inevitably introduced by any projection.",
+    "The four properties are area, shape, distance and direction.",
+    "Conformal projections preserve angles and local shapes (e.g. Mercator).",
+    "Equal-area projections preserve relative areas (e.g. Equal Earth).",
+    "Equidistant projections preserve distance.",
+    "Compromise projections balance distortions but preserve none of the properties exactly.",
+    "Navigation and direction use conformal projections."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Mercator projection and its distortion",
+   "summary": "The Mercator projection was introduced in 1569 by Gerardus Mercator and was primarily designed to assist maritime navigation. It is a cylindrical and conformal projection, so it keeps local shapes and shows rhumb lines as straight lines. The cost is that landmasses far from the Equator look much larger than they are, and Africa appears similar in size to Greenland.",
+   "facts": [
+    "Introduced in 1569 by Gerardus Mercator, a Flemish geographer and cartographer.",
+    "Type: cylindrical and conformal projection.",
+    "Primarily designed to assist maritime navigation.",
+    "Earth's surface is conceptually projected onto a cylinder around the globe, then unfolded flat.",
+    "Stretching of parallels is matched exactly with stretching of meridians, which preserves shapes.",
+    "Landmasses far from the Equator appear much larger than they are.",
+    "Africa appears similar in size to Greenland, though Greenland is in reality 14 times smaller.",
+    "Rhumb lines appear as straight lines, which makes the projection useful for navigation.",
+    "Does not preserve relative area."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Equal Earth and the Correct the Map resolution",
+   "summary": "Equal Earth is an equal-area, pseudo-cylindrical world projection created in 2018 to show landmass sizes accurately without severe shape distortion. The UN General Assembly adopted a 'Correct the Map' resolution, led by Togo, that promotes equal-area projections to address Mercator distortions. The resolution is not binding, so whether governments and classrooms adopt the new map remains to be seen.",
+   "facts": [
+    "Equal Earth is an equal-area, pseudo-cylindrical world map projection, created in 2018.",
+    "Designed to display the entire globe while preserving relative landmass sizes accurately.",
+    "Avoids the severe, aesthetically jarring shape distortions common in earlier equal-area maps such as Gall-Peters.",
+    "The UN General Assembly adopted the 'Correct the Map' resolution promoting equal-area map projections.",
+    "Togo led the resolution through Foreign Minister Robert Dussey, under the #CorrectTheMap campaign.",
+    "The resolution was supported by 164 countries, including India.",
+    "The United States voted against it and six countries abstained.",
+    "The African Union endorsed it in August 2025 and the Caribbean Community backed it too.",
+    "Correct the Map is run by two advocacy groups, Africa No Filter and Speak Up Africa.",
+    "India backed the resolution while drawing a firm line on depiction of Jammu and Kashmir and Ladakh; UN resolutions are not binding."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Other projections and mapping in India",
+   "summary": "Gall-Peters, first presented in 1855 and popularised in 1973, preserves area but stretches or squashes shapes, while Robinson (1963) and Winkel Tripel (1921) are compromise projections. Winkel Tripel replaced Robinson in National Geographic Society maps in 1998. In India, the Survey of India, established in 1767, verifies international borders on published maps, and the Criminal Law Amendment Act (1961) penalises maps that misrepresent India's borders.",
+   "facts": [
+    "The Gall-Peters projection was first presented by Scottish clergyman James Gall in 1855.",
+    "Arno Peters popularised the Gall-Peters projection in 1973.",
+    "Gall-Peters preserves area accurately but makes landmasses look stretched or squashed.",
+    "The Robinson projection (1963) was devised by Arthur H. Robinson to balance size and shape.",
+    "Robinson is a compromise projection, with meridians curving gently towards the Poles.",
+    "The Winkel Tripel projection (1921) was created by German cartographer Oswald Winkel.",
+    "Winkel Tripel aims to reduce distortion across area, distance and direction.",
+    "In 1998, Winkel Tripel replaced Robinson in National Geographic Society maps, followed by schools, textbooks and the World Bank.",
+    "The Survey of India, established in 1767, verifies international borders on published maps.",
+    "Criminal Law Amendment Act (1961), Section 2, penalises publication and distribution of maps that question India's territorial integrity or misrepresent its borders."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x06-58",
+   "type": "MCQ",
+   "passage": "Turning the round surface of the Earth into a flat map always involves some distortion. Different projections handle this in different ways, and the Mercator design is one of the most familiar. On the Mercator grid, longitudes are evenly spaced, but the gaps between latitudes widen as one moves towards the Poles. This spacing is a deliberate feature of the design, and it keeps the shapes of landmasses locally recognisable. The trade-off is that landmasses far from the Equator appear much larger than they really are, so the amount of exaggeration depends on how far a landmass lies from the Equator. Africa, for example, looks similar in size to Greenland on such a map, even though the two differ greatly in reality. Antarctica is also drawn far larger than its true size. On a standard wall map, India looks like a middleweight beside Scandinavia, which shows how much the grid can change the impression of a country's size. The Equal Earth projection is a newer design, used for thematic maps, that aims to show the whole globe in a more balanced way. Choosing a projection depends on what a map is meant to show, and each design makes its own choices about which features to keep.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What was the Mercator projection primarily designed to assist?",
+     "options": [
+      "Comparing the sizes of continents",
+      "Maritime navigation",
+      "Thematic mapping",
+      "School atlases"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "On a Mercator grid, rhumb lines appear as:",
+     "options": [
+      "Curves",
+      "Circles",
+      "Straight lines",
+      "Zigzag lines"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "In reality, Greenland is roughly the size of which country?",
+     "options": [
+      "Democratic Republic of Congo",
+      "Mexico",
+      "Kazakhstan",
+      "Saudi Arabia"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The Mercator projection preserves the relative area of landmasses.\nReason (R): The stretching of parallels is matched exactly with the stretching of meridians on the Mercator grid.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Which projection type does the Mercator projection belong to?",
+     "options": [
+      "Equal-area and pseudo-cylindrical",
+      "Cylindrical and conformal",
+      "Equidistant and conical",
+      "Compromise and azimuthal"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Read the following statements about the Mercator projection:\nI. The Mercator projection preserves the relative area of landmasses.\nII. Gerardus Mercator was a Flemish geographer and cartographer.\nIII. Antarctica appears smaller than its true size on the Mercator grid.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about map projections are correct?\nI. The Mercator projection has been widely used for centuries.\nII. The Mercator projection is an equal-area projection.\nIII. The Equal Earth projection was designed to display the entire surface of the globe.\nIV. The Mercator projection is a compromise projection that balances area, shape, distance and direction.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x06-59",
+   "type": "TITA",
+   "passage": "Turning the round surface of the Earth into a flat map always involves some distortion. Different projections handle this in different ways, and the Mercator design is one of the most familiar. On the Mercator grid, longitudes are evenly spaced, but the gaps between latitudes widen as one moves towards the Poles. This spacing is a deliberate feature of the design, and it keeps the shapes of landmasses locally recognisable. The trade-off is that landmasses far from the Equator appear much larger than they really are, so the amount of exaggeration depends on how far a landmass lies from the Equator. Africa, for example, looks similar in size to Greenland on such a map, even though the two differ greatly in reality. Antarctica is also drawn far larger than its true size. On a standard wall map, India looks like a middleweight beside Scandinavia, which shows how much the grid can change the impression of a country's size. The Equal Earth projection is a newer design, used for thematic maps, that aims to show the whole globe in a more balanced way. Choosing a projection depends on what a map is meant to show, and each design makes its own choices about which features to keep.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Gerardus Mercator, who introduced the Mercator projection, was a geographer and cartographer from which region? (one word)"
+    },
+    {
+     "n": 2,
+     "q": "How many cartographers created the Equal Earth projection? (in number)"
+    },
+    {
+     "n": 3,
+     "q": "At what latitude, in degrees North, does the booklet use to show that India is inflated by only about 16% on the Mercator projection? (in degrees)"
+    },
+    {
+     "n": 4,
+     "q": "According to the comparison table, what is the primary advantage of the Equal Earth projection? (three words)"
+    },
+    {
+     "n": 5,
+     "q": "Equal Earth is described as an equal-area projection of which type? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "On the comparison table, what is the polar distortion of the Equal Earth projection? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "According to the comparison table, what is the primary advantage of the Mercator projection? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x06-60",
+   "type": "MCQ",
+   "passage": "Map projections are not a single fixed method, and cartographers have produced many of them over time. Every flat map is a trade-off, because a flat sheet cannot match the curved surface of the globe in every respect. The Winkel Tripel was designed to reduce distortion across area, distance and direction together, instead of perfecting one property at the cost of the others. It belongs to a wider group of compromise designs, which spread errors across several properties rather than concentrating them in one. Major institutions, including a large geographic society and the World Bank, later adopted it for their maps. Such compromise maps are used for general reference and world maps, where a natural-looking view of the whole globe is useful. Choosing a projection depends on the purpose of the map, so a design that suits one task may be poor for another. Accuracy matters in official mapping for a different reason. The Survey of India is a national body that works on official maps, and among its tasks is establishing geodetic reference frameworks, which give surveys a common base. The same survey body also checks how international borders appear on published maps. Maps published in India are also subject to legal rules that control how borders may be shown.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The Gall-Peters projection was popularised by Arno Peters in which year?",
+     "options": [
+      "1921",
+      "1963",
+      "1973",
+      "2018"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which projection is a compromise projection with meridians curving gently towards the Poles?",
+     "options": [
+      "Robinson",
+      "Gall-Peters",
+      "Mercator",
+      "Equal Earth"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Assertion (A): The Robinson projection preserves area exactly.\nReason (R): The Robinson projection was devised by Arthur H. Robinson to balance size and shape.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Read the following statements:\nI. The Gall-Peters projection preserves area accurately but makes landmasses look stretched or squashed.\nII. The Winkel Tripel projection was created in 1963.\nIII. The Criminal Law Amendment Act (1961) penalises maps that misrepresent India's borders.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Gall-Peters projection   ->   A. Established in 1767\nII. Robinson projection   ->   B. Oswald Winkel\nIII. Winkel Tripel projection   ->   C. Arthur H. Robinson\nIV. Survey of India   ->   D. James Gall",
+     "options": [
+      "I-D, II-C, III-B, IV-A",
+      "I-A, II-D, III-B, IV-C",
+      "I-A, II-B, III-D, IV-C",
+      "I-B, II-A, III-C, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements about the Survey of India are correct?\nI. The Survey of India is headed by the Surveyor General of India.\nII. John Mather undertook a modern scientific survey of India.\nIII. The Survey of India is headed by a Director General.\nIV. The Survey of India is headquartered in Bengaluru.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which ministry acts as the nodal agency for the Survey of India?",
+     "options": [
+      "Ministry of Home Affairs",
+      "Ministry of Earth Sciences",
+      "Ministry of Science and Technology",
+      "Ministry of External Affairs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x06-61",
+   "type": "TITA",
+   "passage": "Map projections are not a single fixed method, and cartographers have produced many of them over time. Every flat map is a trade-off, because a flat sheet cannot match the curved surface of the globe in every respect. The Winkel Tripel was designed to reduce distortion across area, distance and direction together, instead of perfecting one property at the cost of the others. It belongs to a wider group of compromise designs, which spread errors across several properties rather than concentrating them in one. Major institutions, including a large geographic society and the World Bank, later adopted it for their maps. Such compromise maps are used for general reference and world maps, where a natural-looking view of the whole globe is useful. Choosing a projection depends on the purpose of the map, so a design that suits one task may be poor for another. Accuracy matters in official mapping for a different reason. The Survey of India is a national body that works on official maps, and among its tasks is establishing geodetic reference frameworks, which give surveys a common base. The same survey body also checks how international borders appear on published maps. Maps published in India are also subject to legal rules that control how borders may be shown.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the Winkel Tripel projection created? (in year)"
+    },
+    {
+     "n": 2,
+     "q": "Which section of the Criminal Law Amendment Act (1961) penalises the publication and distribution of certain maps? (number)"
+    },
+    {
+     "n": 3,
+     "q": "In which year was the Gall-Peters projection first presented? (in year)"
+    },
+    {
+     "n": 4,
+     "q": "Arno Peters, who popularised the Gall-Peters projection, was a historian of which nationality? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "The Robinson projection was devised partly to solve which problem, named after a landmass? (two words)"
+    },
+    {
+     "n": 6,
+     "q": "The Criminal Law Amendment Act (1961) penalises maps that misrepresent India's international borders contrary to what? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "In which city is the headquarters of the Survey of India located? (one word)"
+    }
+   ]
+  }
+ ]
+}

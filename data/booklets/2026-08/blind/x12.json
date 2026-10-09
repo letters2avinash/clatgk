@@ -1,0 +1,294 @@
+{
+ "topic": "Global Tiger Day and Tiger Conservation",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Global Tiger Day and the TX2 Goal",
+   "summary": "Global Tiger Day is observed every year on 29 July and traces its origin to the 2010 St. Petersburg Tiger Summit in Russia. Thirteen Tiger Range Countries, including India, adopted the St. Petersburg Declaration. Their shared TX2 goal was to double the global wild tiger population by 2022.",
+   "facts": [
+    "Observed annually on 29 July; the booklet credits IUCN with the observance",
+    "Established at the 2010 St. Petersburg Tiger Summit, Russia",
+    "13 Tiger Range Countries, including India, adopted the St. Petersburg Declaration",
+    "TX2 goal: double the global wild tiger population by 2022",
+    "TX2 was chosen as the initiative's motto",
+    "Global Tiger Recovery Programme was launched",
+    "2010: Global Tiger Day celebrated to bolster international tiger conservation efforts"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Global Initiatives: IUCN, NTCA Eco-Tourism and IBCA",
+   "summary": "The IUCN Integrated Tiger Habitat Conservation Programme supports habitat restoration, anti-poaching measures and community-led coexistence across Asia. The NTCA Eco-Tourism Initiative provides an integrated platform for authentic safari and accommodation bookings. The International Big Cat Alliance, launched in 2023, is an India-led effort covering seven big cat species.",
+   "facts": [
+    "IUCN programme supports habitat restoration, anti-poaching and community-led coexistence",
+    "The IUCN programme covers Asia",
+    "NTCA Eco-Tourism Initiative is an integrated platform for bookings",
+    "The platform covers authentic safari and accommodation bookings",
+    "International Big Cat Alliance was launched in 2023",
+    "The International Big Cat Alliance is India-led",
+    "It covers seven big cat species: Tiger, Lion, Leopard, Snow Leopard, Cheetah, Jaguar, Puma",
+    "1st International Big Cat Alliance Summit was scheduled for June 2026 in New Delhi and is marked postponed"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Indian Institutions and Conservation Milestones",
+   "summary": "The National Board for Wild Life is a statutory board under the Wild Life Protection Act, 1972, and works to promote conservation of wildlife and forests. Project Tiger, launched in 1973, is overseen by the National Tiger Conservation Authority, which conducts the tiger census along with the Wildlife Institute of India. The milestones run from the 1969 ban on export of wild cat skins to the 2023 launch of the International Big Cat Alliance.",
+   "facts": [
+    "National Board for Wild Life is a statutory board under the Wild Life Protection Act, 1972",
+    "Project Tiger was launched in 1973 to support preservation of tigers in India",
+    "Project Tiger is overseen by the National Tiger Conservation Authority",
+    "Tiger census estimates population through a 4-year census cycle",
+    "Census is conducted by NTCA and the Wildlife Institute of India",
+    "M-STrIPES (2010) is a software-based monitoring system for tiger reserves",
+    "1969: ban on export of all wild cat skins",
+    "1972: Wildlife Protection Act enacted",
+    "2006: amendment to the Wildlife (Protection) Act",
+    "2023: International Big Cat Alliance launched"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Tiger Reserves and Tiger Population in India",
+   "summary": "India has 58 Tiger Reserves, which are specially designated protected areas under Project Tiger and cover over 2.3 per cent of India's total land. Madhya Pradesh leads with the most reserves, and Corbett has the highest tiger abundance among them. India's tiger population was 3,682 in the 2022 figure, with Madhya Pradesh and Karnataka as the top states.",
+   "facts": [
+    "India has 58 Tiger Reserves",
+    "Tiger Reserves are specially designated protected areas under Project Tiger",
+    "Tiger Reserves constitute over 2.3% of India's total land",
+    "Madhya Pradesh leads with 9 reserves, followed by Maharashtra and Karnataka",
+    "Largest tiger reserve: Nagarjunsagar Srisailam",
+    "Smallest tiger reserve: Bor (Maharashtra)",
+    "Highest tiger abundance: Corbett (260), followed by Bandipur (150)",
+    "Top states by tiger population: Madhya Pradesh (785) and Karnataka (563)",
+    "India's tiger population was 3,682 in 2022",
+    "Tiger Reserves are notified by State Governments and governed by NTCA; boundary changes need NTCA recommendation and National Board approval"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x12-80",
+   "type": "MCQ",
+   "passage": "Global Tiger Day is observed annually by IUCN, and its official theme is Coexistence in action: Scaling solutions for people and tigers. Several initiatives link to this theme. The Integrated Tiger Habitat Conservation Programme is an IUCN initiative that supports habitat restoration, anti-poaching measures and community-led coexistence. Its work reaches the regions where wild tigers live. The National Tiger Conservation Authority, which works under the environment ministry, has also launched the NTCA Eco-Tourism Initiative. The initiative is described as integrated, so related services are brought together for visitors. Conservation of big cats also extends beyond tigers. The International Big Cat Alliance is a global initiative that covers several big cat species, not only the tiger. Countries can join the International Big Cat Alliance as ratifying members. The programmes described here work at different levels, some on habitats and others through visitor services or international membership. Tigers are also the national animal of India, known as the Royal Bengal Tiger. Tiger conservation in India is supported by Project Tiger, a programme overseen by the National Tiger Conservation Authority. Tigers are the focus of the Global Tiger Day observance. Each initiative has its own scope, and each contributes to the wider goal of protecting tigers and other big cats in the wild.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which of the following is one of the seven big cat species covered by the International Big Cat Alliance?",
+     "options": [
+      "Wolf",
+      "Cheetah",
+      "Hyena",
+      "Wild dog"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "In which region does the IUCN Integrated Tiger Habitat Conservation Programme operate?",
+     "options": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Europe"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "In which year was the International Big Cat Alliance launched?",
+     "options": [
+      "2010",
+      "2014",
+      "2023",
+      "2026"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The International Big Cat Alliance covers seven big cat species.\nReason (R): Countries can become ratifying members of the International Big Cat Alliance.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. International Big Cat Alliance   ->   A. IUCN initiative\nII. NTCA Eco-Tourism Initiative   ->   B. Postponed\nIII. 1st International Big Cat Alliance Summit   ->   C. India-led\nIV. Integrated Tiger Habitat Conservation Programme   ->   D. Integrated platform for safari and accommodation bookings",
+     "options": [
+      "I-B, II-D, III-A, IV-C",
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-C, III-D, IV-A",
+      "I-C, II-D, III-B, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. The IUCN Integrated Tiger Habitat Conservation Programme covers habitat restoration and anti-poaching measures.\nII. The NTCA Eco-Tourism Initiative is a platform for safari and accommodation bookings.\nIII. The International Big Cat Alliance covers eight big cat species.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements are correct?\nI. Global Tiger Day is observed annually by IUCN.\nII. The International Big Cat Alliance was launched in 2010.\nIII. The NTCA Eco-Tourism Initiative was launched by the National Tiger Conservation Authority.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x12-81",
+   "type": "TITA",
+   "passage": "Protecting tigers requires work on habitats, on poaching and on the relationship between wild animals and people. The Integrated Tiger Habitat Conservation Programme is an initiative of the International Union for Conservation of Nature, known as IUCN. It focuses on restoring habitats, reducing poaching and encouraging communities to coexist with tigers. A separate effort is the NTCA Eco-Tourism Initiative, launched by the National Tiger Conservation Authority. The initiative is described as an integrated platform that offers authentic safari and accommodation bookings for visitors. Conservation of big cats also extends beyond tigers. The International Big Cat Alliance is a global initiative, and it covers several big cat species rather than only the tiger. Countries can join the alliance as ratifying members. Tiger Range Countries have also committed to a goal called TX2, which aimed to double the global wild tiger population by 2022. Global Tiger Day is observed each year by IUCN. Each of these efforts works at a different level, from habitats on the ground to international membership. Tigers are one of the big cat species, alongside lions, leopards and jaguars. The NTCA initiative and the IUCN programme cover different parts of the effort, one focused on visitors and the other on habitats and communities.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many big cat species does the International Big Cat Alliance cover? (number)"
+    },
+    {
+     "n": 2,
+     "q": "In which year was the International Big Cat Alliance launched? (year)"
+    },
+    {
+     "n": 3,
+     "q": "Which region does the IUCN Integrated Tiger Habitat Conservation Programme cover? (name of region)"
+    },
+    {
+     "n": 4,
+     "q": "In which city was the 1st International Big Cat Alliance Summit scheduled? (city)"
+    },
+    {
+     "n": 5,
+     "q": "In which month was the 1st International Big Cat Alliance Summit scheduled? (month)"
+    },
+    {
+     "n": 6,
+     "q": "How many initial ratifying members did the International Big Cat Alliance have? (number)"
+    },
+    {
+     "n": 7,
+     "q": "Which country leads the International Big Cat Alliance? (country)"
+    }
+   ]
+  },
+  {
+   "id": "q-x12-82",
+   "type": "MCQ",
+   "passage": "India's wildlife protection rests on a set of statutory bodies, policies and programmes. The National Board for Wild Life is one of the central institutions, and its role is to promote the conservation and development of wildlife and forests. Its scope covers both animals and the forest areas they live in. Project Tiger is a programme set up to support the preservation of tigers in India. It works through tiger reserves, which are notified by state governments. Monitoring of these reserves is also an important part of the work, and one system used in this area carries the name M-STrIPES. Tiger population is estimated through a census cycle, repeated at fixed intervals. More than one institution takes part in the census. Project Tiger is overseen by the National Tiger Conservation Authority, which is a statutory body under the Wild Life Protection Act. Tiger reserves are specially designated protected areas under Project Tiger. Changes to the boundaries of a tiger reserve require a recommendation from the authority and approval of the National Board for Wild Life. Legal and administrative steps have shaped the system over time. The Wild Life Protection Act was amended in 2006. The authority works under the environment ministry and is chaired by the minister in charge of that ministry.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Consider the following statements:\nI. The Wild Life Protection Act was enacted in 1972.\nII. The tiger census is conducted every three years.\nIII. M-STrIPES was introduced in 2010.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Assertion (A): The National Board for Wild Life is a statutory board.\nReason (R): It is constituted under the Wild Life Protection Act, 1972.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "How many of the following statements are correct?\nI. The export ban on wild cat skins was imposed in 1969.\nII. The 2006 amendment to the wildlife law resulted in the creation of the Wildlife Crime Control Bureau.\nIII. The National Tiger Conservation Authority was established in 2010.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "What does M-STrIPES stand for?",
+     "options": [
+      "Multi-State Tiger Reporting and Information Program for Ecological Safety",
+      "Management System for Tiger Rehabilitation in Protected Ecosystems",
+      "Mapping System for Tiger Range and Indigenous Protection",
+      "Monitoring System for Tigers - Intensive Protection and Ecological Status"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "How many years does one tiger census cycle last?",
+     "options": [
+      "2 years",
+      "3 years",
+      "4 years",
+      "5 years"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Which trade was banned in India in 1969?",
+     "options": [
+      "Export of ivory",
+      "Export of all wild cat skins",
+      "Import of tiger bones",
+      "Sale of forest timber"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Match List I with List II:\nI. 1969   ->   A. Software-based monitoring system for tiger reserves (M-STrIPES)\nII. 1972   ->   B. International Big Cat Alliance launched\nIII. 2010   ->   C. Ban on export of wild cat skins\nIV. 2023   ->   D. Wild Life Protection Act enacted",
+     "options": [
+      "I-D, II-C, III-B, IV-A",
+      "I-A, II-C, III-B, IV-D",
+      "I-C, II-D, III-A, IV-B",
+      "I-B, II-C, III-D, IV-A"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x12-83",
+   "type": "TITA",
+   "passage": "Wildlife protection in India rests on a set of institutions, each with a defined role. Several bodies share this work. The National Board for Wild Life is a statutory board, and its responsibilities include the promotion of conservation and development of wildlife and forests. Its legal basis lies in the Wild Life Protection Act. Project Tiger is a programme set up to support the preservation of tigers. Its tiger reserves are notified by state governments, and any change to their boundaries needs a recommendation from the National Tiger Conservation Authority and approval from the board. The authority is itself a statutory body, and it oversees Project Tiger. Population monitoring is a continuing task. The tiger population is estimated through a census cycle that repeats at fixed intervals, and more than one institution takes part in the census. One software-based system used in this area carries the name M-STrIPES, which is a monitoring system for tiger reserves. Legal and administrative steps have shaped the system over time. Changes to the wildlife law have also led to new bodies. The authority works under the environment ministry and is chaired by the minister in charge of that ministry. Tiger reserves are specially designated protected areas under Project Tiger.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many years does one tiger census cycle last? (number)"
+    },
+    {
+     "n": 2,
+     "q": "In which year was the Wild Life Protection Act enacted? (year)"
+    },
+    {
+     "n": 3,
+     "q": "What is the acronym of the bureau set up as a result of the 2006 amendment to the wildlife law? (acronym)"
+    },
+    {
+     "n": 4,
+     "q": "In which year was the M-STrIPES monitoring system introduced? (year)"
+    },
+    {
+     "n": 5,
+     "q": "In which year was the export ban on all wild cat skins imposed? (year)"
+    },
+    {
+     "n": 6,
+     "q": "What is the acronym of the ministry under which the National Tiger Conservation Authority works? (acronym)"
+    },
+    {
+     "n": 7,
+     "q": "Which institute, besides the NTCA, takes part in India's tiger census? (acronym)"
+    }
+   ]
+  }
+ ]
+}
