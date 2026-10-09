@@ -117,6 +117,7 @@ button.card:hover{border-color:var(--ink)}
 .stem .st{display:grid;grid-template-columns:2.4em 1fr;gap:4px}
 .stem .ask{font-weight:600;margin-top:12px}
 .mt{width:100%;border-collapse:collapse;margin:6px 0 10px;font-weight:500;font-size:.98rem}
+.mtnote{font-size:.78rem;color:var(--muted);margin:-4px 0 10px}
 .mt th{text-align:left;background:var(--surface-2);font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:8px 10px;border:1px solid var(--line)}
 .mt td{padding:9px 10px;border:1px solid var(--line);vertical-align:top;width:50%}
 @media (max-width:820px){
@@ -320,7 +321,7 @@ function result(){
 function stemHtml(t){
   var L=String(t).split("\n").map(function(x){return x.trim()}).filter(Boolean),out="",rows=[];
   function flush(){if(!rows.length)return;
-    out+='<table class="mt"><thead><tr><th>List I</th><th>List II</th></tr></thead><tbody>'+rows.map(function(r){return '<tr><td>'+esc(r[0])+'</td><td>'+esc(r[1])+'</td></tr>'}).join("")+'</tbody></table>';rows=[]}
+    out+='<table class="mt"><thead><tr><th>List I</th><th>List II</th></tr></thead><tbody>'+rows.map(function(r){return '<tr><td>'+esc(r[0])+'</td><td>'+esc(r[1])+'</td></tr>'}).join("")+'</tbody></table><div class="mtnote">Rows are only two lists side by side, not matched pairs. Work out the correct pairing, then pick the option.</div>';rows=[]}
   L.forEach(function(l){
     var m=l.split(/\s*->\s*/);
     if(m.length===2){rows.push(m);return}

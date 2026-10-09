@@ -38,7 +38,7 @@ def stem(q):
         if rows:
             t = Table([[P("List I", H3), P("List II", H3)]] + [[P(a, SM), P(b, SM)] for a, b in rows], colWidths=[85*mm, 85*mm])
             t.setStyle(TableStyle([("GRID", (0,0), (-1,-1), .4, colors.grey), ("BACKGROUND", (0,0), (-1,0), colors.HexColor("#e8eaf6")), ("VALIGN", (0,0), (-1,-1), "TOP")]))
-            out.append(t); out.append(Spacer(1, 3)); rows = []
+            out.append(t); out.append(P("Rows are two lists side by side, not matched pairs; work out the correct pairing.", SM)); out.append(Spacer(1, 3)); rows = []
     for l in L:
         m = l.split("   ->   ")
         if len(m) == 2: rows.append(m); continue
