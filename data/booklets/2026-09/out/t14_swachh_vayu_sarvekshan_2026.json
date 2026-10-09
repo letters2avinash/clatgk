@@ -1,0 +1,356 @@
+{
+ "topic": {
+   "title": "Swachh Vayu Sarvekshan 2026",
+   "chapter_title": "Environment & Biodiversity",
+   "subtopics": [
+     {
+       "title": "Swachh Vayu Diwas and Clean Air Day",
+       "summary": "Swachh Vayu Diwas 2026 was observed on 7 September 2026 and coincides with the International Day of Clean Air for Blue Skies. The International Day was designated by the UN General Assembly in 2019 and carries the 2026 theme 'Clean Air for Climate Action'. The occasion marked the presentation of the 5th Swachh Vayu Sarvekshan Awards.",
+       "facts": [
+         "Swachh Vayu Diwas 2026 was observed on 7 September 2026.",
+         "It coincides with the International Day of Clean Air for Blue Skies.",
+         "The UN General Assembly designated the International Day in 2019.",
+         "The 2026 theme of the International Day is 'Clean Air for Climate Action'.",
+         "India observes the occasion as Swachh Vayu Diwas.",
+         "The occasion marked presentation of the 5th Swachh Vayu Sarvekshan Awards."
+       ],
+       "keywords": ["Swachh Vayu Diwas", "Clean Air for Blue Skies", "Clean Air for Climate Action", "5th Sarvekshan Awards"]
+     },
+     {
+       "title": "National Clean Air Programme and NCAP targets",
+       "summary": "The National Clean Air Programme was launched by MoEFCC in 2019 as a national-level strategy covering 130 non-attainment cities along with million-plus cities. Its first target was a 20-30 per cent cut in PM10 and PM2.5 by 2024 using 2017 as the baseline, later enhanced to a 40 per cent cut in particulate matter by 2026. The revised target has not been fully achieved, as only 26 of 130 cities recorded a reduction of 40 per cent or more.",
+       "facts": [
+         "NCAP was launched by MoEFCC in 2019 as a national-level strategy.",
+         "NCAP covers 130 non-attainment cities along with million-plus cities.",
+         "Non-attainment cities are those that failed to comply with NAAQS over a specified assessment period.",
+         "Initial NCAP target: 20-30% reduction in PM10 and PM2.5 by 2024, with 2017 as baseline year.",
+         "Target was enhanced to a 40% reduction in particulate matter concentration by 2026.",
+         "Only 26 of 130 cities recorded a reduction of 40% or more.",
+         "In 2025-26, 108 cities recorded reductions in annual PM10 compared to 2017-18.",
+         "72 cities achieved reductions of more than 20% in FY 2025-26.",
+         "14 cities met the prescribed NAAQS."
+       ],
+       "keywords": ["NCAP", "non-attainment cities", "PM10", "PM2.5", "NAAQS", "2017 baseline"]
+     },
+     {
+       "title": "Swachh Vayu Sarvekshan and city rankings",
+       "summary": "The Swachh Vayu Sarvekshan was launched in 2022-23 as an annual assessment of the 130 NCAP cities. Cities are grouped into three population categories and evaluated across five key parameters. The 2026 edition introduced ward-level rankings for the first time, and the city-level toppers in each category are listed in the booklet.",
+       "facts": [
+         "Swachh Vayu Sarvekshan was launched in 2022-23 as an annual assessment of 130 NCAP cities.",
+         "Cities are grouped as Category I (above 10 lakh), Category II (3-10 lakh) and Category III (below 3 lakh).",
+         "Cities are evaluated on Ambient Air Quality, Source Apportionment, Action Plan Implementation, Institutional Capacity and Public Participation.",
+         "Category I (2026): Lucknow 1st (198), Indore 2nd (197), Jabalpur 3rd (195).",
+         "Category I bottom 5: Chennai, Jamshedpur, Kota, Kolkata and Madurai.",
+         "Delhi ranked 30th in Category I.",
+         "Category II (2026): Rourkela 1st (198.5); Firozabad and Guntur joint 2nd (195); Amravati 3rd (194).",
+         "Category III (2026): Kalinganagar 1st (198.5); Angul 2nd (196.5); Talcher 3rd (193.5).",
+         "The 2026 edition introduced Ward-level Rankings for the first time."
+       ],
+       "keywords": ["Sarvekshan", "Lucknow", "Rourkela", "Kalinganagar", "ward-level rankings", "population categories"]
+     },
+     {
+       "title": "Pollution control tools, measures and laws",
+       "summary": "The booklet lists monitoring tools, field measures, emergency action and legal provisions against air pollution. Monitoring includes the National Air Quality Index and SAFAR, while field measures include the Turbo Happy Seeder and Pusa Bio-Decomposer. The legal base includes the Air Act 1981, Water Act 1974 and Environment Protection Act 1986, along with Article 51A(g) and Article 21.",
+       "facts": [
+         "National Air Quality Index (2014) is a tool for communicating air quality status in easy terms.",
+         "Turbo Happy Seeder can uproot stubble and also sow seeds in the area cleared.",
+         "Pusa Bio-Decomposer turns crop residue into manure in 15-20 days and was developed by IARI.",
+         "Graded Response Action Plan (2017) is a set of emergency measures.",
+         "GRAP measures kick in only when air quality shifts from Poor to Very Poor.",
+         "SAFAR is a Ministry of Earth Sciences initiative to monitor city-wide and localised air quality.",
+         "Bharat Stage VI (2020) made the leap from BS-IV to BS-VI mandatory nationwide.",
+         "Air Act 1981, Water Act 1974 and Environment Protection Act 1986 are key pollution control regulations.",
+         "The 42nd Constitutional Amendment (1976) inserted Clause (g) in Article 51A, making protection of the natural environment a Fundamental Duty.",
+         "Article 21 has been interpreted to include the right to a healthy environment."
+       ],
+       "keywords": ["National AQI", "SAFAR", "Turbo Happy Seeder", "Pusa Bio-Decomposer", "GRAP", "BS-VI", "Article 51A(g)"]
+     }
+   ]
+ },
+ "mindmaps": [
+   {
+     "scope": "topic",
+     "title": "Swachh Vayu Sarvekshan 2026 map",
+     "root": {
+       "label": "Swachh Vayu Sarvekshan 2026",
+       "children": [
+         {"label": "Clean Air Day 2026", "children": [
+           {"label": "Observed 7 September 2026"},
+           {"label": "Theme: Clean Air for Climate Action"},
+           {"label": "5th Sarvekshan Awards presented"}
+         ]},
+         {"label": "National Clean Air Programme", "children": [
+           {"label": "Launched by MoEFCC in 2019"},
+           {"label": "Covers 130 non-attainment cities"},
+           {"label": "40% PM cut targeted by 2026"}
+         ]},
+         {"label": "Sarvekshan assessment", "children": [
+           {"label": "Launched in 2022-23"},
+           {"label": "Three population categories"},
+           {"label": "Ward-level rankings added in 2026"}
+         ]},
+         {"label": "2026 city rankings", "children": [
+           {"label": "Category I: Lucknow, Indore, Jabalpur"},
+           {"label": "Category II: Rourkela first"},
+           {"label": "Category III: Kalinganagar first"}
+         ]},
+         {"label": "Pollution control tools", "children": [
+           {"label": "National Air Quality Index (2014)"},
+           {"label": "SAFAR monitoring"},
+           {"label": "GRAP emergency measures"}
+         ]},
+         {"label": "Legal framework", "children": [
+           {"label": "Air Act 1981"},
+           {"label": "Water Act 1974"},
+           {"label": "Environment Protection Act 1986"}
+         ]}
+       ]
+     }
+   },
+   {
+     "scope": "subtopic",
+     "subtopic_index": 0,
+     "title": "Swachh Vayu Diwas",
+     "root": {
+       "label": "Swachh Vayu Diwas 2026",
+       "children": [
+         {"label": "Date: 7 September 2026"},
+         {"label": "Coincides with Clean Air Day"},
+         {"label": "Clean Air Day designated by UNGA in 2019"},
+         {"label": "Theme: Clean Air for Climate Action"},
+         {"label": "5th Sarvekshan Awards presented"}
+       ]
+     }
+   },
+   {
+     "scope": "subtopic",
+     "subtopic_index": 1,
+     "title": "NCAP targets and progress",
+     "root": {
+       "label": "National Clean Air Programme",
+       "children": [
+         {"label": "Launched by MoEFCC, 2019"},
+         {"label": "Covers 130 non-attainment cities"},
+         {"label": "Targets", "children": [
+           {"label": "20-30% cut by 2024 (2017 base)"},
+           {"label": "40% particulate cut by 2026"}
+         ]},
+         {"label": "Progress 2025-26", "children": [
+           {"label": "108 cities cut PM10 vs 2017-18"},
+           {"label": "72 cities cut over 20%"},
+           {"label": "26 cities cut 40% or more"},
+           {"label": "14 cities met NAAQS"}
+         ]}
+       ]
+     }
+   },
+   {
+     "scope": "subtopic",
+     "subtopic_index": 2,
+     "title": "Sarvekshan structure",
+     "root": {
+       "label": "Swachh Vayu Sarvekshan",
+       "children": [
+         {"label": "Three population categories", "children": [
+           {"label": "Category I: above 10 lakh"},
+           {"label": "Category II: 3-10 lakh"},
+           {"label": "Category III: below 3 lakh"}
+         ]},
+         {"label": "Five key parameters", "children": [
+           {"label": "Ambient air quality"},
+           {"label": "Source apportionment"},
+           {"label": "Action plan implementation"},
+           {"label": "Institutional capacity"},
+           {"label": "Public participation"}
+         ]},
+         {"label": "Ward-level rankings (2026)"}
+       ]
+     }
+   },
+   {
+     "scope": "subtopic",
+     "subtopic_index": 3,
+     "title": "Pollution control measures and laws",
+     "root": {
+       "label": "Air pollution controls",
+       "children": [
+         {"label": "Monitoring tools", "children": [
+           {"label": "National AQI (2014), CPCB"},
+           {"label": "SAFAR, Ministry of Earth Sciences"}
+         ]},
+         {"label": "Field measures", "children": [
+           {"label": "Turbo Happy Seeder"},
+           {"label": "Pusa Bio-Decomposer, 15-20 days"}
+         ]},
+         {"label": "Emergency and vehicle norms", "children": [
+           {"label": "GRAP (2017) at Poor to Very Poor"},
+           {"label": "BS-VI mandatory from 2020"}
+         ]},
+         {"label": "Legal framework", "children": [
+           {"label": "Air Act 1981"},
+           {"label": "Water Act 1974"},
+           {"label": "EP Act 1986"},
+           {"label": "Article 51A(g) and Article 21"}
+         ]}
+       ]
+     }
+   }
+ ],
+ "mnemonics": [
+   {
+     "scope": "subtopic",
+     "subtopic_index": 2,
+     "title": "Five key parameters",
+     "mnemonic": "A Sensible Approach In Public",
+     "decode": [
+       {"key": "A", "meaning": "Ambient air quality"},
+       {"key": "S", "meaning": "Source apportionment"},
+       {"key": "A", "meaning": "Action plan implementation"},
+       {"key": "I", "meaning": "Institutional capacity"},
+       {"key": "P", "meaning": "Public participation"}
+     ]
+   },
+   {
+     "scope": "subtopic",
+     "subtopic_index": 1,
+     "title": "NCAP target years",
+     "mnemonic": "Seventeen base, twenty-four start, forty by twenty-six",
+     "decode": [
+       {"key": "Seventeen", "meaning": "2017 is the baseline year"},
+       {"key": "Twenty-four", "meaning": "2024 is the initial target year"},
+       {"key": "Forty", "meaning": "40% enhanced reduction target"},
+       {"key": "Twenty-six", "meaning": "2026 is the enhanced target year"}
+     ]
+   },
+   {
+     "scope": "subtopic",
+     "subtopic_index": 3,
+     "title": "Three pollution laws",
+     "mnemonic": "Always Watch the Environment",
+     "decode": [
+       {"key": "A", "meaning": "Air (Prevention and Control of Pollution) Act, 1981"},
+       {"key": "W", "meaning": "Water (Prevention and Control of Pollution) Act, 1974"},
+       {"key": "E", "meaning": "Environment Protection Act, 1986"}
+     ]
+   }
+ ],
+ "quizzes": [
+   {
+     "type": "MCQ",
+     "subtopic_index": 2,
+     "title": "Sarvekshan rankings check",
+     "passage": "The Swachh Vayu Sarvekshan is an annual assessment of the cities covered under the National Clean Air Programme. It was first launched in 2022-23. The cities are grouped into three categories according to their population: Category I covers the largest cities, Category II covers mid-sized cities and Category III covers the smallest cities in the assessment. The assessment focuses on seven areas of measures: road dust management, solid waste management, vehicular emissions, industrial emissions, construction and demolition waste, commercial sources, and public awareness and outreach initiatives. Cities are evaluated on five key parameters: ambient air quality, source apportionment, action plan implementation, institutional capacity and public participation. Swachh Vayu Diwas 2026 was observed on 7 September 2026, which coincides with the International Day of Clean Air for Blue Skies. The fifth set of Swachh Vayu Sarvekshan Awards was presented on that occasion. The awards recognise cities and wards that have shown effective air pollution mitigation measures under the programme. The 2026 edition also introduced a new feature: ward-level rankings, which show how individual wards compare with one another. City-level results are reported within each category, which means cities are compared with others of similar population.",
+     "questions": [
+       {
+         "q": "Which city secured the 2nd position in Category I (population above 10 lakh) in the 5th Sarvekshan 2026?",
+         "options": ["Lucknow", "Jabalpur", "Indore", "Kota"],
+         "answer": 2,
+         "explanation": "Indore secured the 2nd position in Category I with a score of 197, behind Lucknow (198)."
+       },
+       {
+         "q": "Which city was the leading performer in Category III (population below 3 lakh)?",
+         "options": ["Angul", "Talcher", "Rourkela", "Kalinganagar"],
+         "answer": 3,
+         "explanation": "Kalinganagar (Odisha) emerged as the Category III leader with 198.5 points, ahead of Angul (196.5) and Talcher (193.5)."
+       },
+       {
+         "q": "Which two cities shared the second position in Category II (population 3-10 lakh)?",
+         "options": ["Rourkela and Amravati", "Firozabad and Guntur", "Indore and Jabalpur", "Angul and Talcher"],
+         "answer": 1,
+         "explanation": "Firozabad and Guntur were joint second in Category II with 195 points each."
+       },
+       {
+         "q": "Assertion (A): Lucknow was the top-performing city in Category I (population above 10 lakh) in the 5th Swachh Vayu Sarvekshan 2026.\nReason (R): Lucknow recorded the highest score, 198, among Category I cities.",
+         "options": [
+           "Both A and R are true and R is the correct explanation of A",
+           "Both A and R are true but R is not the correct explanation of A",
+           "A is true but R is false",
+           "A is false but R is true"
+         ],
+         "answer": 0,
+         "explanation": "Lucknow's score of 198 was the highest in Category I, ahead of Indore (197) and Jabalpur (195), which explains its top rank."
+       },
+       {
+         "q": "Match List I with List II:\nI. Category I (population above 10 lakh)   ->   A. Lucknow\nII. Category II (population 3-10 lakh)   ->   B. Rourkela\nIII. Category III (population below 3 lakh)   ->   C. Kalinganagar\nIV. Category II, third position   ->   D. Amravati",
+         "options": ["I-B, II-A, III-C, IV-D", "I-A, II-C, III-B, IV-D", "I-C, II-B, III-A, IV-D", "I-A, II-B, III-C, IV-D"],
+         "answer": 3,
+         "explanation": "Lucknow topped Category I, Rourkela topped Category II, Kalinganagar topped Category III and Amravati was third in Category II."
+       },
+       {
+         "q": "Which of the above statements is/are correct?\nI. Lucknow was the top-performing city in Category I (population above 10 lakh).\nII. Jabalpur secured the second position in Category I (population above 10 lakh).\nIII. Talcher secured the third position in Category III (population below 3 lakh).",
+         "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+         "answer": 2,
+         "explanation": "Statement I and III are correct, while Indore (not Jabalpur) was second in Category I."
+       },
+       {
+         "q": "How many of the following statements about the 5th Sarvekshan rankings are correct?\nI. Indore secured the 2nd position in Category I.\nII. Angul secured the 1st position in Category III.\nIII. Rourkela secured the 1st position in Category II.",
+         "options": ["Only one", "Only two", "Only three", "None"],
+         "answer": 1,
+         "explanation": "Statements I and III are correct, while Kalinganagar (not Angul) was first in Category III."
+       },
+       {
+         "q": "Which city was ranked 30th in Category I of the 5th Sarvekshan 2026?",
+         "options": ["Delhi", "Jabalpur", "Indore", "Lucknow"],
+         "answer": 0,
+         "explanation": "Delhi was ranked 30th in Category I of the 2026 Sarvekshan."
+       }
+     ]
+   },
+   {
+     "type": "TITA",
+     "subtopic_index": 1,
+     "title": "NCAP numbers check",
+     "passage": "The National Clean Air Programme is a national-level strategy launched by the Ministry of Environment, Forest and Climate Change to address air pollution through coordinated interventions across sectors. It covers non-attainment cities along with million-plus cities. Non-attainment cities are those that have failed to comply with the National Ambient Air Quality Standards over a specified assessment period. Its initial target was a 20 to 30 per cent reduction in PM10 and PM2.5 concentrations by 2024. Later, the target was enhanced to a reduction in particulate matter concentration by 2026, and the revised target has not been fully achieved. Annual PM10 concentrations are compared with the base year to measure progress. Progress is also tracked through the PRANA portal, which was launched to track NCAP progress and regulate air pollution in non-attainment cities. The National Air Quality Index is a tool for communicating air quality status to people in terms that are easy to understand. The Graded Response Action Plan is a set of emergency measures that come into effect when air quality shifts from Poor to Very Poor. Other measures include the Bharat Stage VI vehicle emission standards, which replaced BS-IV norms nationwide.",
+     "questions": [
+       {
+         "q": "In which year was the National Clean Air Programme launched by MoEFCC? (year)",
+         "answer": "2019",
+         "accept": ["2019"],
+         "explanation": "NCAP was launched by MoEFCC in 2019."
+       },
+       {
+         "q": "How many of the 130 cities recorded a reduction of 40% or more in particulate matter concentration? (in number)",
+         "answer": "26",
+         "accept": ["26", "twenty-six", "twenty six"],
+         "explanation": "Only 26 of the 130 cities recorded a reduction of 40% or more."
+       },
+       {
+         "q": "How many cities met the prescribed NAAQS under NCAP progress? (in number)",
+         "answer": "14",
+         "accept": ["14", "fourteen"],
+         "explanation": "14 cities met the prescribed NAAQS."
+       },
+       {
+         "q": "In which year was the baseline for NCAP targets set? (year)",
+         "answer": "2017",
+         "accept": ["2017"],
+         "explanation": "NCAP targets use 2017 as the baseline year."
+       },
+       {
+         "q": "To what percentage reduction in particulate matter concentration by 2026 was the NCAP target enhanced? (in per cent)",
+         "answer": "40",
+         "accept": ["40%", "40 per cent", "forty", "forty per cent"],
+         "explanation": "The target was enhanced to a 40% reduction in particulate matter concentration by 2026."
+       },
+       {
+         "q": "How many cities achieved reductions of more than 20% in FY 2025-26? (in number)",
+         "answer": "72",
+         "accept": ["seventy-two", "seventy two"],
+         "explanation": "72 cities achieved reductions of more than 20% in FY 2025-26."
+       },
+       {
+         "q": "How many cities recorded reductions in annual PM10 concentrations in 2025-26 compared to 2017-18? (in number)",
+         "answer": "108",
+         "accept": ["one hundred eight", "one hundred and eight"],
+         "explanation": "108 cities recorded reductions in annual PM10 concentrations compared to 2017-18."
+       }
+     ]
+   }
+ ],
+ "needs_check": [
+   {"page": 91, "what": "Ward-level top performers by category (Lucknow, Bhopal, Nashik, Bhubaneswar, Vijayawada, Prayagraj, Rourkela, Nalgonda) are interleaved with other text; their category assignment is unclear."},
+   {"page": 92, "what": "Launching or developing body for the Turbo Happy Seeder is not legible."},
+   {"page": 92, "what": "Submitting body (CPCB) and the 2016 Supreme Court approval for GRAP sit in a garbled column; the 2016 approval year does not sit cleanly with the 2017 label."},
+   {"page": 94, "what": "Option (d) of question 12 (Sarvekshan launch year) is truncated; the launch year 2022-23 was taken from page 92 instead."}
+ ]
+}
