@@ -211,7 +211,7 @@ function list(kind){
 function drawModes(){
   $("#modes").innerHTML=MODES.map(function(m){return '<button type="button" data-mode="'+m[0]+'" aria-pressed="'+(mode===m[0])+'">'+m[1]+'<span class="n">'+list(m[0]).length+'</span></button>'}).join("");
 }
-function opts(arr,val,label){return '<option value="">'+label+'</option>'+arr.map(function(o){return '<option value="'+esc(o.id)+'"'+(o.id===val?" selected":"")+'>'+esc(o.title||o.label)+'</option>'}).join("")}
+function opts(arr,val,label){return '<option value="">'+label+'</option>'+arr.map(function(o){var t=o.title||o.label;if(o.month&&!F.month&&DB.node[o.month])t+=" ("+DB.node[o.month].title.replace(/ 20(\d\d)$/,"\u2019$1")+")";return '<option value="'+esc(o.id)+'"'+(o.id===val?" selected":"")+'>'+esc(t)+'</option>'}).join("")}
 function drawFilters(){
   var ms=DB.months.map(function(m){return {id:m.id,title:m.label}});
   var chs=DB.chapters.filter(function(c){return !F.month||c.month===F.month});

@@ -1,0 +1,49 @@
+{
+ "questions": [
+  {
+   "id": "t-t08-1",
+   "n": 2,
+   "my_answer": "21,000",
+   "supported": true,
+   "evidence": {
+    "page": 57,
+    "quote": "Budgetary Provision of 21,000 Crore has been made for FY"
+   },
+   "issues": []
+  },
+  {
+   "id": "t-t08-1",
+   "n": 4,
+   "my_answer": "Pax Silica",
+   "supported": true,
+   "evidence": {
+    "page": 57,
+    "quote": "India has joined Pax Silica coalition to strengthen Global Semiconductor Supply"
+   },
+   "issues": []
+  }
+ ],
+ "passage_flags": [
+  {
+   "quiz": "q-t06-0",
+   "claim": "Understanding these trade-offs helps students read maps with care, and this is why many different projections continue to exist side by side in atlases, classrooms and official publications.",
+   "problem": "Not stated in the booklet. It says the choice of projection depends on purpose and lists Winkel Tripel replacing Robinson in National Geographic, then schools, textbooks and the World Bank. It does not give coexistence of projections as the reason, so the causal 'this is why' is not supported."
+  },
+  {
+   "quiz": "q-t08-0",
+   "claim": "This approach turns a broad national goal into a set of concrete steps that can be tracked over time.",
+   "problem": "Not found in the booklet. The text describes the six pillars and the programme's aims, but says nothing about the steps being trackable or tracked over time."
+  },
+  {
+   "quiz": "q-t15-0",
+   "claim": "Earth observation satellites ... usefulness depends on where they are placed in space, the rocket that lifts them and the sensors they carry.",
+   "problem": "Partly unsupported. The booklet says orbit choice determines coverage, resolution, revisit time and application, and it describes the sensors. It does not name the launch rocket as a factor in usefulness."
+  },
+  {
+   "quiz": "t-t09-1",
+   "claim": "shopkeepers in local markets often accept payments through a QR code displayed at the counter",
+   "problem": "Only partly supported. The booklet mentions UPI QR-code receipts for small merchants (up to 1 lakh per month), but says nothing about counter display or how often QR payments occur."
+  }
+ ],
+ "fact_flags": []
+}
