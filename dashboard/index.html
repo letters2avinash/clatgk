@@ -111,6 +111,32 @@ button.card:hover{border-color:var(--ink)}
 .expl{margin-top:12px;padding:10px 12px;border-radius:10px;background:var(--surface-2);font-size:.92rem}
 .score{font-family:var(--display);font-size:2.2rem;margin:4px 0}
 .confirm{margin:0 16px 12px;padding:10px 12px;border:1px solid var(--gold);background:var(--gold-soft);border-radius:10px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between}
+.stem{font-family:var(--read);font-weight:600;font-size:1.06rem;line-height:1.55;margin:0 0 14px}
+.stem .qn{display:block;font-family:var(--ui,inherit);font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500;margin-bottom:6px}
+.stem .sl{margin:0 0 8px;font-weight:500}
+.stem .st{display:grid;grid-template-columns:2.4em 1fr;gap:4px}
+.stem .ask{font-weight:600;margin-top:12px}
+.mt{width:100%;border-collapse:collapse;margin:6px 0 10px;font-weight:500;font-size:.98rem}
+.mt th{text-align:left;background:var(--surface-2);font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:8px 10px;border:1px solid var(--line)}
+.mt td{padding:9px 10px;border:1px solid var(--line);vertical-align:top;width:50%}
+@media (max-width:820px){
+  body{font-size:15px}
+  .qwrap{gap:10px}
+  .pane.pas{max-height:34vh;padding:12px 14px}
+  .pane.pas .pt{font-size:.97rem;line-height:1.6}
+  .pane.qs{min-height:0}
+  .qbody{padding:12px;overflow:visible}
+  .opt{min-height:48px}
+  .qfoot{position:sticky;bottom:0;background:var(--surface);z-index:5;padding:10px 12px;box-shadow:0 -6px 12px -10px rgba(0,0,0,.25)}
+  .qfoot .btn{min-height:44px;padding-inline:14px}
+  .pal{flex-wrap:nowrap;overflow-x:auto;padding:8px 12px}
+  .pal button{flex:0 0 40px;width:40px;height:40px}
+  .mt th,.mt td{padding:7px 8px;font-size:.92rem}
+  .filters{grid-template-columns:1fr 1fr}
+  .filters select,.filters input,.filters .reset{height:44px}
+  .mm-wrap{padding:12px;max-height:68vh}
+}
+@media (max-width:480px){.filters{grid-template-columns:1fr}}
 @media (max-width:820px){
   .qwrap{grid-template-columns:1fr;height:auto}
   .pane.pas{max-height:42vh}
@@ -291,6 +317,21 @@ function result(){
   });
   return {score:sc,ok:ok,wr:wr,un:un};
 }
+function stemHtml(t){
+  var L=String(t).split("\n").map(function(x){return x.trim()}).filter(Boolean),out="",rows=[];
+  function flush(){if(!rows.length)return;
+    out+='<table class="mt"><thead><tr><th>List I</th><th>List II</th></tr></thead><tbody>'+rows.map(function(r){return '<tr><td>'+esc(r[0])+'</td><td>'+esc(r[1])+'</td></tr>'}).join("")+'</tbody></table>';rows=[]}
+  L.forEach(function(l){
+    var m=l.split(/\s*->\s*/);
+    if(m.length===2){rows.push(m);return}
+    flush();
+    var a=/^(Assertion \(A\)|Reason \(R\)):\s*(.*)$/.exec(l);
+    if(a){out+='<p class="sl ar"><b>'+esc(a[1])+':</b> '+esc(a[2])+'</p>';return}
+    var b=/^(\d+\.|[IVX]+\.)\s+(.*)$/.exec(l);
+    if(b){out+='<p class="sl st"><b>'+esc(b[1])+'</b><span>'+esc(b[2])+'</span></p>';return}
+    out+='<p class="sl'+(/^(Which|How many)/.test(l)?" ask":"")+'">'+esc(l)+'</p>';
+  });
+  flush();return out}
 function drawQuiz(){
   var Q=quiz.q,n=Q.questions.length,i=quiz.i,qq=Q.questions[i],mc=Q.type==="MCQ",R=quiz.done?result():null;
   var body="";
@@ -308,7 +349,7 @@ function drawQuiz(){
       opt='<input class="tita" id="tita" type="text" autocomplete="off" placeholder="Type your answer" value="'+esc(a||"")+'"'+(quiz.done?" disabled":"")+'>';
       if(quiz.done){var g=titaOk(qq,a||"");opt+='<div class="expl" style="border-left:4px solid '+(g?"var(--good)":"var(--bad)")+'"><strong>'+(g?"Correct":"Answer")+':</strong> '+esc(qq.answer)+'</div>'}
     }
-    body='<div class="qbody"><h3>Q'+(i+1)+'. '+esc(qq.q)+'</h3><div role="radiogroup">'+opt+'</div>'+(quiz.done?'<div class="expl"><strong>Explanation.</strong> '+esc(qq.explanation||"")+'</div>':"")+'</div>';
+    body='<div class="qbody"><div class="stem"><span class="qn">Question '+(i+1)+'</span>'+stemHtml(qq.q)+'</div><div role="radiogroup">'+opt+'</div>'+(quiz.done?'<div class="expl"><strong>Explanation.</strong> '+esc(qq.explanation||"")+'</div>':"")+'</div>';
   }
   var pal=Q.questions.map(function(x,k){
     var c="";if(quiz.done){var v=quiz.ans[k],g=mc?v===x.answer:titaOk(x,v||"");c=(v===null||v==="")?"":(g?"ok":"no")}else if(quiz.sv[k])c="sv";
