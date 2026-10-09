@@ -1,0 +1,185 @@
+{
+ "topic": "WPI Base Year Revision and Introduction of PPI",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Wholesale Price Index (WPI) Basics",
+   "summary": "The Wholesale Price Index measures the average change in prices of goods traded at wholesale or producer level, before they reach final consumers. It is an important indicator of inflationary trends within the production and distribution chain. The Office of Economic Adviser compiles and releases it.",
+   "facts": [
+    "Measures average change in prices of goods traded at wholesale or producer level",
+    "Captures prices before goods reach final consumers",
+    "Indicator of inflationary trends within the production and distribution chain",
+    "Compiled and released by the Office of Economic Adviser",
+    "Office of Economic Adviser works under the Department for Promotion of Industry and Internal Trade",
+    "Base year of the WPI before revision: 2011-12"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Base Year Revision and Major Reforms",
+   "summary": "The Government of India has approved revising the WPI base year from 2011-12 to 2022-23. The revised series changes the number of items, moves energy commodities to a different category, adopts a new weighting method and a new treatment of missing data. These changes aim to reflect the producer side of the economy more accurately.",
+   "facts": [
+    "Government of India approved revision of WPI base year from 2011-12 to 2022-23",
+    "Number of items rises from 697 (WPI 2011-12) to 957 (WPI 2022-23)",
+    "Renewable energy inclusion adds Solar Power, Wind Energy and Nuclear Electricity as new components",
+    "Crude Petroleum and Natural Gas shifted from Primary Articles to Fuel and Power category",
+    "Revised weights are derived directly from Gross Value of Output",
+    "Earlier weights were based on Net Traded Value: Gross Value of Output + Imports - Exports",
+    "New missing-data approach: Targeted Mean Imputation",
+    "Previous missing-data approach: Carry-Forward Method, where missing prices were replaced by the last available price"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Producer Price Indices (PPIs)",
+   "summary": "For the first time, India will release dedicated Producer Price Indices with 2022-23 as base year. These indices track prices from the producer side and cover goods as well as services. Three indices are described: Output, Input and Service PPI.",
+   "facts": [
+    "For the first time, dedicated PPIs will be released with 2022-23 as base year",
+    "Output PPI measures prices received by producers for goods and services they sell",
+    "Output PPI captures prices at factory gate or producer level, before taxes, trade margins and transportation costs",
+    "Output PPI reflects producer earnings and is an early indicator of future inflationary pressures",
+    "Input PPI measures prices paid by producers for inputs such as raw materials, intermediate goods and energy",
+    "Input PPI tracks production cost pressures and supply-side inflation",
+    "Service PPI measures prices received by service providers for services rendered",
+    "Services covered: banking, securities transactions, insurance, pension fund management, railways, air passenger transport and telecommunications"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "WPI and PPI Compared",
+   "summary": "The PPI differs from the WPI in scope, focus, perspective and purpose. The WPI is primarily about goods and market-level wholesale prices, while the PPI covers goods and services and looks at producer revenue and input costs. The new PPIs are introduced alongside the revised WPI series.",
+   "facts": [
+    "WPI scope: primarily goods; PPI scope: goods and services",
+    "WPI focus: wholesale price movements; PPI focus: producer-level price changes",
+    "WPI perspective: market-level wholesale prices; PPI perspective: producer revenue and input costs",
+    "WPI purpose: inflation monitoring; PPI purpose: comprehensive producer inflation analysis",
+    "New PPIs are introduced alongside the revised WPI series",
+    "Service PPI captures inflation trends in the services sector from the producer perspective"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t08-0",
+   "type": "MCQ",
+   "passage": "Price indices are widely used to track inflation, and the Wholesale Price Index (WPI) is a key measure among them. The Government of India has now approved a revision of the WPI base year, moving the reference point of the index to a more recent period. A base year is the reference period against which later price movements are measured, so changing it allows the index to reflect the structure of the modern economy more accurately. Economic activity has changed considerably since the earlier base year was fixed, with new industries, new energy sources and new patterns of production becoming significant. The revision therefore aims to capture these shifts in the composition of goods, in the way they are classified and in the way their relative importance is measured. Accurate measurement matters because the WPI sits early in the supply chain, and its movements often signal pressures that may later reach consumers. Alongside the revised WPI, the Government has decided to introduce new Producer Price Indices. These indices are meant to give a wider picture of the prices that producers receive and pay, and of the costs they face in production. Together, the revised series is expected to provide a more complete view of inflation at the producer level, helping policymakers, businesses and analysts read cost and price dynamics with greater confidence.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The 2011-12 WPI series covered 697 items. By how many items did the item count rise in the revised series with 2022-23 as base year?",
+     "options": [
+      "160",
+      "220",
+      "260",
+      "300"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which index measures changes in prices received by producers for the goods and services they sell?",
+     "options": [
+      "Output Producer Price Index",
+      "Input Producer Price Index",
+      "Wholesale Price Index",
+      "Service Producer Price Index"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "In the revised WPI series, Crude Petroleum and Natural Gas were moved between categories. Which move describes this change?",
+     "options": [
+      "From Manufactured Products to Primary Articles",
+      "From Fuel and Power to Manufactured Products",
+      "From Primary Articles to Manufactured Products",
+      "From Primary Articles to Fuel and Power"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The revised WPI series uses weights based on Gross Value of Output rather than Net Traded Value.\nReason (R): The earlier WPI method calculated weights as Gross Value of Output plus imports minus exports.\nChoose the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Input Producer Price Index   ->   A. Missing prices replaced by the last available price\nII. Output Producer Price Index   ->   B. Prices received by service providers for services rendered\nIII. Service Producer Price Index   ->   C. Prices paid by producers for inputs used in production\nIV. Carry-Forward Method   ->   D. Prices received by producers for goods and services they sell",
+     "options": [
+      "I-B, II-A, III-C, IV-D",
+      "I-D, II-C, III-A, IV-B",
+      "I-D, II-A, III-C, IV-B",
+      "I-C, II-D, III-B, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "I. The revised WPI series has 957 items, up from 697 in the 2011-12 series.\nII. Crude Petroleum and Natural Gas are classified under Primary Articles in the revised series.\nIII. The revised series uses Targeted Mean Imputation to treat missing data.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "II and III only",
+      "I, II and III",
+      "I and II only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "I. Solar Power is one of the components newly added in the revised WPI series.\nII. The new missing-data approach is the Carry-Forward Method.\nIII. The Output PPI measures prices before taxes, trade margins and transportation costs.\nIV. Pension Fund Management is among the services covered by the Service PPI.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Which method, previously used for missing prices, was replaced in the revised WPI series by Targeted Mean Imputation?",
+     "options": [
+      "Linear interpolation",
+      "Carry-Forward Method",
+      "Moving average method",
+      "Seasonal adjustment"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t08-1",
+   "type": "TITA",
+   "passage": "Most discussion of inflation focuses on the prices that households pay, yet the prices that producers receive and pay also shape the economy. A manufacturer that receives lower prices for its output may reduce production, while a rise in the cost of materials or energy can squeeze profits and later feed into the prices of finished goods. Policymakers therefore need measures that show price movements from the producer's side of the chain. Economic activity today is also not limited to physical goods. The service sector contributes a large share of output, and its prices are influenced by factors that differ from those affecting goods. A measure that covers only goods can leave important producer-side changes out of view. To address such gaps, the Government has decided to introduce a new family of producer indices alongside the revised wholesale index. The indices are intended to capture price changes at different stages of production and across services as well. They are also expected to help analysts understand cost conditions and supply-side pressures faced by businesses. Because producers operate in many sectors, a broader set of indices allows a more detailed reading of how cost and revenue pressures move through the economy. Such information can help central planners, investors and industry bodies anticipate changes in inflation before they fully appear in consumer prices.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "For the first time, dedicated Producer Price Indices will be released with which base year? (give the year range)"
+    },
+    {
+     "n": 2,
+     "q": "How many distinct types of Producer Price Index are described in the booklet? (in number)"
+    },
+    {
+     "n": 3,
+     "q": "Which Producer Price Index measures changes in prices paid by producers for inputs used in production? (one word)"
+    },
+    {
+     "n": 4,
+     "q": "At which level does the Output PPI capture prices, before taxes, trade margins and transportation costs? (two words)"
+    },
+    {
+     "n": 5,
+     "q": "How many services are listed in the booklet as covered by the Service PPI? (in number)"
+    },
+    {
+     "n": 6,
+     "q": "In the WPI vs PPI comparison, which index has a scope covering both goods and services? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "In the WPI vs PPI comparison, which index has the stated purpose of inflation monitoring? (one word)"
+    }
+   ]
+  }
+ ]
+}

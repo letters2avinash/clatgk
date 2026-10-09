@@ -1,0 +1,191 @@
+{
+ "topic": "Election Symbols (Reservation and Allotment) Order, 1968",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Party System and Types of Parties",
+   "summary": "Political parties are groups of like-minded individuals who voluntarily organise to gain political power through constitutional means and promote the national interest. The booklet compares three party systems and gives examples of national and state parties in India. Recognised parties are allotted symbols reserved for their use in their jurisdiction.",
+   "facts": [
+    "Political party: group of like-minded individuals who voluntarily organise to gain political power through constitutional means",
+    "Aim of parties: promote the national interest",
+    "Three party systems: one party (China), two party (USA), multi-party (India)",
+    "National parties (6) include AAP, BJP, INC, BSP and CPI-M among the examples",
+    "State parties include DMK, AIADMK, Telugu Desam, Shiv Sena, Asom Gana Parishad and Mizo National Front",
+    "Recognised national or state parties are allotted a symbol exclusively reserved for their use in their jurisdiction",
+    "The cockroach-as-symbol debate drew attention to the framework governing election symbols"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Criteria for Recognition",
+   "summary": "Parties are recognised as national or state parties on the basis of votes and seats won at general elections. The booklet sets separate criteria for each category, measured against valid votes polled and seats in the Lok Sabha or the legislative assembly.",
+   "facts": [
+    "National party: secures 6% of valid votes in any 4 or more states at a general election to the LS or LA",
+    "National party: wins 4 LS seats from one or more states",
+    "National party: wins 2% of LS seats at a general election, from 3 states",
+    "National party: recognised as a state party in 4 states",
+    "State party: secures 6% of valid votes polled in the state at a GE to the LA and wins 2 LA seats",
+    "State party: wins 3% of LA seats or 3 LA seats, whichever is more",
+    "State party: secures 8% of total valid votes polled in the state at a GE to the LS or LA",
+    "State party: secures 6% of valid votes polled in the state at a GE to the LS and wins 1 LS seat from the state",
+    "State party: wins 1 LS seat for every 25 seats or fraction thereof allotted to the state"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "1968 Order: Reserved and Free Symbols",
+   "summary": "The Election Symbols (Reservation and Allotment) Order, 1968 was issued by the Election Commission and provides the legal framework for reservation and allotment of symbols. It separates reserved symbols, held exclusively by recognised parties, from free symbols, open to registered unrecognised parties and independent candidates.",
+   "facts": [
+    "The Order was issued by the Election Commission of India in 1968",
+    "The Order provides the legal framework for reservation and allotment of election symbols",
+    "The Order covers registration, recognition and derecognition of parties",
+    "The Order covers classification of parties as national or state parties",
+    "The Order covers resolution of disputes arising from party splits and mergers",
+    "Reserved symbols are exclusively allotted to recognised national or state parties",
+    "Free symbols are available to registered unrecognised parties and independent candidates",
+    "Free symbols are allotted by the ECI from a notified list"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Party Splits and ECI's Role",
+   "summary": "The ECI is the sole authority to adjudicate disputes arising from splits within recognised parties and from mergers. It applies organisational and legislative tests before deciding whether one faction keeps the name and symbol, whether the other must register separately, or whether the symbol is frozen. Two Supreme Court decisions, Sadiq Ali (1972) and Kanhaiyalal Omar (1986), shape how these tests and the Order are applied.",
+   "facts": [
+    "The ECI is the sole authority empowered to adjudicate disputes from splits within recognised parties and from mergers",
+    "Organisational wing test covers the party president, office bearers, and national and state executive members",
+    "Legislative wing test covers elected MPs, MLAs and MLCs (where applicable)",
+    "One faction may be recognised as the original party, retaining the name and symbol",
+    "The other faction must register separately under a different name and symbol",
+    "If neither faction shows a clear majority, ECI may freeze the original symbol and direct both groups to contest under new names and symbols",
+    "During the 1969 split of the Indian National Congress, ECI recognised Congress (O) and Congress (R)",
+    "If factions reunite later, they may approach ECI for restoration of the original name and symbol",
+    "Sadiq Ali (1972): majority support in both wings is crucial; legislative majority alone is not the sole criterion",
+    "Kanhaiyalal Omar (1986): the Symbols Order is a valid exercise of ECI's constitutional and statutory powers"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t06-0",
+   "type": "MCQ",
+   "passage": "India's party system is built on groups of like-minded people who come together to gain political power through constitutional means. These groups organise voluntarily and their aim is to promote the national interest. Not every party enjoys the same status. Some are recognised as national parties and others as state parties, and recognition affects the symbols a party can use. A recognised party may be allotted a symbol for its own exclusive use within its area. Recognition depends on how a party performs at general elections, measured through vote shares and seats won in the Lok Sabha and state legislative assemblies. Registered but unrecognised parties and independent candidates draw their symbols from a different pool. Problems arise when a recognised party splits. Each rival group may claim the party, and the question of who keeps its name and symbol becomes a formal dispute. Such disputes must be settled by a single authority. The framework covers how parties are registered and classified, how symbols are reserved and allotted, and how disputes are handled. Recent public debate about an unusual symbol brought fresh attention to these rules. Understanding this framework helps explain how elections are contested in India and why symbols matter to voters and parties alike.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which term is used for the symbols exclusively allotted to recognised national or state parties?",
+     "options": [
+      "Reserved symbols",
+      "Free symbols",
+      "Notified symbols",
+      "Independent symbols"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which body is the sole authority empowered to adjudicate disputes arising from splits within recognised political parties?",
+     "options": [
+      "Supreme Court of India",
+      "Parliament of India",
+      "Election Commission of India",
+      "Ministry of Law and Justice"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which of the following is listed in the booklet as a national party?",
+     "options": [
+      "Mizo National Front",
+      "Shiv Sena",
+      "DMK",
+      "Bahujan Samaj Party"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): A recognised party retains exclusive rights over its symbol.\nReason (R): Free symbols are available to registered unrecognised parties and independent candidates.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Sadiq Ali and Another v. ECI (1972)   ->   A. Triggered when neither faction shows a clear majority\nII. Kanhaiyalal Omar v. R.K. Trivedi (1986)   ->   B. Allotted by ECI from a notified list\nIII. Symbol freeze   ->   C. Legislative majority alone is not the sole criterion\nIV. Free symbols   ->   D. Symbols Order is a valid exercise of ECI's powers",
+     "options": [
+      "I-C, II-D, III-B, IV-A",
+      "I-C, II-A, III-D, IV-B",
+      "I-C, II-D, III-A, IV-B",
+      "I-C, II-A, III-B, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the statements:\nI. Recognised national or state parties may be allotted a symbol for exclusive use in their jurisdiction.\nII. Free symbols are allotted by the ECI from a notified list.\nIII. The Election Symbols (Reservation and Allotment) Order, 1968 was issued by the Supreme Court of India.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the statements:\nI. India follows a multi-party system.\nII. The one-party system is the one followed in the USA.\nIII. The ECI recognised both Congress (O) and Congress (R) after the split in the Indian National Congress.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None of the above"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Under what condition may the ECI freeze a party's original symbol?",
+     "options": [
+      "When both factions agree to freeze it",
+      "When the Supreme Court orders a freeze",
+      "When neither faction demonstrates a clear majority",
+      "When the party fails to contest elections for two consecutive terms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t06-1",
+   "type": "TITA",
+   "passage": "Political parties are not always stable. A party may split when its members disagree, and each resulting group may claim to be the real party. When this happens, the question of who keeps the party's name and symbol becomes a dispute. Only one authority is empowered to decide such disputes, and it does not rely on a single measure of support. It looks at the backing a faction has among the party's office holders and executive members, and also at the support it has among the party's elected legislators. Majority support in both areas is treated as important. Historically, one such case involved a major national party that split, after which two new groups were recognised. The outcome of a dispute can take several forms. One faction may keep the name and symbol, while the other must register separately under a new name and a different symbol. Where neither faction can show that it commands a majority, the original symbol may be put on hold, and both groups are directed to contest under new names and symbols. Disputes arising from mergers of parties fall within the same authority's role. Courts have also been drawn into these matters, and their decisions have shaped how the tests are applied. The range of possible outcomes shows how much depends on the result of a dispute.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did the Election Commission of India issue the Election Symbols (Reservation and Allotment) Order? (year)"
+    },
+    {
+     "n": 2,
+     "q": "In which year did the split in the Indian National Congress occur that led ECI to recognise Congress (O) and Congress (R)? (year)"
+    },
+    {
+     "n": 3,
+     "q": "Which wing of a party includes its president, office bearers and national and state executive members? (two words)"
+    },
+    {
+     "n": 4,
+     "q": "Which 1972 Supreme Court case held that majority support must be determined in both the organisational and legislative wings? (name of the first-named party)"
+    },
+    {
+     "n": 5,
+     "q": "Which 1986 case held that the Symbols Order is a valid exercise of ECI's constitutional and statutory powers? (name of the first-named party)"
+    },
+    {
+     "n": 6,
+     "q": "Under the state party criteria, what percentage of valid votes polled in the state must a party secure, along with winning 2 seats in the state legislative assembly? (in per cent)"
+    },
+    {
+     "n": 7,
+     "q": "If split factions reunite later, what may they approach the ECI for? (a short phrase)"
+    }
+   ]
+  }
+ ]
+}

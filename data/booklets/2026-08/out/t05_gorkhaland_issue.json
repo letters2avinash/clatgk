@@ -1,0 +1,354 @@
+{
+ "topic": {
+  "title": "Gorkhaland Issue",
+  "chapter_title": "National News and Issues",
+  "subtopics": [
+   {
+    "title": "Historical Evolution and Gorkha Identity",
+    "summary": "The Gorkhas are people of Nepali origin, and the term is linked to the historic Gorkha Kingdom of Western Nepal. Political demands for greater autonomy trace back to the early twentieth century, and they were later voiced through a 1947 memorandum seeking Gorkhasthan and the 1980s agitation led by the Gorkha National Liberation Front. Over time, the movement increasingly articulated its objective as achieving statehood within the Indian Union.",
+    "facts": [
+     "Gorkhas are people of Nepali origin, named after Guru Gorakhnath, a revered warrior-saint",
+     "The term is linked to the historic Gorkha Kingdom of Western Nepal",
+     "Prithvi Narayan Shah, a Gorkha ruler, played a central role in unification of Nepal",
+     "1907: Darjeeling Hillmen's Association, led by Sonam Wangel Laden La, petitioned during Minto-Morley Reforms",
+     "Gorkha Officers' Association and Kurseong Gorkha Library kept raising demands for greater political autonomy",
+     "1929: demands were presented before the Simon Commission",
+     "1947: undivided Communist Party of India submitted a memorandum seeking Gorkhasthan to Jawaharlal Nehru and Liaquat Ali Khan",
+     "1980: Gorkha National Liberation Front, led by Subhas Ghising, emerged",
+     "The GNLF became the principal political force behind the intense Gorkhaland agitation of the 1980s",
+     "The movement increasingly articulated its objective as achieving statehood within the Indian Union"
+    ],
+    "keywords": ["Gorkha", "Gorkhasthan", "Minto-Morley Reforms", "Simon Commission", "GNLF", "Statehood within Indian Union"]
+   },
+   {
+    "title": "Major Bases of the Demand",
+    "summary": "Supporters argue that the Darjeeling Hills population has a distinct linguistic, cultural and social identity compared with the Bengali-majority plains. Concerns over identity insecurity and racial stereotyping have strengthened demands for stronger political recognition and representation. Economic concerns cover infrastructure, employment, developmental neglect and insufficient political and fiscal autonomy.",
+    "facts": [
+     "The Darjeeling Hills population has a distinct linguistic, cultural and social identity compared with the Bengali-majority plains",
+     "The region has a predominantly Nepali-speaking population",
+     "Identity insecurity and racial stereotyping have contributed to demands for stronger political recognition and representation",
+     "Proponents seek recognition of the community as an integral part of India, rather than separation from the country",
+     "Inadequate infrastructure is a long-standing economic concern",
+     "Limited employment opportunities and developmental neglect are raised as concerns",
+     "Insufficient political and fiscal autonomy is a concern",
+     "The region contributes through sectors such as Darjeeling Tea, Forestry and Tourism"
+    ],
+    "keywords": ["Ethno-linguistic identity", "Nepali-speaking", "Identity insecurity", "Racial stereotyping", "Fiscal autonomy", "Darjeeling Tea"]
+   },
+   {
+    "title": "Institutional Arrangements",
+    "summary": "Two arrangements have given the hill region a measure of autonomy. The Darjeeling Gorkha Hill Council, established in 1988, was constrained by limited legislative authority, inadequate financial autonomy and dependence on the state government. The Gorkhaland Territorial Administration, established in 2011, was a more empowered autonomous arrangement with greater administrative, executive and financial responsibilities.",
+    "facts": [
+     "The Darjeeling Gorkha Hill Council (DGHC) was established in 1988",
+     "The DGHC was set up following the Gorkhaland agitation of the 1980s to provide greater autonomy to the hill region",
+     "The effectiveness of the DGHC was constrained by limited legislative authority",
+     "The DGHC had inadequate financial autonomy and depended on the state government",
+     "The Gorkhaland Territorial Administration (GTA) was established in 2011",
+     "The GTA was a more empowered autonomous arrangement than the DGHC",
+     "The GTA received greater administrative, executive and financial responsibilities than the DGHC"
+    ],
+    "keywords": ["DGHC", "Gorkhaland Territorial Administration", "Legislative authority", "Financial autonomy", "1988", "2011"]
+   },
+   {
+    "title": "Current Process and Challenges",
+    "summary": "The Ministry of Home Affairs recently convened a Tripartite Meeting with the Government of West Bengal and Gorkha community representatives. The Union Government then constituted a committee headed by Pankaj Kumar Singh to work out modalities for a Permanent Political Solution. The challenges include opposition to territorial division, the region's strategic location, fragmented Gorkha politics and economic sustainability.",
+    "facts": [
+     "The Ministry of Home Affairs recently convened a Tripartite Meeting with the Government of West Bengal and Gorkha community representatives",
+     "The Union Government constituted a committee headed by Pankaj Kumar Singh",
+     "The committee will examine the issue within the Constitutional Framework, including governance, financial assistance and development support",
+     "The committee will also work out a roadmap for granting Scheduled Tribe status to 11 Gorkha communities",
+     "Opposition in parts of West Bengal to territorial division reflects concerns over territorial integrity and administrative cohesion",
+     "The Darjeeling region occupies the Siliguri Corridor (Chicken's Neck), close to Nepal, Bhutan and Bangladesh",
+     "The Siliguri Corridor is the principal land link between mainland India and the Northeast",
+     "Prolonged instability in the region can have wider strategic and national security implications",
+     "Gorkha Janmukti Morcha and Gorkha National Liberation Front are among several groups, making a common position difficult",
+     "The regional economy depends on tea, tourism and related activities, which face structural and seasonal challenges"
+    ],
+    "keywords": ["Tripartite Meeting", "Pankaj Kumar Singh", "Permanent Political Solution", "Siliguri Corridor", "Fragmented representation", "Economic sustainability"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Gorkhaland Issue at a Glance",
+   "root": {
+    "label": "Gorkhaland Issue",
+    "children": [
+     {"label": "Who are the Gorkhas", "children": [
+      {"label": "Nepali-origin people"},
+      {"label": "Linked to Western Nepal Gorkha Kingdom"}
+     ]},
+     {"label": "Historical demands", "children": [
+      {"label": "1907 Darjeeling Hillmen's Association petition"},
+      {"label": "1947 Gorkhasthan memorandum"},
+      {"label": "1980s GNLF agitation"}
+     ]},
+     {"label": "Bases of demand", "children": [
+      {"label": "Ethno-linguistic identity"},
+      {"label": "Economic and developmental concerns"}
+     ]},
+     {"label": "Institutions", "children": [
+      {"label": "DGHC set up in 1988"},
+      {"label": "GTA set up in 2011"}
+     ]},
+     {"label": "Current process", "children": [
+      {"label": "MHA Tripartite Meeting"},
+      {"label": "Pankaj Kumar Singh committee"},
+      {"label": "Permanent Political Solution sought"}
+     ]},
+     {"label": "Challenges", "children": [
+      {"label": "Competing sub-national aspirations"},
+      {"label": "Strategic Siliguri Corridor location"},
+      {"label": "Fragmented political representation"},
+      {"label": "Economic sustainability"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Historical Evolution Map",
+   "root": {
+    "label": "Historical Evolution",
+    "children": [
+     {"label": "Origins", "children": [
+      {"label": "Gorkha name linked to Western Nepal kingdom"},
+      {"label": "Guru Gorakhnath as revered warrior-saint"}
+     ]},
+     {"label": "Early demands", "children": [
+      {"label": "1907 Darjeeling Hillmen's Association petition"},
+      {"label": "1929 demands before Simon Commission"}
+     ]},
+     {"label": "Post-independence", "children": [
+      {"label": "1947 Gorkhasthan memorandum"},
+      {"label": "Undivided Communist Party of India submission"}
+     ]},
+     {"label": "1980s agitation", "children": [
+      {"label": "GNLF led by Subhas Ghising"},
+      {"label": "Objective: statehood within Indian Union"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Bases of the Demand Map",
+   "root": {
+    "label": "Bases of the Demand",
+    "children": [
+     {"label": "Ethno-linguistic identity", "children": [
+      {"label": "Distinct identity versus Bengali-majority plains"},
+      {"label": "Predominantly Nepali-speaking population"},
+      {"label": "Identity insecurity and racial stereotyping"}
+     ]},
+     {"label": "Economic concerns", "children": [
+      {"label": "Inadequate infrastructure"},
+      {"label": "Limited employment opportunities"},
+      {"label": "Developmental neglect"},
+      {"label": "Insufficient political and fiscal autonomy"}
+     ]},
+     {"label": "Proponents' stance", "children": [
+      {"label": "Recognition as integral part of India"},
+      {"label": "Not separation from India"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Institutional Arrangements Map",
+   "root": {
+    "label": "Institutional Arrangements",
+    "children": [
+     {"label": "DGHC (1988)", "children": [
+      {"label": "Set up after 1980s agitation"},
+      {"label": "Limited legislative authority"},
+      {"label": "Inadequate financial autonomy"},
+      {"label": "Dependence on state government"}
+     ]},
+     {"label": "GTA (2011)", "children": [
+      {"label": "More empowered autonomous arrangement"},
+      {"label": "Greater administrative responsibilities"},
+      {"label": "Greater executive responsibilities"},
+      {"label": "Greater financial responsibilities"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Current Process and Challenges Map",
+   "root": {
+    "label": "Current Process and Challenges",
+    "children": [
+     {"label": "Current process", "children": [
+      {"label": "MHA Tripartite Meeting"},
+      {"label": "Committee headed by Pankaj Kumar Singh"},
+      {"label": "ST roadmap for 11 communities"}
+     ]},
+     {"label": "Challenges", "children": [
+      {"label": "Competing sub-national aspirations"},
+      {"label": "Strategic importance of Siliguri Corridor"},
+      {"label": "Fragmented political representation"},
+      {"label": "Economic sustainability"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Economic Concerns Recall",
+   "mnemonic": "Ideal Jobs Deserve Autonomy",
+   "decode": [
+    {"key": "I", "meaning": "Inadequate infrastructure"},
+    {"key": "J", "meaning": "Limited employment opportunities"},
+    {"key": "D", "meaning": "Developmental neglect"},
+    {"key": "A", "meaning": "Insufficient political and fiscal autonomy"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "DGHC Limitations Recall",
+   "mnemonic": "Lazy Friends Depend",
+   "decode": [
+    {"key": "L", "meaning": "Limited legislative authority"},
+    {"key": "F", "meaning": "Inadequate financial autonomy"},
+    {"key": "D", "meaning": "Dependence on state government"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Challenges Recall",
+   "mnemonic": "Cute Squirrels Find Eggs",
+   "decode": [
+    {"key": "C", "meaning": "Competing sub-national aspirations"},
+    {"key": "S", "meaning": "Strategic importance of the region"},
+    {"key": "F", "meaning": "Fragmented political representation"},
+    {"key": "E", "meaning": "Economic sustainability"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Historical Roots and Current Process",
+   "passage": "The demand for a separate political or administrative arrangement for the Nepali-speaking Gorkha population of the Darjeeling Hills in West Bengal has a long history. The Gorkhas are people of Nepali origin, and the term is linked to the historic Gorkha Kingdom of Western Nepal. Political demands for greater autonomy can be traced to the early twentieth century, when the Darjeeling Hillmen's Association petitioned during the Minto-Morley Reforms. Other organisations, including the Gorkha Officers' Association, kept raising demands for greater political autonomy in the years that followed. The Gorkhas also have a distinctive martial tradition, and the British began systematic recruitment of Gorkha soldiers after the Anglo-Nepal War. The movement became far more intense during the 1980s under a new political force. Over time, the movement's objective became clearer in its articulation. More recently, the Ministry of Home Affairs convened a Tripartite Meeting involving the Government of West Bengal and representatives of the Gorkha community. Following that meeting, the Union Government constituted a committee to work out modalities for a Permanent Political Solution. The committee will examine the issue within the Constitutional Framework, including governance arrangements and financial assistance.",
+   "questions": [
+    {
+     "q": "In 1947, which party submitted a memorandum seeking 'Gorkhasthan' to Jawaharlal Nehru and Liaquat Ali Khan?",
+     "options": ["Indian National Congress", "Gorkha National Liberation Front", "Gorkha Officers' Association", "Undivided Communist Party of India"],
+     "answer": 3,
+     "explanation": "The booklet states that the undivided Communist Party of India submitted the 1947 memorandum seeking Gorkhasthan."
+    },
+    {
+     "q": "Subhas Ghising led which organisation that emerged in 1980 as the principal political force behind the 1980s agitation?",
+     "options": ["Gorkha Janmukti Morcha", "Gorkha National Liberation Front", "Darjeeling Gorkha Hill Council", "Kurseong Gorkha Library"],
+     "answer": 1,
+     "explanation": "The Gorkha National Liberation Front, led by Subhas Ghising, emerged in 1980 and became the principal political force behind the agitation."
+    },
+    {
+     "q": "Assertion (A): Over time, the Gorkha movement articulated its objective as achieving statehood within the Indian Union.\nReason (R): Gorkha demands for political autonomy were first raised only during the 1980s agitation.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 2,
+     "explanation": "The booklet traces political demands for autonomy to the early twentieth century, so R is false while A is true."
+    },
+    {
+     "q": "Match List I with List II:\nI. Darjeeling Gorkha Hill Council   ->   A. Created in 2011\nII. Gorkhaland Territorial Administration   ->   B. Created in 1988\nIII. Siliguri Corridor   ->   C. Also called Chicken's Neck\nIV. Gorkha National Liberation Front   ->   D. Led by Subhas Ghising",
+     "options": ["I-B, II-A, III-C, IV-D", "I-A, II-B, III-C, IV-D", "I-B, II-A, III-D, IV-C", "I-C, II-D, III-A, IV-B"],
+     "answer": 0,
+     "explanation": "The DGHC was set up in 1988, the GTA in 2011, the corridor is called Chicken's Neck, and the GNLF was led by Subhas Ghising."
+    },
+    {
+     "q": "Consider the following statements about the Darjeeling Gorkha Hill Council and the Gorkhaland Territorial Administration:\nI. The Darjeeling Gorkha Hill Council was established in 1988 after the Gorkhaland agitation of the 1980s.\nII. The Gorkhaland Territorial Administration received greater administrative, executive and financial responsibilities than the Council.\nIII. The Darjeeling Gorkha Hill Council had strong legislative authority and full financial autonomy.\nWhich of the above statements is/are correct?",
+     "options": ["II and III only", "I only", "I and II only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statement III is wrong because the Council had limited legislative authority and inadequate financial autonomy."
+    },
+    {
+     "q": "Consider the following statements about the Gorkhaland issue:\nI. The Siliguri Corridor is the principal land link between mainland India and the Northeast.\nII. The Siliguri Corridor lies close to China and Myanmar.\nIII. Fragmented Gorkha political representation makes a common position on a permanent solution difficult.\nIV. The regional economy depends on tea, tourism and related activities.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "All four", "Only three"],
+     "answer": 3,
+     "explanation": "Statements I, III and IV match the booklet, while statement II is wrong because the corridor lies close to Nepal, Bhutan and Bangladesh."
+    },
+    {
+     "q": "In which year were Gorkha demands presented before the Simon Commission?",
+     "options": ["1907", "1929", "1947", "1980"],
+     "answer": 1,
+     "explanation": "The booklet states that Gorkha demands were presented before the Simon Commission in 1929."
+    },
+    {
+     "q": "Which Gorkha ruler played a central role in the unification of Nepal?",
+     "options": ["Prithvi Narayan Shah", "Sonam Wangel Laden La", "Subhas Ghising", "Guru Gorakhnath"],
+     "answer": 0,
+     "explanation": "The booklet names Prithvi Narayan Shah, a Gorkha ruler, as having played a central role in the unification of Nepal."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "Institutions and Challenges Recall",
+   "passage": "Successive arrangements have tried to give the Darjeeling hill region a measure of self-governance since the agitation of the 1980s. The first such body was a hill council set up after that agitation to provide greater autonomy to the region. Its effectiveness, however, was constrained by limited legislative authority, inadequate financial autonomy and dependence on the state government. A later, more empowered autonomous arrangement was created, with greater administrative, executive and financial responsibilities than the council. Demands for a fuller political solution have nevertheless continued. Opposition in parts of the state to any further territorial division is based on concerns about territorial integrity, economic interests and administrative cohesion. The Darjeeling region also occupies a sensitive geographical position, close to three neighbouring countries. Its corridor is the main land link between mainland India and the Northeast, so prolonged instability there could have wider security implications. Gorkha politics is itself divided among several organisations and groups, which makes a common position difficult. The regional economy depends on tea, tourism and related activities, which face structural and seasonal challenges.",
+   "questions": [
+    {
+     "q": "In which year was the Darjeeling Gorkha Hill Council established? (give the year)",
+     "answer": "1988",
+     "accept": ["in 1988"],
+     "explanation": "The booklet states that the Darjeeling Gorkha Hill Council was established in 1988 following the 1980s agitation."
+    },
+    {
+     "q": "In which year was the Gorkhaland Territorial Administration established? (give the year)",
+     "answer": "2011",
+     "accept": ["in 2011"],
+     "explanation": "The booklet states that the Gorkhaland Territorial Administration was established in 2011 as a more empowered autonomous arrangement."
+    },
+    {
+     "q": "Who heads the committee constituted by the Union Government to work out a 'Permanent Political Solution'? (full name)",
+     "answer": "Pankaj Kumar Singh",
+     "accept": ["Pankaj Singh"],
+     "explanation": "The booklet states that the Union Government constituted a committee headed by Pankaj Kumar Singh."
+    },
+    {
+     "q": "Which corridor, also called Chicken's Neck, is located in the Darjeeling region? (two words)",
+     "answer": "Siliguri Corridor",
+     "accept": ["Siliguri corridor"],
+     "explanation": "The booklet states that the Darjeeling region occupies the Siliguri Corridor, also called Chicken's Neck."
+    },
+    {
+     "q": "Besides the Gorkha National Liberation Front, which other Gorkha political group is named as part of the fragmented political representation? (full name)",
+     "answer": "Gorkha Janmukti Morcha",
+     "accept": ["Gorkha Janmukti morcha"],
+     "explanation": "The booklet names the Gorkha Janmukti Morcha and the Gorkha National Liberation Front as groups that make a common position difficult."
+    },
+    {
+     "q": "How many Gorkha communities are proposed for a roadmap to Scheduled Tribe status? (give the number)",
+     "answer": "11",
+     "accept": ["eleven"],
+     "explanation": "The booklet states that the committee will work out a roadmap for granting Scheduled Tribe status to 11 Gorkha communities."
+    },
+    {
+     "q": "Which state government was the Darjeeling Gorkha Hill Council dependent on? (name of the state)",
+     "answer": "West Bengal",
+     "accept": ["Bengal"],
+     "explanation": "The booklet places the Darjeeling Hills in West Bengal and states that the Council depended on the state government."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 25, "what": "Names of the districts in the 1907 separation committee are garbled ('Dart 8 paigurif'); only the 1907 petition by the Darjeeling Hillmen's Association is used."},
+  {"page": 25, "what": "Proposed territory beyond the Darjeeling Hills ('adjoining Terai and Dooar:') is partly garbled; only the Darjeeling Hills is used."},
+  {"page": 25, "what": "Gorkha Rifles regiment number and raising year ('11 Gorkha Rifles raised in 1948') is unclear in the OCR; not used."}
+ ]
+}

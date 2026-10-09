@@ -1,0 +1,332 @@
+[
+ {
+  "topic": "U.S.-Iran Preliminary Peace Accord 2026",
+  "page": 5,
+  "what": "Infographic 'status quo' point on US waivers for new Iranian oil sanctions or escalation is garbled; not used"
+ },
+ {
+  "topic": "U.S.-Iran Preliminary Peace Accord 2026",
+  "page": 5,
+  "what": "Text following 'Reinstated' in the 2018 withdrawal bullet is truncated; only the withdrawal itself is used"
+ },
+ {
+  "topic": "U.S.-Iran Preliminary Peace Accord 2026",
+  "page": 6,
+  "what": "Names of any other proxies or groups in the 'Persistent Regional Tensions' box are garbled; not used"
+ },
+ {
+  "topic": "U.S.-Iran Preliminary Peace Accord 2026",
+  "page": 6,
+  "what": "Pillar 3 'Improved geopolitical conditions' and some connectivity text is garbled; not used"
+ },
+ {
+  "topic": "Myanmar President's India Visit",
+  "page": 8,
+  "what": "Name of the Burmese signatory of the Treaty of Yandaboo (Legaing Maha Min Hla Kyaw Htin) is garbled; not used"
+ },
+ {
+  "topic": "Myanmar President's India Visit",
+  "page": 8,
+  "what": "Ordinal of the Anglo-Burmese War ('It ended I ... Anglo-Burmese War') is garbled; only the years 1824-1826 were used"
+ },
+ {
+  "topic": "Myanmar President's India Visit",
+  "page": 9,
+  "what": "Count shown as '33' before Maritime Boundary in Bay of Bengal is garbled; not used"
+ },
+ {
+  "topic": "Myanmar President's India Visit",
+  "page": 9,
+  "what": "Kaladan project conception year (2008), proposer, consultant (Ircon, 2019), Inland Waterways Authority (2009), approval (2002) and start (2012) are interleaved across columns; not used"
+ },
+ {
+  "topic": "Myanmar President's India Visit",
+  "page": 9,
+  "what": "Alignment line 'Runs from border at Tamu-Moreh to Kalemyo & Kalewa' is interleaved with the Kaladan column; not used"
+ },
+ {
+  "topic": "Myanmar President's India Visit",
+  "page": 10,
+  "what": "Map distances (87.81 km, 49.2 km, 460.8 km) are garbled; not used"
+ },
+ {
+  "topic": "Myanmar President's India Visit",
+  "page": 10,
+  "what": "Myanmar coup timeline columns are interleaved (e.g. 2010 release, 2016 role, age 75 entry, acting president line); only clearly readable entries used"
+ },
+ {
+  "topic": "PM Modi Became India's Longest Continuously Serving Elected PM",
+  "page": 12,
+  "what": "Note on Nehru's cumulative tenure refers to a period 'before 1st General Elections' with a garbled ordinal; not used."
+ },
+ {
+  "topic": "PM Modi Became India's Longest Continuously Serving Elected PM",
+  "page": 14,
+  "what": "Morarji Desai note 'second and last PM born in 19th century' has garbled ordinal and century; not used."
+ },
+ {
+  "topic": "PM Modi Became India's Longest Continuously Serving Elected PM",
+  "page": 15,
+  "what": "Phrase 'won, 1st Non-Congress Alliance to do so' is unclear about what 'to do so' refers to (majority or government formation); not used."
+ },
+ {
+  "topic": "PM Modi Became India's Longest Continuously Serving Elected PM",
+  "page": 16,
+  "what": "Word before 'Secretariat' in the line on PM assigning ministerial roles is garbled; not used."
+ },
+ {
+  "topic": "PM Modi Became India's Longest Continuously Serving Elected PM",
+  "page": 16,
+  "what": "Columns for Cabinet Ministers, MoS (Independent Charge) and MoS are interleaved; cabinet membership of each rank not used."
+ },
+ {
+  "topic": "Passport Is Not Proof of Citizenship",
+  "page": 20,
+  "what": "Tier 1 / Tier 2 / Tier 3 Assam table: the Tier 2 entry window is missing and the tier-to-status mapping is scrambled; not used."
+ },
+ {
+  "topic": "Passport Is Not Proof of Citizenship",
+  "page": 20,
+  "what": "Foreigners (Tribunals) Order box: which tier the 10-year removal from electoral rolls applies to is unclear; not used."
+ },
+ {
+  "topic": "Passport Is Not Proof of Citizenship",
+  "page": 21,
+  "what": "Article 15, 16, 19 and 30 diagram labels are garbled; only the Articles 5-11 text and the Citizenship Act text were used."
+ },
+ {
+  "topic": "Passport Is Not Proof of Citizenship",
+  "page": 22,
+  "what": "Jus Soli rules (26 Jan 1950 to 1 July 1987) and the rules for persons born on or after 3 December 2004 appear only in practice questions, not in the explanatory text; not used."
+ },
+ {
+  "topic": "Passport Is Not Proof of Citizenship",
+  "page": 23,
+  "what": "Residency years for registration and naturalisation appear only in practice question options, not in the explanatory text; not used."
+ },
+ {
+  "topic": "Draft Rules for VB-G RAM G Act 2025",
+  "page": 25,
+  "what": "Other Criteria line: the number of additional criteria sharing the 10% weightage is not clearly stated; only the per-criterion weight was used."
+ },
+ {
+  "topic": "Draft Rules for VB-G RAM G Act 2025",
+  "page": 25,
+  "what": "Line 'Skill — Up: MGNERGA, 16th Finance Commission, Article 43' is unclear and was not used."
+ },
+ {
+  "topic": "Election Symbols (Reservation and Allotment) Order, 1968",
+  "page": 28,
+  "what": "Sixth national party name is cut off after 'National People's Party'; only the five clearly legible national party names are used"
+ },
+ {
+  "topic": "Election Symbols (Reservation and Allotment) Order, 1968",
+  "page": 28,
+  "what": "Connective words (or/and) between the national-party recognition criteria are not legible; each criterion is recorded as a separate fact without a connective"
+ },
+ {
+  "topic": "Election Symbols (Reservation and Allotment) Order, 1968",
+  "page": 28,
+  "what": "State-party recognition criteria lines are fragmented ('Ifit', 'ata GE', line ending garbled); only the figures that read clearly were used"
+ },
+ {
+  "topic": "Election Symbols (Reservation and Allotment) Order, 1968",
+  "page": 28,
+  "what": "Last item in the Order's coverage list is cut off after 'Derecognition and De'; the exact fourth function is not used"
+ },
+ {
+  "topic": "Telegram Ban under Section 69A of IT Act 2000",
+  "page": 32,
+  "what": "Sentence on the ban reads 'following recommendations from ... National Testing Agency' with a gap in the OCR; the recommending body is not used."
+ },
+ {
+  "topic": "Telegram Ban under Section 69A of IT Act 2000",
+  "page": 32,
+  "what": "'2GB File Sharing Limit' appears only in the heading; the body text is garbled, so the file-size figure is not used."
+ },
+ {
+  "topic": "Telegram Ban under Section 69A of IT Act 2000",
+  "page": 33,
+  "what": "'Indian Cybercrime Coordination Centre (|4C)': acronym garbled; the agency's acronym is not used."
+ },
+ {
+  "topic": "Telegram Ban under Section 69A of IT Act 2000",
+  "page": 33,
+  "what": "'Mechanisms to trace 1 Originator of Messages (For Messaging Apps)': ordinal garbled; the originator-tracing rule is not used."
+ },
+ {
+  "topic": "Telegram Ban under Section 69A of IT Act 2000",
+  "page": 35,
+  "what": "Penalty amounts and percentages in the breach and sharing table (e.g. '215 crore', '%5') are garbled; only the 250 crore penalty on page 34 is used."
+ },
+ {
+  "topic": "Telegram Ban under Section 69A of IT Act 2000",
+  "page": 35,
+  "what": "Storage and processing rules for sensitive data are in interleaved columns and unclear; not used."
+ },
+ {
+  "topic": "Telegram Ban under Section 69A of IT Act 2000",
+  "page": 35,
+  "what": "Cross-border transfer line ('government-approved regions') and consent manager lines are partly garbled; not used."
+ },
+ {
+  "topic": "WPI Base Year Revision and Introduction of PPI",
+  "page": 38,
+  "what": "The Advantages bullets for the Improved Weighting Methodology are interleaved with other text in the OCR, so it is unclear which advantage belongs to which change. Not used in this file."
+ },
+ {
+  "topic": "G7 Summit 2026",
+  "page": 43,
+  "what": "Some pillar headings are garbled (for example the heading beginning 'Shapers of International Sy' and the line 'Economic Trends'); only clearly readable pillar text was used"
+ },
+ {
+  "topic": "G7 Summit 2026",
+  "page": 43,
+  "what": "India panel headings and labels are garbled; India-specific pillar facts were not used"
+ },
+ {
+  "topic": "G7 Summit 2026",
+  "page": 44,
+  "what": "Answer options for the question on India's consecutive G7 Outreach participation are garbled; the figure 8 was taken only from the clearly readable page 42 text"
+ },
+ {
+  "topic": "Quad Foreign Ministers' Meeting 2026",
+  "page": 46,
+  "what": "Quad Plus country list appears cut off after New Zealand (line ends with a comma); the full list was not used."
+ },
+ {
+  "topic": "E85 Fuel Rollout in India",
+  "page": 50,
+  "what": "Fourth 'Why is India promoting E85' bullet is garbled (possibly 'Lowering Import Bill'); not used."
+ },
+ {
+  "topic": "E85 Fuel Rollout in India",
+  "page": 51,
+  "what": "Forex savings figure ('Approx 21.36 Lakh Crore') is garbled with stray characters; not used."
+ },
+ {
+  "topic": "E85 Fuel Rollout in India",
+  "page": 51,
+  "what": "'Only ~2%' bullet has no readable subject; not used."
+ },
+ {
+  "topic": "E85 Fuel Rollout in India",
+  "page": 51,
+  "what": "Groundwater depletion states (Maharashtra and Uttar Pradesh) are detached from their line; not used."
+ },
+ {
+  "topic": "E85 Fuel Rollout in India",
+  "page": 51,
+  "what": "Limited price benefit bullet (crude price drop and petrol price change) is truncated; not used."
+ },
+ {
+  "topic": "E85 Fuel Rollout in India",
+  "page": 51,
+  "what": "Food vs fuel bullet is truncated and its corn-output percentage is unclear; figure not used."
+ },
+ {
+  "topic": "E85 Fuel Rollout in India",
+  "page": 52,
+  "what": "Hydrogen Mission capacity target ('green hydrogen production capacity of ... IMT') is garbled; not used."
+ },
+ {
+  "topic": "E85 Fuel Rollout in India",
+  "page": 52,
+  "what": "Cabinet decision title ('NATIONAL GRE... HYDROG') is partly garbled; only 'Hydrogen Mission' is used."
+ },
+ {
+  "topic": "World Environment Day 2026",
+  "page": 54,
+  "what": "Busan plastic INC session label reads 'INC-9' (Nov 2024); the session number was not used."
+ },
+ {
+  "topic": "World Environment Day 2026",
+  "page": 54,
+  "what": "Body that formed the plastic INC is garbled ('UNSEP'); not named in facts."
+ },
+ {
+  "topic": "World Environment Day 2026",
+  "page": 55,
+  "what": "Forest cover share reads '25.' (truncated); the percentage was not used, and the quiz options on page 58 are not an answer key."
+ },
+ {
+  "topic": "World Environment Day 2026",
+  "page": 55,
+  "what": "'17% of Total Geographical Area of India' line is detached from its label; not used."
+ },
+ {
+  "topic": "World Environment Day 2026",
+  "page": 55,
+  "what": "'CAMPA Funds 2016' year is ambiguous; the year was not used."
+ },
+ {
+  "topic": "World Environment Day 2026",
+  "page": 55,
+  "what": "UN Decade on Ecosystem Restoration years are truncated ('2021'); not used."
+ },
+ {
+  "topic": "World Environment Day 2026",
+  "page": 55,
+  "what": "India Plastics Pact 'first in Asia' uses a garbled superscript; not used."
+ },
+ {
+  "topic": "World Environment Day 2026",
+  "page": 55,
+  "what": "'80% pulp and 20% plastic waste' sentence is not clearly tied to a named project; not used."
+ },
+ {
+  "topic": "World Environment Day 2026",
+  "page": 56,
+  "what": "NDC table: the 2031-2035 column header and the '4T%' emissions intensity value are garbled; not used."
+ },
+ {
+  "topic": "World Environment Day 2026",
+  "page": 56,
+  "what": "ISA First Assembly (Delhi) membership-expansion sentence is garbled; not used."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 60,
+  "what": "Container cargo top performer reads 'Mundra Por' followed by 'Jawaharlal Nehru Port'; the winning port name is unclear."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 60,
+  "what": "Name of the port performance assessment initiative reads 'Sagar Aankalan'; garbled, not used."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 61,
+  "what": "Western Ghats classification reads 'Eco-Sensitive Zones I, II & II'; the third zone label is unclear."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 61,
+  "what": "ESA restriction threshold for large construction reads '(= 20,000 sq. m)'; the comparison symbol is garbled, not used."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 61,
+  "what": "SIPRI line 'India became 2nd Largest Arms Importer (8.2%) globally, after Ukraine' could not be verified from the text; not used."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 63,
+  "what": "S-400 missile range table labels (QM96E, A8N6E2, 48N6DM, 40N6) and speed/altitude column text are garbled; not used."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 64,
+  "what": "BrahMos specification table (range, altitude, weight, induction years) is garbled in layout; only text-stated facts used."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 65,
+  "what": "QS ranking of Jawaharlal Nehru University reads '555'; the digits are unclear, not used."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 68,
+  "what": "Padma Vibhushan ranking line ('2nd Highest Civilian Honour, after Bharat Ratna') sits in a split column; category attribution unclear, not used."
+ }
+]
