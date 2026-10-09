@@ -1,0 +1,49 @@
+{
+ "questions": [
+  {
+   "id": "t-t07-1",
+   "n": 2,
+   "my_answer": "4(2)",
+   "supported": true,
+   "evidence": {
+    "page": 44,
+    "quote": "Bill omits Section 4(2) of 2019 Act."
+   },
+   "issues": []
+  },
+  {
+   "id": "t-t07-1",
+   "n": 5,
+   "my_answer": "2019",
+   "supported": true,
+   "evidence": {
+    "page": 44,
+    "quote": "Transgender Persons (Protection of Rights) Act, 2019 enacted after NALSA vs Union of India (2014)"
+   },
+   "issues": []
+  }
+ ],
+ "passage_flags": [
+  {
+   "quiz": "q-t12-0",
+   "claim": "Comparing these measures against a base year allows analysts to judge whether the response is working.",
+   "problem": "The TB booklet (t12) never mentions a base year for TB measures. The term is taken from the GDP topic and is not supported by this booklet's text."
+  },
+  {
+   "quiz": "q-t12-0",
+   "claim": "Such findings help governments and international partners decide where to direct diagnostic tools, treatment programmes and financial support.",
+   "problem": "Not stated in the booklet. The text reports the distribution of cases and the Global Fund/Stop TB support role, but does not say the report guides where diagnostic tools, treatment programmes or funding are directed."
+  },
+  {
+   "quiz": "q-t08-0",
+   "claim": "For this reason, official releases usually set out the revised base year and the improved estimation methods, so that analysts can interpret trends correctly.",
+   "problem": "The booklet describes the 2022-23 base year revision and its methods, but contains no statement that official releases usually set these out. The general practice claim is not in the text."
+  },
+  {
+   "quiz": "q-t14-0",
+   "claim": "Students of current affairs are expected to know the year of the ceremony, the city where it is held and the body that presents the awards, since these basic details are often used in questions.",
+   "problem": "The booklet gives the year, city and presenting body, but says nothing about these details often being used in questions. The exam-frequency claim is not in the text."
+  }
+ ],
+ "fact_flags": []
+}
