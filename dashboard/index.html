@@ -1,3 +1,5 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>CLAT Express Study Hub</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -266,7 +268,7 @@ function mmSet(open){
 }
 
 /* ---------- quiz ---------- */
-function norm(s){return String(s).toLowerCase().replace(/[,₹$%]/g,"").replace(/[^a-z0-9. ]+/g," ").replace(/\s+/g," ").trim()}
+function norm(s){return String(s).toLowerCase().replace(/[,₹$%]/g,"").replace(/\b(per ?cent|percent|percentage|billion|bn|usd)\b/g,"").replace(/[^a-z0-9. ]+/g," ").replace(/\s+/g," ").trim()}
 function titaOk(q,a){
   var n=norm(a);if(!n)return false;
   var all=[q.answer].concat(q.accept||[]).map(norm);
