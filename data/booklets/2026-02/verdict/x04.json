@@ -1,0 +1,87 @@
+{
+ "quizzes": [
+  {
+   "id": "q-x04-42",
+   "questions": [
+    {"n": 1, "my_answer": 1, "supported": true, "evidence": {"page": 26, "quote": "Demand for Granting Scheduled Tribe (ST) Status to Meitei Community Has Persisted Since 2012."}, "issues": []},
+    {"n": 2, "my_answer": 0, "supported": true, "evidence": {"page": 27, "quote": "Meitei Community Backs Chief Minister Biren Singh. While Kukis Demand Resignation, Sparking Law and Order Crisis in"}, "issues": []},
+    {"n": 3, "my_answer": 2, "supported": true, "evidence": {"page": 27, "quote": "Manipur Government Evicts 16 Kuki Households Over Forest Encroachment."}, "issues": []},
+    {"n": 4, "my_answer": 0, "supported": true, "evidence": {"page": 27, "quote": "Kukis Fear Granting ST Status to Meiteis Will Allow Land Purchases in Prohibited Hilly Areas."}, "issues": ["other: the assertion's 'opposed' is inferred from the booklet's 'Kukis fear'"]},
+    {"n": 5, "my_answer": 1, "supported": true, "evidence": {"page": 26, "quote": "Demand for Granting Scheduled Tribe (ST) Status to Meitei Community Has Persisted Since 2012."}, "issues": []},
+    {"n": 6, "my_answer": 3, "supported": true, "evidence": {"page": 26, "quote": "Violence Erupts Between Kuki-Zomi Tribals and Meitei Community, First Clash in Three Decades in Manipur."}, "issues": []},
+    {"n": 7, "my_answer": 2, "supported": true, "evidence": {"page": 27, "quote": "Manipur Government Evicts 16 Kuki Households Over Forest Encroachment."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x04-43",
+   "questions": [
+    {"n": 1, "my_answer": "2012", "supported": true, "evidence": {"page": 26, "quote": "Demand for Granting Scheduled Tribe (ST) Status to Meitei Community Has Persisted Since 2012."}, "issues": []},
+    {"n": 2, "my_answer": "16", "supported": true, "evidence": {"page": 27, "quote": "Manipur Government Evicts 16 Kuki Households Over Forest Encroachment."}, "issues": []},
+    {"n": 3, "my_answer": "Kuki National Army and Zomi Revolutionary Army", "supported": true, "evidence": {"page": 27, "quote": "Withdraws from Suspension of Operations Agreement with Kuki National Army and Zomi Revolutionary Army in March 2023."}, "issues": []},
+    {"n": 4, "my_answer": "3", "supported": true, "evidence": {"page": 26, "quote": "First Clash in Three Decades in Manipur."}, "issues": []},
+    {"n": 5, "my_answer": "1949", "supported": true, "evidence": {"page": 26, "quote": "Seeking Recognition of Tribal Status Lost After 1949 Merger."}, "issues": []},
+    {"n": 6, "my_answer": "Biren Singh", "supported": true, "evidence": {"page": 27, "quote": "Meitei Community Backs Chief Minister Biren Singh. While Kukis Demand Resignation"}, "issues": []},
+    {"n": 7, "my_answer": "Meitei Tribe Union", "supported": true, "evidence": {"page": 26, "quote": "Meitei Tribe Union Petitions Manipur High Court, Seeking Recognition of Tribal Status Lost After 1949 Merger."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "q-x04-44",
+   "questions": [
+    {"n": 1, "my_answer": 1, "supported": true, "evidence": {"page": 26, "quote": "Meiteis, comprising 52% of Population, Predominantly Reside in Valley Areas Covering Just 10% of Manipur."}, "issues": []},
+    {"n": 2, "my_answer": 3, "supported": true, "evidence": {"page": 27, "quote": "Capital: Imphal"}, "issues": []},
+    {"n": 3, "my_answer": 0, "supported": true, "evidence": {"page": 26, "quote": "Inaccurate Census Figures in 2020"}, "issues": ["ambiguous"]},
+    {"n": 4, "my_answer": 0, "supported": true, "evidence": {"page": 26, "quote": "Manipur, While Tribals Can Buy Land in Imphal Valley."}, "issues": []},
+    {"n": 5, "my_answer": 2, "supported": true, "evidence": {"page": 26, "quote": "Meiteis Hold 40 of 60 Assembly Seats in Manipur."}, "issues": []},
+    {"n": 6, "my_answer": 2, "supported": true, "evidence": {"page": 26, "quote": "Extensive Powers to Military."}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 26, "quote": "Growth of Villages in Churachandpur."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x04-45",
+   "questions": [
+    {"n": 1, "my_answer": "1947", "supported": true, "evidence": {"page": 26, "quote": "In 1947, Maharaja Budhachandra signed a Treaty of"}, "issues": []},
+    {"n": 2, "my_answer": "20", "supported": true, "evidence": {"page": 26, "quote": "Only 20 MLAs in Assembly."}, "issues": []},
+    {"n": 3, "my_answer": "89", "supported": true, "evidence": {"page": 26, "quote": "Hill Areas, Covering 89% of Manipur's Land, Have"}, "issues": []},
+    {"n": 4, "my_answer": "90", "supported": true, "evidence": {"page": 26, "quote": "Meiteis Restricted from Purchasing Land in 90% of"}, "issues": []},
+    {"n": 5, "my_answer": "Myanmar", "supported": true, "evidence": {"page": 26, "quote": "Myanmar Coup Triggers Refugee Crisis in India's North-East."}, "issues": []},
+    {"n": 6, "my_answer": "Nagas and Kukis", "supported": true, "evidence": {"page": 26, "quote": "Nagas and Kukis Demand Greater Political Autonomy or"}, "issues": []},
+    {"n": 7, "my_answer": "Golden Triangle", "supported": true, "evidence": {"page": 26, "quote": "Manipur's Proximity to Golden Triangle and Porous"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "q-x04-46",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 27, "quote": "to issue a proclamation if he is satisfied that a situation has arisen"}, "issues": []},
+    {"n": 2, "my_answer": 1, "supported": true, "evidence": {"page": 28, "quote": "Till then President can Only Suspend Legislative Assembly by suspending Provisions of Constitution"}, "issues": []},
+    {"n": 3, "my_answer": 3, "supported": true, "evidence": {"page": 27, "quote": "He can declare that Powers of State Legislature are to be exercised by Parliament."}, "issues": []},
+    {"n": 4, "my_answer": 2, "supported": true, "evidence": {"page": 28, "quote": "Such a proclamation does Not require Parliamentary Approval."}, "issues": []},
+    {"n": 5, "my_answer": 1, "supported": true, "evidence": {"page": 28, "quote": "First 3 President's Rule: Punjab (1951), PEPSU (1953) and Andhra (1954)."}, "issues": []},
+    {"n": 6, "my_answer": 1, "supported": true, "evidence": {"page": 27, "quote": "He can take up Functions of State Government and Powers vested in"}, "issues": []},
+    {"n": 7, "my_answer": 0, "supported": true, "evidence": {"page": 28, "quote": "Proclamation of President's Rule may be revoked by President at Any Time by a subsequent proclamation."}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "Each instance is recorded separately, with its own dates and duration.", "problem": "not found: the booklet gives dates and durations only for the first instances and the key-record extremes, not for each instance", "page": 28}
+   ]
+  },
+  {
+   "id": "t-x04-47",
+   "questions": [
+    {"n": 1, "my_answer": "1951", "supported": true, "evidence": {"page": 28, "quote": "First 3 President's Rule: Punjab (1951), PEPSU (1953) and Andhra (1954)."}, "issues": []},
+    {"n": 2, "my_answer": "PEPSU", "supported": true, "evidence": {"page": 28, "quote": "First 3 President's Rule: Punjab (1951), PEPSU (1953) and Andhra (1954)."}, "issues": []},
+    {"n": 3, "my_answer": "38th Amendment Act", "supported": true, "evidence": {"page": 28, "quote": "38th Amendment Act of 1975 made satisfaction of President in invoking Article 356"}, "issues": []},
+    {"n": 4, "my_answer": "State Emergency", "supported": true, "evidence": {"page": 27, "quote": "popularly known as President's Rule or State Emergency."}, "issues": []},
+    {"n": 5, "my_answer": "1954", "supported": true, "evidence": {"page": 28, "quote": "First 3 President's Rule: Punjab (1951), PEPSU (1953) and Andhra (1954)."}, "issues": []},
+    {"n": 6, "my_answer": "suspend", "supported": true, "evidence": {"page": 28, "quote": "Till then President can Only Suspend Legislative Assembly by suspending Provisions of Constitution"}, "issues": []},
+    {"n": 7, "my_answer": "simple majority", "supported": true, "evidence": {"page": 28, "quote": "can be passed by Either House of Parliament only by a Simple Majority"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "The records of each instance include the dates on which the arrangement began.", "problem": "not found: the booklet gives start years only for the first three instances", "page": 28}
+   ]
+  }
+ ],
+ "fact_flags": []
+}
