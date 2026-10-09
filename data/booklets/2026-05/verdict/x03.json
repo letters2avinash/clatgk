@@ -74,7 +74,7 @@
     {"n": 4, "my_answer": "Educational fairness", "supported": true, "evidence": {"page": 18, "quote": "Large-scale cheating causes parents and students to lose confidence in educational fairness."}, "issues": []},
     {"n": 5, "my_answer": "Admissions", "supported": true, "evidence": {"page": 18, "quote": "Exam cancellations delay admissions and disrupt the academic calendar for millions of students."}, "issues": []},
     {"n": 6, "my_answer": "Honest candidates", "supported": true, "evidence": {"page": 18, "quote": "Psychological Toll on Honest Candidates"}, "issues": []},
-    {"n": 7, "my_answer": "Loss of system credibility / Systemic and institutional damage", "supported": true, "evidence": {"page": 18, "quote": "Loss of system credibility diminishes the market value of degrees and merit rankings."}, "issues": ["other: question asks for the booklet heading covering the reduced value of degrees and merit rankings; the booklet does not give a heading for that point, only the bullet text, so the answer is a best reading"]}
+    {"n": 7, "my_answer": "Devaluation of Academic Credentials", "supported": true, "evidence": {"page": 18, "quote": "Loss of system credibility diminishes the market value of degrees and merit rankings."}, "issues": ["garbled_basis"]}
    ],
    "passage_flags": []
   }
