@@ -1,0 +1,137 @@
+{
+ "passage_fixes": [
+  {
+   "quiz": "q-t01-0",
+   "old": " Because of this position, the enclave has long been a point of concern for people who travel between the two continents.",
+   "new": ""
+  },
+  {
+   "quiz": "q-t01-0",
+   "old": " Officials therefore treat the border not as a purely local matter but as part of a wider regional pattern.",
+   "new": ""
+  },
+  {
+   "quiz": "t-t01-1",
+   "old": "Several newer initiatives support host communities that receive large numbers of refugees, and they encourage countries to share responsibility.",
+   "new": "The Global Compact on Refugees (2018) offers a framework to support refugees and host countries."
+  },
+  {
+   "quiz": "t-t01-1",
+   "old": "Governments may meet at regular intervals to review progress on refugee issues.",
+   "new": "The Global Refugee Forum is held every four years to address challenges faced by refugees and host communities."
+  },
+  {
+   "quiz": "t-t01-1",
+   "old": "Not every country has joined the main refugee agreements, and this affects how such countries treat people who arrive seeking protection.",
+   "new": "India is not a signatory to the 1951 Refugee Convention and 1967 Protocol."
+  },
+  {
+   "quiz": "t-t03-1",
+   "old": ", so that the process is open and transparent",
+   "new": ""
+  },
+  {
+   "quiz": "t-t03-1",
+   "old": "The practice is widely followed among members, and it reflects",
+   "new": "The practice reflects"
+  },
+  {
+   "quiz": "q-t09-0",
+   "old": ", and an exploratory well that finds nothing is an expensive loss",
+   "new": ""
+  },
+  {
+   "quiz": "t-t09-1",
+   "old": "Because the sharing applies only to eligible costs, the rules define which expenses qualify.",
+   "new": "The sharing applies only to eligible drilling costs."
+  },
+  {
+   "quiz": "t-t09-1",
+   "old": ", and its long-term success depends on steady investment across all of these heads",
+   "new": ""
+  },
+  {
+   "quiz": "q-t10-0",
+   "old": ", which draw devotees from many countries",
+   "new": ""
+  },
+  {
+   "quiz": "q-t11-0",
+   "old": " Organisers and participants generally treated the conference as an opportunity to move from commitments on paper to restoration on the ground.",
+   "new": ""
+  },
+  {
+   "quiz": "t-t11-1",
+   "old": "Drought is one of the harder environmental problems to manage, because its damage builds slowly and is often noticed only after crops have failed and water supplies have run low.",
+   "new": "Drought is one of the harder environmental problems to manage."
+  },
+  {
+   "quiz": "t-t11-1",
+   "old": "Land and water are closely linked, so a drought in one region can quickly affect farming, food supplies and local incomes across wider areas.",
+   "new": "Land and water are closely linked."
+  },
+  {
+   "quiz": "t-t11-1",
+   "old": " Pressure on water, farming and land tends to show up in the others as well.",
+   "new": ""
+  },
+  {
+   "quiz": "t-t12-1",
+   "old": "Tiger reserves vary greatly in size, from small forest patches to very large landscapes that cover several districts.",
+   "new": "Tiger reserves vary greatly in size, from Bor (Maharashtra), the smallest, to Nagarjunsagar Srisailam, the largest."
+  },
+  {
+   "quiz": "q-t13-0",
+   "old": "It lies in Arunachal Pradesh, a state in north-eastern India, and",
+   "new": "It lies in Arunachal Pradesh, and"
+  },
+  {
+   "quiz": "q-t14-0",
+   "old": " The Commonwealth Flag is handed over to the next host at the end of each edition, which marks the beginning of preparations for the following Games.",
+   "new": ""
+  },
+  {
+   "quiz": "t-t14-1",
+   "old": "Today the Games are organised by the Commonwealth Games Federation, and each edition is hosted by a nation chosen in advance.",
+   "new": "Today the Games are organised by the Commonwealth Games Federation."
+  },
+  {
+   "quiz": "q-t16-0",
+   "old": "the medal carries his name in recognition of his influence on the subject",
+   "new": "the medal carries his name"
+  }
+ ],
+ "fact_fixes": [
+  {
+   "old": "The Central Government has introduced an amendment in the Rajya Sabha to bring Vande Mataram under similar statutory protection.",
+   "new": "A Bill proposes to bring Vande Mataram under similar statutory protection.",
+   "page": 33
+  },
+  {
+   "old": "India's Ramsar network grew from 26 sites in 2014 to 101 sites in 2026",
+   "new": "",
+   "page": 61
+  },
+  {
+   "old": " India's Ramsar network has grown from 26 sites in 2014 to 101 sites in 2026.",
+   "new": "",
+   "page": 61
+  },
+  {
+   "old": "India's total: 39 medals (13 gold, 17 silver, 9 bronze)",
+   "new": "India's total: 39 medals",
+   "page": 65
+  },
+  {
+   "old": "India won 39 medals (13 gold, 17 silver and 9 bronze) and finished",
+   "new": "India won 39 medals and finished",
+   "page": 65
+  },
+  {
+   "old": "Gulveer Singh: India's only double medallist (Silver in 10,000 m, Bronze in 5,000 m)",
+   "new": "",
+   "page": 65
+  }
+ ],
+ "replacements": []
+}
