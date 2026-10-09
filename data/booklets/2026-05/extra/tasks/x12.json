@@ -1,0 +1,75 @@
+{
+ "key": "x12",
+ "topic": "Miscellaneous (Part 1)",
+ "chapter": "Miscellaneous",
+ "text_file": "data/booklets/2026-05/t12_misc1.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c7-t1-s1",
+   "title": "India's Partnerships: Vietnam, New Zealand and SAARC",
+   "summary": "India and Vietnam raised their ties to an enhanced Comprehensive Strategic Partnership after a state visit by To Lam, with a target of USD 25 billion bilateral trade by 2030. India and New Zealand signed a free trade agreement that eliminates duties on Indian exports to New Zealand. The SAARC currency swap framework, launched by the RBI in 2012, offers short-term liquidity support to member nations.",
+   "facts": [
+    "India and Vietnam elevated ties to an enhanced Comprehensive Strategic Partnership after a state visit by To Lam",
+    "Target: USD 25 billion bilateral trade by 2030",
+    "Vietnam formally joined the Indo-Pacific Oceans Initiative",
+    "Joint Vision Statement for 2030 seeks deeper defence cooperation and joint development of advanced defence platforms",
+    "India extended a USD 500 million defence line of credit to Vietnam",
+    "India-New Zealand FTA eliminates duties on Indian exports to New Zealand (100% duty elimination)",
+    "India gives access to 70.03% of tariff lines and keeps 29.97% under exclusion",
+    "New Zealand to invest USD 20 billion over 15 years",
+    "SAARC currency swap: central banks exchange domestic currencies at a predetermined rate and reverse the swap at the same rate",
+    "SAARC swap tenure is 3 months, extendable twice; launched by RBI in 2012"
+   ]
+  },
+  {
+   "id": "2026-05-c7-t1-s3",
+   "title": "Global Issues: Thucydides Trap, Ebola and Ecocide",
+   "summary": "The Thucydides Trap describes the heightened risk of conflict when a rising power challenges an established power, and it is often applied to China and the United States. WHO declared an Ebola outbreak in DR Congo a Public Health Emergency of International Concern, linked to the Bundibugyo strain. Ecocide refers to unlawful or reckless acts that cause severe environmental damage, and it is not currently recognised under the Rome Statute.",
+   "facts": [
+    "The Thucydides Trap idea originates from Thucydides' account of the Peloponnesian War between Athens and Sparta",
+    "Core argument: growth of Athenian power and the fear it caused in Sparta made conflict increasingly inevitable",
+    "The trap describes a heightened risk of conflict when a rising power challenges an established power",
+    "Critics argue the idea oversimplifies by implying conflict is unavoidable; diplomacy and economic interdependence can prevent escalation",
+    "WHO declared the DR Congo Ebola outbreak a PHEIC, linked to the Bundibugyo strain in the Ituri region",
+    "Under the IHR 2005, a PHEIC is a public health risk of international disease spread requiring coordinated global response",
+    "Ebola is a zoonotic, severe and fatal viral disease, first identified in 1976",
+    "Ecocide: unlawful or reckless acts committed knowing they are likely to cause severe, widespread or long-term environmental damage",
+    "Ecocide is not currently recognised under the Rome Statute; India has not signed the Rome Statute and is not bound by ICC jurisdiction",
+    "Recognised international crimes under the Rome Statute: genocide, crimes against humanity, war crimes and crime of aggression"
+   ]
+  },
+  {
+   "id": "2026-05-c7-t1-s4",
+   "title": "Governance, Citizenship and Parliament",
+   "summary": "Draft Citizenship Rules amendments tighten declaration and passport-surrender norms for applicants from Pakistan, Afghanistan and Bangladesh, and India does not allow dual citizenship. A privilege notice moved in Rajya Sabha shows how MPs can allege a breach of parliamentary privilege. The Model Code of Conduct regulates elections, and the Supreme Court's One Case One Data initiative aims to integrate court data.",
+   "facts": [
+    "Citizenship is covered under Part II (Articles 5 to 11) of the Constitution and is a Union List subject",
+    "India does not allow dual citizenship; acquiring foreign citizenship leads to automatic termination of Indian citizenship",
+    "Applicants must declare whether they hold a valid or expired passport from Pakistan, Afghanistan or Bangladesh",
+    "Under the draft rules, a foreign passport must be surrendered within 15 days",
+    "Citizenship Act, 1955 lists five modes of acquisition: birth, descent, registration, naturalisation and incorporation of territory",
+    "A privilege notice is a formal mechanism to allege breach of parliamentary privilege or contempt of the House; it is derived from Article 105",
+    "Privilege notices are submitted under Lok Sabha Rule 222 or Rajya Sabha Rule 187; the Speaker or Chairman decides whether to allow discussion or refer it to the Privileges Committee",
+    "Model Code of Conduct: non-statutory guidelines issued by the Election Commission to ensure a free, fair and level-playing field, with no unfair advantage to the ruling party",
+    "One Case One Data integrates case data from the Supreme Court, High Courts, district courts and taluka courts into one platform; Su Sahay is an AI chatbot on the Supreme Court website"
+   ]
+  }
+ ],
+ "already_asked": [
+  "The ASEAN Regional Forum (ARF) was established in which year?",
+  "Where is the headquarters of ASEAN located?",
+  "In which year was the East Asia Summit (EAS) created?",
+  "On which date did the ASEAN Charter take effect?",
+  "Assertion (A): Decision-making in ASEAN is done through consultation and consensus.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "How many of the following statements are correct?",
+  "In which year was the RBI's Economic Capital Framework introduced?",
+  "Which person headed the committee that reviewed the 2015-16 Economic Capital Framework?",
+  "In which year did the RBI Board's Technical Committee, led by YH Malegam, make its recommendation on surplus transfers?",
+  "Under which section of the RBI Act, 1934 must the RBI's profits be sent to the Centre?",
+  "How often must the Economic Capital Framework be reviewed, in years?",
+  "In which year was the Enterprise-Wide Risk Management Framework, of which the Contingency Risk Buffer forms the core, introduced?",
+  "The RBI's surplus transfer to the government typically averages around what percentage of GDP (in per cent)?"
+ ]
+}

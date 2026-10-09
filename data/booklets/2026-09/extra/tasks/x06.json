@@ -1,0 +1,58 @@
+{
+ "key": "x06",
+ "topic": "Map Projections: From Mercator to Equal Earth",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-09/t06_map_projections.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c1-t6-s2",
+   "title": "Mercator projection and its distortion",
+   "summary": "The Mercator projection was introduced in 1569 by Gerardus Mercator and was primarily designed to assist maritime navigation. It is a cylindrical and conformal projection, so it keeps local shapes and shows rhumb lines as straight lines. The cost is that landmasses far from the Equator look much larger than they are, and Africa appears similar in size to Greenland.",
+   "facts": [
+    "Introduced in 1569 by Gerardus Mercator, a Flemish geographer and cartographer.",
+    "Type: cylindrical and conformal projection.",
+    "Primarily designed to assist maritime navigation.",
+    "Earth's surface is conceptually projected onto a cylinder around the globe, then unfolded flat.",
+    "Stretching of parallels is matched exactly with stretching of meridians, which preserves shapes.",
+    "Landmasses far from the Equator appear much larger than they are.",
+    "Africa appears similar in size to Greenland, though Greenland is in reality 14 times smaller.",
+    "Rhumb lines appear as straight lines, which makes the projection useful for navigation.",
+    "Does not preserve relative area."
+   ]
+  },
+  {
+   "id": "2026-09-c1-t6-s4",
+   "title": "Other projections and mapping in India",
+   "summary": "Gall-Peters, first presented in 1855 and popularised in 1973, preserves area but stretches or squashes shapes, while Robinson (1963) and Winkel Tripel (1921) are compromise projections. Winkel Tripel replaced Robinson in National Geographic Society maps in 1998. In India, the Survey of India, established in 1767, verifies international borders on published maps, and the Criminal Law Amendment Act (1961) penalises maps that misrepresent India's borders.",
+   "facts": [
+    "The Gall-Peters projection was first presented by Scottish clergyman James Gall in 1855.",
+    "Arno Peters popularised the Gall-Peters projection in 1973.",
+    "Gall-Peters preserves area accurately but makes landmasses look stretched or squashed.",
+    "The Robinson projection (1963) was devised by Arthur H. Robinson to balance size and shape.",
+    "Robinson is a compromise projection, with meridians curving gently towards the Poles.",
+    "The Winkel Tripel projection (1921) was created by German cartographer Oswald Winkel.",
+    "Winkel Tripel aims to reduce distortion across area, distance and direction.",
+    "In 1998, Winkel Tripel replaced Robinson in National Geographic Society maps, followed by schools, textbooks and the World Bank.",
+    "The Survey of India, established in 1767, verifies international borders on published maps.",
+    "Criminal Law Amendment Act (1961), Section 2, penalises publication and distribution of maps that question India's territorial integrity or misrepresent its borders."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which property do equal-area projections preserve?",
+  "How many of the following statements are correct?",
+  "Consider the following statements:",
+  "Assertion (A): The Mercator projection preserves local shapes.",
+  "Match List I with List II:",
+  "Which projection replaced Robinson in National Geographic Society maps in 1998?",
+  "The Earth is described as an oblate spheroid rather than a perfect sphere because of:",
+  "In which year was the Mercator projection introduced?",
+  "Which country led the UN General Assembly 'Correct the Map' resolution? (name the country)",
+  "How many countries supported the resolution, including India? (in number)",
+  "Which country voted against the resolution? (name the country)",
+  "How many countries abstained from the vote on the resolution? (in number)",
+  "Which regional organisation endorsed the Correct the Map campaign in August 2025? (give the name)",
+  "In which year was the Equal Earth projection created? (in year)",
+  "Which Togolese Foreign Minister is associated with the resolution? (give the full name)"
+ ]
+}

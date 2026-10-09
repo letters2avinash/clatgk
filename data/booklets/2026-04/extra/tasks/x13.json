@@ -1,0 +1,59 @@
+{
+ "key": "x13",
+ "topic": "NASA's Artemis Programme and Space Missions",
+ "chapter": "Science and Technology, Defence and Space",
+ "text_file": "data/booklets/2026-04/t13_nasa_artemis_i.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c7-t3-s2",
+   "title": "Artemis Accords",
+   "summary": "The Artemis Accords were announced by NASA in 2020 and were established by the US State Department and NASA together with seven other founding members. They set out common principles for the civil exploration and use of outer space, including the Moon, Mars, comets and asteroids, for peaceful purposes. The Accords build on the Outer Space Treaty of 1967 but are not legally binding.",
+   "facts": [
+    "Announced by NASA in 2020.",
+    "Established by the US State Department and NASA with 7 other founding members.",
+    "Founding members include Australia, Canada, Italy, Japan, Luxembourg, the United Arab Emirates and the United Kingdom.",
+    "A set of principles and guidelines for international cooperation in space exploration.",
+    "Purpose: common principles to govern civil exploration and use of outer space, the Moon, Mars, comets and asteroids, for peaceful purposes.",
+    "Builds upon the Outer Space Treaty of 1967.",
+    "Nature: not legally binding.",
+    "Members: 63 countries.",
+    "India joined in 2023 as the 27th member.",
+    "Russia and China are not part of the Artemis Accords."
+   ]
+  },
+  {
+   "id": "2026-04-c7-t3-s4",
+   "title": "Lunar Missions: Chandrayaan and Moon Landings",
+   "summary": "India's Chandrayaan-1, launched in 2008, mapped the Moon's surface in unprecedented detail and found water ice in polar craters. Chandrayaan-3, launched in 2023, made India the first nation to soft-land on the lunar South Pole. Chandrayaan-4 is slated for 2028 to bring rock samples back to Earth, and Chandrayaan-5 is a joint mission of ISRO and JAXA to explore the Moon for water and other resources.",
+   "facts": [
+    "Chandrayaan-1 (2008) was India's first lunar mission.",
+    "Chandrayaan-1 mapped the Moon's surface in unprecedented detail, discovering water ice in polar craters.",
+    "Chandrayaan-2 (2019) carried an orbiter, the Vikram lander and the Pragyan (Wisdom) rover.",
+    "Chandrayaan-3 (2023) was a second attempt after Chandrayaan-2, using GSLV Mk III.",
+    "With Chandrayaan-3, India became the first nation to soft-land on the lunar South Pole.",
+    "With Chandrayaan-3, India became the 4th nation to soft-land anywhere on the Moon.",
+    "Chandrayaan-4 is slated for launch in 2028 and aims to bring lunar rock samples back to Earth.",
+    "Chandrayaan-5 (Lunar Polar Exploration, LUPAX) is a joint initiative of ISRO and JAXA.",
+    "Landing on the Moon: Soviet Union first (Luna 9, 1966), United States second (Apollo, 1969), China third (Chang'e, 2013).",
+    "Japan became the 5th nation to land on the Moon (SLIM, 2024)."
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year is the Lunar Gateway Station planned to be established?",
+  "Which was NASA's last mission to the Moon before Artemis II?",
+  "Who is the Commander of the Artemis II crew?",
+  "Read the statements and choose the correct option.",
+  "Match List I with List II:",
+  "Consider the following statements about the Artemis Accords:",
+  "How many of the following statements about the Gaganyaan Mission are correct?",
+  "Which nation became the first to soft-land on the lunar South Pole?",
+  "Who was the first human to travel into space? (name)",
+  "In which year did Valentina Tereshkova become the first woman to enter space? (year)",
+  "Which Indian astronaut flew to space aboard Soyuz T-11 in 1984? (name)",
+  "How many of the four Gaganyaan astronaut designates will be selected for the final mission? (number)",
+  "What is the name of the half-humanoid woman robot astronaut that will fly ahead of Gaganyaan? (name)",
+  "Which ISRO centre developed the SAKHI app? (full name of the centre)",
+  "In which city is the Human Space Flight Centre that trains Gaganyaan crew located? (city)"
+ ]
+}

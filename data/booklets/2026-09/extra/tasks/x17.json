@@ -1,0 +1,69 @@
+{
+ "key": "x17",
+ "topic": "Current Affairs September 2026",
+ "chapter": "AILET Corner",
+ "text_file": "data/booklets/2026-09/t17_ailet_corner.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c9-t1-s1",
+   "title": "Upper Bhadra Project and Bhadra River",
+   "summary": "A trial run of the Upper Bhadra Project carried water from the Bhadra Reservoir to Gonur Lake in Chitradurga district through the Chitradurga Branch Canal. The development marks the start of the project's operational phase and meets a long-standing demand for reliable water in parts of central Karnataka. The project is the first irrigation project in Karnataka to receive National Project Status from the Union Government. The Bhadra river rises in the Western Ghats and eventually becomes part of the Krishna river system.",
+   "facts": [
+    "Trial run carried water from Bhadra Reservoir to Gonur Lake, Chitradurga district",
+    "Route used: Chitradurga Branch Canal",
+    "Marks the beginning of the project's operational phase",
+    "Fulfils a long-standing demand for reliable water in parts of central Karnataka",
+    "Karnataka irrigation project to receive National Project Status from the Union Government",
+    "Bhadra River originates in the Western Ghats, near Gangamoola Peak",
+    "Bhadra joins Tunga River at Koodli, near Shivamogga",
+    "The confluence gives rise to the Tungabhadra River, a tributary of the Krishna River",
+    "Krishna river system ultimately drains into the Bay of Bengal"
+   ]
+  },
+  {
+   "id": "2026-09-c9-t1-s2",
+   "title": "Ladakh Special Constitutional Framework",
+   "summary": "The Ministry of Home Affairs has proposed a new chapter under Article 371 to create a Special Constitutional Framework for Ladakh. The framework envisages a directly elected legislative body at the Union Territory level. This body is expected to receive powers over matters particularly important to the region, such as land, culture, language, forests and environment. Other areas of legislative authority applicable to Union Territories under Article 240 may also form part of the proposal.",
+   "facts": [
+    "Proposed by the Ministry of Home Affairs",
+    "A new chapter under Article 371 would establish the Special Constitutional Framework for Ladakh",
+    "Envisages a Directly Elected Legislative Body at Union Territory level",
+    "Expected powers include land and land-related issues",
+    "Expected powers include local culture, traditions and language",
+    "Expected powers include forests, environment and natural resources",
+    "Legislative areas applicable to Union Territories under Article 240 may also form part of the framework"
+   ]
+  },
+  {
+   "id": "2026-09-c9-t1-s3",
+   "title": "India's National Accounts Revision",
+   "summary": "The Ministry of Statistics and Programme Implementation released India's revised National Accounts Series in 2026, with 2022-23 as the new base year. The revised series adopts double deflation for manufacturing gross value added along with several other methodological changes. National accounts give a systematic framework for measuring an economy's production, income, expenditure, consumption, investment, saving and external trade. The revision aims to reflect structural changes, newer data sources and updated methods, so that constant-price estimates better reflect the contemporary economy.",
+   "facts": [
+    "Released by the Ministry of Statistics and Programme Implementation in 2026",
+    "New base year: 2022-23",
+    "Adopts double deflation for Manufacturing Gross Value Added",
+    "National accounts measure production, income, expenditure, consumption, investment, saving and external trade",
+    "Estimates are prepared broadly in line with the United Nations System of National Accounts",
+    "Revision incorporates structural changes in the economy",
+    "Revision uses improved and newer data sources",
+    "Revision updates statistical methodologies",
+    "Constant-price estimates to reflect the contemporary economy more accurately"
+   ]
+  }
+ ],
+ "already_asked": [
+  "India's proposed blue bond is best described as a sub-category of which broader instrument?",
+  "In 2000, the Clay Mathematics Institute designated the Navier-Stokes problem as one of how many Millennium Prize Problems?",
+  "Consider the following statements:",
+  "The OpenAI proof claim was reportedly checked using Lean. In the booklet, Lean is described as what?",
+  "Consider the following statements about the Navier-Stokes problem:",
+  "Which country implemented a Debt-for-Ocean Swap in 2021 to support marine conservation?",
+  "In which year was the Dadasaheb Phalke Award instituted?",
+  "In which year was Raja Harishchandra, directed by the award's namesake and regarded as India's first full-length feature film, made?",
+  "In which city did the ULLAS Mela mark the conclusion of the International Literacy Day 2026 celebrations?",
+  "In which year was India Water Week first conceptualised, before its 2026 rebranding? (year)",
+  "In which financial year does the implementation period of the ULLAS scheme end? (financial year)",
+  "In which Vietnamese city was the 73rd edition of Miss World held?",
+  "Which country will host the next Miss World edition, scheduled for 2027?"
+ ]
+}

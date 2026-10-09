@@ -1,0 +1,57 @@
+{
+ "key": "x10",
+ "topic": "Sarnath: India's 45th UNESCO World Heritage Site",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-08/t10_sarnath_unesco_world_heritage_site.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c4-t1-s1",
+   "title": "Inscription and India's World Heritage status",
+   "summary": "Sarnath was inscribed on the UNESCO World Heritage List at the 48th session of the World Heritage Committee, held in Busan, Republic of Korea. With this inscription India has 45 World Heritage Sites, ranking 6th globally and 2nd in the Asia-Pacific region. Of these sites, 37 are cultural, 7 are natural and 1 is mixed.",
+   "facts": [
+    "Inscribed during the 48th session of the World Heritage Committee in Busan (Republic of Korea)",
+    "With Sarnath, India now has 45 UNESCO World Heritage Sites",
+    "India ranks 6th globally and 2nd in the Asia-Pacific region",
+    "India's sites: 37 Cultural, 7 Natural, 1 Mixed",
+    "Khangchendzonga National Park (Sikkim) is India's mixed heritage site",
+    "1983 inscriptions: Taj Mahal, Agra Fort, Ajanta and Ellora Caves",
+    "Dholavira (Gujarat) is the only Indus Valley Civilization site from India on the list",
+    "India hosted the 46th Annual Session at Bharat Mandapam, New Delhi",
+    "India served as a Committee Member for the 2021-2025 term"
+   ]
+  },
+  {
+   "id": "2026-08-c4-t1-s3",
+   "title": "UNESCO, the Convention and the recognition process",
+   "summary": "The World Heritage List is maintained by the World Heritage Programme and administered by the UNESCO World Heritage Committee. The Convention concerning Protection of World Cultural and Natural Heritage was adopted in 1972, took effect in 1975, and was ratified by India in 1977. In India the Archaeological Survey of India is the nodal agency, while ICOMOS and IUCN carry out the assessment before the Committee takes the final decision.",
+   "facts": [
+    "UNESCO was founded in 1945; its headquarters are in Paris, France",
+    "UNESCO stands for United Nations Educational, Scientific and Cultural Organization",
+    "The World Heritage List is maintained by the World Heritage Programme",
+    "The list is administered by the UNESCO World Heritage Committee",
+    "The World Heritage Convention was adopted by UNESCO in 1972",
+    "The Convention formally took effect in 1975",
+    "India ratified the Convention in 1977",
+    "Nodal agency in India: Archaeological Survey of India",
+    "Assessment is done by ICOMOS and IUCN; final decision by the World Heritage Committee"
+   ]
+  }
+ ],
+ "already_asked": [
+  "During which session of the World Heritage Committee was Sarnath inscribed, and in which city was it held?",
+  "After Sarnath's inscription, how many UNESCO World Heritage Sites does India have in total?",
+  "What is the name of the event when Gautama Buddha gave his first sermon at Sarnath?",
+  "Assertion (A): The Ashokan Pillar at Sarnath carries a Lion Capital.",
+  "Match List I with List II:",
+  "Consider the following statements about Sarnath:",
+  "How many of the following statements are correct?",
+  "Which of the following is NOT an ancient name for Sarnath?",
+  "In which year BC was Siddhartha, later Gautama Buddha, born? (number only)",
+  "In which year BC did Buddha die at Kushinagara? (number only)",
+  "What term did Buddha use to refer to himself, meaning one who has thus come or gone?",
+  "Into how many Pitakas were Buddha's teachings divided at the First Buddhist Council? (number only)",
+  "How many parts does the Atthanga Magga, the path to end suffering, have? (number only)",
+  "Which Noble Truth states that suffering could be ended? (one word)",
+  "Who chaired the First Buddhist Council? (name)"
+ ]
+}

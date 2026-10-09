@@ -1,0 +1,57 @@
+{
+ "key": "x05",
+ "topic": "UAE-Saudi Rift in Yemen",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-01/t05_yemen.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c1-t5-s3",
+   "title": "India-UAE partnership",
+   "summary": "India and the UAE agreed to double bilateral trade to over USD 200 billion by 2032. Their ties span energy, with a long-term LNG deal, civil nuclear cooperation and defence collaboration, along with a proposal for data embassies. The UAE also accounted for 18% of India's remittance flows.",
+   "facts": [
+    "India and the UAE agreed to double bilateral trade to over USD 200 billion by 2032.",
+    "Bilateral trade was US$ 100 billion in FY 2024-25.",
+    "The UAE is India's 3rd largest trade partner, after China and the US.",
+    "In 2022, India became the first country with which the UAE signed a CEPA.",
+    "ADNOC Gas signed an agreement with HPCL to supply 0.5 million tonnes per annum of LNG for 10 years.",
+    "The UAE accounted for 18% of India's remittance flows.",
+    "India has access to the UAE's Al Dhafra Air Base for refuelling.",
+    "Both countries agreed to explore cooperation in small modular reactors and nuclear safety.",
+    "A proposal for offshore digital infrastructure would store critical national data as data embassies."
+   ]
+  },
+  {
+   "id": "2026-01-c1-t5-s4",
+   "title": "UAE profile and the Kafala system",
+   "summary": "The UAE is a federal elective monarchy of seven emirates, with Abu Dhabi as its capital and the dirham as its currency. Under the Kafala system, an in-country sponsor, typically the employer, controls a migrant worker's visa and legal status. Workers cannot change jobs or leave the country without that sponsor's permission.",
+   "facts": [
+    "The UAE is a federal elective monarchy composed of 7 emirates.",
+    "The UAE shares land borders with Oman and Saudi Arabia.",
+    "The UAE's maritime borders in the Persian Gulf are with Qatar and Iran.",
+    "The UAE's capital is Abu Dhabi and its currency is the dirham.",
+    "Mohammed bin Zayed Al Nahyan is the President; Mohammed bin Rashid Al Maktoum is the Prime Minister.",
+    "Kafala means 'sponsorship' in Arabic.",
+    "Under Kafala, an in-country sponsor, typically the employer, controls a worker's visa and legal status.",
+    "Workers cannot change jobs or leave the country without the sponsor's permission.",
+    "Kafala can lead to exploitation, non-payment of wages, poor conditions and restricted movement.",
+    "Barakah is the Arab world's first nuclear power plant."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Who became the President of the unified Republic of Yemen in 1990?",
+  "Which city is Yemen's capital, currently under Houthi control?",
+  "According to the UAE, its military presence in Yemen is confined to which activity?",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements:",
+  "Ansar Allah is the official name of which Yemeni movement?",
+  "In which year did the two Yemeni states merge to form the Republic of Yemen? (year)",
+  "In which year did Southern leaders attempt secession, leading to a brief civil conflict? (year)",
+  "In which year was the Southern Movement (Al-Hirak) formed? (year)",
+  "Who was the founder of the Houthi movement, killed by Yemeni forces in Saada in 2004? (full name)",
+  "In which year did the Houthis capture Sanaa, forcing President Hadi to flee abroad the following year? (year of capture)",
+  "In 2015, the Houthis expanded their control in western Yemen to include which strait? (name of strait)",
+  "Which Yemeni leader did the Houthis kill in 2017 for switching allegiance to the Saudi-led coalition? (full name)"
+ ]
+}

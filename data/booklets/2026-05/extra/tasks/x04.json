@@ -1,0 +1,56 @@
+{
+ "key": "x04",
+ "topic": "Bhojshala - Kamal Maula Complex",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-05/t04_bhojshala_kamal_maula_complex.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c2-t2-s3",
+   "title": "Historical and Religious Claims",
+   "summary": "The site is a medieval ASI-protected monument in Dhar, Madhya Pradesh, traditionally linked to Raja Bhoj, who built it in 1034 AD. Hindus regard it as a Saraswati temple, while Muslims identify it as the Kamal Maula Mosque. It was reportedly converted into a mosque in 1514 AD, and an idol of Goddess Saraswati found at the site is now in the British Museum, London.",
+   "facts": [
+    "Medieval ASI-protected monument located in Dhar, Madhya Pradesh.",
+    "Hindus claim the site as a Saraswati temple; Muslims consider it a mosque.",
+    "Built by Raja Bhoj in 1034 AD.",
+    "The term 'Bhojshala' became linked to the building in the early 20th century, based on inscriptions found at the site by KK Lele.",
+    "The structure is believed to have originally functioned as a temple dedicated to Goddess Saraswati (Vagdevi).",
+    "Reportedly converted into a mosque in 1514 AD under Muslim rule (Mehmudshah Khilji) in Dhar.",
+    "Muslims identify the structure as the Kamal Maula Mosque, associated with Sufi saint Hazrat Maulana Kamaluddin Chishti.",
+    "An intricately carved idol of Goddess Saraswati was discovered at the site during excavations in the 20th century.",
+    "The Saraswati idol is currently housed in the British Museum, London.",
+    "The site was traditionally regarded as a centre of Sanskrit learning and scholarship."
+   ]
+  },
+  {
+   "id": "2026-05-c2-t2-s4",
+   "title": "Architecture, Inscriptions and Gurjara-Pratihara Links",
+   "summary": "The complex preserves the remains of a Mandapa-style hall, typical of Hindu temple architecture, and two Sarpabandha pillar inscriptions that teach Sanskrit grammar. Its walls carry odes to Kurma Avatara in Prakrit, and its inscriptions mention Paramara rulers. Raja Bhoj, recognized as Mihir Bhoja, is linked to the Gurjara-Pratihara Empire.",
+   "facts": [
+    "Structural remains indicate a Mandapa-style hall, characteristic of Hindu temple architecture.",
+    "The site uniquely preserves 2 Sarpabandha (serpentine chart) pillar inscriptions.",
+    "The Sarpabandha inscriptions chart the Sanskrit alphabet, noun/verb terminations, and the ten tenses and moods of Sanskrit grammar.",
+    "Stone slabs on the walls carry two odes to Kurma Avatara (Tortoise Incarnation of Vishnu), composed in Prakrit.",
+    "Sanskrit and Pali inscriptions mention Paramara rulers such as Udayaditya, Naravarman and Arjunavarma Deva.",
+    "The Sanskrit drama Karpuramanjari was written by royal tutor Madana, a disciple of Jain scholar Ashadhara.",
+    "Gurjara-Pratihara Empire founder: Nagabhata I (730-756 AD).",
+    "Raja Bhoj (Mihir Bhoja) was the most illustrious emperor of the Gurjara-Pratihara Empire.",
+    "Capital of the Gurjara-Pratihara Empire: Kannauj (Mahodaya).",
+    "The Pratiharas were central to a tripartite struggle against the Palas of Bengal and the Rashtrakutas of the Deccan."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which section of the Places of Worship Act, 1991 excludes ancient monuments under the AMASR Act, 1958 from the religious character freeze provision?",
+  "The Government of India Act, 1935, on which the Dhar proclamation rested, was not enforced until when?",
+  "Under which article was the Bhojshala case treated as a writ petition seeking enforcement of the fundamental right to worship?",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Under which government was the Places of Worship Act, 1991 passed?",
+  "In which year is the religious character of places of worship frozen to its Independence Day status? (year)",
+  "In which year was the Ancient Monuments and Archaeological Sites and Remains Act enacted? (year)",
+  "Under which section of the Places of Worship Act are penalties provided? (section number)",
+  "Under which section are legal proceedings on pre-1947 religious character conversions terminated? (section number)",
+  "Which Prime Minister led the Congress government that passed the Places of Worship Act? (name)",
+  "Under which section of the Places of Worship Act is conversion of a place of worship prohibited? (section number)"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "key": "x12",
+ "topic": "Vikram-1: India's Private Orbital Rocket",
+ "chapter": "Defence, Space and S&T",
+ "text_file": "data/booklets/2026-07/t12_vikram_1.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c6-t1-s2",
+   "title": "Propulsion and Structure",
+   "summary": "The first three stages of Vikram-1, called Kalam Engines, use advanced solid propellants. The upper stage uses a 3D-printed liquid-fuelled Raman Engine for precise orbital insertion and manoeuvres. The rocket extensively uses all-carbon composite structures, and the booklet also highlights Agnilet, a single-piece 3D-printed semi-cryogenic engine.",
+   "facts": [
+    "Stages 1 to 3 of Vikram-1 are called Kalam Engines.",
+    "The Kalam Engines use advanced solid propellants.",
+    "The upper stage features a 3D-printed liquid-fuelled Raman Engine.",
+    "The Raman Engine is used for precise orbital insertion and manoeuvres.",
+    "Vikram-1 extensively uses all-carbon composite structures.",
+    "Agnilet is the world's first single-piece 3D-printed semi-cryogenic engine.",
+    "Agnibaan SOrTeD is the world's first rocket with a fully 3D-printed engine.",
+    "SOrTeD stands for SubOrbital Technology Demonstrator."
+   ]
+  },
+  {
+   "id": "2026-07-c6-t1-s3",
+   "title": "Payloads on Board",
+   "summary": "Vikram-1 carries scientific, technological, commercial and symbolic payloads. SCOPE, developed by Skyroot Aerospace, validates onboard spacecraft systems and mission technologies during flight. The Embrace robotic arm, created by Cosmoserve Space, is linked to future applications such as space debris removal and in-orbit servicing.",
+   "facts": [
+    "Vikram-1 carries scientific, technological, commercial and symbolic payloads.",
+    "SCOPE, developed by Skyroot Aerospace, validates onboard spacecraft systems and mission technologies during flight.",
+    "The Embrace robotic arm, created by Cosmoserve Space, stays attached to the payload deck during its demonstration.",
+    "Embrace is linked to future applications such as space debris removal and in-orbit servicing.",
+    "SOLARAS is an indigenous CubeSat that demonstrates indigenous satellite technology in orbit.",
+    "Cosmic Bloom is India's first lab-grown diamond jewellery sent into space, developed by Cosmos Diamonds.",
+    "An 18K gold rocket model carries micro-sculptures of Sir C.V. Raman, Dr Vikram Sarabhai and Dr A.P.J. Abdul Kalam.",
+    "The gold rocket model is credited to Telangana-based artist Ajay Kumar Mattewada."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which engine powers the upper stage of Vikram-1 for precise orbital insertion and manoeuvres?",
+  "What structural material does Vikram-1 extensively use?",
+  "Assertion (A): Vikram-1 is a sub-orbital rocket that never reaches orbit.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "How many of the following statements are correct?",
+  "Low Earth Orbit, the region where Vikram-1 placed its payloads, lies between which altitudes above Earth's surface?",
+  "The 18K gold rocket model carried as a payload on Vikram-1 contains micro-sculptures of which three persons?",
+  "In which year was the space policy that opened the complete space value chain to non-government entities framed?",
+  "In which year was NewSpace India Limited established?",
+  "Up to how much grant, in crore rupees, does the IN-SPACe Seed Fund Scheme provide to startups and MSMEs?",
+  "What is the automatic-route FDI limit (in per cent) for launch vehicles and spaceports?",
+  "In which city is the headquarters of IN-SPACe located?",
+  "In which year was Antrix Corporation established?",
+  "NewSpace India Limited is the commercial arm of which organisation?"
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "key": "x16",
+ "topic": "Current Affairs July 2026: AILET Corner",
+ "chapter": "AILET Corner",
+ "text_file": "data/booklets/2026-07/t16_ailet_corner.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c9-t1-s1",
+   "title": "ICC Women's T20 World Cup 2026",
+   "summary": "The 10th edition of the biennial ICC Women's T20 tournament was held from 12 June to 5 July 2026, hosted by the England and Wales Cricket Board across 7 venues. The 12 teams played a round-robin group stage in 2 groups of 6, and the top 2 from each group reached the semi-finals. Australia beat England in the final at Lord's to win its record-extending 7th title.",
+   "facts": [
+    "10th edition of the biennial ICC Women's T20 International Cricket Tournament",
+    "Held 12 June to 5 July 2026; hosted by England and Wales Cricket Board across 7 venues",
+    "12 teams played in 2 groups of 6 in a round-robin format",
+    "Top 2 from each group advanced to the semi-finals",
+    "Final at Lord's Cricket Ground, London: Australia defeated England",
+    "Australia won its record-extending 7th title",
+    "Shree Charani (India): leading wicket-taker with 14 wickets",
+    "Charani set a national record for most wickets by an Indian in a single edition",
+    "Beth Mooney (Australia): Player of the Final and Player of the Tournament"
+   ]
+  },
+  {
+   "id": "2026-07-c9-t1-s2",
+   "title": "Sports and Youth Milestones",
+   "summary": "The Ministry of Youth Affairs and Sports announced that Telangana will host the 8th Khelo India Youth Games in November 2026. Leander Paes was appointed Player Ambassador of the Asian Tennis Federation. Vaibhav Sooryavanshi became India's youngest international cricket debutant at 15 years 99 days.",
+   "facts": [
+    "Telangana to host the 8th Khelo India Youth Games, scheduled for November 2026 (announced by Mansukh Mandaviya's ministry)",
+    "7th Khelo India Youth Games were hosted by Bihar in 2025",
+    "Maharashtra was overall champion at the 7th KIYG, followed by Haryana and Rajasthan",
+    "Leander Paes appointed Player Ambassador of the Asian Tennis Federation to promote grassroots tennis",
+    "Paes is India's only tennis player to win an Olympic medal: Bronze in Men's Singles, 1996 Atlanta",
+    "Paes honoured with the Rajiv Gandhi Khel Ratna Award (Major Dhyan Chand Khel Ratna Award)",
+    "Vaibhav Sooryavanshi: India's youngest international cricket debutant at 15 years 99 days",
+    "Sooryavanshi made his senior T20I debut against England at Old Trafford, Manchester",
+    "Sooryavanshi broke Shafali Verma's record (15 years 239 days, against South Africa in 2019)"
+   ]
+  },
+  {
+   "id": "2026-07-c9-t1-s5",
+   "title": "Policy, Heritage and Observances",
+   "summary": "The Centre released a draft of CAFE-III norms that would tighten fuel-efficiency and CO2 emission standards for passenger vehicles from April 2027. Sushruta, the ancient Indian physician and surgeon, is known as the Father of Surgery, and his bronze statue was unveiled by Scotland's Royal College of Surgeons. July also carries several observances, including the International Day of Cooperatives and World Population Day.",
+   "facts": [
+    "CAFE stands for Corporate Average Fuel Efficiency",
+    "CAFE norms were introduced by the Bureau of Energy Efficiency in 2017",
+    "Applies to petrol, diesel, CNG, LPG, hybrid and electric passenger vehicles weighing up to 3,500 kg",
+    "Draft CAFE-III norms propose stricter fuel-efficiency and CO2 standards for passenger vehicles from April 2027",
+    "Sushruta: Father of Surgery and Father of Plastic Surgery; disciple of Dhanvantari",
+    "Sushruta authored the Sushruta Samhita; it is part of Ayurveda's Great Trilogy with the Charaka Samhita and Astanga Hridaya",
+    "Sushruta's bronze statue was unveiled by Scotland's Royal College of Surgeons",
+    "International Day of Cooperatives: 1st Saturday of July; 2026 theme 'Cooperatives for a Peaceful World'",
+    "National Statistics Day: 29 June, honouring Prasanta Chandra Mahalanobis; 2026 theme 'Unlocking the Potential of Administrative Data'",
+    "World Population Day: 11 July; 2026 theme 'Realizing the Hopes and Aspirations of Young People - Today and for the Future'"
+   ]
+  }
+ ],
+ "already_asked": [
+  "During which months does the Northeast Monsoon occur?",
+  "Which mountain barrier blocks cold Central Asian winds and forces monsoon winds to shed moisture over India?",
+  "Which phenomenon, marked by warming of Pacific Ocean waters, can weaken the Indian monsoon?",
+  "According to the booklet, India receives about what share of its annual rainfall during the monsoon?",
+  "Assertion (A): The Arabian Sea branch of the southwest monsoon brings heavy rainfall to the west coast of India.",
+  "Match List I with List II:",
+  "Consider the following statements about the Indian monsoon:",
+  "After it enters India, what is the river called on its first Indian course? (one word)",
+  "Through which Indian state does the river flow as the Brahmaputra? (one word)",
+  "What is the name of the river when it enters Bangladesh? (one word)",
+  "Through which Indian state does the river first enter India? (two words)",
+  "What is the name of the hydropower project in Tibet that faces safety concerns? (one word)",
+  "Between which two tectonic plates is the ongoing collision that creates the fault system? (give both names)",
+  "What is the name of the active tectonic fault in south-eastern Tibet? (two words)"
+ ]
+}

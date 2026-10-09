@@ -1,0 +1,42 @@
+{
+ "key": "x04",
+ "topic": "India Declared Naxal-Free",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-04/t04_naxal_free_india.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c2-t3-s3",
+   "title": "Government Initiatives: Policy, SAMADHAN and Tribal Development",
+   "summary": "The government's response combines a 2015 national policy and action plan with the SAMADHAN doctrine, a set of eight elements running from leadership to financing. Parallel development schemes target tribal regions, including the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan and PM-JANMAN. The booklet also cites the 2006 Bandyopadhyay Committee, which highlighted governance and discrimination gaps faced by tribals.",
+   "facts": [
+    "National Policy and Action Plan to address Left Wing Extremism, 2015",
+    "SAMADHAN doctrine: Smart leadership, Aggressive strategy, Motivation and training, Actionable intelligence",
+    "SAMADHAN also covers Dashboard based KPIs and KRAs, Harnessing technology, Action plan for each theatre and No access to financing",
+    "Special Central Assistance (SCA) supports public infrastructure and services",
+    "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan covers 63,000+ tribal villages, with focus on housing and water",
+    "PM-JANMAN targets 75 PVTGs for basic infrastructure and healthcare in remote habitations",
+    "Van Dhan Vikas Kendra: 2,200+ clusters promote minor forest produce value addition",
+    "Bastariya Battalion: local recruits in Chhattisgarh who know the language and terrain",
+    "Bandyopadhyay Committee (2006) highlighted lack of governance and socio-political and cultural discrimination against tribals",
+    "Bandyopadhyay Committee recommended tribal-friendly land acquisition and rehabilitation"
+   ]
+  }
+ ],
+ "already_asked": [
+  "The Naxalite movement derives its name from which place?",
+  "Assertion (A): Poverty and lack of sustainable means have pushed people to join the Naxalite movement.",
+  "Match List I with List II:",
+  "Consider the following statements about Left Wing Extremism:",
+  "Consider the following statements about government initiatives against LWE:",
+  "Which state is the Greyhounds, an elite commando force, associated with?",
+  "Which ministry officially declared India Naxal-Free?",
+  "Consider the following statements:",
+  "How many districts were affected by Left Wing Extremism in 2014? (give the number)",
+  "Under infrastructure integration, how many km of all-weather roads were constructed? (give the number in km)",
+  "What figure, as stated in the booklet, is given for mobile (4G) towers deployed under information warfare? (give the number)",
+  "Apart from COBRA, which elite force is named for tactical dominance against Naxals?",
+  "What is the name of the Maoist parallel governance system that administrative expansion replaced?",
+  "How many cadres have surrendered since 2014 under the Surrender-cum-Rehabilitation Policy? (give the number)",
+  "In which state are the residual hotspots Bijapur, Sukma and Narayanpur located?"
+ ]
+}

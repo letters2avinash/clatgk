@@ -1,0 +1,51 @@
+{
+ "key": "x06",
+ "topic": "Public Examination (Prevention of Unfair Means) Amendment Bill, 2026",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-08/t06_public_examination_amendment_bill_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c3-t1-s1",
+   "title": "NEET-UG 2024 leak and the 2024 Act",
+   "summary": "The 2026 Amendment follows the NEET-UG 2024 paper leak controversy, in which alleged leak networks were reported in Patna (Bihar) and Hazaribagh (Jharkhand). Investigations and Supreme Court monitoring exposed organised cheating syndicates. Parliament responded by enacting the Public Examinations (Prevention of Unfair Means) Act, 2024, which the text describes as India's first dedicated central legislation on this issue.",
+   "facts": [
+    "NEET-UG 2024 paper leak: alleged leak networks in Patna (Bihar) and Hazaribagh (Jharkhand)",
+    "67 candidates secured full marks, aided by disputed grace marks",
+    "The full-marks outcome triggered nationwide protests and judicial scrutiny",
+    "CBI investigation and Supreme Court monitoring exposed organised cheating syndicates",
+    "Public Examinations (Prevention of Unfair Means) Act, 2024 was enacted in response",
+    "The Act is India's first dedicated central legislation on paper leaks, organised cheating and exam-related fraud",
+    "Act covers exams by UPSC, SSC, Railway Recruitment Boards, National Testing Agency and Institute of Banking Personnel Selection",
+    "Later controversy intensified demands for stronger deterrence and faster legal proceedings"
+   ]
+  },
+  {
+   "id": "2026-08-c3-t1-s4",
+   "title": "Special Task Force and high-powered task force",
+   "summary": "The Union Government is empowered to set up a Special Task Force for investigating offences under the Act, which is particularly relevant to inter-state paper-leak networks. The government has also constituted a high-powered task force under Nandan Nilekani's chairmanship to drive strategic policy reforms.",
+   "facts": [
+    "Union Government empowered to establish a Special Task Force for investigating offences under the Act",
+    "The Special Task Force is particularly relevant to inter-state paper-leak networks and organised criminal syndicates",
+    "High-powered Task Force constituted under Nandan Nilekani's chairmanship",
+    "Nandan Nilekani is Co-Founder of Infosys",
+    "Nandan Nilekani is Founding Chairman of the Unique Identification Authority of India",
+    "Mandate of the task force: drive strategic policy reforms"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Under the 2026 Amendment, what is the revised punishment for individual offences under the Act?",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements:",
+  "Investigations by which agency, with Supreme Court monitoring, exposed organised cheating syndicates in the NEET-UG 2024 case?",
+  "Statement I: Under the 2026 Amendment, investigation and trial together are to follow a combined 5-month timeline.",
+  "Which Finance Commission first recommended Fast Track Courts in 2000 to expedite the disposal of long-pending criminal cases?",
+  "In which year did the 11th Finance Commission first recommend Fast Track Courts to expedite the disposal of long-pending criminal cases?",
+  "In how many High Courts were initial Fast-Track Courts announced for pending NEET-related cases? (in number)",
+  "What is the combined timeline for investigation and trial under the amendment? (in months)",
+  "Which Supreme Court judgment of 2002 held that no fixed time limit can be prescribed for concluding criminal trials? Give the first-named party's name.",
+  "In which year were Fast-Track Special Courts set up under a Centrally Sponsored Scheme for rape and POCSO Act offences?",
+  "Within how many months must appeals before High Courts under the amended Act be disposed of? (in months)"
+ ]
+}

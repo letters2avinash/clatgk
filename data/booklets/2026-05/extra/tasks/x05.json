@@ -1,0 +1,59 @@
+{
+ "key": "x05",
+ "topic": "Increase in Supreme Court Judge Strength",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-05/t05_increase_supreme_court_judge_strength.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c3-t1-s3",
+   "title": "CJI Appointment Convention and Collegium",
+   "summary": "Until 1973 the seniormost judge was normally appointed Chief Justice of India, a convention that was broken in 1973 and 1977. The Second Judges Case (1993) ruled that only the seniormost judge should be appointed CJI and that consultation means concurrence. The 2015 Fourth Judges Case struck down the NJAC and the 99th Amendment.",
+   "facts": [
+    "Till 1973, the seniormost judge was normally appointed CJI",
+    "1973: AN Ray appointed CJI, superseding JM Shelat, KS Hegde and AN Grover",
+    "1977: MU Beg appointed CJI, superseding HR Khanna",
+    "1981 (First Judges Case): consultation only implies exchange of views",
+    "1993 (Second Judges Case): consultation changed to mean concurrence",
+    "1993: only the seniormost judge should be appointed CJI",
+    "1998 (Third Judges Case): CJI must consult a collegium of 4 seniormost judges",
+    "1998: if 2 judges give an adverse opinion, no recommendation is sent",
+    "2015 (Fourth Judges Case): 99th Amendment and NJAC Act declared void",
+    "NJAC: CJI chairperson, 2 seniormost judges, Law Minister, 2 eminent persons"
+   ]
+  },
+  {
+   "id": "2026-05-c3-t1-s4",
+   "title": "Jurisdiction and Temporary Appointments",
+   "summary": "The Supreme Court has appellate, original and advisory jurisdiction. Article 32 allows direct approach for violation of Fundamental Rights, while the President can seek an advisory opinion under Article 143 that is not binding. Articles 126, 127 and 128 allow an Acting CJI, ad hoc judges and retired judges in specified situations.",
+   "facts": [
+    "Appellate jurisdiction covers appeals against lower court judgments",
+    "Appeals from High Courts need a certificate under Article 134A",
+    "Article 131 gives original jurisdiction in certain disputes",
+    "Article 32: direct approach for violation of Fundamental Rights",
+    "Article 143: President may seek advisory opinion on public importance questions",
+    "Advisory opinion is NOT binding on the President",
+    "Article 126: Acting CJI appointed when CJI post is vacant or absent",
+    "Article 127: CJI can appoint a High Court judge as ad hoc judge for lack of quorum",
+    "Article 127 needs prior consent of the President",
+    "Article 128: retired SC or HC judge can be requested to sit, with consent"
+   ]
+  }
+ ],
+ "already_asked": [
+  "The Union Cabinet approved a bill to expand the Supreme Court to how many judges, counting the Chief Justice of India?",
+  "Assertion (A): Parliament can increase the number of judges of the Supreme Court by law.",
+  "Match List I with List II:",
+  "Consider the following statements about the Supreme Court of India:",
+  "How many of the following statements about the Supreme Court of India are correct?",
+  "Under Article 127, before the CJI appoints a High Court judge as an ad hoc judge of the Supreme Court, whose previous consent is required in addition to consultation with that High Court's Chief Justice?",
+  "Articles 124 to 147, which deal with the organisation, independence, jurisdiction and powers of the Supreme Court, are placed in which Part of the Constitution?",
+  "Which judge was NOT superseded when AN Ray was appointed Chief Justice of India in 1973?",
+  "Until what age (in years) does a Supreme Court judge hold office?",
+  "In which year was the Act that governs the removal procedure for Supreme Court and High Court judges enacted?",
+  "Which judge was impeached in Rajya Sabha in 2011 but resigned before the Lok Sabha discussion? (full name)",
+  "In which year did the Supreme Court, in the Second Judges Case, hold that consultation means concurrence?",
+  "According to the Third Judges Case, how many seniormost judges make up the collegium that the CJI must consult? (in number)",
+  "How many eminent persons from civil society are to be nominated to the NJAC? (in number)",
+  "Who was appointed Chief Justice of India in 1977 by superseding HR Khanna? (name as in text)"
+ ]
+}

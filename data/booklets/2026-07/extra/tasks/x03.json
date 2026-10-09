@@ -1,0 +1,70 @@
+{
+ "key": "x03",
+ "topic": "130th Constitution Amendment Bill",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-07/t03_130th_constitutional_amendment.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c2-t1-s1",
+   "title": "Three Bills and Their Scope",
+   "summary": "The 130th Constitution Amendment Bill, 2025 is one of three Bills tabled by the Home Minister, and together the Bills propose the removal of the Prime Minister, Chief Ministers and Ministers under certain conditions. A Joint Parliamentary Committee is examining the Bill and is expected to finalise and adopt its report. The other two Bills are the Government of Union Territories (Amendment) Bill, 2025 and the Jammu and Kashmir Reorganisation (Amendment) Bill, 2025.",
+   "facts": [
+    "Introduced in 2025 as the 130th Constitution Amendment Bill",
+    "Three Bills tabled by the Home Minister",
+    "Bill 1: Constitution (One Hundred and Thirtieth Amendment) Bill, 2025",
+    "Bill 2: Government of Union Territories (Amendment) Bill, 2025",
+    "Bill 3: Jammu and Kashmir Reorganisation (Amendment) Bill, 2025",
+    "The Bills propose removal of Prime Minister, Chief Ministers and Ministers under certain conditions",
+    "Joint Parliamentary Committee (JPC) is examining the 130th Amendment Bill",
+    "The JPC is expected to finalise and adopt its report"
+   ]
+  },
+  {
+   "id": "2026-07-c2-t1-s3",
+   "title": "Governance Implications and Concerns",
+   "summary": "The Bill is presented as strengthening ethical governance by stopping leaders from holding power while facing serious criminal charges. It is also described as bridging a gap in the Representation of the People Act, which disqualifies legislators only after conviction. The booklet records several concerns, including misuse of arrests against opposition-led states, a threat to federalism and the presumption of innocence.",
+   "facts": [
+    "The Bill upholds constitutional morality and ethical governance",
+    "It stops leaders from retaining power while facing serious criminal charges",
+    "It removes the 'governance from jail' anomaly",
+    "It protects public trust by acting against criminalisation of politics",
+    "It bridges a legal gap: the RPA disqualifies only post-conviction, while the Bill addresses interim arrests",
+    "Concern: the Centre could destabilise opposition-led states through targeted arrests",
+    "Concern: the Bill reduces the autonomy of elected state leaders, threatening federalism",
+    "Concern: removal based solely on detention contravenes 'innocent until proven guilty'",
+    "Concern: ED and CBI could be exploited to arrest leaders on weak charges"
+   ]
+  },
+  {
+   "id": "2026-07-c2-t1-s5",
+   "title": "Passage of a Constitution Amendment Bill",
+   "summary": "A Constitution amendment Bill can be introduced in either House, but it must be passed by both Lok Sabha and Rajya Sabha. Once passed, it is presented to the President, who is bound to give consent, and the Bill then becomes an Act. The booklet also links the process to the Anti-Defection Law and related constitutional articles.",
+   "facts": [
+    "The Bill can be introduced either in Lok Sabha or Rajya Sabha",
+    "The Bill must be passed by both Lok Sabha and Rajya Sabha",
+    "Lok Sabha strength is 545 members",
+    "In a tie, the Presiding Officer of a house can cast his or her vote",
+    "The passed Bill is presented to the President",
+    "The President is bound to give consent",
+    "After assent the Bill becomes an Act",
+    "Related provisions: Articles 102 and 191, the Anti-Defection Law and the Lily Thomas case"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Under the 130th Amendment Bill, a Union Minister who is arrested and detained for how many consecutive days may be removed?",
+  "If the Prime Minister gives no advice on removing a Union Minister detained for 30 consecutive days, what happens?",
+  "Under which legislation are the Bill's provisions extended to Jammu & Kashmir ministers?",
+  "Assertion (A): A Union Minister removed under the Bill can be reappointed after release from custody.",
+  "Match List I with List II:",
+  "Which of the following statements about the Bill's removal rules are correct?",
+  "How many of the following statements about the Bill are correct?",
+  "For Delhi Ministers, who is the removal authority under the provisions of the 130th Amendment Bill?",
+  "Under Section 8(1) of the Representation of the People Act, 1951, a person convicted for promoting enmity between groups is disqualified on mere conviction for how many years? (in years)",
+  "Under Section 8(2), a conviction for hoarding or dowry offences leads to disqualification only if the sentence is at least how many months? (in months)",
+  "Under Section 8(3), disqualification for other offences requires a sentence of not less than how many years? (in years)",
+  "Under Section 8(4), a sitting MP or MLA who files an appeal within how many months can continue as a member? (in months)",
+  "In which year did the Supreme Court decide Manoj Narula v. Union of India, holding that no constitutional bar exists on appointing ministers with a criminal background?",
+  "In the 2025 V Senthil Balaji case, a minister had to choose between freedom and office after reappointment post-bail. Which state's minister was he? (name of the state)"
+ ]
+}

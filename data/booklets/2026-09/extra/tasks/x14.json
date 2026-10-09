@@ -1,0 +1,54 @@
+{
+ "key": "x14",
+ "topic": "Swachh Vayu Sarvekshan 2026",
+ "chapter": "Environment & Biodiversity",
+ "text_file": "data/booklets/2026-09/t14_swachh_vayu_sarvekshan_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c6-t1-s1",
+   "title": "Swachh Vayu Diwas and Clean Air Day",
+   "summary": "Swachh Vayu Diwas 2026 was observed on 7 September 2026 and coincides with the International Day of Clean Air for Blue Skies. The International Day was designated by the UN General Assembly in 2019 and carries the 2026 theme 'Clean Air for Climate Action'. The occasion marked the presentation of the 5th Swachh Vayu Sarvekshan Awards.",
+   "facts": [
+    "Swachh Vayu Diwas 2026 was observed on 7 September 2026.",
+    "It coincides with the International Day of Clean Air for Blue Skies.",
+    "The UN General Assembly designated the International Day in 2019.",
+    "The 2026 theme of the International Day is 'Clean Air for Climate Action'.",
+    "India observes the occasion as Swachh Vayu Diwas.",
+    "The occasion marked presentation of the 5th Swachh Vayu Sarvekshan Awards."
+   ]
+  },
+  {
+   "id": "2026-09-c6-t1-s4",
+   "title": "Pollution control tools, measures and laws",
+   "summary": "The booklet lists monitoring tools, field measures, emergency action and legal provisions against air pollution. Monitoring includes the National Air Quality Index and SAFAR, while field measures include the Turbo Happy Seeder and Pusa Bio-Decomposer. The legal base includes the Air Act 1981, Water Act 1974 and Environment Protection Act 1986, along with Article 51A(g) and Article 21.",
+   "facts": [
+    "National Air Quality Index (2014) is a tool for communicating air quality status in easy terms.",
+    "Turbo Happy Seeder can uproot stubble and also sow seeds in the area cleared.",
+    "Pusa Bio-Decomposer turns crop residue into manure in 15-20 days and was developed by IARI.",
+    "Graded Response Action Plan (2017) is a set of emergency measures.",
+    "GRAP measures kick in only when air quality shifts from Poor to Very Poor.",
+    "SAFAR is a Ministry of Earth Sciences initiative to monitor city-wide and localised air quality.",
+    "Bharat Stage VI (2020) made the leap from BS-IV to BS-VI mandatory nationwide.",
+    "Air Act 1981, Water Act 1974 and Environment Protection Act 1986 are key pollution control regulations.",
+    "The 42nd Constitutional Amendment (1976) inserted Clause (g) in Article 51A, making protection of the natural environment a Fundamental Duty.",
+    "Article 21 has been interpreted to include the right to a healthy environment."
+   ]
+  }
+ ],
+ "already_asked": [
+  "How many of the following statements about the 5th Sarvekshan rankings are correct?",
+  "Which two cities shared the second position in Category II (population 3-10 lakh)?",
+  "Which of the above statements is/are correct?",
+  "Which city secured the 2nd position in Category I (population above 10 lakh) in the 5th Sarvekshan 2026?",
+  "Match List I with List II:",
+  "Which city was ranked 30th in Category I of the 5th Sarvekshan 2026?",
+  "Which city was the leading performer in Category III (population below 3 lakh)?",
+  "In which year was the National Clean Air Programme launched by MoEFCC? (year)",
+  "How many of the 130 cities recorded a reduction of 40% or more in particulate matter concentration? (in number)",
+  "How many cities met the prescribed NAAQS under NCAP progress? (in number)",
+  "In which year was the baseline for NCAP targets set? (year)",
+  "To what percentage reduction in particulate matter concentration by 2026 was the NCAP target enhanced? (in per cent)",
+  "How many cities achieved reductions of more than 20% in FY 2025-26? (in number)",
+  "How many cities recorded reductions in annual PM10 concentrations in 2025-26 compared to 2017-18? (in number)"
+ ]
+}

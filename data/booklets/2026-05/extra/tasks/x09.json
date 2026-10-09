@@ -1,0 +1,56 @@
+{
+ "key": "x09",
+ "topic": "LEADS 2025 Report",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-05/t09_leads_2025_report.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c5-t2-s2",
+   "title": "State and UT Categories in LEADS 2025",
+   "summary": "The LEADS 2025 edition sorts States and UTs into four categories: Exemplars, High Performers, Accelerators and Growth-Seekers. Each entry carries a regional tag of Coastal, Landlocked, North-East (N-E) or UTs. Uttar Pradesh became an Exemplar after being an Achiever from 2022 to 2024, and Jammu and Kashmir moved from Fast Mover to High Performer.",
+   "facts": [
+    "The 2025 edition introduced four new categories: Exemplars, High Performers, Accelerators and Growth-Seekers.",
+    "Exemplars (4): Tamil Nadu (Coastal), Uttar Pradesh (Landlocked), Mizoram (N-E) and Delhi (UTs).",
+    "Uttar Pradesh achieved Exemplar status after being categorised as an Achiever from 2022 to 2024.",
+    "High Performers (11): Gujarat (Coastal), Haryana (Landlocked), Tripura (N-E) and Jammu and Kashmir (UTs).",
+    "Jammu and Kashmir improved from Fast Mover in 2024 to High Performer in 2025.",
+    "Accelerators (17) include Andhra Pradesh (Coastal), Punjab (Landlocked) and Dadra and Nagar Haveli and Daman and Diu (UTs).",
+    "Growth-Seekers (4): West Bengal (Coastal), Rajasthan (Landlocked), Sikkim (N-E) and Andaman and Nicobar Islands (UTs).",
+    "The regional tags used in the report are Coastal, Landlocked, N-E (North-East) and UTs."
+   ]
+  },
+  {
+   "id": "2026-05-c5-t2-s3",
+   "title": "National Logistics Initiatives and the World Bank LPI",
+   "summary": "Several national programmes aim to strengthen logistics, including the National Logistics Policy 2022, PM GatiShakti, Bharatmala Pariyojana, Sagarmala and the E-Way Bill System. India's logistics performance is also tracked globally through the World Bank's Logistics Performance Index. That index has six key dimensions and is reported by the World Bank every two years.",
+   "facts": [
+    "The National Logistics Policy 2022 aims to lower the cost of logistics to par with other developed countries.",
+    "Logistics costs in India remain relatively high at around 7.97% of GDP.",
+    "The PM GatiShakti National Master Plan 2021 promotes integrated planning across roads, railways, ports, airports and logistics networks.",
+    "The Logistic Efficiency Enhancement Programme aims to enhance freight speed, reduce costs and improve tracking.",
+    "Bharatmala Pariyojana aims to improve road connectivity across India.",
+    "The Sagarmala Programme focuses on port-led development and boosts coastal shipping efficiency.",
+    "The E-Way Bill System mandates digital bills for goods, easing inter-state transport.",
+    "The Logistics Performance Index has six key dimensions, including customs performance, infrastructure quality and timeliness of shipments.",
+    "India ranked 38th among 139 countries in the World Bank's Logistics Performance Index 2023.",
+    "The World Bank reports the Logistics Performance Index every 2 years."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Consider the following statements about LEADS 2025:",
+  "How many of the following statements about LEADS are correct?",
+  "In which year was LEADS launched?",
+  "Across how many logistics-related categories is the LEADS 2025 Report presented?",
+  "Assertion (A): The LEADS framework draws inspiration from the World Bank's Logistics Performance Index.",
+  "What does LEAPS stand for?",
+  "The LEADS 2025 release is linked to which two national initiatives?",
+  "Which organisation is the implementing agency for the Dedicated Freight Corridors? (give the abbreviation)",
+  "By which year do the Dedicated Freight Corridors aim to raise rail's share of freight to 45% under the National Rail Plan? (year)",
+  "Under the National Logistics Policy, logistics costs are to be brought below what percentage? (in per cent, number only)",
+  "Up to which financial year is the period cited for DFCs' contribution to Indian Railways' revenue growth? (format: 2022-23)",
+  "Which place is at the other end of the North-South DFC from Vijayawada? (one word)",
+  "What is the length of the North-South DFC? (in km)",
+  "What is the length of the East Coast DFC between Kharagpur and Vijayawada? (in km)"
+ ]
+}

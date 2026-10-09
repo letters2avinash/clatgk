@@ -1,0 +1,56 @@
+{
+ "key": "x12",
+ "topic": "Global Tiger Day and Tiger Conservation",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-08/t12_global_tiger_day.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c4-t3-s2",
+   "title": "Global Initiatives: IUCN, NTCA Eco-Tourism and IBCA",
+   "summary": "The IUCN Integrated Tiger Habitat Conservation Programme supports habitat restoration, anti-poaching measures and community-led coexistence across Asia. The NTCA Eco-Tourism Initiative provides an integrated platform for authentic safari and accommodation bookings. The International Big Cat Alliance, launched in 2023, is an India-led effort covering seven big cat species.",
+   "facts": [
+    "IUCN programme supports habitat restoration, anti-poaching and community-led coexistence",
+    "The IUCN programme covers Asia",
+    "NTCA Eco-Tourism Initiative is an integrated platform for bookings",
+    "The platform covers authentic safari and accommodation bookings",
+    "International Big Cat Alliance was launched in 2023",
+    "The International Big Cat Alliance is India-led",
+    "It covers seven big cat species: Tiger, Lion, Leopard, Snow Leopard, Cheetah, Jaguar, Puma",
+    "1st International Big Cat Alliance Summit was scheduled for June 2026 in New Delhi and is marked postponed"
+   ]
+  },
+  {
+   "id": "2026-08-c4-t3-s3",
+   "title": "Indian Institutions and Conservation Milestones",
+   "summary": "The National Board for Wild Life is a statutory board under the Wild Life Protection Act, 1972, and works to promote conservation of wildlife and forests. Project Tiger, launched in 1973, is overseen by the National Tiger Conservation Authority, which conducts the tiger census along with the Wildlife Institute of India. The milestones run from the 1969 ban on export of wild cat skins to the 2023 launch of the International Big Cat Alliance.",
+   "facts": [
+    "National Board for Wild Life is a statutory board under the Wild Life Protection Act, 1972",
+    "Project Tiger was launched in 1973 to support preservation of tigers in India",
+    "Project Tiger is overseen by the National Tiger Conservation Authority",
+    "Tiger census estimates population through a 4-year census cycle",
+    "Census is conducted by NTCA and the Wildlife Institute of India",
+    "M-STrIPES (2010) is a software-based monitoring system for tiger reserves",
+    "1969: ban on export of all wild cat skins",
+    "1972: Wildlife Protection Act enacted",
+    "2006: amendment to the Wildlife (Protection) Act",
+    "2023: International Big Cat Alliance launched"
+   ]
+  }
+ ],
+ "already_asked": [
+  "On which date is Global Tiger Day observed annually?",
+  "Global Tiger Day was established at which summit?",
+  "How many Tiger Range Countries adopted the St. Petersburg Declaration?",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "How many of the following statements are correct?",
+  "Which of these is named among the Tiger Range Countries in the booklet?",
+  "How many tiger reserves does India currently have? (in number)",
+  "Which state has the largest number of tiger reserves in India? (name of state)",
+  "Which tiger reserve has the highest tiger abundance in India? (name)",
+  "Which is the largest tiger reserve in India? (name)",
+  "What was India's tiger population in the 2022 figure? (in number)",
+  "In which year was Project Tiger launched? (year)",
+  "Which is the smallest tiger reserve in India? (name)"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "key": "x05",
+ "topic": "Delhi Electric Vehicle Policy 2.0",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-07/t05_delhi_ev_policy_2.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c3-t2-s3",
+   "title": "Investment, Support and Charging",
+   "summary": "The policy plans total investment of approximately 15,000 crore. Government support is restricted exclusively to battery electric vehicles and not to hybrid vehicles. The plan includes installing over 30,000 public charging stations across Delhi. Financial support and investment is handled by the Delhi Transport Department, and infrastructure development by Delhi Transco Limited.",
+   "facts": [
+    "Total planned investment: approximately 15,000 crore",
+    "Government support restricted exclusively to battery electric vehicles, not hybrid vehicles",
+    "Over 30,000 public charging stations planned across Delhi",
+    "Financial support and investment implemented by Delhi Transport Department",
+    "Infrastructure development implemented by Delhi Transco Limited",
+    "Key objective: strengthen charging and battery-swapping infrastructure",
+    "Key objective: encourage sustainable public and commercial transport"
+   ]
+  },
+  {
+   "id": "2026-07-c3-t2-s4",
+   "title": "National Schemes: NEMMP, FAME and PM E-DRIVE",
+   "summary": "Delhi's policy sits within national electric mobility efforts. The National Electric Mobility Mission Plan was launched in 2013, and the government committed to achieve 30% e-mobility by 2030. FAME India, launched by the Ministry of Heavy Industries & Public Enterprises, is part of that mission plan and offers subsidies for several vehicle types. PM E-DRIVE, launched in 2024 with the Ministry of Heavy Industries as nodal ministry, builds on FAME-II and the Electric Mobility Promotion Scheme 2024.",
+   "facts": [
+    "National Electric Mobility Mission Plan launched in 2013",
+    "Government committed to achieve 30% e-mobility by 2030",
+    "FAME India launched by Ministry of Heavy Industries & Public Enterprises",
+    "FAME India is a part of the National Electric Mobility Mission Plan",
+    "FAME subsidy can be claimed for two-wheelers, three-wheelers, electric and hybrid cars and electric buses",
+    "PM E-DRIVE launched in 2024; scheme period 2024-2026",
+    "PM E-DRIVE nodal ministry: Ministry of Heavy Industries",
+    "PM E-DRIVE objectives: reduce upfront EV cost and expedite EV adoption",
+    "PM E-DRIVE objectives: establish public EV charging and promote EV manufacturing ecosystem",
+    "PM E-DRIVE builds on FAME-II and Electric Mobility Promotion Scheme 2024"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which department is responsible for financial support and investment under Delhi EV Policy 2.0?",
+  "Assertion (A): The policy sets an electrification target of at least 30 per cent of Delhi's total vehicle fleet by 31 March 2030.",
+  "Match List I with List II:",
+  "Consider the following statements about Delhi EV Policy 2.0:",
+  "Within how many years of the policy's implementation must schools convert at least 10 per cent of their bus fleet into electric buses?",
+  "Consider the following statements about Delhi EV Policy 2.0:",
+  "Which of the following is listed as a key objective of PM E-DRIVE?",
+  "Which ministry is the nodal ministry for PM E-DRIVE (2024-2026)?",
+  "From which year will only electric 3-wheelers and electric N1 category light commercial trucks be newly registered in Delhi?",
+  "From which year will new 2-wheeler registration in Delhi be restricted exclusively to electric models?",
+  "What minimum percentage (in per cent) of their bus fleet must schools convert to electric buses within 2 years of the policy's implementation?",
+  "What is the long-term target (in per cent) for electrification of school bus fleets by 2030?",
+  "Which body is responsible for infrastructure development under the policy?",
+  "Until the end of what is existing petrol and diesel vehicles registered in Delhi permitted to operate?",
+  "What is the total planned investment under the policy (in crore rupees)?"
+ ]
+}

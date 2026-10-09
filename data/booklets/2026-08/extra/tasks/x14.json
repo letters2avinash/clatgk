@@ -1,0 +1,53 @@
+{
+ "key": "x14",
+ "topic": "23rd Commonwealth Games 2026 (Glasgow)",
+ "chapter": "Sports",
+ "text_file": "data/booklets/2026-08/t14_23rd_commonwealth_games_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c5-t1-s3",
+   "title": "India's medal performance at Glasgow 2026",
+   "summary": "India won 39 medals and finished 4th on the medal tally, behind Australia, England and Canada. This was fewer than the 61 medals India won at Birmingham 2022. The booklet links the lower count to a reduced contingent and to the absence of several traditional medal-producing disciplines.",
+   "facts": [
+    "India's total: 39 medals",
+    "Medal tally position: 4th, behind Australia, England and Canada",
+    "India won 61 medals at Birmingham 2022",
+    "Boxing was India's best sport: 10 medals (7 gold, 3 silver)",
+    "Highest-ever boxing gold tally by India at the Commonwealth Games",
+    "Reduced contingent cited as a reason for the lower count",
+    "Absence of traditional medal-producing disciplines, including Shooting, Wrestling, Badminton, Hockey and Table Tennis",
+    "India did not field teams in 3x3 Basketball or Netball"
+   ]
+  },
+  {
+   "id": "2026-08-c5-t1-s4",
+   "title": "Notable Indian achievements",
+   "summary": "Several Indian athletes produced historic results at Glasgow 2026. Five women boxers won gold, and Mirabai Chanu became the first Indian weightlifter to win three consecutive Commonwealth Games gold medals. Asmita Dey and Harsh Singh became India's first-ever Commonwealth Games gold medallists in judo, and Neeraj Chopra won silver in the men's javelin throw.",
+   "facts": [
+    "Five women boxers won gold: Sakshi Chaudhary, Preeti Pawar, Jaismine Lamboria, Priya Ghanghas, Arundhati Choudhary",
+    "Jaismine Lamboria won the Women's 57 kg Boxing gold",
+    "Mirabai Chanu: first Indian weightlifter to win 3 consecutive CWG golds (Gold Coast 2018, Birmingham 2022, Glasgow 2026)",
+    "Judo: Asmita Dey and Harsh Singh, India's first-ever CWG gold medallists in judo",
+    "Neeraj Chopra won silver in the men's javelin throw",
+    "Neeraj Chopra returned to the Games after missing Birmingham 2022"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Read the assertion and reason.",
+  "Which city will host the 2030 Commonwealth Games?",
+  "How many of the following statements about Glasgow 2026 are correct?",
+  "Match List I with List II:",
+  "How many nations and territories took part in Glasgow 2026?",
+  "How many sports were featured at Glasgow 2026?",
+  "What is the name of the mascot of Glasgow 2026?",
+  "Consider the following statements about Glasgow 2026:",
+  "In which year was the event officially renamed the Commonwealth Games? (year)",
+  "In which city was the first edition of the Games held in 1930? (city name)",
+  "What was the original name of the Games when they were first held in 1930? (name of the event)",
+  "Which Canadian sportswriter is credited with the concept of the Games? (full name)",
+  "In which event did Canadian athlete Gordon Smallacombe win the first gold medal in the history of the Games?",
+  "In which year did India host the Commonwealth Games? (year)",
+  "In which year did India first participate in the Commonwealth Games? (year)"
+ ]
+}

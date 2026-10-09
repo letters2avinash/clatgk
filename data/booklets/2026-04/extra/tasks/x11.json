@@ -1,0 +1,53 @@
+{
+ "key": "x11",
+ "topic": "PFBR at Kalpakkam Achieves Criticality",
+ "chapter": "Science and Technology, Defence and Space",
+ "text_file": "data/booklets/2026-04/t11_pfbr_kalpakkam_criticality.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c7-t1-s2",
+   "title": "PFBR design and breeding",
+   "summary": "The Prototype Fast Breeder Reactor uses Mixed Oxide fuel derived from reprocessed spent fuel. Its core is surrounded by a Uranium-238 blanket in which fast neutrons convert U-238 into Plutonium-239. Liquid sodium is the coolant, and the reactor has a capacity of 500 MWe.",
+   "facts": [
+    "Fuel: Mixed Oxide (MOX) of plutonium and uranium.",
+    "The MOX fuel is derived from reprocessed spent fuel.",
+    "The core is surrounded by a Uranium-238 blanket, called the breeder blanket.",
+    "The breeder mechanism converts U-238 into Plutonium-239.",
+    "Uses fast neutrons to produce more nuclear fuel than it consumes while generating power.",
+    "Coolant system uses liquid sodium.",
+    "Liquid sodium has high thermal conductivity and does not slow neutrons.",
+    "Type: Fast Breeder Reactor with a capacity of 500 MWe."
+   ]
+  },
+  {
+   "id": "2026-04-c7-t1-s3",
+   "title": "Benefits: fuel, waste and energy",
+   "summary": "The PFBR produces more fuel than it consumes, which extends the use of nuclear resources. It recycles spent fuel from Stage I reactors, which reduces the volume of nuclear waste and its long-term radiotoxicity. The booklet also says it extracts about 60 times more energy from natural uranium than traditional PHWRs.",
+   "facts": [
+    "Result: the PFBR produces more fuel than it consumes.",
+    "Waste reduction: recycles spent fuel from Stage I reactors.",
+    "Reduces the volume of nuclear waste.",
+    "Reduces long-term radiotoxicity of nuclear waste.",
+    "Energy efficiency: extracts about 60 times more energy from natural uranium than traditional PHWRs.",
+    "PHWR stands for Pressurized Heavy Water Reactor, the comparison point for energy efficiency."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Consider the following statements:",
+  "Assertion (A): Liquid sodium is used as the coolant in the PFBR because it slows neutrons effectively for fission.",
+  "Which agency is responsible for building the Prototype Fast Breeder Reactor at Kalpakkam?",
+  "Compared with traditional Pressurized Heavy Water Reactors (PHWRs), by roughly how many times does the PFBR extract more energy from natural uranium?",
+  "Consider the following statements about India's nuclear power sector:",
+  "What is the capacity of the Prototype Fast Breeder Reactor at Kalpakkam?",
+  "Which Indian law governs the establishment and use of nuclear facilities and radioactive sources?",
+  "Match List I with List II:",
+  "Which country was the first to operate a commercial-scale Fast Breeder Reactor, before India? (name of the country)",
+  "What is the mass number of the uranium isotope that surrounds the PFBR core as a breeder blanket? (number only)",
+  "How many nuclear power reactors is India presently operating? (number)",
+  "Which plant is India's newest and largest nuclear power plant? (name of the plant)",
+  "Which Indian state hosts Tarapur, India's first and oldest nuclear power plant? (name of the state)",
+  "Which material serves as the coolant in Stage I (PHWR) reactors of India's programme? (two words)",
+  "Who formulated India's three-stage nuclear power programme? (full name)"
+ ]
+}

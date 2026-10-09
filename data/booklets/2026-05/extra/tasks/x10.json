@@ -1,0 +1,70 @@
+{
+ "key": "x10",
+ "topic": "National Technology Day 2026",
+ "chapter": "Sports, Awards & Days",
+ "text_file": "data/booklets/2026-05/t10_national_technology_day_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c6-t1-s1",
+   "title": "Origin and observance of National Technology Day",
+   "summary": "National Technology Day is observed on 11 May each year. It was declared by PM Atal Bihari Vajpayee in 1998 to commemorate technological achievements of 11 May 1998, and has been observed annually from 1999 onward. The 2026 observance carried the theme 'Responsible Innovation for Inclusive Growth'.",
+   "facts": [
+    "National Technology Day is observed on 11 May every year.",
+    "PM Atal Bihari Vajpayee declared 11 May as National Technology Day in 1998.",
+    "It has been observed annually as National Technology Day from 1999 onward.",
+    "It commemorates major technological achievements of 11 May 1998.",
+    "The 2026 observance theme was 'Responsible Innovation for Inclusive Growth'.",
+    "On 11 May 1998, Pokhran-II nuclear tests (Operation Shakti) were conducted.",
+    "On the same day, Hansa-3 completed its first successful test flight.",
+    "On the same day, DRDO successfully test-fired the Trishul short-range surface-to-air missile.",
+    "Rashtriya Vigyan Puraskar awards are announced annually on National Technology Day."
+   ]
+  },
+  {
+   "id": "2026-05-c6-t1-s4",
+   "title": "Digital, farm and ranking milestones",
+   "summary": "The day also highlights India's digital infrastructure and farm milestones. Aadhaar and UPI are cited as major digital achievements, while the Green and White Revolutions transformed agriculture and dairy. India's standing in the Global Innovation Index 2026 and other rankings completes the picture.",
+   "facts": [
+    "Aadhaar is the world's largest biometric ID system.",
+    "UPI (Unified Payments Interface) revolutionised digital payments.",
+    "The Green Revolution boosted production with high-yielding wheat and rice varieties.",
+    "The White Revolution made India the world's largest milk producer.",
+    "India was ranked 38th globally in the Global Innovation Index 2026.",
+    "India holds 6th position worldwide in intellectual property filings (WIPO report).",
+    "India ranks as the 3rd largest startup ecosystem globally."
+   ]
+  },
+  {
+   "id": "2026-05-c6-t1-s5",
+   "title": "Institutions, schemes and awards",
+   "summary": "Several bodies and schemes support technology in India. The Technology Development Board is a statutory body that promotes the commercialisation of indigenous technology. The Rashtriya Vigyan Puraskar awards, India's science honours, are announced on National Technology Day.",
+   "facts": [
+    "The Technology Development Board is a statutory body under the Technology Development Board Act, 1995.",
+    "The TDB promotes development and commercialisation of indigenous technology.",
+    "The TDB also supports adaptation of imported technology for wider application.",
+    "The TDB provides financial assistance to commercialise indigenous technologies.",
+    "Rashtriya Vigyan Puraskar is India's science honour, comparable to the Padma Awards.",
+    "Atal Innovation Mission, launched by NITI Aayog, fosters an innovation culture.",
+    "Atal Tinkering Labs are innovation labs in schools; Atal Incubation Centres support startups.",
+    "NM-ICPS promotes R&D in AI, Robotics, IoT, Quantum Computing and related fields.",
+    "The National Quantum Mission focuses on quantum computing, communication, sensing and materials.",
+    "iDEX (Innovations for Defence Excellence) promotes indigenous defence startups and MSMEs."
+   ]
+  }
+ ],
+ "already_asked": [
+  "What was the codename of India's first nuclear test, conducted at Pokhran on 18 May 1974?",
+  "How many nuclear tests did India conduct on 11 May 1998 during Pokhran-II?",
+  "Assertion (A): India is recognised as a nuclear weapons state.",
+  "Consider the following statements about India's nuclear tests:",
+  "Consider the following statements about the Pokhran-II tests of May 1998:",
+  "Who were the chief coordinators of the Pokhran-II tests?",
+  "In the order of nations that joined the nuclear club, which position did India reach through the Pokhran-II tests?",
+  "Which Indian mission, India's first lunar mission, discovered water on the Moon? (give the mission name)",
+  "How many satellites were launched in one launch in 2017, a world record? (in number)",
+  "What is the name of India's first indigenous aircraft carrier? (name of the ship)",
+  "Which submarine, dated 1967, was India's first indigenous submarine? (name of the submarine)",
+  "Which crewed spaceflight, planned for 2027, will be India's first? (name of the mission)",
+  "What is the name of India's first solar mission? (name of the mission)"
+ ]
+}

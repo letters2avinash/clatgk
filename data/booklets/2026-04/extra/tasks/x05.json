@@ -1,0 +1,56 @@
+{
+ "key": "x05",
+ "topic": "Gujarat Passed Uniform Civil Code Bill 2026",
+ "chapter": "Polity and Governance",
+ "text_file": "data/booklets/2026-04/t05_gujarat_ucc_bill.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c3-t1-s2",
+   "title": "Background and Constitutional Basis",
+   "summary": "The need for a uniform law was first considered in the Lex Loci Report of 1840, and the colonial government formed the B N Rau Committee in 1941 to examine common Hindu laws. Article 44 urges the state to establish a UCC, but it is part of the non-enforceable DPSP. Personal laws on marriage, divorce and succession sit in the Concurrent List, so both Parliament and state legislatures can legislate on them.",
+   "facts": [
+    "Lex Loci Report of 1840 first considered the need for a uniform law.",
+    "Colonial government formed the B N Rau Committee in 1941.",
+    "B N Rau Committee examined the necessity of common Hindu laws and recommended a codified Hindu law giving equal rights to women.",
+    "Hindu Succession Act, 1956 codified intestate succession among Hindus, Buddhists, Jains and Sikhs.",
+    "Dr. B. R. Ambedkar was chosen by Nehru in 1948 to chair the sub-committee developing the Hindu Code Bill.",
+    "Four Hindu Code Bills: Hindu Marriage Act 1955; Hindu Succession, Hindu Minority and Guardianship, and Hindu Adoptions and Maintenance Acts 1956.",
+    "Underlying principle of UCC: laws should be gender-neutral and religion-neutral.",
+    "Article 44 urges the state to establish a uniform civil code; it is part of the DPSP and is not enforceable.",
+    "Personal laws on marriage, divorce and succession are under the Concurrent List."
+   ]
+  },
+  {
+   "id": "2026-04-c3-t1-s4",
+   "title": "Arguments For and Against the UCC",
+   "summary": "The UCC is presented as a way to promote gender equality, eliminate discriminatory practices against women, align with India's secular nature and reform outdated, regressive practices. Critics argue that it conflicts with the right to freedom of religion under Articles 25-28, that some civil laws are inseparably linked to religious beliefs, and that it could be politically exploited and lead to social unrest.",
+   "facts": [
+    "Objective: promote gender equality.",
+    "Objective: eliminate discriminatory practices against women.",
+    "Objective: align with the secular nature of the Indian state.",
+    "Objective: reform outdated and regressive practices.",
+    "Concern: UCC is seen as against the right to freedom of religion guaranteed under Articles 25-28.",
+    "Concern: some civil laws are inseparably connected with religious beliefs and practices.",
+    "Concern: implementation could be politically exploited, leading to social unrest.",
+    "Concern: a UCC might not accommodate the unique customs and sensitivities of different communities."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Under the Gujarat UCC, within how many days must a live-in relationship be registered?",
+  "Assertion (A): The Gujarat UCC sets different registration periods for marriages and live-in relationships.",
+  "Match List I with List II:",
+  "Consider the following statements about the Gujarat UCC:",
+  "How many of the following statements about the Gujarat UCC are correct?",
+  "Which of the following is NOT one of the four Hindu Code Bills?",
+  "Under the judicial exclusivity in divorce provision of the Gujarat UCC, where must all separations be processed?",
+  "Under which civil code does Goa practise its form of common civil code?",
+  "In which year did the Supreme Court decide Shah Bano Begum v Mohammad Ahmed Khan? (year)",
+  "In which year did the Supreme Court declare triple talaq unconstitutional in Shayara Bano v Union of India? (year)",
+  "Which numbered Law Commission, in its 2018 report, deemed a UCC unnecessary and undesirable? (give the number)",
+  "Which Indian state did the Supreme Court hail as a 'shining example' of a UCC in the Jose Paulo Coutinho case (2019)?",
+  "Under which Article of the Constitution did the Supreme Court place personal and customary law in the Indian Young Lawyers Association case (2018)? (number)",
+  "Name the retired judge associated with the five-member committee formed to give recommendations for implementing a UCC in Uttarakhand.",
+  "Which numbered Law Commission issued a notification to elicit views on the UCC? (give the number)"
+ ]
+}

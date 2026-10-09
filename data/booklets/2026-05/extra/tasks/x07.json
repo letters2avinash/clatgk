@@ -1,0 +1,56 @@
+{
+ "key": "x07",
+ "topic": "India's Forex Stress and Call for Economic Austerity",
+ "chapter": "Economics",
+ "text_file": "data/booklets/2026-05/t07_india_forex_stress_austerity.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c4-t1-s3",
+   "title": "Why the Government Seeks Austerity",
+   "summary": "The Prime Minister has urged citizens to limit non-essential spending on gold, overseas travel and fuel. The aims are to manage the CAD, stabilise the rupee and contain capital flight. The approach shifts from supply-side diversification to demand-side restraint.",
+   "facts": [
+    "PM urged citizens to reduce non-essential spending on gold, overseas travel and fuel",
+    "Cutting non-essential imports helps conserve foreign exchange",
+    "Demand-side measures include work-from-home, carpooling and virtual meetings",
+    "Surging fertiliser prices push government to prioritise food security over discretionary fuel use",
+    "Austerity aims to curb capital flight and reduce forex outflows",
+    "Strategic autonomy: shift from supply-side diversification to demand-side restraint",
+    "Goal: reduce dependence on volatile regions and lower energy-to-GDP sensitivity",
+    "Aim: strengthen resilience against global shocks"
+   ]
+  },
+  {
+   "id": "2026-05-c4-t1-s4",
+   "title": "Costs of Excessive Forex Conservation",
+   "summary": "The booklet cautions that overly strict controls could stifle manufacturing, weaken exports and discourage foreign investment. Suppressing private consumption also threatens aggregate demand and job creation. Past import-substitution attempts are cited as a warning, since they led to low competitiveness.",
+   "facts": [
+    "Indian industry depends on imported capital goods, semiconductors and raw materials",
+    "Restricted imports lower industrial output and exports",
+    "Protectionism trap: import curbs raise input costs and reduce export competitiveness",
+    "Capital control concerns raise the country risk premium",
+    "Foreign direct and portfolio investment inflows could be dampened",
+    "Private consumption is a major GDP component; reducing it weakens growth",
+    "Foreign investors avoid economies lacking strong domestic demand",
+    "Past import-substitution efforts led to low industrial competitiveness and inefficiency",
+    "Lower production leads to significantly reduced job creation"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which rank does India hold among the world's gold consumers, according to the booklet?",
+  "What share of its crude oil requirement does India import, according to the booklet?",
+  "Which of the following is NOT a component of India's Foreign Exchange Reserves?",
+  "Which statement describes the 'Protectionism Trap' in the context of excessive forex conservation?",
+  "Assertion (A): Household gold imports widen India's current account deficit.",
+  "Match List I with List II:",
+  "Consider the following statements about the effects of excessive forex conservation:",
+  "How many of the following statements about India's forex reserves and imports are correct?",
+  "What share of its crude oil requirement does India import, according to the booklet? (in per cent)",
+  "Which country is the largest gold consumer globally, per the booklet? (one word)",
+  "What share of India's total imports does gold account for? (in per cent)",
+  "How did imported urea and ammonia prices change, according to the booklet? (one word)",
+  "Which security does the government prioritise over discretionary fuel consumption when fertiliser prices surge? (two words)",
+  "If the government absorbs cost increases instead of passing them on, which risk arises? (name the risk)",
+  "Under which scheme does the booklet record significant foreign exchange outflows? (name in full)"
+ ]
+}

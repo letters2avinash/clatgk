@@ -1,0 +1,57 @@
+{
+ "key": "x03",
+ "topic": "Board of Peace for Gaza",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-01/t03_boardofpeace.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c1-t3-s3",
+   "title": "Key Features of the US 20-point Gaza Plan",
+   "summary": "The US plan, officially titled the Comprehensive Plan to End the Gaza Conflict, envisions a demilitarised Gaza with an immediate ceasefire and the release of all hostages. It pairs security arrangements, including the International Stabilization Force (ISF), with humanitarian aid and reconstruction through a special economic zone. The plan excludes Hamas from governance while offering amnesty to members who decommission their weapons.",
+   "facts": [
+    "Gaza is envisioned as a demilitarised, terror-free zone",
+    "An immediate ceasefire is mandated, halting military actions by both sides",
+    "All hostages, alive or deceased, must be released within 72 hours of Israel's formal acceptance",
+    "Israel frees 250 Palestinian life-sentence prisoners and 1,700 detainees",
+    "Hamas members who decommission weapons get amnesty or safe passage abroad",
+    "Full humanitarian aid enters immediately; Rafah crossing reopens under agreement",
+    "Special economic zone with favourable trade terms, supported by international investment",
+    "No forced displacement: people are free to stay, leave or return",
+    "Hamas is excluded from governance; ISF deployed to secure Gaza and train police",
+    "Interfaith dialogue platform created to promote religious harmony"
+   ]
+  },
+  {
+   "id": "2026-01-c1-t3-s4",
+   "title": "UN Reform and the Board's Significance",
+   "summary": "Reform of the UN system is treated as urgent because ad hoc peacebuilding missions end once crises subside and UN Security Council reform is deadlocked. The booklet presents the Board as an incremental innovation within existing structures, using the General Assembly's power under Article 22 of the UN Charter. The Board is also described as a move from universal multilateral institutions towards leader-centric mini-lateral mechanisms.",
+   "facts": [
+    "UN peacebuilding missions often end once immediate crises subside",
+    "Prolonged deadlock over comprehensive UNSC reform has paralysed timely action",
+    "Under Article 22 of the UN Charter, the General Assembly can establish subsidiary bodies without Charter amendment",
+    "Board of Peace is presented as reform from within, not replacement of the UNSC",
+    "Board aims to institutionalise long-term political engagement and prevent relapse into conflict",
+    "Represents a move from universal multilateral institutions to mini-lateral, leader-centric mechanisms",
+    "Emphasises political authority, resource mobilisation and rapid decision-making over consensus-based diplomacy",
+    "Projected as a template for managing complex global conflicts",
+    "Signals evolving US thinking on conflict resolution and post-war governance"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Under which UN Security Council resolution was the Board of Peace established?",
+  "How many Articles does the charter of the Board of Peace contain?",
+  "In which circumstance can the chairman of the Board of Peace be removed?",
+  "Match List I with List II:",
+  "Consider the following statements about the Board of Peace:",
+  "Consider the following statements about the Gaza plan:",
+  "Consider the following statements:",
+  "Which Bulgarian diplomat is named High Representative for Gaza? (full name)",
+  "Who chairs the National Committee for the Administration of Gaza? (full name)",
+  "How many members does the National Committee for the Administration of Gaza have? (number)",
+  "How many countries are listed as members of the Gaza Executive Board? (number)",
+  "What is the tenure of rotational membership of the Board of Peace, in years? (number)",
+  "What reported contribution, in USD billion, gives a country permanent membership of the Board? (number)",
+  "In which year does the Board's initial authorisation end? (year)"
+ ]
+}

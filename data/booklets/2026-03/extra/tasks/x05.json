@@ -1,0 +1,57 @@
+{
+ "key": "x05",
+ "topic": "Renaming Kerala as Keralam",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-03/t05_kerala_keralam_renaming.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c2-t1-s2",
+   "title": "Articles 1, 2 and 4: Union, admission of States and status of such laws",
+   "summary": "Articles 1 to 4 sit under Part I, which deals with the Union and its Territory. Article 1 describes India as a Union of States, and Article 2 empowers Parliament to admit or establish new States. Article 4 makes clear that laws under Articles 2 and 3 are not amendments under Article 368, so they can pass by simple majority.",
+   "facts": [
+    "Articles 1 to 4 fall under Part I, titled Union and its Territory.",
+    "India is called a Union even though its Constitution is federal in structure.",
+    "Article 1 describes India, that is Bharat, as a Union of States rather than a Federation of States.",
+    "Article 1 deals with two things: the name of the country and the type of polity.",
+    "Article 2 empowers Parliament to admit into the Union, or establish, new States on terms it thinks fit.",
+    "Admission under Article 2 refers to States already in existence; establishment refers to States not in existence before.",
+    "Article 4 declares that laws made under Articles 2 and 3 are not amendments under Article 368.",
+    "Such laws can therefore be passed by simple majority.",
+    "Names of States and Union Territories and their territorial extent are in the First Schedule.",
+    "At present, India has 28 States and 8 Union Territories."
+   ]
+  },
+  {
+   "id": "2026-03-c2-t1-s4",
+   "title": "Linguistic reorganisation: commissions and the 1956 Act",
+   "summary": "The demand for linguistic States led to several commissions. The Dhar Commission favoured administrative convenience, the JVP Committee rejected language as a basis, and the Fazl Ali Commission broadly accepted language. The States Reorganisation Act (1956) then created 14 States and 6 Union Territories on 1 November 1956.",
+   "facts": [
+    "The Dhar Commission (June 1948), chaired by SK Dhar, examined reorganisation on the linguistic factor.",
+    "The Dhar Commission recommended administrative convenience rather than the linguistic factor.",
+    "The JVP Committee (Dec 1948) consisted of Jawaharlal Nehru, Vallabhbhai Patel and Pattabhi Sitaramayya.",
+    "The JVP Committee formally rejected language as the basis for reorganisation of States.",
+    "The Fazl Ali Commission, a 3-member body, was appointed to re-examine the question in December 1953.",
+    "The Fazl Ali Commission broadly accepted language as the basis but rejected One Language - One State.",
+    "The Fazl Ali Commission suggested 16 States and 3 Centrally Administered Territories.",
+    "The States Reorganisation Act (1956) and a related amendment created 14 States and 6 Union Territories on 1 November 1956.",
+    "Andhra State (1953) was created by separating Telugu-speaking areas from Madras State."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which authority's prior recommendation is mandatory before a Bill to rename a State can be introduced in Parliament?",
+  "Assertion (A): Parliament can rename a State without a constitutional amendment.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "How many of the following statements about the integration of Princely States are correct?",
+  "After becoming a Protectorate of India in 1950, Sikkim was formally recognised as a State of the Indian Union in which year?",
+  "The Fazl Ali Commission suggested creating which combination of States and Centrally Administered Territories?",
+  "Which Act of 1947 created the two independent dominions of India and Pakistan? (name of the Act)",
+  "Of the 552 Princely States situated within India's geographical boundaries at independence, how many joined India? (in number)",
+  "Which Princely State was integrated with India by means of a referendum? (name of the State)",
+  "Through which instrument was Kashmir integrated with India? (name of the instrument)",
+  "Under the 1950 Constitution, how many erstwhile Governor's Provinces of British India were placed in Part A? (in number)",
+  "Which committee, formed by Congress in December 1948 and consisting of Nehru, Patel and Pattabhi Sitaramayya, is popularly known by a three-letter name? (give the name)",
+  "Who chaired the three-member States Reorganisation Commission that re-examined the linguistic question? (name)"
+ ]
+}

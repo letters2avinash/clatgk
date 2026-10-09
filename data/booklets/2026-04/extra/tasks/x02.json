@@ -1,0 +1,57 @@
+{
+ "key": "x02",
+ "topic": "Constitution (131st Amendment) Bill, 2026",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-04/t02_constitution_131_amendment_bill.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c2-t1-s3",
+   "title": "Delimitation and the Commission",
+   "summary": "Delimitation redraws territorial constituency boundaries so that representation stays fair after population changes. Article 82 requires Parliament to pass a Delimitation Act after every Census, and the President appoints the Delimitation Commission. The Delimitation Bill, 2026 gives the Commission civil court powers and states that its orders cannot be challenged in courts.",
+   "facts": [
+    "Delimitation defines territorial constituency boundaries after population changes",
+    "Article 82: Parliament to pass a Delimitation Act after every Census",
+    "Article 170 governs the division of constituencies for State Assemblies",
+    "President appoints the Delimitation Commission in consultation with the Election Commission",
+    "Commission members: a retired Supreme Court judge (Chairperson), the Chief Election Commissioner and State Election Commissioners",
+    "Commission decisions are final and not subject to court review or modification by Parliament or State Assemblies",
+    "Delimitation Commissions were formed under Acts of 1952, 1962, 1972 and 2002",
+    "No Commission was formed after the 1981 and 1991 Censuses",
+    "84th Amendment (2002) extended the freeze until the first Census after 2026"
+   ]
+  },
+  {
+   "id": "2026-04-c2-t1-s4",
+   "title": "Concerns and consequences",
+   "summary": "Critics point to federal imbalance, with the South's share of Lok Sabha seats projected to fall from 24.3% to about 20.7%. Concerns also include outdated 2011 data, removal of judicial review and excess legislative control over delimitation. Supporters point to smaller constituencies, better grievance redressal and a more efficient use of MPLADS funds.",
+   "facts": [
+    "Federal imbalance: Southern States' share falls from 24.3% to about 20.7%",
+    "Northern dominance: high population growth states gain more seats",
+    "Outdated data: the 2011 Census may distort representation for decades",
+    "Judicial review removed: risk of gerrymandering",
+    "Excess legislative control: Parliament's discretion may politicise delimitation",
+    "Ministers capped at 15% of Lok Sabha strength under Article 75(1A)",
+    "Joint sittings: Lok Sabha dominance dilutes the Rajya Sabha's federal role",
+    "Expansion reduces constituency size and improves accessibility and grievance redressal",
+    "Census dependency delays implementation of women's reservation"
+   ]
+  }
+ ],
+ "already_asked": [
+  "To how many seats does the Constitution (131st Amendment) Bill, 2026 propose to expand the Lok Sabha?",
+  "Of the proposed Lok Sabha seats, how many are allocated to Union Territories?",
+  "Which Census does the Bill propose to use for seat allocation and delimitation?",
+  "Assertion (A): The Bill proposes to amend Article 82 to lift the freeze on redrawing constituency boundaries.",
+  "Match List I with List II:",
+  "Consider the following statements about women's reservation under the Bill:",
+  "How many of the following statements about the Delimitation Commission under the Delimitation Bill, 2026 are correct?",
+  "Under Article 75(1A), Ministers are capped at what percentage of Lok Sabha strength?",
+  "What percentage of total seats in the Lok Sabha and State Assemblies is reserved for women under the law? (in per cent)",
+  "For how many years is the women's reservation valid before Parliament may extend it? (in years)",
+  "Which Article inserts reservation for women in the Lok Sabha?",
+  "Which Article provides reservation for women in the National Capital Territory of Delhi?",
+  "How many different years are listed in the booklet as years when a women's reservation bill was introduced? (number)",
+  "Under which leader's committee on women was a committee constituted in 1987? (surname)",
+  "In which year was the Committee on the Status of Women in India set up? (year)"
+ ]
+}

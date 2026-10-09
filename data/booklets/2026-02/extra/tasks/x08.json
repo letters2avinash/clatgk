@@ -1,0 +1,76 @@
+{
+ "key": "x08",
+ "topic": "India AI Impact Summit 2026",
+ "chapter": "Reports, Summits, Indices",
+ "text_file": "data/booklets/2026-02/t08_india_ai_impact_summit_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c4-t1-s1",
+   "title": "Summit Theme, Principles and Objectives",
+   "summary": "India hosted the India AI Impact Summit 2026 at Bharat Mandapam in New Delhi, presented as the first multilateral AI summit in the Global South. The summit marked a shift from a Western safety-first model to an impact-first, developmental approach to AI, under the theme 'Sarvajana Hitaya, Sarvajana Sukhaya'. Its work rests on three Sutras and seven Chakras, and it set out four key objectives.",
+   "facts": [
+    "Held at Bharat Mandapam, New Delhi; described as the 1st multilateral AI summit in the Global South",
+    "Signals a shift from a Western safety-first model to an impact-first, developmental AI paradigm",
+    "Theme: 'Sarvajana Hitaya, Sarvajana Sukhaya' (Welfare for All, Happiness for All)",
+    "3 Sutras: People (Inclusive Development), Planet (Ethical Innovation), Progress (Sustainable Societal Impact)",
+    "7 Chakras (Priority Cooperation Areas): Healthcare, Agriculture, Education, Governance, Climate action, Digital Economy, Social Inclusion",
+    "Objective 1: translate global AI discussions into development outcomes aligned with IndiaAI Mission and Digital India",
+    "Objective 2: promote responsible and ethical AI, addressing algorithmic bias, privacy protection and accountability",
+    "Objective 3: build partnerships between governments, startups, academia and industry",
+    "Objective 4: position India as a Global AI Hub and promote an indigenous AI ecosystem",
+    "Switzerland will host the 2027 World Summit on AI in Geneva"
+   ]
+  },
+  {
+   "id": "2026-02-c4-t1-s3",
+   "title": "M.A.N.A.V. Roadmap and Previous AI Summits",
+   "summary": "The Prime Minister unveiled the human-centric M.A.N.A.V. Framework for Ethical and Inclusive AI at the summit, with each letter standing for one principle. The booklet also traces earlier global AI summits: the UK's 1st AI Safety Summit and its Bletchley Declaration, the Seoul Summit of 2024 and the 3rd AI Action Summit held in Paris in 2025.",
+   "facts": [
+    "Prime Minister unveiled the human-centric M.A.N.A.V. Framework for Ethical and Inclusive AI at the summit",
+    "M: Moral and Ethical Systems; AI must be fair and transparent, subject to human oversight",
+    "A: Accountable Governance; clear institutional responsibility, transparent regulatory rules, strong oversight",
+    "N: National Sovereignty; securing critical datasets, strengthening domestic compute, indigenous model development",
+    "A: Accessible and Inclusive AI; democratise benefits, bridge the digital divide, reach marginalised populations",
+    "V: Valid and Legitimate Systems; trust, safety and legal compliance, important given deepfakes and misinformation",
+    "UK hosted the 1st AI Safety Summit and adopted the Bletchley Declaration on AI's promises and risks",
+    "Bletchley Declaration emphasises aligning AI with human intent, safeguarding rights, safety, ethics and accountability",
+    "AI Seoul Summit took place in 2024, co-hosted by the Republic of Korea and the UK government",
+    "3rd AI Action Summit was held in 2025 in Paris, France"
+   ]
+  },
+  {
+   "id": "2026-02-c4-t1-s4",
+   "title": "Sovereign Models and Domain Platforms",
+   "summary": "India's sovereign AI models include Sarvam's large language models, the Vikram chatbot, Gnani.ai's Vachana speech model and BharatGen's Param2 17B. Bharat GenAI develops foundational models tailored to 22 Indian languages, while BODH, SAHI, VoicERA and BHASHINI cover health and language platforms. The Bio-AI Mulankur Hubs link AI with biotechnology under the BioE3 policy.",
+   "facts": [
+    "Sarvam-30B and Sarvam-105B by Sarvam AI are large language models that generate human-like text",
+    "Sarvam's Vikram is a multilingual chatbot for seamless conversations across Indian languages",
+    "Vachana is a text-to-speech model by Gnani.ai that supports 12 Indian languages",
+    "Param2 17B is a multilingual foundational AI model by BharatGen",
+    "Bharat GenAI: India's first government-supported initiative for sovereign foundational AI models, spearheaded by IIT Bombay",
+    "Bharat GenAI models are tailored to 22 Indian languages and cover text, text-to-speech and vision-language",
+    "BODH: privacy-preserving benchmarking platform for health AI using diverse, real-world health data; positioned under Ayushman Bharat Digital Mission",
+    "SAHI (Strategy for Artificial Intelligence in Healthcare for India): national framework for responsible AI integration in healthcare",
+    "VoicERA: open-source, end-to-end voice AI stack serving as a national execution layer for multilingual voice AI",
+    "BHASHINI (Bhasha Interface for India): AI-powered national language translation and speech platform under Digital India"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which New Delhi Declaration pillar is a platform for sharing successful AI solutions and enabling replication of best practices globally?",
+  "Which of the three Sutras stands for Sustainable Societal Impact?",
+  "How many countries endorsed the New Delhi Declaration on AI, excluding international organisations?",
+  "Assertion (A): Accountable Governance is one of the principles of the M.A.N.A.V. framework.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "How many of the following statements about the M.A.N.A.V. framework are correct?",
+  "Bharat GenAI's sovereign foundational models are tailored to how many Indian languages?",
+  "What budget, in crore, backs the IndiaAI Mission? (number only)",
+  "How many sovereign GPUs does IndiaAI Mission 2.0 aim to onboard? (number)",
+  "In which city is AIRAWAT, India's largest AI supercomputing system, located? (city)",
+  "Which company manufactured AIRAWAT? (company name)",
+  "Which programme identifies scalable AI solutions for development challenges and is implemented with Startup India? (programme name)",
+  "In which city is the secretariat of GPAI based? (city)",
+  "Which institute spearheads the Bharat GenAI initiative? (institute, short name)"
+ ]
+}

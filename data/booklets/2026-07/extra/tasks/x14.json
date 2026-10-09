@@ -1,0 +1,59 @@
+{
+ "key": "x14",
+ "topic": "FIFA World Cup 2026",
+ "chapter": "Sports & Awards",
+ "text_file": "data/booklets/2026-07/t14_fifa_world_cup_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c7-t1-s3",
+   "title": "Trophies, FIFA and Title Winners",
+   "summary": "FIFA, the global governing body for football, was founded in Paris in 1904 and is headquartered in Zurich. The World Cup has used two trophies: the Jules Rimet Trophy from 1930 to 1970 and the current gold trophy from 1974 onwards. Brazil holds the most titles, with five.",
+   "facts": [
+    "FIFA: founded in Paris in 1904; headquarters in Zurich, Switzerland",
+    "FIFA has 211 member national associations; President: Gianni Infantino",
+    "Jules Rimet Trophy used 1930 to 1970; made by French sculptor Abel Lafleur",
+    "Brazil won the Jules Rimet Trophy outright in 1970 with a 4-1 win over Italy",
+    "Jules Rimet Trophy was stolen in England before 1966 and found in a rubbish heap by a dog named Pickles",
+    "Current trophy: 18-carat solid gold, designed by Italian sculptor Silvio Gazzaniga",
+    "West Germany were the first to lift the current trophy, with a 2-1 win over Netherlands in 1974",
+    "The current trophy stays with FIFA; winners receive a gold-plated replica",
+    "Titles: Brazil 5; Germany 4; Italy 4; Argentina 3; Uruguay 2; France 2; Spain 2; England 1",
+    "FIFA Peace Prize established in 2025; inaugural prize presented to US President Donald Trump"
+   ]
+  },
+  {
+   "id": "2026-07-c7-t1-s4",
+   "title": "Records, Milestones and Firsts",
+   "summary": "The 2026 tournament produced several individual and team milestones. Lionel Messi became the first man to play at six World Cups, while Cristiano Ronaldo became the first player to score in six consecutive editions. Spain became the first nation to be reigning champion of both the men's and women's World Cups.",
+   "facts": [
+    "Messi: first man to play at 6 World Cups (2006-2026); eight-time Ballon d'Or winner",
+    "Messi: only player to have won the Golden Ball twice (2014, 2022)",
+    "Ronaldo (Portugal): first player to score in 6 consecutive World Cups (2006-2026)",
+    "Guillermo Ochoa (Mexico): selected for his 6th consecutive World Cup squad",
+    "Spain: first nation to be reigning champion of both the men's and women's World Cups",
+    "Spain: first team to win the World Cup while conceding only one goal in the tournament",
+    "Top 4 ranked teams (Argentina, Spain, France, England) reached the semi-finals for the first time",
+    "Italy, a 4-time champion, failed to qualify for a third consecutive World Cup",
+    "India: only qualification came in 1950, but the team withdrew before the Brazil tournament",
+    "Oldest player: Craig Gordon (Scotland, 43); youngest: Gilberto Mora (Mexico, 17)"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Match List I with List II:",
+  "Assertion (A): Canada hosted a World Cup for the first time in 2026.",
+  "Who was the oldest player at the 2026 FIFA World Cup?",
+  "Consider the following statements:",
+  "Consider the following statements about the 2026 FIFA World Cup:",
+  "Which country was the first African nation to host the FIFA World Cup?",
+  "Which team is nicknamed the 'Blue Sharks'?",
+  "Which city hosted the opening match of the 2026 FIFA World Cup?",
+  "How many goals did the Golden Boot winner score in the 2026 tournament? (number)",
+  "Who won the Golden Glove as the tournament's best goalkeeper?",
+  "Who won the Golden Ball as the best player of the 2026 tournament?",
+  "In which minute of the final did Ferran Torres score the winning goal? (number)",
+  "What was the prize money paid to the champion team, in millions of dollars? (number)",
+  "What was the total performance-based prize money for all 48 teams, in millions of dollars? (number)",
+  "Which team secured third place at the 2026 FIFA World Cup?"
+ ]
+}

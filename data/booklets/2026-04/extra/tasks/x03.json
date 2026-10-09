@@ -1,0 +1,71 @@
+{
+ "key": "x03",
+ "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-04/t03_census_2027_digital.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c2-t2-s3",
+   "title": "Constitutional and legal framework",
+   "summary": "The Union's power to conduct the census rests on Article 246 and Entry 69 of the Union List. The Census Act, 1948 provides the legal mandate and makes participation mandatory. The 84th Constitutional Amendment Act of 2002 froze Lok Sabha seat allocation on 1971 Census data until the first census conducted after 2026.",
+   "facts": [
+    "The Union has the power to conduct the census under Article 246 and Entry 69 of the Union List.",
+    "Articles 81 and 82 relate to Lok Sabha seat distribution and delimitation after 2026.",
+    "The 84th Constitutional Amendment Act, 2002 froze Lok Sabha seat allocation using 1971 Census data.",
+    "The freeze lasts until the first census conducted after 2026.",
+    "The Census Act, 1948 provides the legal mandate and makes participation mandatory.",
+    "The census is managed by the Registrar General and Census Commissioner of India, Mritunjay Kumar Narayan."
+   ]
+  },
+  {
+   "id": "2026-04-c2-t2-s4",
+   "title": "Purpose of the census and its challenges",
+   "summary": "Census data supports delimitation, women's one-third seat reservation and planning for healthcare, education and infrastructure. Unlike sample surveys, the census offers comprehensive population data. Challenges include limited rural digital access, caste data inconsistencies, logistics, public trust and administrative capacity.",
+   "facts": [
+    "Caste data is seen as key to sharpen welfare schemes such as PM Awas Yojana and Skill India.",
+    "Caste data aids delimitation and enables Women's One-Third Seat Reservation in Parliament and Assemblies.",
+    "Unlike sample surveys, the census offers comprehensive population data.",
+    "Demographic data is vital for planning healthcare, education and infrastructure.",
+    "Census forms are the basis for updating the National Population Register.",
+    "Challenge: limited rural access to digital tools.",
+    "Challenge: avoid duplication and inconsistencies in caste data.",
+    "Challenge: large-scale training and coverage of remote areas.",
+    "Challenge: public trust, given fears around NPR/NRC linkages.",
+    "Challenge: administrative capacity, covering funds, staffing and inter-agency coordination."
+   ]
+  },
+  {
+   "id": "2026-04-c2-t2-s5",
+   "title": "NPR, CAA and NRC compared",
+   "summary": "The NPR is a nationwide database of every resident, including foreigners, meant for government schemes. The CAA covers minority refugees from Pakistan, Afghanistan and Bangladesh who came to India before 31 December 2014. The NRC covers citizens of India with valid identity documents, and only Assam currently updates it.",
+   "facts": [
+    "NPR is a database of every resident, including foreigners.",
+    "NPR covers residents who have lived at an address for the last 6 months and will stay there for the next 6 months.",
+    "NPR is meant to be used for government schemes and has nationwide coverage.",
+    "CAA covers minority refugees (Hindu, Christian, Sikh, Parsi, Jain, Buddhist) from Pakistan, Afghanistan and Bangladesh.",
+    "CAA covers those minority refugees who came to India before 31 December 2014.",
+    "NRC covers citizens of India with valid identity documents.",
+    "Currently, only Assam updates the NRC.",
+    "Government's answer: there is no duplication between NPR and Aadhaar, as the objectives are different.",
+    "Government's answer: Muslims are not a minority in the 3 neighbouring countries, so they are not mentioned."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which of the following is listed as a key focus area of the data collected in Census 2027 Phase I?",
+  "Assertion (A): Digital mapping tools make the creation of house-listing blocks more accurate.",
+  "Match List I with List II:",
+  "Consider these statements about Census 2027:",
+  "How many of the following statements about Census 2027 are correct?",
+  "Which limitation on the coverage of Census 2027 is stated in the booklet?",
+  "Through which channel can citizens fill in their own census details under Census 2027?",
+  "How many questions does the Census 2027 questionnaire contain?",
+  "In which year was the last caste-based census in India conducted? (year)",
+  "Who was the Census Commissioner in 1931? (surname)",
+  "Who was the Census Commissioner in 1951? (surname)",
+  "Under which Lord was the synchronous census of 1881 conducted? (surname)",
+  "Which state is listed first among those that undertook independent caste surveys? (state name)",
+  "How many censuses has India held since Independence? (number)",
+  "Which census year is the only one to record a decadal population decline? (year)"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "key": "x02",
+ "topic": "Pakistan Declares Open War on Afghanistan's Taliban Government",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-03/t02_pakistan_afghanistan_war.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c1-t2-s2",
+   "title": "Factors behind the open war",
+   "summary": "Pakistan launched Operation Ghazab-Lil-Haq on Afghan military bases, and Afghanistan retaliated with airstrikes on Pakistani targets. The escalation grew out of long-standing disputes over cross-border militancy, the Durand Line and border fencing. Clashes at disputed checkpoints turned these tensions into direct military confrontation.",
+   "facts": [
+    "Pakistan launched Operation Ghazab-Lil-Haq on Afghan military bases.",
+    "Afghanistan retaliated with airstrikes on Nur Khan Airbase (Rawalpindi) and 12th Division HQ (Quetta).",
+    "The Afghan Taliban is allegedly sheltering Tehrik-i-Taliban Pakistan (TTP).",
+    "TTP is accused of launching cross-border attacks inside Pakistan.",
+    "Pakistan recognises the Durand Line as a permanent international border.",
+    "Afghan governments have historically disputed the legitimacy of the Durand Line.",
+    "Pakistan's border fencing has been resisted by Afghan forces.",
+    "Repeated Torkham crossing closures hurt Afghan trade and deepened mistrust.",
+    "Pakistan's 'strategic depth' doctrine has been eroded by the Taliban's outreach to India."
+   ]
+  },
+  {
+   "id": "2026-03-c1-t2-s4",
+   "title": "Implications for India",
+   "summary": "The Pakistan-Afghanistan conflict has several implications for India, touching its western border, its security and its trade routes. Escalation may reduce Pakistan's infiltration pressure along the LoC, but prolonged instability could let ISIS-K regroup and jeopardise India's access to the INSTC. India condemned Pakistan's attacks and reaffirmed support for Afghanistan's sovereignty, territorial integrity and independence.",
+   "facts": [
+    "India condemned Pakistan's attacks and reaffirmed support for Afghanistan's sovereignty, territorial integrity and independence.",
+    "LoC relief: escalation on the western border may compel Pakistan to reduce infiltration pressure along the LoC.",
+    "Terror spillover: prolonged instability risks allowing ISIS-K to regroup and expand across South Asia.",
+    "Connectivity risks: the conflict jeopardises India's access to the INSTC and Central Asian trade outreach.",
+    "Refugee pressure: a full-scale conflict risks an Afghan refugee inflow onto India's borders."
+   ]
+  }
+ ],
+ "already_asked": [
+  "What is the name of the military operation Pakistan launched on Afghan military bases?",
+  "Why was the Durand Line originally drawn in 1893?",
+  "Read the statements and choose the correct option.",
+  "Match List I with List II:",
+  "Consider the following statements about the TAPI pipeline:",
+  "How many of the following statements about the Zaranj-Delaram Highway are correct?",
+  "Who was the Afghan ruler when the Durand Line was drawn?",
+  "Consider the following statements about the Heart of Asia Process:",
+  "What is the name of the gas pipeline project that carries natural gas from Turkmenistan through Afghanistan and Pakistan to India?",
+  "What is the length of the TAPI gas pipeline (in km)?",
+  "In which Afghan province is the Salma Dam (Afghan-India Friendship Dam) located?",
+  "In which year was the Afghan Parliament Building, built by India, inaugurated?",
+  "Which Afghan Acting Foreign Minister met India's Foreign Secretary Vikram Misri in Dubai?",
+  "Which Iranian port does the Zaranj-Delaram Highway connect Afghanistan to?"
+ ]
+}

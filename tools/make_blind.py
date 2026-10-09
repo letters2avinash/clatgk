@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """Write answer-free blind verification inputs from dashboard/data/<mid>.json. usage: make_blind.py <mid>"""
 import json, sys, os, collections
-mid = sys.argv[1]; d = json.load(open(f"dashboard/data/{mid}.json", encoding="utf8"))
+mid = sys.argv[1]; PFX = sys.argv[2] if len(sys.argv) > 2 else None; d = json.load(open(f"dashboard/data/{mid}.json", encoding="utf8"))
 subs = {s["id"]: s for c in d["chapters"] for t in c["topics"] for s in t["subtopics"]}
 os.makedirs(f"data/booklets/{mid}/blind", exist_ok=True); os.makedirs(f"data/booklets/{mid}/verdict", exist_ok=True)
 groups = collections.OrderedDict()
-for q in d["quizzes"]: groups.setdefault(q["id"].split("-")[1], []).append(q)   # q-tNN-j -> tNN
+for q in d["quizzes"]:
+    k = q["id"].split("-")[1]
+    if PFX is None or k.startswith(PFX): groups.setdefault(k, []).append(q)   # q-tNN-j -> tNN
 tops = {}
 for c in d["chapters"]:
     for t in c["topics"]: tops.setdefault(t["id"], t)

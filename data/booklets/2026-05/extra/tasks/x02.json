@@ -1,0 +1,55 @@
+{
+ "key": "x02",
+ "topic": "UAE's Exit from OPEC and OPEC+",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-05/t02_uae_exit_opec_opec_plus.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c1-t2-s1",
+   "title": "UAE's Exit from OPEC and OPEC+",
+   "summary": "The United Arab Emirates announced that it will leave OPEC and the wider OPEC+ alliance, effective 01 May 2026. The exit is seen as a major geopolitical shift that could weaken OPEC's influence over the global oil market. OPEC+ brings OPEC together with major non-OPEC producers, and the alliance pumps around 40% of the world's crude oil.",
+   "facts": [
+    "UAE joined OPEC in 1967.",
+    "UAE's exit from OPEC and OPEC+ is effective 01 May 2026.",
+    "The exit is seen as a major geopolitical shift.",
+    "The exit could weaken OPEC's influence over the global oil market.",
+    "The exit reduces the group's collective ability to control global oil prices.",
+    "OPEC+ is an alliance of OPEC and 11 major non-OPEC producers, formed in 2016.",
+    "OPEC+ pumps around 40% of the world's crude oil."
+   ]
+  },
+  {
+   "id": "2026-05-c1-t2-s4",
+   "title": "Habshan-Fujairah Pipeline and India's Stake",
+   "summary": "The Habshan-Fujairah pipeline is a crude oil pipeline in the UAE that carries oil from inland fields to a port on the Gulf of Oman, bypassing the Strait of Hormuz. It boosts UAE export flexibility, which matters amid Strait of Hormuz disruption risks. For India, lower oil prices would reduce import costs and ease inflationary pressure.",
+   "facts": [
+    "Crude oil pipeline in the UAE.",
+    "Connects inland oil fields of Habshan to the port of Fujairah on the Gulf of Oman.",
+    "Bypasses the Strait of Hormuz.",
+    "Boosts UAE export flexibility and enables higher output amid Strait of Hormuz disruption risks.",
+    "India stands to gain from decreased oil prices.",
+    "Lower prices would reduce India's import costs and mitigate inflationary pressures.",
+    "The shift allows direct bilateral negotiations outside traditional cartel restrictions.",
+    "Supports India's de-dollarisation by encouraging energy settlements in rupees.",
+    "Heightened market volatility could complicate India's long-term energy budgeting."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Where is the headquarters of OPEC located?",
+  "OPEC was established at which conference?",
+  "Consider the following statements about OPEC:",
+  "Which of the following was NOT a founding member of OPEC?",
+  "Assertion (A): The UAE's exit reduces OPEC's collective ability to control global oil prices.",
+  "Consider the following statements:",
+  "Match List I with List II:",
+  "Which country terminated its OPEC membership in January 1995?",
+  "By 2027, what daily production level (in million barrels per day) does the UAE aim to reach?",
+  "Which port does the Habshan-Fujairah Pipeline connect the inland oil fields to?",
+  "With which regional oil producer does the UAE have long-standing tensions over OPEC production policy?",
+  "In which currency would the UAE's exit encourage energy settlements for India, supporting its de-dollarisation strategy?",
+  "In which year was the OPEC+ alliance formed?",
+  "Roughly what percentage of the world's crude oil does OPEC+ pump (in per cent)?",
+  "Which former OPEC member was suspended from the group in 1992?"
+ ]
+}

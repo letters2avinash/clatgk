@@ -1,0 +1,57 @@
+{
+ "key": "x08",
+ "topic": "World Press Freedom Index 2026",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-05/t08_world_press_freedom_index_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c5-t1-s1",
+   "title": "Index Overview and Methodology",
+   "summary": "The World Press Freedom Index is an annual report published by Reporters Without Borders (RSF), a non-profit organisation with headquarters in Paris. It has been published annually since 2002, and the 2026 edition is the 24th. The Index ranks 180 countries and regions on the level of freedom available to journalists, using a Press Freedom Questionnaire with five categories. Each country receives a score from 0 (worst) to 100 (best).",
+   "facts": [
+    "Published by Reporters Without Borders (RSF), a non-profit organisation",
+    "RSF was founded in 1985 and has its headquarters in Paris, France",
+    "Annual report since 2002; the 2026 edition is the 24th",
+    "Ranks 180 countries and regions by freedom available to journalists",
+    "Evaluates pluralism, media independence, legal framework and journalist safety",
+    "Press Freedom Questionnaire covers 5 categories",
+    "Each country gets a score from 0 (worst) to 100 (best)",
+    "Aim: safeguarding the right to freedom of information"
+   ]
+  },
+  {
+   "id": "2026-05-c5-t1-s3",
+   "title": "Challenges and Significance of a Free Press",
+   "summary": "Media in 160 of the 180 countries face financial instability, which threatens independent and unbiased reporting, and political instability is linked to declining media freedom. A free press is often described as the fourth pillar of democracy, giving voice to marginalised communities and sparking debate that can lead to reform. During the pandemic, media acted as a critical communication tool between governments and citizens. Under the Indian Constitution, press freedom flows from Article 19(1)(a) but remains subject to reasonable restrictions under Article 19(2).",
+   "facts": [
+    "Media in 160 of 180 countries face financial instability",
+    "Political instability is linked to decline in media freedom",
+    "Press is often called the 4th pillar of democracy, alongside legislature, judiciary and executive",
+    "Press acts as a bridge between the governed and the governing, especially for marginalised communities",
+    "Press sparks public debate, a precursor to legislative and social reform",
+    "During the pandemic, media was a critical communication tool between government and citizens",
+    "Freedom of press is treated as part of freedom of speech under Article 19(1)(a)",
+    "Article 19(2) allows reasonable restrictions, including on defamation, contempt of court and public order",
+    "Freedom of media is not an absolute freedom",
+    "In Romesh Thappar vs State of Madras (1950), the Supreme Court said freedom of press lies at the foundation of all democratic organisations"
+   ]
+  }
+ ],
+ "already_asked": [
+  "For how many consecutive years had Norway been top-ranked in the 2026 Index?",
+  "What score did Norway receive in the World Press Freedom Index 2026?",
+  "What percentage of countries face 'Difficult' or 'Very Serious' conditions for journalism?",
+  "Assertion (A): Global press freedom has declined in 2026.",
+  "Match List I with List II:",
+  "Consider the following statements about the World Press Freedom Index 2026:",
+  "How many of the following statements about the World Press Freedom Index 2026 are correct?",
+  "Which country was ranked second in the World Press Freedom Index 2026?",
+  "In which year was India's first newspaper, the Bengal Gazette, published? (year)",
+  "Who published the Bengal Gazette? (full name)",
+  "Which Act issued by Lord Wellesley in 1799 curbed the press? (name of Act)",
+  "Which 1835 Act is described as the liberator of the Indian press? (name of Act)",
+  "In which year was the Vernacular Press Act enacted to suppress Indian press freedom? (year)",
+  "In which year was the Press Council of India abolished during the Emergency? (year)",
+  "Under which Act was the Press Council of India established as a statutory quasi-judicial body in 1978? (name of Act with year)"
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "key": "x13",
+ "topic": "Miscellaneous",
+ "chapter": "Miscellaneous",
+ "text_file": "data/booklets/2026-06/t13_misc.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c7-t1-s2",
+   "title": "Environment, Energy and Space",
+   "summary": "The Western Ghats are set to get Ecologically Sensitive Area (ESA) notification, based largely on the Kasturirangan Committee's 2013 recommendations. The group also covers GRAPES-3, an India-Japan study of Earth's upper atmosphere, and the Energy Transition Index 2026 that ranks 120 countries.",
+   "facts": [
+    "The government is set to notify ESAs in the Western Ghats, nearly 13 years after the first draft notification.",
+    "The notification is based largely on the K. Kasturirangan Committee (2013) recommendations.",
+    "The Kasturirangan approach covers about 56,000 sq km, about 37% of the Western Ghats.",
+    "The Western Ghats extend about 1,600 km along the west coast across six states and are a UNESCO World Heritage Site.",
+    "New mining and quarrying projects, thermal power plants and red category industries are restricted in ESAs.",
+    "GRAPES-3 is a cosmic-ray observatory at Ooty (Tamil Nadu), operated by the Tata Institute of Fundamental Research.",
+    "Researchers from India and Japan used GRAPES-3 to track real-time changes in Earth's upper atmosphere.",
+    "The Energy Transition Index 2026 (WEF and Accenture) assesses 120 countries; India moved up two places to 70th.",
+    "Six G20 countries are in the Energy Transition Index top 20: Germany 9th, France 10th, UK 11th, China 14th, Brazil 17th, USA 19th."
+   ]
+  },
+  {
+   "id": "2026-06-c7-t1-s4",
+   "title": "Governance, Global Bodies and Peacekeeping",
+   "summary": "This group covers the FCRA Amendment Rules 2026, which tighten compliance for NGOs receiving foreign contributions. It also covers the FATF grey and black lists, the US-led Pax Silica initiative, and India's role in UN Peacekeeping.",
+   "facts": [
+    "The Ministry of Home Affairs notified the FCRA Amendment Rules 2026; the FCRA Act 2010 replaced the 1976 Act.",
+    "NGOs must register under one or more of 5 approved categories: social, economic, educational, cultural and religious.",
+    "FCRA registration is valid for 5 years and must be renewed before expiry; foreign contributions cannot be transferred to other persons or organisations.",
+    "NGOs must utilise at least 75% of previously released foreign funds before receiving the next instalment.",
+    "FATF was created in 1989 by the G7 and is headquartered in Paris; Vivek Aggarwal was appointed its next Vice-President, the first time India will hold that post.",
+    "FATF grey list covers jurisdictions under increased monitoring; the black list covers high-risk jurisdictions.",
+    "Pax Silica is a US-led initiative for secure supply chains of AI-critical technologies; India joined in February 2026.",
+    "India is the 4th largest troop contributor to UN Peacekeeping and was the first country to deploy an all-women contingent (2007).",
+    "Major Abhilasha Barak received the UN Military Gender Advocate of the Year Award 2025 for work in UNIFIL, Lebanon.",
+    "The International Day of UN Peacekeepers is observed on 29 May; the 2026 theme is Invest in Peace."
+   ]
+  },
+  {
+   "id": "2026-06-c7-t1-s5",
+   "title": "Awards, Rankings, Health and Heritage",
+   "summary": "This group covers the Padma Awards 2026 and their rules, the Pradhan Mantri Rashtriya Bal Puraskar and QS World University Rankings 2027. It also covers NFHS-6, International Day of Yoga 2026, the NCERT Dancing Girl restoration, and the proposed UNESCO nomination of Xuanzang's records.",
+   "facts": [
+    "Padma Awards 2026 conferred 131 honours, including 5 Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri.",
+    "Padma Awards were instituted in 1954 and reorganised in 1955 into three categories.",
+    "The maximum is 120 awards per year; the cap excludes posthumous awards, foreign nationals, NRIs and OCIs.",
+    "Padma selection: recommendation by a committee chaired by the Cabinet Secretary, review by the PM, final approval by the President.",
+    "PM Rashtriya Bal Puraskar honoured 19 children (ages 5-18); it was created in 2018 by merging two earlier awards.",
+    "QS World University Rankings 2027: MIT retained the top position for the 15th consecutive year; IIT Delhi is India's highest-ranked institution at 118th.",
+    "NFHS-6 (2023-24): institutional births rose from 88.6% to 90.6%; stunting declined from 35.5% to 29.3%.",
+    "International Day of Yoga 2026 was the 12th edition, held on 21 June with the theme Yoga for Healthy Ageing.",
+    "NCERT restored the original image of the Dancing Girl figurine, a bronze statuette of about 4,500 years, excavated from Mohenjo-daro.",
+    "India and China are in advanced discussions to jointly nominate Xuanzang's 'Great Tang Records on the Western Regions' for UNESCO recognition."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which authority chairs the Executive Council of India's Nuclear Command Authority?",
+  "Assertion (A): India signed a USD 5.43 billion agreement with Russia in 2018 for five S-400 regimental systems.",
+  "Match List I with List II:",
+  "Consider the following statements about the BrahMos missile:",
+  "How many of the following statements about India's nuclear milestones are correct?",
+  "Approximately what share of all nuclear warheads in the world is held collectively by the USA and Russia?",
+  "Which country was the first state ever to withdraw from the Convention on Cluster Munitions, in 2025?",
+  "At which centre is the BrahMos Integration and Testing Facility located?",
+  "What is the total length of the Zojila Tunnel (in km)?",
+  "In which year is the Zojila Tunnel expected to become operational?",
+  "How many item groups are covered in the revised IIP series?",
+  "How many products are covered in the revised IIP series?",
+  "Which port topped the liquid bulk category of the Logistics Port Performance Index FY 2024-25?",
+  "India's rank in the international shipments category of the World Bank Logistics Performance Index improved from which rank?",
+  "How many Indian ports featured among the world's top 100 in the Container Port Performance Index 2024?"
+ ]
+}

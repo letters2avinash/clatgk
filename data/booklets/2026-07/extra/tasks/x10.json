@@ -1,0 +1,55 @@
+{
+ "key": "x10",
+ "topic": "16th India-Japan Annual Summit 2026",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-07/t10_india_japan_summit_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c5-t1-s2",
+   "title": "India-Japan Partnership Beyond the Summit",
+   "summary": "Japan's support for Subhas Chandra Bose's Azad Hind Fauj, formed to fight colonial rule, is a historical link in the relationship. Japan is India's largest official development assistance donor and its fifth largest investor. The partnership also covers joint military exercises, a lunar space mission and several global initiatives.",
+   "facts": [
+    "Subhas Chandra Bose established Azad Hind Fauj (Indian National Army) with Japanese support to fight colonial rule",
+    "Bilateral trade in 2025-26: $27.48 billion",
+    "Japan is the 5th largest investor in India (FDI)",
+    "Japan is India's largest Official Development Assistance donor since 1958",
+    "Joint exercises: Malabar (naval, with US and Australia), Milan (multilateral naval), JIMEX (navy), Dharma Guardian (army), SHINYUU Maitri (air force)",
+    "Space: Lunar Polar Exploration Mission (LUPEX), also called Chandrayaan-5",
+    "Global programmes: International Solar Alliance; Coalition for Disaster Resilient Infrastructure; LeadIT; India-Japan-Australia Supply Chain Resilience Initiative",
+    "Frameworks listed under Skill-Up: Indo-Pacific Oceans Initiative, SAGAR, MAHASAGAR, QUAD, ASEAN, BIMSTEC, UNCLOS, G4 for UNSC Reform"
+   ]
+  },
+  {
+   "id": "2026-07-c5-t1-s4",
+   "title": "Green Hydrogen and the National Green Hydrogen Mission",
+   "summary": "Hydrogen is the most common element in nature but exists only in combination with other elements, so it must be extracted from compounds such as water. Green hydrogen is made by splitting water through electrolysis using an electrolyser powered by renewable energy, and the booklet says it is not commercially viable at present. The National Green Hydrogen Mission, with the Ministry of New and Renewable Energy as nodal ministry, aims to decarbonise sectors and build domestic manufacturing.",
+   "facts": [
+    "Hydrogen is the most common element in nature but exists only in combination with other elements",
+    "Hydrogen has to be extracted from naturally occurring compounds such as water",
+    "Green hydrogen: water is split by electrolysis using an electrolyser powered by renewable energy",
+    "Green hydrogen is not commercially viable at present",
+    "Nodal ministry: Ministry of New and Renewable Energy",
+    "Objectives: decarbonise energy, industrial and mobility sectors; develop indigenous manufacturing; create export opportunities for green hydrogen and its derivatives",
+    "SIGHT: Strategic Interventions for Green Hydrogen Transition Programme",
+    "SHIP: Strategic Hydrogen Innovation Partnership (PPP for R&D)",
+    "Expected by 2030: Rs 1 lakh crore in fossil fuel import savings"
+   ]
+  }
+ ],
+ "already_asked": [
+  "What investment target for Japan in India was mentioned in the summit outcomes?",
+  "The India-Japan Cooperative Biogas for Growth Initiative supports India's objective of establishing how many Biogas and Organic Fertiliser Plants?",
+  "In which year is India to host the 4th UN World Conference on Disaster Risk Reduction, for which Japan extended support?",
+  "Assertion (A): The India-Japan 2+2 Ministerial Meeting will be held at the level of foreign ministers alone.",
+  "Match List I with List II:",
+  "How many of the following statements about the summit outcomes are correct?",
+  "Consider the following statements about the Joint Declaration on Economic Security Cooperation:",
+  "What is the total length of the Mumbai-Ahmedabad High-Speed Rail Corridor? (in km)",
+  "How many stations does the corridor have in Gujarat? (number)",
+  "Which Japanese company designed the E10 Shinkansen train that India is to adopt? (name)",
+  "Japan's JICA loan finances more than what percentage of the project? (number, in per cent)",
+  "For how many years is the JICA loan repayable? (number)",
+  "How many Shinkansen train sets will Japan provide to India? (number)",
+  "By which year is the full Mumbai-Ahmedabad corridor to be completed? (year)"
+ ]
+}

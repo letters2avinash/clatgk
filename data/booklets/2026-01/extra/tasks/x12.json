@@ -1,0 +1,57 @@
+{
+ "key": "x12",
+ "topic": "PSLV-C62 Mission Failure",
+ "chapter": "Space",
+ "text_file": "data/booklets/2026-01/t12_pslv.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c7-t1-s3",
+   "title": "PSLV-C62 payloads",
+   "summary": "PSLV-C62 carried EOS-N1 (Anvesha), a hyperspectral imaging satellite developed for DRDO's Strategic Applications, and KID, a small re-entry prototype from a Spanish startup. It also carried AayulSAT, India's first on-orbit satellite refuelling payload. In total, 18 co-passenger satellites flew on the mission.",
+   "facts": [
+    "EOS-N1 (Anvesha): hyperspectral imaging satellite",
+    "EOS-N1 developed for DRDO's Strategic Applications",
+    "EOS-N1 intended orbit: Sun-synchronous orbit",
+    "KID (Kestrel Initial Demonstrator): small-scale re-entry vehicle prototype",
+    "KID developed by a Spanish startup",
+    "KID mission: re-entry and splashdown in the South Pacific Ocean",
+    "AayulSAT: India's 1st on-orbit satellite refuelling payload",
+    "AayulSAT developed by Bengaluru-based OrbitAID Aerospace",
+    "18 co-passenger satellites (domestic and international)",
+    "Commercial payloads from India, Mauritius, Luxembourg, UAE, Singapore, Europe and the US"
+   ]
+  },
+  {
+   "id": "2026-01-c7-t1-s4",
+   "title": "ISRO launch vehicles, private players and policy",
+   "summary": "India's launch vehicle family ranges from the early SLV and GSLV to the planned NGLV, which has a maximum payload capability of 30 tonnes. The SSLV serves small satellites and takes that load off the PSLV. Private firms such as Agnikul Cosmos are building their own rockets, which the Indian Space Policy 2023 allows.",
+   "facts": [
+    "SLV: ISRO's first satellite launch vehicle, followed by ASLV",
+    "GSLV: carries heavier satellites much deeper into space",
+    "NGLV: maximum payload capability of 30 tonnes",
+    "NGLV: about 3 times LVM3's payload capability at 1.5 times the cost",
+    "SSLV: suited to launching multiple microsatellites; shifts burden from PSLV",
+    "SSLV-D1 (2022) failed; SSLV-D2 (2023) succeeded",
+    "Agnikul Cosmos (founded 2017): SOrTeD is a two-stage suborbital demonstrator",
+    "Indian Space Policy 2023 lets private enterprises carry out end-to-end space activities",
+    "RHUMI-1: India's first reusable hybrid rocket, developed by Space Zone India"
+   ]
+  }
+ ],
+ "already_asked": [
+  "How many months passed between the PSLV-C61 setback and the PSLV-C62 failure? (in months)",
+  "Which organisation developed the EOS-N1 (Anvesha) satellite?",
+  "Match List I with List II:",
+  "Which of the above statements is/are correct?",
+  "How many of the following statements about PSLV-C62 and its payloads are correct?",
+  "Which PSLV flight carried Aditya-L1 into space?",
+  "Which Bengaluru-based company developed AayulSAT?",
+  "How many satellites did PSLV carry on a single flight in 2017? (in number)",
+  "In which year did PSLV achieve its first successful launch? (year)",
+  "Name the remote sensing satellite carried on PSLV's first successful launch.",
+  "What is PSLV's payload capability to a 600 km Sun-synchronous orbit? (in kg)",
+  "Which engine powers the liquid second stage of PSLV? (name of the engine)",
+  "Which PSLV launch, designated PSLV-Cxx, carried Aditya-L1 on 2 September 2023? (designation)",
+  "In which year was Chandrayaan-1, a PSLV-launched lunar probe, launched? (year)"
+ ]
+}

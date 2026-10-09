@@ -1,0 +1,57 @@
+{
+ "key": "x01",
+ "topic": "Protection of Aravalli Hills",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2025-12/t01_protection_aravalli_hills.txt",
+ "subtopics": [
+  {
+   "id": "2025-12-c1-t1-s2",
+   "title": "Ecological Services of the Range",
+   "summary": "The range works as a natural barrier that slows the eastward spread of the Thar Desert by blocking dust-laden desert winds. It deflects moisture-laden monsoon winds eastward, shields northern plains from cold, dry winter winds from Central Asia, and filters pollution for Delhi-NCR. Its fractured, weathered rocks let rainwater infiltrate and recharge aquifers in semi-arid regions.",
+   "facts": [
+    "Natural Great Green Wall: barrier against eastward spread of the Thar Desert",
+    "Blocks dust-laden desert winds",
+    "Monsoon modulator: deflects moisture-laden winds eastward toward the Indo-Gangetic Plains",
+    "Aids rainfall distribution in North India",
+    "Winter climate shield against cold, dry winds from Central Asia",
+    "Forested stretches absorb carbon dioxide in Delhi-NCR",
+    "Forested stretches trap PM2.5 and improve air quality",
+    "Highly fractured and weathered rocks enable rainwater infiltration",
+    "Recharges aquifers in semi-arid Rajasthan, Haryana and Gujarat",
+    "Habitat for over 300 plant species and 120 bird and animal species"
+   ]
+  },
+  {
+   "id": "2025-12-c1-t1-s3",
+   "title": "Mining Curbs and the 2025 Supreme Court Ruling",
+   "summary": "Protection measures began with 1990s mining restrictions and continued through Supreme Court orders, including a 2009 blanket mining ban in parts of Haryana and a 2024 order barring fresh leases. In 2025 the Court accepted a uniform scientific definition of an Aravalli hill, based on an MoEF&CC expert committee. The Forest Survey of India assessment found that over 90 per cent of the Aravalli landscape would be excluded under the 100 m threshold, which sparked fears of more mining and construction.",
+   "facts": [
+    "1990s: restrictions on mining",
+    "2009: SC blanket mining ban in parts of Haryana",
+    "MC Mehta vs Union of India: mining restricted and banned across large parts of the range",
+    "2024: SC order bars fresh leases; Central Empowered Committee tasked with scientific review",
+    "2025 definition based on MoEF&CC Expert Committee",
+    "Aravalli hill: landform rising 100 m or more above its immediate local terrain",
+    "Aravalli ranges: clusters of such hills within 500 m, including intervening areas",
+    "Mining banned in core/inviolate areas such as protected areas, ESZs, wetlands and tiger reserves",
+    "Freeze on new mining leases until a Management Plan for Sustainable Mining is prepared by the Indian Council of Forestry Research and Education",
+    "Over 90% of Aravalli landscape excluded by the 100 m threshold"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which peak is the highest in the Aravalli range, and in which state is it located?",
+  "Approximately how old is the Aravalli mountain system, the oldest in India?",
+  "What is the total length of the Aravalli range from Gujarat to Delhi?",
+  "Assertion (A): The Aravalli range is a source of valuable minerals such as copper and zinc.",
+  "Match List I with List II:",
+  "Consider the following statements about the Supreme Court's 2025 ruling on the Aravalli range:",
+  "How many of the following statements about the Aravalli range are correct?",
+  "What is the restoration target of the Aravalli Green Wall Project by 2027 (in million hectares)?",
+  "In which year was the Aravalli Green Wall Project launched?",
+  "Across how many districts does the Aravalli Green Wall Project cover (in number)?",
+  "Which national mission, part of the National Action Plan on Climate Change, aims to restore degraded ecosystems and enhance forest cover? (name the mission)",
+  "Under which programme is a 750-acre urban forest being developed in the Aravalli region?",
+  "What is India's Bonn Challenge target to restore degraded and deforested land by 2030 (in million hectares)?"
+ ]
+}

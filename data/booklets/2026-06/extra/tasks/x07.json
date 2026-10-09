@@ -1,0 +1,69 @@
+{
+ "key": "x07",
+ "topic": "Telegram Ban under Section 69A of IT Act 2000",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-06/t07_telegram_ban_section_69a.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c3-t3-s3",
+   "title": "Constitutional basis and judicial review",
+   "summary": "Digital free speech is protected under Article 19(1)(a), while Article 19(2) allows reasonable restrictions. In Shreya Singhal vs Union of India (2015), the Supreme Court upheld Section 69A as a narrowly drawn provision and struck down the vague Section 66A. Later rulings from the Delhi and Karnataka High Courts dealt with disclosure of blocking orders and with the rights of foreign companies.",
+   "facts": [
+    "Article 19(1)(a) protects digital free speech.",
+    "Article 19(2) allows the State to impose reasonable restrictions on free speech.",
+    "Shreya Singhal vs Union of India (2015): Supreme Court upheld Section 69A as a narrowly drawn provision.",
+    "The same judgment struck down the vague Section 66A.",
+    "Tanul Thakur vs Union of India (2022): Delhi High Court mandated disclosure of original blocking orders.",
+    "Tanul Thakur challenged the blanket confidentiality of Rule 16.",
+    "X Corp vs Union of India (2023): Karnataka High Court ruled that foreign companies cannot claim Article 19 rights to challenge blocking orders."
+   ]
+  },
+  {
+   "id": "2026-06-c3-t3-s4",
+   "title": "Intermediary duties and Safe Harbour",
+   "summary": "The IT Rules, 2021 require intermediaries to appoint a Grievance Officer, a Chief Compliance Officer and a Nodal Contact Person, and to carry out monthly compliance reporting. Section 79(3)(b) allows certain ministries to issue takedown or blocking orders directly, implemented through the Sahyog Portal. Safe harbour under Section 79 protects intermediaries from liability for third-party content only while they meet their duties.",
+   "facts": [
+    "IT Rules, 2021 require appointment of a Grievance Officer, Chief Compliance Officer and Nodal Contact Person.",
+    "Intermediaries must carry out monthly compliance and transparency reporting.",
+    "Unlawful content must be removed on government direction.",
+    "Section 79(3)(b) allows certain ministries to directly issue takedown or blocking orders.",
+    "Section 79(3)(b) orders are implemented through the Government's Sahyog Portal.",
+    "Section 79 grants online intermediaries immunity from liability for third-party content (safe harbour).",
+    "Safe harbour is available only if intermediaries exercise due diligence and comply with lawful government directions.",
+    "Failure to comply can lead to loss of safe harbour protection under Section 79."
+   ]
+  },
+  {
+   "id": "2026-06-c3-t3-s5",
+   "title": "DPDP Act 2023 and privacy",
+   "summary": "The Supreme Court held in 2017 that privacy is a fundamental right under Article 21. The Digital Personal Data Protection Act, 2023 makes data fiduciaries accountable and lets platforms collect only the data needed for the services users opt for. The Act defines three roles, allows penalties of up to 250 crore on data fiduciaries, and sets rules such as a 72-hour breach notification and a 3-year retention limit for certain platforms.",
+   "facts": [
+    "In 2017 the Supreme Court held that privacy is a fundamental right under Article 21.",
+    "A Data Fiduciary decides the purpose of processing personal data.",
+    "A Data Processor processes data on behalf of the Data Fiduciary.",
+    "A Data Principal is the individual whose data is processed.",
+    "Platforms may collect only the data required for their functioning and for services users have opted for.",
+    "A torch app does not need microphone or contact access.",
+    "Penalties of up to 250 crore can be imposed on Data Fiduciaries.",
+    "All data is categorised under three heads: general, sensitive and critical.",
+    "Data breaches must be notified to the Data Protection Board within 72 hours.",
+    "E-commerce, social media and gaming platforms must generally delete personal data after 3 years of user inactivity."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Under the DPDP Act 2023, what is the term for the individual whose data is processed?",
+  "Match List I with List II:",
+  "In Tanul Thakur vs Union of India (2022), the Delhi High Court challenged the blanket confidentiality of which Rule?",
+  "Consider the following statements:",
+  "In which year was Section 69A of the IT Act introduced?",
+  "Consider the following statements:",
+  "In which year was Section 69A introduced? (year)",
+  "In which year is the set of IT (Blocking Rules) that governs blocking requests dated? (year)",
+  "Name the review mechanism through which blocking requests are examined under the IT (Blocking Rules).",
+  "Which committee evaluates the necessity and legality of a proposed blocking action before it is implemented?",
+  "How many grounds for blocking under Section 69A are listed in the booklet? (in number)",
+  "Under which Article of the Constitution is digital free speech protected? (article number with sub-clause)",
+  "Which Supreme Court case upheld Section 69A as a narrowly drawn provision? (case name)"
+ ]
+}

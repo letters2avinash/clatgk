@@ -1,0 +1,59 @@
+{
+ "key": "x03",
+ "topic": "PM Modi Became India's Longest Continuously Serving Elected PM",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-06/t03_pm_modi_longest_continuous_elected_pm.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c2-t1-s3",
+   "title": "Appointment, Tenure and the Council of Ministers",
+   "summary": "The President appoints the PM but is not free in the selection, and normally invites the leader of the majority party in the Lok Sabha to form the government. If no single party has a clear majority, the President invites a person likely to command support of two or more parties that make up a Lok Sabha majority. The PM holds office during the pleasure of the President but cannot be dismissed while enjoying majority support in the Lok Sabha. Rules for the Council of Ministers include a 15% size cap and a six-month limit for ministers who are not in Parliament.",
+   "facts": [
+    "The President normally invites the leader of the majority party to form the government.",
+    "If no single party has a clear majority, the President invites a person who can command support of two or more parties forming a Lok Sabha majority.",
+    "The PM is normally the leader of the majority party in the Lok Sabha.",
+    "Some Members of the Rajya Sabha have been made Prime Minister.",
+    "The PM holds office during the pleasure of the President.",
+    "The President cannot dismiss the PM while he enjoys majority support in the Lok Sabha.",
+    "If the PM loses the confidence of the Lok Sabha, he must resign or the President can dismiss him.",
+    "The salary and allowances of the PM are determined by Parliament.",
+    "The size of the Council of Ministers cannot exceed 15% of the total strength of the Lok Sabha (91st Amendment, 2003).",
+    "A minister who is not in Parliament for six months will lose their position.",
+    "Article 88 allows ministers to take part in both Houses but does not guarantee them voting rights."
+   ]
+  },
+  {
+   "id": "2026-06-c2-t1-s4",
+   "title": "Modi's Firsts and Records in Context",
+   "summary": "Modi is the first Indian PM born after 15 August 1947 and the longest-serving PM from outside the Indian National Congress. He is among the few Indian PMs to secure three consecutive electoral mandates at the Union level. In 2014, the BJP-led NDA won an absolute majority of 336 out of 543 Lok Sabha seats, which the booklet calls the first Non-Congress single party majority government.",
+   "facts": [
+    "Modi is the first Indian PM born after 15 August 1947.",
+    "Modi is the longest-serving PM from outside the Indian National Congress.",
+    "Modi is among the few Indian PMs to secure 3 consecutive electoral mandates at the Union level.",
+    "Modi is the 3rd PM after Nehru and Indira Gandhi to serve 3 terms.",
+    "In 2014, the BJP-led NDA got an absolute majority of 336 out of 543 Lok Sabha seats.",
+    "The 2014 government is described as the first Non-Congress single party majority government.",
+    "The BJP became the first party since 1984 to get a majority in the Lok Sabha.",
+    "Morarji Desai was India's first Non-Congress PM and its oldest PM at 81 years.",
+    "Rajiv Gandhi was India's youngest PM at 40 years.",
+    "V.P. Singh was the first PM to leave office following a no-confidence vote."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Morarji Desai's birthday was celebrated only once every four years. On which date was he born?",
+  "Read the statements.",
+  "Whose uninterrupted tenure record did Modi surpass to become the longest continuously serving elected Prime Minister?",
+  "Which Article of the Constitution provides for a Council of Ministers headed by the Prime Minister to aid and advise the President?",
+  "After completing how many consecutive days in office did PM Narendra Modi become India's longest continuously serving elected Prime Minister?",
+  "Match List I with List II:",
+  "How many of the following statements about Narendra Modi are correct?",
+  "Which Article of the Constitution deals with the appointment, tenure and responsibilities of the Prime Minister and the Council of Ministers? (give the article number)",
+  "Under which Article can ministers take part in the proceedings of both Houses of Parliament without a guaranteed right to vote? (give the article number)",
+  "Under the 91st Amendment (2003), what is the maximum size of the Council of Ministers as a share of the total strength of the Lok Sabha? (in per cent)",
+  "After how many months out of Parliament does a minister lose their position? (in months)",
+  "Which Article provides for State Councils of Ministers led by the Chief Minister to assist and advise the Governor? (give the article number)",
+  "Which Prime Minister of India is described in the booklet as the first PM of South Indian origin, from Andhra Pradesh? (give full name)",
+  "Which Prime Minister is described in the booklet as India's first Sikh PM? (give full name)"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "key": "x04",
+ "topic": "Lindsey O. Graham Sanctioning Russia and Iran Act 2026",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-09/t04_lindsey_graham_act.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c1-t4-s1",
+   "title": "Passage and timeline",
+   "summary": "The United States enacted the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 after House passage and Senate approval. The House voted 262 to 159 on 16 September, and the President signed the Act into law on 18 September 2026. The measure matters for India because India remains one of the major buyers of Russian crude.",
+   "facts": [
+    "House of Representatives passed the legislation 262-159 on 16 Sep",
+    "The legislation followed Senate approval",
+    "Presidential signing into law on 18 Sep 2026",
+    "Act aims primarily at increasing economic pressure on Russia over the Ukraine War",
+    "Act also extends and strengthens certain sanctions against Iran",
+    "India is significant because it remains one of the major buyers of Russian crude"
+   ]
+  },
+  {
+   "id": "2026-09-c1-t4-s4",
+   "title": "Global and India implications",
+   "summary": "The measure illustrates growing use of secondary sanctions and tariff instruments to influence the behaviour of third countries. It could change global oil trade patterns as major buyers diversify suppliers and reconfigure energy contracts. For India, Russia is the top oil supplier, so potential tariffs complicate bilateral trade while India balances strategic autonomy with its energy interests.",
+   "facts": [
+    "Measure illustrates growing use of secondary sanctions and tariff instruments",
+    "Major buyers may diversify suppliers and reconfigure energy contracts",
+    "Buyers may increase purchases before potential tariff measures",
+    "Buyers may develop alternative payment and logistics arrangements",
+    "Russia is India's top oil supplier",
+    "Potential tariffs complicate India-U.S. bilateral trade and economic ties",
+    "Higher import bills drive up transport, logistics, manufacturing and consumer prices",
+    "Discounted crude improves economics, though replacing large volumes is logistically challenging",
+    "Balancing relationships with major powers while protecting national energy interests"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Compared with the original proposal, what is the enacted tariff ceiling for the largest purchasers of Russian oil and gas?",
+  "Assertion (A): India is significantly affected by the Act even though the law names no individual country.",
+  "Match List I with List II:",
+  "Consider the following statements about the Act:",
+  "How many of the following statements about the Act are correct?",
+  "Under the new Act, a presidential waiver requires:",
+  "In February 2026, what did the U.S. Supreme Court do to the broader tariff regime that included the earlier 25% punitive tariff on India?",
+  "The use of tariffs and sanctions to influence the behaviour of third countries is known as:",
+  "In which year did the U.S. Supreme Court strike down the broader tariff regime that included the earlier 25% punitive tariff on India? (year)",
+  "In which year was the Trade Expansion Act, under which Section 232 operates, enacted? (year)",
+  "Under which section of the Trade Act, 1974 can the USTR investigate foreign trade practices? (section number)",
+  "On which legal instrument was the earlier 25% punitive tariff on India based? (two words)",
+  "What must accompany a presidential waiver under the new Act when it is placed before Congress? (two words)",
+  "What tariff rate, in per cent, has the United States imposed on steel, aluminium and copper products? (number)",
+  "What tariff rate, in per cent, does India face in connection with a U.S. investigation into goods produced using forced labour? (number)"
+ ]
+}

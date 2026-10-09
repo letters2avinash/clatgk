@@ -1,0 +1,56 @@
+{
+ "key": "x14",
+ "topic": "AILET Corner: Current Affairs May 2026",
+ "chapter": "AILET Corner",
+ "text_file": "data/booklets/2026-05/t14_ailet_corner.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c8-t1-s2",
+   "title": "Defence and Border Infrastructure",
+   "summary": "The Kalam & Kavach 3.0 conference in New Delhi discussed India's defence transformation and military modernisation. DRDO and the Indian Air Force tested the TARA weapon system, which turns an unguided warhead into a precision-guided weapon. The Border Roads Organisation, established in 1960, builds infrastructure in high-altitude and strategically sensitive border areas.",
+   "facts": [
+    "Kalam & Kavach 3.0 was the 3rd edition of the defence conference, held in New Delhi and organised by the Ministry of Defence.",
+    "The conference is a high-level platform for India's defence transformation, military modernisation and future preparedness.",
+    "JAI stands for Jointness, Aatmanirbharta and Innovation.",
+    "TARA stands for Tactical Advanced Range Augmentation.",
+    "DRDO and the Indian Air Force conducted the maiden flight trial of the TARA weapon system.",
+    "TARA is an indigenous glide weapon system.",
+    "Its modular range-extension kit attaches to an existing unguided warhead to convert it into a precision-guided weapon.",
+    "The Border Roads Organisation was established in 1960 and is India's premier agency for border infrastructure.",
+    "BRO works in high-altitude, remote and strategically sensitive areas and has its headquarters in New Delhi.",
+    "BRO's Project Deepak (1961) operates in the Western Himalayas."
+   ]
+  },
+  {
+   "id": "2026-05-c8-t1-s4",
+   "title": "Governance, Crime Data and Remembrance",
+   "summary": "The Ministry of Information and Broadcasting, with the Indian Institute of Creative Technologies, launched a National AI Skilling Initiative for the creative sector, developed with Google and YouTube. The National Crime Records Bureau, set up in 1986 under the Ministry of Home Affairs, released Crime in India 2024, which covers offences under the Bharatiya Nyaya Sanhita alongside the IPC. A statue of Veera Pasi was unveiled in Raebareli to recognise the heroes of the 1857 revolt.",
+   "facts": [
+    "The National AI Skilling Initiative for the Creative Sector aims to build industry-ready AI capabilities in India's creative industries.",
+    "The initiative aims to strengthen India's creative economy and digital content ecosystem.",
+    "Target sectors are Media, Animation, Gaming, Digital Storytelling and Content Creation.",
+    "The initiative is developed in partnership with Google and YouTube and implemented by the Indian Institute of Creative Technologies.",
+    "The NCRB was established in 1986 and acts as India's central repository of crime and criminal data.",
+    "The NCRB functions under the Ministry of Home Affairs and its recommendations were based on the Tandon Committee and the National Police Commission.",
+    "The NCRB's Crime in India 2024 report includes offences registered under the Bharatiya Nyaya Sanhita alongside the IPC.",
+    "Veera Pasi was a warrior of the Pasi community of Uttar Pradesh who served as a commander under Rana Beni Madhav Baksh Singh.",
+    "Veera Pasi is remembered as a Dalit freedom fighter who took part in the Revolt of 1857 against British colonial rule."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which ministry implements the SEEDS initiative?",
+  "In which year did Bulgaria join the Eurozone as a recent addition?",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "How many of the following statements are correct?",
+  "Tea plantation workers in West Bengal invoked Article 24 of the constitution of which international body?",
+  "In which year was the Eurozone established under the Maastricht Treaty?",
+  "Which tiger reserve will host India's dedicated Human-Elephant Conflict Research Centre? (name of reserve)",
+  "In which year was Project Elephant launched by the Government of India? (year)",
+  "Which campaign promotes coexistence between humans and elephants? (name of campaign)",
+  "Which institute in Chennai is associated with India's Urban Testbed and Aerosol Observatory? (full name)",
+  "Which ministry inaugurated India's Urban Testbed and Aerosol Observatory under Mission Mausam? (ministry name)",
+  "Which state is set to establish India's dedicated Human-Elephant Conflict Research Centre? (name of state)"
+ ]
+}

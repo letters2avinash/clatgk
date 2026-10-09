@@ -1,0 +1,55 @@
+{
+ "key": "x01",
+ "topic": "U.S.-Iran Preliminary Peace Accord 2026",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-06/t01_us_iran_peace_accord.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c1-t1-s2",
+   "title": "Iran-U.S. nuclear diplomacy: JCPOA to 2018",
+   "summary": "The Joint Comprehensive Plan of Action (2015) set limits on Iran's nuclear programme in return for easing of international sanctions. The United States withdrew from the nuclear agreement in 2018. Iran then gradually scaled back its compliance with several JCPOA commitments.",
+   "facts": [
+    "JCPOA was concluded in 2015 between Iran and the P5+1 countries.",
+    "Iran agreed to restrict uranium enrichment activities under the JCPOA.",
+    "Iran agreed to reduce its nuclear stockpiles under the JCPOA.",
+    "Iran agreed to permit enhanced international inspections under the JCPOA.",
+    "In return, international economic and financial sanctions on Iran were eased.",
+    "In 2018, the United States withdrew from the nuclear agreement.",
+    "Iran gradually scaled back compliance with several JCPOA commitments.",
+    "The scaled-back commitments related mainly to uranium enrichment and nuclear monitoring."
+   ]
+  },
+  {
+   "id": "2026-06-c1-t1-s4",
+   "title": "IAEA: origins, objectives and leadership",
+   "summary": "The International Atomic Energy Agency was founded in 1957 and is an intergovernmental organization. It grew out of the 1953 Atoms for Peace speech by US President Dwight D. Eisenhower. Its objectives are to promote peaceful use of nuclear energy and to inhibit its use for military purposes.",
+   "facts": [
+    "IAEA was founded in 1957.",
+    "IAEA was born out of US President Dwight D. Eisenhower's Atoms for Peace speech to the UNGA in 1953.",
+    "IAEA is an intergovernmental organization.",
+    "Objective: to promote peaceful use of nuclear energy.",
+    "Objective: to inhibit use of nuclear energy for any military purpose.",
+    "IAEA was awarded the Nobel Peace Prize in 2005.",
+    "Head of the IAEA: Rafael Grossi.",
+    "Headquarters of the IAEA: Vienna, Austria."
+   ]
+  }
+ ],
+ "already_asked": [
+  "What is the status of the Islamabad MoU compared with a permanent peace treaty?",
+  "What is the duration of the negotiation process on nuclear issues, regional security and sanctions relief?",
+  "Assertion (A): The IAEA is headquartered in Vienna and works to promote the peaceful use of nuclear energy.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "How many of the following statements about the Islamabad MoU are correct?",
+  "In which year did the United States withdraw from the 2015 nuclear agreement with Iran?",
+  "Which international organisation, founded in 1957 and headquartered in Vienna, promotes the peaceful use of nuclear energy?",
+  "Under which strategic pillar is 'energy market benefits', including reduced oil price volatility, listed? Give the pillar number.",
+  "Which strategic pillar covers stimulated trade and investment? Give the pillar number.",
+  "Which waterway's reopening reduces freight and insurance costs for shipping?",
+  "The reintegration of which port is linked to a boost for the International North-South Transport Corridor (INSTC)?",
+  "Experts doubt a comprehensive settlement can be concluded within what timeframe, in months?",
+  "Persistent regional tensions with Israel are linked to which group, named in the booklet?",
+  "Lower crude oil prices would lower the inflationary pressures and current account deficit of which country?"
+ ]
+}

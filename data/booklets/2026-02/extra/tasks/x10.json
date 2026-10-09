@@ -1,0 +1,53 @@
+{
+ "key": "x10",
+ "topic": "NGT Clears Great Nicobar Mega Infrastructure Project",
+ "chapter": "Environment & Biodiversity",
+ "text_file": "data/booklets/2026-02/t10_ngt_great_nicobar_project.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c5-t1-s3",
+   "title": "Particularly Vulnerable Tribal Groups",
+   "summary": "A Particularly Vulnerable Tribal Group (PVTG), previously called a Primitive Tribal Group, is a sub-classification of Scheduled Tribes that is more vulnerable than a regular Scheduled Tribe. The Dhebar Commission set up the PTG category in 1973, and the Government renamed these groups PVTGs in 2006. PM-JANMAN, with an outlay of Rs. 24,000 crore, aims to improve their socio-economic conditions.",
+   "facts": [
+    "A PVTG is a sub-classification of Scheduled Tribe that is more vulnerable than a regular Scheduled Tribe.",
+    "PVTGs were previously known as Primitive Tribal Groups (PTGs).",
+    "The Dhebar Commission established the PTG category in 1973.",
+    "The Government of India renamed PTGs as PVTGs in 2006.",
+    "Salient features: technological backwardness, stagnant or declining population growth, low literacy, subsistence economy, challenging living conditions.",
+    "The Ministry of Tribal Affairs has identified 75 PVTGs across 18 states and one Union Territory.",
+    "PM-JANMAN has an outlay of Rs. 24,000 crore.",
+    "PM-JANMAN covers safe housing, clean drinking water, sanitation, health and nutrition, and road and telecom connectivity."
+   ]
+  },
+  {
+   "id": "2026-02-c5-t1-s4",
+   "title": "National Green Tribunal",
+   "summary": "The National Green Tribunal is a specialised environmental tribunal set up under the National Green Tribunal Act (2010), and India is the third country after Australia and New Zealand to do so. It provides relief and compensation for environmental damage, applying the polluter pays principle and sustainable development. Its decisions can be appealed in the Supreme Court within 90 days.",
+   "facts": [
+    "Set up under the National Green Tribunal Act (2010).",
+    "India is the third country, after Australia and New Zealand, to set up a specialised environmental tribunal.",
+    "Principal seat is in New Delhi; regional benches include Bhopal, Pune and Chennai.",
+    "Chairperson: a retired Supreme Court judge or High Court Chief Justice, appointed in consultation with the Chief Justice of India.",
+    "Judicial members: 10-20, exact number decided by the Central Government.",
+    "Hears civil cases under seven laws; excludes the Wildlife Protection Act 1972 and the Forest Rights Act 2006.",
+    "Appeals can be filed in the Supreme Court within 90 days.",
+    "Appeals must be disposed of within 6 months of filing."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which two national parks are associated with Great Nicobar Island?",
+  "Consider the following components of the Great Nicobar Mega Infrastructure Project:",
+  "Who is appointed as the Chairperson of the National Green Tribunal?",
+  "In which year was the Great Nicobar Mega Infrastructure Project launched?",
+  "Which ecosystem is mostly found on Great Nicobar Island and is expected to be affected by the project?",
+  "Match List I with List II:",
+  "What area of tropical rainforest is reported to be diverted, in sq. km (give the number)?",
+  "Roughly how many million trees is the project reported to cut (give the number)?",
+  "The proposed compensatory afforestation is located in which state?",
+  "Which Particularly Vulnerable Tribal Group is directly threatened by the project?",
+  "The Environmental Impact Assessment was based on data from how many seasons (in number)?",
+  "How many PVTGs has the Ministry of Tribal Affairs identified (in number)?",
+  "In which year did the Government rename Primitive Tribal Groups as PVTGs?"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "key": "x02",
+ "topic": "Myanmar President's India Visit",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-06/t02_myanmar_president_india_visit.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c1-t2-s2",
+   "title": "Historical Background",
+   "summary": "Much of India's North-East was under Burmese occupation until the Treaty of Yandaboo, signed in 1826 to end the Anglo-Burmese War of 1824-1826. The treaty established the current India-Myanmar boundary. General Sir Archibald Campbell signed it on behalf of the British.",
+   "facts": [
+    "Much of India's North-East Region was under Burmese occupation until the Treaty of Yandaboo.",
+    "The Treaty of Yandaboo was signed in 1826.",
+    "The treaty ended the Anglo-Burmese War of 1824-1826.",
+    "General Sir Archibald Campbell signed the treaty on behalf of the British.",
+    "The treaty established the current India-Myanmar boundary."
+   ]
+  },
+  {
+   "id": "2026-06-c1-t2-s4",
+   "title": "Connectivity Projects",
+   "summary": "The Kaladan Multi-Modal Transit Transport Project links Kolkata with Sittwe Seaport in Rakhine, Myanmar, via the Bay of Bengal. The India-Myanmar-Thailand Trilateral Highway runs from Moreh in Manipur through Myanmar to Mae Sot in Thailand. Both projects featured in the outcomes of the visit.",
+   "facts": [
+    "The Kaladan Multi-Modal Transit Transport Project links Kolkata with Sittwe Seaport in Rakhine, Myanmar.",
+    "The Kaladan project links India and Myanmar via the Bay of Bengal.",
+    "The India-Myanmar-Thailand Trilateral Highway is 1,360 km long.",
+    "The Trilateral Highway starts from Moreh in Manipur.",
+    "The Trilateral Highway passes through Myanmar before reaching Mae Sot in Thailand.",
+    "Both countries reaffirmed commitment to complete Kaladan at the earliest, and efforts to expedite the Trilateral Highway were announced."
+   ]
+  },
+  {
+   "id": "2026-06-c1-t2-s5",
+   "title": "Myanmar's Political Background",
+   "summary": "The military seized power in Myanmar on February 1, 2021, after alleging huge irregularities in the November parliamentary polls. Aung San Suu Kyi and other civilian leaders were taken into custody, and a one-year state of emergency was declared. The NLD had won landslide victories in 2015 and 2020.",
+   "facts": [
+    "The military seized power on February 1, 2021.",
+    "The military alleged huge irregularities in the November parliamentary polls.",
+    "The army declared a one-year state of emergency.",
+    "Myint Swe, a former general and the vice president, was to become acting president.",
+    "Aung San Suu Kyi and other civilian leaders were taken into custody hours before parliament was due to convene.",
+    "Internet and mobile phone communications were severely restricted and all banks were closed nationwide."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Assertion (A): India seeks to enhance its cooperation with Myanmar in line with its Act East Policy.",
+  "How many of the following statements about Myanmar's regional memberships are correct?",
+  "Consider the following statements about Myanmar's relations with India:",
+  "The Treaty of Yandaboo was signed on behalf of the British by whom?",
+  "Match List I with List II:",
+  "What is the total length of the India-Myanmar-Thailand Trilateral Highway?",
+  "Which Indian states share a boundary with Myanmar?",
+  "Which seaport in Myanmar does the Kaladan project link with Kolkata?",
+  "In which year did India and Myanmar sign their Treaty of Friendship? (year)",
+  "What is the length of the India-Myanmar land border? (in km)",
+  "Which trade agreement governs bilateral trade between India and Myanmar? (acronym)",
+  "Myanmar is an observer in which South Asian grouping? (acronym)",
+  "From which Indian town in Manipur does the India-Myanmar-Thailand Trilateral Highway start?",
+  "Along which sea does the India-Myanmar maritime boundary lie? (name)"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "key": "x09",
+ "topic": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+ "chapter": "Economics",
+ "text_file": "data/booklets/2026-07/t09_rbi_polymer_notes.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c4-t2-s2",
+   "title": "Advantages of Polymer Notes",
+   "summary": "Polymer notes are more resistant to tearing, less vulnerable to water and moisture, and more durable under frequent circulation. They can carry advanced anti-counterfeiting features that are much harder to replicate than on paper. Because individual notes last longer, fewer new notes need to be manufactured to keep supply steady.",
+   "facts": [
+    "More resistant to tearing.",
+    "Less vulnerable to water and moisture.",
+    "More durable under frequent circulation.",
+    "Capable of incorporating advanced anti-counterfeiting features.",
+    "Polymer notes remain usable for significantly longer periods.",
+    "Longer life means less frequent replacement cycles.",
+    "Fewer new notes need to be manufactured and issued to keep supply steady.",
+    "Polymer substrates allow security features that are much harder to replicate than on paper.",
+    "Less frequent replacement lowers the long-term environmental footprint."
+   ]
+  },
+  {
+   "id": "2026-07-c4-t2-s3",
+   "title": "Costs, Supply Chain and Environmental Challenges",
+   "summary": "Polymer notes cost significantly more to produce than paper currency, and their production cost is tied to global oil prices. The notes are made from polypropylene, and reliance on imported polypropylene creates import dependency. Plastic waste needs a specialised collection and recycling system, and the transition requires changes to ATMs, vending machines and cash-handling machines.",
+   "facts": [
+    "Polymer notes cost significantly more to produce than conventional paper currency.",
+    "Production cost is tied to global oil prices.",
+    "Polymer notes are made from polypropylene.",
+    "Reliance on imported polypropylene creates import dependency.",
+    "Unlike cotton-based paper, polymer notes raise concerns about plastic waste.",
+    "Plastic waste needs an effective specialised collection and recycling system.",
+    "Transition requires recalibration of ATMs, currency vending machines and automated cash-handling machines.",
+    "Changing to polymer notes creates substantial secondary expenses for banking and retail infrastructure."
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year did Australia introduce a complete series of polymer banknotes?",
+  "Consider the following statements about polymer banknotes:",
+  "Whose signature appears on the One Rupee Note in India?",
+  "Which of the following is NOT listed as a key characteristic of polymer banknotes?",
+  "Match List I with List II:",
+  "In which year was the Bharatiya Reserve Bank Note Mudran Private Limited established?",
+  "In which year did the RBI introduce the Clean Note Policy?",
+  "In which year was the Reserve Bank of India Act enacted as the principal legal framework for issuing banknotes?",
+  "How many currency printing presses does SPMCIL operate in India? (in number)",
+  "In which Indian city is the SPMCIL currency printing press in western India located?",
+  "In which Indian state is the BRBNMPL currency printing press at Mysuru located?",
+  "How many government-owned mints manufacture coins in India? (in number)"
+ ]
+}

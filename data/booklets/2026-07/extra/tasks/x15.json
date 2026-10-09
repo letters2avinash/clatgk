@@ -1,0 +1,73 @@
+{
+ "key": "x15",
+ "topic": "Miscellaneous",
+ "chapter": "Miscellaneous",
+ "text_file": "data/booklets/2026-07/t15_miscellaneous.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c8-t1-s1",
+   "title": "International Relations: Australia, Seychelles and the US",
+   "summary": "The Prime Minister's visit to Australia for the 3rd India-Australia Annual Leaders' Summit 2026 covered defence, nuclear supply, energy, cyber and sports cooperation. A State Visit to Seychelles, for its 50th National Day, produced digital payment, aid, health and legal agreements. The section also notes the 250th anniversary of US Independence celebrated on 4 July 2026.",
+   "facts": [
+    "3rd India-Australia Annual Leaders' Summit held in 2026",
+    "India-Australia bilateral trade reached about USD 50.2 billion in 2025",
+    "Renewed Joint Declaration on Defence and Security Cooperation replaced and expanded the 2009 Framework",
+    "Administrative arrangement under the 2014 Civil Nuclear Agreement enables regular supply of Australian uranium",
+    "Rooftop Solar Training Academy at PDEU Gandhinagar aims to train about 2000 women and youth",
+    "AustralianSuper announced an additional AUD 500 million for India's National Investment and Infrastructure Fund",
+    "Agreement between NPCI International Payments Limited and the Central Bank of Seychelles to facilitate UPI",
+    "India announced a US$175 million Special Economic Package and a Rupee-based Line of Credit worth 1,250 Crore for Seychelles"
+   ]
+  },
+  {
+   "id": "2026-07-c8-t1-s2",
+   "title": "Cybersecurity and Supercomputing",
+   "summary": "The Kudankulam nuclear plant faced an alleged ransomware data leak by World Leaks, which renewed concern about the security of critical infrastructure. India's response bodies include CERT-In, I4C, NCIIPC and the National Cyber Forensic Laboratory, while the UN Convention Against Cybercrime is the new global legal instrument. The section also records China's LineShine taking the top spot in the TOP500 supercomputer ranking.",
+   "facts": [
+    "Kudankulam Nuclear Power Plant in Tamil Nadu is India's largest nuclear power station",
+    "The alleged data leak was claimed by World Leaks, a ransomware group",
+    "Kudankulam reactors are Pressurised Water Reactors developed by NPCIL (India) and Rosatom (Russia)",
+    "CERT-In was established in 2004 in New Delhi as the national nodal agency for cybersecurity incidents",
+    "I4C was established in 2018 under the Ministry of Home Affairs",
+    "NCIIPC was set up in 2014 in New Delhi to protect Critical Information Infrastructure",
+    "National Cyber Forensic Laboratory in Hyderabad gives early-stage forensic help to State/UT Police",
+    "UN Convention Against Cybercrime is the first universal legal instrument; it enters into force 90 days after 40 States ratify",
+    "India is not a signatory to the Budapest Convention on Cybercrime (2001), which took effect in 2004",
+    "China's LineShine tops TOP500 at about 2.19 exaflops, located at the National Supercomputing Center in Shenzhen"
+   ]
+  },
+  {
+   "id": "2026-07-c8-t1-s5",
+   "title": "History, Sports, Awards and Education",
+   "summary": "The section covers the American Revolution, from the 1765 Stamp Act to the 1783 Treaty of Paris, and the 4 July 1776 Declaration of Independence. It also covers the 2026 Commonwealth Games in Glasgow, the 60th Jnanpith Award and the PGI 2.0 school education grading framework.",
+   "facts": [
+    "Stamp Act 1765: Britain's first internal tax on American colonists, levied on printed paper",
+    "Boston Tea Party (1773): colonists dumped 342 chests of tea into Boston Harbor",
+    "Battles of Lexington and Concord (1775) marked the beginning of the American Revolutionary War",
+    "Declaration of Independence adopted on 4 July 1776, drafted mainly by Thomas Jefferson",
+    "Battle of Saratoga (1777) helped Benjamin Franklin secure a French military alliance",
+    "Treaty of Paris (1783) formally ended the Revolutionary War",
+    "23rd Commonwealth Games: Glasgow, 23 July to 2 August 2026, 74 nations and territories, 10 sports",
+    "India's contingent has 125 members including para-athletes; no teams in 3x3 Basketball or Netball",
+    "R. Vairamuthu selected for the 60th Jnanpith Award, the first Tamil poet to receive it",
+    "PGI 2.0 uses grade bands instead of rankings; Chandigarh was the first State/UT to enter Uttam-3 (766/1000)"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which council of the proposed Viksit Bharat Shiksha Adhishthan prescribes minimum standards for establishing higher education institutions?",
+  "How many members does each council of the proposed Viksit Bharat Shiksha Adhishthan have?",
+  "To whom does the Special Officer for Linguistic Minorities, under Article 350B, report directly?",
+  "Assertion (A): Medical and legal education would fall under the regulatory reach of the proposed apex regulator.",
+  "Consider the following statements about the proposed higher education regulator and the Right to be Forgotten:",
+  "How many of the following statements about the National Commission for Minorities are correct?",
+  "In which year did the Supreme Court recognise the Right to Privacy as a Fundamental Right under Article 21 in the Puttaswamy case?",
+  "How many formal service sub-sectors does India's new monthly services index cover? (give a number)",
+  "In how many of the covered sub-sectors did growth reach double digits in April 2026? (give a number)",
+  "What is the base year of the new services production index? (give the financial year)",
+  "India's GNI per capita in 2025 was how many US dollars? (give the number, in US dollars)",
+  "By how many per cent did India's FDI inflows rise in 2025? (in per cent)",
+  "After the 2025 rise, what was India's rank among global FDI recipients? (give the ordinal number)",
+  "Since which year has India been classified as a Lower-Middle-Income economy by the World Bank? (give the year)"
+ ]
+}

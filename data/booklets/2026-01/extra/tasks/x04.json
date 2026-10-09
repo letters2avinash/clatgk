@@ -1,0 +1,69 @@
+{
+ "key": "x04",
+ "topic": "Diego Garcia and the Chagos Islands",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-01/t04_diegogarcia.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c1-t4-s1",
+   "title": "Sovereignty Deal and Diego Garcia Base",
+   "summary": "Britain has agreed to transfer sovereignty of the Chagos Islands to Mauritius, but the UK will retain sovereign rights over Diego Garcia. A joint UK-US military base there will remain operational for an initial period of 99 years. US concerns centre on strategic autonomy and base security, and Trump criticised the plan.",
+   "facts": [
+    "Britain has agreed to transfer sovereignty of the Chagos Islands to Mauritius.",
+    "The Chagos archipelago comprises 58 islands, with Diego Garcia the largest.",
+    "The UK retains sovereign rights over Diego Garcia under the agreement.",
+    "A joint UK-US military base on Diego Garcia will remain operational for an initial period of 99 years.",
+    "Diego Garcia is located in the Central Indian Ocean.",
+    "US concern: a sovereignty change may affect strategic autonomy and base security.",
+    "Trump criticised the UK plan, citing the strategic importance of the US military base.",
+    "The issue is sensitive because it pits decolonisation against security interests."
+   ]
+  },
+  {
+   "id": "2026-01-c1-t4-s3",
+   "title": "Colonial History of the Chagos Islands",
+   "summary": "Portuguese navigators discovered the Chagos Islands in the 16th century, and the islands later came under French control. After Napoleon's defeat, Britain took control of both Chagos and Mauritius, and France ceded the islands to Britain in 1814. Mauritius later argued that it had been coerced into giving up the islands, in violation of UN Resolution 1514.",
+   "facts": [
+    "Portuguese navigators discovered the Chagos Islands in the 16th century.",
+    "The Chagos Islands later came under French control.",
+    "After Napoleon's defeat, Britain took control of both Chagos and Mauritius.",
+    "In 1814, France ceded the islands to Britain.",
+    "Mauritius argued that it was coerced into giving up the islands during colonial rule.",
+    "UN Resolution 1514 prohibited the breakup of colonies before independence.",
+    "The UK claimed that the ICJ had no jurisdiction over the matter.",
+    "Mauritius is a former British and French colony that gained independence from British rule in 1968."
+   ]
+  },
+  {
+   "id": "2026-01-c1-t4-s5",
+   "title": "MAHASAGAR and Maritime Initiatives",
+   "summary": "MAHASAGAR is an Indian Navy initiative launched in 2023 that builds on India's 2015 SAGAR maritime doctrine. It widens the focus from India's immediate neighbourhood to the broader Global South, with trade, security, technology and finance as key areas. New tools under it include the IOS Sagar platform and the AIKEYME naval exercise with African nations.",
+   "facts": [
+    "MAHASAGAR builds on India's 2015 Maritime Doctrine, SAGAR.",
+    "MAHASAGAR was launched by the Indian Navy in 2023.",
+    "MAHASAGAR widens the scope of SAGAR from India's immediate maritime neighbourhood to the broader Global South.",
+    "MAHASAGAR's key focus areas are trade for development, mutual security, technology sharing and financial assistance.",
+    "MAHASAGAR is a bi-annual initiative that convenes naval chiefs and maritime officials from littoral states.",
+    "IOS Sagar uses the INS Sunayna platform to deepen naval cooperation with Indian Ocean littorals.",
+    "AIKEYME is a large-scale naval exercise with African nations.",
+    "AIKEYME means Unity in Sanskrit, symbolising solidarity with African partners."
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year did the UK declare the Chagos Islands a British Indian Ocean Territory?",
+  "Between which years were native Chagossians forcibly removed from the islands?",
+  "Under which convention did the Permanent Court of Arbitration rule that the UK had violated Mauritius' rights?",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements:",
+  "In which year did the UN General Assembly vote on Mauritius' resolution to seek an ICJ advisory opinion?",
+  "In which year were diplomatic relations between India and Mauritius established?",
+  "In which year did Mahatma Gandhi visit Mauritius?",
+  "In which year was the Indira Gandhi Centre for Indian Culture established in Mauritius?",
+  "Mauritius was the second largest source of FDI into India in FY 2024-25, after which country?",
+  "What was the bilateral trade between India and Mauritius in FY 2024-25 (in USD million)?",
+  "India upgraded the airstrip of which island into a full-length airfield?",
+  "In which year was the Comprehensive Economic Cooperation and Partnership Agreement signed between India and Mauritius?"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "key": "x01",
+ "topic": "Houthi Rebels Capture Strategic Port City Mokha in Yemen",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-09/t01_houthi_mokha.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c1-t1-s1",
+   "title": "Capture of Mokha and Red Sea stakes",
+   "summary": "Iran-backed Houthi forces seized the Red Sea port city of Mokha in Taiz Governorate, along with Perim and Zuqar islands. Mokha lies about 80 km from the Bab el-Mandeb Strait, which links the Red Sea with the Gulf of Aden, so Houthi control of the area threatens shipping routes between Asia and Europe. Government forces withdrew south towards Dhubab, while Houthi forces advanced towards the Hanish Islands.",
+   "facts": [
+    "Houthis, an Iran-backed group, seized Mokha port city in Taiz Governorate.",
+    "Houthis also seized Perim and Zuqar Islands in Yemen.",
+    "Mokha is located about 80 km from the Bab el-Mandeb Strait.",
+    "Bab el-Mandeb Strait links the Red Sea with the Gulf of Aden.",
+    "After Mokha fell, government forces moved south towards Dhubab.",
+    "Houthi forces advanced towards the Hanish Islands in the Red Sea.",
+    "Saudi Arabia shut its East-West Oil Pipeline after drone strikes from Iraq.",
+    "Earlier Houthi attacks on Red Sea shipping forced some vessels onto longer routes around Africa.",
+    "Renewed fighting caused civilian displacement and disrupted local supply lines."
+   ]
+  },
+  {
+   "id": "2026-09-c1-t1-s4",
+   "title": "North-South divide and southern separatism",
+   "summary": "Yemen existed as two separate states until 1990, when the North and South merged under Ali Abdullah Saleh. Power stayed heavily centralised after unification, which fuelled southern resentment and led to an attempted secession and brief civil conflict in 1994. The Southern Movement (Al-Hirak) formed in 2007, and the UAE-backed Southern Transitional Council now seeks autonomy or independence for the south.",
+   "facts": [
+    "Until 1990, Yemen existed as two countries: the Yemen Arab Republic (North) and the People's Democratic Republic of Yemen (South).",
+    "North Yemen was supported by the US and Saudi Arabia; South Yemen was backed by the Soviet Union.",
+    "In 1990 the two states merged to form the Republic of Yemen.",
+    "Ali Abdullah Saleh had governed North Yemen since 1978 and became President of the unified state.",
+    "Centralised power after unification created resentment in the south.",
+    "By 1994 southern leaders attempted secession, leading to a brief civil conflict.",
+    "The Southern Movement (Al-Hirak) formed in 2007 and demands greater autonomy or independence.",
+    "The Southern Transitional Council is backed by the UAE and has expanded influence in Hadramout and Mahra.",
+    "A pro-government military bloc opposes the STC's separatist agenda and receives backing from Saudi Arabia."
+   ]
+  },
+  {
+   "id": "2026-09-c1-t1-s5",
+   "title": "Mukalla strike and UAE troop withdrawal",
+   "summary": "Saudi Arabia carried out airstrikes on Mukalla Port in southern Yemen after a consignment from Fujairah in the UAE arrived there, which Riyadh alleged contained arms for separatist groups. The UAE rejected the allegation, saying the vehicles were meant exclusively for its own forces. The UAE then pulled its troops out, citing security risks, a counter-terrorism-only mandate and the view that Yemen's future should be decided by Yemenis.",
+   "facts": [
+    "Saudi Arabia carried out airstrikes on Mukalla Port in southern Yemen.",
+    "The strike followed the arrival of a consignment from Fujairah (UAE).",
+    "Riyadh alleged the consignment contained arms meant for southern separatist groups.",
+    "The UAE said the shipment consisted of vehicles meant exclusively for UAE forces.",
+    "The UAE termed the claims of an arms transfer to separatists unfounded.",
+    "Security concern: escalating airstrikes raised risks to UAE personnel in the region.",
+    "Limited mandate: the UAE's military presence in Yemen is confined to counter-terrorism operations.",
+    "Political messaging: Yemen's future political structure should be determined by Yemenis themselves."
+   ]
+  }
+ ],
+ "already_asked": [
+  "What is the official name of the Houthi movement?",
+  "Which religious group primarily makes up the Houthi movement?",
+  "Who was the founder of the Houthi movement?",
+  "Read the two statements and choose the correct option.",
+  "Match List I with List II:",
+  "Consider the following statements about the Houthi movement:",
+  "How many of the following statements about the Houthi movement are correct?",
+  "In which year did the Houthis capture Sanaa, forcing President Hadi to flee abroad in 2015?",
+  "The Stockholm Agreement was reached on which day of December 2018? (day of the month)",
+  "Under which UN Security Council resolution number was the Stockholm Agreement endorsed?",
+  "How many main components does the Stockholm Agreement have? (number)",
+  "Under the Hodeidah ceasefire, the withdrawal of forces is overseen by a committee chaired by which organisation? (acronym)",
+  "Under the Hodeidah ceasefire, which party was to withdraw from the ports and Hodeidah City? (one word)",
+  "In which year did the Saudi-led military intervention in Yemen begin? (year)",
+  "From midnight on which day of December 2018 did the Hodeidah ceasefire take effect? (day of the month)"
+ ]
+}

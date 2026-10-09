@@ -1,0 +1,55 @@
+{
+ "key": "x08",
+ "topic": "SEMICON India 2026",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-09/t08_semicon_india_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c3-t1-s1",
+   "title": "Why Semiconductors Matter",
+   "summary": "Semiconductors are foundational to modern technology and are used in automobiles, healthcare, defence, aerospace, telecommunications and consumer electronics. Chips with billions of transistors power high-performance computing and artificial intelligence, within a global electronics industry valued at approximately USD 4.3 trillion. COVID-19 exposed the risks of concentrated global supply chains, which has pushed countries to build domestic capabilities.",
+   "facts": [
+    "Semiconductors are used in automobiles, healthcare, defence, aerospace, telecommunications and consumer electronics.",
+    "Availability of semiconductor components directly influences the resilience of digital and industrial supply chains.",
+    "Modern chips can contain billions of transistors within extremely small areas.",
+    "Leading-edge processors based on 3-nanometre technology can integrate tens of billions of transistors.",
+    "Such capabilities support high-performance computing, artificial intelligence and advanced digital applications.",
+    "The global electronics industry is valued at approximately USD 4.3 trillion.",
+    "COVID-19 exposed vulnerabilities arising from concentration in global semiconductor supply chains.",
+    "Countries have sought to develop domestic semiconductor capabilities and diversify sources.",
+    "Materials with conductivity between conductors and insulators, such as silicon and germanium, are semiconductors."
+   ]
+  },
+  {
+   "id": "2026-09-c3-t1-s2",
+   "title": "SEMICON India Conference and Programme 1.0",
+   "summary": "SEMICON India is an annual flagship conference and exhibition that showcases India's semiconductor capabilities, and the 2026 edition is the fifth. PM Modi inaugurated it at Yashobhoomi, New Delhi, under the theme 'Silicon to Systems: Building the Ecosystem'. The Semicon India Programme, launched in 2021, aims to establish a complete semiconductor ecosystem in India, with focus on chip design, fabrication, advanced packaging, talent development, and research and innovation.",
+   "facts": [
+    "SEMICON India is an annual flagship semiconductor conference and exhibition.",
+    "The first edition of SEMICON India was held in Bengaluru in 2022.",
+    "The 2026 edition of SEMICON India is the fifth edition.",
+    "PM Modi inaugurated SEMICON India 2026 at Yashobhoomi, New Delhi.",
+    "The theme of SEMICON India 2026 is 'Silicon to Systems: Building the Ecosystem'.",
+    "SEMICON India is organised by the India Semiconductor Mission, the Ministry of Electronics and Information Technology and SEMI.",
+    "The Semicon India Programme was launched in 2021.",
+    "The objective of the programme is to establish a complete semiconductor ecosystem in India.",
+    "The programme focuses on chip design, fabrication, advanced packaging, talent development, and research and innovation."
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which month and year was Semicon India Programme 2.0 approved?",
+  "What is the enhanced outlay of Semicon India Programme 2.0?",
+  "How many semiconductor projects have been approved across 6 States under Programme 2.0?",
+  "Assertion (A): Semicon India Programme 2.0 is intended to support the semiconductor sector only for a short period.",
+  "Match List I with List II:",
+  "Consider the following statements about Semicon India Programme 2.0:",
+  "Under which two programmes was the ChipIN Centre at C-DAC established?",
+  "In which year did India sign the India-US iCET deal? (year)",
+  "What budgetary provision, in crore rupees, has been made for FY 2026-27 to support India Semiconductor Mission 2.0? (number)",
+  "For how many years does the Design-Linked Incentive scheme provide support to semiconductor design companies? (in years)",
+  "What is the name of the coalition India joined to strengthen global semiconductor supply-chain resilience? (two words)",
+  "What range of domestic production-linked incentives does the PLI scheme offer to mobile phone and specified component makers? (in per cent)",
+  "At which institution was the ChipIN Centre established? (short name)"
+ ]
+}

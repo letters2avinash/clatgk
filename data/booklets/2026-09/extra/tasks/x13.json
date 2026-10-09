@@ -1,0 +1,57 @@
+{
+ "key": "x13",
+ "topic": "Global Gender Gap Index 2026",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-09/t13_global_gender_gap_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c5-t4-s3",
+   "title": "India's Performance",
+   "summary": "India retained its 131st position among 145 countries, with an overall gender parity score of 64.5%. Its dimension scores are 96.6% in educational attainment, 95.6% in health and survival, 41.2% in economic participation and opportunity, and 24.5% in political empowerment. Women hold only 5.9% of ministers and 13.1% of senior leadership and managerial positions. The booklet notes that progress in education and health has not yet carried over to the economic and political dimensions.",
+   "facts": [
+    "India's rank: 131st of 145 countries, retaining its position",
+    "Overall gender parity score 64.5%, against a global average of 69.2%",
+    "Educational attainment: 96.6% parity",
+    "Health and survival: 95.6% parity",
+    "Economic participation and opportunity: 41.2%",
+    "Political empowerment: 24.5%",
+    "Women are 5.9% of ministers, compared with a peak of 30% in 2019",
+    "Women are 13.6% (74) of the 18th Lok Sabha in 2024, down from 14.4% in 2019",
+    "Women occupy 13.1% of senior leadership and managerial positions",
+    "Only 17% of CEOs and 20% of board members in Indian corporates are women"
+   ]
+  },
+  {
+   "id": "2026-09-c5-t4-s4",
+   "title": "Barriers and Government Initiatives",
+   "summary": "Women spend nearly five hours a day on unpaid household chores, three times more than men, and this unpaid work is valued at 22.7 lakh crore or 7.5% of GDP. Labour market, workplace safety and childcare issues continue to hinder women's participation. The Nari Shakti Vandan Adhiniyam mandates 33% representation for women in legislatures. Schemes such as Beti Bachao Beti Padhao, PM Matru Vandana Yojana and Pradhan Mantri Jan-Dhan Yojana support girls' education, maternal health and financial access.",
+   "facts": [
+    "Women spend nearly 5 hours daily on unpaid household chores, three times more than men",
+    "Unpaid work is valued at 22.7 lakh crore, or 7.5% of GDP",
+    "Most women are in informal, low-paid roles despite rising participation",
+    "Workplace safety concerns and inadequate childcare are major hurdles",
+    "40% of girls aged 15-18 are not in school",
+    "Female labour participation grew from 23.3% (2017-18) to 41.7% (2023-24)",
+    "Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment, 2023) mandates 33% representation for women in legislatures",
+    "Beti Bachao Beti Padhao (2015) targets the falling child sex ratio",
+    "Over 28 crore women have Jan Dhan bank accounts",
+    "Maternal health programmes have cut the maternal mortality rate from 174 to 97"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which country retained the first position for the 17th consecutive year?",
+  "In which year was the Global Gender Gap Report introduced?",
+  "Consider the following statements about the Global Gender Gap Report:",
+  "Assertion (A): The World Economic Forum was founded by Klaus Schwab in 1971.",
+  "The 2026 Global Gender Gap Report is which edition?",
+  "How many of the following statements about the index's dimensions are correct?",
+  "How many countries does the 2026 index cover?",
+  "For how many consecutive years has Iceland retained the first position? (in years)",
+  "Which country ranked last among the 145 countries covered in the 2026 index?",
+  "What share of the overall global gender gap has the world closed? (in per cent)",
+  "At the present rate of progress, approximately how many years would complete global gender parity take? (in years)",
+  "What per cent of CEO positions globally are held by women? (in per cent)",
+  "Which country entered the global top 10 for the first time in 2026?"
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "key": "x11",
+ "topic": "UN Sustainable Development Report 2026",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-07/t11_un_sdr_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c5-t2-s3",
+   "title": "SDR 2026 findings and India's position",
+   "summary": "The 11th Sustainable Development Report 2026, released by the UN Sustainable Development Solutions Network, ranks countries on their SDG performance using a 0-100 score. India moved up to 94th place with an overall SDG Index score of 68.3 out of 100. Nearly half of all targets show only slow or limited progress, and the report identifies Zero Hunger as India's most critical development challenge.",
+   "facts": [
+    "11th Sustainable Development Report 2026, released by UN SDSN",
+    "Annual assessment of SDG progress, published since 2016",
+    "Assesses 193 UN Member States on a 0-100 SDG score",
+    "India ranked 94th, its highest position to date",
+    "India's overall SDG Index score: 68.3 out of 100",
+    "India improved from 112th position in 2015 to 94th in 2026",
+    "Approx 33.3% of India's SDG targets are expected to be achieved by 2030",
+    "Nearly half of all targets show only slow or limited progress",
+    "About 15% of targets have experienced setbacks compared with their 2015 baseline",
+    "Top performers: Finland, Sweden, Denmark; lowest: Chad, Central African Republic, South Sudan"
+   ]
+  },
+  {
+   "id": "2026-07-c5-t2-s4",
+   "title": "Climate finance",
+   "summary": "Climate finance refers to financing from public, private or alternative sources that supports mitigation and adaptation against climate change. It rests on the Polluter Pays principle and CBDR-RC, and multilateral climate funds are coordinated by the UNFCCC. Persistent challenges include gaps between national needs and funding, slow approvals and much lower per-capita approved funding for Least Developed Countries.",
+   "facts": [
+    "Climate finance: local, national or transnational financing for climate action",
+    "Sources: public, private or alternative financing",
+    "Principles: Polluter Pays, and Common but Differentiated Responsibility and Respective Capability (CBDR-RC)",
+    "Multilateral climate funds are coordinated by the UNFCCC",
+    "Global Environment Facility (GEF): operating entity of the financial mechanism (1994)",
+    "Adaptation Fund gives developing countries full ownership of adaptation projects",
+    "Clean Development Mechanism: emission-reduction projects in developing nations",
+    "Green Climate Fund estd. 2010 (COP 16), with LDCF and SCCF under it",
+    "Loss and Damage Fund (2023): financial assistance to nations most affected by climate change",
+    "Challenges: slow rate of approvals and gaps between national needs and NDC finance"
+   ]
+  },
+  {
+   "id": "2026-07-c5-t2-s5",
+   "title": "Panchayat Advancement Index 2.0",
+   "summary": "The Panchayat Advancement Index 2.0 is a nationwide performance assessment framework for Gram Panchayats and Traditional Local Bodies. It grades local bodies from A+ to D on a composite score from 0 to 100. Tripura had the highest share of Front Runners, and no Gram Panchayat reached the Achiever grade.",
+   "facts": [
+    "Nationwide performance assessment framework for Gram Panchayats and Traditional Local Bodies",
+    "Recognised as the first comprehensive index globally to evaluate rural local governance",
+    "Uses objective and verifiable indicators",
+    "Based on a composite score from 0 to 100",
+    "Achiever (A+) above 90; Front Runner (A) 75-89",
+    "Performer (B) 60-74; Aspirant (C) 40-59; Beginner (D) below 40",
+    "Translates 17 SDGs into 9 localised SDGs",
+    "Ministry of Panchayati Raj localises SDGs through this index",
+    "Top performers: Tripura (highest share of Front Runners), then Kerala and Odisha",
+    "No Gram Panchayat could reach the Achiever category"
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year was the 2030 Agenda for Sustainable Development adopted?",
+  "How many Specific Targets support the 17 Sustainable Development Goals?",
+  "Which 2002 summit is also known as Rio+10?",
+  "Assertion (A): The 2030 Agenda was adopted at the 1992 Earth Summit in Rio de Janeiro.",
+  "Match List I with List II:",
+  "Consider the statements:",
+  "How many of the following statements are correct?",
+  "How many UN Member States adopted the 2030 Agenda for Sustainable Development?",
+  "How many Guiding Principles does the Rio Declaration set out? (answer in number)",
+  "Which Brazilian city hosted the 1992 UN Conference on Environment and Development? (name the city)",
+  "Which non-binding action plan for sustainable development came out of the Earth Summit? (name it, two words)",
+  "In which year was the Rio+20 Conference held? (year)",
+  "Which city hosted the 2002 World Summit on Sustainable Development, also known as Rio+10? (one word)",
+  "Which agreement, whose foundation was partly laid by the Earth Summit, is listed with the year 2015? (name it in two words)"
+ ]
+}

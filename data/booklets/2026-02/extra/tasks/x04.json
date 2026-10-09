@@ -1,0 +1,74 @@
+{
+ "key": "x04",
+ "topic": "Manipur Gets Elected Government After President's Rule",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-02/t04_manipur_chief_minister.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c2-t1-s2",
+   "title": "Kuki-Zomi and Meitei Violence",
+   "summary": "Violence erupted between Kuki-Zomi tribals and the Meitei community, the first clash of its kind in three decades in Manipur. A key trigger was the Meitei demand for Scheduled Tribe (ST) status, which has persisted since 2012. A 2023 High Court direction to consider that request added to tensions with Kuki groups.",
+   "facts": [
+    "Violence between Kuki-Zomi tribals and Meitei community",
+    "First clash of this kind in three decades in Manipur",
+    "Demand for ST status for Meitei community persisted since 2012",
+    "Meitei Tribe Union petitioned Manipur High Court for tribal status",
+    "Meiteis lost tribal status after the 1949 merger",
+    "High Court judge directed state to consider Meitei ST request in 2023",
+    "Kukis fear ST status would allow Meiteis to buy land in prohibited hill areas",
+    "State evicted 16 Kuki households over forest encroachment, sparking protests",
+    "State withdrew from suspension of operations agreement with KNA and ZRA in March 2023"
+   ]
+  },
+  {
+   "id": "2026-02-c2-t1-s3",
+   "title": "Historical Background and Divides",
+   "summary": "Meiteis make up 52 per cent of Manipur's population and live mainly in valley areas covering about 10 per cent of the state. Hill areas cover 89 per cent of the land but have only 20 of the 60 assembly seats, while Meiteis hold 40. Meiteis are restricted from buying land in about 90 per cent of Manipur, whereas tribals can buy land in the Imphal Valley.",
+   "facts": [
+    "Meiteis comprise 52 per cent of Manipur's population",
+    "Valley areas cover just 10 per cent of the state",
+    "Hill areas cover 89 per cent of the state's land",
+    "Hill areas have 20 MLAs; Meiteis hold 40 of 60 assembly seats",
+    "Meiteis restricted from buying land in 90 per cent of Manipur",
+    "Tribals can buy land in Imphal Valley",
+    "Nagas and Kukis demand greater political autonomy or separate administrative units",
+    "Meitei concerns over inaccurate 2020 census figures and delimitation process",
+    "Concern over rapid growth of villages in Churachandpur due to migrants"
+   ]
+  },
+  {
+   "id": "2026-02-c2-t1-s5",
+   "title": "Key Records and Judicial Review",
+   "summary": "Manipur has had President's Rule the most number of times, 11, followed by UP, J&K and Punjab. The first three instances were in Punjab, PEPSU and Andhra. In S.R. Bommai vs Union of India (1994), the Supreme Court held that the President's power to dismiss a state government is not absolute.",
+   "facts": [
+    "First three President's Rule: Punjab (1951), PEPSU (1953), Andhra (1954)",
+    "Most instances: Manipur (11), UP (10), J&K (9), Punjab (8)",
+    "Longest total duration: J&K, then Punjab, then Puducherry",
+    "Shortest total duration: Uttarakhand",
+    "Longest single period: J&K",
+    "Shortest single periods: West Bengal, Bihar, Maharashtra",
+    "38th Amendment Act of 1975 made the President's satisfaction final and not challengeable in any court",
+    "Beyond 1 year, extension needs a National Emergency in operation and Election Commission certification",
+    "S.R. Bommai vs Union of India (1994): power to dismiss a state government is not absolute",
+    "Till Parliament approves, President can only suspend the Legislative Assembly"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which state has experienced President's Rule the most number of times?",
+  "Which constituency is represented by Deputy Chief Minister Losii Dikho?",
+  "How many of the following statements about President's Rule are correct?",
+  "Consider the following statements about President's Rule in India:",
+  "Who was sworn in as the 13th Chief Minister of Manipur?",
+  "Assertion (A): Manipur became a Union Territory before it attained full statehood.",
+  "Under which Article can the President issue a proclamation if a state fails to comply with directions from the Centre?",
+  "Match List I with List II:",
+  "What is the maximum overall period, in years, for which President's Rule can be extended? (in years)",
+  "Within how many months of its issue must both Houses of Parliament approve a proclamation of President's Rule? (in months)",
+  "For how many months does President's Rule continue after both Houses approve it? (in months)",
+  "Which state has experienced President's Rule the most number of times?",
+  "Name the 1994 Supreme Court case which held that the President's power to dismiss a State Government is not absolute.",
+  "Under which Article does the Centre's duty to ensure that every state government is carried on per the Constitution arise? (article number)",
+  "Which state has experienced the longest single period under President's Rule? (state name)"
+ ]
+}

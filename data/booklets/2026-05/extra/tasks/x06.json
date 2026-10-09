@@ -1,0 +1,69 @@
+{
+ "key": "x06",
+ "topic": "Anti-Defection Law",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-05/t06_anti_defection_law.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c3-t2-s1",
+   "title": "Origin and Objective",
+   "summary": "The Anti-Defection Law was introduced through the 52nd Constitutional Amendment Act, 1985, and placed in the Tenth Schedule of the Constitution. Its objective is to prevent political defections and ensure stability in governments. The phrase 'Aaya Ram Gaya Ram' is linked to frequent party-switching by legislators in the 1960s. The law applies to both Parliament and State Assemblies.",
+   "facts": [
+    "Introduced through the 52nd Constitutional Amendment Act, 1985",
+    "Enshrined in the Tenth Schedule of the Constitution",
+    "Objective: prevent political defections and ensure stability in governments",
+    "Phrase 'Aaya Ram Gaya Ram' linked to frequent party-switching in the 1960s",
+    "Applies to both Parliament and State Legislatures",
+    "Constitutional basis: Articles 102(1) and 191(1)",
+    "Lays down the process for disqualifying legislators on grounds of defection"
+   ]
+  },
+  {
+   "id": "2026-05-c3-t2-s2",
+   "title": "Grounds for Disqualification",
+   "summary": "A legislator loses membership if they voluntarily give up party membership or vote or abstain contrary to the party whip. Under Articles 102(1) and 191(1), a legislator can also be disqualified for holding an office of profit, being declared of unsound mind by a court, being an undischarged insolvent, losing Indian citizenship or showing allegiance to another country, or being disqualified under any law made by Parliament. The booklet also lists joining another party and opposing party direction as grounds in the disqualification summary.",
+   "facts": [
+    "Voluntarily giving up party membership is a ground for disqualification",
+    "Voting or abstaining contrary to the party whip is a ground for disqualification",
+    "Holding an office of profit is a ground under Articles 102(1) and 191(1)",
+    "Being declared of unsound mind by a court is a ground",
+    "Being an undischarged insolvent is a ground",
+    "Losing Indian citizenship or showing allegiance to another country is a ground",
+    "Disqualification under any law made by Parliament is a ground"
+   ]
+  },
+  {
+   "id": "2026-05-c3-t2-s5",
+   "title": "Significance, Criticisms and Key Issues",
+   "summary": "The law allows party mergers without disqualifying members, prevents defections for office or material gain, and supports party stability and discipline. Critics point to long delays in deciding disqualification petitions, allegations that presiding officers act partisanly, and limited judicial intervention before the Speaker decides. They also argue that the two-thirds merger clause enables mass defections and that the rigid whip system reduces intra-party democracy.",
+   "facts": [
+    "Prevents defections for office or material gain",
+    "Ensures party stability and prevents government instability",
+    "Ensures party discipline through adherence to the whip",
+    "Makes legislators accountable for their conduct",
+    "Key issue: disqualification petitions often remain pending for long durations",
+    "Key issue: allegations of bias, as Speaker or Chairman may act partisanly",
+    "Key issue: courts typically intervene only after the Speaker's decision",
+    "Key issue: rigid whip system, including whips on non-critical matters",
+    "Key issue: two-thirds merger clause enables large-scale defections"
+   ]
+  }
+ ],
+ "already_asked": [
+  "The Anti-Defection Law is enshrined in which Schedule of the Indian Constitution?",
+  "Assertion (A): Independent members can be disqualified for joining a party after their election.",
+  "Match List I with List II:",
+  "Consider the following statements about the Anti-Defection Law:",
+  "How many of the following statements about the Anti-Defection Law are correct?",
+  "Under which Articles of the Constitution can a legislator be disqualified on general grounds?",
+  "How does the Anti-Defection Law curtail legislative freedom?",
+  "Under the Anti-Defection Law, which exception applies when a legislator votes against the party whip?",
+  "Who decides disqualification petitions for members of the Lok Sabha? (designation)",
+  "Who decides disqualification petitions for members of the Rajya Sabha? (designation)",
+  "What fraction of the members of a legislature party must agree for a merger to avoid disqualification? (in words)",
+  "Within how many months should decisions on disqualification ideally be made, as per Keisham Meghachandra Singh vs Speaker Manipur (2020)? (in months)",
+  "After how many months of nomination does a nominated member become liable to disqualification for joining a party? (in months)",
+  "Which 2019 case involving the Karnataka Speaker lists the grounds for reviewing a Speaker's decision? (first-named party's name)",
+  "What is the first-named party in the 1992 judgment on Speaker's decisions under the Tenth Schedule? (name)"
+ ]
+}

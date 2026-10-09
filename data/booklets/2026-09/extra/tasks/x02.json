@@ -1,0 +1,74 @@
+{
+ "key": "x02",
+ "topic": "Indus Waters Treaty and India's rejection of the Hague ruling",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-09/t02_indus_waters_hague.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c1-t2-s3",
+   "title": "Court of Arbitration's findings",
+   "summary": "The Court of Arbitration held that the treaty continues to apply and that India's decision to place it in abeyance was not permissible. It said the treaty does not deal with terrorism or use of force, so cross-border terrorism was not accepted as a material breach. The tribunal also imposed interim limits on construction at the Ratle project.",
+   "facts": [
+    "The treaty continues in force until terminated by a duly ratified treaty (Article XII(4))",
+    "Article III(1) obliges India to let flow the waters of the Western rivers to Pakistan",
+    "Placing the treaty in abeyance was held not permissible under the treaty or international law",
+    "The Vienna Convention on the Law of Treaties 1969 was applied in the ruling",
+    "The treaty does not provide India a unilateral mechanism to suspend obligations",
+    "The treaty contains no provisions on terrorism or use of force",
+    "Interim limits bar concreting of specified parts of the Ratle dam wall and power intake beyond prescribed levels",
+    "The Ratle restrictions last until 90 days after the Neutral Expert's final determination"
+   ]
+  },
+  {
+   "id": "2026-09-c1-t2-s4",
+   "title": "India's objection to the tribunal",
+   "summary": "India rejects the ruling, saying the tribunal was constituted by the World Bank contrary to the treaty and has no jurisdiction over its sovereign decisions. India argues the treaty sets a graded, sequential route that ends with a court only after the Neutral Expert step. Pakistan and India initiated parallel proceedings in 2016, and the World Bank paused and later resumed the two processes.",
+   "facts": [
+    "India has rejected the ruling and has neither recognised the tribunal's legitimacy nor participated in its proceedings",
+    "India's Ministry of External Affairs says the Court of Arbitration was constituted by the World Bank contrary to the treaty",
+    "India's abeyance decision after the April 2025 Pahalgam terror attack remains valid according to New Delhi",
+    "India says the tribunal has no jurisdiction over its sovereign decisions or infrastructure projects on the western rivers",
+    "India's position: question, then Permanent Indus Commission, then Neutral Expert, then legal dispute or Court of Arbitration",
+    "In 2016, Pakistan initiated proceedings seeking a Court of Arbitration",
+    "In 2016, India requested appointment of a Neutral Expert to examine technical aspects",
+    "In 2016, the World Bank paused both the arbitration and Neutral Expert processes",
+    "In 2022, the World Bank allowed both processes to move forward",
+    "India took part in Neutral Expert proceedings but not in Court of Arbitration proceedings"
+   ]
+  },
+  {
+   "id": "2026-09-c1-t2-s5",
+   "title": "Indus river system and water-sharing principles",
+   "summary": "The Indus is a trans-boundary river and the longest river in Pakistan, and its main tributaries have distinct sources in Tibet, Kashmir and Himachal Pradesh. The booklet lists three international instruments on shared water: the Helsinki Rules of 1966, the Helsinki Convention of 1992 and the UN Watercourses Convention of 1997. India, China and Pakistan have not signed the UN Watercourses Convention.",
+   "facts": [
+    "The Indus is a trans-boundary river and the longest river in Pakistan",
+    "The Indus originates at the Bokhar Chu Glacier near Mt Kailash, Mansarovar, Tibet",
+    "The Jhelum rises at the Verinag Spring in the Kashmir Valley and joins the Chenab at Trimmu",
+    "The Chenab originates near Bara Lacha Pass in Lahul-Spiti (HP) and joins the Satluj at Panchnad",
+    "The Ravi rises in the Kullu Hills near Rohtang Pass and joins the Chenab a little above Rangpur",
+    "The Beas originates near Rohtang Pass and joins the Satluj at Harike",
+    "The Satluj rises from the Manasarovar-Rakas Lakes in Tibet and joins the Indus a little above Mithankot",
+    "Helsinki Rules 1966 were adopted by the International Law Association to regulate water use in an international drainage basin",
+    "Helsinki Convention 1992 provides a framework for preventing and controlling water pollution across national borders",
+    "UN Watercourses Convention 1997 codified law on non-navigational uses of international watercourses; India, China and Pakistan have not signed it"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which organisation facilitated the Indus Waters Treaty?",
+  "Under the Indus Waters Treaty, India has exclusive and unrestricted use of which rivers?",
+  "Which article of the Indus Waters Treaty states that the treaty continues in force until terminated by a duly ratified treaty?",
+  "Assertion (A) and Reason (R) are given below.",
+  "Match List I with List II:",
+  "Consider the following statements about the dispute-resolution mechanism of the Indus Waters Treaty:",
+  "Consider the following statements about the Indus Waters Treaty and the Court of Arbitration ruling:",
+  "The Vienna Convention on the Law of Treaties is popularly known as the:",
+  "How many members does the Court of Arbitration under the Indus Waters Treaty have? (in number)",
+  "Under which Annexure of the Indus Waters Treaty is the Court of Arbitration constituted?",
+  "Which institution's mechanism is involved in appointing the Neutral Expert? (name the institution)",
+  "In which year did the World Bank pause both the arbitration and Neutral Expert processes?",
+  "In which year did the World Bank allow both processes to move forward?",
+  "Which 850 MW hydroelectric project on the Chenab River has restrictions imposed by the tribunal? (name the project)",
+  "Ratle project restrictions remain relevant until how many days after the Neutral Expert's final determination? (in days)"
+ ]
+}

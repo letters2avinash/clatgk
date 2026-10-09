@@ -1,0 +1,76 @@
+{
+ "key": "x09",
+ "topic": "India-EU Free Trade Agreement",
+ "chapter": "Economics",
+ "text_file": "data/booklets/2026-01/t09_indiaeu.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c4-t1-s3",
+   "title": "Protections, Exclusions and CBAM",
+   "summary": "Both sides keep negative lists of sensitive farm goods to protect rural livelihoods and food security. A parallel agreement protects geographical indications such as Darjeeling Tea and Champagne. The EU's Carbon Border Adjustment Mechanism applies a carbon levy on selected imports from 1 January 2026, and India received a most-favoured-nation assurance on it without a full exemption.",
+   "facts": [
+    "India's exclusions: dairy, wheat, rice and poultry",
+    "EU's exclusions: beef, sugar and rice",
+    "Geographical indication protection for Darjeeling Tea and Champagne",
+    "EUR 500 million pledged for decarbonisation of Indian industries",
+    "CBAM full implementation with carbon levy from 1 January 2026",
+    "Transitional phase 2023-2025 involved reporting only, with no financial levy",
+    "CBAM sectors: cement, aluminium, fertilisers, iron and steel, hydrogen, electricity",
+    "CBAM certificate price linked to the EU ETS carbon price",
+    "Credit allowed if a carbon tax was already paid in the exporting country",
+    "India got an MFN assurance on CBAM but no full exemption"
+   ]
+  },
+  {
+   "id": "2026-01-c4-t1-s4",
+   "title": "2030 Roadmap and the US Factor",
+   "summary": "The 'Towards 2030' Joint India-EU Comprehensive Strategic Agenda is a five-year framework adopted at the 16th Summit to move ties beyond trade. It is organised into pillars covering prosperity, technology, security, connectivity, and enablers such as skills and mobility. The deal is also framed as a hedge against US tariff policy, after 50% reciprocal tariffs on Indian goods were imposed in August 2025.",
+   "facts": [
+    "Official title: 'Towards 2030: Joint India-EU Comprehensive Strategic Agenda'",
+    "A five-year framework adopted at the 16th India-EU Summit",
+    "Prosperity and Sustainability pillar includes green hydrogen and carbon market alignment",
+    "Technology and Innovation pillar includes Trade and Technology Council and 6G, semiconductors, quantum",
+    "Security and Defence pillar focuses on maritime security in the Indo-Pacific",
+    "Connectivity pillar includes IMEC and the EU's Global Gateway initiative",
+    "Enablers pillar covers skills and mobility, with a European Legal Gateway in India",
+    "Mutual recognition of professional qualifications targeted by 2030",
+    "50% reciprocal tariffs on Indian goods imposed in August 2025",
+    "Described as creating a 'Third Pole' in global trade"
+   ]
+  },
+  {
+   "id": "2026-01-c4-t1-s5",
+   "title": "EU Basics and India-EU Ties",
+   "summary": "The European Union is a political and economic union of 27 member states, and it traces its origins to the European Coal and Steel Community formed in 1951 by six countries. Its key institutions include the Commission, Parliament, Council, Court of Justice and the European Central Bank. India and the EU have had diplomatic relations since 1962, and ties were upgraded to a Strategic Partnership in 2004.",
+   "facts": [
+    "EU is a political and economic union of 27 member states",
+    "Began as the European Coal and Steel Community (1951) with six founding members",
+    "European Commission: executive body that proposes laws and manages the budget",
+    "European Parliament: the EU's only elected legislative body",
+    "European Council: heads of state or government, sets political direction",
+    "Court of Justice of the EU ensures uniform application of EU law",
+    "Diplomatic relations with the European Economic Community established in 1962",
+    "Upgraded to a Strategic Partnership at The Hague Summit in 2004",
+    "EU is India's largest trading partner in goods and largest foreign investor",
+    "Bilateral trade in 2024-25 was $136.53 billion"
+   ]
+  }
+ ],
+ "already_asked": [
+  "What was the total bilateral trade between India and the EU in 2024-25?",
+  "Consider the following:",
+  "Match List I with List II:",
+  "Consider the following statements about the India-EU FTA:",
+  "Consider the following statements about the Carbon Border Adjustment Mechanism (CBAM):",
+  "How many Commissioners does the European Commission have?",
+  "Which EU institution is the only elected legislative body?",
+  "From what date does the full CBAM carbon levy on imports apply?",
+  "What percentage of EU customs duties on Indian exports will be eliminated under the FTA? (in per cent)",
+  "After five years, what will be the import tariff on luxury cars priced above EUR 15,000? (in per cent)",
+  "What is the annual tariff rate quota for luxury cars, in number of units?",
+  "What is the maximum current Indian tariff on machinery that will be phased out? (in per cent)",
+  "Approximately how much will EU exporters save annually from India's tariff phase-out? (in EUR billion)",
+  "Apart from Darjeeling Tea, name the iconic product whose geographical indication is protected under the parallel GI agreement.",
+  "In which year was India-EU ties upgraded to a Strategic Partnership at The Hague Summit? (year)"
+ ]
+}

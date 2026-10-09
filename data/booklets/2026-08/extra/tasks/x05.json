@@ -1,0 +1,54 @@
+{
+ "key": "x05",
+ "topic": "Gorkhaland Issue",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-08/t05_gorkhaland_issue.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c2-t2-s2",
+   "title": "Major Bases of the Demand",
+   "summary": "Supporters argue that the Darjeeling Hills population has a distinct linguistic, cultural and social identity compared with the Bengali-majority plains. Concerns over identity insecurity and racial stereotyping have strengthened demands for stronger political recognition and representation. Economic concerns cover infrastructure, employment, developmental neglect and insufficient political and fiscal autonomy.",
+   "facts": [
+    "The Darjeeling Hills population has a distinct linguistic, cultural and social identity compared with the Bengali-majority plains",
+    "The region has a predominantly Nepali-speaking population",
+    "Identity insecurity and racial stereotyping have contributed to demands for stronger political recognition and representation",
+    "Proponents seek recognition of the community as an integral part of India, rather than separation from the country",
+    "Inadequate infrastructure is a long-standing economic concern",
+    "Limited employment opportunities and developmental neglect are raised as concerns",
+    "Insufficient political and fiscal autonomy is a concern",
+    "The region contributes through sectors such as Darjeeling Tea, Forestry and Tourism"
+   ]
+  },
+  {
+   "id": "2026-08-c2-t2-s4",
+   "title": "Current Process and Challenges",
+   "summary": "The Ministry of Home Affairs recently convened a Tripartite Meeting with the Government of West Bengal and Gorkha community representatives. The Union Government then constituted a committee headed by Pankaj Kumar Singh to work out modalities for a Permanent Political Solution. The challenges include opposition to territorial division, the region's strategic location, fragmented Gorkha politics and economic sustainability.",
+   "facts": [
+    "The Ministry of Home Affairs recently convened a Tripartite Meeting with the Government of West Bengal and Gorkha community representatives",
+    "The Union Government constituted a committee headed by Pankaj Kumar Singh",
+    "The committee will examine the issue within the Constitutional Framework, including governance, financial assistance and development support",
+    "The committee will also work out a roadmap for granting Scheduled Tribe status to 11 Gorkha communities",
+    "Opposition in parts of West Bengal to territorial division reflects concerns over territorial integrity and administrative cohesion",
+    "The Darjeeling region occupies the Siliguri Corridor (Chicken's Neck), close to Nepal, Bhutan and Bangladesh",
+    "The Siliguri Corridor is the principal land link between mainland India and the Northeast",
+    "Prolonged instability in the region can have wider strategic and national security implications",
+    "Gorkha Janmukti Morcha and Gorkha National Liberation Front are among several groups, making a common position difficult",
+    "The regional economy depends on tea, tourism and related activities, which face structural and seasonal challenges"
+   ]
+  }
+ ],
+ "already_asked": [
+  "In 1947, which party submitted a memorandum seeking 'Gorkhasthan' to Jawaharlal Nehru and Liaquat Ali Khan?",
+  "Subhas Ghising led which organisation that emerged in 1980 as the principal political force behind the 1980s agitation?",
+  "Assertion (A): Over time, the Gorkha movement articulated its objective as achieving statehood within the Indian Union.",
+  "Match List I with List II:",
+  "In which year were Gorkha demands presented before the Simon Commission?",
+  "Which Gorkha ruler played a central role in the unification of Nepal?",
+  "In which year was the Darjeeling Gorkha Hill Council established? (give the year)",
+  "In which year was the Gorkhaland Territorial Administration established? (give the year)",
+  "Who heads the committee constituted by the Union Government to work out a 'Permanent Political Solution'? (full name)",
+  "Which corridor, also called Chicken's Neck, is located in the Darjeeling region? (two words)",
+  "Besides the Gorkha National Liberation Front, which other Gorkha political group is named as part of the fragmented political representation? (full name)",
+  "How many Gorkha communities are proposed for a roadmap to Scheduled Tribe status? (give the number)"
+ ]
+}

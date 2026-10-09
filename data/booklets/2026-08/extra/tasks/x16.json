@@ -1,0 +1,35 @@
+{
+ "key": "x16",
+ "topic": "Dirac Medal 2026 and Paul Dirac",
+ "chapter": "AILET Corner",
+ "text_file": "data/booklets/2026-08/t16_ailet_corner.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c7-t1-s3",
+   "title": "Paul Dirac and the 1933 Nobel Prize",
+   "summary": "Paul Dirac is described as a renowned physicist and one of the founders of modern quantum mechanics. He received the 1933 Nobel Prize in Physics jointly with Erwin Schrödinger. The Dirac Medal honours his legacy.",
+   "facts": [
+    "Paul Dirac is described as a renowned physicist.",
+    "Dirac was one of the founders of modern quantum mechanics.",
+    "Dirac received the 1933 Nobel Prize in Physics.",
+    "The 1933 Nobel Prize was shared with Erwin Schrödinger.",
+    "The Dirac Medal honours Dirac's legacy."
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year was the Dirac Medal instituted?",
+  "How many of the following statements are correct?",
+  "Match List I with List II:",
+  "Deepak Dhar, the 2026 recipient, is a physicist from which country?",
+  "Which international body presents the Dirac Medal?",
+  "Consider the following statements about Paul Dirac:",
+  "Which of the following did NOT share the 2026 Dirac Medal?",
+  "In which year was the Dirac Medal instituted? (year)",
+  "What cash prize, in US dollars, does each recipient receive along with the medal? (number only)",
+  "In which year did Paul Dirac receive the Nobel Prize in Physics? (year)",
+  "With which physicist did Paul Dirac share his Nobel Prize in Physics? (surname only)",
+  "What is the full name of the Indian physicist who won the 2026 Dirac Medal?",
+  "How many physicists, including Dhar, shared the 2026 Dirac Medal? (number)"
+ ]
+}

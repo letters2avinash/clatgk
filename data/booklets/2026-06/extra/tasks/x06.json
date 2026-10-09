@@ -1,0 +1,56 @@
+{
+ "key": "x06",
+ "topic": "Election Symbols (Reservation and Allotment) Order, 1968",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-06/t06_election_symbols_order_1968.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c3-t2-s2",
+   "title": "Criteria for Recognition",
+   "summary": "Parties are recognised as national or state parties on the basis of votes and seats won at general elections. The booklet sets separate criteria for each category, measured against valid votes polled and seats in the Lok Sabha or the legislative assembly.",
+   "facts": [
+    "National party: secures 6% of valid votes in any 4 or more states at a general election to the LS or LA",
+    "National party: wins 4 LS seats from one or more states",
+    "National party: wins 2% of LS seats at a general election, from 3 states",
+    "National party: recognised as a state party in 4 states",
+    "State party: secures 6% of valid votes polled in the state at a GE to the LA and wins 2 LA seats",
+    "State party: wins 3% of LA seats or 3 LA seats, whichever is more",
+    "State party: secures 8% of total valid votes polled in the state at a GE to the LS or LA",
+    "State party: secures 6% of valid votes polled in the state at a GE to the LS and wins 1 LS seat from the state",
+    "State party: wins 1 LS seat for every 25 seats or fraction thereof allotted to the state"
+   ]
+  },
+  {
+   "id": "2026-06-c3-t2-s3",
+   "title": "1968 Order: Reserved and Free Symbols",
+   "summary": "The Election Symbols (Reservation and Allotment) Order, 1968 was issued by the Election Commission and provides the legal framework for reservation and allotment of symbols. It separates reserved symbols, held exclusively by recognised parties, from free symbols, open to registered unrecognised parties and independent candidates.",
+   "facts": [
+    "The Order was issued by the Election Commission of India in 1968",
+    "The Order provides the legal framework for reservation and allotment of election symbols",
+    "The Order covers registration, recognition and derecognition of parties",
+    "The Order covers classification of parties as national or state parties",
+    "The Order covers resolution of disputes arising from party splits and mergers",
+    "Reserved symbols are exclusively allotted to recognised national or state parties",
+    "Free symbols are available to registered unrecognised parties and independent candidates",
+    "Free symbols are allotted by the ECI from a notified list"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which term is used for the symbols exclusively allotted to recognised national or state parties?",
+  "Which body is the sole authority empowered to adjudicate disputes arising from splits within recognised political parties?",
+  "Which of the following is listed in the booklet as a national party?",
+  "Assertion (A): A recognised party retains exclusive rights over its symbol.",
+  "Match List I with List II:",
+  "Consider the statements:",
+  "Consider the statements:",
+  "Under what condition may the ECI freeze a party's original symbol?",
+  "In which year did the Election Commission of India issue the Election Symbols (Reservation and Allotment) Order? (year)",
+  "In which year did the split in the Indian National Congress occur that led ECI to recognise Congress (O) and Congress (R)? (year)",
+  "Which wing of a party includes its president, office bearers and national and state executive members? (two words)",
+  "Which 1972 Supreme Court case held that majority support must be determined in both the organisational and legislative wings? (name of the first-named party)",
+  "Which 1986 case held that the Symbols Order is a valid exercise of ECI's constitutional and statutory powers? (name of the first-named party)",
+  "Under the state party criteria, what percentage of valid votes polled in the state must a party secure, along with winning 2 seats in the state legislative assembly? (in per cent)",
+  "If split factions reunite later, what may they approach the ECI for? (a short phrase)"
+ ]
+}

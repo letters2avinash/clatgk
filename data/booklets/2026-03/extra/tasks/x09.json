@@ -1,0 +1,53 @@
+{
+ "key": "x09",
+ "topic": "World Happiness Report 2026",
+ "chapter": "Reports, Summits, Indices",
+ "text_file": "data/booklets/2026-03/t09_world_happiness_report_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c5-t1-s3",
+   "title": "India and BRICS comparison",
+   "summary": "India ranked 116th in the 2026 report with a score of 4.536, improved from 118th. Its areas of improvement were social support and healthy life expectancy. Among BRICS nations, China ranked highest at 65th, and India ranked below Nepal and Pakistan but above Bangladesh and Sri Lanka.",
+   "facts": [
+    "India: rank 116th, score 4.536",
+    "India improved from 118th in the previous ranking",
+    "India's areas of improvement: social support and healthy life expectancy",
+    "China ranked 65th, the highest among BRICS nations",
+    "India ranked below Nepal (99th) and Pakistan (104th)",
+    "India ranked above Bangladesh (127th) and Sri Lanka (134th)"
+   ]
+  },
+  {
+   "id": "2026-03-c5-t1-s4",
+   "title": "Social media and youth well-being",
+   "summary": "The 2026 report examines how social media use relates to happiness among young people. Youth aged 15 to 24 report lower life satisfaction than those aged 60 and above, a pattern seen in the United States, Canada, Australia and New Zealand. Adolescent girls using social media for more than five hours a day are the most vulnerable group, while youth using it for under one hour a day report the best well-being.",
+   "facts": [
+    "Youth aged 15-24 report lower life satisfaction than elderly aged 60+",
+    "Age-based pattern observed in US, Canada, Australia and New Zealand",
+    "Most vulnerable group: adolescent girls using social media over 5 hours a day",
+    "Heavy use linked with decline in mental health and comparison-driven stress",
+    "Optimal threshold: youth using social media under 1 hour a day",
+    "Youth using under 1 hour a day report even better well-being than non-users",
+    "Digital paradox: in developing countries like India, digital access improves education and connectivity",
+    "Excessive use in the same settings causes stress and anxiety",
+    "Report provides insights into mental health and digital behaviour trends"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Assertion (A): Finland was the top-ranked country in the World Happiness Report 2026.",
+  "Match List I with List II:",
+  "Consider the following statements about youth and social media use in the 2026 report:",
+  "What was India's happiness score in the 2026 report?",
+  "Which edition of the World Happiness Report was released in 2026?",
+  "Which organisation published the World Happiness Report 2026?",
+  "What is the theme of the International Day of Happiness 2026?",
+  "What is India's rank in the World Happiness Report 2026? (a number)",
+  "Which country ranked lowest, at 147th, in the World Happiness Report 2026?",
+  "Since which year has the World Happiness Report been published annually? (year)",
+  "Which country rose from 23rd to 4th place in the 2026 report? (country)",
+  "For how many consecutive years has Finland ranked first, as of 2026? (in years)",
+  "Youth using social media for less than how many hours a day reported the best well-being? (in hours)",
+  "Which natural event does the International Day of Happiness coincide with? (two words)"
+ ]
+}

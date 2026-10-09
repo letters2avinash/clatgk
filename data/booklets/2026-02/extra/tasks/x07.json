@@ -1,0 +1,54 @@
+{
+ "key": "x07",
+ "topic": "CPI Base Year Revised to 2024",
+ "chapter": "Economics",
+ "text_file": "data/booklets/2026-02/t07_cpi_base_year_2024.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c3-t3-s2",
+   "title": "What CPI measures and why it matters",
+   "summary": "The Consumer Price Index measures the average change over time in retail prices of goods and services consumed by households. It is the main indicator of retail inflation and is used by the Reserve Bank of India for monetary policy decisions. It also serves as a benchmark for wage revision, pension adjustment and dearness allowance calculation.",
+   "facts": [
+    "CPI measures average change over time in retail prices of goods and services consumed by households.",
+    "CPI reflects the cost of living and inflation experienced by consumers.",
+    "CPI is the main indicator of retail inflation.",
+    "CPI is used by the Reserve Bank of India for monetary policy decisions.",
+    "CPI is used for dearness allowance calculation, wage revision and pension adjustment.",
+    "Current inflation target is 4%, with a band of 2% (2% to 6%).",
+    "Overall inflation in January 2026 (YoY) was 2.75% (provisional).",
+    "Rural inflation in January 2026 was 2.73%; urban inflation was 2.77%.",
+    "Significance of base revision: better reflection of cost of living, improved monetary policy transmission, greater statistical credibility."
+   ]
+  },
+  {
+   "id": "2026-02-c3-t3-s4",
+   "title": "CPI compared with WPI",
+   "summary": "The Wholesale Price Index (WPI) has a base year of 2011-12 and is released by the Office of Economic Adviser, Ministry of Commerce and Industry. The CPI is released by the National Statistical Office (NSO). WPI covers only goods and excludes indirect taxes, whereas CPI covers both goods and services and includes indirect taxes.",
+   "facts": [
+    "WPI base year is 2011-12.",
+    "WPI is released by the Office of Economic Adviser, Ministry of Commerce and Industry.",
+    "CPI is released by the National Statistical Office (NSO).",
+    "WPI includes only goods; CPI includes both goods and services.",
+    "WPI excludes indirect taxes; CPI includes indirect taxes.",
+    "WPI does not reflect up-to-date expenditure patterns; CPI does."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which ministry revised the CPI base year to 2024?",
+  "Which CPI base year was replaced by the 2024 base year?",
+  "Who was appointed Chairman of the 26-member Advisory Committee on National Accounts Statistics?",
+  "Assertion (A): The 2024 CPI base year was identified using data from the 2011 Census of India.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements:",
+  "Which of the following items was newly added in the CPI 2024 basket?",
+  "How many items are included in the CPI 2024 basket (in number)?",
+  "How many of the CPI 2024 items are services (in number)?",
+  "How many online markets will be covered under CPI 2024 (in number)?",
+  "Which version of the COICOP classification does CPI 2024 follow? (give the year)",
+  "What was the food and beverages weightage under CPI 2012 (in per cent)?",
+  "What is the food and beverages weightage under CPI 2024 (in per cent)?",
+  "Apart from urban areas, for which other type of area is the CPI 2024 house rent index compiled? (one word)"
+ ]
+}

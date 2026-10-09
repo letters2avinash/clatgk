@@ -1,0 +1,58 @@
+{
+ "key": "x03",
+ "topic": "Nepal Election: RSP's Victory and Implications for India",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-03/t03_nepal_election_rsp.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c1-t3-s2",
+   "title": "Nepal's Political System and Parties",
+   "summary": "Nepal is a Federal Democratic Republic with a multi-party system under its 2015 Constitution. Its Parliament is bicameral, and the House of Representatives combines FPTP and PR seats. Political instability is a long-standing feature, and no government has completed a full term since the restoration of democracy in 1990.",
+   "facts": [
+    "The Constitution of Nepal was adopted in 2015.",
+    "Nepal is a Federal Democratic Republic with a multi-party system.",
+    "The President is the ceremonial head of state; the Prime Minister is head of government.",
+    "Parliament is bicameral: House of Representatives and National Assembly.",
+    "FPTP: candidate with the highest votes wins. PR: seats allocated by party vote share.",
+    "The 275-member House of Representatives has 165 FPTP seats and 110 PR seats.",
+    "No government has completed a full term since the restoration of democracy in 1990.",
+    "Nepali Congress was founded in 1947, CPN-UML in 1991 and CPN-Maoist Centre in 1994.",
+    "KP Sharma Oli, CPN-UML leader, has served as Prime Minister for the 4th time since 2015.",
+    "Oli succeeded Pushpa Kamal Dahal (Prachanda), who had been Prime Minister since 2009."
+   ]
+  },
+  {
+   "id": "2026-03-c1-t3-s3",
+   "title": "Challenges and Gains for India",
+   "summary": "Shah's assertive nationalism could harden Nepal's stance on the Kalapani-Limpiyadhura dispute and the 1950 Treaty. The decline of traditional parties means New Delhi must rebuild its diplomatic networks. A stable single-party majority and technocratic governance could align with India's Neighbourhood First Policy.",
+   "facts": [
+    "The Kalapani-Limpiyadhura dispute could harden Nepal's stance under Shah's assertive nationalism.",
+    "RSP proposes revisiting the 1950 India-Nepal Treaty of Peace and Friendship.",
+    "Revisiting the treaty could reduce India's traditional diplomatic leverage in Kathmandu.",
+    "Nepal's effort to reduce dependence on India may redirect trade and connectivity projects toward others, including China.",
+    "Decline of traditional parties requires New Delhi to rebuild diplomatic networks beyond long-standing channels.",
+    "A single-party majority government could provide a stable environment for long-term policy.",
+    "RSP's technocratic approach may align with India's Neighbourhood First Policy, especially cross-border rail, power grid and infrastructure.",
+    "Madhesh lies in the Terai plains of south-eastern Nepal, bordering the Indian state of Bihar.",
+    "Madhesh is often called the 'Granary of Nepal' and has demanded greater political representation."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Match List I with List II:",
+  "In Nepal's federal democratic set-up, which office is the ceremonial head of state?",
+  "Which Indian paramilitary force has guarded Kalapani since 1962?",
+  "How many of the following statements about Nepal's political system are correct?",
+  "Which 2025 movement toppled the government of KP Sharma Oli?",
+  "The Madhesh region, called the 'Granary of Nepal', borders which Indian state?",
+  "Assertion (A): Nepal's 2025 protests were fuelled by the government's ban on social media platforms.",
+  "Consider the following statements:",
+  "What is the length of the India-Nepal border (in km)?",
+  "How many Indian states share a boundary with Nepal?",
+  "In which year was the Kosi Agreement between India and Nepal signed?",
+  "Which river's western boundary was defined by the Treaty of Sugauli (name the river)?",
+  "What was the value of India-Nepal bilateral trade in FY 2024-25 (in US$ billion)?",
+  "How many MW of power will Nepal supply to Bangladesh via India under the first trilateral power trade (in MW)?",
+  "Which multipurpose project on the Mahakali river is delayed because of stalled agreements?"
+ ]
+}

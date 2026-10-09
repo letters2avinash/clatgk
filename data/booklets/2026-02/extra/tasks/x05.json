@@ -1,0 +1,76 @@
+{
+ "key": "x05",
+ "topic": "Union Budget 2026-27",
+ "chapter": "Economics",
+ "text_file": "data/booklets/2026-02/t05_union_budget_2026_27.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c3-t1-s1",
+   "title": "Vision and Six Pillars",
+   "summary": "Nirmala Sitharaman presented the Union Budget 2026-27 as her record ninth consecutive budget, prepared in the newly inaugurated Kartavya Bhawan. It is framed as a Yuva Shakti-driven blueprint anchored in the Viksit Bharat Vision and guided by three Kartavyas. Six pillars of growth organise the agenda across manufacturing, MSMEs, infrastructure, financial stability and city economic regions.",
+   "facts": [
+    "Presented by Nirmala Sitharaman as her record 9th consecutive Union Budget",
+    "Framed as a Yuva Shakti-driven blueprint anchored in the Viksit Bharat Vision",
+    "Three Kartavyas: Sustain Economic Growth; Fulfill Aspirations; Sabka Saath, Sabka Vikas",
+    "First-ever Union Budget tabled on a Sunday, a Parliamentary first",
+    "Pillar 1: Scaling up manufacturing in seven strategic sectors",
+    "Pillar 2: Rejuvenating legacy industrial sectors to boost productivity and competitiveness",
+    "Pillar 3: Creating champion MSMEs to strengthen the backbone of the economy",
+    "Pillar 4: Delivering infrastructure development across the country",
+    "Pillar 5: Ensuring long-term security and stability in economic and financial systems",
+    "Pillar 6: Developing city economic regions to drive regional growth and urban development"
+   ]
+  },
+  {
+   "id": "2026-02-c3-t1-s3",
+   "title": "Agriculture, Services and Women-led Growth",
+   "summary": "Agriculture measures centre on Bharat-VISTAAR, an AI-based platform for accessing farm resources, and on higher-margin plantation crops. Creative and service sectors get talent pipelines and the Orange Economy is promoted, while foreign cloud providers using Indian data centres receive a tax holiday. Women-led development gets community-owned retail outlets and STEM hostels for girls.",
+   "facts": [
+    "Bharat-VISTAAR: Virtually Integrated System to Access Agricultural Resources",
+    "A multi-lingual AI-based platform integrating AgriStack portals and ICAR's agricultural practices",
+    "Special support for sandalwood, agar trees, walnuts and almonds",
+    "Target: Global Brand Status for Indian cashew and cocoa by 2030",
+    "Content Creator Labs in 15,000 Schools and 500 Colleges for the AVGC sector",
+    "Orange Economy coined by Ivan Duque Marquez and Felipe Buitrago in their 2013 work",
+    "Orange Economy value comes mainly from intellectual property, ideas and cultural expression",
+    "Cloud services tax holiday for foreign companies using Indian data centres until 2047",
+    "SHE Marts: community-owned retail outlets for women's SHGs",
+    "One dedicated girls' hostel in each district to retain female students in STEM"
+   ]
+  },
+  {
+   "id": "2026-02-c3-t1-s5",
+   "title": "Budget Process and Parliament",
+   "summary": "Article 112 requires the annual financial statement to be laid before Parliament, although the word 'Budget' does not appear in the Constitution. The budget is prepared by the Budget Division of the Department of Economic Affairs with NITI Aayog and ministries. Money Bills start in Lok Sabha, and Rajya Sabha can only return them within 14 days without any power to vote on demands for grants.",
+   "facts": [
+    "Article 112 (Part V): annual statement of estimated receipts and expenditure of the Government",
+    "The term 'Budget' is not mentioned anywhere in the Constitution",
+    "Budget Division of the Department of Economic Affairs prepares it with NITI Aayog",
+    "Six stages: presentation, general discussion, scrutiny, voting on demands, appropriation bill, finance bill",
+    "Money/Finance Bill involving taxation is introduced only in Lok Sabha",
+    "Rajya Sabha must return a Money/Finance Bill within 14 days",
+    "Railway Budget was presented separately for 92 years, merged with the Union Budget in 2017",
+    "India's first budget was presented on 7 April 1860 by James Wilson",
+    "First post-independence Union Budget presented by R.K. Shanmukham Chetty on 26 Nov 1947",
+    "Budget announcement moved to the 1st working day of February from 2017"
+   ]
+  }
+ ],
+ "already_asked": [
+  "What does the acronym SHAKTI stand for in the Biopharma SHAKTI scheme?",
+  "Foreign companies providing cloud services to global customers from Indian data centres receive a tax holiday until which year?",
+  "Under the City Economic Regions initiative, what is the allocation per region over 5 years?",
+  "Assertion (A): The container scheme in the budget is meant to increase dependence on Chinese imports.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements about the SME Growth Fund:",
+  "What is the target value of India's Bio-Economy by 2030?",
+  "What is the fiscal deficit target for FY 2026-27 (in per cent of GDP)?",
+  "On which date (day, month and year) does the new Income Tax Act 2025 replace the 1961 Act?",
+  "What is the uniform TCS rate (in per cent) on LRS remittances for overseas tours, education and medical purposes?",
+  "To what rate (in per cent) is the Minimum Alternate Tax proposed to be cut?",
+  "Under which section of the Income Tax Act 1961 is TCS governed?",
+  "What is the maximum LRS remittance limit per financial year for a resident individual (in USD)?",
+  "What nominal GDP growth rate (in per cent) does the budget project for FY 2026-27?"
+ ]
+}

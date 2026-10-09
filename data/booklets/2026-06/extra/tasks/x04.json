@@ -1,0 +1,58 @@
+{
+ "key": "x04",
+ "topic": "Passport Is Not Proof of Citizenship",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-06/t04_passport_not_proof_of_citizenship.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c2-t2-s2",
+   "title": "Identity Documents vs Citizenship",
+   "summary": "No single universal document conclusively proves Indian citizenship. Aadhaar shows identity and residence, a Voter ID shows electoral eligibility, and a Ration Card shows residence and welfare eligibility. Inclusion in the electoral roll creates a presumption of citizenship that only due legal process can displace.",
+   "facts": [
+    "No single universal document conclusively proves Indian citizenship",
+    "Aadhaar: proof of identity and residence, not citizenship",
+    "Voter ID: establishes electoral eligibility, not citizenship",
+    "Ration Card: indicates residence and eligibility for welfare benefits, not citizenship",
+    "Lal Babu Hussein vs Electoral Registration Officer (1995): inclusion in electoral roll creates a presumption of citizenship",
+    "That presumption can be displaced only through due legal process",
+    "Citizenship Certificate is issued only to persons acquiring citizenship through registration or naturalisation",
+    "Persons acquiring citizenship by birth or descent do not receive a Citizenship Certificate",
+    "Sarbananda Sonowal vs Union of India (2005): burden of proving Indian citizenship lies on the person claiming it",
+    "Deletion from electoral roll does not amount to loss of citizenship"
+   ]
+  },
+  {
+   "id": "2026-06-c2-t2-s4",
+   "title": "Assam Accord and NRC",
+   "summary": "The Assam agitation of 1979-1985, led by AASU and AAGSP against illegal immigration, ended with a Memorandum of Settlement signed on August 15, 1985. Clause 6 of the Assam Accord mandates safeguards for Assamese identity. A committee headed by Justice (Retd) Biplab Kumar Sarma made 67 recommendations, of which 57 have been approved by the Assam Cabinet.",
+   "facts": [
+    "Assam agitation years: 1979-1985",
+    "Agitation led by AASU and AAGSP against illegal immigration",
+    "Tripartite Memorandum of Settlement signed on August 15, 1985 by Central Government, Assam Government and agitation leaders",
+    "Clause 6 of Assam Accord: constitutional, legislative and administrative safeguards for Assamese identity and heritage",
+    "Committee headed by Justice (Retd) Biplab Kumar Sarma submitted 67 recommendations",
+    "57 recommendations approved by Assam Cabinet; 10 remain under discussion with Centre",
+    "AASU stands for All Assam Students' Union; AAGSP stands for All Assam Gana Sangram Parishad",
+    "Assam NRC: applicants had to establish links with legacy records predating 24 March 1971",
+    "NRC in Assam commenced in 2003 following an SC Order",
+    "NRC in Assam: 1951"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Match List I with List II:",
+  "Which clause of the Assam Accord mandates constitutional, legislative and administrative safeguards for the cultural, social, linguistic identity and heritage of the Assamese people?",
+  "Consider the following statements:",
+  "Assertion (A): An Indian passport is conclusive proof of Indian citizenship in legal disputes.",
+  "Consider the following statements:",
+  "Under which Article of the Constitution was the constitutional validity of the Special Intensive Revision (SIR) upheld in Association for Democratic Reforms vs Election Commission of India (2026)?",
+  "Which section of the Passports Act, 1967 allows the Central Government to issue passports to non-citizens in the public interest?",
+  "How many times has the Citizenship Act, 1955 been amended since 1986? (in number)",
+  "In which year did the Citizenship (Amendment) Act shift India's citizenship regime towards Jus Sanguinis?",
+  "How many communities are granted citizenship under the Citizenship (Amendment) Act 2019? (in number)",
+  "On or before which date must migrants have entered India to be covered by the Citizenship (Amendment) Act 2019?",
+  "On which date (day and month, 1950) did the citizenship provisions in Articles 5 to 11 take effect?",
+  "What is the first of the three conditions listed for losing citizenship under the Citizenship Act, 1955? (one word)",
+  "Apart from birth, descent, registration and naturalisation, what is the fifth way of acquiring citizenship under the Citizenship Act, 1955? (a short phrase)"
+ ]
+}

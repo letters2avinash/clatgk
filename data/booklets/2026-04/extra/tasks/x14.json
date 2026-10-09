@@ -1,0 +1,57 @@
+{
+ "key": "x14",
+ "topic": "R. Vaishali's FIDE Women's Candidates Win 2026",
+ "chapter": "Sports, Awards and Days",
+ "text_file": "data/booklets/2026-04/t14_vaishali_fide_candidates_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c8-t1-s3",
+   "title": "FIDE, the global chess body",
+   "summary": "FIDE (Fédération Internationale des Échecs), the International Chess Federation, is the global governing authority for chess. Founded in Paris in 1924, it oversees major international competitions and sets rules and rating standards. Its headquarters is in Lausanne, Switzerland, and Arkady Dvorkovich is its President.",
+   "facts": [
+    "Full name: Fédération Internationale des Échecs (International Chess Federation)",
+    "Established in Paris in 1924",
+    "Headquarters: Lausanne, Switzerland",
+    "Serves as the global governing authority for chess",
+    "Oversees all major international competitions",
+    "Sets rules and rating standards",
+    "President: Arkady Dvorkovich",
+    "Deputy President: Viswanathan Anand",
+    "Motto: Gens una Sumus (We are One Family)",
+    "International Chess Day on 20 July marks FIDE's foundation; 2025 theme 'Every Move Counts'"
+   ]
+  },
+  {
+   "id": "2026-04-c8-t1-s4",
+   "title": "Chess history and records",
+   "summary": "Chess has a long history, from its origin as 'Chaturanga' in Northern India during the Gupta Empire to the World Chess Championship, first contested in 1886. Recent events include India hosting the Chess World Cup 2025 in Goa and India's first-ever Olympiad gold in 2024. Several records involve very young players and wins over Magnus Carlsen.",
+   "facts": [
+    "World Chess Championship established in 1886; Wilhelm Steinitz became the 1st official champion",
+    "Chess originated in Northern India during the Gupta Empire (6th century CE) as 'Chaturanga'",
+    "India hosted the Chess World Cup 2025 in Goa, its second time after Hyderabad in 2002",
+    "Javokhir Sindarov (Uzbek) won the Chess World Cup 2025",
+    "Indian men's and women's teams won their first-ever gold at the 45th Chess Olympiad in Budapest, Hungary, in 2024",
+    "R. Praggnanandhaa became the youngest player to reach a World Cup final, and only the 2nd Indian after Viswanathan Anand to do so",
+    "Gukesh Dommaraju secured his first classical win over Magnus Carlsen at Norway Chess 2025",
+    "R. Praggnanandhaa was the first Indian to defeat Magnus Carlsen in classical chess",
+    "Abhimanyu Mishra (USA) holds the record as the world's youngest chess Grandmaster",
+    "Anish Sarkar, aged 3 and from Kolkata, became the youngest chess player ever ranked by FIDE"
+   ]
+  }
+ ],
+ "already_asked": [
+  "How many times did Viswanathan Anand win the FIDE World Chess Championship?",
+  "Who is the Deputy President of FIDE?",
+  "Assertion (A): Viswanathan Anand is the Deputy President of FIDE.",
+  "Consider the following statements:",
+  "Consider the following statements:",
+  "Which Indian Grandmaster won the FIDE World Junior Chess Championship 2025 held in Montenegro?",
+  "Where was the FIDE World Chess Championship 2024 held, in which Gukesh Dommaraju won the title?",
+  "In which city in Georgia was the FIDE Women's World Cup 2025 held? (city)",
+  "Pranav Venkatesh was which numbered Indian to win the FIDE World Junior Chess Championship? (give the number)",
+  "In which city was the 45th Chess Olympiad held in 2024? (city)",
+  "In which year did Koneru Humpy win the Women's World Rapid Chess Championship title? (year)",
+  "Who was the first Indian to defeat Magnus Carlsen in classical chess? (name)",
+  "Anish Sarkar, the youngest chess player ever ranked by FIDE, is from which city? (city)"
+ ]
+}

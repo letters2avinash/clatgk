@@ -1,0 +1,55 @@
+{
+ "key": "x10",
+ "topic": "Quad Foreign Ministers' Meeting 2026",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-06/t10_quad_foreign_ministers_meeting_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c5-t2-s2",
+   "title": "Maritime and Security Cooperation",
+   "summary": "Maritime cooperation is one strand of the 11th meeting's outcomes. The outcomes include a surveillance framework that uses tracking assets of all members and a partnership for near real-time maritime data. Security work also covers the Quad-at-Sea Ship Observer Mission, the Malabar Exercise and a counterterrorism tabletop exercise.",
+   "facts": [
+    "Indo-Pacific Maritime Surveillance Collaboration uses tracking and monitoring assets of all Quad members.",
+    "Immediate focus area of maritime surveillance: the Indian Ocean Region.",
+    "Maritime surveillance objective: strengthen maritime domain awareness and monitor illicit maritime activities.",
+    "Indo-Pacific Partnership for Maritime Domain Awareness enables near real-time maritime data sharing across regional waters.",
+    "Quad-at-Sea Ship Observer Mission was launched under the Wilmington Declaration.",
+    "Quad-at-Sea objective: improve naval coordination, enhance interoperability, counter illegal maritime activities.",
+    "India will host the next edition of the Quad-at-Sea Ship Observer Mission.",
+    "Malabar Exercise is an annual multilateral naval exercise of Quad members.",
+    "Quad Counterterrorism Tabletop Exercise focuses on state-sponsored terrorism, UAV threats and joint crisis response planning; to be hosted by Australia in 2026."
+   ]
+  },
+  {
+   "id": "2026-06-c5-t2-s4",
+   "title": "Significance for India and the Global Order",
+   "summary": "The Quad is presented as a strategic counterbalance that opposes unilateral attempts to alter the status quo. For India, it helps balance China's growing maritime presence, improve monitoring of maritime activity and attract investment. Its technology and supply-chain work also supports diversification under the China+1 strategy.",
+   "facts": [
+    "Strategic counterbalance: supports freedom of navigation and opposes unilateral attempts to alter the status quo.",
+    "Supply-chain resilience supports diversification under the China+1 strategy.",
+    "Technology cooperation covers AI, cybersecurity, 5G/6G, Open RAN networks and secure digital infrastructure.",
+    "Quad provides regional public goods: disaster relief, health security, infrastructure support and capacity building.",
+    "For India, the Quad balances China's growing maritime presence and String of Pearls strategy in the Indian Ocean.",
+    "For India, the Quad preserves strategic autonomy without entering a formal military alliance.",
+    "For India, the Quad enhances monitoring of maritime activities and detection of illegal fishing and grey-zone tactics.",
+    "Blue Dot Network and the Supply Chain Resilience Initiative helped India attract foreign investment and integrate into global value chains."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Assertion (A): The Quad is an informal strategic partnership.",
+  "How many of the following statements about the Quad are correct?",
+  "Which threats are among the focus areas of the Quad Counterterrorism Tabletop Exercise?",
+  "Match List I with List II:",
+  "By which year is the Pacific Island Infrastructure Outreach targeted for completion?",
+  "Where was the 11th Quad Foreign Ministers' Meeting held?",
+  "Consider the following statements about Quad initiatives:",
+  "Who championed the Quad concept in 2007?",
+  "Which Quad initiative aims to enhance agricultural productivity and food security across the Indo-Pacific? (Give the initiative's name.)",
+  "What is the name of the technical tool being developed for Digital Identity Systems to improve cross-border interoperability?",
+  "Which Quad energy initiative launched a Joint Regional Energy Roadmap? (Give the initiative's name.)",
+  "What type of network is the Pacific Island Infrastructure Outreach planned to use to connect all Pacific Island Forum countries?",
+  "Along with the Supply Chain Resilience Initiative, which network is credited with helping India attract foreign investment?",
+  "Which Quad framework coordinates investments and policies on mining, processing and recycling of critical minerals? (Give the framework's name.)"
+ ]
+}

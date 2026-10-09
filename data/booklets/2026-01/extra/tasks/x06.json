@@ -1,0 +1,57 @@
+{
+ "key": "x06",
+ "topic": "Republic Day 2026",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-01/t06_republicday.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c2-t1-s3",
+   "title": "History of Republic Day",
+   "summary": "26 January was linked to the Poorna Swaraj declaration from the Lahore Session of the Indian National Congress in December 1929. From 1930 to 1947 the day was celebrated as Independence Day or Poorna Swaraj Day. The Constitution, adopted on 26 November 1949, came into effect on 26 January 1950, making India a sovereign democratic republic.",
+   "facts": [
+    "The Lahore Session of INC in December 1929 passed the Poorna Swaraj resolution.",
+    "Poorna Swaraj called for total self-rule, sovereignty and complete independence from British rule.",
+    "The Declaration of Independence was officially promulgated on 26 January 1930.",
+    "From 1930 to 1947, 26 January was celebrated as Independence Day or Poorna Swaraj Day.",
+    "The Constitution was adopted by the Constituent Assembly on 26 November 1949.",
+    "The Constitution came into effect on 26 January 1950.",
+    "The Constitution repealed the Indian Independence Act 1947 and the Government of India Act 1935.",
+    "India ceased to be a Dominion of the British Crown and became a Sovereign, Democratic Republic.",
+    "India gained independence on 15 August 1947.",
+    "26 November has been observed as Constitution Day since 2015."
+   ]
+  },
+  {
+   "id": "2026-01-c2-t1-s4",
+   "title": "Unfurling and Hoisting the Flag",
+   "summary": "On Republic Day the President unfurls the Tricolour, while on Independence Day the Prime Minister hoists it. The difference reflects the two events: unfurling renews commitment to Constitutional principles, and hoisting symbolises the rise of a new nation.",
+   "facts": [
+    "On 26 January the President of India, as Head of State, unfurls the Tricolour.",
+    "On 15 August the Prime Minister, who heads the Union Government, hoists the National Flag.",
+    "On 26 January the flag is folded or rolled and attached to the top of a pole.",
+    "The President unveils the flag without pulling it up.",
+    "On 15 August the flag is positioned at the bottom of the pole and raised from bottom to top.",
+    "Unfurling is a symbolic gesture to renew commitment to the principles of the Constitution.",
+    "Unfurling highlights India's shift from a British colony to a Sovereign, Democratic Republic.",
+    "Hoisting symbolises the rise of a new nation, patriotism and freedom from colonial rule."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Who were the Chief Guests for India's Republic Day 2026?",
+  "How many honours were conferred under the Padma Awards 2026?",
+  "Which award was conferred on Shubhanshu Shukla, the first Indian on the ISS?",
+  "Assertion (A): Gallantry Awards are announced twice a year, on Republic Day and Independence Day.",
+  "Match List I with List II:",
+  "I. Padma Awards are announced annually on the eve of Republic Day.",
+  "Consider the following statements:",
+  "On which date was the Declaration of Independence officially promulgated?",
+  "In which year was the Peacetime Gallantry Award instituted? (year)",
+  "How many Padma Vibhushan awards were announced for 2026? (number)",
+  "How many armed forces personnel were conferred Gallantry Awards in 2026? (number)",
+  "Which gallantry award is India's highest peacetime gallantry award?",
+  "Which Indian, the first Indian on the ISS, was honoured with the Ashok Chakra?",
+  "From which year has 26 November been observed as Constitution Day? (year)",
+  "Which European Commission president was among the Chief Guests for Republic Day 2026? (full name)"
+ ]
+}

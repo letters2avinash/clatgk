@@ -1,0 +1,57 @@
+{
+ "key": "x13",
+ "topic": "Glaw Lake becomes India's 101st Ramsar Site",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-08/t13_glaw_lake_ramsar_site.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c4-t4-s2",
+   "title": "Wetlands: Meaning and Types",
+   "summary": "A wetland is an area of land covered by water, whether salt, fresh or in between, either seasonally or permanently. Wetlands take many forms, from lakes and rivers to mangroves and coral reefs. The booklet classifies them into three segments: inland, coastal and human-made wetlands.",
+   "facts": [
+    "Wetland: land covered by water that is salt, fresh or in between",
+    "The water cover may be seasonal or permanent",
+    "Includes lakes, rivers, underground aquifers and swamps",
+    "Includes wet grasslands, peatlands, deltas and tidal flats",
+    "Includes mangroves, coral reefs and other coastal areas",
+    "Other forms: marshes, bogs, mudflats, ponds, billabongs, lagoons, floodplains",
+    "Segment 1: inland wetlands",
+    "Segment 2: coastal wetlands",
+    "Segment 3: human-made wetlands"
+   ]
+  },
+  {
+   "id": "2026-08-c4-t4-s3",
+   "title": "Ramsar Convention and Montreux Record",
+   "summary": "The Ramsar Convention, formally the Convention on Wetlands of International Importance, is an intergovernmental treaty adopted in 1971 in Ramsar, Iran, and in force from 1975. It has 172 member states, and India became a signatory on 1 February 1982. The Montreux Record, launched in 1990, lists Ramsar sites where ecological character has changed or is likely to change.",
+   "facts": [
+    "Official name: Convention on Wetlands of International Importance",
+    "Adopted in 1971 in Ramsar, Iran; came into force in 1975",
+    "Members: 172 States",
+    "India became a signatory on 1 February 1982",
+    "World Wetlands Day: 2 February",
+    "2026 theme: Wetlands and Traditional Knowledge: Celebrating Cultural Heritage",
+    "Conference of Parties (COP) meets every 3 years",
+    "Montreux Record: launched 1990; lists sites with ecological change from technological developments, pollution or human interference",
+    "Indian sites in Montreux Record: Keoladeo National Park (Rajasthan) and Loktak Lake (Manipur)",
+    "Largest Ramsar site in the world: Pantanal, South America"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Glaw Lake is India's which Ramsar Site, by number?",
+  "In which protected area is Glaw Lake situated?",
+  "Assertion (A): Glaw Lake is a freshwater wetland in the Eastern Himalayas.",
+  "Match List I with List II:",
+  "Consider the following statements about Glaw Lake:",
+  "How many of the following statements about the Montreux Record are correct?",
+  "Which Indian state has the maximum number of Ramsar sites?",
+  "What is the validity period of Wetland City accreditation? (in years)",
+  "In which year was the Wetland City Accreditation Program approved? (year)",
+  "Apart from MoEFCC, which ministry jointly runs the Amrit Dharohar Capacity Building Scheme?",
+  "In which year were the Wetlands (Conservation and Management) Rules notified? (year)",
+  "Which agency prepared the National Wetland Decadal Change Atlas? (acronym)",
+  "Apart from Ayodhya, which place in Uttar Pradesh is linked by the Nature-Culture Tourism Corridor?",
+  "Under the Amrit Dharohar scheme, tourism is to shift from high-volume tourism to what type of tourism? (three words)"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "key": "x09",
+ "topic": "NPCI Introduces MDR on UPI Transactions",
+ "chapter": "Economics",
+ "text_file": "data/booklets/2026-09/t09_npci_upi_mdr.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c4-t1-s3",
+   "title": "Why MDR was introduced",
+   "summary": "The booklet lists several reasons for the MDR framework, centred on the financial sustainability of UPI. Revenue from the framework can fund infrastructure, cybersecurity and innovation. The framework also keeps P2P and low-value merchant payments free to protect consumers.",
+   "facts": [
+    "UPI requires continuous investment in payment infrastructure and technology",
+    "Growing digital payments need stronger systems to prevent fraud and cyber threats",
+    "A revenue mechanism can support continued operation and expansion of UPI",
+    "Revenue can support technological improvements and new payment solutions",
+    "Framework keeps P2P payments and low-value merchant payments free",
+    "Eligible small merchants continue to receive zero-MDR benefits",
+    "A self-funded payment ecosystem can reduce dependence on continued public funding",
+    "Small merchants and ordinary users need protection from additional costs"
+   ]
+  },
+  {
+   "id": "2026-09-c4-t1-s4",
+   "title": "MDR, UPI and NPCI basics",
+   "summary": "MDR is a fee charged on digital payment transactions and borne by the merchant, and it is not a tax collected by the government. UPI is a real-time, 24/7 payment system that is accepted in 11 countries. NPCI was established in 2008 as a Section 8 company under the Companies Act 2013.",
+   "facts": [
+    "MDR is distributed among banks, payment service providers and other relevant participants",
+    "MDR is not a tax collected by the government",
+    "MDR revenue remains within the payment ecosystem",
+    "UPI is a real-time, 24/7, instant and interoperable payment system",
+    "UPI is the world's largest retail fast payment system by transaction volume",
+    "UPI is accepted in 11 countries, including Greece, Singapore, France and Qatar",
+    "NPCI was established in 2008 as a Section 8 company under the Companies Act 2013",
+    "NPCI was set up as an initiative of the RBI and the Indian Banks' Association",
+    "NPCI's major payment systems are UPI, RuPay, IMPS and FASTag",
+    "NPCI's headquarters is in Mumbai, Maharashtra"
+   ]
+  }
+ ],
+ "already_asked": [
+  "From which date does the new MDR framework on UPI transactions come into effect?",
+  "What MDR rate applies to eligible merchant UPI transactions in the mid-value slab?",
+  "In which year was the zero-MDR policy for UPI and RuPay transactions introduced?",
+  "Match List I with List II:",
+  "Consider the following statements about the new MDR framework:",
+  "Consider the following statements about NPCI:",
+  "In which city is the headquarters of the National Payments Corporation of India located?",
+  "Which type of UPI payment between two individuals is exempt from MDR? Give the standard abbreviation.",
+  "Up to what amount, in rupees, are P2M UPI payments exempt from MDR, including through RuPay debit cards?",
+  "What monthly receipt limit, in lakh rupees, keeps small merchants under the P2PM UPI QR category exempt from MDR?",
+  "What is the maximum MDR, in rupees per transaction, for transactions of ₹75,000 and above?",
+  "What reduced MDR, in per cent, applies to payments involving mutual funds, securities, stock brokers and stock dealers?",
+  "What is the name of the category that contains mutual funds and securities in the MDR table? Give two words."
+ ]
+}

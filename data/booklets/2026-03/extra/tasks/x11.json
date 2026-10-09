@@ -1,0 +1,59 @@
+{
+ "key": "x11",
+ "topic": "Winter Olympic Games (Milano Cortina 2026)",
+ "chapter": "Sports, Awards & Days",
+ "text_file": "data/booklets/2026-03/t11_winter_olympics_milano_cortina_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c7-t1-s3",
+   "title": "History of the Olympic Games",
+   "summary": "The ancient Olympic Games started in 776 BCE at Olympia, Greece, and the record of the last ancient Games is found in 261 AD. Baron Pierre de Coubertin founded the modern Olympics, and the first modern international event was held at Athens in 1896. Women first took part at the 1900 Paris Olympics, the same year India first participated.",
+   "facts": [
+    "Ancient Olympic Games started in 776 BCE at Olympia, Greece",
+    "In 393 AD, Theodosius I banned the Olympics along with Greek temples and god statues",
+    "Record of the last ancient Olympic Games found in 261 AD",
+    "Founder of the modern Olympics: Baron Pierre de Coubertin",
+    "First modern international Olympic event: Athens, 1896",
+    "Women first took part at the 1900 Paris Olympics; Margaret Abbott (Golf) became the first female Olympic champion",
+    "2020 Olympics postponed to 2021 due to COVID-19 restrictions",
+    "Olympics cancelled due to WWI: Berlin (1916)",
+    "India first participated in 1900, first sent a Summer team in 1920, and competed at Innsbruck (Austria) Winter Games in 1964",
+    "Norman Pritchard, a lone athlete, won 2 silver medals in athletics"
+   ]
+  },
+  {
+   "id": "2026-03-c7-t1-s4",
+   "title": "Olympic Bodies and India's Sports Schemes",
+   "summary": "The International Olympic Committee, established in 1894, is headquartered in Lausanne, Switzerland, and its President is Kirsty Coventry. In India, the Ministry of Youth Affairs & Sports is the nodal ministry, supported by schemes such as TOPS (2014), Khelo India (2017), Fit India (2019) and KIRTI (2024). A WADA 2023 report placed India high on banned-substance positivity among major nations.",
+   "facts": [
+    "IOC: established 1894, headquarters in Lausanne, Switzerland",
+    "IOC President: Kirsty Coventry",
+    "IOC motto: Citius, Altius, Fortius (Faster, Higher, Stronger)",
+    "Indian Olympic Association: set up 1927, President PT Usha, HQ New Delhi",
+    "Nodal ministry: Ministry of Youth Affairs & Sports",
+    "TOPS (2014): identifies and supports athletes with potential to win Olympic medals",
+    "Khelo India (2017): identification and development of athletes at grassroots and elite levels",
+    "Fit India Movement (2019): mass participation in fitness activities",
+    "KIRTI Programme (2024): talent hunt among school children aged 9 to 18",
+    "WADA 2023 report: India had the highest positivity rate for banned substances among major nations"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Match List I with List II:",
+  "Which sport made its debut at the 2026 Winter Olympics?",
+  "How many winter sports were featured at the 2026 Winter Olympics?",
+  "How many of the following statements are correct?",
+  "Assertion (A): India sent two athletes to the 2026 Winter Olympics.",
+  "Where will the 2030 Winter Games be held?",
+  "Which country topped the final medal table at the 2026 Winter Olympics?",
+  "I. Italy won 30 medals at the 2026 Winter Olympics, including 10 gold medals.",
+  "Which country topped the final medal table at the 2026 Winter Olympics? (name of country)",
+  "How many gold medals did Norway win at the 2026 Winter Olympics? (number)",
+  "How many medals did the USA win at the 2026 Winter Olympics? (number)",
+  "How many gold medals did Italy win at the 2026 Winter Olympics? (number)",
+  "How many athletes did India field at the 2026 Winter Olympics? (number)",
+  "Who was India's torchbearer at the Milano Cortina 2026 Winter Olympics? (full name)",
+  "How many medals did the Netherlands win at the 2026 Winter Olympics? (number)"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "key": "x05",
+ "topic": "India Rejects Pakistan-China Boundary Joint Commission",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-09/t05_pakistan_china_boundary.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c1-t5-s2",
+   "title": "Sino-Indian Border: States, UTs and Sectors",
+   "summary": "India shares a 3,488 km boundary with China along the Himalayan range, and this border runs through one Union Territory and four states. Ladakh has the longest border segment with China among all Indian states and UTs, while Arunachal Pradesh has the second longest. For management purposes the Line of Actual Control is divided into Eastern, Middle and Western sectors, each grouping specific states and UTs.",
+   "facts": [
+    "India shares a 3,488 km border with China along the Himalayan range.",
+    "The border runs through 5 entities: 1 UT (Ladakh) and 4 states (Himachal Pradesh, Uttarakhand, Sikkim, Arunachal Pradesh).",
+    "Ladakh shares the longest border segment with China among all Indian states and UTs.",
+    "Arunachal Pradesh has the 2nd longest border segment with China.",
+    "Himachal Pradesh borders China and forms part of the Middle Sector.",
+    "Uttarakhand borders China and Nepal, among other states.",
+    "Sikkim borders China, Nepal and Bhutan.",
+    "LAC sectors: Eastern (Arunachal Pradesh and Sikkim), Middle (Uttarakhand and Himachal Pradesh), Western (Ladakh).",
+    "Panchsheel Agreement was signed by Nehru and Zhou Enlai, with both sides pledging to respect each other's sovereignty and territorial integrity."
+   ]
+  },
+  {
+   "id": "2026-09-c1-t5-s4",
+   "title": "Border Management Mechanisms and Agreements",
+   "summary": "India and China manage the LAC through a layered set of mechanisms and agreements rather than a final settlement of the boundary. The 2003 Special Representatives process is the highest political-level channel for a settlement, while the 2012 Working Mechanism coordinates responses to LAC incidents. Agreements from 1993 to 2013 added rules on peace, military activity near the LAC and face-to-face encounters between troops.",
+   "facts": [
+    "Special Representatives on Boundary Question (2003) is the highest political-level mechanism for a final political settlement of the 3,488 km dispute.",
+    "Working Mechanism for Consultation and Coordination (2012) is a diplomatic and military channel for LAC incidents and has no mandate to settle the boundary.",
+    "Corps Commander-level meetings pursue tactical disengagement, de-escalation and buffer-zone arrangements during major standoffs.",
+    "Border Personnel Meeting Points are designated locations where local military commanders address ground-level friction.",
+    "1993 Agreement for Maintenance of Peace and Tranquillity along the LAC recognised the LAC; it was signed during PM Narasimha Rao's visit to China.",
+    "1996 Confidence-Building Measures agreement restricted military activities and use of weapons near the LAC; signed during Jiang Zemin's visit to India.",
+    "2005 CBM Protocol set procedures for face-to-face encounters between troops.",
+    "2013 Border Defence Cooperation Agreement strengthened communication and coordination between border forces."
+   ]
+  }
+ ],
+ "already_asked": [
+  "The Pakistan-China Boundary Joint Commission was operationalised in which month and city (inaugural meeting)?",
+  "The Boundary Joint Commission originates from which agreement?",
+  "Assertion (A): India has rejected the Pakistan-China Joint Commission insofar as it concerns territory India claims.",
+  "Match List I with List II:",
+  "Consider the following statements about the 1963 China-Pakistan Boundary Agreement:",
+  "How many of the following statements about the Shaksgam Valley are correct?",
+  "The China-Pakistan Economic Corridor connects Kashgar in Xinjiang with which port?",
+  "Which crossing is the principal overland connection between China and Pakistan?",
+  "China administers Aksai Chin as part of which autonomous region? (name the region)",
+  "In which year was the McMahon Line demarcated? (year)",
+  "On which date in 1962 did China unilaterally declare a ceasefire? (day and month)",
+  "Into how many sectors is the Line of Actual Control divided? (number)",
+  "Which Chinese Premier introduced the term 'Line of Actual Control' in 1959? (name)",
+  "Which sector of the LAC covers Arunachal Pradesh and Sikkim? (name the sector)",
+  "For how many days did the 2017 Doklam plateau standoff last? (in days)"
+ ]
+}

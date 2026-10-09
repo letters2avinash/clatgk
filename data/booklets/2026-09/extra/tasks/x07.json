@@ -1,0 +1,59 @@
+{
+ "key": "x07",
+ "topic": "Removal of Chief Election Commissioner",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-09/t07_chief_election_commissioner.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c2-t1-s1",
+   "title": "Constitutional Status and Powers of the ECI",
+   "summary": "The Election Commission of India is a permanent, independent constitutional body under Articles 324 to 329 (Part XV), established in 1950. It administers elections to Parliament, State Legislatures, the President and the Vice President, and has been a three-member body since 1993. Its powers are administrative, advisory and quasi-judicial, and the Supreme Court in Mohinder Singh Gill (1977) treated the case as a cornerstone for its plenary powers.",
+   "facts": [
+    "Permanent, all-India, quasi-judicial and independent constitutional body",
+    "Constitutional basis: Articles 324-329 (Part XV)",
+    "Ensures free and fair elections for Parliament, State Legislatures, President and Vice President",
+    "Three members since 1993: one CEC and two ECs",
+    "Administrative power: defining constituencies, preparing voter lists, scheduling elections",
+    "Advisory power: advises the President and Governors, guides during emergencies",
+    "Quasi-judicial power: resolves disputes over party recognition, allocates election symbols",
+    "Mohinder Singh Gill v. CEC (1977): cornerstone case on ECI's plenary powers under Article 324",
+    "Where laws are silent (Articles 327 and 328), ECI can act independently to safeguard free and fair elections",
+    "ECI can order a re-poll if the purity of the electoral process is compromised; judicial review usually comes after the election"
+   ]
+  },
+  {
+   "id": "2026-09-c2-t1-s4",
+   "title": "EVM and VVPAT",
+   "summary": "The Electronic Voting Machine (EVM) records votes in place of ballot papers and boxes, and was first used in Paravur, Kerala, in 1982. The VVPAT prints a slip that lets voters verify their vote; the slip stays visible for seven seconds before dropping into a sealed box. In 2019 the Supreme Court ruled that VVPAT slips of five EVMs in every constituency should be counted instead of just one.",
+   "facts": [
+    "EVM: electronic device used to record votes in place of ballot papers and boxes",
+    "First used in Paravur Assembly Constituency, Kerala, in 1982",
+    "Developed by Bharat Electronics Ltd (Bangalore) and Electronic Corporation of India Ltd (Hyderabad)",
+    "Two parts: Control Unit (with Polling Officer) and Balloting Unit (in voting booth)",
+    "VVPAT slip shows the serial number, candidate name and symbol",
+    "Slip is visible through a transparent window for 7 seconds, then is cut and falls into a sealed drop box",
+    "VVPAT machines can be accessed by Polling Officers only",
+    "VVPAT first introduced in the Noksen Assembly bye-election, Nagaland, in 2013",
+    "VVPAT used in all constituencies in the 2019 Lok Sabha elections",
+    "2019 Supreme Court ruling: VVPAT slips of 5 EVMs per constituency to be counted instead of 1"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Assertion (A): Under Article 326, the right to vote is a fundamental right of every adult citizen.",
+  "Match List I with List II:",
+  "The Chief Election Commissioner and Other Election Commissioners Act, 2023 replaced which earlier Act?",
+  "Consider the following statements about the CEC and ECs:",
+  "How many of the following statements about the appointment process are correct?",
+  "Which case is regarded as a cornerstone in defining the plenary powers of the ECI under Article 324?",
+  "National Voters' Day is celebrated on which date to mark the foundation of the Election Commission of India?",
+  "Who was the first woman CEC, known for the shortest tenure of 16 days?",
+  "In which year did the earliest Special Intensive Revision listed in the booklet begin? (year)",
+  "How many documents from the prescribed list can be submitted in the Bihar SIR to prove date or place of birth? (number)",
+  "In which year was the last SIR held in Bihar? (year)",
+  "The 61st Amendment (1988) reduced the minimum voting age from how many years? (in years)",
+  "Which 1995 case struck down ECI guidelines that allowed deletion from electoral rolls on mere suspicion? (name of the first party)",
+  "Under which section of the Representation of the People Act, 1950 can the ECI direct a fresh revision of electoral rolls? (section number)",
+  "Under which Article does the ECI have supervisory and controlling authority over elections and electoral rolls? (article number)"
+ ]
+}

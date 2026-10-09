@@ -1,0 +1,67 @@
+{
+ "key": "x03",
+ "topic": "NEET Paper Leak Controversy",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-05/t03_neet_paper_leak_controversy.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c2-t1-s1",
+   "title": "NEET-UG 2026 cancellation and re-test",
+   "summary": "NEET-UG 2026 was declared compromised after paper leak allegations, and the examination was officially cancelled. Reports of illicit leaks and unauthorised material on digital platforms led to an investigation, and fraudulent guess papers that closely mirrored the actual test were among the evidence. The NTA voided the initial results and ordered a re-test for all candidates without any further application cost.",
+   "facts": [
+    "NEET 2026 was declared compromised amid paper leak allegations.",
+    "Official cancellation of NEET-UG 2026 was followed by a planned re-sitting.",
+    "Reports of illicit paper leaks and unauthorised exam materials on digital platforms triggered an investigation.",
+    "Fraudulent 'guess papers' that closely mirrored the actual test were part of the evidence.",
+    "NTA decided to void the initial results to maintain integrity and public trust.",
+    "The re-test is to be administered again for all candidates.",
+    "Candidates do not have to pay any further application costs for the re-test."
+   ]
+  },
+  {
+   "id": "2026-05-c2-t1-s2",
+   "title": "NEET, NTA and the 2024 controversy",
+   "summary": "NEET is the National Entrance Examination for admission into medical colleges across India, and it is conducted by the National Testing Agency. The NTA was established in 2017 as an autonomous body under the Department of Higher Education, Ministry of Education. The NEET-UG 2024 controversy, marked by an unusually high number of full-mark scorers, led to a high-level committee headed by former ISRO Chairman Dr K Radhakrishnan.",
+   "facts": [
+    "NEET is the National Entrance Examination for admission into medical colleges across India.",
+    "NEET-UG is conducted by the National Testing Agency.",
+    "The NTA was established in 2017.",
+    "The NTA is an autonomous body under the Department of Higher Education, Ministry of Education.",
+    "The NTA's headquarters are in New Delhi and its head is Pradeep Kumar Joshi.",
+    "The NTA also conducts JEE Main and CUET.",
+    "In 2024, an unusually high number of candidates achieved full marks.",
+    "Only two candidates secured full marks in 2023, and no candidate did in 2022.",
+    "After the NEET-UG 2024 controversy, the Ministry of Education constituted a high-level committee headed by former ISRO Chairman Dr K Radhakrishnan."
+   ]
+  },
+  {
+   "id": "2026-05-c2-t1-s3",
+   "title": "Ripple effect of exam malpractice",
+   "summary": "Exam malpractice damages far more than a single examination. It lowers the value of academic credentials, adds financial burden on government institutions and erodes public trust in fairness. Students also suffer, as cancellations delay admissions and honest candidates face stress and demotivation.",
+   "facts": [
+    "Loss of system credibility reduces the market value of degrees and merit rankings.",
+    "Re-conducting compromised examinations imposes a heavy financial burden on government institutions.",
+    "Large-scale cheating makes parents and students lose confidence in educational fairness.",
+    "Exam cancellations delay admissions and disrupt the academic calendar for millions of students.",
+    "Unfair practices cause significant stress, frustration and demotivation for honest candidates.",
+    "The impacts are grouped into systemic and institutional damage, and impact on students."
+   ]
+  }
+ ],
+ "already_asked": [
+  "How many new posts did the panel recommend creating for administration, IT infrastructure and digital security?",
+  "Match List I with List II:",
+  "Consider the following statements about the panel's recommendations:",
+  "How many of the following statements about the panel's recommendations are correct?",
+  "How many sub-committees did the panel recommend for the empowered governing body?",
+  "For which institutions did the panel propose limiting the NTA's role to entrance examinations?",
+  "The panel's proposed technology-enabled authentication system is similar to which existing system?",
+  "What is the minimum imprisonment (in years) for an individual found guilty under the Act?",
+  "For how many years can a service provider be debarred from conducting examinations (in years)?",
+  "What is the maximum monetary penalty (in crore rupees) for an individual in a case involving organised malpractice?",
+  "What is the minimum imprisonment (in years) for organised crimes under the Act?",
+  "Which two property-related measures can be applied to organised crimes under the Act (give both terms)?",
+  "What is the maximum imprisonment (in years) for an individual found guilty under the Act?",
+  "What is the maximum fine (in crore rupees) for a service provider under the Act?"
+ ]
+}

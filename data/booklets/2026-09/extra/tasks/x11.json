@@ -1,0 +1,59 @@
+{
+ "key": "x11",
+ "topic": "26th SCO Summit 2026",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-09/t11_sco_summit_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c5-t2-s2",
+   "title": "Institutions and membership",
+   "summary": "The SCO is a Permanent Eurasian Inter-Governmental Organisation that links Central Asia, South Asia, China, Russia and Iran. It has 10 member states and 2 observers, with headquarters in Beijing. Its Council of Heads of State is the highest decision-making body, while the Council of Heads of Government handles economic and developmental cooperation. Counter-terrorism cooperation is run by the Regional Anti-Terrorist Structure based in Tashkent.",
+   "facts": [
+    "Described as a Permanent Eurasian Inter-Governmental Organisation",
+    "Members: China, Russia, India, Pakistan, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Iran, Belarus",
+    "Observers: Afghanistan and Mongolia",
+    "Headquarters: Beijing (China)",
+    "Council of Heads of State: highest decision-making body",
+    "Council of Heads of Government: economic and developmental cooperation",
+    "SCO Secretariat: permanent administrative body in Beijing",
+    "Regional Anti-Terrorist Structure (RATS): counter-terrorism cooperation, Tashkent (Uzbekistan)",
+    "Focus areas: regional security, counter-terrorism, economic and connectivity cooperation",
+    "Also covers political dialogue and cultural and people-to-people exchanges"
+   ]
+  },
+  {
+   "id": "2026-09-c5-t2-s4",
+   "title": "India and the SCO",
+   "summary": "India frames its SCO engagement around three pillars: Security, Connectivity and Opportunity for regional cooperation. The SCO gives India institutional access to Central Asia, bypassing the lack of direct overland routes, and supports long-term energy and resource security. Frictions include the China-Pakistan strategic axis, India's refusal of the BRI because CPEC passes through disputed territories, and slow progress on payment arrangements and transport corridors. India also took part in the 6th World Nomad Games 2026 with its largest-ever contingent of 87 members.",
+   "facts": [
+    "India's SCO vision rests on three pillars: Security, Connectivity and Opportunity",
+    "SCO provides institutional access to Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan",
+    "Chabahar Port and INSTC reduce dependence on Pakistan-controlled transit",
+    "RATS treats terror financing and radicalisation as collective regional concerns",
+    "Energy engagement secures long-term access to uranium, minerals, oil and natural gas",
+    "Soft power pillars include Ayurveda and Buddhism",
+    "India refuses BRI because CPEC passes through disputed territories",
+    "Implementation gap: slow progress in payment arrangements and transport corridors",
+    "PM Narendra Modi attended the opening of the 6th World Nomad Games in Bishkek",
+    "India fielded its largest-ever contingent of 87 members at the 2026 Games"
+   ]
+  }
+ ],
+ "already_asked": [
+  "The SCO Secretariat, the permanent administrative body of the organisation, is located in which city?",
+  "In which year did Iran become a full member of the SCO?",
+  "Which document was adopted as the principal political document of the 26th SCO Summit?",
+  "Assertion (A): The Council of Heads of State is the highest decision-making body of the SCO.",
+  "Match List I with List II:",
+  "Consider the following statements about the SCO:",
+  "Consider the following statements about the 26th SCO Summit:",
+  "Which city has been designated SCO Tourism and Cultural Capital for 2026-27?",
+  "In which year was the Shanghai Five created? (year)",
+  "Which country joined the Shanghai Five in 2001, leading to the SCO's establishment? (country)",
+  "In which year did the SCO Charter enter into force? (year)",
+  "In which year did Belarus become a full member of the SCO? (year)",
+  "In which year did India become an SCO observer? (year)",
+  "How many outcome documents did leaders approve at the 26th SCO Summit? (number)",
+  "Which city is the headquarters of the SCO? (city)"
+ ]
+}

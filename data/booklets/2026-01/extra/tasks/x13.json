@@ -1,0 +1,74 @@
+{
+ "key": "x13",
+ "topic": "National Sports Governance Act and India's Sports Framework",
+ "chapter": "Sports",
+ "text_file": "data/booklets/2026-01/t13_sports.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c8-t1-s2",
+   "title": "Rules 2026 and National Sports Bodies",
+   "summary": "The National Sports Governance (National Sports Bodies) Rules, 2026 require every national sports body to have a General Body and an Executive Committee; the General Body must include sportspersons, and the Executive Committee at least 4 women. The National Olympic Committee and National Paralympic Committee are the sole governing bodies for Olympic and Paralympic sports in India. Recognised sports bodies are deemed public authorities under the RTI Act 2005.",
+   "facts": [
+    "Rules 2026 require every National Sports Body to have a General Body and an Executive Committee",
+    "General Body must include at least 4 Sportspersons of Outstanding Merit (minimum 25 years of age)",
+    "50% of Sportspersons of Outstanding Merit in the General Body must be women",
+    "Executive Committee must include at least 4 women members",
+    "National Olympic Committee is the sole governing body for Olympic sports in India",
+    "National Paralympic Committee is the sole governing body for Paralympic sports",
+    "Other bodies include National Sports Federations and Regional Sports Federations",
+    "Term of members: 3 years or up to 65 years of age, whichever is earlier",
+    "A person convicted by a court and sentenced to imprisonment is disqualified",
+    "Recognised sports bodies are deemed public authorities under the RTI Act 2005"
+   ]
+  },
+  {
+   "id": "2026-01-c8-t1-s3",
+   "title": "National Sports Tribunal",
+   "summary": "The National Sports Tribunal is set up for independent, speedy, effective and cost-efficient resolution of sports disputes. It is headed by a sitting or retired Supreme Court judge or a High Court Chief Justice, with two other members. Its jurisdiction covers election disputes, athlete selection issues and governance matters, but excludes major international events and doping-related disputes.",
+   "facts": [
+    "Established for independent, speedy, effective and cost-efficient resolution of sports disputes",
+    "Headed by a sitting or retired Supreme Court judge or Chief Justice of a High Court",
+    "2 other members who are experts in sports, public administration or law",
+    "Jurisdiction: election disputes, athlete selection issues and governance matters",
+    "Appellate authority: Supreme Court only",
+    "Excluded: disputes during major international sporting events (Olympic, Paralympic, Commonwealth and Asian Games)",
+    "Excluded: doping-related disputes, which fall under the National Anti-Doping Act 2022",
+    "Doping-related disputes fall exclusively under the National Anti-Doping Act 2022"
+   ]
+  },
+  {
+   "id": "2026-01-c8-t1-s5",
+   "title": "Sports Initiatives and Performance",
+   "summary": "Government initiatives include Fit India, Khelo India, KIRTI and TOPS, which aim at fitness participation, talent identification and support for Olympic medal prospects. Mission Olympic Cell, within the Ministry of Youth Affairs & Sports, supports athletes under TOPS. Indian athletes' results at the Paris Olympics and Paralympics, and in chess, are noted in the text.",
+   "facts": [
+    "Fit India Movement (2019) encourages mass participation in fitness activities",
+    "Khelo India (2017) identifies and develops athletes at grassroots and elite levels",
+    "KIRTI (2024) aims to identify talent among school children aged 9 to 18",
+    "TOPS (2014) identifies and supports athletes with potential to win Olympic medals",
+    "Mission Olympic Cell, within the Ministry of Youth Affairs & Sports, supports athletes' preparation under TOPS",
+    "India won 6 medals at the Paris Olympics (1 silver and 5 bronze) and placed 71st in the medals tally",
+    "Manu Bhaker won bronze in two 10 metre air pistol events and was the first Indian woman to win a shooting medal",
+    "Aman Sehrawat is the youngest Indian to win an individual Olympic medal, a bronze at the 2024 Paris Olympics",
+    "Praveen Kumar won gold in high jump at the 2024 Paris Paralympics",
+    "D Gukesh became the world's youngest chess champion at 18, beating Ding Liren at the 2024 FIDE World Chess Championship in Singapore"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Assertion (A): Appeals against National Sports Tribunal decisions lie only before the Supreme Court.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements about the Search-cum-Selection Committee of the National Sports Board:",
+  "What is the minimum number of Sportspersons of Outstanding Merit required in the General Body of every National Sports Body?",
+  "In which year was the National Anti-Doping Agency set up?",
+  "Who is the youngest Indian to win an individual Olympic medal?",
+  "How many other members besides the head does the National Sports Tribunal have?",
+  "In which year was the Court of Arbitration for Sport set up? (year)",
+  "Who is the President of the Indian Olympic Association? (name)",
+  "How many medals did India win at the Paris Olympics? (number)",
+  "What position did India secure in the Paris Olympics medals tally? (rank)",
+  "How many countries, including India, are recorded under the UNESCO International Convention against Doping in Sport? (number)",
+  "In which year was the Fit India Movement launched? (year)",
+  "Which Indian chess player became the world's youngest chess champion at 18? (surname or name)"
+ ]
+}

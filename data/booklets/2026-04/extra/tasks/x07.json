@@ -1,0 +1,73 @@
+{
+ "key": "x07",
+ "topic": "National Panchayati Raj Day 2026",
+ "chapter": "Polity and Governance",
+ "text_file": "data/booklets/2026-04/t07_national_panchayati_raj_day_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c3-t3-s1",
+   "title": "Event details and key highlights",
+   "summary": "The 17th National Panchayati Raj Day was observed on 24 April at Vigyan Bhawan, organised by the Ministry of Panchayati Raj. The theme was Sashakt Panchayat, Sarvangeen Vikas. The day marks the enforcement of the 73rd Constitutional Amendment and highlights initiatives such as the National Panchayat Awards and the Panchayat Advancement Index 2.0.",
+   "facts": [
+    "The 17th National Panchayati Raj Day was observed on 24 April.",
+    "The event was held at Vigyan Bhawan.",
+    "It was organised by the Ministry of Panchayati Raj.",
+    "Theme: Sashakt Panchayat, Sarvangeen Vikas.",
+    "The day marks enforcement of the 73rd Constitutional Amendment, aimed at grassroots democracy and decentralised governance.",
+    "National Panchayat Awards recognise best-performing panchayats.",
+    "Panchayat Advancement Index 2.0 measures grassroots development and tracks panchayat performance.",
+    "e-GramSwaraj is used for transparent monitoring and data-driven governance.",
+    "Panchayat Dharohar Initiative is one of the key highlights."
+   ]
+  },
+  {
+   "id": "2026-04-c3-t3-s4",
+   "title": "Elections, reservation, term and oversight",
+   "summary": "All members of panchayats at each level are elected directly, while chairpersons at the intermediate and district levels are chosen indirectly. The amendment provides for reservation of seats for SCs, STs and women, and sets a five-year term with time limits for fresh elections. A State Election Commission supervises electoral rolls and elections, and a Finance Commission reviews panchayat finances.",
+   "facts": [
+    "Article 243-C: all members of panchayats at village, intermediate and district levels are elected directly.",
+    "Chairpersons at intermediate and district levels are elected indirectly, by and from amongst the elected members.",
+    "The village-level chairperson is elected in the manner the State Legislature determines.",
+    "Article 243-D: seats are reserved for SCs and STs in proportion to their population.",
+    "Not less than one-third of total seats, and of chairperson offices, are reserved for women.",
+    "Reservation of seats for Scheduled Castes is not applicable to Arunachal Pradesh.",
+    "Article 243-E: a panchayat has a five-year term but can be dissolved earlier.",
+    "Fresh elections must be completed before expiry of five years, or within six months of dissolution.",
+    "Article 243-K: a State Election Commission supervises electoral rolls and the conduct of panchayat elections; its State Election Commissioner is appointed by the Governor.",
+    "Article 243-I: the Governor constitutes a Finance Commission every five years to review panchayat finances."
+   ]
+  },
+  {
+   "id": "2026-04-c3-t3-s5",
+   "title": "Exemptions, Union Territories and PESA",
+   "summary": "Some states and areas are exempted from Part IX, including Nagaland, Meghalaya and Mizoram. Article 243-L lets the President extend Part IX to Union Territories with exceptions, and it applies there except Delhi. The PESA Act, 1996, enacted under Article 243-M, does not apply to Sixth Schedule areas.",
+   "facts": [
+    "Under Article 243-M, Nagaland, Meghalaya and Mizoram are exempted.",
+    "Scheduled Areas and Tribal Areas in the 5th and 6th Schedule states are exempted.",
+    "Hill Areas of Manipur for which District Councils exist are exempted.",
+    "The Darjeeling district of West Bengal, where the Darjeeling Gorkha Hill Council exists, is exempted.",
+    "Article 243-L: the President may direct that Part IX applies to a Union Territory, with exceptions and modifications.",
+    "Part IX applies to all Union Territories except Delhi.",
+    "The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996, known as the PESA Act, was enacted under Article 243-M.",
+    "The PESA Act, 1996 is not applicable to Sixth Schedule areas.",
+    "The 6th Schedule states are Assam, Meghalaya, Tripura and Mizoram."
+   ]
+  }
+ ],
+ "already_asked": [
+  "On which date did the 73rd Constitutional Amendment Act come into force?",
+  "What is the minimum age to contest an election to Panchayati Raj bodies?",
+  "How many of the following statements about the 73rd Constitutional Amendment are correct?",
+  "Under Article 243-K, who appoints the State Election Commissioner?",
+  "Consider the following statements:",
+  "How many subjects are contained in the 11th Schedule added by the 73rd Constitutional Amendment Act?",
+  "Match List I with List II:",
+  "In which year was the Balwant Rai Mehta Committee constituted? (year)",
+  "Which state was the first to establish Panchayati Raj, at Nagaur on 2 October 1959? (one word)",
+  "How many tiers did the Ashok Mehta Committee (1977) recommend for Panchayati Raj? (in number)",
+  "Under which leader's government was the L.M. Singhvi Committee appointed in 1986? (name)",
+  "Which committee (1985) reviewed administrative arrangements for Rural Development and Poverty Alleviation Programmes? (name)",
+  "Which government appointed the Ashok Mehta Committee in 1977? (one word)",
+  "Who is known as the 'Father of Panchayati Raj'? (name)"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "key": "x06",
+ "topic": "Mahanadi Water Dispute",
+ "chapter": "Polity and Governance",
+ "text_file": "data/booklets/2026-04/t06_mahanadi_water_dispute.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c3-t2-s3",
+   "title": "Legal framework for inter-state waters",
+   "summary": "Article 262 empowers Parliament to adjudicate inter-state river disputes and allows it to exclude courts' jurisdiction in such matters. The Inter-State River Water Disputes Act, 1956 was used for the Mahanadi tribunal, and the River Boards Act, 1956 provides for river boards. Entries 17 and 56 divide powers between the States and the Union, and the Supreme Court cannot question a tribunal's award but can question its working.",
+   "facts": [
+    "Article 262 empowers Parliament to adjudicate disputes relating to inter-state rivers",
+    "Article 262 empowers Parliament to adjudicate disputes relating to inter-State rivers",
+    "Inter-State River Water Disputes Act, 1956 was used to constitute the Mahanadi tribunal",
+    "Centre first tries consultation among aggrieved states; if that fails it may constitute a tribunal",
+    "River Boards Act, 1956 lets the Centre establish boards for inter-state rivers in consultation with states",
+    "A River Board is to meet at least thrice a year and the Prime Minister is its Chairman",
+    "No River Board has been created to date",
+    "Entry 17 (State List) covers water supplies, irrigation, canals, drainage and embankments",
+    "Entry 56 (Union List) empowers the Union to regulate and develop inter-state rivers in public interest",
+    "Supreme Court cannot question a tribunal's award or formula but can question its working"
+   ]
+  },
+  {
+   "id": "2026-04-c3-t2-s4",
+   "title": "River course and Hirakud Dam",
+   "summary": "The Mahanadi originates at Sihawa Hill in Raipur, Chhattisgarh, and flows through Odisha before emptying into the Bay of Bengal. It receives left-bank and right-bank tributaries. Hirakud Dam on the river is described in the booklet as the longest earthen dam in the world.",
+   "facts": [
+    "Mahanadi originates at Sihawa Hill in Raipur, Chhattisgarh",
+    "Mahanadi flows through Odisha before emptying into the Bay of Bengal",
+    "Left bank tributaries: Shivnath, Hasdeo, Mand and Ib",
+    "Right bank tributaries: Jonk, Ong and Tel",
+    "Hirakud Dam is the longest earthen dam in the world"
+   ]
+  },
+  {
+   "id": "2026-04-c3-t2-s5",
+   "title": "Other inter-state water tribunals",
+   "summary": "India has several inter-state water tribunals, each set up for a particular river dispute. The booklet lists tribunals formed between 1986 and 2018, covering states such as Punjab, Karnataka, Andhra Pradesh and Odisha. The Mahanadi tribunal is one of these five.",
+   "facts": [
+    "Ravi & Beas Water Tribunal, formed 1986: Rajasthan, Haryana and Punjab",
+    "Krishna Water Disputes Tribunal II, formed 2004: Andhra Pradesh, Maharashtra, Telangana and Karnataka",
+    "Mahadayi Water Disputes Tribunal, formed 2010: Karnataka, Goa and Maharashtra",
+    "Vansadhara Water Disputes Tribunal, formed 2010: Odisha and Andhra Pradesh",
+    "Mahanadi Water Disputes Tribunal, formed 2018: Chhattisgarh and Odisha"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Around which year did the Mahanadi water dispute between Odisha and Chhattisgarh significantly escalate?",
+  "Under which Act was the Mahanadi Water Disputes Tribunal constituted?",
+  "Match List I with List II:",
+  "I. The Mahanadi Water Disputes Tribunal was constituted in 2016.",
+  "I. The Tribunal has issued a final ultimatum asking the two states to present a settlement by May 2.",
+  "What is the significance of the Hirakud Dam built on the Mahanadi River?",
+  "In which year was the Mahanadi Water Disputes Tribunal formed?",
+  "By which date were the two states asked to present a water-sharing settlement? (Month Day)",
+  "Which tribunal in the booklet's table was formed earliest? (name)",
+  "Which tribunal covers Odisha and Andhra Pradesh? (name)",
+  "Absence of reliable and mutually accepted ____ data has contributed to the deadlock. (one word)",
+  "How many River Boards have been created under the River Boards Act, 1956 so far? (as a number)",
+  "Who is the Chairman of a River Board under the River Boards Act, 1956? (position)"
+ ]
+}

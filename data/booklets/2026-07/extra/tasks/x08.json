@@ -1,0 +1,52 @@
+{
+ "key": "x08",
+ "topic": "India-UK Comprehensive Economic and Trade Agreement (CETA)",
+ "chapter": "Economics",
+ "text_file": "data/booklets/2026-07/t08_india_uk_ceta.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c4-t1-s1",
+   "title": "Scope and Entry into Force",
+   "summary": "The India-UK CETA came into force on 15 July 2026, together with the Double Contribution Convention. The booklet calls it a next-generation free trade agreement that goes beyond conventional tariff reduction to cover market access, regulatory transparency and economic partnership. Its coverage spans goods and services, digital trade, investment, government procurement, labour, environment, innovation, SMEs and regulatory cooperation. It is also the first Indian FTA to give tariff concessions on imported passenger vehicles through tariff rate quotas.",
+   "facts": [
+    "CETA and the Double Contribution Convention came into force on 15 July 2026.",
+    "CETA is a next-generation FTA that goes beyond conventional tariff reduction.",
+    "Coverage includes trade in goods and services, digital trade and investment.",
+    "Also covers government procurement, labour, environment, innovation, SMEs and regulatory cooperation.",
+    "Addresses market access, regulatory transparency and economic partnership.",
+    "First Indian FTA to give tariff concessions on imported passenger vehicles through tariff rate quotas.",
+    "The quota approach protects domestic industry while allowing phased market access."
+   ]
+  },
+  {
+   "id": "2026-07-c4-t1-s3",
+   "title": "Double Contribution Convention",
+   "summary": "The Double Contribution Convention came into force along with CETA and is aimed at social security contributions. Eligible Indian professionals and employers are exempt from UK National Insurance contributions for up to 5 years. The exemption applies provided contributions continue in India. The purpose is to ensure professionals avoid paying social security contributions in both India and the UK.",
+   "facts": [
+    "India and UK signed the Double Contribution Convention Agreement.",
+    "Exempts eligible Indian professionals from paying UK National Insurance contributions.",
+    "Exempts eligible Indian employers from paying UK National Insurance contributions.",
+    "The exemption covers up to 5 years.",
+    "Condition: social security contributions must continue in India.",
+    "Purpose: professionals avoid paying social security contributions in both India and UK.",
+    "Came into force on 15 July 2026 along with CETA."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Under the India-UK FTA, India plans to cut duties on what percentage of its tariff lines?",
+  "What percentage of Indian exports will receive zero-duty access to the UK market under the FTA?",
+  "Match List I with List II:",
+  "Consider the following statements about the India-UK FTA:",
+  "Consider the following statements about the India-UK FTA:",
+  "India-UK bilateral trade is expected to double by which year?",
+  "The UK ranks as which largest export destination for India?",
+  "In which year did the UK join the European Economic Community, the body that later became the EU?",
+  "For how many years was the UK an EU member before it ceased membership? (in years)",
+  "Approximately how many million people opted for Brexit in the June 2016 referendum? (in million, one decimal place)",
+  "On which date did the UK formally leave the EU?",
+  "Until the end of which year did the transition period under the withdrawal agreement run?",
+  "In which month of 2016 was the Brexit referendum held?",
+  "For more than how many years did the UK face political turmoil before formally leaving the EU? (in years)"
+ ]
+}

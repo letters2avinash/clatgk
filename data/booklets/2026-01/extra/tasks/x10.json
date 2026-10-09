@@ -1,0 +1,72 @@
+{
+ "key": "x10",
+ "topic": "China's Population Decline",
+ "chapter": "Reports, Summits, Indices",
+ "text_file": "data/booklets/2026-01/t10_chinapop.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c5-t1-s1",
+   "title": "Demographic Winter: Meaning and Key Indicators",
+   "summary": "Demographic winter is a persistent and structural decline in population growth, and it is no longer limited to developed countries. Its key indicators are fertility below the replacement level of 2.1 and an inverted population pyramid with a rising old-age dependency ratio. It can lead to a shrinking workforce, a rising fiscal burden from ageing and a potential loss of the demographic dividend.",
+   "facts": [
+    "Demographic winter: a persistent and structural decline in population growth.",
+    "Now a global phenomenon, not limited to developed countries.",
+    "Fertility rate below replacement level of 2.1 children per woman.",
+    "Inverted population pyramid: shrinking young population and expanding elderly population.",
+    "Rising old-age dependency ratio is a key indicator.",
+    "Demographic dividend: growth potential from a larger working-age population compared to dependents.",
+    "Total fertility rate (TFR) is the average births per woman; 2.1 is the replacement level.",
+    "Fertility refers to children born to a woman during reproductive years (ages 15-49)."
+   ]
+  },
+  {
+   "id": "2026-01-c5-t1-s2",
+   "title": "Causes and Negative Impacts of Demographic Winter",
+   "summary": "Causes include delayed life milestones, urbanisation, societal and cultural shifts, and greater access to family planning. A declining population brings a shrinking workforce, pressure on pension and healthcare systems, and greater isolation of the elderly. Developed nation trends suggest that a rebound is unlikely once fertility falls below the replacement level.",
+   "facts": [
+    "Delayed milestones: later marriages and parenthood due to career priorities, economic insecurity and high housing and education costs.",
+    "Urbanisation: smaller and costlier urban housing discourages larger families.",
+    "Societal shifts: greater female workforce participation, preference for smaller families and changing family norms.",
+    "Access to family planning gives greater reproductive autonomy and reduces unintended births.",
+    "Shrinking workforce threatens future labour supply as youth replacement falls short over time.",
+    "Ageing population raises the burden on healthcare, elderly care and pension systems.",
+    "Low-fertility states face youth shortages; high-fertility states struggle with overpopulation.",
+    "Smaller families disrupt traditional support systems, leading to greater elderly isolation.",
+    "Declining fertility and late marriages are linked to social isolation and mental health challenges.",
+    "Developed nation trends show that a rebound is unlikely once rates fall below replacement level."
+   ]
+  },
+  {
+   "id": "2026-01-c5-t1-s4",
+   "title": "Reasons for China's Population Decline",
+   "summary": "China's total fertility rate fell to 1.3 births per woman in the 2020 Census, far below the replacement level of 2.1. The One-Child Policy is credited with cutting the TFR from 2.75 in 1979, but fertility did not rebound after later relaxations. Female education, changing family norms, economic pressures and the COVID-19 pandemic are cited as further causes.",
+   "facts": [
+    "TFR declined to 1.3 births per woman (2020 Census), far below the replacement level of 2.1.",
+    "The One-Child Policy is credited with reducing TFR from 2.75 (1979) to 1.3 (2020).",
+    "Fertility did not rebound after the Two-Child (2016) and Three-Child (2021) relaxations.",
+    "The lack of rebound indicates deep-rooted behavioural and socio-economic shifts.",
+    "Higher female education and employment have enhanced women's autonomy over reproductive decisions.",
+    "Growing disengagement from traditional family structures has reduced pressure to marry early or have many children.",
+    "Intense job competition, high urban living costs and work-life imbalance discourage marriage and childbearing.",
+    "Housing pressures and economic uncertainty discourage fertility, especially among younger generations.",
+    "COVID-19 related mortality and economic uncertainty further accelerated the population decline.",
+    "Delayed childbirth and smaller family sizes follow from higher education and employment of women."
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which years did the Great Leap Forward occur in China?",
+  "Which slogan was promoted in China's birth control push of the 1970s?",
+  "Match List I with List II:",
+  "I. China's total fertility rate was 1.3 births per woman in the 2020 Census.",
+  "How many of the following statements about China's population policy are correct?",
+  "I. The Great Leap Forward aimed to boost production and living standards.",
+  "What is the current world population according to UNFPA's State of World Population 2025 (in billion)?",
+  "By which year is the global TFR projected to reach the replacement level of 2.1?",
+  "What was India's fertility rate in 2025?",
+  "Which above-replacement state has the highest fertility rate among those listed in the booklet?",
+  "What percentage of India's population is of working age (15-64 years) (in per cent)?",
+  "In which year was UNFPA renamed as the United Nations Population Fund?",
+  "What legal age of marriage for girls does the proposal under the Prohibition of Child Marriage Act 2006 seek (in years)?"
+ ]
+}

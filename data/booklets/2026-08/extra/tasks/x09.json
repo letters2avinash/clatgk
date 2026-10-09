@@ -1,0 +1,70 @@
+{
+ "key": "x09",
+ "topic": "Samudra Manthan Scheme",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-08/t09_samudra_manthan_scheme.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c3-t4-s1",
+   "title": "Scheme Overview and Need",
+   "summary": "The Cabinet approved the Samudra Manthan Scheme, a National Offshore Exploration Scheme to unlock India's offshore hydrocarbon potential. It is a Central Sector Scheme under the Ministry of Petroleum and Natural Gas, focused on deepwater, ultra-deepwater and frontier offshore exploration. The case for it rests on high risks, long gestation periods and the natural decline of existing fields.",
+   "facts": [
+    "Cabinet approved Samudra Manthan, a National Offshore Exploration Scheme.",
+    "The scheme aims to unlock India's offshore hydrocarbon potential.",
+    "It is a Central Sector Scheme under the Ministry of Petroleum and Natural Gas.",
+    "Focus is on deepwater, ultra-deepwater and frontier offshore hydrocarbon exploration.",
+    "Offshore exploration involves high financial and technological risks.",
+    "Offshore projects have long gestation periods of around 5-10 years.",
+    "A deepwater exploratory well can cost approximately $125-150 million.",
+    "Existing oil and gas fields face natural production declines of around 6-7% annually.",
+    "Implementation period runs up to FY 2030-31."
+   ]
+  },
+  {
+   "id": "2026-08-c3-t4-s4",
+   "title": "Significance for India",
+   "summary": "The scheme matters for energy security, because greater domestic production can reduce imports of crude oil and gas. Risk-sharing can make difficult offshore projects attractive to private investors. Indigenous technology and large-scale employment are also expected benefits.",
+   "facts": [
+    "Greater domestic production can reduce India's dependence on imported crude oil and gas.",
+    "Government risk-sharing can make technically difficult offshore projects attractive to private investors.",
+    "Developing indigenous offshore technologies, equipment and services can reduce dependence on foreign capabilities.",
+    "The scheme supports the Atmanirbhar Bharat goal.",
+    "Large-scale exploration and associated infrastructure can generate skilled and supporting employment."
+   ]
+  },
+  {
+   "id": "2026-08-c3-t4-s5",
+   "title": "Deep Ocean Mission and Matsya6000",
+   "summary": "The Deep Ocean Mission, run by the Ministry of Earth Sciences, includes the Samudrayaan mission to explore the ocean bed. Samudrayaan is a crewed expedition to 6,000 metres in the central Indian Ocean, using the Matsya6000 submersible. This programme is distinct from the Samudra Manthan Scheme.",
+   "facts": [
+    "The Deep Ocean Mission (DOM) is spearheaded by the Ministry of Earth Sciences (MoES).",
+    "DOM was approved in 2021 with a budget of Rs 4,077 crore over five years.",
+    "Samudrayaan is a key component of DOM and aims to explore the ocean bed.",
+    "Samudrayaan was launched in 2021 as India's flagship deep ocean mission.",
+    "It involves a crewed expedition to reach depths of 6,000 metres in the central Indian Ocean.",
+    "Matsya6000 is India's premier human submersible for deep-sea exploration.",
+    "Matsya6000 accommodates three aquanauts.",
+    "Operating endurance is 12 hours, expandable up to 96 hours in emergencies.",
+    "Matsya6000 is constructed from titanium alloy.",
+    "It travels at about 5.5 km/hr using underwater thrusters."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Under the Samudra Manthan Scheme, what is the target for adding reserves?",
+  "By how much is annual domestic oil and gas production targeted to rise under the scheme?",
+  "What is the target for expanding India's resource base under the scheme?",
+  "Assertion (A): The scheme offers government risk-sharing to attract private investment into offshore projects.",
+  "Match List I with List II:",
+  "Which of the following statements about the scheme is/are correct?",
+  "How many of the following statements about the scheme are correct?",
+  "Which of the following is NOT listed as a priority offshore region under the scheme?",
+  "What is the total outlay approved for the scheme? (in crore)",
+  "What is the allocation for Common Offshore Infrastructure Hubs? (in crore)",
+  "What is the allocation for Oil & Gas Manufacturing and Services Zones? (in crore)",
+  "Up to what percentage of eligible drilling costs does the government support under the risk-sharing mechanism? (in per cent)",
+  "How many deepwater exploratory wells are included in the scheme's financial allocation? (number)",
+  "Up to which financial year is the scheme's implementation period? (give the year range)",
+  "What is the approximate annual natural production decline rate of existing oil and gas fields? (in per cent)"
+ ]
+}

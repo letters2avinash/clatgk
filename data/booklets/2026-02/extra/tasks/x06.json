@@ -1,0 +1,73 @@
+{
+ "key": "x06",
+ "topic": "16th Finance Commission Report",
+ "chapter": "Economics",
+ "text_file": "data/booklets/2026-02/t06_16th_finance_commission_report.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c3-t2-s1",
+   "title": "Constitution and Role of the Commission",
+   "summary": "The 16th Finance Commission was set up in 2023 under Article 280 to recommend how tax revenue is distributed between the Centre and the States. It has one Chairperson, Dr. Arvind Panagariya, and four other members, appointed by the President for a generally five-year tenure. Its report and an Action Taken Memorandum are laid before Parliament under Article 281, and the Government has accepted its key recommendations for 2026-31.",
+   "facts": [
+    "Set up in 2023 under Article 280 of the Constitution",
+    "Constitutional body that recommends distribution of tax revenues between Centre and States",
+    "Chairperson: Dr. Arvind Panagariya, former Vice-Chairman of NITI Aayog",
+    "Other members: Ajay Narayan Jha, Annie George Mathew, Niranjan Rajadhyaksha, Soumya Kanti Ghosh",
+    "Composition: 1 Chairperson and 4 other members",
+    "Constituted by the President of India, every five years or earlier if required",
+    "Members appointed for a specified tenure, generally 5 years",
+    "Report and Action Taken Memorandum laid before Parliament under Article 281",
+    "Report tabled in Lok Sabha by the Union Finance Minister",
+    "Central Government is not bound by Finance Commission suggestions"
+   ]
+  },
+  {
+   "id": "2026-02-c3-t2-s3",
+   "title": "Grants-in-Aid, Cess and Surcharge",
+   "summary": "Statutory grants under Article 275 go only to States in need of financial assistance and are charged on the Consolidated Fund of India every year. Discretionary grants under Article 282 can be made for any public purpose, and the Centre has no obligation to give them. Cesses and surcharges are levied by the Centre and are not shared with States, while SASCI provides long-term interest-free loans for capital projects.",
+   "facts": [
+    "Statutory grants under Article 275: Parliament makes grants to States in need of financial assistance",
+    "Statutory grants are not given to every State",
+    "Statutory grants are charged on the Consolidated Fund of India every year",
+    "Discretionary grants under Article 282 can be made for any public purpose",
+    "Discretionary grants can be made even outside legislative competence",
+    "Centre has no obligation to give discretionary grants",
+    "Cess: a 'tax on tax' levied for specific purposes such as education and health",
+    "Cess is mandatory for all taxpayers and is not shared with States",
+    "Surcharge: additional tax on high-income earners, not shared with States",
+    "SASCI launched in 2020-21 gives 50-year interest-free loans to States for capital projects"
+   ]
+  },
+  {
+   "id": "2026-02-c3-t2-s5",
+   "title": "Impact, Concerns and Past Commissions",
+   "summary": "The retained 41 per cent share is said to give States revenue predictability, and the revised formula is said to safeguard fiscally weaker States. Critics point to the 41 per cent share falling short of the 50 per cent demanded, the reduced weight for demographic performance, and the discontinuation of revenue-deficit grants. Finance Commissions have been appointed since 1951, and the early chairpersons include K.C. Neogy.",
+   "facts": [
+    "Retaining 41% vertical devolution gives States revenue predictability",
+    "Revised horizontal formula is said to safeguard fiscally weaker States",
+    "Concern: States' share stays at 41% despite demands for 50%",
+    "Concern: lower weight to income distance and new GDP criterion may favour richer, populous States",
+    "Concern: reduced demographic weight raises 'Ageing Before Prosperity' fears, especially in Southern States",
+    "Concern: discontinuing revenue-deficit grants could hurt Hill and Special-category States",
+    "Concern: cesses and surcharges outside the divisible pool reduce untied fiscal space for States",
+    "First Finance Commission (1951) chaired by K.C. Neogy",
+    "Eighth Finance Commission (1982) chaired by Y.B. Chavan",
+    "Fifteenth Finance Commission (2017) chaired by N.K. Singh"
+   ]
+  }
+ ],
+ "already_asked": [
+  "What weight does the revised horizontal devolution formula give to Population (2011)?",
+  "What fiscal deficit target has the Commission recommended for the Centre by 2030-31?",
+  "Match List I with List II:",
+  "Consider the following statements about the 16th Finance Commission's recommendations:",
+  "Consider the following statements:",
+  "Which levy is described as a 'tax on tax' imposed by the Central Government for specific purposes such as education and health?",
+  "In which year was the 16th Finance Commission set up? (year)",
+  "By which year does the Commission recommend the Centre's fiscal deficit be reduced to 3.5% of GDP? (year, in the form 2030-31)",
+  "What is the recommended fiscal deficit limit for States, as a percentage of GSDP? (in per cent)",
+  "Which scheme's borrowings are excluded from the fiscal deficit limit? (acronym)",
+  "What cost-sharing ratio applies to disaster management in North-Eastern and Himalayan States? (in the form A:B)",
+  "Peri-urban villages are to merge into adjoining urban local bodies whose population is above how many lakh? (in lakh)"
+ ]
+}

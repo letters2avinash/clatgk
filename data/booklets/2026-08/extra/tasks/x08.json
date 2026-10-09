@@ -1,0 +1,58 @@
+{
+ "key": "x08",
+ "topic": "Tribunals Reforms Bill 2026",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-08/t08_tribunals_reforms_bill_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c3-t3-s1",
+   "title": "Tribunals vs Ordinary Courts",
+   "summary": "Ordinary courts and administrative tribunals differ mainly in who controls the tenure and service conditions of their members. Civil courts have judicial authority over civil suits, while tribunals are created by statute to hear special cases defined by statutes. Impartiality is a crucial requirement for judges in a court of law.",
+   "facts": [
+    "Civil courts have judicial authority over suits of a civil nature, unless barred by law.",
+    "Judges in ordinary courts are independent regarding tenure, terms and conditions of service.",
+    "Administrative Tribunal members' tenure and conditions are entirely controlled by the Executive (Government).",
+    "The presiding officer of a court is required to be trained in law.",
+    "A tribunal President or member may not be legally trained but may be an expert in administrative matters.",
+    "An Administrative Tribunal is an agency created by Statute and derives its powers from the State.",
+    "Tribunals have power to try special cases defined by Statutes.",
+    "An Administrative Tribunal may be a party to a dispute it decides.",
+    "Impartiality is a crucial requirement for judges in a court of law."
+   ]
+  },
+  {
+   "id": "2026-08-c3-t3-s2",
+   "title": "Constitutional Framework and History",
+   "summary": "Part XIV-A, inserted by the 42nd Constitutional Amendment Act 1976, contains Articles 323A and 323B, which empower Parliament and State Legislatures to set up tribunals. In L. Chandra Kumar vs Union of India (1997), the Supreme Court held that judicial review is part of the Basic Structure. Tribunal decisions remain subject to scrutiny by the concerned High Court.",
+   "facts": [
+    "Part XIV-A was inserted by the 42nd Constitutional Amendment Act, 1976.",
+    "Part XIV-A contains Articles 323A and 323B.",
+    "Article 323A: Parliament alone can establish Administrative Tribunals.",
+    "Article 323B: Parliament or State Legislatures can establish tribunals for specified matters.",
+    "L. Chandra Kumar vs Union of India (1997): judicial review under Articles 226/227 and Article 32 is part of the Basic Structure.",
+    "Tribunals aim to adjudicate specialised disputes and reduce the workload of constitutional courts.",
+    "Tribunals operate in areas such as taxation, company law, environment, telecommunications, armed forces and administrative matters.",
+    "Tribunal decisions remain subject to scrutiny by the concerned High Court.",
+    "The Income Tax Appellate Tribunal, established in 1941, was the first tribunal in India.",
+    "The First Administrative Reforms Commission recommended Civil Services Tribunals at national and state levels."
+   ]
+  }
+ ],
+ "already_asked": [
+  "What minimum relevant experience must the Technical Members of the National Tribunals Commission have?",
+  "Within what time must the Central Government complete the appointment process after receiving an NTC recommendation?",
+  "Assertion (A): The Search-cum-Selection Committee of the NTC recommends candidates for each vacancy.",
+  "Match List I with List II:",
+  "Consider the following statements about the National Tribunals Commission:",
+  "Consider the following statements about the National Tribunals Commission framework:",
+  "Which of the following bodies is included among the tribunals covered under the proposed framework?",
+  "How many Judicial Members does the National Tribunals Commission have, apart from the Chairperson?",
+  "In which year was the statutory body National Green Tribunal established under the NGT Act? (year)",
+  "What is the principal place of sitting of the National Green Tribunal? (city)",
+  "How many regional benches does the National Green Tribunal have, apart from its principal place of sitting? (number)",
+  "Within how many months must the NGT dispose of appeals from the date of their filing? (in months)",
+  "Within how many days can an appeal be filed against an NGT decision in the Supreme Court? (in days)",
+  "In which year was the Forest Rights Act enacted, the law that the NGT excludes from its jurisdiction? (year)",
+  "The Central Government appoints the NGT Chairperson in consultation with which authority? (name the authority)"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "key": "x15",
+ "topic": "EOS-05: India's 1st Dedicated GEO Satellite",
+ "chapter": "Sports, S&T & Defence",
+ "text_file": "data/booklets/2026-09/t15_eos_05.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c7-t1-s2",
+   "title": "Satellite orbits: LEO, MEO and GEO",
+   "summary": "An orbit is the curved path a satellite follows around Earth under gravity, and the choice of orbit shapes coverage, resolution, revisit time, delay and fuel need. LEO lies about 160-2,000 km up and offers low latency and high-resolution observation. MEO spans about 2,000-35,786 km and hosts navigation systems, while GEO is a special case of geosynchronous orbit at about 35,786 km.",
+   "facts": [
+    "Orbit: curved path followed by a satellite around Earth under gravity",
+    "Orbit choice determines coverage, image resolution, revisit time, delay, fuel and mission",
+    "LEO altitude: approx 160-2,000 km; orbital period about 90-120 minutes",
+    "LEO features: low communication latency, suited to large constellations",
+    "Sun-synchronous orbit: LEO subtype giving relatively consistent solar illumination",
+    "Very Low Earth Orbit: very high-resolution observation but greater atmospheric drag",
+    "MEO altitude: approx 2,000 km to 35,786 km",
+    "MEO use: navigation systems such as GPS and Europe's Galileo",
+    "Geosynchronous orbit period equals Earth's rotation (23 hrs, 56 mins, 4 secs)",
+    "GEO: zero-degree inclination, directly over the Equator, moving in Earth's rotation direction",
+    "A GEO satellite appears fixed over one point on Earth"
+   ]
+  },
+  {
+   "id": "2026-09-c7-t1-s3",
+   "title": "Why GEO imaging matters and its uses",
+   "summary": "A LEO satellite observes a location only when it passes overhead, which leaves intervals between observations. A geosynchronous imaging platform can give persistent, wide-area monitoring, useful for fast events such as cyclones, cloudbursts, flash floods and forest fires. The booklet lists EOS-05 applications under disaster management, strategic and national security, and agriculture and environment.",
+   "facts": [
+    "LEO satellite sees a particular location only when it passes overhead",
+    "Geosynchronous platform provides persistent and wide-area monitoring",
+    "Useful for tracking cyclones, cloudbursts, flash floods and forest fires",
+    "Frequent observations support weather monitoring, disaster management, early warning and emergency response",
+    "Disaster management: near real-time monitoring of cyclones, floods and cloudbursts",
+    "Strategic security: continuous surveillance of land borders and maritime domain",
+    "Agriculture and environment: monitoring forest fires, vegetation health and crop cycles",
+    "Optical sensors cannot penetrate thick clouds",
+    "High altitude limits sub-meter spatial resolution",
+    "Crop insurance claims streamlined by replacing manual experiments with objective satellite indices"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which launch vehicle carried EOS-05 into orbit?",
+  "What is the approximate mass of EOS-05?",
+  "Assertion (A): EOS-05 can monitor large geographical areas persistently.",
+  "Match List I with List II:",
+  "Consider the following statements about the GSLV-F17 launch of EOS-05.",
+  "How many of the following statements about EOS-05 are correct?",
+  "What is the nickname of EOS-05?",
+  "Why is GEO-based Earth observation useful compared with LEO?",
+  "What is NISAR's designed mission life, in years?",
+  "At what altitude, in km, does NISAR orbit Earth?",
+  "After how many days does NISAR's repeat cycle complete? (in days)",
+  "What is the width of NISAR's imaging swath, in km?",
+  "How many radar frequency bands does NISAR use? (in number)",
+  "Which type of low Earth orbit does NISAR use?",
+  "What is the name of NISAR's imaging mode that captures wide 3D high-resolution images?"
+ ]
+}

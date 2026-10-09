@@ -1,0 +1,57 @@
+{
+ "key": "x03",
+ "topic": "Cardiff Pact and UK Federal Challenge",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-09/t03_cardiff_pact.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c1-t3-s1",
+   "title": "Devolution and the asymmetric UK framework",
+   "summary": "Devolution transfers powers from the central government to subnational institutions, while the centre keeps ultimate constitutional authority. In the UK, Scotland, Wales and Northern Ireland have devolved institutions, but the extent and nature of their powers differ, so the arrangement is asymmetric rather than uniform. The UK Treasury uses the Barnett Formula to set changes in block grant funding for these administrations.",
+   "facts": [
+    "Devolution means transfer of powers from central government to subnational institutions",
+    "Ultimate constitutional authority is retained at the centre",
+    "Devolved institutions in the UK: Scotland, Wales and Northern Ireland",
+    "Extent and nature of devolved powers differ among the three",
+    "UK devolution is asymmetric rather than uniform",
+    "Scotland Act 1998 established the Scottish Parliament and devolved substantial domestic powers",
+    "Government of Wales Act 1998 established the Welsh Legislature, now known as the Senedd",
+    "Barnett Formula is used by the UK Treasury to set block grant changes",
+    "UK Internal Market Act 2020 regulates the domestic UK market after Brexit",
+    "Devolved governments criticised the 2020 Act as reducing their regulatory autonomy"
+   ]
+  },
+  {
+   "id": "2026-09-c1-t3-s3",
+   "title": "Good Friday Agreement and Northern Ireland",
+   "summary": "The Good Friday (Belfast) Agreement, signed on 10 April 1998, ended the conflict known as The Troubles in Northern Ireland. It set up power-sharing government, allowed reunification with Ireland subject to a referendum, and let citizens hold Irish or British nationality or both. After the 2022 deadlock over government formation, a new deal was published as the command paper Safeguarding the Union.",
+   "facts": [
+    "Signed on 10 April 1998 at Belfast; ended a 30-year-old civil war known as The Troubles",
+    "Power-sharing government formed on the wishes of Republicans and Unionists, who share governance equally",
+    "People can seek reunification with Ireland at any time, subject to a referendum",
+    "Citizens can hold Irish or British nationality or both",
+    "Agreement abolished border checks and encouraged freedom of movement across UK and Ireland",
+    "A border poll on Irish reunification can be called by the UK Secretary of State for Northern Ireland when conditions show majority support",
+    "After Brexit, Northern Ireland shared a land border with the Republic of Ireland, an EU member",
+    "Border checks between Great Britain and Northern Ireland angered Unionists",
+    "The DUP leader refused to allow government formation after the May 2022 Northern Ireland polls",
+    "A new deal was published as a command paper called Safeguarding the Union"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which Sinn Fein leader signed the Cardiff Pact for Northern Ireland?",
+  "Rhun ap Iorwerth, a signatory of the pact, represents which party?",
+  "Match List I with List II:",
+  "Statements about the Cardiff Pact and the UK:",
+  "How many of the following statements about the Good Friday Agreement are correct?",
+  "In the 2016 Brexit referendum, what percentage of Northern Ireland voted to Remain?",
+  "The Act of Union that brought Ireland into the United Kingdom was passed in which year?",
+  "In which year was the Act of Union that brought Ireland into the United Kingdom passed?",
+  "In which year was Wales incorporated into the English legal and political system?",
+  "In which year did most of Ireland become independent?",
+  "Name the Act of Parliament that established the Scottish Parliament.",
+  "What was the state called that was formed when the English and Scottish parliaments were united in 1707? (use the full name)",
+  "In which year was the Good Friday Agreement signed?"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "key": "x02",
+ "topic": "End of New START Treaty",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-02/t02_end_of_new_start_treaty.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c1-t2-s2",
+   "title": "Cold War Arms Control Milestones",
+   "summary": "Arms control between the United States and the Soviet Union progressed through a series of talks and agreements. The SALT I round produced the Anti-Ballistic Missile (ABM) Treaty, which limited missile defence to preserve mutual vulnerability. Later instruments such as SALT II, START I, START II and SORT set quantitative limits or served as interim pacts, but several were never ratified or were later abandoned.",
+   "facts": [
+    "SALT I (1969-1972) resulted in the Anti-Ballistic Missile (ABM) Treaty.",
+    "The ABM Treaty restricted deployment of missile defence systems to preserve mutual vulnerability.",
+    "SALT II (1972-1979) set quantitative limits on nuclear delivery systems, including long-range missiles and strategic bombers.",
+    "The United States never ratified SALT II, owing to Soviet military intervention in Afghanistan.",
+    "START I (1991) capped 6000 nuclear warheads, enforced inspections and expired in 2009.",
+    "START II (1993) aimed to reduce nuclear weapons to 3,500; Russia withdrew after the US exited the ABM Treaty.",
+    "SORT (2002), also known as the Moscow Treaty, was an interim agreement between the US and Russia."
+   ]
+  },
+  {
+   "id": "2026-02-c1-t2-s3",
+   "title": "Nuclear Treaties and Control Regimes",
+   "summary": "Beyond the US-Russia pacts, a set of global treaties and voluntary export-control regimes aims to limit nuclear weapons and their spread. The NPT classifies states as nuclear-weapon or non-nuclear-weapon states, the CTBT seeks to end nuclear testing, and the TPNW bans nuclear weapons outright. Export regimes such as the Australia Group, the MTCR and the Wassenaar Arrangement coordinate controls on sensitive goods.",
+   "facts": [
+    "Outer Space Treaty (1967) bans deployment of weapons of mass destruction in outer space; all nuclear-armed nations are signatories.",
+    "NPT (1968) aims to prevent nuclear spread and promote disarmament, and classifies nations as nuclear-weapon or non-nuclear-weapon states.",
+    "CTBT (1996) seeks to ban all nuclear weapon testing for civilian and military use.",
+    "CTBT is signed by 185 countries and ratified by 170, but remains non-operational as ratification by key nuclear-armed states is pending.",
+    "TPNW (2017) bans development, testing, possession and use of nuclear weapons.",
+    "Missile Technology Control Regime (1987) is an informal political understanding with 35 members.",
+    "Australia Group (1985) is an informal export control forum formed after chemical weapons use in the Iran-Iraq War.",
+    "Wassenaar Arrangement (1996) is a voluntary export control regime with 42 members."
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which city is the headquarters of the International Atomic Energy Agency located?",
+  "Which group was awarded the 2024 Nobel Peace Prize for efforts toward a nuclear-free world?",
+  "How many of the following statements about India's nuclear history are correct?",
+  "On which date did the New START Treaty officially expire?",
+  "Consider the following statements about arms control:",
+  "What is the ceiling on operationally deployed strategic nuclear warheads for each country under New START?",
+  "Match List I with List II:",
+  "In which year did India conduct its first nuclear test, 'Smiling Buddha', at Pokhran? (year)",
+  "Who is regarded as the father of India's nuclear programme? (name)",
+  "In which year did the Apsara reactor become operational? (year)",
+  "Which station became India's first commercial nuclear power plant when it began operations in 1969? (name)",
+  "How many nuclear tests did India conduct in total in the Pokhran-II series of May 1998? (number)",
+  "What is the name of India's policy that pledges no first nuclear strike? (short phrase)",
+  "In which year did the NSG grant India a waiver enabling nuclear trade? (year)"
+ ]
+}

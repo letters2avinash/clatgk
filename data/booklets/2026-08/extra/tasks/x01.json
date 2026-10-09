@@ -1,0 +1,71 @@
+{
+ "key": "x01",
+ "topic": "Ceuta Migration Crisis and International Refugee Frameworks",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-08/t01_ceuta_migration_crisis.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c1-t1-s1",
+   "title": "Refugee, Asylum Seeker and Migrant",
+   "summary": "The booklet distinguishes three categories of people on the move: refugees, asylum seekers and migrants. Each category differs in why the person moves, what protection applies, and which law governs the person's stay.",
+   "facts": [
+    "Refugee: forced to flee due to persecution or conflict.",
+    "Refugee is protected under the 1951 Refugee Convention.",
+    "Refugees cannot be forcibly returned (non-refoulement).",
+    "Asylum seeker: a person seeking recognition as a refugee.",
+    "Asylum seeker is awaiting a decision on refugee status.",
+    "Asylum seeker receives temporary protection during the application.",
+    "Migrant: moves mainly for work, education or better opportunities.",
+    "Migrant may migrate legally or irregularly.",
+    "Migrant is governed mainly by domestic immigration laws."
+   ]
+  },
+  {
+   "id": "2026-08-c1-t1-s3",
+   "title": "Spanish Territories and the Western Sahara Link",
+   "summary": "Ceuta, Melilla and Plazas de Soberania are Spanish territories associated with the North African mainland. Morocco disputes their status, and the migration issue is closely linked to the Western Sahara dispute. Changes in Spain's relations with Morocco and Algeria have repeatedly affected migration flows through Ceuta.",
+   "facts": [
+    "Spanish territories associated with the North African mainland: Ceuta, Melilla and Plazas de Soberania.",
+    "Spain exercises sovereignty over these territories.",
+    "Morocco disputes their status and has sought their return since gaining independence in 1956.",
+    "Western Sahara, a former Spanish colony, was annexed by Morocco in 1975.",
+    "The Polisario Front declared the Sahrawi Arab Democratic Republic (SADR) in 1976.",
+    "The Polisario Front demands self-determination for the Sahrawi people.",
+    "Algeria supports the Polisario Front, while Morocco proposes autonomy under its sovereignty.",
+    "Changes in Spain's relations with Morocco and Algeria have repeatedly influenced migration flows through Ceuta."
+   ]
+  },
+  {
+   "id": "2026-08-c1-t1-s5",
+   "title": "UNHCR and India's Approach to Refugees",
+   "summary": "The UN High Commissioner for Refugees (UNHCR) was formed in 1950 as successor to the International Refugee Organization, and its office originated in 1921 under the League of Nations. India is not a signatory to the 1951 Convention or the 1967 Protocol, and it regulates undocumented foreigners under domestic Acts.",
+   "facts": [
+    "UNHCR was formed on 14 December 1950.",
+    "UNHCR succeeded the International Refugee Organization (1946).",
+    "The office of High Commissioner for Refugees originated in 1921 under the League of Nations, led by Fridtjof Nansen.",
+    "UNHCR's headquarters are in Geneva, Switzerland.",
+    "UNHCR received the Nobel Peace Prize in 1954 and 1981.",
+    "The UNHCR Nansen Refugee Award was established in 1954 and is named after Fridtjof Nansen.",
+    "The Nansen Award honours exceptional service to refugees, displaced or stateless people annually.",
+    "India is not a signatory to the 1951 Refugee Convention or the 1967 Protocol.",
+    "All undocumented foreigners in India are regulated under the Foreigners Act (1946), the Registration of Foreigners Act (1939), the Passport (Entry into India) Act (1920) and the Citizenship Act (1955)."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which body declared the Ceuta Migration Crisis resolved?",
+  "What is the political status of Ceuta?",
+  "At the eastern entrance of which strait is Ceuta strategically located?",
+  "According to the booklet, how many land borders does the EU share with Africa?",
+  "Assertion (A): Fortified border fences separating Ceuta from Morocco are often breached by immigrants.",
+  "Match List I with List II:",
+  "Which of the following statements is/are correct?",
+  "Consider the following statements about Ceuta:",
+  "In which year was the Palermo Protocol adopted? (year)",
+  "In which year was the United Nations Relief and Works Agency established? (year)",
+  "In which year was the Convention on the Rights of the Child adopted? (year)",
+  "In which year was the Global Compact on Refugees framework introduced? (year)",
+  "How often is the Global Refugee Forum held? (in years)",
+  "Which country, named in the booklet, is not a signatory to the 1951 Refugee Convention or the 1967 Protocol?"
+ ]
+}

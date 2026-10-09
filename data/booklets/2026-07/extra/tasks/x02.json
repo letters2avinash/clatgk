@@ -1,0 +1,59 @@
+{
+ "key": "x02",
+ "topic": "India-Indonesia Relations",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-07/t02_india_indonesia.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c1-t2-s3",
+   "title": "Prambanan Temple and Shared Heritage",
+   "summary": "The Prambanan Temple Complex in Yogyakarta, locally known as Roro Jonggrang, is Indonesia's largest Hindu temple complex and India is supporting its conservation. Shared heritage and cultural diplomacy are reflected in the Tagore-Dewantara Year and a planned IIM Bangalore branch campus.",
+   "facts": [
+    "Prambanan is locally known as Roro Jonggrang.",
+    "Prambanan is the largest Hindu temple complex in Indonesia.",
+    "Prambanan is the 2nd largest in Southeast Asia, after Angkor Wat in Cambodia.",
+    "It was built in the 9th and 10th centuries CE under the Sanjaya Dynasty (Mataram Kingdom).",
+    "It is dedicated to the Hindu Trinity of Shiva, Vishnu and Brahma.",
+    "British surveyor Colin Mackenzie formally rediscovered the ruins in 1811.",
+    "India will provide technical support for conservation of the Prambanan Temple Complex.",
+    "2026-27 is declared the Tagore-Dewantara Year of India-Indonesia Cultural and Educational Diplomacy.",
+    "The Tagore-Dewantara Year commemorates the centenary of Rabindranath Tagore's visit to Indonesia.",
+    "Approval was announced for an IIM Bangalore branch campus at Singhasari Special Economic Zone, East Java.",
+    "India presented a replica of the Nalanda Copper Plate to strengthen shared civilisational links."
+   ]
+  },
+  {
+   "id": "2026-07-c1-t2-s4",
+   "title": "Non-Aligned Movement (NAM)",
+   "summary": "NAM is a group of states not formally aligned with or against any major power bloc, founded in 1961 in Belgrade, Serbia. It is rooted in the Ten Principles of the 1955 Bandung Conference, and India and Indonesia were both founding members.",
+   "facts": [
+    "NAM is a group of states not formally aligned with or against any major power bloc.",
+    "NAM was founded in 1961 in Belgrade, Serbia.",
+    "NAM is based on the Ten Principles of the Bandung Conference, 1955.",
+    "Founding fathers include Jawaharlal Nehru (India), Sukarno (Indonesia), Josip Broz Tito (Yugoslavia) and Kwame Nkrumah (Ghana).",
+    "NAM emphasised the 4Ds: Detente, Disarmament, Decolonisation and Development of the Third World.",
+    "NAM contributed to the 1963 Partial Test Ban Treaty through declarations on nuclear testing and non-proliferation.",
+    "NAM helped create several nuclear-weapon-free zones.",
+    "NAM advocated for the Global South and supported anti-apartheid in South Africa and Namibia.",
+    "NAM has supported India's candidature at the UNSC.",
+    "NAM failed to halt the arms race and to resolve regional conflicts such as Iran-Pakistan and Russia-Ukraine."
+   ]
+  }
+ ],
+ "already_asked": [
+  "What is the name of Indonesia's highest civilian honour conferred on India's Prime Minister during the State Visit?",
+  "The Prime Minister became which numbered recipient of Indonesia's highest civilian honour?",
+  "How many of the following statements are correct?",
+  "Which Indonesian counterpart signed a disaster preparedness MoU with India's National Disaster Management Authority?",
+  "Which of the above statements is/are correct?",
+  "Match List I with List II:",
+  "Indonesian President Prabowo Subianto was invited as Chief Guest for India's Republic Day in which year?",
+  "What rank does Indonesia hold among India's trading partners within ASEAN? (answer as a number)",
+  "Which Indian agency jointly operates the Biak Telemetry, Tracking and Command Facility with Indonesia's BRIN? (abbreviation)",
+  "Indonesia Open Network was inspired by which Indian model? (abbreviation)",
+  "How many major military exercises between India and Indonesia are listed in the booklet? (in number)",
+  "Indonesia will post a Liaison Officer at which facility to improve Maritime Domain Awareness? (abbreviation)",
+  "Sabang Port, which India and Indonesia agreed to develop jointly, is situated near the entrance to which strait? (name the strait)",
+  "Indonesia's pivotal position in India's Act East Policy and Indo-Pacific Strategy is also linked to which Indian vision? (abbreviation)"
+ ]
+}

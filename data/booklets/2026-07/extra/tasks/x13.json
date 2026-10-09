@@ -1,0 +1,57 @@
+{
+ "key": "x13",
+ "topic": "India's first indigenous Hydrogen-powered Train",
+ "chapter": "Defence, Space and S&T",
+ "text_file": "data/booklets/2026-07/t13_hydrogen_train.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c6-t2-s1",
+   "title": "Hydrogen train specifications",
+   "summary": "India's first indigenous Hydrogen-powered Train was inaugurated by PM Modi on the Jind–Sonipat route in Haryana. It is configured as a 10-coach Hydrogen Fuel Cell Trainset powered by a 1,200 kW propulsion system. The train was developed by Integral Coach Factory, Chennai, and its approved operational speed is 75 km/h against a design speed of 110 km/h. Hydrogen is the lightest chemical element, and it makes up nearly 75% of the universe's normal matter.",
+   "facts": [
+    "Route: Jind–Sonipat, Haryana; length 89 km",
+    "Inaugurated by PM Modi as India's 1st indigenous Hydrogen-powered Train",
+    "Configured as a 10-coach Hydrogen Fuel Cell Trainset",
+    "Propulsion: 1,200 kW Hydrogen Fuel Cell Propulsion System",
+    "Approved operational speed: 75 km/h; design speed: 110 km/h",
+    "Developed by Integral Coach Factory, Chennai",
+    "Hydrogen: lightest chemical element, atomic number 1",
+    "Hydrogen constitutes nearly 75% of the Universe's normal matter"
+   ]
+  },
+  {
+   "id": "2026-07-c6-t2-s4",
+   "title": "New developments in railways and S&T",
+   "summary": "KAVACH is an indigenous Automatic Train Protection System developed by RDSO, with automatic braking and centralised live monitoring. The Vande Metro train has been renamed Namo Bharat Rapid Rail, and Namo Bharat/RapidX runs on the Delhi–Ghaziabad–Meerut corridor. Mission 41K aims to save Rs 41000 crore over 10 years through energy-efficient solutions. The Amrit Bharat Station Scheme plans to redevelop 400 major stations by tying up with private companies.",
+   "facts": [
+    "KAVACH: indigenously developed Automatic Train Protection System, developed by RDSO",
+    "KAVACH features: centralised live monitoring, automatic braking to prevent over-speeding, relaying SOS messages",
+    "India's 1st Vande Metro Train renamed Namo Bharat Rapid Rail",
+    "Namo Bharat/RapidX: India's first Rapid Rail, Delhi–Ghaziabad–Meerut corridor, operated by NCRTC",
+    "Mission Raftaar: to increase speed of transportation",
+    "Amrit Bharat Station Scheme: redevelopment of 400 major stations with private companies",
+    "Habibganj (near Bhopal) will be India's 1st private railway station",
+    "Mission 41K: save Rs 41000 crore in 10 years through energy-efficient solutions",
+    "Kolkata Metro Extension: India's first underwater metro line, tunnel beneath Hooghly River",
+    "Indian Railways Finance Corporation: established 1986, financial arm of Indian Railways"
+   ]
+  }
+ ],
+ "already_asked": [
+  "What is the approved operational speed of India's first indigenous Hydrogen-powered Train (in km/h)?",
+  "What is the rating of the Hydrogen Fuel Cell Propulsion System that powers the train (in kW)?",
+  "Which organisation developed India's first indigenous Hydrogen-powered Train?",
+  "Assertion (A): KAVACH can apply brakes automatically to stop a train from over-speeding.",
+  "Match List I with List II:",
+  "Consider the following statements about India's first indigenous Hydrogen-powered Train:",
+  "How many of the following statements about the Hydrogen-powered Train are correct?",
+  "Habibganj, near which city, will become India's first private railway station?",
+  "In which year was the first railway line in India introduced, connecting Bombay to Thane?",
+  "Under which Governor General was the first railway line in India introduced? (name only)",
+  "How many Railway Zones does India have? (number)",
+  "What is the length of the Konkan Railway route, from Roha to Mangalore? (in km)",
+  "What is the width of the Broad Gauge track in India? (in metres)",
+  "Which station near Bhopal will become India's first private railway station? (name of station)",
+  "Which railway zone is the largest in India? (name of zone)"
+ ]
+}

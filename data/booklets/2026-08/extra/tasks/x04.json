@@ -1,0 +1,56 @@
+{
+ "key": "x04",
+ "topic": "Cauvery Water Dispute",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-08/t04_cauvery_water_dispute.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c2-t1-s1",
+   "title": "Cauvery River and its basin",
+   "summary": "The Cauvery is an east-flowing Peninsular River, known as 'Ganga of the South', that rises at Talakaveri in Kodagu, Karnataka. It flows through Karnataka and Tamil Nadu before draining into the Bay of Bengal near Poompuhar. Its drainage basin covers four states and UTs, and its upper and lower basins receive different monsoons.",
+   "facts": [
+    "Also known as 'Ganga of the South'",
+    "East-flowing Peninsular River",
+    "Origin: Talakaveri, Brahmagiri Hills, Kodagu (Karnataka)",
+    "Flows through Karnataka and Tamil Nadu",
+    "Drains into the Bay of Bengal near Poompuhar",
+    "Drainage basin: Karnataka, Tamil Nadu, Kerala and Puducherry",
+    "Upper Basin receives the Southwest Monsoon",
+    "Lower Basin benefits from the Northeast Monsoon",
+    "Major dams: Krishna Raja Sagara (Karnataka) and Mettur Dam (Tamil Nadu)"
+   ]
+  },
+  {
+   "id": "2026-08-c2-t1-s4",
+   "title": "Mekedatu project and the latest order",
+   "summary": "The Cauvery Water Management Authority endorsed an order directing Karnataka to release 3,500 Cusecs (around 4.5 TMC ft) of Cauvery water to Tamil Nadu. Tamil Nadu has opposed Karnataka's proposed Mekedatu Balancing Reservoir Project, which aims to supply drinking water to Bengaluru and generate approximately 400 MW of power. Tamil Nadu raised objections to the project in 2018 and approached the Supreme Court.",
+   "facts": [
+    "CWMA endorsed an order: Karnataka to release 3,500 Cusecs (around 4.5 TMC ft) to Tamil Nadu",
+    "Tamil Nadu has opposed Karnataka's proposed Mekedatu Balancing Reservoir Project",
+    "Mekedatu aims to provide drinking water to Bengaluru city",
+    "Mekedatu aims to generate approximately 400 MW of power",
+    "Mekedatu is a proposed project on the Cauvery",
+    "Tamil Nadu raised objections against the project in 2018 and approached the Supreme Court",
+    "Tamil Nadu opposes any project in the upper riparian region without Supreme Court approval",
+    "This stance is meant to protect water flow to Tamil Nadu"
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year was the Cauvery Water Disputes Tribunal constituted?",
+  "The CWDT Award of 2007 allocated a total of how many TMC of Cauvery water?",
+  "The 1924 agreement allowed Mysore to construct a dam at Kannambadi village, which led to the development of which dam?",
+  "Assertion (A): The 1924 agreement came up for review after 1974.",
+  "Match List I with List II:",
+  "Consider the following statements about the Cauvery water sharing awards:",
+  "Consider the following statements about the Cauvery dispute:",
+  "Apart from Article 262, under which Central Act was the Cauvery dispute brought?",
+  "In which year was the Cauvery Water Management Authority established?",
+  "For how many years does the Chairperson of the Authority serve? (in years)",
+  "Under which Section of the Inter-State River Water Disputes Act, 1956 is the Authority notified?",
+  "In which city is the Authority's headquarters located?",
+  "How many full-time members does the Authority have? (in number)",
+  "How many part-time members represent the basin states and UT on the Authority? (in number)",
+  "Under which Union Ministry does the Authority's headquarters function?"
+ ]
+}

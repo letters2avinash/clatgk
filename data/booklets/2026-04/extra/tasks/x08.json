@@ -1,0 +1,58 @@
+{
+ "key": "x08",
+ "topic": "RBI Holds Repo Rate at 5.25%",
+ "chapter": "Economics",
+ "text_file": "data/booklets/2026-04/t08_rbi_repo_rate_5_25.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c4-t1-s1",
+   "title": "Repo Rate and the Economy",
+   "summary": "The Repo Rate is the rate at which the RBI lends money to commercial banks, so changes to it ripple through borrowing and spending. A lower repo rate makes loans cheaper and supports growth, while a higher repo rate curbs excess spending and eases inflation. The RBI cut the rate by 25 basis points to 5.25% in December 2025.",
+   "facts": [
+    "Repo stands for Repurchasing Option or Repurchase Agreement",
+    "Repo Rate: rate at which RBI lends money to commercial banks",
+    "Lower repo rate means cheaper loans for banks and lower interest rates for borrowers",
+    "Lower repo rate leads to increased borrowing and spending",
+    "Higher repo rate means costlier loans for banks and higher interest rates for consumers and businesses",
+    "RBI raises the Repo Rate during high levels of inflation to bring down the flow of money",
+    "Higher repo rate curbs excessive spending and slows investment and money supply",
+    "RBI lowers the Repo Rate when it needs to pump funds into the economy",
+    "Dec 2025: RBI cut Repo Rate by 25 basis points to 5.25%",
+    "Dec 2025 cut was the 4th reduction by RBI, totalling 125 basis points in 2025"
+   ]
+  },
+  {
+   "id": "2026-04-c4-t1-s4",
+   "title": "Inflation Targeting and the RBI",
+   "summary": "Inflation targeting means the central bank aims to keep inflation within a pre-defined range. India adopted flexible inflation targeting in 2016 with a 4% target and a deviation of plus or minus 2%. The RBI works to maintain price stability while promoting economic growth, and performs several roles in the financial system.",
+   "facts": [
+    "Inflation targeting: monetary policy framework where the central bank aims to keep inflation within a targeted range",
+    "India adopted Flexible Inflation Targeting in 2016",
+    "India's inflation target is 4%, with a deviation of +/- 2%",
+    "Urjit Patel Committee (2014) formalised inflation targeting with a 4% target and 2% band",
+    "The 4% target and 2% band were first proposed by the Chakravarty Committee (1982-85)",
+    "Inflation target is set by the Government in consultation with RBI every 5 years, under the amended RBI Act, 1934",
+    "RBI aims to maintain price stability while promoting economic growth",
+    "RBI roles include monetary authority, lender of last resort, banker to government and custodian of forex reserves",
+    "Retail inflation is within the mandated target band of 2-6%",
+    "RBI was established on April 1 in Calcutta"
+   ]
+  }
+ ],
+ "already_asked": [
+  "In case of a tie in an MPC vote, who has the casting vote?",
+  "How many of the following statements about the Monetary Policy Committee are correct?",
+  "Who is the ex-officio Chairperson of the Monetary Policy Committee?",
+  "Consider the following statements about the Monetary Policy Committee:",
+  "Match List I with List II:",
+  "How many members does the Monetary Policy Committee have?",
+  "Assertion (A): Decisions of the Monetary Policy Committee are binding on commercial banks.",
+  "Which MPC member is in charge of monetary policy?",
+  "Which liquidity requirement, a statutory minimum share of deposits held as cash, gold or other securities, does the RBI raise to tighten monetary policy? (abbreviation)",
+  "Which RBI lending rate is described as long-term, in contrast to the short-term Repo Rate? (two words)",
+  "Which window lets banks borrow overnight funds at a rate higher than the Repo Rate? (abbreviation)",
+  "What is the abbreviation of the operation in which the central bank buys or sells government securities to inject or absorb durable liquidity?",
+  "Which ratio requires banks to hold a proportion of their deposits as cash with the RBI? (abbreviation)",
+  "At what rate, in per cent, did the RBI's Monetary Policy Committee keep the Repo Rate unchanged in its latest review?"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "key": "x01",
+ "topic": "PM Modi Visit to 5 Nations",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-05/t01_pm_modi_visit_5_nations.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c1-t1-s2",
+   "title": "UAE: Trade, Diaspora and Country Profile",
+   "summary": "India-UAE trade in FY 2025-26 stood at US$100 billion, and the UAE is among India's largest energy suppliers and export destinations. The 2022 CEPA and the UAE's share of India's remittance flows are key economic links. The booklet also profiles the UAE's government and the Kafala sponsorship system.",
+   "facts": [
+    "Trade between India and the UAE in FY 2025-26: US$100 billion.",
+    "UAE is India's 2nd largest export destination, after the US.",
+    "UAE is India's 3rd largest crude oil source.",
+    "UAE is India's 3rd largest supplier of LNG and 2nd largest supplier of LPG.",
+    "UAE is the only nation participating in India's Strategic Reserve Programme.",
+    "In 2022, India was the first country with which the UAE signed a Comprehensive Economic Partnership Agreement (CEPA).",
+    "UAE accounted for 18% of India's remittance flows.",
+    "UAE is a federal, elective monarchy of 7 emirates; capital Abu Dhabi; currency dirham.",
+    "Kafala system: a sponsorship system in Gulf countries that ties a foreign worker's visa and legal status to an in-country sponsor, typically the employer.",
+    "Indian nationals form the largest expatriate community within the UAE."
+   ]
+  },
+  {
+   "id": "2026-05-c1-t1-s4",
+   "title": "Italy and Netherlands: Partnerships and Heritage",
+   "summary": "India and Italy upgraded ties to a Special Strategic Partnership, targeting EUR 20 billion in bilateral trade by 2029 and backing the IMEEC corridor. Cooperation with the Netherlands covers semiconductors, water management and the return of 11th-century Chola copper plates. The booklet also places the Afsluitdijk Dam in the Netherlands alongside the proposed Kalpasar Project in Gujarat.",
+   "facts": [
+    "India and Italy upgraded bilateral relations to a Special Strategic Partnership.",
+    "India and Italy committed to raising bilateral trade to EUR 20 billion by 2029.",
+    "Both nations support IMEEC, which aims to improve trade connectivity, logistics, energy and digital links between Asia and Europe.",
+    "2027 is declared the Year of Culture and Tourism between India and Italy, marking 80 years of diplomatic relations.",
+    "Italy is India's 4th largest trading partner in the EU.",
+    "MoU between Tata Electronics and ASML supports India's semiconductor plant in Dholera, Gujarat.",
+    "Leiden University returned 11th-century Chola copper plates (Anaimangalam Copper Plates) to India.",
+    "Afsluitdijk Dam: a 32 km long barrier dam in the Netherlands that transformed the saline Zuiderzee inlet into freshwater IJsselmeer Lake.",
+    "Kalpasar Project (Gujarat): proposed dam across the Gulf of Khambhat, expected to create the world's largest freshwater reservoir.",
+    "Kalpasar objectives: freshwater storage, flood control, climate resilience, irrigation support and regional development."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Who is the Prime Minister of the UAE according to the booklet?",
+  "Which facility is described in the booklet as the world's largest airport terminal?",
+  "How many of the following statements about the UAE are correct?",
+  "How many barrels of ADNOC crude oil did India propose to store in its Strategic Petroleum Reserves?",
+  "Assertion (A): The UAE is the only nation participating in India's Strategic Reserve Programme.",
+  "Consider the following statements about the UAE:",
+  "Which of the following is the naval component named in the booklet's list of UAE defence cooperation?",
+  "Match List I with List II:",
+  "In how many years was PM Modi's visit to Norway the first bilateral visit by an Indian PM? (answer in years)",
+  "In which city was the 3rd India-Nordic Summit held?",
+  "Which partnership did India and Norway upgrade their ties to? (name the partnership)",
+  "About how much has the Norwegian Sovereign Wealth Fund (GPFG) invested in India? (in USD billion)",
+  "In which year did India and Sweden launch LeadIT at the UN Climate Action Summit?",
+  "For which period is the India-Sweden Joint Action Plan designed? (give the years)",
+  "How many countries form the core Nordic group, as listed in the booklet?"
+ ]
+}

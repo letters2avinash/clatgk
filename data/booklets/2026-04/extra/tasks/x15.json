@@ -1,0 +1,76 @@
+{
+ "key": "x15",
+ "topic": "Miscellaneous: Current Affairs April 2026",
+ "chapter": "Miscellaneous",
+ "text_file": "data/booklets/2026-04/t15_miscellaneous.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c9-t1-s3",
+   "title": "Polity, Governance and Schemes",
+   "summary": "The Supreme Court reaffirmed that Scheduled Caste status is limited to Hindus, Sikhs and Buddhists, so conversion to another religion leads to loss of SC status. Parliament passed the Andhra Pradesh Reorganisation (Amendment) Bill, 2026, naming Amaravati as the sole capital. Several government schemes were also extended or expanded, including the PM Internship Scheme and PMGSY-III.",
+   "facts": [
+    "SC status limited to Hindus, Sikhs and Buddhists under the Constitution (SC) Order, 1950",
+    "Conversion to another religion leads to loss of SC status",
+    "Doctrine of Eclipse: SC status is suspended, not permanently extinguished",
+    "Re-conversion to Hinduism, Sikhism or Buddhism can restore SC status",
+    "Only Parliament can amend the SC list",
+    "AP Reorganisation (Amendment) Bill, 2026 declares Amaravati as the sole capital",
+    "The AP amendment has retrospective effect from 2 June 2024",
+    "PM Internship Scheme: age 18-25 years; target of 1 crore internships over 5 years",
+    "PMGSY-III extended till March 2028; funding 60:40 (plain states) and 90:10 (NE and Himalayan states)",
+    "Namo Drone Didi Yojana: target of 15,000 drones for SHGs; Karnataka is top performer"
+   ]
+  },
+  {
+   "id": "2026-04-c9-t1-s4",
+   "title": "Economy and Climate",
+   "summary": "India slipped from 4th to 6th largest economy in nominal GDP in the IMF's World Economic Outlook 2026, behind the UK and Japan. India withdrew its bid to host COP33, which is scheduled for 2028, and it will halt HFC production clearances after 31 December 2027. Under NDC 3.0, India targets a 47 per cent cut in emission intensity from 2005 levels.",
+   "facts": [
+    "India slipped from 4th to 6th largest economy in nominal GDP (IMF WEO 2026)",
+    "Ranking fell behind the United Kingdom and Japan",
+    "Reasons include GDP data revision with a new 2026 base year and rupee depreciation",
+    "SAED is an indirect tax under Section 147 of the Finance Act, 2002",
+    "SAED is revised every 2 weeks based on global crude prices and works as a windfall tax",
+    "SAED revenue is not shared with states, unlike GST",
+    "Dholera (Gujarat): first semiconductor fabrication SEZ, led by Tata Semiconductor with Taiwan's PSMC",
+    "India withdrew its bid to host COP33 (2028) under UNFCCC",
+    "HFC production clearances to be halted after 31 December 2027",
+    "NDC 3.0: 47 per cent emission intensity cut from 2005 levels; 60 per cent non-fossil capacity"
+   ]
+  },
+  {
+   "id": "2026-04-c9-t1-s5",
+   "title": "Historical Events and Personalities",
+   "summary": "The 1526 Battle of Panipat between Babur and Ibrahim Lodi marked the foundation of the Mughal Empire in India. The section also covers the Sikh Gurus, the 1919 Jallianwala Bagh Massacre, Shaheed Diwas, and the reformers Jyotirao Phule and B. R. Ambedkar. Guru Tegh Bahadur was executed in Delhi on the orders of Aurangzeb.",
+   "facts": [
+    "First Battle of Panipat on 21 April 1526 between Babur and Ibrahim Lodi",
+    "Babur used the Tulughma strategy, Rumi (Ottoman) style artillery and matchlocks",
+    "Guru Nanak Dev, first Sikh Guru, started Guru ka Langar",
+    "Guru Arjun Dev composed the Adi Granth in 1604",
+    "Guru Tegh Bahadur (9th Guru) founded Anandpur Sahib and was executed in Delhi on orders of Aurangzeb",
+    "Jallianwala Bagh Massacre on 13 April 1919; official death toll 379",
+    "Shaheed Diwas on 23 March marks the 1931 execution of Bhagat Singh, Sukhdev and Rajguru",
+    "Jyotirao Phule founded Satyashodhak Samaj in 1873 and opened a girls' school in Pune in 1848",
+    "Ambedkar chaired the Drafting Committee of the Constitution and converted to Buddhism in 1956",
+    "Ambedkar received the Bharat Ratna (posthumous, 1990)"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which body regulates online gaming under the new framework?",
+  "What is the maximum imprisonment under the online gaming penalty provisions?",
+  "Assertion (A): Online money gaming is prohibited under the new framework.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements about the social media case:",
+  "What was the total compensation in the social media addiction case?",
+  "In which year was UPI launched?",
+  "On what day of April 2026 were formal US-Iran peace talks to begin?",
+  "For how many weeks did the United States and Iran agree to a ceasefire? (in weeks)",
+  "What was the approximate India-South Korea trade volume in FY 2024-25? (in USD billion)",
+  "How many MoUs did India and South Korea sign during President Lee Jae-myung's visit?",
+  "Which international solar grouping did South Korea join?",
+  "From which year does the India-ROK Year of Friendship period begin?",
+  "Which country was excluded from the US-Iran ceasefire?"
+ ]
+}

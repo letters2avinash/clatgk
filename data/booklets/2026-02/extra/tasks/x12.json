@@ -1,0 +1,72 @@
+{
+ "key": "x12",
+ "topic": "Miscellaneous",
+ "chapter": "Miscellaneous",
+ "text_file": "data/booklets/2026-02/t12_miscellaneous.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c6-t1-s1",
+   "title": "India-France Partnership",
+   "summary": "India and France upgraded their ties to a Special Global Strategic Partnership during the French President's visit. Cooperation spans defence manufacturing, technology, critical minerals, nuclear energy and trade. The 2026 India-France Year of Innovation and the Horizon 2047 roadmap set the course for future ties.",
+   "facts": [
+    "Ties upgraded to Special Global Strategic Partnership during French President's visit",
+    "H125 helicopter final assembly line inaugurated at Vemagal, Karnataka (TATA-Airbus)",
+    "Joint venture of Bharat Electronics and Safran to produce HAMMER missile in India",
+    "2026 is the India-France Year of Innovation; India-France Innovation Network established",
+    "Joint declaration to secure diversified, resilient supply chains of critical minerals",
+    "Bilateral trade FY 2024-25: EUR 12.67 billion; France is 11th largest foreign investor in India",
+    "France is India's most frequent Republic Day Chief Guest (6th time)",
+    "India and France jointly constructing Jaitapur nuclear park in Maharashtra with EDF",
+    "Namaste France 2028 to celebrate 30 years of Strategic Partnership"
+   ]
+  },
+  {
+   "id": "2026-02-c6-t1-s2",
+   "title": "Chabahar Port and Arab League",
+   "summary": "Iran reaffirmed its commitment to Chabahar Port despite US sanctions uncertainty, and India Ports Global operates the port's terminals. The port gives India a route to Afghanistan and Central Asia that bypasses Pakistan. India and the Arab League also adopted the Delhi Declaration.",
+   "facts": [
+    "Chabahar is Iran's only ocean-facing deep-water port, on the Makran Coast near the Strait of Hormuz",
+    "Chabahar is about 550 nautical miles from Gujarat's Kandla Port",
+    "Discussions on Indian participation began in 2002; formal recognition came in the 2003 New Delhi Declaration",
+    "India Ports Global assumed operational control of Chabahar Port in 2018",
+    "In 2024, India signed a 10-year contract to operate Shahid Beheshti and Shahid Kalantari terminals",
+    "Chabahar is an integral part of the International North-South Transport Corridor",
+    "Arab League was established in 1945 in Cairo; it has 22 members including Palestine",
+    "Arab States supply over 47% of India's crude oil imports",
+    "Over 9 million Indians reside and work in Arab League countries"
+   ]
+  },
+  {
+   "id": "2026-02-c6-t1-s3",
+   "title": "Malaysia and Seychelles Visits",
+   "summary": "The Prime Minister's visit to Malaysia produced a joint statement covering defence, digital and trade cooperation. Seychelles' President visited India to announce the SESEL joint vision, marking 50 years of diplomatic relations, along with a USD 175 million assistance package. Both visits stress disaster-resilient infrastructure, and the Seychelles visit also stresses maritime security.",
+   "facts": [
+    "India and Malaysia set up a Strategic Affairs Working Group and a Su-30 Forum for air forces",
+    "Malaysia-India Digital Council formalised for fintech, AI, cybersecurity and e-governance",
+    "RBI and Bank Negara Malaysia to promote local currency settlement",
+    "Malaysia is India's 3rd largest trading partner in ASEAN",
+    "Harimau Shakti (5th Edition) is a joint military exercise with Malaysia",
+    "Malaysia formally acceded to the International Big Cat Alliance",
+    "SESEL: Joint Vision for Sustainability, Growth and Security through Enhanced Linkages",
+    "India announced a USD 175 million assistance package for Seychelles",
+    "Seychelles to become a full member of the Colombo Security Conclave"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Consider the following statements about the motion of thanks:",
+  "Match List I with List II:",
+  "During the discussion on their own removal, which power can the Lok Sabha Speaker still exercise?",
+  "Which address is delivered at the commencement of the first session after each general election to the Lok Sabha, as well as at the first session of each year?",
+  "The booklet describes three past instances in which a motion to remove a Lok Sabha Speaker was moved (1954, 1966 and 1987). How many of these Speakers were actually removed?",
+  "What is the minimum notice period before a resolution to remove the Lok Sabha Speaker can be moved?",
+  "Consider the following statements:",
+  "Under the research fund described, what is the duration of the scheme (in years)?",
+  "What is the minimum Technology Readiness Level (TRL) that the fund supports?",
+  "What is the aperture of the National Large Solar Telescope (in metres)?",
+  "What is the size of the National Large Optical Telescope, a segmented mirror telescope (in metres)?",
+  "In which place in Ladakh is the National Large Solar Telescope located?",
+  "How many nations are members of the Combined Maritime Forces (in number)?",
+  "Which Combined Task Force did India command for the first time (give the number)?"
+ ]
+}

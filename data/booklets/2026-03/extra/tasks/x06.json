@@ -1,0 +1,75 @@
+{
+ "key": "x06",
+ "topic": "SC Ruling on Creamy Layer Determination for OBCs",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-03/t06_sc_creamy_layer_obc.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c2-t2-s2",
+   "title": "Early history of caste-based reservation",
+   "summary": "The idea of caste-based reservation was first proposed in 1882, and separate electorates appeared under the 1909 Act. The 1951 First Amendment added Article 15(4) to legalise caste-based reservation, after the Champakam Dorairajan case had held such reservations violated Article 15. The 1953 Kalelkar Commission and the 1963 MR Balaji ruling, which kept reservation at 50%, shaped the early framework.",
+   "facts": [
+    "1882: caste-based reservation first proposed by William Hunter and Jyotirao Phule.",
+    "1909: Government of India Act gave elements of reservation through separate electorates.",
+    "1932: MacDonald/Communal Award provided separate electorates for Depressed Classes.",
+    "Poona Pact abandoned separate electorates for Depressed Classes.",
+    "1935: Government of India Act extended separate electorates to Depressed Classes, Women and Labour.",
+    "1951: First Constitutional Amendment added Article 15(4).",
+    "Champakam Dorairajan vs State of Madras (1951): caste-based reservations held to violate Article 15.",
+    "1953: Kalelkar Commission (first Backward Class Commission) identified backward classes other than SCs and STs at national level.",
+    "1963: MR Balaji vs State of Mysore: Government ordered to keep reservation at 50%."
+   ]
+  },
+  {
+   "id": "2026-03-c2-t2-s4",
+   "title": "Later judgements and economic reservation",
+   "summary": "Later judgements clarified rules on promotions, the 9th Schedule and creamy layer exclusion for SCs and STs. The 103rd Constitutional Amendment of 2019 introduced 10% reservation for EWS, and the 2022 Janhit Abhiyan judgement upheld it. The 106th Amendment Act of 2023 provides one-third reservation for women in Parliament and State Legislatures, which ceases after 15 years.",
+   "facts": [
+    "2006 Nagaraj case: State not bound to provide reservation in promotions to SCs and STs.",
+    "To make such a provision, a State must collect quantifiable data, prove inadequate representation and show no compromise on efficiency.",
+    "2007 IR Coelho case: laws placed in the 9th Schedule after 24 April 1973 are subject to judicial review.",
+    "Tamil Nadu's 69% reservation policy was placed in the 9th Schedule in 1994 by the 76th Amendment Act.",
+    "2018 Jarnail Singh case: creamy layer exclusion extends to SCs and STs.",
+    "2018 Jarnail Singh case: reservation in promotions does not require quantifiable data on SC/ST backwardness.",
+    "103rd Constitutional Amendment (2019) provided 10% reservation for Economically Weaker Sections (EWS).",
+    "EWS reservation was based on a commission for Economically Backward Classes (constituted 2005, report July 2010).",
+    "2022 Janhit Abhiyan vs Union of India: 103rd Amendment upheld.",
+    "106th Amendment Act (2023): one-third of seats for women in Parliament and State Legislatures; ceases after 15 years."
+   ]
+  },
+  {
+   "id": "2026-03-c2-t2-s5",
+   "title": "National Commission for Backward Classes",
+   "summary": "The National Commission for Backward Classes was set up in 1993 by an Act of Parliament. The 102nd Constitutional Amendment Act of 2018 gave it constitutional status under Article 338B and widened its functions. It consists of a Chairperson, a Vice-Chairperson and three other members, appointed by the President.",
+   "facts": [
+    "Set up in 1993 by an Act of Parliament.",
+    "102nd Constitutional Amendment Act 2018 gave constitutional status to the NCBC.",
+    "Article 338B provided constitutional status to the NCBC and increased the scope of its functions.",
+    "NCBC is authorised to investigate complaints and welfare of backward classes.",
+    "Article 342A empowers the President to specify socially and educationally backward classes in States and UTs.",
+    "Composition: Chairperson, Vice-Chairperson and 3 other members.",
+    "Members are appointed by the President by warrant under his hand and seal.",
+    "Conditions of service and tenure are determined by the President.",
+    "NCBC can recommend inclusion and exclusion of castes from the OBC list.",
+    "NCBC can recommend the income level that excludes the creamy layer from reservation benefits."
+   ]
+  }
+ ],
+ "already_asked": [
+  "A family is treated as creamy layer if its annual income exceeds what amount, and for how many consecutive years?",
+  "Which 2018 judgement held that creamy layer exclusion extends to SCs and STs?",
+  "In the Champakam Dorairajan vs State of Madras (1951) case, what did the Court rule?",
+  "Assertion (A): The Supreme Court in the Nagaraj case (2006) held that the State was not bound to provide reservation in promotions to SCs and STs.",
+  "Match List I with List II:",
+  "Consider the following statements about the Indra Sawhney judgement (1992):",
+  "Consider the following statements about the Indra Sawhney judgement (1992):",
+  "In which Schedule of the Constitution was Tamil Nadu's 69% reservation policy placed in 1994?",
+  "Under which Article of the Constitution was the second Backward Classes Commission set up? (give the number only)",
+  "In which year did this commission submit its report?",
+  "How many castes did the commission identify as socially and educationally backward?",
+  "What percentage of government jobs did the commission recommend for OBCs? (in per cent)",
+  "Which Prime Minister's government appointed the commission in 1979?",
+  "In 1991, what percentage of jobs was reserved for economically backward sections of higher castes not covered by any existing scheme? (in per cent)",
+  "Under the Indra Sawhney judgement, what was the ceiling on total reservation? (in per cent)"
+ ]
+}

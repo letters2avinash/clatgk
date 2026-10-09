@@ -1,0 +1,66 @@
+{
+ "key": "x11",
+ "topic": "E85 Fuel Rollout in India",
+ "chapter": "Environment & Disaster Management",
+ "text_file": "data/booklets/2026-06/t11_e85_fuel_rollout.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c6-t1-s2",
+   "title": "Benefits of Ethanol Blending",
+   "summary": "Ethanol blending is promoted for energy security, environmental gains and farm incomes. It cuts crude oil imports and gives a buffer against price shocks. It also turns agro-waste into fuel and encourages maize over sugarcane.",
+   "facts": [
+    "Import reduction: ethanol cuts India's dependence on crude oil imports.",
+    "Blending buffer: ethanol stockpiles give flexibility for price stabilisation against crude oil shocks.",
+    "Lifecycle emissions: 2G ethanol reduces GHG emissions by over 50% compared to petrol.",
+    "Agro-waste utilisation: stubble, dung and biomass are converted into fuel, supporting a circular economy.",
+    "Farmer income: since 2014, farmers have earned about 21 lakh crore through ethanol procurement transfers.",
+    "Crop diversification: promotes maize cultivation and reduces over-dependence on sugarcane.",
+    "Objectives include reducing crude oil imports and providing assured markets for farmers."
+   ]
+  },
+  {
+   "id": "2026-06-c6-t1-s3",
+   "title": "Concerns with Ethanol Blending",
+   "summary": "A survey finds that many petrol vehicle owners report reduced mileage and higher maintenance costs. Water-intensive sugarcane and land degradation are listed as environmental concerns. Diverting rice and corn for ethanol raises food-versus-fuel questions.",
+   "facts": [
+    "A survey finds 67% of petrol vehicle owners report reduced mileage and higher maintenance costs.",
+    "Sugarcane has a high water requirement of 60-70 tonnes per tonne.",
+    "Water-intensive sugarcane drives groundwater depletion.",
+    "Unsustainable farming causes degradation of nearly 30% of India's land.",
+    "Diverting rice and corn for ethanol production raises food-versus-fuel concerns.",
+    "Imports and food security concerns are listed as a further issue."
+   ]
+  },
+  {
+   "id": "2026-06-c6-t1-s4",
+   "title": "Biofuel Generations",
+   "summary": "Biofuels are grouped into generations by their feedstock and their carbon impact. First-generation fuels use edible items, while second-generation fuels use leftovers of food crops. Third- and fourth-generation fuels use microorganisms and genetically engineered crops.",
+   "facts": [
+    "1st generation biofuel is made from edible items such as sugar, corn and starch, and has high carbon content.",
+    "2nd generation biofuel is made from leftovers of food crops such as rice husk and wood chips.",
+    "2nd generation biofuel has lower greenhouse gas content than 1st generation biofuel.",
+    "3rd generation biofuel is produced using microorganisms such as algae and is carbon neutral.",
+    "4th generation biofuel is made from genetically engineered crops and is carbon negative.",
+    "The National Policy on Biofuels includes production of 2G ethanol as a key element.",
+    "A 2G ethanol project is located at Panipat, Haryana."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which ministry is the nodal ministry for the Ethanol Blending Programme?",
+  "What is the composition of E85 fuel?",
+  "In which year was the E20 blending target achieved?",
+  "What is the approximate purity of the ethanol used for blending?",
+  "Assertion (A): E85 fuel can be used in standard petrol-engine vehicles without any modification.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements:",
+  "In which year did the Cabinet approve the Hydrogen Mission?",
+  "What was the outlay of the Hydrogen Mission, in crore rupees?",
+  "In which Haryana town is the first BioE3 enzyme plant expected to come up?",
+  "In which year was the PM JI-VAN Yojana launched?",
+  "Under which mission was the GOBAR-DHAN Scheme launched?",
+  "Which authority launched the Repurpose Used Cooking Oil initiative?",
+  "The Global Biofuels Alliance was launched on the sidelines of which summit?"
+ ]
+}

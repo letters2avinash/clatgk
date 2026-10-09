@@ -1,0 +1,76 @@
+{
+ "key": "x14",
+ "topic": "Miscellaneous",
+ "chapter": "Miscellaneous",
+ "text_file": "data/booklets/2026-01/t14_misc.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c9-t1-s2",
+   "title": "Critical Technology and Mineral Security",
+   "summary": "Pax Silica is a US-led framework to build trusted technology supply chains, covering semiconductors, AI infrastructure, critical minerals and advanced manufacturing, and India is set to join it. The Minerals Security Partnership is a US-led alliance launched in 2022, and India is the only developing country to be part of it. India's National Critical Minerals Mission and KABIL aim to secure critical mineral assets at home and abroad.",
+   "facts": [
+    "Pax Silica is a US-led multilateral framework; India is set to join it.",
+    "Pax Silica scope: semiconductors and AI infrastructure, critical minerals and energy inputs, advanced manufacturing, compute and data logistics.",
+    "Pax Silica members include the US, Japan, South Korea, Singapore, UK and Israel.",
+    "Minerals Security Partnership: US-led alliance launched in 2022; India is the only developing country member.",
+    "India and US launched iCET in 2022 for semiconductors, AI and wireless communication.",
+    "National Critical Minerals Mission runs from FY 2024-25 to 2030-31; nodal ministry is Ministry of Mines.",
+    "KABIL (Khanij Bidesh India Ltd) acquires exploration and exclusivity rights for five lithium brine blocks in Argentina.",
+    "Samudravaan Project explores the Indian Ocean seabed for critical minerals.",
+    "Lithium triangle: Argentina, Bolivia and Chile; top lithium reserves are Bolivia, Argentina and Chile.",
+    "India's first lithium site is Salal-Haimana (Reasi, J&K); first auctioned site is Korba (Chhattisgarh)."
+   ]
+  },
+  {
+   "id": "2026-01-c9-t1-s3",
+   "title": "Government Schemes and Governance Platforms",
+   "summary": "Swadesh Darshan, launched in 2015, develops theme-based tourism circuits, and its 2.0 version shifts to destination-centric and sustainable tourism. A CAG audit of PMKVY for 2015-2022 found weak planning, unspent funds, data lapses and poor placement outcomes. PMMVY is a conditional cash transfer for pregnant women and lactating mothers, while PRAGATI is a three-tier platform for monitoring projects and redressing grievances.",
+   "facts": [
+    "Swadesh Darshan was launched in 2015 as a central sector scheme under the Ministry of Tourism.",
+    "Swadesh Darshan 2.0 shifts from circuit-based to destination-centric infrastructure.",
+    "PRASHAD focuses on infrastructure development at major pilgrimage and heritage sites.",
+    "CAG audit of PMKVY (2015-2022): nearly 20% of state component funds remained unspent.",
+    "PMKVY audit: about 95% of candidate records had invalid or missing information; placement rate only 41%.",
+    "PMMVY launched in 2017 as a conditional cash transfer; incorporated into Mission Shakti in 2022.",
+    "PMMVY targets pregnant women and lactating mothers aged 19 and above; Rs 5,000 for the first living child.",
+    "PRAGATI, launched in 2015, is a three-tier monitoring and grievance redressal platform.",
+    "PRAGATI integrates with CPGRAMS to address citizens' grievances.",
+    "PM SVANidhi (2020) gives affordable working capital loans to street vendors and offers a PM SVANidhi credit card."
+   ]
+  },
+  {
+   "id": "2026-01-c9-t1-s5",
+   "title": "Defence, Diplomacy and Resources",
+   "summary": "India and Germany marked 25 years of their strategic partnership during Chancellor Friedrich Merz's first official visit to India, signing agreements on defence, trade and mobility. India and Pakistan exchange lists of their nuclear installations every year under a 1988 agreement. India became the world's largest rice producer at about 150 million tonnes, while the Indus Waters Treaty faces renewed tensions.",
+   "facts": [
+    "German Chancellor Friedrich Merz made his first official visit to India, marking 25 years of the strategic partnership.",
+    "Germany announced a visa-free transit facility for Indian passport holders.",
+    "Bilateral India-Germany trade crossed USD 50 billion in 2024.",
+    "DRDO partners with Europe's OCCAR for the Eurodrone MALE UAV programme.",
+    "Pinaka LRGR-120 has a range of approximately 120 km and was flight-tested at Chandipur, Odisha.",
+    "Operation Pawan: Indian peacekeeping force in Sri Lanka, launched after the Indo-Sri Lanka Accord of 29 July 1987.",
+    "India-Pakistan agreement on nuclear installations was signed on 31 December 1988 and entered into force on 27 January 1991.",
+    "Indus Waters Treaty signed in 1960 with World Bank as broker; eastern rivers Ravi, Beas and Sutlej go fully to India.",
+    "Sawalkot hydropower project on the Chenab (J&K) is a 1856 MW run-of-river project.",
+    "India surpassed China to become the world's largest rice producer (about 150 million tonnes)."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Consider the following statements:",
+  "I. The Missile Technology Control Regime was set up in 1987 to prevent the spread of missile and drone technology.",
+  "Assertion (A): The guidelines of the Australia Group are legally binding on all its members.",
+  "How many of the following statements about the UN Security Council are correct?",
+  "Match List I with List II:",
+  "In which year did India join the Australia Group?",
+  "Which country is one of the prime movers of the Coffee Club, a group that opposes expansion of permanent seats on the UNSC?",
+  "In which year was the Wassenaar Arrangement established?",
+  "What percentage weight does the business ecosystem pillar carry in NITI Aayog's Export Preparedness Index? (in per cent)",
+  "Singapore tops the Henley Passport Index 2026; how many countries does its passport give access to without a prior visa? (number)",
+  "Which country tied with Japan for second place in the Henley Passport Index 2026?",
+  "Food prices entered deflation for the first time since which year?",
+  "In which year is India projected to surpass Germany to become the third-largest economy? (year)",
+  "What is India's rank in per capita nominal GDP? (rank number)",
+  "Which large state is named first in the 'Leaders' category of the Export Preparedness Index?"
+ ]
+}

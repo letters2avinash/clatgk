@@ -1,0 +1,57 @@
+{
+ "key": "x16",
+ "topic": "April 2026 Current Affairs: AILET Corner",
+ "chapter": "AILET Corner",
+ "text_file": "data/booklets/2026-04/t16_ailet_corner.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c10-t1-s3",
+   "title": "Finance, Enforcement and Cyber Cooperation",
+   "summary": "This block links banking liquidity with financial crime and cyber-fraud cooperation. The RBI's VRR auctions injected liquidity for year-end banking stability, while FIU-India and I4C work on financial and cyber frauds. The GlobE Network builds cross-border action against corruption and illicit assets.",
+   "facts": [
+    "RBI announced a 21.25 Lakh Crore liquidity infusion through VRR auctions for year-end banking stability",
+    "VRR is a liquidity injection tool under RBI's Liquidity Management Framework for temporary shortages",
+    "Banks borrow short-term funds from RBI by providing government securities (G-Secs) as collateral",
+    "VRR funds are provided through auction-based repos, with a duration of 7 to 14 days",
+    "FIU-India: established 2004, nodal ministry is Ministry of Finance, focus on anti-money laundering",
+    "FIU-India collects and analyses suspicious financial transaction reports and shares intelligence",
+    "FIU-India and Indian Cyber Crime Coordination Centre signed an MoU to combat cyber-financial frauds",
+    "I4C: established 2018 under Ministry of Home Affairs as central agency for cybercrime coordination",
+    "GlobE Network: formally launched 2021, concept from Riyadh Initiative during Saudi Arabia's G20 Presidency (2020)",
+    "GlobE operates under the UN Convention Against Corruption and aims to recover illicit assets"
+   ]
+  },
+  {
+   "id": "2026-04-c10-t1-s4",
+   "title": "Health, Nutrition and Rankings",
+   "summary": "This block covers nutrition policy, BRICS health cooperation and higher-education rankings. Mission POSHAN 2.0 and a 15-day campaign focus on nutrition for women and children. India's 2026 BRICS Presidency includes a health working group on prevention and mental health, and QS 2026 rankings placed IIM Kozhikode in the global top 100.",
+   "facts": [
+    "15-day nationwide campaign aims to drive behavioural change and improve nutritional outcomes for women and children",
+    "Mission POSHAN 2.0 was launched in 2021 to create an Integrated Nutrition Support System",
+    "India holds the 2026 BRICS Presidency and hosted a BRICS Health Working Group meeting in New Delhi",
+    "BRICS Mission for Healthy Lifestyles focuses on prevention of non-communicable diseases",
+    "BRICS Mental Health and Wellness Initiative aims to strengthen mental healthcare and reduce stigma",
+    "Integration of Traditional Medicine includes systems like AYUSH (India)",
+    "QS World University Rankings by Subject 2026: IIM Kozhikode entered the Global Top 100",
+    "India ranks 4th globally in total institutions ranked and new entries",
+    "IIT Delhi leads India in Engineering and Technology in the QS rankings",
+    "Indian institutions entered the QS Marketing rankings for the first time"
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year was the Mohra Power Project commissioned?",
+  "What is the length of the Western Dedicated Freight Corridor?",
+  "In which year was the Dedicated Freight Corridor project approved by the Cabinet?",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements:",
+  "How much non-fossil capacity did India add in FY 2025-26? (in GW)",
+  "In which year was the Asia Zero Emission Community (AZEC) launched? (year)",
+  "In which city is the headquarters of the UN Economic and Social Council located?",
+  "In which year did the G7 begin as the G6 forum? (year)",
+  "Which country joined the G6 in 1976, turning it into the G7? (country)",
+  "How many member States does the UN Economic and Social Council have? (number)",
+  "In which year did the UN Security Council create the UN Interim Force in Lebanon (UNIFIL)? (year)"
+ ]
+}

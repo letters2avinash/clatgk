@@ -1,0 +1,69 @@
+{
+ "key": "x01",
+ "topic": "US Supreme Court Blocks Trump's IEEPA Tariffs",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-02/t01_us_supreme_court_ieepa_tariffs.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c1-t1-s1",
+   "title": "IEEPA: Origin and Emergency Powers",
+   "summary": "The International Emergency Economic Powers Act (IEEPA) was enacted in 1977 by President Jimmy Carter to replace the Trading with Enemy Act of 1917. It is primarily a sanctions tool and not a general tariff law. The President can use it only after formally declaring a National Emergency over an unusual and extraordinary threat originating outside the United States.",
+   "facts": [
+    "Enacted in 1977 by President Jimmy Carter",
+    "Replaced the Trading with Enemy Act (1917)",
+    "Primarily a sanctions tool, not a general tariff law",
+    "President must formally declare a National Emergency first",
+    "Threat must originate outside the United States",
+    "Can freeze foreign assets held in the US",
+    "Can block trade with specific countries, entities or individuals",
+    "77 national emergencies declared under IEEPA; 46 ongoing as of Sept 2025"
+   ]
+  },
+  {
+   "id": "2026-02-c1-t1-s4",
+   "title": "India's Impact and the 2026 Trade Deal",
+   "summary": "The rollback of Liberation Day tariffs benefits nearly 55% of India's exports to the US, which had faced an 18% levy. These goods now face only standard Most-Favoured Nation (MFN) tariff rates, while Section 232 duties remain in force. The 2026 India-US trade deal includes Indian commitments on energy, technology and agricultural trade.",
+   "facts": [
+    "Nearly 55% of India's exports to the US benefit from the rollback",
+    "Those goods previously faced an 18% levy",
+    "Benefiting goods are now subject only to standard MFN tariff rates",
+    "Section 232 tariffs of 50% on steel and aluminium remain in force",
+    "25% Section 232 tariff on select automotive components remains in force",
+    "25% penalty for purchasing Russian oil has been eliminated",
+    "India commits to massive procurement of US energy, technology and agricultural products",
+    "India aims to remove barriers for US agricultural exports such as cotton and nuts"
+   ]
+  },
+  {
+   "id": "2026-02-c1-t1-s5",
+   "title": "US Congress and India-US Relations",
+   "summary": "The US Congress is a bicameral legislature, and the Supreme Court ruling makes Congressional approval necessary for broad tariffs. India-US total trade reached USD 129.2 billion in 2024, with India's exports to the US larger than its imports from the US. The US is India's third largest investor.",
+   "facts": [
+    "US Congress is bicameral: House of Representatives and Senate",
+    "House has 435 seats; members are elected for 2 years",
+    "Senate has 100 seats; every state has 2 seats",
+    "Senators are elected for 6 years; one-third of Senate seats are up every 2 years",
+    "Republican Party has secured 54 Senate seats",
+    "India-US total trade in 2024: USD 129.2 billion",
+    "India's exports to US in 2024: USD 87.4 billion",
+    "India's imports from US in 2024: USD 41.8 billion",
+    "USA is India's 3rd largest investor, with FDI inflows of USD 65.19 billion (2000-2024)"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which of the following Justices dissented from the majority in the Supreme Court's ruling against the IEEPA tariffs?",
+  "Consider the following statements about IEEPA:",
+  "How many of the following statements about the Liberation Day tariffs are correct?",
+  "Under which section did the President impose a 10% temporary tariff on goods from all countries?",
+  "Which goods imported from India will continue to face a 25% tariff under Section 232 despite the Supreme Court ruling?",
+  "Approximately what share of India's exports to the US benefits from the rollback of the Liberation Day tariffs?",
+  "For how many days at most can a temporary tariff under the Trade Act 1974's temporary-tariff provision be imposed? (in days)",
+  "What is the maximum temporary tariff rate, in per cent, that Section 122 permits?",
+  "What rate, in per cent, did the President impose on goods from all countries under Section 122?",
+  "What is the maximum import tariff rate, in per cent, that the Tariff Act 1930 permits against countries with discriminatory trade practices? (in per cent)",
+  "Which section of the Tariff Act 1930 allows import tariffs against countries with discriminatory trade practices? (give the number)",
+  "Which section of the Trade Expansion Act 1962 authorises import restrictions on goods threatening national security? (give the number)",
+  "Which section number of the Trade Act 1974 was used to impose the 10% temporary tariff on goods from all countries? (give the number)"
+ ]
+}

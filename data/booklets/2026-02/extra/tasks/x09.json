@@ -1,0 +1,56 @@
+{
+ "key": "x09",
+ "topic": "Corruption Perceptions Index 2025",
+ "chapter": "Reports, Summits, Indices",
+ "text_file": "data/booklets/2026-02/t09_corruption_perceptions_index_2025.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c4-t2-s2",
+   "title": "India's CPI 2025 Performance",
+   "summary": "India ranked 91st out of 182 countries with a score of 39 out of 100 in CPI 2025. This is a modest improvement from its 96th rank in 2024, but the score remains below the global average of 42. The source attributes this to persistent governance and accountability challenges.",
+   "facts": [
+    "India ranked 91st out of 182 countries in CPI 2025.",
+    "India scored 39 out of 100 in CPI 2025.",
+    "India's rank was a modest improvement from 96th in 2024.",
+    "India's score remains below the global average of 42.",
+    "The booklet links India's position to persistent governance and accountability challenges.",
+    "India performs better than Pakistan, Bangladesh, Nepal and Sri Lanka.",
+    "India lags behind countries such as Bhutan and China."
+   ]
+  },
+  {
+   "id": "2026-02-c4-t2-s4",
+   "title": "International Efforts and Bodies",
+   "summary": "UNCAC 2003 is the only legally binding universal anti-corruption instrument, and India ratified it in 2011. The FATF, set up by the G7 in 1989, acts as a watchdog on money laundering and terrorist financing. INTERPOL, established in 1923, is the world's largest international police organisation, and SDG 16 recognises anti-corruption as an institutional principle.",
+   "facts": [
+    "UN Convention against Corruption 2003 is the only legally binding universal anti-corruption instrument.",
+    "India ratified UNCAC in 2011.",
+    "G20 Anti-Corruption Working Group (2010) shares effective strategies to combat corruption, especially through emerging technologies.",
+    "Financial Action Task Force was established in 1989 by the G7.",
+    "FATF has 38 member countries and 2 member organisations: the Gulf Cooperation Council and the European Union.",
+    "FATF Black List labels Iran, North Korea and Myanmar as Non-Cooperative Countries or Territories.",
+    "FATF Grey List has 21 countries.",
+    "SDG 16 acknowledges anti-corruption as an institutional principle.",
+    "INTERPOL was established in 1923 and has 196 member countries, including India.",
+    "INTERPOL's General Assembly is its highest decision-making body, with one delegate from each member nation."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Where is the headquarters of Transparency International, the organisation that releases the Corruption Perceptions Index?",
+  "Assertion (A): India's rank in the Corruption Perceptions Index 2025 improved compared with 2024.",
+  "Which Act provides penalties for corruption by public servants and for abetment of an act of corruption?",
+  "In which year was Transparency International founded?",
+  "Match List I with List II:",
+  "Consider the following statements about INTERPOL:",
+  "How many of the following statements about the Corruption Perceptions Index 2025 are correct?",
+  "What is the tenure and age limit of the Comptroller and Auditor General (CAG) of India?",
+  "In which year was the Central Vigilance Commission established? (year)",
+  "Which Article is cited for the Comptroller and Auditor General of India? (article number)",
+  "Which Act, enacted in 2014, allows registration of corruption or misuse of power against public servants? (name of the Act)",
+  "In which year was the Directorate of Enforcement established as an Enforcement Unit? (year)",
+  "Which committee's recommendations led to the setting up of the Central Vigilance Commission? (name of committee)",
+  "What is the fixed tenure of the CAG of India, ignoring the age limit? (in years)",
+  "In which year was the Central Bureau of Investigation formed? (year)"
+ ]
+}

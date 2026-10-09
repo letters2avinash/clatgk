@@ -1,0 +1,54 @@
+{
+ "key": "x12",
+ "topic": "World Tuberculosis Day 2026",
+ "chapter": "Sports, Awards & Days",
+ "text_file": "data/booklets/2026-03/t12_world_tuberculosis_day_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c7-t2-s3",
+   "title": "Global strategy and partners",
+   "summary": "The WHO End TB Strategy (2015-2035) is a long-term global blueprint with targets for 2030. The Global Fund and the Stop TB Partnership support countries with finance, technical help and innovation. World TB Day, observed on March 24, marks the 1882 discovery of the TB bacterium by Robert Koch.",
+   "facts": [
+    "World TB Day is observed on March 24 every year",
+    "Robert Koch discovered the TB bacterium in 1882",
+    "Theme 2026: 'Yes! We Can End TB: Led by Countries, Powered by People'",
+    "WHO End TB Strategy (2015-2035) is a long-term global blueprint",
+    "WHO End TB targets for 2030: 90% reduction in TB deaths and 80% reduction in TB incidence",
+    "Global Fund and Stop TB Partnership provide financial and technical support",
+    "Global Fund and Stop TB Partnership strengthen surveillance systems",
+    "Global Fund and Stop TB Partnership promote innovation in diagnostics, treatment and preventive tools"
+   ]
+  },
+  {
+   "id": "2026-03-c7-t2-s4",
+   "title": "Disease and drug resistance",
+   "summary": "Tuberculosis is caused by Mycobacterium tuberculosis and spreads through the air, but it is preventable and curable. Pulmonary TB is highly contagious, while extrapulmonary TB is less contagious. MDR-TB is resistant to first-line drugs and needs second-line drugs, longer treatment and higher spending.",
+   "facts": [
+    "TB is caused by Mycobacterium tuberculosis",
+    "TB is an airborne, contagious infectious disease",
+    "TB is preventable and curable with timely diagnosis and appropriate treatment",
+    "Pulmonary TB affects the lungs and is highly contagious",
+    "Extrapulmonary TB affects organs outside the lungs and is less contagious",
+    "First-line treatment drugs: Rifampicin, Isoniazid, Pyrazinamide, Ethambutol",
+    "MDR-TB is resistant to Rifampicin and Isoniazid",
+    "MDR-TB requires second-line drugs, longer treatment duration and higher cost",
+    "MDR-TB is a major public health crisis and a global health security threat"
+   ]
+  }
+ ],
+ "already_asked": [
+  "According to the Global TB Report 2025, which country has the highest share of the world's TB cases?",
+  "What share of the world's TB cases in 2024 were concentrated in 30 high-burden countries?",
+  "By what percentage did global TB deaths decline over the 2015 to 2024 period?",
+  "Match List I with List II:",
+  "Consider the following statements about tuberculosis:",
+  "Consider the following statements about the TB figures given in the booklet:",
+  "What was India's TB incidence rate per 100,000 population in 2024?",
+  "Name the 100 Days Intensified Campaign launched in India to accelerate TB elimination.",
+  "What is the monthly nutritional support under the Ni-Kshay Poshan Yojana? (number only)",
+  "By how many years does India's National Strategic Plan for TB Elimination aim to eliminate TB ahead of global timelines? (in years)",
+  "What percentage reduction in TB incidence does India's National Strategic Plan target by 2025? (in per cent)",
+  "Which PCR-based molecular test is listed among India's modern TB testing tools? (name)",
+  "By what percentage did India's TB incidence rate fall between 2015 and 2024? (in per cent)"
+ ]
+}

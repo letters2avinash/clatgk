@@ -1,0 +1,71 @@
+{
+ "key": "x13",
+ "topic": "Current Affairs February 2026: Defence, Security, Transport, Space and Institutions",
+ "chapter": "AILET Corner",
+ "text_file": "data/booklets/2026-02/t13_ailet_corner.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c7-t1-s3",
+   "title": "Transport and Connectivity",
+   "summary": "Kavach is India's indigenous automated train protection system, developed by RDSO and deployed across more than 2200 route km. The Cabinet Committee on Economic Affairs approved an underwater twin tube road-cum-rail tunnel under the Brahmaputra in Assam to boost North-East connectivity. The tunnel links Gohpur on NH-15 with Numaligarh on NH-715.",
+   "facts": [
+    "Kavach is India's Indigenous Automated Train Protection System.",
+    "Kavach is deployed across over 2200 route km in India.",
+    "Kavach objectives: prevent train collisions, avoid signal passing at danger, enhance situational awareness for loco pilots.",
+    "Kavach was developed by RDSO (Indian Railways).",
+    "The Cabinet Committee on Economic Affairs approved an underwater twin tube road-cum-rail tunnel to boost North-East connectivity.",
+    "The tunnel is located under the Brahmaputra River in Assam.",
+    "Total tunnel project length is 33.7 km; the underwater twin tube tunnel is 15.79 km.",
+    "The tunnel connects Gohpur (NH-15) with Numaligarh (NH-715)."
+   ]
+  },
+  {
+   "id": "2026-02-c7-t1-s4",
+   "title": "Space and Cyber Security",
+   "summary": "NASA's MESSENGER data revealed bright streaks across Mercury's surface, and the booklet gives key facts about the planet. The Global CyberPeace Summit 2026 was held in New Delhi.",
+   "facts": [
+    "NASA's MESSENGER data revealed numerous bright streaks scattered across Mercury's surface.",
+    "Mercury is the closest planet to the Sun and the smallest planet in the Solar System.",
+    "Mercury is the fastest orbiting planet around the Sun.",
+    "Mercury is the densest planet after Earth and has no moons or rings.",
+    "Key Mercury discoveries: water ice in permanently shadowed polar craters and a large, iron-rich core.",
+    "Global CyberPeace Summit 2026 concluded in New Delhi, organised by CyberPeace.",
+    "Global Quantum Threat Alliance addresses future cyber risks arising from quantum computing.",
+    "CoE on Automotive Cybersecurity focuses on securing connected, autonomous and electric vehicles."
+   ]
+  },
+  {
+   "id": "2026-02-c7-t1-s5",
+   "title": "Institutions and Places in News",
+   "summary": "The Indian Pharmacopoeia Commission, established in 2005, sets quality standards for medicines in India and signed three MoUs. APEDA marked 40 years of promoting agricultural exports, having been established in 1986. The Rafah Crossing in Gaza partially reopened after two years, allowing limited movement and humanitarian access.",
+   "facts": [
+    "Indian Pharmacopoeia Commission signed 3 MoUs to strengthen medicine safety, quality and pharmacovigilance.",
+    "The Pharmacopoeia is a legally binding compendium defining standards for identity, purity, strength and quality of medicines.",
+    "Indian Pharmacopoeia Commission was established in 2005 and is headquartered in Ghaziabad (Uttar Pradesh).",
+    "Indian Pharmacopoeia Commission is under the Ministry of Health & Family Welfare.",
+    "Key publications: Indian Pharmacopoeia and National Formulary of India.",
+    "APEDA marked 40 years of promoting India's agricultural exports; it was established in 1986.",
+    "APEDA is a statutory body under the APEDA Act 1985 and operates under the Ministry of Commerce and Industry.",
+    "APEDA headquarters is in New Delhi.",
+    "Rafah Crossing in Gaza was partially reopened after two years, allowing limited movement and humanitarian access."
+   ]
+  }
+ ],
+ "already_asked": [
+  "How often is the World Defence Show held, according to the booklet?",
+  "Assertion (A): The Agni-III missile can carry nuclear warheads.",
+  "The Kaveri Engine Programme is an indigenous jet engine effort meant for which aircraft?",
+  "Match List I with List II:",
+  "Which of these is NOT among the five defence domains showcased at the World Defence Show 2026?",
+  "The booklet describes the range of the Agni-III missile as which of the following?",
+  "I. The Agni-III missile is powered by a two-stage solid-fuel system.",
+  "Consider the following statements:",
+  "Which NATO command leads the Arctic Sentry Mission? (give the full name)",
+  "In which year was the Indian Ocean Naval Symposium established?",
+  "In which year was the UN Office for Disarmament Affairs established?",
+  "In which city is the headquarters of the UN Office for Disarmament Affairs located?",
+  "In which Indian city did the Indian Army host the UN small arms control training programme? (city name only)",
+  "Which navy initiated the Indian Ocean Naval Symposium?",
+  "The UN Office for Disarmament Affairs has a core objective of complete elimination of which category of weapons? (abbreviation or full name)"
+ ]
+}

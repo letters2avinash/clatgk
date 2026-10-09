@@ -1,0 +1,70 @@
+{
+ "key": "x12",
+ "topic": "World Environment Day 2026",
+ "chapter": "Environment & Disaster Management",
+ "text_file": "data/booklets/2026-06/t12_world_environment_day_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c6-t2-s1",
+   "title": "World Environment Day and UNEP",
+   "summary": "World Environment Day is celebrated every year on June 5 and was established in 1972 to coincide with the opening of the Stockholm Conference on Human Environment. It is organised by the United Nations Environment Programme (UNEP), which is based in Nairobi, Kenya. The 2026 edition carried the theme 'Inspired by Nature. For Climate. For Our Future.' and named Azerbaijan as Global Host.",
+   "facts": [
+    "World Environment Day is celebrated on June 5 every year.",
+    "Established in 1972 to coincide with the opening of the Stockholm Conference on Human Environment.",
+    "Celebrated in 1973 with the theme 'Only One Earth'.",
+    "Organised by the United Nations Environment Programme (UNEP).",
+    "UNEP was founded in 1972 and is based in Nairobi, Kenya.",
+    "Purpose: raise awareness and drive global action on pressing environmental issues.",
+    "WED 2026 theme: 'Inspired by Nature. For Climate. For Our Future.'",
+    "Azerbaijan was named Global Host for World Environment Day 2026."
+   ]
+  },
+  {
+   "id": "2026-06-c6-t2-s2",
+   "title": "Global Climate Finance and the Tropical Forest Facility",
+   "summary": "The New Collective Quantified Goal (NCQG) on climate finance was formally established at COP29 in Baku. It sets a target to scale up climate funding for developing nations to at least $1.3 trillion per year by 2035, with developed nations leading the mobilisation of at least $300 billion annually. The Tropical Forest Forever Facility was officially launched at COP30 in Belem, Brazil, to make standing forests more valuable than cleared land.",
+   "facts": [
+    "The NCQG on climate finance was formally established at COP29 in Baku.",
+    "Target: scale up climate funding to developing nations to at least $1.3 trillion per year by 2035.",
+    "Developed nations agreed to lead mobilisation of at least $300 billion annually by 2035.",
+    "The Baku-Belem Roadmap to 1.3T designed an institutional mechanism spanning the Azerbaijan and Brazil Presidencies.",
+    "The Tropical Forest Forever Facility (TFFF) was officially launched at COP30 in Belem, Brazil.",
+    "COP30 in Belem is widely termed the 'Amazon Forest COP'.",
+    "TFFF makes standing, living tropical forests more economically valuable than cleared land.",
+    "TFFF directly addresses the financial drivers of deforestation."
+   ]
+  },
+  {
+   "id": "2026-06-c6-t2-s3",
+   "title": "India's Climate Targets and the Solar Alliance",
+   "summary": "India's Nationally Determined Contributions (NDCs) set targets on emissions intensity, non-fossil power capacity and carbon sinks, and the updated NDC submitted in 2022 raised the 2030 goals. The status column shows that the 2030 non-fossil target had reached 52.57% by February 2026. The International Solar Alliance, launched by India and France in 2015, was officially established in December 2017.",
+   "facts": [
+    "First NDC (submitted 2015): cut emissions intensity of GDP by 33-35% from 2005 levels by 2030.",
+    "Updated NDC (submitted 2022): cut emissions intensity of GDP by 45% by 2030.",
+    "Non-fossil fuel based installed electric power capacity: 40% by 2030 (first NDC), 50% (updated NDC).",
+    "First NDC: additional carbon sink of 2.5-3 billion tonnes CO2 equivalent by 2030 through forest and tree cover.",
+    "Status: 36% reduction in emissions intensity achieved by 2020.",
+    "Status: 52.57% non-fossil fuel based installed capacity achieved by February 2026.",
+    "Status: 2.29 billion tonnes CO2 equivalent additional carbon sink achieved by 2021.",
+    "International Solar Alliance (ISA) jointly launched by India and France in 2015 on the sidelines of COP-21 in Paris.",
+    "ISA was officially established on 6 December 2017, on the entry into force of the Framework Agreement.",
+    "ISA covers solar resource-rich states lying fully or partially between the Tropic of Cancer and the Tropic of Capricorn."
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year was Project Tiger launched by India?",
+  "As of now, how many Ramsar Sites has India expanded its count to?",
+  "In which Union Budget was the MISHTI mangrove initiative announced?",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "How many of the following statements are correct?",
+  "Consider the following statements:",
+  "Which city in Uruguay hosted the first session (INC-1) of the plastic pollution negotiating committee in 2022?",
+  "In which year was Mission LiFE first introduced by PM Modi at COP26?",
+  "How many billion Indians and other global citizens is Mission LiFE aiming to mobilise for 2022-2027? (in billion)",
+  "Which country was the first in the world to ban thin plastic bags?",
+  "Which body launched Project REPLAN? (give the abbreviation)",
+  "In which country was the third session (INC-3) on plastic pollution held in 2023?"
+ ]
+}

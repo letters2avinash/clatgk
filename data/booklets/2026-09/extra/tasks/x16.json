@@ -1,0 +1,76 @@
+{
+ "key": "x16",
+ "topic": "Miscellaneous: In News (September 2026)",
+ "chapter": "Miscellaneous",
+ "text_file": "data/booklets/2026-09/t16_miscellaneous.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c8-t1-s2",
+   "title": "International Conventions and Diplomacy",
+   "summary": "The European Commission President has proposed exploring an 'Associate Member' relationship that could let Canada take part more closely in selected EU frameworks without full membership. Under the UN Convention on Certain Conventional Weapons, 128 countries reached a consensus on a working definition of lethal autonomous weapons systems. CITES regulates international trade in endangered wild species through three appendices, and the Montreal Protocol governs the phase-out of ozone-depleting substances and the Kigali Amendment mandates the phase-down of hydrofluorocarbons.",
+   "facts": [
+    "EU proposal to explore an 'Associate Member' relationship, illustrated with Canada",
+    "'Associate Membership' is not an established membership category under the EU's foundational treaties",
+    "Treaty revision would require all 27 EU Member States to agree",
+    "Association Agreement under Article 217 of the TFEU is a more flexible alternative",
+    "Association Agreement needs unanimous approval in the Council and the consent of the European Parliament",
+    "CCW adopted in 1980 and entered into force in 1983",
+    "128 countries reached consensus on a working definition of Lethal Autonomous Weapons Systems (LAWS)",
+    "CITES has 185 Parties; India became a Party in 1976",
+    "CITES species are listed in three appendices by conservation status and trade sensitivity",
+    "Montreal Protocol (1987) led to a 99% phase-out of controlled ozone-depleting substances; Kigali Amendment (2016) mandates phase-down of HFCs"
+   ]
+  },
+  {
+   "id": "2026-09-c8-t1-s3",
+   "title": "Governance, Standards and Schemes",
+   "summary": "The PM Vishwakarma scheme completed three years of implementation in September 2026 and supports artisans in 18 traditional trades. Registered Unrecognised Political Parties (RUPPs) are under scrutiny over political funding transparency, with the Election Commission of India registering parties under the Representation of the People Act, 1951. The Legal Metrology (Indian Standard Time) Rules, 2026 make IST the single mandatory time reference for official purposes, and Karnataka has granted Tulu additional administrative language status.",
+   "facts": [
+    "PM Vishwakarma scheme is fully funded by the Government of India and runs from FY 2023-24 to FY 2027-28",
+    "Covers 18 traditional trades in rural and urban areas",
+    "Only one member per family can apply; applicant must be over 18 years of age",
+    "Applicants who benefited from PMEGP or PM Swanidhi in the past 5 years are not eligible",
+    "RUPPs are registered with ECI but have not acquired status of a recognised State or National Party",
+    "Section 29A RPA 1951: registration of political parties; Section 29C: contribution reports",
+    "Supreme Court in ADR v. Union of India (2024) struck down the Electoral Bond Scheme",
+    "Legal Metrology (Indian Standard Time) Rules, 2026 are notified under Section 52 of the Legal Metrology Act, 2009",
+    "IST is 5 hours 30 minutes ahead of UTC and is based on 82.5 degrees East longitude",
+    "Tulu was granted status of additional administrative language in Karnataka; Tulu is not in the Eighth Schedule"
+   ]
+  },
+  {
+   "id": "2026-09-c8-t1-s5",
+   "title": "Science, Environment and Culture",
+   "summary": "PRATUSH is a proposed Indian mission, while CosmoCube is a proposed lunar-orbiting mission led by scientists associated with the Royal Astronomical Society and University of Cambridge, both aimed at detecting the 21-cm signal from the early universe, while NASA's Nancy Grace Roman Space Telescope has been launched to study dark energy and exoplanets. Five young orangutans rescued in Odisha were moved to a zoo, and orangutans are native only to Borneo and Sumatra. World Rhino Day on 22 September highlighted the five rhino species, and the 2024 National Film Awards were announced.",
+   "facts": [
+    "CosmoCube: proposed lunar-orbiting satellite to detect the 21-cm radio signal from the early universe",
+    "PRATUSH: Probing ReionizATion of the Universe using Signal from Hydrogen, by the Raman Research Institute with ISRO",
+    "Cosmic Dark Ages lie between about 380,000 years and about 200 million years after the Big Bang",
+    "Nancy Grace Roman Space Telescope launched on a SpaceX Falcon Heavy and operates near Sun-Earth L2",
+    "Five young orangutans rescued in Balasore (Odisha) and moved to Nandankanan Zoological Park",
+    "Orangutans are not native to India; their natural range is the tropical forests of Borneo and Sumatra",
+    "World Rhino Day is observed on 22 September; the 2026 theme is 'Keep the Five Alive'",
+    "Greater One-Horned Rhino is the largest of the five rhino species and is concentrated in Kaziranga National Park, Assam",
+    "National Film Awards were established in 1954 and have been administered by the Directorate of Film Festivals since 1973",
+    "Best Feature Film award went to Article 370 (Hindi)"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Under the 1991 India-Pakistan Agreement on Advance Notice of Military Exercises, what is the minimum distance that naval ships and submarines of the two countries should keep from each other while operating in international waters?",
+  "On which date was the 1991 India-Pakistan Agreement on Advance Notice of Military Exercises signed?",
+  "Assertion (A): The 1991 India-Pakistan agreement aims to reduce the possibility of accidents involving naval platforms of the two countries.",
+  "Match List I with List II:",
+  "Consider the following statements about Lake Ontario:",
+  "How many of the following statements are correct?",
+  "In the 2013 referendum held in the Falkland Islands, approximately what percentage of participating islanders voted to retain the islands' status as a British Overseas Territory? (in per cent)",
+  "As successor to the colonial possessions of which country in the region does Argentina argue that it inherited territorial claims over the Falkland Islands?",
+  "What percentage of the cost of the water component will the Union Government provide as Central Assistance for the Kishau Multipurpose Dam Project? (in per cent)",
+  "Up to what percentage of expenditure on plant and machinery will the government provide as financial assistance under the new coal and lignite gasification scheme? (in per cent)",
+  "How many performance indicators does the India Electric Mobility Index 2025 use to evaluate States and Union Territories?",
+  "How many States/UTs are participating in the Kishau Multipurpose Dam Project?",
+  "What minimum population must a settlement have to qualify as a Census Town under the criteria introduced for the 1981 Census? (in persons)",
+  "After the recent rise, what global rank did India attain in foreign exchange reserves? (ordinal)",
+  "What weight, in per cent, does the Transport Electrification Progress pillar carry in the India Electric Mobility Index 2025? (in per cent)"
+ ]
+}

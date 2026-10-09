@@ -1,0 +1,55 @@
+{
+ "key": "x07",
+ "topic": "UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026",
+ "chapter": "National News and Issues",
+ "text_file": "data/booklets/2026-01/t07_ugc.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c2-t2-s1",
+   "title": "University Grants Commission: Origin, Status and Functions",
+   "summary": "The University Grants Commission is a statutory body under the UGC Act, 1956, formally inaugurated in 1953 by Maulana Abul Kalam Azad. Its idea evolved from the Sargeant Report (1944), and the University Education Commission (1948) recommended restructuring it on the British model. The UGC allocates grants, advises the government on higher education reforms and maintains academic standards from its headquarters in New Delhi.",
+   "facts": [
+    "Statutory body under the UGC Act, 1956",
+    "Formally inaugurated in 1953 by Maulana Abul Kalam Azad",
+    "Idea evolved from the Sargeant Report (1944)",
+    "University Grants Committee set up in 1945, expanded by 1947 to oversee all Indian universities",
+    "University Education Commission (1948) chaired by Dr. S. Radhakrishnan",
+    "That Commission recommended restructuring UGC on the British model",
+    "In 1952, the government entrusted UGC with oversight of higher education grants",
+    "Functions: allocating grants, advising government, maintaining academic standards",
+    "Composition: Chairman, Vice-Chairman and 10 members appointed by Central Government",
+    "Headquarters: New Delhi"
+   ]
+  },
+  {
+   "id": "2026-01-c2-t2-s4",
+   "title": "Concerns Raised About the Regulations",
+   "summary": "Critics fear the framework could indirectly influence the social and demographic composition of campuses. They point to the absence of safeguards against false or malicious complaints and to the lack of confidentiality or timely redress for the accused. Short inquiry periods and the automatic linkage of the helpline to police are also seen as risks.",
+   "facts": [
+    "Demographic policing concerns: may indirectly influence the social and demographic composition of campuses",
+    "No explicit protection against false, frivolous or malicious complaints",
+    "No mechanisms for confidentiality or timely redress for the accused; risk of reputational damage",
+    "Compressed inquiry timelines may compromise fact-finding and increase the risk of errors",
+    "Helpline's automatic linkage to police may discourage open academic discourse and reporting",
+    "Students and faculty could fear criminal consequences"
+   ]
+  }
+ ],
+ "already_asked": [
+  "How many working days are allowed for the Equity Committee to complete its inquiry and submit its report?",
+  "How many senior faculty members sit on the Equity Committee as other members?",
+  "Which groups does the representation requirement for the Equity Committee cover?",
+  "Assertion (A): The Equity Committee must convene within 24 hours of receiving a complaint.",
+  "Match List I with List II:",
+  "Consider the following statements about the 2026 Regulations:",
+  "How many of the following statements are correct?",
+  "Consider the following statements:",
+  "By what percentage did UGC-reported caste-discrimination complaints rise between 2019-20 and 2023-24? (in per cent)",
+  "How many caste-discrimination cases were pending at UGC in 2023-24?",
+  "How many caste-discrimination complaints were received in 2019-20?",
+  "In which year did the Rohith Vemula case occur?",
+  "Which Article of the Constitution directs the promotion of educational and economic interests of weaker sections? (give the number)",
+  "In which year was the Protection of Civil Rights Act enacted?",
+  "In which year was the SC/ST (Prevention of Atrocities) Act enacted?"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "key": "x01",
+ "topic": "Visit of Vice President C. P. Radhakrishnan to Sri Lanka",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-04/t01_vp_sri_lanka_visit.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c1-t1-s2",
+   "title": "Diaspora Schemes: PIO and OCI",
+   "summary": "The OCI scheme was introduced in 2005 through an amendment to the Citizenship Act, 1955, and was merged with the PIO scheme in 2015. PIO card holders need no visa to visit India for 15 years from the date of issue of the card. OCI holders get a multipurpose, multiple-entry, lifelong visa and are exempt from police reporting.",
+   "facts": [
+    "OCI scheme introduced in 2005 via amendment to the Citizenship Act, 1955",
+    "PIO and OCI schemes merged in 2015",
+    "PIO: a foreign citizen, except nationals of Pakistan, Afghanistan, Bangladesh, China, Iran, Bhutan, Sri Lanka and Nepal",
+    "PIO: a parent, grandparent or great-grandparent was born in and a permanent resident of India, or the person is a spouse of an Indian citizen or PIO",
+    "PIO card holders need no visa for 15 years from the date of issue of the card",
+    "PIO stay up to 180 days is exempt from FRRO/FRO registration; longer stays must register within 30 days",
+    "OCI eligibility covers persons eligible for Indian citizenship on 26.01.1950 and their minor children",
+    "Persons who were ever citizens of Pakistan or Bangladesh are not eligible for OCI",
+    "OCI holders get a multipurpose, multiple-entry, lifelong visa and are exempt from police reporting",
+    "OCI holders have no right to acquire agricultural or plantation properties"
+   ]
+  },
+  {
+   "id": "2026-04-c1-t1-s4",
+   "title": "Sri Lanka Profile and Strategic Context",
+   "summary": "Colombo is the executive capital of Sri Lanka and Sri Jayawardenepura Kotte houses the legislature, with Harini Amarasuriya as Prime Minister and Anura Kumara Dissanayake as President. The LTTE, formed in 1976, and the 13th Amendment shape Sri Lanka's internal politics. China's growing presence through financial aid and Hambantota Port raises strategic concerns for India.",
+   "facts": [
+    "Capital: Colombo (Executive) and Sri Jayawardenepura Kotte (Legislature)",
+    "PM: Harini Amarasuriya; President: Anura Kumara Dissanayake",
+    "Currency: Sri Lankan Rupee",
+    "LTTE was formed in 1976 as a self-styled 'National Freedom Movement of People of Tamil Eelam'",
+    "LTTE undertook terrorist activities in Sri Lanka, especially against Sinhalese",
+    "13th Amendment of the Sri Lankan Constitution led to Provincial Councils with power-sharing for all 9 provinces",
+    "China's influence grows through financial aid and Hambantota Port",
+    "Chinese vessels Shi Yan-6 and Yuan Wang-5 conduct data collection, potentially supporting military operations against India",
+    "Multilateral forums include BIMSTEC, SAARC, Colombo Security Conclave and Indian Ocean Rim Association"
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year was the Overseas Citizen of India (OCI) scheme introduced?",
+  "Which two schemes were merged in 2015?",
+  "Match List I with List II:",
+  "Consider the following statements about Katchatheevu Island:",
+  "Consider the following statements about Overseas Citizen of India (OCI) status:",
+  "Under which Indian Prime Minister did India agree to cede Katchatheevu Island to Sri Lanka?",
+  "Which city houses the Legislature of Sri Lanka?",
+  "What is the area of Katchatheevu Island, in acres?",
+  "In which year was the Indo-Sri Lankan Maritime Agreement signed that ceded Katchatheevu to Sri Lanka?",
+  "Which European power occupied the island during 1505-1658 CE?",
+  "Which dynasty of Madurai held the island under the Ramnad Zamindari in the 17th century?",
+  "Which kingdom initially ruled the island in the early medieval period?",
+  "Before the cession, which Indian presidency was Katchatheevu once part of?",
+  "What is the island's sole structure?"
+ ]
+}

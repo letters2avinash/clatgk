@@ -1,0 +1,52 @@
+{
+ "key": "x09",
+ "topic": "G7 Summit 2026",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-06/t09_g7_summit_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c5-t1-s1",
+   "title": "52nd G7 Summit 2026",
+   "summary": "The 52nd G7 Summit was held in Evian-les-Bains, France, under France's presidency, with the theme 'Forging New Partnerships and Rebuilding International Solidarity'. PM Modi participated in the Outreach Session, which marked India's 8th consecutive participation in the G7 Outreach Process. The rotating presidency is due to pass to the United States in 2027.",
+   "facts": [
+    "52nd G7 Summit held in Evian-les-Bains, France",
+    "Held under the French presidency",
+    "Theme 2026: Forging New Partnerships and Rebuilding International Solidarity",
+    "PM Modi participated in the 52nd G7 Summit Outreach Session",
+    "India's 8th consecutive participation in the G7 Outreach Process",
+    "Rotating presidency to hand over to the United States in 2027"
+   ]
+  },
+  {
+   "id": "2026-06-c5-t1-s4",
+   "title": "Pillars of G7 Influence",
+   "summary": "The booklet describes the G7's influence through several pillars, including shaping financial regulation, responding to crises, and coordinating on energy and geopolitical issues. The forum is also presented as a symbol of cooperation among major economies and as a catalyst for climate and humanitarian commitments. Its dialogue is described as a way to find common ground on complex global challenges.",
+   "facts": [
+    "Summit discussions affect financial regulations and economic frameworks used worldwide",
+    "Enables a unified front when addressing economic crises, armed conflicts and public health emergencies",
+    "Leaders coordinate on energy insecurity and geopolitical instability",
+    "Collective decisions influence global trade policies, investment flows and economic recovery strategies",
+    "Primary symbol of cooperation among the world's major economies",
+    "Commitments serve as a catalyst for climate action and humanitarian assistance",
+    "Dialogue and coordination help find common ground on complex global challenges"
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year was the G7 established in response to global economic turbulence and an oil crisis?",
+  "Which country joined the grouping in 1976, creating the G7?",
+  "Russia's participation in the grouping was suspended in 2014 for which reason?",
+  "Given the assertion and reason below, choose the correct option.",
+  "Match List I with List II:",
+  "Consider the following statements about the G7:",
+  "How many of the following statements about the G7 are correct?",
+  "Consider the following statements:",
+  "How many countries are listed as formal member countries of the G7? (in number)",
+  "What share of the world's population do G7 countries account for, approximately? (in per cent)",
+  "What share of global GDP do G7 countries account for, approximately? (in per cent)",
+  "Which regional bloc takes part in G7 deliberations without being counted as a formal member?",
+  "Which country will take over the G7 rotating presidency in 2027?",
+  "How often does leadership of the G7 rotate among member states? (one word)",
+  "Which member country holds the G7 presidency for 2026? (one word)"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "key": "x10",
+ "topic": "18th BRICS Summit 2026",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-09/t10_brics_summit_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c5-t1-s1",
+   "title": "Summit Overview and Theme",
+   "summary": "India hosted the 18th BRICS Summit in New Delhi in 2026, marking its 4th BRICS Chairship. The summit ran under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability'. It ended with the unanimous adoption of the New Delhi Declaration, which stressed multilateralism and Global South representation. The year also marked 25 years since the BRIC concept emerged in 2001.",
+   "facts": [
+    "18th BRICS Summit held in New Delhi in 2026",
+    "2026 was India's 4th BRICS Chairship",
+    "Earlier Indian chairships: 2012 (4th summit, New Delhi), 2016 (8th, Goa), 2021 (13th, virtual)",
+    "Theme 2026: Building for Resilience, Innovation, Cooperation and Sustainability",
+    "New Delhi Declaration adopted unanimously at the close of the summit",
+    "Declaration stressed multilateralism, conflict prevention, equitable global governance and Global South representation",
+    "2026 marked 25 years since the BRIC concept emerged in 2001",
+    "Resilience: strengthening ability to deal with economic, environmental and geopolitical challenges",
+    "Innovation: promoting new technologies, research and digital solutions for development",
+    "Cooperation and Sustainability: collaboration across sectors and environmentally sustainable, inclusive growth"
+   ]
+  },
+  {
+   "id": "2026-09-c5-t1-s3",
+   "title": "Science, Technology and Digital Infrastructure",
+   "summary": "The science and digital outcomes cover space, satellite data, digital public infrastructure, research infrastructure, smart grids and entrepreneurship. Terms were drafted for a proposed space council, and a repository for digital public infrastructure was approved. An action plan was adopted for a network that pools resources for high-cost megascience projects. An incubator network was launched to support innovation-led growth.",
+   "facts": [
+    "Terms drafted for a proposed BRICS Space Council",
+    "Cooperation under the BRICS Remote Sensing Satellite Constellation was expanded",
+    "Collective satellite data to support disaster risk reduction and climate monitoring",
+    "BRICS DPI Repository approved for creation",
+    "Pilot projects started for sharing open-source digital public goods, including digital identity and payment systems",
+    "GRAIN (Global Research Advanced Infrastructure Network): action plan adopted",
+    "GRAIN aims to pool financial and intellectual resources for high-cost megascience projects",
+    "Digital Centre of Excellence for Smart Grids established for AI-enabled integration of renewable energy",
+    "BRICS Incubator Network launched to promote entrepreneurship and innovation-led growth"
+   ]
+  },
+  {
+   "id": "2026-09-c5-t1-s5",
+   "title": "Security, Social Cooperation and Global Governance",
+   "summary": "Security outcomes include a condemnation of cross-border terrorism and an expert network for tracing fugitive offenders. BRICS CONNECT addresses capacity building and the rights of gig workers. On global governance, the summit endorsed greater African representation in the UN Security Council, and India proposed a 3R framework. China was confirmed as host of the 19th BRICS Summit in 2027.",
+   "facts": [
+    "BRICS condemned cross-border terrorism and the 2025 Pahalgam terror attack",
+    "BRICS urged progress towards the UN Comprehensive Convention on International Terrorism",
+    "Expert network and repository established for tracing fugitive offenders",
+    "BRICS CONNECT: capacity building, employability and new skills",
+    "BRICS CONNECT aims to strengthen gig workers' rights and cross-border portability of social security",
+    "BRICS endorsed the Ezulwini Consensus and Sirte Declaration on African representation in the UN Security Council",
+    "India's 3R framework: Representation, Responsiveness, Rule-making",
+    "India's 10-point roadmap for global governance reform",
+    "BRICS endorsed WTO accession bids of Ethiopia and Iran",
+    "China confirmed as host of the 19th BRICS Summit in 2027"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Consider the following statements:",
+  "Which action plan was launched along with the BRICS Tax Cross-Learning Lab?",
+  "Consider the following statements:",
+  "In which place is the BRICS Risk Lab located?",
+  "Match List I with List II:",
+  "The Jaipur Consensus on MSME Financing is intended to help MSMEs convert which of the following into working capital?",
+  "Through which currencies does the BRICS Payment Task Force seek to facilitate trade settlements?",
+  "By which year does BRICS aim to launch the BRICS Grain Exchange? (year)",
+  "Which Indian institution leads the Training Hub Network for mental well-being?",
+  "Which state's MedTech Zone spearheaded the BRICS BioDesign Centre? (name of state)",
+  "In which year does the Joint Roadmap for Healthy Lifestyle Promotion end? (year)",
+  "In which year does the Global Value Chains Action Plan end? (year)",
+  "Which BRICS network focuses on cooperation relating to seeds, germplasm and agricultural inputs?",
+  "Delegates were served Koraput Coffee from which Indian state?"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "key": "x08",
+ "topic": "10 Years of Startup India Initiative",
+ "chapter": "Polity and Governance",
+ "text_file": "data/booklets/2026-01/t08_startupindia.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c3-t1-s1",
+   "title": "Launch, Aim and Management",
+   "summary": "The Startup India Initiative was launched on 16 January 2016 to foster startup culture and build an inclusive ecosystem for innovation and entrepreneurship. The Department for Promotion of Industry and Internal Trade, under the Ministry of Commerce & Industry, manages it. 16 January is observed as National Startup Day, and India marks 10 years of the initiative.",
+   "facts": [
+    "Launched on 16 January 2016.",
+    "Aim: foster startup culture and build an inclusive ecosystem for innovation and entrepreneurship.",
+    "Managed by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry.",
+    "16 January is observed as National Startup Day.",
+    "India ranks as the world's third largest startup hub, after the US and China.",
+    "Soonicorn: a startup with potential to reach a valuation of 1 billion dollars in the near future.",
+    "Decacorn: valuation of 10 billion dollars.",
+    "Hectocorn: valuation of 100 billion dollars."
+   ]
+  },
+  {
+   "id": "2026-01-c3-t1-s2",
+   "title": "Eligibility and Core Features",
+   "summary": "A startup qualifies if it is headquartered in India, opened less than 10 years ago and has an annual turnover below 100 crore. The initiative offers ease of doing business through self-certification and single-window clearances. Eligible startups also enjoy tax exemptions for three consecutive financial years.",
+   "facts": [
+    "A startup must be an entity headquartered in India.",
+    "It must have opened less than 10 years ago.",
+    "Annual turnover must be less than 100 crore.",
+    "Ease of doing business through simplified compliance, self-certification and single-window clearances.",
+    "Eligible startups enjoy tax exemptions for 3 consecutive financial years.",
+    "Sector-specific policies target biotechnology, agriculture and renewable energy.",
+    "Funding support includes a 10,000 crore Fund of Funds for early-stage funding."
+   ]
+  },
+  {
+   "id": "2026-01-c3-t1-s5",
+   "title": "Mentorship, Networking and Events",
+   "summary": "BHASKAR connects startups, investors and mentors to empower non-metro cities, while MAARG offers intelligent matchmaking between mentors and startups. Startup Mahakumbh is a flagship event bringing together startups, unicorns, soonicorns, investors, industry leaders and ecosystem stakeholders. The fifth edition is scheduled in March in New Delhi.",
+   "facts": [
+    "BHASKAR stands for Bharat Startup Knowledge Access Registry; it is the BHASKAR Platform of 2024.",
+    "BHASKAR connects startups, investors and mentors.",
+    "BHASKAR aims to empower non-metro cities.",
+    "MAARG stands for Mentorship, Advisory, Assistance, Resilience & Growth.",
+    "MAARG offers intelligent matchmaking between mentors and startups.",
+    "Startup Mahakumbh is a flagship event bringing together startups, unicorns, soonicorns, investors, industry leaders and ecosystem stakeholders.",
+    "The 5th Startup Mahakumbh is scheduled in March in New Delhi."
+   ]
+  }
+ ],
+ "already_asked": [
+  "What does GENESIS stand for?",
+  "Consider the following statements:",
+  "Under which body does the Atal Innovation Mission operate?",
+  "Which scheme sets up a network of technology centres and incubation centres to promote agro-industry startups?",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Which scheme aims at socio-economic growth through wealth and job creation?",
+  "In which month and year was the Fund of Funds for Startups introduced?",
+  "What is the corpus of the Fund of Funds for Startups, in crore? (number only)",
+  "On which date is National Startup Day observed? (day and month)",
+  "Which scheme provides financial assistance for proof of concept and prototype development? (scheme name)",
+  "Through which type of eligible institutions is seed fund assistance channelled? (one word)",
+  "The Fund of Funds for Startups aims to enhance access to which kind of capital? (two words)"
+ ]
+}

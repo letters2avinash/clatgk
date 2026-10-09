@@ -1,0 +1,56 @@
+{
+ "key": "x11",
+ "topic": "World Wetlands Day 2026",
+ "chapter": "Environment & Biodiversity",
+ "text_file": "data/booklets/2026-02/t11_world_wetlands_day_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c5-t2-s1",
+   "title": "Why in News: World Wetlands Day 2026",
+   "summary": "World Wetlands Day is observed on 2 February, and the 2026 theme is 'Wetlands and Traditional Knowledge: Celebrating Cultural Heritage'. India's Ramsar Network was expanded when the Union Environment Minister added two new wetlands, bringing the total to 98. Patna Bird Sanctuary in Etah District, Uttar Pradesh, was recognised as the state's smallest bird sanctuary.",
+   "facts": [
+    "World Wetlands Day is observed on 2 February.",
+    "The 2026 theme is Wetlands and Traditional Knowledge: Celebrating Cultural Heritage.",
+    "Union Environment Minister added two new wetlands to India's Ramsar Network.",
+    "India's Ramsar Network total reaches 98.",
+    "Patna Bird Sanctuary is in Etah District, Uttar Pradesh.",
+    "Patna Bird Sanctuary was established in 1991.",
+    "Patna Bird Sanctuary is recognised as the state's smallest bird sanctuary.",
+    "Chhari-Dhand Wetland Reserve is in Gujarat's Rann of Kutch.",
+    "Chhari-Dhand is famous for Chir Batti night lights across Banni Grasslands."
+   ]
+  },
+  {
+   "id": "2026-02-c5-t2-s2",
+   "title": "Meaning and Classification of Wetlands",
+   "summary": "A wetland is a place where land is covered by water, which may be salt, fresh or in between, and may be seasonal or permanent. The term covers a wide range of water bodies and coastal habitats, from lakes and rivers to mangroves and coral reefs. For classification, wetlands are grouped into three segments.",
+   "facts": [
+    "Wetland: land covered by water that is salt, fresh or in between.",
+    "The water cover may be seasonal or permanent.",
+    "Includes lakes, rivers and underground aquifers.",
+    "Includes swamps, wet grasslands and peatlands.",
+    "Includes deltas, tidal flats and mangroves.",
+    "Includes coral reefs and other coastal areas.",
+    "Wetlands are classified into three segments.",
+    "The three segments are Inland, Coastal and Human-made wetlands."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which country has the largest area under protection of the Ramsar Convention?",
+  "How often does the Conference of Parties (COP) to the Ramsar Convention meet?",
+  "In which year was the Montreux Record launched?",
+  "Read the two statements and choose the correct option.",
+  "Match List I with List II:",
+  "Consider the following statements about wetlands and the Ramsar Convention:",
+  "How many of the following statements about the Ramsar Convention are correct?",
+  "Which Indian wetland was placed in the Montreux Record and later removed from it?",
+  "In which year was the original National Wetland Decadal Change Atlas released by SAC?",
+  "Which organisation prepared the National Wetland Decadal Change Atlas? (give the short form)",
+  "In which year was the National Wetland Conservation Program started?",
+  "For how many years is a Wetland City accreditation valid? (in years)",
+  "In which city was COP15 of the Ramsar Convention held in 2025?",
+  "In which year did COP 12 of the Ramsar Convention approve the Wetland City Accreditation Program?",
+  "The Nature-Culture Tourism Corridor is to be developed between Ayodhya and which other place in Uttar Pradesh?"
+ ]
+}

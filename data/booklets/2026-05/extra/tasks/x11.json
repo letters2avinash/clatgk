@@ -1,0 +1,58 @@
+{
+ "key": "x11",
+ "topic": "International Labour Day",
+ "chapter": "Sports, Awards & Days",
+ "text_file": "data/booklets/2026-05/t11_international_labour_day.txt",
+ "subtopics": [
+  {
+   "id": "2026-05-c6-t2-s1",
+   "title": "Origin of International Labour Day",
+   "summary": "International Labour Day, also called Workers Day or May Day, is observed every year on May 1 to honour the contribution of workers. Its origin is traced to the late 19th century labour movement in the United States, where workers demanded an eight-hour working day. A large 1886 demonstration in Chicago went out of hand, and the incident known as the Haymarket Affair marked the start of the day. In 1889, Socialist Parties in Europe decided to celebrate May 1 as International Labour Day.",
+   "facts": [
+    "Observed annually on May 1",
+    "Also known as Workers Day or May Day",
+    "Origin traced to the late 19th century labour movement in the United States",
+    "1886: large demonstration in America demanded 8 hours of work on a daily basis",
+    "The 1886 demonstration went out of hand in Chicago and many people got hurt",
+    "The incident is known as the Haymarket Affair",
+    "Haymarket Affair marked the start of International Labour Day",
+    "1889: Socialist Parties in Europe decided to celebrate May 1 as International Labour Day",
+    "1923: first May Day in India celebrated in Chennai (then Madras)",
+    "The 1923 celebration was by the Labour Kisan Party of Hindustan"
+   ]
+  },
+  {
+   "id": "2026-05-c6-t2-s4",
+   "title": "ILO objectives, standards and reports",
+   "summary": "The ILO pursues four stated objectives: promoting fundamental labour rights, creating greater opportunities for women and men, enhancing social protection, and strengthening social dialogue and tripartism. Its international labour standards are Conventions and Protocols, which are legally binding treaties, and Recommendations, which are non-binding guidelines. The ILO Declaration on Fundamental Principles and Rights at Work, adopted in 1998, names focus areas such as freedom of association and abolition of child labour. The ILO also publishes key reports, including the Global Wage Report.",
+   "facts": [
+    "Objective: promote and realise standard fundamental labour rights",
+    "Objective: create greater opportunities for women and men",
+    "Objective: enhance social protection",
+    "Objective: strengthen social dialogue and tripartism",
+    "Conventions and Protocols: legally binding international treaties",
+    "Recommendations: non-binding guidelines",
+    "ILO Declaration on Fundamental Principles and Rights at Work: adopted in 1998, amended in 2022",
+    "Focus areas: freedom of association, elimination of forced labour, abolition of child labour, elimination of employment discrimination, safe and healthy working conditions",
+    "Fundamental conventions listed include Minimum Age (No. 138) and Freedom of Association (No. 87)",
+    "Key reports include World Employment and Social Outlook, Global Wage Report, World Social Protection Report and World of Work Report"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which Article of the Indian Constitution prohibits employment of children below the age of 14 years?",
+  "Which Article of the Indian Constitution orders the State to secure a living wage, decent conditions of work and social and cultural opportunities to all workers?",
+  "Match List I with List II:",
+  "Consider the following statements about labour provisions in the Indian Constitution:",
+  "Consider the following statements about labour laws in India:",
+  "According to the chart, which labour code amalgamates the largest number of laws?",
+  "In which year was the Contract Labour Act enacted?",
+  "In which year did the ILO become the first specialised agency associated with the United Nations? (year)",
+  "According to the booklet, who is the Director General of the ILO? (name)",
+  "In which city is the headquarters of the ILO located? (city)",
+  "In which year was the ILO awarded the Nobel Prize for Peace? (year)",
+  "In which year was the ILO Declaration on Fundamental Principles and Rights at Work adopted? (year)",
+  "Which ILO Convention number deals with Minimum Age? (number)",
+  "Which ILO Convention number deals with Freedom of Association? (number)"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "key": "x08",
+ "topic": "WPI Base Year Revision and Introduction of PPI",
+ "chapter": "Economics",
+ "text_file": "data/booklets/2026-06/t08_wpi_base_year_revision_ppi.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c4-t1-s1",
+   "title": "Wholesale Price Index (WPI) Basics",
+   "summary": "The Wholesale Price Index measures the average change in prices of goods traded at wholesale or producer level, before they reach final consumers. It is an important indicator of inflationary trends within the production and distribution chain. The Office of Economic Adviser compiles and releases it.",
+   "facts": [
+    "Measures average change in prices of goods traded at wholesale or producer level",
+    "Captures prices before goods reach final consumers",
+    "Indicator of inflationary trends within the production and distribution chain",
+    "Compiled and released by the Office of Economic Adviser",
+    "Office of Economic Adviser works under the Department for Promotion of Industry and Internal Trade",
+    "Base year of the WPI before revision: 2011-12"
+   ]
+  },
+  {
+   "id": "2026-06-c4-t1-s4",
+   "title": "WPI and PPI Compared",
+   "summary": "The PPI differs from the WPI in scope, focus, perspective and purpose. The WPI is primarily about goods and market-level wholesale prices, while the PPI covers goods and services and looks at producer revenue and input costs. The new PPIs are introduced alongside the revised WPI series.",
+   "facts": [
+    "WPI scope: primarily goods; PPI scope: goods and services",
+    "WPI focus: wholesale price movements; PPI focus: producer-level price changes",
+    "WPI perspective: market-level wholesale prices; PPI perspective: producer revenue and input costs",
+    "WPI purpose: inflation monitoring; PPI purpose: comprehensive producer inflation analysis",
+    "New PPIs are introduced alongside the revised WPI series",
+    "Service PPI captures inflation trends in the services sector from the producer perspective"
+   ]
+  }
+ ],
+ "already_asked": [
+  "The 2011-12 WPI series covered 697 items. By how many items did the item count rise in the revised series with 2022-23 as base year?",
+  "Which index measures changes in prices received by producers for the goods and services they sell?",
+  "In the revised WPI series, Crude Petroleum and Natural Gas were moved between categories. Which move describes this change?",
+  "Assertion (A): The revised WPI series uses weights based on Gross Value of Output rather than Net Traded Value.",
+  "Match List I with List II:",
+  "I. The revised WPI series has 957 items, up from 697 in the 2011-12 series.",
+  "I. Solar Power is one of the components newly added in the revised WPI series.",
+  "Which method, previously used for missing prices, was replaced in the revised WPI series by Targeted Mean Imputation?",
+  "For the first time, dedicated Producer Price Indices will be released with which base year? (give the year range)",
+  "How many distinct types of Producer Price Index are described in the booklet? (in number)",
+  "Which Producer Price Index measures changes in prices paid by producers for inputs used in production? (one word)",
+  "How many services are listed in the booklet as covered by the Service PPI? (in number)",
+  "In the WPI vs PPI comparison, which index has a scope covering both goods and services? (one word)",
+  "In the WPI vs PPI comparison, which index has the stated purpose of inflation monitoring? (one word)"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "key": "x10",
+ "topic": "SIPRI Report: India as 2nd Largest Arms Importer",
+ "chapter": "Science & Technology, Defence and Space",
+ "text_file": "data/booklets/2026-03/t10_sipri_india_arms_importer.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c6-t1-s3",
+   "title": "India as 2nd largest arms importer",
+   "summary": "India remained the second-largest arms importer during 2021-25, with an 8.2% share. Its overall arms imports fell by 4%, largely due to increased domestic defence manufacturing and indigenisation. Russia, France and Israel were its main suppliers.",
+   "facts": [
+    "India's import rank in 2021-25: 2nd largest",
+    "India's share of global arms imports: 8.2%",
+    "India's overall arms imports declined by 4%",
+    "Decline largely due to domestic manufacturing and indigenisation efforts",
+    "India's supplier composition: Russia 40%",
+    "India's supplier composition: France 29%",
+    "India's supplier composition: Israel 15%"
+   ]
+  },
+  {
+   "id": "2026-03-c6-t1-s4",
+   "title": "India's push for domestic defence",
+   "summary": "India has set production and export targets for 2029 and is building its domestic defence capacity. Policy changes, defence industrial corridors and foreign investment rules support this aim. The top three export destinations are the US, France and Armenia.",
+   "facts": [
+    "Defence budget 2026-27: Rs 7.85 lakh crore",
+    "Defence production 2024-25: Rs 1.54 lakh crore (2029 target: Rs 3 lakh crore)",
+    "Defence exports 2024-25: Rs 23,622 crore (2029 target: Rs 50,000 crore)",
+    "Top 3 export destinations: US, France, Armenia",
+    "Defence Acquisition Procedure 2020 prioritises Indian-made products over foreign purchases",
+    "Defence Industrial Corridors established in Uttar Pradesh and Tamil Nadu",
+    "FDI: 74% through automatic route; 100% through government route",
+    "iDEX supports startups and MSMEs in defence innovation"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which of the following statements about the SIPRI report are correct?",
+  "Match List I with List II:",
+  "By what percentage did international arms transfers increase in 2021-25 compared with 2016-20?",
+  "Which country was the largest supplier of India's arms imports during 2021-25?",
+  "Consider the following statements about the SIPRI report.",
+  "Which country was the top arms importer globally in 2021-25, with a 9.7% share?",
+  "Assertion (A): India's overall arms imports declined during 2021-2025.",
+  "What was India's share (in per cent) of global arms imports during 2021-25?",
+  "By how many per cent did India's overall arms imports decline during 2021-25?",
+  "Which country was the largest supplier to India's arms imports during 2021-25?",
+  "Which country was the second-largest supplier to India's arms imports during 2021-25?",
+  "What was India's defence production value in 2024-25 (in Rs lakh crore)?",
+  "What is the target for India's defence exports in 2029 (in Rs crore)?",
+  "In which year was the Defence Acquisition Procedure that prioritises Indian-made products introduced?"
+ ]
+}

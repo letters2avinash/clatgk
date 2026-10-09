@@ -1,0 +1,76 @@
+{
+ "key": "x13",
+ "topic": "Miscellaneous (Part 1)",
+ "chapter": "Miscellaneous",
+ "text_file": "data/booklets/2026-03/t13_misc1.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c8-t1-s1",
+   "title": "Global Relations and Forums",
+   "summary": "India deepened ties with Brazil, Israel and Finland through trade, defence, technology and workforce arrangements. Brazil's state visit set a US$30 billion bilateral trade target for 2030. The Takeshima/Dokdo islets dispute between Japan and South Korea remains a sovereignty issue rooted in Japan's colonial rule over Korea.",
+   "facts": [
+    "Brazil-India Strategic Partnership dates to 2006; diplomatic relations were established in 1948.",
+    "Bilateral trade target is US$30 billion by 2030; trade had reached US$15.21 billion in 2025.",
+    "India and Brazil signed a Critical Minerals MoU covering rare earths, lithium, graphite, niobium and nickel.",
+    "Embraer will set up an E175 jet assembly line with Adani Defence and Aerospace.",
+    "Validity of multiple-entry tourist and business visas was extended from 5 years to 10 years.",
+    "India and Israel upgraded ties to a Special Strategic Partnership for Peace, Innovation and Prosperity.",
+    "Israel will allow up to 50,000 Indian workers over the next 5 years.",
+    "Israel is India's 2nd largest trading partner in Asia; bilateral trade was US$3.75 billion in FY 2024-25.",
+    "Takeshima (Japan) and Dokdo (South Korea) are islets in the Sea of Japan; the 1951 San Francisco Peace Treaty did not name them explicitly.",
+    "India and Finland elevated ties to a Strategic Partnership in digitalisation and sustainability; both aim to double bilateral trade by 2030."
+   ]
+  },
+  {
+   "id": "2026-03-c8-t1-s3",
+   "title": "Public Health, Water and Environment",
+   "summary": "The Universal Immunisation Programme and Mission Indradhanush aim to protect children and pregnant women against vaccine-preventable diseases. Jal Jeevan Mission 2.0 extends rural tap water coverage to December 2028 with a focus on service delivery. India's biodiversity commitments under the CBD and the Nagoya Protocol centre on benefit-sharing and national reporting.",
+   "facts": [
+    "The Universal Immunisation Programme is one of the largest public immunisation programmes in the world and was re-launched in 1985.",
+    "Mission Indradhanush was launched on 25 December 2014 by the Ministry of Health and Family Welfare.",
+    "Intensified Mission Indradhanush 2.0 (December 2019) targeted districts with 70% or below immunisation coverage.",
+    "India was certified polio-free in 2014; National Vaccination Day is observed on 16 March.",
+    "U-WIN is a digital platform to track vaccination records.",
+    "Jal Jeevan Mission was launched in 2019 under the Ministry of Jal Shakti with a standard of 55 litres per capita per day.",
+    "Jal Jeevan Mission 2.0 is extended to December 2028 and aims at tap connections for all 19.36 crore rural households.",
+    "Jal Arpan introduces a formal handover protocol involving Gram Panchayats and Village Water Committees (Paani Samitis).",
+    "The Nagoya Protocol was adopted in 2010 at Nagoya (Japan) and entered into force in 2014.",
+    "Out of 23 KMGBF targets, only 2 are on track for achievement by 2030; India hosts 98 Ramsar sites."
+   ]
+  },
+  {
+   "id": "2026-03-c8-t1-s4",
+   "title": "Economy, Security and Science",
+   "summary": "India's forex reserves fell by US$7.052 billion, driven by dollar strength, RBI intervention and higher crude oil prices. The PRAHAAR framework sets out seven pillars of India's zero-tolerance counter-terror doctrine. Defence and navigation updates include Mudh-Nyoma Air Force Station in eastern Ladakh and the NavIC satellite system.",
+   "facts": [
+    "India opposed including the IFD Agreement in the WTO framework; it is a plurilateral agreement binding only on signatories and based on the MFN principle.",
+    "Forex reserves dropped by US$7.052 billion to US$709.759 billion; they are held by the Reserve Bank of India.",
+    "Foreign currency assets are the largest component of forex reserves, followed by gold, SDRs and the reserve tranche position.",
+    "NITI Aayog's Fiscal Health Index 2026 covers FY 2023-24 and relies on audited data from the CAG.",
+    "Odisha retained the top position among major states for the second consecutive year.",
+    "PRAHAAR is India's first comprehensive National Counter-Terrorism Policy Framework, institutionalising a zero-tolerance doctrine.",
+    "PRAHAAR's seven pillars cover prevention, responses, aggregating internal synergy, human rights, attenuating radicalisation, aligning global cooperation and recovery.",
+    "Mudh-Nyoma Air Force Station was built in 1962 at an elevation of 13,700 feet in Changthang, about 25 km from the LAC.",
+    "NavIC is India's indigenous regional navigation system developed by ISRO and needs at least 4 operational satellites.",
+    "Atomic clock failure on IRNSS-1F weakened NavIC, as functional satellites dropped from 4 to 3."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Read the statements.",
+  "Under which Article of the Constitution is the procedure for removing the Chief Election Commissioner laid down?",
+  "Which Article declares every High Court in India a Court of Record?",
+  "Match List I with List II:",
+  "Under the Digital Personal Data Protection Act, 2023, violations of its child-protection provisions may attract penalties up to what amount?",
+  "How many Lok Sabha members must support a motion to remove the Chief Election Commissioner for the motion to be introduced?",
+  "Consider the following statements about euthanasia in India:",
+  "Consider the following statements about the removal of the Chief Election Commissioner:",
+  "In which year did the Dandi March (Salt Satyagraha) begin? (year)",
+  "On which day of March is Shaheed Diwas observed? (day of the month)",
+  "In which year did the British colonial government enact the Salt Act? (year)",
+  "Which Viceroy of India rejected Gandhi's eleven-point demands before the Dandi March? (surname)",
+  "In which year did C. Rajagopalachari propose the C.R. Formula? (year)",
+  "In which Indian state is Thorapalli, the birthplace of Rajaji, located? (name of state)",
+  "Across how many locations was the ASMITA Athletics League launched? (number)"
+ ]
+}

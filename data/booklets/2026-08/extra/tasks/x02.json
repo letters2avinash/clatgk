@@ -1,0 +1,65 @@
+{
+ "key": "x02",
+ "topic": "China's Antelope Reef Base in the South China Sea",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-08/t02_china_antelope_reef_base.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c1-t2-s1",
+   "title": "Location and Geography of the South China Sea",
+   "summary": "The South China Sea is an arm of the Western Pacific Ocean that borders the South-East Asian mainland. It is bordered by seven countries and connects with the East China Sea and the Philippine Sea through two straits. Together with the East China Sea, it forms what is termed the China Sea.",
+   "facts": [
+    "Arm of the Western Pacific Ocean that borders South-East Asian mainland",
+    "Bordered by Brunei, China, Indonesia, Malaysia, Philippines, Taiwan and Vietnam",
+    "Taiwan Strait connects it with the East China Sea",
+    "Luzon Strait connects it with the Philippine Sea",
+    "South China Sea and East China Sea together form the China Sea",
+    "Lies in a heavily trafficked maritime zone used for a large portion of global trade"
+   ]
+  },
+  {
+   "id": "2026-08-c1-t2-s2",
+   "title": "Importance of the South China Sea",
+   "summary": "The sea holds large estimated reserves of oil and natural gas and has rich fishing grounds. It is also a major trade corridor, with UNCTAD estimating that over a fifth of global trade passes through it. Nearly one-third of the world's shipping trade moves through this waterway each year.",
+   "facts": [
+    "Estimated 11 billion barrels of oil in deposits under the sea (US EIA)",
+    "Estimated 190 trillion cubic feet of natural gas in deposits (US EIA)",
+    "Rich fishing grounds with an estimated 12% of the world's fisheries",
+    "More than half of the world's fishing vessels operate in this area",
+    "Over 21% of global trade, amounting to $3.37 trillion (UNCTAD)",
+    "Nearly one-third of the world's shipping trade passes through annually"
+   ]
+  },
+  {
+   "id": "2026-08-c1-t2-s5",
+   "title": "Island Claims and Implications for India",
+   "summary": "The Paracel Islands are claimed by China, Taiwan and Vietnam, and China has exercised de facto control since 1974. The Spratly Islands and Scarborough Shoal also have overlapping claims, and a 2012 standoff gave China de facto control over the Scarborough region. For India, regional stability matters because much of its maritime commerce passes through this sea and the Malacca Strait.",
+   "facts": [
+    "Paracel Islands are claimed by China, Taiwan and Vietnam",
+    "Spratly Islands are claimed by China, Taiwan, Vietnam, Brunei and the Philippines",
+    "Scarborough Shoal is claimed by the Philippines, China and Taiwan",
+    "China has exercised de facto control of the Paracels since 1974",
+    "A 2012 standoff resulted in China gaining de facto control over the Scarborough region",
+    "A significant share of India's maritime commerce passes through the South China Sea and Malacca Strait",
+    "Greater Chinese militarisation could threaten security of Sea Lines of Communication",
+    "Challenges India's traditional role as a Net Security Provider in the Indian Ocean Region"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which treaty required Imperial Japan to give up territories it had conquered during World War II?",
+  "In which year did the UN Convention on the Law of the Sea (UNCLOS) come into force?",
+  "In which year did ASEAN and China sign the Declaration on the Code of Conduct of Parties in the South China Sea?",
+  "Assertion (A): The Philippines took its dispute with China over the South China Sea to the Permanent Court of Arbitration.",
+  "Match List I with List II:",
+  "Consider the following statements about the South China Sea:",
+  "How many of the following statements about the Paracel Islands and Scarborough Shoal are correct?",
+  "Greater Chinese militarisation of the South China Sea is linked to which broader Chinese initiative?",
+  "In which disputed island group is Antelope Reef located? (name the group)",
+  "What is the approximate length of the wharf built at Antelope Reef? (in metres)",
+  "What is the approximate size of the artificial island China has reclaimed at Antelope Reef? (in km)",
+  "China says the Antelope Reef development serves which kind of purposes? (one word)",
+  "What strategic term describes a protected maritime zone for China's nuclear-powered submarines that Antelope Reef could create? (one word)",
+  "Roughly how long is the straight coastline at Antelope Reef that is potentially suitable for an airstrip or runway? (in km)"
+ ]
+}

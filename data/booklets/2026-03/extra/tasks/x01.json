@@ -1,0 +1,75 @@
+{
+ "key": "x01",
+ "topic": "US-Israel Joint Offensive Against Iran",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-03/t01_us_israel_iran_offensive.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c1-t1-s3",
+   "title": "Nuclear Talks and Military Strikes",
+   "summary": "Nuclear talks in Geneva collapsed over US demands that Iran dismantle Fordow and Natanz and halt uranium enrichment. The joint offensive then used heavy bombers, including US B-2 bunker-buster strikes on Fordow. Iran responded with missiles, including the Sejjil, in strikes on Israeli and US military bases.",
+   "facts": [
+    "The 2015 JCPOA was signed between Iran and the P5+1 group of countries.",
+    "Under the JCPOA, Iran agreed to limit uranium enrichment to 3.67%.",
+    "The US withdrew from the JCPOA unilaterally in 2018 and reinstated sanctions.",
+    "Geneva talks collapsed over US demands to dismantle Fordow and Natanz and halt enrichment.",
+    "US B-2 bombers used bunker-buster bombs to strike the fortified Fordow facility.",
+    "US airstrikes targeted Kharg Island, which handles nearly 90% of Iran's crude oil exports.",
+    "Iranian missiles struck near the heavily protected Dimona nuclear research centre.",
+    "The US B-1B Lancer, nicknamed 'Bone', was deployed in Operation Epic Fury.",
+    "The Sejjil is a two-stage, solid-fuel, medium-range ballistic missile.",
+    "The Sejjil is called the 'Dancing Missile' for its high-altitude manoeuvrability."
+   ]
+  },
+  {
+   "id": "2026-03-c1-t1-s4",
+   "title": "Iran's Supreme Leader",
+   "summary": "Mojtaba Khamenei was named Iran's third Supreme Leader after Ali Khamenei was assassinated, the first hereditary-style transfer since the revolution. The office holds ultimate authority over Iran's political, military and religious institutions. The leader is chosen by the 88-member Assembly of Experts, and the office's authority derives from the doctrine of Velayat-e Faqih.",
+   "facts": [
+    "Mojtaba Khamenei was named the third Supreme Leader after Ali Khamenei's assassination.",
+    "This was the first hereditary-style leadership transfer in Iran since the revolution.",
+    "The Supreme Leader is Iran's de jure head of state and commander-in-chief of the armed forces.",
+    "The office oversees national security and foreign policy and influences the election vetting process.",
+    "The Supreme Leader's authority derives from Velayat-e Faqih (Guardianship of the Islamic Jurist).",
+    "Ruhollah Khomeini institutionalised this doctrine and was Iran's first Supreme Leader.",
+    "The Assembly of Experts is an 88-member clerical body elected by the public.",
+    "The Assembly of Experts elects the leader, supervises his performance and can remove him if unfit.",
+    "The 1989 constitutional amendment relaxed the earlier requirement that the leader be a Marja."
+   ]
+  },
+  {
+   "id": "2026-03-c1-t1-s5",
+   "title": "India's Energy Security and Reserves",
+   "summary": "India imports about 85% of its crude oil, and a large share of its crude and LPG imports transit the Strait of Hormuz. Its Strategic Petroleum Reserves are meant to cushion supply shocks, with current storage of about 3.37 MMT against a total capacity of 5.33 MMT. The government invoked the Essential Commodities Act, 1955 to ensure LPG availability during the crisis.",
+   "facts": [
+    "India imports about 85% of its crude oil.",
+    "Nearly 40% of India's crude oil imports pass through the Strait of Hormuz.",
+    "More than 80% of India's LPG imports also transit the same route.",
+    "Qatar supplies nearly half of India's LNG imports.",
+    "Global crude oil prices have risen by about $20 per barrel (about 30%).",
+    "India's Strategic Petroleum Reserve has a total capacity of 5.33 million tonnes, with about 3.37 MMT in storage.",
+    "The Indian Strategic Petroleum Reserves Limited manages the SPR under the Ministry of Petroleum and Natural Gas.",
+    "The global norm is to maintain 90 days of net oil import reserves.",
+    "The Essential Commodities Act, 1955 was invoked to ensure LPG availability.",
+    "West Asia accounts for 60-70% of India's basmati rice exports."
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year did the Shah of Iran order Khomeini to leave Iran?",
+  "Khomeini called America the 'Big Devil'. What did he call Israel?",
+  "The Houthi movement (Ansar Allah) emerged as an opposition movement in Yemen to fight which president?",
+  "Assertion (A): The Shah of Iran ordered Khomeini to leave Iran.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements:",
+  "Which group had Ismail Haniyeh as its leader?",
+  "Which peninsula of Oman lies to the south of the Strait of Hormuz?",
+  "What share of global oil supply transits the Strait of Hormuz? (in per cent)",
+  "What fraction of global LNG trade transits the Strait of Hormuz?",
+  "What percentage of India's crude oil requirement does India import? (in per cent)",
+  "By roughly how many billion dollars a year does India's import bill rise for each $1 rise in oil price?",
+  "What percentage of India's crude oil imports pass through the Strait of Hormuz? (in per cent)",
+  "Which country supplies nearly half of India's LNG imports?"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "key": "x07",
+ "topic": "Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-03/t07_transgender_amendment_bill_2026.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c3-t1-s2",
+   "title": "Penal, Reporting and National Council Provisions",
+   "summary": "The Bill expands penal provisions, with life imprisonment for forced mutilation of minors and up to 14 years for forcing children into begging. Medical institutions must report gender-affirming surgeries to the District Magistrate, and certificate holders can change their name in official documents. The National Council for Transgender Persons will include State and UT representatives, with rotational representation across regions.",
+   "facts": [
+    "Life imprisonment for forced mutilation of minors.",
+    "Up to 14 years imprisonment for forcing children into begging.",
+    "Medical institutions must report gender-affirming surgeries to the District Magistrate.",
+    "Certificate holders can change their name in official documents.",
+    "National Council to include State and UT representatives.",
+    "Representation on the National Council is rotational across regions.",
+    "Council members must be of Director rank or above.",
+    "Council members are nominated by the Centre Govt."
+   ]
+  },
+  {
+   "id": "2026-03-c3-t1-s3",
+   "title": "Significance and Criticism",
+   "summary": "Supporters say the narrower definition and medical certification target welfare, reduce the discretionary power of District Magistrates, and support a national healthcare database. Critics argue that removing self-identification contradicts the NALSA judgment, that medical verification may pathologise gender identity, and that surgery reporting may affect privacy. They also warn that broad terms could be used against NGOs and healthcare providers.",
+   "facts": [
+    "Narrow definition aims to ensure benefits reach the most marginalised communities.",
+    "Medical Boards reduce the discretionary power of District Magistrates.",
+    "Mandatory reporting enables a national database for healthcare planning and welfare schemes.",
+    "Penal framework addresses mutilation, abduction and forced identity.",
+    "Removal of self-identification contradicts NALSA vs Union of India (2014).",
+    "NALSA judgment recognised gender identity as a Fundamental Right under Article 21.",
+    "Medical Board verification may pathologise gender identity.",
+    "Mandatory reporting of surgeries may violate medical confidentiality and personal privacy.",
+    "Broad terms like 'Inducement' or 'Allurement' could be used against NGOs and healthcare providers.",
+    "Such terms may restrict voluntary gender transition support."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Under the Bill, who issues the transgender identity certificate based on the Medical Board's recommendation?",
+  "Assertion (A): Under the Bill, individuals who undergo gender reassignment surgery must apply for a revised gender certificate.",
+  "Match List I with List II:",
+  "Consider the following statements about the Amendment Bill:",
+  "Consider the following provisions of the Amendment Bill:",
+  "According to the booklet, what does the requirement for medical institutions to report gender-affirming surgeries enable?",
+  "In the Supriyo vs Union of India (2023) case, what did the five-judge Constitution Bench do?",
+  "In which year did the Supreme Court strike down Section 377 in Navtej Singh Johar vs Union of India? (year)",
+  "Which section of the Transgender Persons (Protection of Rights) Act, 2019 does the Amendment Bill 2026 propose to omit? (section number)",
+  "Which scheme provides comprehensive rehabilitation and medical cover for marginalised individuals, including transgender persons? (acronym)",
+  "Garima Greh shelter homes are provided by the government to offer safe spaces to transgender persons in what condition? (one word)",
+  "In which year was the Transgender Persons (Protection of Rights) Act enacted? (year)",
+  "What minimum rank must nominated members of the National Council for Transgender Persons hold under the Amendment Bill? (one word)"
+ ]
+}

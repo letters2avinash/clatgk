@@ -1,0 +1,58 @@
+{
+ "key": "x11",
+ "topic": "UN High Seas Treaty Enters Into Force",
+ "chapter": "Environment and Biodiversity",
+ "text_file": "data/booklets/2026-01/t11_highseas.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c6-t1-s3",
+   "title": "Fisheries sector in India and its schemes",
+   "summary": "India's fisheries sector contributes 7.43% to agriculture gross value added, the highest among agriculture and allied sectors. India ranks high globally as a producer, aquaculture producer and exporter. Government schemes such as Pradhan Mantri Matsya Sampada Yojana aim to modernise the sector and support fish farmers and micro and small enterprises.",
+   "facts": [
+    "Total fish output (2024-25): 197.75 lakh tonnes.",
+    "Fisheries contribute 7.43% to agriculture GVA, the highest among agriculture and allied sectors.",
+    "India is the 2nd largest producer (8% of world production) and 2nd largest aquaculture producer.",
+    "India is the 4th largest exporter; the United States is the largest importer of Indian seafood.",
+    "Pradhan Mantri Matsya Sampada Yojana was introduced in 2020 under the Atma Nirbhar Bharat Package.",
+    "Matsya Sampada investment: Rs 20,050 crore.",
+    "National Fisheries Development Board, established 2006, works under the Ministry of Fisheries, Animal Husbandry and Dairying.",
+    "PM Matsya Kisan Samridhi Sah-Yojana: sub-scheme for fisheries micro and small enterprises, investment Rs 6,000 crore.",
+    "Implementation period of the Sah-Yojana: 2023-24 to 2026-27.",
+    "India's first riverine dolphin estimation counted 6,327 dolphins across 28 rivers in 8 states."
+   ]
+  },
+  {
+   "id": "2026-01-c6-t1-s4",
+   "title": "WTO Agreement on Fisheries Subsidies",
+   "summary": "The WTO Agreement on Fisheries Subsidies was adopted at the 12th Ministerial Conference in 2022 and entered into force in September 2025. It aims to set binding rules to curb harmful fisheries subsidies, especially those linked to illegal fishing. India did not join the agreement, citing the need to protect small fishers, livelihoods and food security.",
+   "facts": [
+    "Adopted at the 12th Ministerial Conference, 2022.",
+    "Entered into force in September 2025, after approval by two-thirds of members.",
+    "Objective: establish binding rules to curb harmful fisheries subsidies.",
+    "Prohibited: subsidies linked to Illegal, Unreported and Unregulated (IUU) fishing.",
+    "Prohibited: subsidies for fishing on overfished stocks.",
+    "Prohibited: support for fishing in unregulated high seas.",
+    "Members must submit fisheries-related data.",
+    "Supports SDG 14: conserve and sustainably use oceans, seas and marine resources.",
+    "India did not join, citing the need to protect small fishers, livelihoods and food security.",
+    "WTO Fish Fund provides aid to developing and LDC members for implementation."
+   ]
+  }
+ ],
+ "already_asked": [
+  "How many countries have ratified the BBNJ Agreement?",
+  "What is India's status regarding the BBNJ Agreement?",
+  "Assertion (A): Coastal states have full sovereignty over the high seas.",
+  "Match List I with List II:",
+  "Consider the following statements about the BBNJ Agreement:",
+  "How many of the following statements about the BBNJ Agreement are correct?",
+  "Which of the following is NOT one of the four pillars of the BBNJ Agreement?",
+  "Which target is mentioned for the Kunming-Montreal Global Biodiversity Framework that the BBNJ Agreement supports?",
+  "How many parties does the 1982 UN Convention on the Law of the Sea have? (in number)",
+  "How many new institutions did UNCLOS create at the international level? (in number)",
+  "What is the breadth of the Exclusive Economic Zone? (in nautical miles)",
+  "Which independent judicial body under UNCLOS handles disputes over the Convention's interpretation? (name the body)",
+  "As per the booklet (January 2026), how many countries had ratified the UN High Seas Treaty (BBNJ Agreement) when it entered into force? (number)",
+  "How many kilometres is one nautical mile? (in km)"
+ ]
+}

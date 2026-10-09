@@ -1,0 +1,74 @@
+{
+ "key": "x03",
+ "topic": "Tarique Rahman Becomes Bangladesh's Next PM",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-02/t03_tarique_rahman_bangladesh_pm.txt",
+ "subtopics": [
+  {
+   "id": "2026-02-c1-t3-s2",
+   "title": "2026 Election Results and Parliament",
+   "summary": "The BNP, led by Tarique Rahman, won the 13th General Election with 209 seats, an absolute majority, ending the Awami League's two-decade dominance. Jamaat-e-Islami emerged as the second-largest party with 68 seats. Bangladesh's legislature is unicameral, with 300 members elected directly and 50 seats reserved for women and allocated proportionally among parties.",
+   "facts": [
+    "BNP won 209 seats, an absolute majority",
+    "Won the 13th General Election",
+    "Ended the Awami League's two-decade dominance",
+    "Jamaat-e-Islami was the second-largest party with 68 seats",
+    "National Citizen Party won 6 seats",
+    "Legislature is unicameral",
+    "300 members elected directly by first-past-the-post",
+    "50 seats reserved for women, allocated proportionally among parties"
+   ]
+  },
+  {
+   "id": "2026-02-c1-t3-s3",
+   "title": "Political Background and Transitions",
+   "summary": "Bangladesh became independent from Pakistan in 1971, and Sheikh Mujibur Rahman became Prime Minister in 1972. Power then passed through Ziaur Rahman, Khaleda Zia and Sheikh Hasina, and the BNP last governed in 2001-2006. The 2024-2026 interim period followed a student-led revolution and Hasina's flight to India.",
+   "facts": [
+    "Bangladesh gained independence from Pakistan in 1971",
+    "Sheikh Mujibur Rahman became Prime Minister in 1972",
+    "In 1975, the constitution was amended to form the single party BAKSAL",
+    "Sheikh Mujibur Rahman was assassinated on 15 August 1975",
+    "Ziaur Rahman became President in 1977",
+    "Ziaur Rahman was assassinated on 30 May 1981 in Chittagong",
+    "Khaleda Zia was sworn in as first female PM on 20 March 1991",
+    "Sheikh Hasina was sworn in as PM for the first time on 23 June 1996",
+    "BNP last governed 2001-2006 under Khaleda Zia with Jamaat-e-Islami",
+    "Interim period 2024-2026 followed a student-led revolution"
+   ]
+  },
+  {
+   "id": "2026-02-c1-t3-s5",
+   "title": "India-Bangladesh Ties Under the New Government",
+   "summary": "Ties between India and Bangladesh moved from strained relations in 2001-2006 to a 'Golden Chapter' under Sheikh Hasina from 2009 to 2024. After Hasina's flight to India, anti-India sentiment surged in Bangladesh. The booklet lists security priorities, including the Hasina extradition issue and avoiding drift toward Pakistan or China, alongside trade and connectivity goals.",
+   "facts": [
+    "2001-2006: India accused the regime of sheltering ULFA and NDFB",
+    "2009-2024 'Golden Chapter' under Sheikh Hasina",
+    "Land Boundary Agreement signed in 2015",
+    "Interim period saw anti-India sentiment surge",
+    "Anti-India sentiment linked to perception that India backed an 'Authoritarian Regime'",
+    "Security priority: manage political pressure over Hasina's presence in India",
+    "Security priority: prevent Bangladesh drifting toward Pakistan or China",
+    "Security priority: counter anti-India extremism and insurgency",
+    "Bangladesh is India's biggest trade partner in South Asia",
+    "Trade in FY 2023-24 was US$14.01 billion"
+   ]
+  }
+ ],
+ "already_asked": [
+  "After how many years did Tarique Rahman return to Bangladesh?",
+  "Who founded the Bangladesh Nationalist Party?",
+  "Read the following statements.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements about the Teesta River:",
+  "India accused the 2001-2006 BNP-led government of sheltering which North-East insurgent group, among others?",
+  "In which year was Khaleda Zia sworn in as Bangladesh's first female Prime Minister?",
+  "How many seats did the BNP win in the 2026 Bangladesh election? (in number)",
+  "How many political parties signed the July National Charter agreement? (in number)",
+  "How many pages long is the July National Charter agreement? (in number)",
+  "What is the lifetime term limit for a Prime Minister under the July Charter? (in years)",
+  "How many seats will the new Upper House (Senate) have? (in number)",
+  "What percentage of votes did the 'Yes' side secure in the referendum? (in per cent)",
+  "How many working days are allotted to reform under the charter? (in number)"
+ ]
+}

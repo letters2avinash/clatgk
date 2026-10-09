@@ -1,0 +1,58 @@
+{
+ "key": "x08",
+ "topic": "New GDP Series with Base Year Revised to 2022-23",
+ "chapter": "Economics",
+ "text_file": "data/booklets/2026-03/t08_new_gdp_series_2022_23.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c4-t1-s3",
+   "title": "GDP Concepts and Measurement",
+   "summary": "GDP is the total monetary value of all finished goods and services produced. It can be calculated by three methods: expenditure, production and income. On the expenditure side, GDP equals consumption plus investment plus government expenditure plus exports minus imports. Real GDP is inflation-adjusted GDP, while nominal GDP is GDP at current prices.",
+   "facts": [
+    "GDP is the total monetary value of all finished goods and services produced",
+    "Three methods to calculate GDP: expenditure, production and income",
+    "Expenditure formula: GDP = C + I + G + (X - M)",
+    "C is goods and services consumed; I is investments; G is government expenditures",
+    "Real GDP is inflation-adjusted GDP",
+    "Nominal GDP is GDP at current prices",
+    "GDP at factor cost = GDP at market prices + subsidies - indirect taxes",
+    "GDP at market prices is the measure of GDP in India",
+    "GDP is not an accurate measure of the overall living standard or well-being of a country",
+    "Example: 2021 GDP at current prices Rs 1000; 2022 GDP at current prices Rs 1650; 2022 real GDP at 2021 prices Rs 1100"
+   ]
+  },
+  {
+   "id": "2026-03-c4-t1-s4",
+   "title": "Economic Implications of the Revision",
+   "summary": "Real GDP growth is revised upward to 7.6% for FY 2025-26, while nominal GDP is lower at 345.47 lakh crore. Lower nominal GDP can raise the fiscal deficit and debt-to-GDP ratios even though absolute deficit levels are unchanged. Sectoral growth in FY26 is 2.8% in the primary, 9.5% in the secondary and 8.9% in the tertiary sector. More accurate economic data supports policy formulation, investment and business planning.",
+   "facts": [
+    "Real GDP growth revised upward to 7.6% for FY 2025-26",
+    "Nominal GDP for FY 2025-26 is 345.47 lakh crore after revision",
+    "Fiscal deficit (as % of GDP): revised 4.51%, earlier 4.36%",
+    "Debt-to-GDP ratio: revised estimate 57.5% for FY 2026-27, earlier target 55.6%",
+    "Lower nominal GDP can raise fiscal deficit and debt-to-GDP ratios despite unchanged absolute deficit levels",
+    "Primary sector growth in FY26 is 2.8%, from 5% in FY25",
+    "Secondary sector growth in FY26 is 9.5%, from 7.3% in FY25",
+    "Tertiary sector growth in FY26 is 8.9%, from 8.3% in FY25",
+    "More accurate economic data supports policy formulation, investment and business decisions"
+   ]
+  }
+ ],
+ "already_asked": [
+  "The 2026 revision marks which base year revision since 1948-49?",
+  "Match List I with List II:",
+  "Which survey, newly used as a data source in the revised GDP series, covers unincorporated sector enterprises?",
+  "Which two pension systems are now included in GDP government sector accounting under the revised series?",
+  "How many of the following statements about the revised GDP series are correct?",
+  "Consider the following statements about the revised GDP series:",
+  "Who led the National Income Committee that compiled India's first National Income Estimates in 1949?",
+  "Assertion (A): The 2026 revision raised the nominal GDP estimate for FY 2025-26.",
+  "Which deflation method adjusts both output prices and input prices when measuring real value addition? (name the method)",
+  "Which survey covering unincorporated sector enterprises was added as a data source? (give the full name)",
+  "Apart from the Old Pension Scheme, which pension system is now included in GDP government sector accounts? (give the full name)",
+  "In which year were India's first National Income Estimates published? (in year)",
+  "Which Union ministry released the New National Accounts Series? (give the name)",
+  "Name the two sectors whose real value addition is measured more accurately under the new method. (name both)",
+  "What was the earlier base year before the 2026 revision? (in year range)"
+ ]
+}

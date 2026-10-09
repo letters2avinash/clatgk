@@ -1,0 +1,55 @@
+{
+ "key": "x03",
+ "topic": "UNSC Straw Poll for Next UN Secretary-General",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-08/t03_unsc_straw_poll_un_secretary_general.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c1-t3-s2",
+   "title": "Straw Polls and Permanent Member Signals",
+   "summary": "Straw polls are informal and confidential voting exercises that assess how acceptable each candidate is to Security Council members. Members indicate Encourage, Discourage or No Opinion. In later rounds the Permanent Members use distinctively coloured ballots, so a Discourage from a Permanent Member signals a likely veto. Rounds continue until a candidate demonstrates sufficient support.",
+   "facts": [
+    "Straw polls are informal and confidential voting exercises",
+    "Purpose: assess relative acceptability of candidates",
+    "Members indicate one of three positions: Encourage, Discourage, No Opinion",
+    "Encourage means the member supports or favours the candidate",
+    "Permanent Members use distinctively coloured ballots in subsequent rounds",
+    "A Discourage from a Permanent Member effectively signals a veto in a formal vote",
+    "Straw poll rounds continue until a candidate demonstrates sufficient support",
+    "A preferred candidate needs at least 9 of 15 votes and no veto from any Permanent Member"
+   ]
+  },
+  {
+   "id": "2026-08-c1-t3-s4",
+   "title": "UNSC Structure and the Veto",
+   "summary": "The UNSC is one of the six principal organs of the UN and has 15 members, each with one vote. The five Permanent Members hold veto power, so opposition from any one of them blocks a decision regardless of wider support. The booklet argues that the Council still reflects the post-Second World War order rather than the present world.",
+   "facts": [
+    "UNSC is one of the six principal organs of the UN",
+    "15 members, and each member has one vote",
+    "Five Permanent Members hold veto power",
+    "Opposition from any one Permanent Member blocks a decision regardless of other support",
+    "A retiring member is not eligible for immediate re-election",
+    "The five Permanent Members gained permanent membership because they won WWII",
+    "The veto system has become a tool to block progress in the UN",
+    "During the Russia-Ukraine conflict, the UNSC was powerless due to Russia's veto"
+   ]
+  }
+ ],
+ "already_asked": [
+  "How many UN Member States are invited to nominate candidates?",
+  "Which Article of the UN Charter provides for the appointment of the Secretary-General?",
+  "Assertion (A): A candidate who receives a 'Discourage' from a Permanent Member is likely to advance in the formal vote if at least nine Council members support him or her.",
+  "Match List I with List II:",
+  "Consider the following statements about the Security Council's straw polls and selection process:",
+  "How many of the following statements about the Secretary-General's term are correct?",
+  "How many Permanent Members of the 15-member Security Council hold veto power?",
+  "How many positions can a member indicate in a straw poll?",
+  "What is the conventional length, in years, of a Secretary-General's term under established UN practice? (in years)",
+  "How many times is a Secretary-General's term conventionally renewable? (answer in digits)",
+  "Under which Article of the UN Charter is the Secretary-General appointed on the Council's recommendation? (answer as the article number)",
+  "Which informal principle, aimed at geographical representation, has traditionally guided the choice of Secretary-General?",
+  "How many broad regional groupings are involved in the regional rotation principle? (in number)",
+  "Is regional rotation a legally binding provision of the UN Charter? (answer yes or no)",
+  "Which UN body formally appoints the Secretary-General? (name the body)"
+ ]
+}

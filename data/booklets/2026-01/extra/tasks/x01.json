@@ -1,0 +1,57 @@
+{
+ "key": "x01",
+ "topic": "US Strike on Venezuela",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-01/t01_venezuela.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c1-t1-s3",
+   "title": "US Sanctions and Strategic Interests",
+   "summary": "Washington imposed comprehensive sanctions on PDVSA, Venezuela's state-owned oil firm, to cut Maduro's access to oil revenue. Because sanctions failed to dislodge the government, the US turned to maritime interdictions aimed at choking oil revenues. Strategic interests include Venezuela's very large oil reserves and its partnerships with China, Russia, Iran and Cuba.",
+   "facts": [
+    "US imposed comprehensive sanctions targeting PDVSA, the state-owned oil firm",
+    "Sanctions drastically limited Venezuela's oil exports to the US, forcing Caracas to seek alternative buyers",
+    "Maduro severed diplomatic ties with the US and expelled American diplomats",
+    "Venezuela has the world's largest proven crude oil reserves, estimated at over 300 billion barrels",
+    "Sanctions failed to dislodge the Maduro government, so the US turned to maritime interdictions",
+    "Venezuela's partnerships with China, Russia, Iran and Cuba cover energy, defence and finance",
+    "US views these alignments as a challenge to its strategic dominance in the Western Hemisphere",
+    "US revived Monroe Doctrine rhetoric, termed the 'Don-roe Doctrine'",
+    "Caribbean is treated as a critical zone of influence, reminiscent of Cold War-era calculations"
+   ]
+  },
+  {
+   "id": "2026-01-c1-t1-s4",
+   "title": "Monroe Doctrine and Limits of Multilateralism",
+   "summary": "The Monroe Doctrine, proclaimed in 1823, was initially defensive but later became a basis for US intervention in Latin America, expanded through the Roosevelt Corollary of 1904. The UN struggles to prevent unilateral interventions because of Security Council vetoes, unpaid dues and gray-zone tactics. Reform proposals include limiting P5 veto use and creating an accountability protocol for gray-zone threats.",
+   "facts": [
+    "Monroe Doctrine: unilateral US foreign policy declaration proclaimed in 1823 by President James Monroe",
+    "Originally aimed to stop European powers from re-colonising Latin America",
+    "Roosevelt Corollary (1904) justified US intervention to maintain stability in the Western Hemisphere",
+    "Three core principles: non-colonisation, non-intervention, and US non-interference in Europe",
+    "P5 members (US, Russia, China, UK, France) can block any UN Security Council resolution",
+    "47 vetoes blocked 37 draft resolutions between 2015 and 2024",
+    "UN faces $2.4B in unpaid regular dues and a $2.7B peacekeeping shortfall",
+    "NATO, AU and ECOWAS intervene without UNSC approval",
+    "Modern gray-zone conflicts use cyberattacks, PMCs and proxies",
+    "Reform ideas: limit P5 veto use and introduce a veto override for mass atrocities"
+   ]
+  }
+ ],
+ "already_asked": [
+  "The US alleged that Venezuela's 'Cartel of the Suns' collaborated with which Colombian guerrilla group to traffic cocaine into the United States?",
+  "How many core principles did the Monroe Doctrine have?",
+  "Which of the following statements about the Monroe Doctrine and related policy is/are correct?",
+  "Match List I with List II:",
+  "Venezuela has the world's largest proven crude oil reserves, estimated at over how many billion barrels?",
+  "Assertion (A): The Roosevelt Corollary of 1904 allowed European powers to intervene in the Western Hemisphere to maintain stability.",
+  "Consider the following statements about the UN Security Council and related interventions:",
+  "What position did Juan Guaido hold when he declared himself Acting President?",
+  "Which state-owned oil firm did Washington target with comprehensive sanctions? (one word or acronym)",
+  "In which year were Venezuela's presidential elections widely criticised as unfair and non-transparent?",
+  "What is the name of Venezuela's currency? (one word)",
+  "What term did the opposition-controlled National Assembly use to describe Maduro? (one word)",
+  "In which year was Nicolas Maduro sworn in for his controversial second term?",
+  "In which year was the Monroe Doctrine proclaimed? (year)"
+ ]
+}

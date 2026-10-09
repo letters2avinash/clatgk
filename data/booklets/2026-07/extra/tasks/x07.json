@@ -1,0 +1,54 @@
+{
+ "key": "x07",
+ "topic": "Proposed NFSA Amendment for AAY Households",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-07/t07_nfsa_amendment.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c3-t4-s3",
+   "title": "NFSA 2013 and Beneficiary Categories",
+   "summary": "The National Food Security Act 2013 was enacted to ensure food and nutritional security through subsidised foodgrains under the Targeted Public Distribution System. It made foodgrain access a legal right for two-thirds of the population. AAY households get 35 kg per month and PHH households get 5 kg per person per month at subsidised rates.",
+   "facts": [
+    "NFSA 2013 was enacted to ensure food and nutritional security",
+    "It provides subsidised foodgrains through the Targeted Public Distribution System",
+    "It made foodgrain access a legal right for two-thirds of the population",
+    "AAY is meant for the poorest of the poor households",
+    "AAY families get 35 kg per month, fixed per household",
+    "PHH covers other eligible households",
+    "PHH get 5 kg per person per month",
+    "AAY entitlement is fixed per household; PHH entitlement is per person"
+   ]
+  },
+  {
+   "id": "2026-07-c3-t4-s4",
+   "title": "PDS Background and PMGKAY",
+   "summary": "The Public Distribution System was introduced by the British during World War II, after the 1942-43 Bengal famine, to control food prices and ration foodgrains. It was initially focused on urban food security and expanded to tribal and poor areas after the Green Revolution. PMGKAY (2020) added extra free foodgrains for NFSA beneficiaries.",
+   "facts": [
+    "PDS in India was introduced by the British during World War II",
+    "It was introduced after the 1942-43 Bengal famine to control food prices and ration foodgrains",
+    "Initially focused on urban food security",
+    "Expanded to tribal and poor areas after the Green Revolution in the 1970s and 1980s",
+    "Essential goods distributed: wheat, sugar, rice and kerosene",
+    "Administered by the Ministry of Consumer Affairs, Food and Public Distribution",
+    "RPDS (1992) aims to extend PDS access to remote, hilly areas through an area-based approach",
+    "PMGKAY (2020) provided an extra 5 kg of free foodgrains to AAY and PHH beneficiaries",
+    "PMGKAY covered 81.35 crore people alongside regular PDS entitlements",
+    "Kerala set up one of India's earliest PDS in 1962; Tamil Nadu introduced universal free rice distribution in 2011"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which Section of the National Food Security Act 2013 does the proposed amendment seek to modify?",
+  "Under the proposed amendment, how much foodgrain does each individual in an AAY household receive per month?",
+  "What is the maximum foodgrain entitlement cap per AAY household per month under the proposed amendment?",
+  "Match List I with List II:",
+  "How many of the following statements about the proposed NFSA amendment are correct?",
+  "Under the current NFSA 2013 arrangement, how much foodgrain does every AAY household receive per month, irrespective of family size?",
+  "What is the maximum foodgrain cap per AAY household per month under the proposed design? (in kg)",
+  "Under the current NFSA design, how many kg per person per month does a Priority Household receive? (in kg)",
+  "How many crore people were covered by the extra 5 kg of free foodgrains given to NFSA beneficiaries? (in crore)",
+  "What term describes small households receiving more foodgrain per person than larger households? (three words)",
+  "How many kg per month would each individual in an AAY household receive under the proposal? (in kg)",
+  "Which Section of the NFSA 2013 does the amendment modify? (in the form 3(x))"
+ ]
+}

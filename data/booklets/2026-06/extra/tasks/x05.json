@@ -1,0 +1,53 @@
+{
+ "key": "x05",
+ "topic": "Draft Rules for VB-G RAM G Act 2025",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-06/t05_draft_rules_vb_g_ram_g_act_2025.txt",
+ "subtopics": [
+  {
+   "id": "2026-06-c3-t1-s1",
+   "title": "Objectives and Rural Infrastructure Linkage",
+   "summary": "VB-G RAM G is framed as a Rural Employment and Livelihood Programme that pairs wage employment with the creation of durable rural assets. Its objectives cover livelihood security, productive employment, rural infrastructure, climate resilience and local planning outcomes. Employment is linked to water conservation, rural connectivity and climate-resilient community assets, and planning is decentralised.",
+   "facts": [
+    "VB-G RAM G stands for Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin).",
+    "The Act is set to replace MGNREGA from July 2026.",
+    "It combines wage employment with creation of durable rural assets and infrastructure.",
+    "Objectives: livelihood security, productive employment, rural infrastructure, climate resilience, local planning outcomes.",
+    "Viksit Bharat National Rural Infrastructure Stack Programme links employment with infrastructure creation.",
+    "Assets created include water conservation assets, rural connectivity infrastructure, livelihood-supporting facilities and climate-resilient community assets.",
+    "Mandatory preparation of Viksit Gram Panchayat Plans.",
+    "Technology integration through the Yuktdhara Portal and integration with PM Gati Shakti."
+   ]
+  },
+  {
+   "id": "2026-06-c3-t1-s4",
+   "title": "Governance and Transition",
+   "summary": "A 16-member National Level Steering Committee, chaired by the Union Rural Development Secretary, recommends State-wise allocations and monitors implementation. The Central Gramin Rozgar Guarantee Council, chaired by the Union Minister for Rural Development, advises the Centre on policy. e-KYC verified MGNREGA Job Cards remain valid during the transition period.",
+   "facts": [
+    "National Level Steering Committee has 16 members.",
+    "The Steering Committee is chaired by the Union Rural Development Secretary.",
+    "Members include State Government representatives, NITI Aayog officials and representatives of relevant Union Ministries.",
+    "Steering Committee functions: recommend State-wise allocations, formulate operational standards, monitor implementation and compliance.",
+    "Central Gramin Rozgar Guarantee Council is chaired by the Union Minister for Rural Development.",
+    "The Council advises the Centre on policy implementation, reviews programme performance and facilitates coordination.",
+    "e-KYC verified MGNREGA Job Cards remain valid during the transition period.",
+    "Workers subsequently receive Gramin Rozgar Guarantee Cards under the new framework."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Under the Agricultural Season Pause, how many cumulative days of no-work period may a State declare during peak sowing and harvesting seasons?",
+  "Under VB-G RAM G, guaranteed wage employment per rural household annually is raised from 100 days to how many days?",
+  "Within how many days of completion of work must wages be paid under the new Act?",
+  "Match List I with List II:",
+  "Consider the following statements about the VB-G RAM G Act 2025 and its Draft Rules:",
+  "How many of the following statements about the Draft Rules are correct?",
+  "Which portal is to be used for technology integration in decentralised planning under VB-G RAM G?",
+  "Within how many days of completing work must wage payment be made under the VB-G RAM G Act? (Give the number of days.)",
+  "What weightage (in per cent) is given to GSDP distance in the Normative Allocation Formula?",
+  "What weightage (in per cent) is given to population in the Normative Allocation Formula?",
+  "What share of cost (in per cent) does the Centre bear for General States?",
+  "What share of cost (in per cent) does the Centre bear for Northeastern and Himalayan States?",
+  "Which Union official chairs the National Level Steering Committee?"
+ ]
+}

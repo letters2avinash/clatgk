@@ -1,0 +1,57 @@
+{
+ "key": "x01",
+ "topic": "US-Saudi 123 Civil Nuclear Agreement",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-07/t01_us_saudi_123.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c1-t1-s2",
+   "title": "Saudi Arabia's Nuclear Vision",
+   "summary": "Saudi Arabia's nuclear programme is built on four drivers: energy diversification, large-scale desalination, meeting cooling demand and strategic technology development. The Kingdom signed the NPT in 1988 and launched its National Atomic Energy Project in 2017. The new deal drops the earlier Israel normalisation condition and allows flexibility on domestic enrichment.",
+   "facts": [
+    "Nuclear power lets Saudi Arabia reduce its heavy dependence on crude oil and natural gas for electricity.",
+    "The nuclear programme provides the massive energy input needed for large-scale water desalination.",
+    "Nuclear-generated electricity provides a steady supply for air-conditioning and cooling systems.",
+    "A nuclear programme grants access to advanced technology and reinforces Saudi status as a regional energy power.",
+    "Saudi Arabia signed the Nuclear Non-Proliferation Treaty in 1988.",
+    "Saudi Arabia launched its National Atomic Energy Project in 2017.",
+    "The earlier Gold Standard required no domestic uranium enrichment or reprocessing, and normalised ties with Israel.",
+    "The new deal drops the Israel normalisation condition and allows flexibility for US-supported domestic enrichment."
+   ]
+  },
+  {
+   "id": "2026-07-c1-t1-s4",
+   "title": "India's Atomic Energy Journey",
+   "summary": "India's programme was organised through the Atomic Energy Commission (1948) and the Department of Atomic Energy (1954), with Dr Homi J. Bhabha leading the AEC. Key milestones include the 1974 Pokhran-I test and the 1998 Pokhran-II tests. The 2008 Indo-US 123 Agreement ended India's nuclear isolation and was a landmark precedent.",
+   "facts": [
+    "The Atomic Energy Commission was set up in 1948, with Dr Homi J. Bhabha as its chairman.",
+    "The Department of Atomic Energy was created in 1954 under the Prime Minister's Office.",
+    "The Atomic Energy Act, 1962 is India's primary law for nuclear energy.",
+    "Tarapur Atomic Power Station, India's first commercial nuclear plant, was commissioned in 1969 under Atoms for Peace.",
+    "Pokhran-I (1974), the Smiling Buddha test, was India's first peaceful nuclear explosion.",
+    "Dhruva, India's largest research reactor, was commissioned at BARC in 1985.",
+    "Pokhran-II (Operation Shakti) in 1998 led to India being declared a nuclear-weapon state.",
+    "India's Nuclear Doctrine, adopted in 2003, follows No First Use and Credible Minimum Deterrence.",
+    "The Indo-US Civil Nuclear Agreement (123 Agreement), signed in 2008, ended India's nuclear isolation.",
+    "India is a Non-NPT nuclear weapons state, which makes the 2008 agreement a landmark precedent."
+   ]
+  }
+ ],
+ "already_asked": [
+  "For how many years has the US-Saudi 123 Agreement been signed?",
+  "Who signed the US-Saudi 123 Agreement on behalf of the United States?",
+  "Assertion (A): The US-Saudi agreement does not require Saudi Arabia to adopt the IAEA Additional Protocol.",
+  "Match List I with List II:",
+  "Consider the following statements about the US-Saudi nuclear agreement:",
+  "Consider the following statements about the US-Saudi agreement:",
+  "Under the new US-Saudi deal, which condition that the US had earlier insisted upon has been dropped?",
+  "Which Middle Eastern nation is described in the booklet as the only nation in the region with nuclear weapons?",
+  "In which year was the Partial Test Ban Treaty (PTBT) adopted?",
+  "In which year was the Nuclear Non-Proliferation Treaty (NPT) signed?",
+  "In which year did the UN adopt the Comprehensive Nuclear-Test-Ban Treaty (CTBT)?",
+  "In which year did the Treaty on the Prohibition of Nuclear Weapons (TPNW) enter into force?",
+  "Which country became the sixth nation to test a nuclear device, in 1974?",
+  "Which country detonated the Tsar Bomba, the largest nuclear explosion ever detonated?",
+  "Who was the scientific lead of the Manhattan Project?"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "key": "x06",
+ "topic": "PM Surya Ghar: Muft Bijli Yojana",
+ "chapter": "Polity & Governance",
+ "text_file": "data/booklets/2026-07/t06_pm_surya_ghar.txt",
+ "subtopics": [
+  {
+   "id": "2026-07-c3-t3-s3",
+   "title": "India's solar position and records",
+   "summary": "According to IRENA Renewable Energy Statistics 2026, India added 37 GW of solar capacity in 2025 and became the world's second largest solar growth market. India overtook Japan to become the world's third largest solar power producer in 2025. The country also hosts Bhadla Solar Park, India's largest solar plant at 2245 MW, and Omkareshwar, India's largest floating solar plant at 600 MW.",
+   "facts": [
+    "India added 37 GW of solar capacity in 2025 (IRENA Renewable Energy Statistics 2026)",
+    "India emerged as the world's 2nd largest solar growth market",
+    "China added 315 GW of solar in 2025 and remained the largest",
+    "Global solar capacity rose from 1880 GW in 2024 to 2392 GW in 2025",
+    "India overtook Japan to become the world's 3rd largest solar power producer in 2025",
+    "India ranked 3rd globally in total renewable energy installed capacity with 250.52 GW",
+    "Top solar states: Rajasthan, Gujarat, Tamil Nadu, Karnataka, Maharashtra",
+    "Bhadla Solar Park (Jodhpur, Rajasthan, 2245 MW): India's largest solar plant",
+    "Omkareshwar (Khandwa, Madhya Pradesh, 600 MW): India's largest floating solar plant",
+    "Rajarhat (Kolkata): India's first floating solar plant (2015)"
+   ]
+  },
+  {
+   "id": "2026-07-c3-t3-s4",
+   "title": "Global initiatives and climate commitments",
+   "summary": "India's COP26 climate commitments, called Panchamrita, include net zero by 2070 and 500 GW of non-fossil energy capacity by 2030. The Global Solar Facility, launched at COP27 in 2022, provides payment guarantees to de-risk solar investments. The OSOWOG concept, first proposed by India in 2018, advocates trans-national solar power connectivity through integrated regional grids.",
+   "facts": [
+    "Panchamrita: India's climate commitments at COP26 in Glasgow",
+    "Net zero target by the year 2070",
+    "Non-fossil energy capacity of 500 GW by 2030",
+    "Meet 50 percent of energy requirements from renewable energy by 2030",
+    "Reduce total projected carbon emissions by one billion tonnes from now till 2030",
+    "Global Solar Facility launched at COP27 (2022) to provide payment guarantees and de-risk solar investments",
+    "STAR-C trains engineers, entrepreneurs and policymakers in solar technologies",
+    "One Sun, One World, One Grid (India and UK, COP26) advocates trans-national solar connectivity",
+    "India first proposed the OSOWOG concept in 2018 during ISA's Inaugural Assembly",
+    "OSOWOG aims to integrate regional grids across Asia, Middle East, Africa and Europe for 24-hour renewable power"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Where is the headquarters of the International Solar Alliance located?",
+  "Which body granted observer status to the ISA in 2021?",
+  "Assertion (A): The ISA's membership is open only to solar-rich countries lying between the tropics.",
+  "Match List I with List II:",
+  "Which of the above statements is/are correct?",
+  "How many of the following statements about the ISA are correct?",
+  "Launched jointly by India and which country in 2015 during COP21?",
+  "In which year did India first propose the OSOWOG concept during the ISA's Inaugural Assembly?",
+  "How many Model Solar Villages are to be established in each district? (number)",
+  "What is the maximum subsidy on rooftop solar panel installation under the scheme? (in per cent)",
+  "How many crore households are targeted for rooftop solar systems by 2027?",
+  "How many units of free electricity per household does the scheme aim to provide? (in units)",
+  "How much did the World Bank approve to support India's rooftop solar programme under this scheme? (in USD million)",
+  "Above what population is a village eligible for a Model Solar Village in general states? (in persons)"
+ ]
+}

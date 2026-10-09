@@ -1,0 +1,67 @@
+{
+ "key": "x12",
+ "topic": "81st UN General Assembly, P4M and Arctic Affairs",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-09/t12_unga_81.txt",
+ "subtopics": [
+  {
+   "id": "2026-09-c5-t3-s2",
+   "title": "India's Position on Reformed Multilateralism",
+   "summary": "India argued that disruptions in fuel, food, fertiliser and finance hit developing countries and the Global South disproportionately. It linked supply-chain risks to a call for de-risking and diversification. India also called for greater representation of developing countries, more inclusive decision-making, transparency and comprehensive reform of the UN Security Council, and for guardrails on emerging technologies.",
+   "facts": [
+    "4F crisis: disruptions involving Fuel, Food, Fertiliser and Finance",
+    "4F disruptions have a disproportionate impact on developing countries and the Global South",
+    "Supply-chain risks: disruptions, strategic chokepoints and excessive economic dependencies",
+    "Called for de-risking and diversification to build more resilient global supply chains",
+    "Geopolitical fragmentation and strategic competition put existing multilateral institutions under pressure",
+    "Called for greater representation of developing countries and greater transparency in global institutions",
+    "Pursues UNSC reform through the G4 and L.69 groupings",
+    "Called for international frameworks and guardrails for AI, space security and digital technologies"
+   ]
+  },
+  {
+   "id": "2026-09-c5-t3-s3",
+   "title": "Visegrad Group (V4)",
+   "summary": "The Visegrad Group is a regional cooperation grouping of four Central European countries, established in 1991 after the end of the Cold War and the collapse of the Soviet bloc. All four members belong to both the European Union and NATO. At the V4 plus India meeting, the V4 unanimously supported India's candidature for permanent membership of the UN Security Council.",
+   "facts": [
+    "Named after Visegrad, a town in Hungary",
+    "Established in 1991 after the end of the Cold War and the collapse of the Soviet bloc",
+    "Members: Czech Republic, Hungary, Poland and Slovakia",
+    "All four members are members of both the EU and NATO",
+    "Cooperation covers political and diplomatic coordination, defence and security",
+    "Cooperation also covers economic cooperation, energy and culture",
+    "Unanimously supported India's candidature for permanent membership of the UN Security Council"
+   ]
+  },
+  {
+   "id": "2026-09-c5-t3-s5",
+   "title": "Arctic Council",
+   "summary": "The Arctic Council is an inter-governmental platform established in 1996 through the Ottawa Declaration. It provides a forum for discussion and cooperation on the Arctic environment and sustainable development, with its main focus on climate change and its impact on the Arctic region. Eight Arctic nations are members, and India has been an observer since 2013.",
+   "facts": [
+    "Type: inter-governmental platform",
+    "Established in 1996 through the Ottawa Declaration",
+    "Purpose: forum for cooperation on the Arctic environment and sustainable development",
+    "Main focus: climate change and its impact on the Arctic region",
+    "Members: Canada, Denmark, Finland, Iceland, Norway, Russia, Sweden and the United States",
+    "Chairmanship alternates every 2 years; current chair is Denmark (2025-2027)",
+    "India has been an observer since 2013",
+    "India's first Arctic research station, Himadri (2008), is at Ny-Alesund, Svalbard, Norway"
+   ]
+  }
+ ],
+ "already_asked": [
+  "India's 4F crisis refers to disruptions involving which four areas?",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements:",
+  "Who is the current chair of the Arctic Council for 2025-2027?",
+  "At the V4 plus India meeting, the V4 unanimously supported India's candidature for which status?",
+  "In which year did the US-Denmark Defence Agreement concerning Greenland formalise American military access to the island? (year)",
+  "In which year did the expedition led by Hans Egede arrive in Greenland, after which it became a Danish colony? (year)",
+  "What was the amount of the 1946 US offer to Denmark for an outright purchase of Greenland? (in million US dollars, number only)",
+  "Which island, recognised as the world's northernmost point of land, is located in the Greenland region? (name)",
+  "How many Arctic nations are members of the Arctic Council? (number)",
+  "Since which year has Greenland had the right to declare independence through a referendum? (year)",
+  "Which Indian Arctic research station, established in 2008, is located at Ny-Alesund in Svalbard, Norway? (one word)"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "key": "x11",
+ "topic": "UNCCD COP17 and Land Restoration",
+ "chapter": "Summits, Reports, Indices",
+ "text_file": "data/booklets/2026-08/t11_unccd_cop17.txt",
+ "subtopics": [
+  {
+   "id": "2026-08-c4-t2-s3",
+   "title": "Global Partnerships and Finance",
+   "summary": "The Riyadh Global Drought Resilience Partnership, launched at COP 16 in 2024, initially secured around USD 2.15 billion and aims to support 80 countries. The Business4Land Initiative is UNCCD's major platform for private sector involvement in sustainable land management, water management and land restoration. COP17 also promoted nature-based solutions and ecosystem restoration in national development planning.",
+   "facts": [
+    "Riyadh Global Drought Resilience Partnership was launched during UNCCD COP 16 in Riyadh in 2024",
+    "The partnership initially secured around USD 2.15 billion in commitments",
+    "Its aim is to support 80 vulnerable and drought-affected countries through public and private finance",
+    "Business4Land Initiative is UNCCD's major platform for involving the private sector",
+    "Business4Land covers sustainable land management, water management and land restoration",
+    "COP17 promoted greater adoption of Nature-based Solutions",
+    "COP17 promoted Ecosystem-based Adaptation and Ecosystem Restoration in national development planning",
+    "Land degradation affects approximately 40% of the world's land surface",
+    "Land degradation threatens ecosystems, agriculture, water availability and economic stability"
+   ]
+  },
+  {
+   "id": "2026-08-c4-t2-s4",
+   "title": "India's Position and National Programmes",
+   "summary": "India launched a Guide to Grasslands and Other Open Natural Ecosystems at COP17 to improve their recognition and conservation. Under the Bonn Challenge, India has brought around 21.76 million hectares of degraded and deforested land under restoration, against a broader target of 26 million hectares by 2030. Domestic programmes include the National Action Plan to Combat Desertification, the Green India Mission, Mission Amrit Sarovar and the Aravalli Green Wall Initiative.",
+   "facts": [
+    "India is a Party to the UNCCD",
+    "India launched the Guide to Grasslands and Other Open Natural Ecosystems (ONEs) at COP17",
+    "The guide seeks to improve recognition and conservation of ONEs such as the Thar Desert and Banni Grasslands",
+    "It also covers Deccan Savannas, Ravines and other open ecosystems",
+    "Under the Bonn Challenge, India has brought around 21.76 million hectares under restoration",
+    "This is part of India's broader target of restoring 26 million hectares by 2030",
+    "National Action Plan to Combat Desertification was introduced in 2001 and revised in 2023",
+    "Green India Mission is a component of the National Action Plan on Climate Change (NAPCC) and focuses on forest restoration and carbon sequestration",
+    "Mission Amrit Sarovar focuses on creation and rejuvenation of water bodies; Aravalli Green Wall Initiative restores degraded Aravalli areas"
+   ]
+  }
+ ],
+ "already_asked": [
+  "How many of the following statements about the UNCCD and COP17 are correct?",
+  "Consider the following statements about the UNCCD:",
+  "Read the assertion and reason.",
+  "Match List I with List II:",
+  "Approximately what percentage of the world's land surface is affected by the land degradation crisis?",
+  "Approximately what percentage of Mongolia's territory is affected by land degradation?",
+  "Which country will host UNCCD COP 18 in 2028?",
+  "Which of the following is the principal decision-making body of the UNCCD?",
+  "Along with UNCCD, which country launched the Drought Resilience Investment Facility (DRIF)? (answer in one word)",
+  "What does DRIF use public finance to do in order to attract private and institutional capital? (answer in one word)",
+  "What is the name of the new instrument introduced to assess national preparedness against drought?",
+  "Drought management is to shift from post-disaster relief towards which kind of planning? (answer in one word)",
+  "How much new and pipeline funding was announced for land restoration and drought resilience in vulnerable countries? (in USD billion)",
+  "Did countries reach consensus on a legally binding global agreement on drought at COP17? (yes or no)",
+  "From which COP onwards will drought receive a standalone agenda item? (give the COP number)"
+ ]
+}

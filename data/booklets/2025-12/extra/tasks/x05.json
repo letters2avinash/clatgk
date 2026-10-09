@@ -1,0 +1,68 @@
+{
+ "key": "x05",
+ "topic": "Indian Rupee Breaches 90 per US Dollar in 2025",
+ "chapter": "Economy",
+ "text_file": "data/booklets/2025-12/t05_indian_rupee_breaches_90_usd.txt",
+ "subtopics": [
+  {
+   "id": "2025-12-c3-t1-s1",
+   "title": "The 90 per Dollar Breach",
+   "summary": "In 2025 the Indian rupee crossed 90 per US dollar after depreciating over 5% during the year, even though India had strong 8.2% GDP growth and low inflation. The 90 level carries psychological weight, since crossing it can activate buy-stop orders and intensify downward momentum. The booklet says the breach reflects cumulative pressures built over time rather than a single event.",
+   "facts": [
+    "Rupee depreciated over 5% in 2025, crossing 90 per USD",
+    "India had strong 8.2% GDP growth and low inflation at the time",
+    "The 90 per USD level is psychologically important for traders",
+    "Crossing 90 can activate buy-stop orders",
+    "Buy-stop orders can intensify downward momentum",
+    "The breach reflects cumulative pressures, not a single disruptive event",
+    "Policymakers and investors watch global conditions, trade and domestic indicators"
+   ]
+  },
+  {
+   "id": "2025-12-c3-t1-s2",
+   "title": "Depreciation vs Devaluation",
+   "summary": "Rupee depreciation means the currency's value falls against foreign currencies, driven by market forces, capital flows, external shocks or policy uncertainty. Devaluation is different: the government or RBI deliberately reduces the currency's value, and it happens under fixed or pegged exchange rates. Depreciation happens under floating or managed-floating systems.",
+   "facts": [
+    "Depreciation: the currency's value falls relative to foreign currencies",
+    "Causes of depreciation: market forces, capital flows, external shocks, policy uncertainty",
+    "Devaluation: government or RBI deliberately reduces the currency's value",
+    "Devaluation happens under fixed or pegged exchange rate systems",
+    "Depreciation happens under floating or managed-floating systems",
+    "Devaluation is a policy tool to boost exports and reduce deficit",
+    "Depreciation is driven by FPI outflows, inflation, CAD and global shocks"
+   ]
+  },
+  {
+   "id": "2025-12-c3-t1-s4",
+   "title": "Impacts of Rupee Depreciation",
+   "summary": "A weaker rupee makes Indian goods cheaper abroad, raises the value of remittances and can encourage domestic manufacturing. The booklet also lists costs: dollar-denominated debt becomes dearer, deficits widen, imported inflation rises, subsidy bills grow and consumer purchasing power falls. It also notes a capital flight risk when investor confidence weakens.",
+   "facts": [
+    "Boost to exports: Indian goods become cheaper globally",
+    "Higher remittance value: NRIs get a more favourable exchange rate",
+    "Push to domestic manufacturing as expensive imports encourage local production",
+    "Costlier external debt for companies with dollar-denominated loans",
+    "Wider current account and trade deficits as imports become costlier",
+    "Higher subsidy burden as fertiliser imports become costlier",
+    "Imported inflation: crude, fertilisers and electronics become costlier",
+    "Capital flight risk as a weak rupee reduces investor confidence",
+    "Lower consumer purchasing power due to costlier essential imports"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which set of imports did the booklet identify as widening India's trade deficit in 2025?",
+  "Which group of investors does the booklet say withdrew funds aggressively, adding to capital outflows?",
+  "What is the maximum US tariff on Indian exports cited in the booklet's account of 2025 rupee pressure?",
+  "Match List I with List II:",
+  "Consider the following statements about the rupee's weakness in 2025:",
+  "Consider the following statements:",
+  "By how much did the Indian rupee depreciate in 2025, according to the booklet?",
+  "Which type of accounts does the booklet propose to expand to promote rupee-based trade settlement? (name in full)",
+  "Which payment system's internationalisation does the booklet propose to boost global acceptance of the rupee? (short name)",
+  "Which global body's SDR basket does the booklet say the rupee should work towards being eligible for? (short name)",
+  "How many numbered measures are listed under 'How Can Rupee Be Stabilised?' (in number)",
+  "Apart from gold monetisation, which form of gold does the booklet name as a way to reduce gold imports? (two words)",
+  "Which Indian government securities does the booklet want included in global bond indices? (short form)",
+  "Along with Asia and the Gulf, which region's countries does the booklet name for local currency settlement agreements? (one word)"
+ ]
+}

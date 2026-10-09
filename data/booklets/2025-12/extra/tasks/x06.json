@@ -1,0 +1,75 @@
+{
+ "key": "x06",
+ "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+ "chapter": "Economy",
+ "text_file": "data/booklets/2025-12/t06_rbi_cuts_repo_rate_goldilocks.txt",
+ "subtopics": [
+  {
+   "id": "2025-12-c3-t2-s2",
+   "title": "Repo Rate Transmission and Other Instruments",
+   "summary": "The repo rate is the rate at which RBI lends to commercial banks, and it moves borrowing costs across the economy. RBI raises it to curb spending when inflation is high and lowers it to pump money in during a liquidity crunch. Other tools include the reverse repo rate, Bank Rate, MSF, CRR, SLR and open market operations.",
+   "facts": [
+    "Repo stands for 'Repurchasing Option' or 'Repurchase Agreement'.",
+    "Repo rate is the rate at which RBI lends money to commercial banks.",
+    "Reverse repo rate is the rate at which RBI borrows money from commercial banks.",
+    "In high inflation, RBI increases the repo rate to reduce the flow of money.",
+    "A higher repo rate makes loans costlier for banks and borrowing costly for businesses.",
+    "In a short-term liquidity crunch, RBI lowers the repo rate to pump funds into the economy.",
+    "Bank Rate is a long-term rate at which the central bank lends to other banks.",
+    "MSF is a window for banks to borrow overnight funds at a higher rate than the repo rate.",
+    "CRR is the proportion of deposits banks must hold as cash with RBI.",
+    "SLR is the minimum share of deposits banks must hold as liquid cash, gold or other securities.",
+    "Open market operations: purchase or sale of government securities to inject or absorb liquidity."
+   ]
+  },
+  {
+   "id": "2025-12-c3-t2-s4",
+   "title": "Inflation Measures: CPI, WPI and GDP Deflator",
+   "summary": "Inflation is an increase in the overall prices of goods and services in an economy over time, and it is tracked through several indices. CPI measures retail inflation and covers both goods and services, while WPI covers only goods and reflects wholesale prices. The GDP deflator compares annual production value at current prices with a base year.",
+   "facts": [
+    "Inflation is an increase in the overall prices of goods and services in an economy over time.",
+    "CPI measures inflation in the retail market.",
+    "CPI has a base year of 2012.",
+    "CPI is released by the National Statistical Office (NSO).",
+    "CPI includes both goods and services.",
+    "CPI reflects up-to-date expenditure patterns.",
+    "WPI includes only goods and does not consider the services sector.",
+    "WPI is released by the Office of Economic Advisor, Ministry of Commerce and Industry.",
+    "GDP deflator compares annual production value at current prices to a base year."
+   ]
+  },
+  {
+   "id": "2025-12-c3-t2-s5",
+   "title": "RBI: Origins and Core Functions",
+   "summary": "The RBI is the central bank responsible for managing India's financial system. It was established on April 1 in Calcutta, was later nationalised from private stakeholders, and performs supervisory, monetary, currency and banking roles. Its concept was inspired by Dr. Ambedkar's strategies in his book on the rupee.",
+   "facts": [
+    "RBI is the central bank responsible for managing the country's financial system.",
+    "RBI's concept was inspired by Dr. Ambedkar's strategies in his book 'The Problem of the Rupee'.",
+    "RBI was established on April 1 in Calcutta.",
+    "RBI was nationalised; it was previously owned by private stakeholders.",
+    "Supervisory function: issue bank licences, open branches, set minimum reserves and inspect commercial banks.",
+    "Monetary authority: maintain price stability while promoting economic growth.",
+    "Issuer of currency: exchanges and destroys currency notes.",
+    "Manager of foreign exchange and custodian of India's forex reserves.",
+    "Lender of last resort and banker to the government and to other banks.",
+    "Custodian of the cash reserves of commercial banks.",
+    "Regulates the forex market through exchange rules."
+   ]
+  }
+ ],
+ "already_asked": [
+  "How many of the following statements about the Monetary Policy Committee are correct?",
+  "By how many basis points did the RBI cut the repo rate in December 2025?",
+  "What was India's inflation rate in October 2025, as cited in the booklet?",
+  "Consider the following statements about the repo and related rates.",
+  "What was the total reduction in the repo rate by the RBI during 2025, in basis points?",
+  "Match List I with List II:",
+  "How many members does the Monetary Policy Committee have? (number)",
+  "What is the minimum number of times the MPC must meet in a year? (number)",
+  "In the event of a tie in MPC voting, whose vote decides the outcome? (name the post)",
+  "Which committee formalised inflation targeting in India? (name)",
+  "What is the inflation target under India's framework? (in per cent)",
+  "In which year did India adopt flexible inflation targeting? (year)",
+  "What is the tolerance band on either side of the inflation target? (in percentage points)"
+ ]
+}

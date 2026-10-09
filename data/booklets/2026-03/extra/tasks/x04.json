@@ -1,0 +1,66 @@
+{
+ "key": "x04",
+ "topic": "India-Canada Relations: Reset, CEPA and Strains",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-03/t04_india_canada_cepa.txt",
+ "subtopics": [
+  {
+   "id": "2026-03-c1-t4-s1",
+   "title": "Background of Bilateral Ties",
+   "summary": "India and Canada established diplomatic ties in 1947 and cooperate in trade, nuclear energy and space. Bilateral trade was worth USD 30.9 billion in 2024. Their nuclear links include the CIRUS reactor (1954) and the Nuclear Cooperation Agreement (2013), and ISRO and the Canadian Space Agency collaborate in space.",
+   "facts": [
+    "Diplomatic ties established in 1947.",
+    "Bilateral trade worth USD 30.9 billion in 2024.",
+    "Nuclear Cooperation Agreement (2013) facilitates uranium supply and oversight.",
+    "Canada assisted India in building a nuclear research reactor named CIRUS in 1954.",
+    "Space collaboration between ISRO and the Canadian Space Agency.",
+    "Joint research collaboration exists between the two countries."
+   ]
+  },
+  {
+   "id": "2026-03-c1-t4-s4",
+   "title": "Khalistan Movement and Its Context",
+   "summary": "The Khalistan movement is rooted in Sikh identity, the 1947 Partition and demands for Punjab's autonomy. Violent episodes such as the Air India bombing and the 1984 assassination of Indira Gandhi shaped the issue. Diaspora-based separatist support abroad keeps the issue alive in India-Canada ties.",
+   "facts": [
+    "Khalsa tradition established in 1699, marking Sikh identity and autonomy.",
+    "Partition of India (1947) left Sikhs as a minority, creating dissatisfaction over lost ancestral lands.",
+    "Anandpur Sahib Resolution demanded greater autonomy for Punjab.",
+    "Jarnail Singh Bhindranwale became the face of Sikh militancy, advocating Khalistan.",
+    "Operation Black Thunder: Indian forces removed militants from the Golden Temple.",
+    "Air India bombing: Canada-based Sikh extremists bombed a flight.",
+    "In 1984, Indira Gandhi's Sikh bodyguards killed her, triggering anti-Sikh riots.",
+    "Khalistani groups found support in Canada, the UK, the US and Australia."
+   ]
+  },
+  {
+   "id": "2026-03-c1-t4-s5",
+   "title": "Vienna Conventions on Diplomatic Immunity",
+   "summary": "The Vienna Convention on Diplomatic Relations (1961) and the Vienna Convention on Consular Relations (1963) set the framework for diplomatic and consular ties. They protect diplomats from arrest and legal processes and make diplomatic missions inviolable. Consular officers can perform their duties without interference.",
+   "facts": [
+    "Vienna Convention on Diplomatic Relations (1961) sets the framework for diplomatic relations.",
+    "Vienna Convention on Consular Relations (1963) sets the framework for consular relations.",
+    "Diplomats are protected from arrest and legal processes (diplomatic immunity).",
+    "Missions cannot be entered without permission (inviolability of diplomatic premises).",
+    "Consular officers can perform duties without interference.",
+    "Diplomatic immunity is the key provision protecting diplomats."
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which Canadian company is set to supply uranium ore concentrates to India?",
+  "Consider the following statements:",
+  "From which year will Canada's Cameco begin supplying uranium ore concentrates to India?",
+  "Assertion (A): The formal restart of CEPA talks was one of the outcomes of the Canadian PM's visit to India.",
+  "At which institution was the India-Canada Pulse Protein Centre of Excellence established?",
+  "Match List I with List II:",
+  "What bilateral trade target has been set between India and Canada by 2030?",
+  "How many of the following statements about the Australia-Canada-India Technology and Innovation Partnership are correct?",
+  "In which year was Hardeep Singh Nijjar killed? (in year)",
+  "Which Canadian Prime Minister alleged a potential link between Indian agents and the killing? (full name)",
+  "Delays in Canadian visa processing for Indians are linked to reduced Canadian what? (two words)",
+  "Canada's tolerance of which separatist groups does India see as a threat to its territorial integrity? (one word)",
+  "Which trade agreement's negotiations were stalled by the diplomatic rifts? (acronym)",
+  "The standoff may complicate relations with which group of allies? (two words)",
+  "The standoff may harm India's reputation in which grouping? (acronym)"
+ ]
+}

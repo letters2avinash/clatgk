@@ -1,0 +1,58 @@
+{
+ "key": "x02",
+ "topic": "Strategic Importance of Greenland",
+ "chapter": "International Relations and News",
+ "text_file": "data/booklets/2026-01/t02_greenland.txt",
+ "subtopics": [
+  {
+   "id": "2026-01-c1-t2-s2",
+   "title": "US Strategic and Military Ties with Greenland",
+   "summary": "The United States seized temporary control of Greenland during the Second World War to stop Nazi Germany from exploiting the Danish colony. It proposed a $100 million purchase offer to Denmark in 1946 and formalised American military access through a 1951 defence agreement. Today the US maintains Pituffik Space Base, which helps monitor potential missile threats.",
+   "facts": [
+    "The US seized temporary control of Greenland in World War II",
+    "The aim was to prevent Nazi Germany from exploiting the Danish colony after Denmark's occupation",
+    "In 1946 the US proposed a $100 million offer to Denmark for outright purchase of Greenland",
+    "The 1951 US-Denmark Defence Agreement formalised American military access to Greenland",
+    "Pituffik Space Base, formerly known as Thule Air Base, is maintained by the US",
+    "The base monitors potential missile threats from Russia, China and North Korea",
+    "Greenland hosts critical infrastructure for the US Ballistic Missile Early-Warning System",
+    "Greenland lies within the GIUK Gap, a key chokepoint for monitoring naval movements in the North Atlantic",
+    "Greenland's ground stations can track polar-orbiting satellites",
+    "Greenland enhances NATO's ability to monitor Russian activities in the Arctic and North Atlantic"
+   ]
+  },
+  {
+   "id": "2026-01-c1-t2-s4",
+   "title": "Great Power Competition and the EU Anti-Coercion Instrument",
+   "summary": "China labels itself a Near-Arctic State and invests in Arctic research, while Russia has heavily militarised its Arctic coastline and the US views Greenland as central to countering both. Denmark's firm stance highlights the tension between territorial sovereignty and the strategic ambitions of major powers. The EU's Anti-Coercion Instrument, nicknamed the Trade Bazooka, is primarily a deterrent tool against economic coercion.",
+   "facts": [
+    "China labels itself a 'Near-Arctic State'",
+    "China is investing in Arctic research and infrastructure",
+    "Russia has heavily militarised its Arctic coastline",
+    "The US views Greenland as central to countering both China and Russia",
+    "Denmark takes a firm stance on sovereignty over Greenland",
+    "The EU's Anti-Coercion Instrument is nicknamed the 'Trade Bazooka'",
+    "The Anti-Coercion Instrument is primarily a deterrent tool with capacity for proportionate retaliation",
+    "The Anti-Coercion Instrument responds when a non-EU country seeks to coerce the EU through trade or investment measures",
+    "Its objectives are to deter economic coercion and protect the EU's strategic autonomy",
+    "A French President urged the EU to invoke the Anti-Coercion Instrument for the first time against US tariffs amid the Greenland dispute"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which island in Greenland is recognised as the world's northernmost point of land?",
+  "Assertion (A): Greenland gives the North Atlantic a strategic role in monitoring naval movements.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements about Greenland and the EU:",
+  "What name does the booklet give to the EU's Anti-Coercion Instrument?",
+  "Which body takes decisions to invite a country to join NATO?",
+  "Statement I: Under Article 5, an armed attack on one NATO Ally is treated as an attack on all members.",
+  "Which country currently dominates the rare earth elements market? (one word)",
+  "Which emerging Arctic shipping route is linked to melting Arctic ice? (name the route)",
+  "Apart from the Suez Canal, which canal could new Arctic routes help ships bypass? (one word)",
+  "What term does China use to label itself in relation to the Arctic? (three words, hyphen allowed)",
+  "What is the abbreviation of the strategic gap named after Greenland, Iceland and the United Kingdom? (abbreviation only)",
+  "What was Pituffik Space Base formerly known as? (two words)"
+ ]
+}

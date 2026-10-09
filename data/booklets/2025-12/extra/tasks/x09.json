@@ -1,0 +1,56 @@
+{
+ "key": "x09",
+ "topic": "December 2025 AILET Corner: Current Affairs Facts",
+ "chapter": "AILET Corner",
+ "text_file": "data/booklets/2025-12/t09_ailet_corner.txt",
+ "subtopics": [
+  {
+   "id": "2025-12-c6-t1-s3",
+   "title": "Environment, Science and Defence",
+   "summary": "This subtopic covers the CAFE fuel-efficiency norms and their phases, the UNEP Global Environment Outlook (GEO-7) report, and the ISRO launch of BlueBird Block-2. It also covers wetland additions to the Ramsar List and the Majuli river island.",
+   "facts": [
+    "CAFE norms are notified under the Energy Conservation Act, 2001",
+    "CAFE objectives: reduce fuel consumption, lower CO2 emissions, curb air pollution and reduce oil import dependency",
+    "CAFE phases: Phase I 2017-18, Phase II 2022-23, Phase III 2027-32",
+    "UNEP released the 7th Global Environment Outlook (GEO-7), 'A Future We Choose'; HQ in Nairobi",
+    "Pollution is linked to 9 million deaths every year",
+    "ISRO's LVM3-M6 launched BlueBird Block-2 into Low Earth Orbit on a commercial mission for AST SpaceMobile (USA)",
+    "Indian Coast Guard inducted Samudra Pratap, an indigenous pollution control vessel",
+    "Majuli: Charaichung Royal Bird Sanctuary was established in 1633 by Ahom ruler Pratap Singha; Majuli is the world's largest river island",
+    "Siliserh Lake and Kopra Reservoir were added to the Ramsar List, taking India's total to 96 wetlands"
+   ]
+  },
+  {
+   "id": "2025-12-c6-t1-s4",
+   "title": "International Bodies and Conventions",
+   "summary": "This subtopic covers the US-led Pax Silica initiative, from which India is excluded, and SoLAR Phase II for solar irrigation. It also covers the Biological Weapons Convention, the UNESCO education convention, the Kimberley Process chair and the ADB.",
+   "facts": [
+    "Pax Silica is a US-led strategic geo-economic and technology initiative; India is excluded from it",
+    "Pax Silica covers the entire silicon value chain, from critical minerals to chips, AI infrastructure and logistics",
+    "Pax Silica members: US, Japan, South Korea, Singapore, Netherlands, UK, Israel, UAE and Australia",
+    "SoLAR (Solar Irrigation for Agricultural Resilience) Phase II covers India, Bangladesh, Kenya and Ethiopia",
+    "SoLAR Phase I (2019-2024) was implemented by IWMI (Colombo) and the Swiss Agency for Development and Cooperation",
+    "Biological Weapons Convention: opened for signature in 1972, entered into force in 1975, 189 member states",
+    "Biological Weapons Convention prohibits development, production, stockpiling and use of biological and toxin weapons",
+    "UNESCO Convention against Discrimination in Education was adopted in 1960; India has not ratified it",
+    "ADB was established in 1966 and is headquartered in Manila; it revised India's FY26 GDP growth forecast to 7.2%",
+    "India chairs the Kimberley Process from January 2026 to keep conflict diamonds out of global trade"
+   ]
+  }
+ ],
+ "already_asked": [
+  "Which provision makes the Supreme Court a Court of Record with power to punish for contempt of itself?",
+  "Which Act governs contempt proceedings in India?",
+  "Read the two statements and choose the correct option.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements:",
+  "The CCI has taken cognisance of flight disruptions of which airline to probe a possible abuse of dominant position?",
+  "What is the RBI's repo rate after its December 2025 cut? (in per cent)",
+  "Up to how many lakh rupees can an Ombudsman direct a regulated entity to pay as compensation for financial loss? (in lakh)",
+  "What is the informal term used for Domestic Systemically Important Banks?",
+  "Which authority designates the D-SIBs?",
+  "How many earlier ombudsman schemes does the Integrated Ombudsman Scheme 2021 merge? (in number)",
+  "In which year will India conduct its next Economic Census?"
+ ]
+}

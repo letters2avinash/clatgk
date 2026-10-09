@@ -1,0 +1,53 @@
+{
+ "key": "x12",
+ "topic": "INS Aridaman: India's Third Nuclear-Powered Ballistic Missile Submarine",
+ "chapter": "Science and Technology, Defence and Space",
+ "text_file": "data/booklets/2026-04/t12_ins_aridaman.txt",
+ "subtopics": [
+  {
+   "id": "2026-04-c7-t2-s3",
+   "title": "Strategic Significance for India",
+   "summary": "INS Aridaman completes India's nuclear triad, which enables nuclear delivery from land, air and sea. Its second-strike capability provides assured retaliation and supports the No First Use doctrine. The booklet says the submarine improves strategic reach in the Indian Ocean Region and Indo-Pacific and boosts Credible Minimum Deterrence. India is placed among the countries with operational nuclear triads, which the booklet lists as USA, Russia, UK, China and France.",
+   "facts": [
+    "Completes India's nuclear triad, enabling nuclear delivery via land, air and sea.",
+    "Provides second-strike capability, meaning assured retaliation capability.",
+    "Supports India's No First Use doctrine.",
+    "Improves strategic reach in the Indian Ocean Region and Indo-Pacific.",
+    "Boosts Credible Minimum Deterrence.",
+    "Places India among countries with operational nuclear triads.",
+    "Other countries with operational nuclear triads listed: USA, Russia, UK, China, France."
+   ]
+  },
+  {
+   "id": "2026-04-c7-t2-s4",
+   "title": "Submarine Building Programmes",
+   "summary": "The 30-year Submarine Building Plan was approved by the Cabinet Committee on Security in 1999, after the Kargil War, and aimed to build 24 conventional submarines indigenously by 2030. Under Project 75, six Kalvari-class diesel-electric submarines were being built at Mazagon Dock Limited, and INS Kalvari was commissioned in 2017. Project 75I, approved in 2007 as Phase II, is the first project under the Strategic Partnership Model. Project 751 adds AIP technology, which lets submarines stay submerged for up to 2 weeks.",
+   "facts": [
+    "After the Kargil War (1999), the Cabinet Committee on Security approved a 30-year Submarine Building Plan.",
+    "The plan included building 24 conventional submarines indigenously by 2030.",
+    "Project 75 is Phase I (2000-2015) of the Indian Navy's 30-year indigenous submarine plan.",
+    "Six Kalvari-class (Scorpene-based) diesel-electric attack submarines were being built at Mazagon Dock Limited.",
+    "INS Kalvari, the first Project 75 submarine, was commissioned in 2017.",
+    "Project 75I, approved in 2007 as Phase II, is the first project under the Strategic Partnership Model.",
+    "Project 75I aims to procure diesel-electric attack submarines with fuel cells and AIP.",
+    "Conventional diesel-electric submarines must surface every 48 hours to be recharged.",
+    "Project 751 uses AIP technology to build six submarines that can stay submerged for up to 2 weeks.",
+    "Five foreign OEMs: Daewoo (South Korea), Naval Group (France), Rosoboronexport (Russia), Thyssenkrupp Marine Systems (TKMS, Germany), Navantia (Spain)."
+   ]
+  }
+ ],
+ "already_asked": [
+  "What type of reactor powers INS Aridaman?",
+  "Where was INS Aridaman built?",
+  "What does the acronym SSBN stand for?",
+  "Consider the following statements:",
+  "How many of the following statements about INS Aridaman are correct?",
+  "Which organisations together manage the ATV Project?",
+  "In which year was INS Arighaat commissioned? (year)",
+  "How many submarines does the booklet's Arihant-class comparison cover? (number)",
+  "Which submarine did India commission as its 3rd nuclear-powered ballistic missile submarine? (name)",
+  "What does SSGN stand for? (full expansion)",
+  "What does SSN stand for? (full expansion)",
+  "Which Arihant-class submarine is described as much more technologically advanced than INS Arihant? (name)"
+ ]
+}

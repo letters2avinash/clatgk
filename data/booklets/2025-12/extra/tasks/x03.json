@@ -1,0 +1,60 @@
+{
+ "key": "x03",
+ "topic": "4th National Lok Adalat",
+ "chapter": "Polity and Governance",
+ "text_file": "data/booklets/2025-12/t03_4th_national_lok_adalat.txt",
+ "subtopics": [
+  {
+   "id": "2025-12-c2-t1-s3",
+   "title": "NALSA and Legal Aid Institutions",
+   "summary": "The Legal Services Authorities Act, 1987 was enacted to build a nationwide network for free and competent legal services, and it came into force on 9 November 1995. The National Legal Services Authority (NALSA) was founded in 1995 under the Act. Legal aid institutions operate at national, state, district, taluka and High Court and Supreme Court levels, and Article 39A provides for free legal aid.",
+   "facts": [
+    "1980: a national-level committee named CILAS was set up to supervise legal aid programmes",
+    "Legal Services Authorities Act enacted in 1987",
+    "The Act came into force on 9 November 1995",
+    "Aim: nationwide network for free legal services to weaker sections",
+    "NALSA founded in 1995 under the 1987 Act",
+    "Article 39A provides free legal aid to poor and weaker sections",
+    "Chief Justice of India is Patron-in-Chief of NALSA",
+    "Institution levels: national, state, district, taluka/sub-division, High Court, Supreme Court",
+    "High Court committee headed by the Chief Justice of the State High Court",
+    "Objectives include free legal aid, legal awareness, Lok Adalats and compensation to crime victims"
+   ]
+  },
+  {
+   "id": "2025-12-c2-t1-s4",
+   "title": "e-Courts Project and Digital Tools",
+   "summary": "The e-Courts Project brings Information and Communication Technology into Indian courts, with Phase I running in 2007-2015 and Phase III from 2023 onwards. The National Judicial Data Grid is an online database of orders, judgments and case details created under Phase II. SUVAS, FASTER and SUPACE help with translation, secure transmission of orders and access to laws for judges.",
+   "facts": [
+    "e-Courts Project: ICT enablement of courts",
+    "Phase I implemented during 2007-2015",
+    "Phase II started in 2015",
+    "Phase III spans four years, from 2023 onwards",
+    "Funded by the Department of Justice, Ministry of Law and Justice",
+    "National Judicial Data Grid: database of orders, judgments and case details, developed by the National Informatics Centre",
+    "SUVAS: Supreme Court Vidhik Anuvaad Software, an AI-trained translation tool",
+    "FASTER: Fast and Secured Transmission of Electronic Records",
+    "SUPACE: Supreme Court Portal for Assistance in Court's Efficiency",
+    "Swapnil Tripathi v Supreme Court of India (2018): live streaming is part of the Article 21 right to access justice",
+    "Gujarat High Court is the first court to live stream judicial proceedings on its YouTube channel"
+   ]
+  }
+ ],
+ "already_asked": [
+  "In which year was the first Lok Adalat in India organised?",
+  "Under which Act do Lok Adalats have statutory status?",
+  "Assertion (A): Every award made by a Lok Adalat is final and binding on all parties to the dispute.",
+  "Match List I with List II:",
+  "Consider the following statements:",
+  "Consider the following statements about Permanent Lok Adalats:",
+  "Which Supreme Court case held that a Lok Adalat is purely conciliatory?",
+  "What does FASTER stand for in the Supreme Court context?",
+  "In which year was the Legal Services Authorities Act, 1987 amended to permit the setting up of Permanent Lok Adalats? (year)",
+  "How many other persons with adequate experience in public utility services sit with the chairperson of a Permanent Lok Adalat? (in number)",
+  "Apart from transportation, which public utility service is cited as an example of disputes handled by Permanent Lok Adalats?",
+  "Which authority is the organising authority for Lok Adalats?",
+  "In which year did the Supreme Court decide State of Punjab vs Jalour Singh, holding that Lok Adalat is purely conciliatory? (year)",
+  "Since which year has the National Lok Adalat been held on a specific matter every month? (year)",
+  "In which state was the first Lok Adalat in India organised?"
+ ]
+}
