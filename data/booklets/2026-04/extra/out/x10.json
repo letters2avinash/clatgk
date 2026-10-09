@@ -1,0 +1,316 @@
+{
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic": "2026-04-c6-t1-s2",
+   "title": "Most Polluted Places in the 2025 Report",
+   "passage": "The World Air Quality Report 2025 was prepared by IQAir, a Swiss company that measures air quality. Its assessments are based on PM2.5, which refers to fine particulate matter measured in micrograms per cubic metre (µg/m³). The report compares measured concentrations with the air quality guidelines set by the World Health Organisation. The findings are presented as lists of countries, cities and regions, arranged according to how polluted each place is. Each figure is an annual average, so the rankings reflect typical air over a full year rather than a single day. Such lists help readers see at a glance which places have the highest pollution levels. Among countries, the list begins with one nation whose annual PM2.5 level is many times the WHO limit, and several other nations follow it in the ranking. Among cities, the top of the list is a city located in India. The report also notes that many countries fail to meet safe air quality standards, so the problem is widespread rather than confined to a few places. The report also tracks national capitals and regions. One capital has appeared repeatedly at the top of the capitals list, and the regional comparisons show where the heaviest pollution burden falls. Such capital-level comparisons are part of the report's wider coverage.",
+   "questions": [
+    {
+     "q": "Which region did the 2025 report identify as the most polluted globally?",
+     "options": [
+      "Sub-Saharan Africa and East Asia",
+      "Central and South Asia",
+      "Eastern Europe and Latin America",
+      "Southeast Asia and West Africa"
+     ],
+     "answer": 1,
+     "explanation": "The report states that Central and South Asia remain the most polluted regions globally."
+    },
+    {
+     "q": "Which country was placed immediately after Pakistan in the 2025 list of most polluted countries?",
+     "options": [
+      "Chad",
+      "Tajikistan",
+      "Bangladesh",
+      "Democratic Republic of Congo"
+     ],
+     "answer": 2,
+     "explanation": "The list runs Pakistan, followed by Bangladesh, Tajikistan, Chad and Democratic Republic of Congo."
+    },
+    {
+     "q": "Which Indian state contains the most polluted city in the 2025 report?",
+     "options": [
+      "Haryana",
+      "Bihar",
+      "Uttar Pradesh",
+      "Rajasthan"
+     ],
+     "answer": 2,
+     "explanation": "The report names Loni, Uttar Pradesh, as the most polluted city."
+    },
+    {
+     "q": "Assertion (A): The most polluted city in the 2025 report is Byrnihat.\nReason (R): Byrnihat is listed among the world's 10 most polluted cities in the 2025 report.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 3,
+     "explanation": "Byrnihat is in the top ten list but the report names Loni as the most polluted city, so A is false while R is true."
+    },
+    {
+     "q": "What was Pakistan's annual average PM2.5 level in the 2025 report?",
+     "options": [
+      "67.3 µg/m³",
+      "58.4 µg/m³",
+      "66.1 µg/m³",
+      "72.1 µg/m³"
+     ],
+     "answer": 0,
+     "explanation": "The report gives Pakistan's PM2.5 level as 67.3 µg/m³, the highest in the country figures."
+    },
+    {
+     "q": "Consider the following statements about the most polluted places in the 2025 report:\nI. India accounted for 74 of the world's 100 most polluted cities in 2024.\nII. Bangladesh was the most polluted country in 2025.\nIII. Five of the world's ten most polluted cities are located in India.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ],
+     "answer": 1,
+     "explanation": "Statement I and III match the report, while Bangladesh was placed second, not first, so statement II is wrong."
+    },
+    {
+     "q": "Consider the following statements about the 2025 report:\nI. Pakistan's annual PM2.5 level is more than thirteen times the WHO limit.\nII. Delhi is the most polluted city in the 2025 report.\nIII. India ranked as the most polluted country in 2025.\nHow many of the above statements are correct?",
+     "options": [
+      "Only three",
+      "All of the above",
+      "Only one",
+      "Only two"
+     ],
+     "answer": 2,
+     "explanation": "Only statement I is correct, since Loni is the most polluted city and India was ranked sixth in 2025."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic": "2026-04-c6-t1-s2",
+   "title": "Most Polluted Places in the 2025 Report",
+   "passage": "The World Air Quality Report 2025 was prepared by IQAir, a Swiss company that measures air quality. Its assessments are based on PM2.5, which refers to fine particulate matter measured in micrograms per cubic metre (µg/m³). The report compares measured concentrations with the air quality guidelines set by the World Health Organisation. The findings are presented as lists of countries, cities and regions, arranged according to how polluted each place is. Each figure is an annual average, so the rankings reflect typical air over a full year rather than a single day. Such lists help readers see at a glance which places have the highest pollution levels. Among countries, the list begins with one nation whose annual PM2.5 level is many times the WHO limit, and several other nations follow it in the ranking. Among cities, the top of the list is a city located in India. The report also notes that many countries fail to meet safe air quality standards, so the problem is widespread rather than confined to a few places. The report also tracks national capitals and regions. One capital has appeared repeatedly at the top of the capitals list, and the regional comparisons show where the heaviest pollution burden falls. Such capital-level comparisons are part of the report's wider coverage.",
+   "questions": [
+    {
+     "q": "What was Pakistan's annual average PM2.5 level in the 2025 report, in µg/m³?",
+     "answer": "67.3",
+     "accept": [
+      "67.3 µg/m³",
+      "67.3 ug/m3",
+      "67.3 micrograms per cubic metre"
+     ],
+     "explanation": "The report gives Pakistan's annual average PM2.5 level as 67.3 µg/m³."
+    },
+    {
+     "q": "Which Indian state contains the most polluted city in the 2025 report?",
+     "answer": "Uttar Pradesh",
+     "accept": [
+      "UP"
+     ],
+     "explanation": "The most polluted city, Loni, is located in Uttar Pradesh."
+    },
+    {
+     "q": "Which country was placed fourth in the 2025 list of most polluted countries, after Pakistan, Bangladesh and Tajikistan?",
+     "answer": "Chad",
+     "accept": [
+      "Chad country"
+     ],
+     "explanation": "The report lists Chad after Tajikistan, making it fourth in the list."
+    },
+    {
+     "q": "How many of the world's 10 most polluted cities in 2025 were located in India?",
+     "answer": "5",
+     "accept": [
+      "five"
+     ],
+     "explanation": "The report lists five Indian cities among the world's ten most polluted: Loni, Byrnihat, Delhi, Ghaziabad and Ula."
+    },
+    {
+     "q": "Name the Indian city, other than Loni, Byrnihat, Delhi and Ghaziabad, that appears among the world's 10 most polluted cities in 2025.",
+     "answer": "Ula",
+     "accept": [
+      "Ula city"
+     ],
+     "explanation": "Ula is the fifth Indian city in the report's list of the ten most polluted cities."
+    },
+    {
+     "q": "How many of the world's 100 most polluted cities in 2024 were in India?",
+     "answer": "74",
+     "accept": [
+      "seventy-four"
+     ],
+     "explanation": "The report states that India accounted for 74 of the world's 100 most polluted cities in 2024."
+    },
+    {
+     "q": "Which national capital has repeatedly been named the world's most polluted capital in the 2025 report?",
+     "answer": "New Delhi",
+     "accept": [
+      "Delhi",
+      "New Delhi, India"
+     ],
+     "explanation": "The report describes New Delhi as the world's most polluted capital for several consecutive years."
+    }
+   ]
+  },
+  {
+   "type": "MCQ",
+   "subtopic": "2026-04-c6-t1-s4",
+   "title": "Measures Against Pollution Sources",
+   "passage": "Air pollution is tackled through measures that target its different sources rather than through a single rule. One group of measures deals with vehicles, using emission standards that apply across the country and encouraging cleaner types of vehicles so that traffic exhaust is reduced. Another group deals with fuels, including clean cooking fuel for households that otherwise depend on biomass, and fuel produced from agricultural waste. Farming is another source covered by these measures. Waste left on fields after harvest has to be managed, and the report describes two tools developed for this purpose. Construction is also addressed, since one measure covers the way buildings are designed and run. Legal protection forms the final layer. Constitutional provisions and several central statutes deal with pollution of air and water and with the wider environment. The measures listed are not all new; some were introduced decades ago, while others are more recent. Some are aimed at households, others at farmers, and others at legal protection. Each measure comes with a short description of what it does, which helps readers compare the tools side by side. Taken together, the listed measures cover vehicles, fuels, farms, construction and the law. Readers can therefore see how each source of pollution is addressed separately.",
+   "questions": [
+    {
+     "q": "Which emission standard became mandatory nationwide in 2020, with a leap from BS-IV?",
+     "options": [
+      "BS-V",
+      "BS-VI",
+      "BS-III",
+      "Euro VI"
+     ],
+     "answer": 1,
+     "explanation": "The report states that BS-VI became mandatory nationwide in 2020, skipping BS-V."
+    },
+    {
+     "q": "What does the Turbo Happy Seeder do?",
+     "options": [
+      "Converts crop residue into manure",
+      "Generates compressed bio-gas from waste",
+      "Uproots stubble and sows seeds in the cleared area",
+      "Provides LPG to rural households"
+     ],
+     "answer": 2,
+     "explanation": "The report describes the Turbo Happy Seeder as a machine that uproots stubble and sows seeds in the cleared area."
+    },
+    {
+     "q": "In which year was the Water (Prevention and Control of Pollution) Act enacted?",
+     "options": [
+      "1976",
+      "1981",
+      "1986",
+      "1974"
+     ],
+     "answer": 3,
+     "explanation": "The report lists the Water (Prevention and Control of Pollution) Act, 1974 among the key pollution control regulations."
+    },
+    {
+     "q": "Assertion (A): Article 21 has been interpreted to include the right to a healthy environment.\nReason (R): The Environment Protection Act was enacted in 1981.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 2,
+     "explanation": "Article 21 is stated to cover a healthy environment, but the Environment Protection Act is from 1986, so R is false."
+    },
+    {
+     "q": "Match List I with List II:\nI. FAME   ->   A. Promotes electric and hybrid vehicles\nII. Pradhan Mantri Ujjwala Yojana   ->   B. Provides LPG as clean cooking fuel\nIII. SATAT   ->   C. Promotes compressed bio-gas\nIV. GRIHA   ->   D. Encourages eco-friendly building practices",
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-A, III-D, IV-C",
+      "I-C, II-D, III-A, IV-B",
+      "I-A, II-C, III-B, IV-D"
+     ],
+     "answer": 0,
+     "explanation": "Each scheme is paired with its stated purpose in the report."
+    },
+    {
+     "q": "Consider the following statements about the measures in the report:\nI. The Pusa Bio-Decomposer was developed by the Indian Agricultural Research Institute.\nII. The Air (Prevention and Control of Pollution) Act was enacted in 1974.\nIII. The Pradhan Mantri Ujjwala Yojana promotes electric and hybrid vehicles.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I only",
+      "I and III only",
+      "II and III only"
+     ],
+     "answer": 1,
+     "explanation": "Only statement I is correct, since the Air Act is from 1981 and the Ujjwala Yojana concerns LPG cooking fuel."
+    },
+    {
+     "q": "Consider the following statements about the measures in the report:\nI. Bharat Stage VI became mandatory nationwide in 2020.\nII. The Pusa Bio-Decomposer uproots stubble and sows seeds in the cleared area.\nIII. The Environment Protection Act was enacted in 1986.\nHow many of the above statements are correct?",
+     "options": [
+      "Only two",
+      "Only one",
+      "All of the above",
+      "Only three"
+     ],
+     "answer": 0,
+     "explanation": "Statements I and III are correct, while statement II describes the Turbo Happy Seeder instead."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic": "2026-04-c6-t1-s4",
+   "title": "Measures Against Pollution Sources",
+   "passage": "Air pollution is tackled through measures that target its different sources rather than through a single rule. One group of measures deals with vehicles, using emission standards that apply across the country and encouraging cleaner types of vehicles so that traffic exhaust is reduced. Another group deals with fuels, including clean cooking fuel for households that otherwise depend on biomass, and fuel produced from agricultural waste. Farming is another source covered by these measures. Waste left on fields after harvest has to be managed, and the report describes two tools developed for this purpose. Construction is also addressed, since one measure covers the way buildings are designed and run. Legal protection forms the final layer. Constitutional provisions and several central statutes deal with pollution of air and water and with the wider environment. The measures listed are not all new; some were introduced decades ago, while others are more recent. Some are aimed at households, others at farmers, and others at legal protection. Each measure comes with a short description of what it does, which helps readers compare the tools side by side. Taken together, the listed measures cover vehicles, fuels, farms, construction and the law. Readers can therefore see how each source of pollution is addressed separately.",
+   "questions": [
+    {
+     "q": "In which year was the Environment Protection Act enacted?",
+     "answer": "1986",
+     "accept": [
+      "1986 CE",
+      "AD 1986"
+     ],
+     "explanation": "The report lists the Environment Protection Act, 1986 among the key pollution control regulations."
+    },
+    {
+     "q": "Which scheme provides LPG as a clean cooking fuel to reduce biomass-based cooking?",
+     "answer": "Pradhan Mantri Ujjwala Yojana",
+     "accept": [
+      "PMUY",
+      "Ujjwala Yojana",
+      "Ujjwala",
+      "PM Ujjwala Yojana"
+     ],
+     "explanation": "The report describes the Pradhan Mantri Ujjwala Yojana as providing LPG to reduce traditional biomass-based cooking."
+    },
+    {
+     "q": "Which scheme promotes the adoption of electric and hybrid vehicles?",
+     "answer": "FAME",
+     "accept": [
+      "FAME scheme",
+      "Faster Adoption and Manufacturing of Hybrid and Electric Vehicles"
+     ],
+     "explanation": "The FAME scheme is described in the report as promoting electric and hybrid vehicles."
+    },
+    {
+     "q": "Which Article of the Constitution has been interpreted to include the right to a healthy environment?",
+     "answer": "21",
+     "accept": [
+      "Article 21",
+      "Art 21",
+      "Art. 21"
+     ],
+     "explanation": "The report states that Article 21 has been interpreted to include the right to a healthy environment."
+    },
+    {
+     "q": "In which year was the Clause protecting the natural environment inserted into Article 51A as a Fundamental Duty?",
+     "answer": "1976",
+     "accept": [
+      "1976 CE",
+      "AD 1976"
+     ],
+     "explanation": "The 42nd Amendment of 1976 inserted Clause (g) in Article 51A."
+    },
+    {
+     "q": "Which institute developed the Pusa Bio-Decomposer?",
+     "answer": "Indian Agricultural Research Institute",
+     "accept": [
+      "IARI",
+      "Indian Agricultural Research Institute (IARI)"
+     ],
+     "explanation": "The report states that the Pusa Bio-Decomposer was developed by the Indian Agricultural Research Institute."
+    },
+    {
+     "q": "How many days does the Pusa Bio-Decomposer take to turn crop residue into manure?",
+     "answer": "15-20",
+     "accept": [
+      "15 to 20",
+      "15–20",
+      "fifteen to twenty"
+     ],
+     "explanation": "The report says the Pusa Bio-Decomposer turns crop residue into manure in 15-20 days."
+    }
+   ]
+  }
+ ]
+}
