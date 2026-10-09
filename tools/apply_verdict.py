@@ -38,6 +38,10 @@ for f in sorted(glob.glob(f"data/booklets/{mid}/verdict/t*.json")):
         pos = {x["q"]: k for k, x in enumerate(q["questions"])}
         for r in vq["questions"]:
             txt = BQ.get(vq["id"], {}).get(r["n"])
+            if txt not in pos and txt and txt.startswith("Match"):
+                sig = lambda t: frozenset(v for l in t.split("\n") if (mm := ROW.match(l.strip())) for v in (mm.group(2), mm.group(4)))
+                cand = [k for k, y in enumerate(q["questions"]) if y["q"].startswith("Match") and sig(y["q"]) == sig(txt)]
+                if len(cand) == 1: pos[txt] = cand[0]
             if txt not in pos: report["question text not found (skipped)"].append((vq["id"], r["n"])); continue
             i = pos[txt]
             x = q["questions"][i]; why = []
