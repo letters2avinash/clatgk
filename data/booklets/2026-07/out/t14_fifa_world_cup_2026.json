@@ -1,0 +1,307 @@
+{
+ "topic": {
+  "title": "FIFA World Cup 2026",
+  "chapter_title": "Sports & Awards",
+  "subtopics": [
+   {
+    "title": "2026 Edition: Hosts, Teams and Format",
+    "summary": "The 23rd men's World Cup was held from 11 June to 19 July 2026 across 16 cities in three countries: the United States, Canada and Mexico. It was only the second World Cup jointly hosted by several nations, after the 2002 edition. The field grew to 48 teams in 12 groups of four, playing 104 matches in total.",
+    "facts": [
+     "Hosts: United States, Canada and Mexico, the first time three nations jointly hosted",
+     "Dates: 11 June to 19 July 2026; 16 host cities in total",
+     "United States: 11 host cities; Canada: 2 (Toronto, Vancouver); Mexico: 3 (Guadalajara, Mexico City, Monterrey)",
+     "Canada hosted a World Cup for the first time",
+     "Mexico is the first country to host or co-host a World Cup three times (after 1970 and 1986)",
+     "48 teams in 12 groups of 4; 104 matches in total",
+     "Opening match at Estadio Azteca, Mexico City; final in New Jersey",
+     "Mascots: Maple the Moose (Canada), Zayu the Jaguar (Mexico), Clutch the Bald Eagle (USA)",
+     "Official 2026 song 'Dai Dai' by Shakira and Burna Boy; match ball Adidas Trionda",
+     "Host history: 2002 first held in Asia (South Korea and Japan); 2010 South Africa first African host; 2022 Qatar first Middle East host"
+    ],
+    "keywords": ["Joint hosting", "16 cities", "48 teams", "Mascots", "Estadio Azteca"]
+   },
+   {
+    "title": "Final, Awards and Prize Money",
+    "summary": "Spain beat Argentina 1-0 in the final at MetLife Stadium, New Jersey, with the winning goal by Ferran Torres in the 106th minute, and England took third place. Individual awards went to Rodri (Golden Ball), Kylian Mbappé (Golden Boot), Unai Simón (Golden Glove) and Pau Cubarsi (Young Player). Team prize money was performance-based and totalled $671 million across 48 teams.",
+    "facts": [
+     "Final: Spain 1-0 Argentina at MetLife Stadium, New Jersey",
+     "Winning goal: Ferran Torres, 106th minute",
+     "England secured third place",
+     "Golden Ball (best player): Rodri, Spain captain; Silver Ball: Lionel Messi",
+     "Golden Boot: Kylian Mbappé, 10 goals and 4 assists; his second consecutive Golden Boot",
+     "Silver Boot: Lionel Messi, 8 goals",
+     "Golden Glove (best goalkeeper): Unai Simón",
+     "Young Player Award: Pau Cubarsi",
+     "Fair Play Trophy: Netherlands",
+     "Prize money is performance-based: champion $50 million; total for all 48 teams $671 million"
+    ],
+    "keywords": ["Golden Ball", "Golden Boot", "Golden Glove", "Young Player", "Fair Play", "Prize money"]
+   },
+   {
+    "title": "Trophies, FIFA and Title Winners",
+    "summary": "FIFA, the global governing body for football, was founded in Paris in 1904 and is headquartered in Zurich. The World Cup has used two trophies: the Jules Rimet Trophy from 1930 to 1970 and the current gold trophy from 1974 onwards. Brazil holds the most titles, with five.",
+    "facts": [
+     "FIFA: founded in Paris in 1904; headquarters in Zurich, Switzerland",
+     "FIFA has 211 member national associations; President: Gianni Infantino",
+     "Jules Rimet Trophy used 1930 to 1970; made by French sculptor Abel Lafleur",
+     "Brazil won the Jules Rimet Trophy outright in 1970 with a 4-1 win over Italy",
+     "Jules Rimet Trophy was stolen in England before 1966 and found in a rubbish heap by a dog named Pickles",
+     "Current trophy: 18-carat solid gold, designed by Italian sculptor Silvio Gazzaniga",
+     "West Germany were the first to lift the current trophy, with a 2-1 win over Netherlands in 1974",
+     "The current trophy stays with FIFA; winners receive a gold-plated replica",
+     "Titles: Brazil 5; Germany 4; Italy 4; Argentina 3; Uruguay 2; France 2; Spain 2; England 1",
+     "FIFA Peace Prize established in 2025; inaugural prize presented to US President Donald Trump"
+    ],
+    "keywords": ["FIFA", "Jules Rimet Trophy", "Gold trophy", "Title count", "FIFA Peace Prize"]
+   },
+   {
+    "title": "Records, Milestones and Firsts",
+    "summary": "The 2026 tournament produced several individual and team milestones. Lionel Messi became the first man to play at six World Cups, while Cristiano Ronaldo became the first player to score in six consecutive editions. Spain became the first nation to be reigning champion of both the men's and women's World Cups.",
+    "facts": [
+     "Messi: first man to play at 6 World Cups (2006-2026); eight-time Ballon d'Or winner",
+     "Messi: only player to have won the Golden Ball twice (2014, 2022)",
+     "Ronaldo (Portugal): first player to score in 6 consecutive World Cups (2006-2026)",
+     "Guillermo Ochoa (Mexico): selected for his 6th consecutive World Cup squad",
+     "Spain: first nation to be reigning champion of both the men's and women's World Cups",
+     "Spain: first team to win the World Cup while conceding only one goal in the tournament",
+     "Top 4 ranked teams (Argentina, Spain, France, England) reached the semi-finals for the first time",
+     "Italy, a 4-time champion, failed to qualify for a third consecutive World Cup",
+     "India: only qualification came in 1950, but the team withdrew before the Brazil tournament",
+     "Oldest player: Craig Gordon (Scotland, 43); youngest: Gilberto Mora (Mexico, 17)"
+    ],
+    "keywords": ["Messi", "Ronaldo", "Firsts", "Ages", "Top 4 teams"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "FIFA World Cup 2026 at a glance",
+   "root": {
+    "label": "FIFA World Cup 2026",
+    "children": [
+     {"label": "Hosts and venues", "children": [
+      {"label": "USA, Canada and Mexico jointly host"},
+      {"label": "16 host cities in three nations"}
+     ]},
+     {"label": "Teams and format", "children": [
+      {"label": "48 teams in 12 groups of 4"},
+      {"label": "104 matches, 11 June to 19 July"}
+     ]},
+     {"label": "Final result", "children": [
+      {"label": "Spain 1-0 Argentina"},
+      {"label": "Final played in New Jersey"}
+     ]},
+     {"label": "Individual awards", "children": [
+      {"label": "Golden Ball: Rodri"},
+      {"label": "Golden Boot: Kylian Mbappé, 10 goals"}
+     ]},
+     {"label": "Trophies and FIFA", "children": [
+      {"label": "Current gold trophy since 1974"},
+      {"label": "FIFA founded in Paris, 1904"}
+     ]},
+     {"label": "Records and firsts", "children": [
+      {"label": "Messi: first to play at 6 World Cups"},
+      {"label": "Ronaldo: scored in 6 consecutive World Cups"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "2026 Edition: Hosts, Teams and Format",
+   "root": {
+    "label": "2026 Edition: Hosts, Teams and Format",
+    "children": [
+     {"label": "Host nations", "children": [
+      {"label": "United States: 11 cities"},
+      {"label": "Canada: Toronto, Vancouver"},
+      {"label": "Mexico: Guadalajara, Mexico City, Monterrey"}
+     ]},
+     {"label": "Format", "children": [
+      {"label": "48 teams"},
+      {"label": "12 groups of 4"},
+      {"label": "104 matches"}
+     ]},
+     {"label": "Symbols", "children": [
+      {"label": "Mascots: Maple, Zayu, Clutch"},
+      {"label": "Match ball: Adidas Trionda"},
+      {"label": "Song: Dai Dai"}
+     ]},
+     {"label": "Hosting history", "children": [
+      {"label": "2002: South Korea and Japan, first in Asia"},
+      {"label": "2010: South Africa, first in Africa"},
+      {"label": "2022: Qatar, first in Middle East"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Final, Awards and Prize Money",
+   "root": {
+    "label": "Final, Awards and Prize Money",
+    "children": [
+     {"label": "Final", "children": [
+      {"label": "Spain 1-0 Argentina"},
+      {"label": "Winner: Ferran Torres, 106th minute"},
+      {"label": "Venue: MetLife Stadium, New Jersey"}
+     ]},
+     {"label": "Individual awards", "children": [
+      {"label": "Golden Ball: Rodri"},
+      {"label": "Golden Boot: Mbappé, 10 goals"},
+      {"label": "Golden Glove: Unai Simón"},
+      {"label": "Young Player: Pau Cubarsi"}
+     ]},
+     {"label": "Prize money", "children": [
+      {"label": "Performance-based payments"},
+      {"label": "Champion: $50 million"},
+      {"label": "Total for 48 teams: $671 million"}
+     ]},
+     {"label": "Other awards", "children": [
+      {"label": "Third place: England"},
+      {"label": "Fair Play Trophy: Netherlands"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Trophies, FIFA and Title Winners",
+   "root": {
+    "label": "Trophies, FIFA and Title Winners",
+    "children": [
+     {"label": "FIFA", "children": [
+      {"label": "Founded in Paris, 1904"},
+      {"label": "Headquarters in Zurich"},
+      {"label": "President: Gianni Infantino"}
+     ]},
+     {"label": "Jules Rimet Trophy", "children": [
+      {"label": "Used 1930 to 1970"},
+      {"label": "Brazil won it outright in 1970"},
+      {"label": "Stolen before 1966, found by dog Pickles"}
+     ]},
+     {"label": "Current trophy", "children": [
+      {"label": "18-carat gold, used since 1974"},
+      {"label": "Designed by Silvio Gazzaniga"},
+      {"label": "Winners receive gold-plated replica"}
+     ]},
+     {"label": "Most titles", "children": [
+      {"label": "Brazil: 5"},
+      {"label": "Germany and Italy: 4 each"},
+      {"label": "Argentina: 3"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Records, Milestones and Firsts",
+   "root": {
+    "label": "Records, Milestones and Firsts",
+    "children": [
+     {"label": "Players", "children": [
+      {"label": "Messi: 6 World Cups (2006-2026)"},
+      {"label": "Ronaldo: goals in 6 consecutive editions"},
+      {"label": "Ochoa: 6th consecutive World Cup squad"}
+     ]},
+     {"label": "Teams", "children": [
+      {"label": "Spain: reigning men's and women's champions"},
+      {"label": "Top 4 ranked teams reached semi-finals"},
+      {"label": "Italy missed a third straight World Cup"}
+     ]},
+     {"label": "Debutants and firsts", "children": [
+      {"label": "Cape Verde: nicknamed Blue Sharks"},
+      {"label": "India: only qualification in 1950"},
+      {"label": "1000th World Cup match: Tunisia v Japan"}
+     ]},
+     {"label": "Ages", "children": [
+      {"label": "Oldest: Craig Gordon, 43"},
+      {"label": "Youngest: Gilberto Mora, 17"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Host city counts",
+   "mnemonic": "Eleven, Two, Three: United States, Canada, Mexico in that order",
+   "decode": [
+    {"key": "Eleven", "meaning": "United States host cities: 11"},
+    {"key": "Two", "meaning": "Canada host cities: Toronto and Vancouver"},
+    {"key": "Three", "meaning": "Mexico host cities: Guadalajara, Mexico City and Monterrey"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Individual awards",
+   "mnemonic": "Ready Boys Get Youth",
+   "decode": [
+    {"key": "R", "meaning": "Rodri won the Golden Ball"},
+    {"key": "B", "meaning": "Kylian Mbappé won the Golden Boot with 10 goals"},
+    {"key": "G", "meaning": "Unai Simón won the Golden Glove"},
+    {"key": "Y", "meaning": "Pau Cubarsi won the Young Player Award"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Trophy changeover",
+   "mnemonic": "Rimet retired at Seventy; gold began at Seventy-Four",
+   "decode": [
+    {"key": "Seventy", "meaning": "1970: last tournament using the Jules Rimet Trophy (used 1930 to 1970)"},
+    {"key": "Seventy-Four", "meaning": "1974: first tournament using the current FIFA World Cup Trophy"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "2026 Edition Check",
+   "passage": "The FIFA World Cup is held every four years, and the 2026 edition was the 23rd men's tournament in the competition's history. It was staged from 11 June to 19 July across three nations: the United States, Canada and Mexico. This made it only the second World Cup to be jointly hosted by several countries, following the 2002 edition in South Korea and Japan. The tournament was therefore a major event for all three host countries. The first tournament was held in 1930 with thirteen teams, and the 2026 field expanded to 48 teams. These teams were divided into twelve groups of four. Spain went on to win the final against Argentina by a single goal, and the match was played in New Jersey. Argentina, the defending champion, lost the final. Over the decades, the competition has grown in size and reach, and each edition has brought its own storylines. The 2026 tournament drew wide attention for its scale and for the number of cities that staged matches. The knockout rounds that followed the group stage decided the eventual champion, and the records, awards and trophy history of the event continue to be followed by fans around the world. Many fans discussed the tournament's size and its historic firsts in the months that followed.",
+   "questions": [
+    {"q": "Which city hosted the opening match of the 2026 FIFA World Cup?", "options": ["Toronto", "Monterrey", "Mexico City", "Vancouver"], "answer": 2, "explanation": "The opening match was played at Estadio Azteca in Mexico City."},
+    {"q": "Who was the oldest player at the 2026 FIFA World Cup?", "options": ["Craig Gordon", "Gilberto Mora", "Vozinha", "Unai Simón"], "answer": 0, "explanation": "Scotland's Craig Gordon, aged 43, was the oldest player, while Mexico's Gilberto Mora, aged 17, was the youngest."},
+    {"q": "Which team is nicknamed the 'Blue Sharks'?", "options": ["Jordan", "Uzbekistan", "Curaçao", "Cape Verde"], "answer": 3, "explanation": "The Cape Verde football team is nicknamed the Blue Sharks."},
+    {"q": "Assertion (A): Canada hosted a World Cup for the first time in 2026.\nReason (R): Canada had two host cities, Toronto and Vancouver.\nChoose the correct option.", "options": ["A is true but R is false", "Both A and R are true and R explains A", "Both A and R are true but R does not explain A", "A is false but R is true"], "answer": 2, "explanation": "Both statements are true, but the number of Canadian host cities does not explain why Canada was hosting for the first time."},
+    {"q": "Match List I with List II:\nI. Maple the Moose   ->   B. United States\nII. Zayu the Jaguar   ->   D. Shakira and Burna Boy\nIII. Clutch the Bald Eagle   ->   A. Mexico\nIV. Official 2026 song 'Dai Dai'   ->   C. Canada\nChoose the correct option.", "options": ["I-A, II-D, III-B, IV-C", "I-C, II-A, III-B, IV-D", "I-B, II-C, III-D, IV-A", "I-D, II-B, III-A, IV-C"], "answer": 1, "explanation": "Maple represents Canada, Zayu represents Mexico, Clutch represents the United States, and 'Dai Dai' is performed by Shakira and Burna Boy."},
+    {"q": "Consider the following statements about the 2026 FIFA World Cup:\nI. The tournament had 104 matches in total.\nII. Mexico had three host cities.\nIII. Canada had three host cities.\nWhich of the above statements is/are correct?", "options": ["II and III only", "I and III only", "I and II only", "I, II and III"], "answer": 2, "explanation": "Canada had two host cities, Toronto and Vancouver, so III is wrong while the 104 matches and Mexico's three cities are correct."},
+    {"q": "Consider the following statements:\nI. Iran moved its base camp to Mexico for the 2026 tournament.\nII. Pau Cubarsi won the Golden Glove.\nIII. Brazil is the only team to have played in every World Cup tournament.\nHow many of the above statements are correct?", "options": ["Only two", "Only one", "Only three", "None"], "answer": 0, "explanation": "Statements I and III are correct, while Pau Cubarsi won the Young Player Award, not the Golden Glove."},
+    {"q": "Which country was the first African nation to host the FIFA World Cup?", "options": ["Egypt", "Nigeria", "Cameroon", "South Africa"], "answer": 3, "explanation": "South Africa hosted the World Cup in 2010, the first African nation to do so."}
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Final and Awards Recall",
+   "passage": "The final of the 2026 FIFA World Cup was decided by a single goal, as Spain defeated Argentina in New Jersey. The result came at the end of a tournament that produced several record-setting performances. The tournament recognised outstanding individuals as well as teams, and several awards were presented at its close. The Golden Ball is given to the best player of the tournament, the Golden Boot goes to the leading goalscorer, and the Golden Glove honours the best goalkeeper. A separate award goes to the best young player, and a Fair Play Trophy was also presented. Each individual award carries its own title, so a player can win one without winning the others. Prize money for teams is performance-based, so the amount a team receives rises with the stage it reaches. The champion receives the largest share, followed by the runner-up, the third-place team and the fourth-place team. Teams eliminated in the group stage still receive a payment, and the total amount distributed among all 48 teams runs into hundreds of millions of dollars. Taken together, the individual awards and the performance-based payments show how the tournament rewards both excellence and progress through the competition. The difference between individual awards and team prize money is an important distinction to keep in mind.",
+   "questions": [
+    {"q": "How many goals did the Golden Boot winner score in the 2026 tournament? (number)", "answer": "10", "accept": ["10", "ten"], "explanation": "Kylian Mbappé won the Golden Boot with 10 goals."},
+    {"q": "Who won the Golden Glove as the tournament's best goalkeeper?", "answer": "Unai Simón", "accept": ["Unai Simon", "Simón", "Simon"], "explanation": "Unai Simón was named the tournament's Best Goalkeeper and won the Golden Glove."},
+    {"q": "Who won the Golden Ball as the best player of the 2026 tournament?", "answer": "Rodri", "accept": ["Rodri"], "explanation": "Spain captain Rodri won the Golden Ball as the best player."},
+    {"q": "In which minute of the final did Ferran Torres score the winning goal? (number)", "answer": "106", "accept": ["106th minute", "106th", "106'"], "explanation": "Ferran Torres scored the winning goal in the 106th minute."},
+    {"q": "What was the prize money paid to the champion team, in millions of dollars? (number)", "answer": "50", "accept": ["$50", "50 million", "$50 million"], "explanation": "The champion received $50 million, the largest amount in the performance-based prize table."},
+    {"q": "What was the total performance-based prize money for all 48 teams, in millions of dollars? (number)", "answer": "671", "accept": ["$671", "671 million", "$671 million"], "explanation": "The total for all 48 teams in the prize table is $671 million."},
+    {"q": "Which team secured third place at the 2026 FIFA World Cup?", "answer": "England", "accept": ["England national team"], "explanation": "England secured third place at the tournament."}
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 71, "what": "The 22-goal all-time World Cup scoring record: the column layout does not make clear whom it applies to (Mbappé is the likely subject); not used."},
+  {"page": 71, "what": "Third-place scoreline reads 'England 6 - 4' with France split onto the next line; only the third-place finish was used."},
+  {"page": 72, "what": "Share of the world's footballs made in Sialkot ('more than 2/3') is OCR-garbled; not used."},
+  {"page": 73, "what": "Bronze Ball and Bronze Boot labels are not legible; the third-listed names (Kylian Mbappé, Jude Bellingham) were not used as awards."},
+  {"page": 75, "what": "1974 final score reads '2-7' in the host table, conflicting with 2-1 on page 74; not used."},
+  {"page": 75, "what": "2014 result row is blank, 2010 stage reads 'Group 4', and the sidebar continent counts are garbled; not used."},
+  {"page": 76, "what": "Practice questions have no answer key and some options are garbled; no answers were taken from them."}
+ ]
+}
