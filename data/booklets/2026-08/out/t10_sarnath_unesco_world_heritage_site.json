@@ -1,0 +1,387 @@
+{
+ "topic": {
+  "title": "Sarnath: India's 45th UNESCO World Heritage Site",
+  "chapter_title": "Summits, Reports, Indices",
+  "subtopics": [
+   {
+    "title": "Inscription and India's World Heritage status",
+    "summary": "Sarnath was inscribed on the UNESCO World Heritage List at the 48th session of the World Heritage Committee, held in Busan, Republic of Korea. With this inscription India has 45 World Heritage Sites, ranking 6th globally and 2nd in the Asia-Pacific region. Of these sites, 37 are cultural, 7 are natural and 1 is mixed.",
+    "facts": [
+     "Inscribed during the 48th session of the World Heritage Committee in Busan (Republic of Korea)",
+     "With Sarnath, India now has 45 UNESCO World Heritage Sites",
+     "India ranks 6th globally and 2nd in the Asia-Pacific region",
+     "India's sites: 37 Cultural, 7 Natural, 1 Mixed",
+     "Khangchendzonga National Park (Sikkim) is India's mixed heritage site",
+     "1983 inscriptions: Taj Mahal, Agra Fort, Ajanta and Ellora Caves",
+     "Dholavira (Gujarat) is the only Indus Valley Civilization site from India on the list",
+     "India hosted the 46th Annual Session at Bharat Mandapam, New Delhi",
+     "India served as a Committee Member for the 2021-2025 term"
+    ],
+    "keywords": ["Busan", "45 sites", "6th globally", "Khangchendzonga", "Dholavira", "Bharat Mandapam"]
+   },
+   {
+    "title": "Sarnath's sites and the first sermon",
+    "summary": "Sarnath is where Gautama Buddha gave his first sermon after attaining enlightenment at Bodhgaya, an event known as Dharmachakra Pravartana. The site has ancient names including Rishipatana, Ishipatana and Mrigadava. Its archaeological features include several stupas, a vihara and the Ashokan Pillar, each associated with a particular event or ruler.",
+    "facts": [
+     "Ancient names: Rishipatana, Ishipatana and Mrigadava (Deer Park)",
+     "Buddha gave his first sermon at Sarnath after enlightenment at Bodhgaya",
+     "The first sermon is known as Dharmachakra Pravartana (Turning of the Wheel of the Law)",
+     "The sermon marks the beginning of the Buddhist Sangha",
+     "Chaukhandi Stupa: meeting of Buddha and his first five disciples",
+     "Dhamekh Stupa: marks the site of Buddha's first sermon",
+     "Dharmarajika Stupa: traditionally associated with Emperor Ashoka and Buddha's relics",
+     "Mulagandhakuti Vihara: Buddha's rainy-season retreat at Sarnath",
+     "Ashokan Pillar: erected during Ashoka's reign; its Lion Capital is India's National Emblem",
+     "Sarnath is one of 4 principal Buddhist pilgrimage sites (with Lumbini, Bodhgaya, Kushinagar)"
+    ],
+    "keywords": ["Dharmachakra Pravartana", "Dhamekh Stupa", "Chaukhandi Stupa", "Dharmarajika Stupa", "Mulagandhakuti Vihara", "Ashokan Pillar", "Mrigadava"]
+   },
+   {
+    "title": "UNESCO, the Convention and the recognition process",
+    "summary": "The World Heritage List is maintained by the World Heritage Programme and administered by the UNESCO World Heritage Committee. The Convention concerning Protection of World Cultural and Natural Heritage was adopted in 1972, took effect in 1975, and was ratified by India in 1977. In India the Archaeological Survey of India is the nodal agency, while ICOMOS and IUCN carry out the assessment before the Committee takes the final decision.",
+    "facts": [
+     "UNESCO was founded in 1945; its headquarters are in Paris, France",
+     "UNESCO stands for United Nations Educational, Scientific and Cultural Organization",
+     "The World Heritage List is maintained by the World Heritage Programme",
+     "The list is administered by the UNESCO World Heritage Committee",
+     "The World Heritage Convention was adopted by UNESCO in 1972",
+     "The Convention formally took effect in 1975",
+     "India ratified the Convention in 1977",
+     "Nodal agency in India: Archaeological Survey of India",
+     "Assessment is done by ICOMOS and IUCN; final decision by the World Heritage Committee"
+    ],
+    "keywords": ["ICOMOS", "IUCN", "Archaeological Survey of India", "1972 Convention", "Paris", "1945"]
+   },
+   {
+    "title": "Gautama Buddha and Buddhism",
+    "summary": "Gautama Buddha was born as Siddhartha in 563 BC at Lumbini, near Kapilavastu, and died at Kushinagara in 487 BC. He taught the Middle Path, the Four Noble Truths and the 8-Fold Path, and he called himself Tathagata. After his death his teachings were divided into three Pitakas at the First Buddhist Council.",
+    "facts": [
+     "Born as Siddhartha in 563 BC at Lumbini (Nepal), near Kapilavastu",
+     "Father was an elected ruler of Kapilvastu and headed the Shakya republican clan",
+     "Mother was a princess from the Koshalan dynasty",
+     "Death (Mahaparinirvana) at Kushinagara in 487 BC",
+     "Referred to himself as Tathagata (one who has thus come or gone)",
+     "Buddhism based on his teachings, developed in the 6th century BC",
+     "Buddhism rejects the authority of the Vedas and the concept of soul (atman)",
+     "Middle Path (Madhyam Marg): avoid the extremes",
+     "Four Noble Truths: suffering, its cause, its ending, and the path to ending it",
+     "8-Fold Path: right view, intention, speech, action, livelihood, mindfulness, effort, concentration"
+    ],
+    "keywords": ["Siddhartha", "Tathagata", "Madhyam Marg", "Four Noble Truths", "Eightfold Path", "Pitakas", "First Council"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Sarnath and World Heritage at a glance",
+   "root": {
+    "label": "Sarnath: India's 45th UNESCO World Heritage Site",
+    "children": [
+     {"label": "Inscription", "children": [
+      {"label": "48th WHC session, Busan", "children": []},
+      {"label": "India ranks 6th globally", "children": []},
+      {"label": "India now has 45 sites", "children": []}
+     ]},
+     {"label": "Buddhist significance", "children": [
+      {"label": "First sermon after enlightenment", "children": []},
+      {"label": "Dharmachakra Pravartana", "children": []},
+      {"label": "One of 4 principal pilgrimage sites", "children": []}
+     ]},
+     {"label": "Archaeological features", "children": [
+      {"label": "Chaukhandi Stupa", "children": []},
+      {"label": "Dhamekh Stupa", "children": []},
+      {"label": "Dharmarajika Stupa", "children": []},
+      {"label": "Mulagandhakuti Vihara", "children": []},
+      {"label": "Ashokan Pillar", "children": []}
+     ]},
+     {"label": "Recognition process", "children": [
+      {"label": "ASI: nodal agency", "children": []},
+      {"label": "ICOMOS and IUCN: assessment", "children": []},
+      {"label": "World Heritage Committee: final decision", "children": []}
+     ]},
+     {"label": "Buddha and Buddhism", "children": [
+      {"label": "Siddhartha born 563 BC", "children": []},
+      {"label": "Middle Path", "children": []},
+      {"label": "Teachings in 3 Pitakas", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "India's World Heritage status",
+   "root": {
+    "label": "India's World Heritage Sites",
+    "children": [
+     {"label": "Total 45 sites", "children": [
+      {"label": "37 Cultural", "children": []},
+      {"label": "7 Natural", "children": []},
+      {"label": "1 Mixed", "children": []}
+     ]},
+     {"label": "Ranking", "children": [
+      {"label": "6th globally", "children": []},
+      {"label": "2nd in Asia-Pacific", "children": []}
+     ]},
+     {"label": "Notable sites", "children": [
+      {"label": "Khangchendzonga (mixed, Sikkim)", "children": []},
+      {"label": "Dholavira: only IVC site", "children": []},
+      {"label": "1983: Taj Mahal, Agra Fort", "children": []}
+     ]},
+     {"label": "Committee role", "children": [
+      {"label": "Member for 2021-2025", "children": []},
+      {"label": "ASI: nodal agency", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Sarnath's sites and first sermon",
+   "root": {
+    "label": "Sarnath's sites and first sermon",
+    "children": [
+     {"label": "First sermon", "children": [
+      {"label": "After enlightenment at Bodhgaya", "children": []},
+      {"label": "Dharmachakra Pravartana", "children": []},
+      {"label": "Marks beginning of Sangha", "children": []}
+     ]},
+     {"label": "Stupas and pillar", "children": [
+      {"label": "Chaukhandi: first five disciples", "children": []},
+      {"label": "Dhamekh: first sermon site", "children": []},
+      {"label": "Dharmarajika: Ashoka and relics", "children": []},
+      {"label": "Ashokan Pillar: Lion Capital", "children": []}
+     ]},
+     {"label": "Other structure", "children": [
+      {"label": "Mulagandhakuti: rainy-season retreat", "children": []}
+     ]},
+     {"label": "Ancient names", "children": [
+      {"label": "Rishipatana, Ishipatana, Mrigadava", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "UNESCO recognition process",
+   "root": {
+    "label": "UNESCO recognition process",
+    "children": [
+     {"label": "Convention", "children": [
+      {"label": "Adopted 1972", "children": []},
+      {"label": "Took effect 1975", "children": []},
+      {"label": "India ratified 1977", "children": []}
+     ]},
+     {"label": "Evaluation", "children": [
+      {"label": "ICOMOS", "children": []},
+      {"label": "IUCN", "children": []}
+     ]},
+     {"label": "Decision", "children": [
+      {"label": "World Heritage Committee", "children": []}
+     ]},
+     {"label": "Bodies", "children": [
+      {"label": "UNESCO: founded 1945", "children": []},
+      {"label": "UNESCO HQ: Paris", "children": []},
+      {"label": "ASI: India's nodal agency", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Buddha and Buddhism",
+   "root": {
+    "label": "Buddha and Buddhism",
+    "children": [
+     {"label": "Life", "children": [
+      {"label": "Siddhartha, 563 BC", "children": []},
+      {"label": "Birthplace: Lumbini, Nepal", "children": []},
+      {"label": "Death at Kushinagara, 487 BC", "children": []}
+     ]},
+     {"label": "Teachings", "children": [
+      {"label": "Middle Path", "children": []},
+      {"label": "4 Noble Truths", "children": []},
+      {"label": "8-Fold Path", "children": []}
+     ]},
+     {"label": "Texts", "children": [
+      {"label": "Sutta Pitaka", "children": []},
+      {"label": "Vinaya Pitaka", "children": []},
+      {"label": "Abhidhamma Pitaka", "children": []}
+     ]},
+     {"label": "Councils", "children": [
+      {"label": "3 Pitakas at First Council", "children": []},
+      {"label": "Mahakashyapa chaired First Council", "children": []}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Sarnath's four principal pilgrimage sites",
+   "mnemonic": "Lazy Bears Keep Sleeping",
+   "decode": [
+    {"key": "L", "meaning": "Lumbini"},
+    {"key": "B", "meaning": "Bodhgaya"},
+    {"key": "K", "meaning": "Kushinagar"},
+    {"key": "S", "meaning": "Sarnath"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "The 8-Fold Path",
+   "mnemonic": "Very Intelligent Students Always Learn Many Exciting Concepts",
+   "decode": [
+    {"key": "V", "meaning": "Right view"},
+    {"key": "I", "meaning": "Right intention"},
+    {"key": "S", "meaning": "Right speech"},
+    {"key": "A", "meaning": "Right action"},
+    {"key": "L", "meaning": "Right livelihood"},
+    {"key": "M", "meaning": "Right mindfulness"},
+    {"key": "E", "meaning": "Right effort"},
+    {"key": "C", "meaning": "Right concentration"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "The three Pitakas",
+   "mnemonic": "Sun Verifies Analysis",
+   "decode": [
+    {"key": "S", "meaning": "Sutta Pitaka: main teachings of Buddha"},
+    {"key": "V", "meaning": "Vinaya Pitaka: rules of conduct for monks and nuns"},
+    {"key": "A", "meaning": "Abhidhamma Pitaka: philosophical analysis"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "Sarnath: inscription, sites and sermon",
+   "passage": "Sarnath, a Buddhist site in Uttar Pradesh, has recently been inscribed on the UNESCO World Heritage List. The inscription was made at a meeting of the World Heritage Committee, and it raised the total number of such sites in India. Sarnath holds a special place in Buddhist history because Gautama Buddha gave his first teaching there after attaining enlightenment at Bodhgaya. The event marks the beginning of the Buddhist monastic community, known as the Sangha, and it is linked with the Noble Eightfold Path. The site was known in earlier times by several names, and it is visited today for its monuments. Visitors see the Chaukhandi, Dhamekh and Dharmarajika stupas, a vihara and the Ashokan Pillar. Many of these structures are linked with episodes from the Buddha's life or with rulers of the past. Sarnath is also counted among the principal Buddhist pilgrimage sites, which draw devotees from many countries. India has many heritage sites of different kinds, grouped as cultural, natural and mixed. Each category holds its own set of monuments, and together they show how varied the country's heritage is. The process of recognition involves assessment by expert bodies before the final decision is taken by the committee. Such a listing is a major achievement for any country, because it brings the monument to the attention of the whole world.",
+   "questions": [
+    {
+     "q": "During which session of the World Heritage Committee was Sarnath inscribed, and in which city was it held?",
+     "options": ["46th session, New Delhi", "47th session, Riyadh", "48th session, Busan (Republic of Korea)", "49th session, Paris"],
+     "answer": 2,
+     "explanation": "The booklet states Sarnath was inscribed during the 48th session of the World Heritage Committee in Busan, Republic of Korea."
+    },
+    {
+     "q": "After Sarnath's inscription, how many UNESCO World Heritage Sites does India have in total?",
+     "options": ["40", "48", "45", "42"],
+     "answer": 2,
+     "explanation": "The booklet states that with Sarnath's inscription India has 45 UNESCO World Heritage Sites."
+    },
+    {
+     "q": "What is the name of the event when Gautama Buddha gave his first sermon at Sarnath?",
+     "options": ["Dharmachakra Pravartana", "Mahaparinirvana", "Sambodhi", "Nirvana Chakra"],
+     "answer": 0,
+     "explanation": "The first sermon at Sarnath is known as Dharmachakra Pravartana, meaning Turning of the Wheel of the Law."
+    },
+    {
+     "q": "Assertion (A): The Ashokan Pillar at Sarnath carries a Lion Capital.\nReason (R): The Lion Capital is India's National Emblem.\nSelect the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "Both A and R are true, but R gives a separate fact about the Lion Capital rather than explaining why the pillar carries it."
+    },
+    {
+     "q": "Match List I with List II:\nI. Chaukhandi Stupa   ->   A. Buddha's rainy-season retreat\nII. Dhamekh Stupa   ->   B. Emperor Ashoka and Buddha's relics\nIII. Dharmarajika Stupa   ->   C. Buddha's first sermon\nIV. Mulagandhakuti Vihara   ->   D. Meeting of Buddha and his first five disciples",
+     "options": ["I-A, II-B, III-C, IV-D", "I-D, II-C, III-B, IV-A", "I-B, II-A, III-D, IV-C", "I-C, II-D, III-A, IV-B"],
+     "answer": 1,
+     "explanation": "Chaukhandi Stupa is linked with the meeting of Buddha and his first five disciples, and Mulagandhakuti Vihara with the rainy-season retreat."
+    },
+    {
+     "q": "Consider the following statements about Sarnath:\nI. Sarnath is one of the four principal Buddhist pilgrimage sites.\nII. The Chaukhandi Stupa marks the site of Buddha's first sermon.\nIII. The Dharmarajika Stupa is traditionally associated with Emperor Ashoka and Buddha's relics.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statement II is wrong because the Dhamekh Stupa, not the Chaukhandi Stupa, marks the site of the first sermon."
+    },
+    {
+     "q": "How many of the following statements are correct?\nI. Dholavira is the only Indus Valley Civilization site from India on the World Heritage List.\nII. Khangchendzonga National Park is India's mixed heritage site.\nIII. The Mulagandhakuti Vihara marks the site of Buddha's first sermon.",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and II are correct, while statement III is wrong because the Dhamekh Stupa marks the first sermon site."
+    },
+    {
+     "q": "Which of the following is NOT an ancient name for Sarnath?",
+     "options": ["Rishipatana", "Ishipatana", "Mrigadava", "Kushinagar"],
+     "answer": 3,
+     "explanation": "Kushinagar is the place where Buddha died, not an ancient name of Sarnath."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "Buddha's life and Buddhist teachings",
+   "passage": "Gautama Buddha was born as Siddhartha in a noble family near Kapilavastu, close to Lumbini in present-day Nepal. His father was an elected ruler, and his mother came from a royal dynasty of Kosala. Siddhartha left his home in a famous departure and later attained enlightenment, after which people began to call him the Buddha. He spent the rest of his life teaching, and his first sermon was delivered at Sarnath. Buddhism, which developed on the basis of his teachings in the sixth century BC, emphasises the attainment of enlightenment and recommends following a middle path between extremes. Its followers reject the authority of the Vedas and the idea of a permanent soul, which sets Buddhism apart from some other traditions. After the Buddha passed away, his teachings were recited and organised at a series of gatherings known as councils. The first council grouped the teachings into collections, which were later written down. Buddhist texts preserve these teachings in several collections, including the main discourses and the rules of conduct for monks and nuns. The core of his message concerns suffering, its causes, its ending and the path that leads to that ending, and this remains central to the faith. Each of these ideas connects with the others, and together they form the basis of the religion.",
+   "questions": [
+    {
+     "q": "In which year BC was Siddhartha, later Gautama Buddha, born? (number only)",
+     "answer": "563",
+     "accept": ["563 BC", "563 BCE"],
+     "explanation": "The booklet gives Siddhartha's birth as 563 BC."
+    },
+    {
+     "q": "In which year BC did Buddha die at Kushinagara? (number only)",
+     "answer": "487",
+     "accept": ["487 BC", "487 BCE"],
+     "explanation": "The booklet lists Kushinagara as the place of Buddha's death in 487 BC."
+    },
+    {
+     "q": "What term did Buddha use to refer to himself, meaning one who has thus come or gone?",
+     "answer": "Tathagata",
+     "accept": ["Tathagat", "Tathagatha"],
+     "explanation": "The booklet states that Buddha referred to himself as Tathagata."
+    },
+    {
+     "q": "Into how many Pitakas were Buddha's teachings divided at the First Buddhist Council? (number only)",
+     "answer": "3",
+     "accept": ["three"],
+     "explanation": "The booklet states that the teachings were divided into 3 Pitakas at the First Buddhist Council."
+    },
+    {
+     "q": "How many parts does the Atthanga Magga, the path to end suffering, have? (number only)",
+     "answer": "8",
+     "accept": ["eight"],
+     "explanation": "The booklet describes the Atthanga Magga as the 8-Fold Path to end suffering."
+    },
+    {
+     "q": "Which Noble Truth states that suffering could be ended? (one word)",
+     "answer": "Nirodha",
+     "accept": ["Nirodh"],
+     "explanation": "The booklet names Nirodha as the Noble Truth that suffering could be ended."
+    },
+    {
+     "q": "Who chaired the First Buddhist Council? (name)",
+     "answer": "Mahakashyapa",
+     "accept": ["Mahakasyapa", "Mahakassapa", "Mahakasapa", "Mahakashyap"],
+     "explanation": "The council table lists Mahakashyapa as the chairman of the First Council."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 48, "what": "Sacred Ensembles of Hoysalas shown under Kerala; state looks doubtful, not used"},
+  {"page": 48, "what": "Buddha as incarnation of Vishnu: the ordinal before 'of the 10 incarnations' is garbled ('8”'), not used"},
+  {"page": 48, "what": "Buddha's addressing title ('BI vat') garbled, not used"},
+  {"page": 48, "what": "Creative Cities list and World Heritage in Danger table garbled, not used"},
+  {"page": 48, "what": "UNESCO Director-General's country garbled ('1 Arab'), not used"},
+  {"page": 48, "what": "Placement of 'named Buddha after attaining enlightenment' against Bodh Gaya unclear, not used"},
+  {"page": 49, "what": "Buddhist term for suffering ('Dulgcsa (outtermg)') garbled; Dukkha not used"},
+  {"page": 49, "what": "Date when Buddha's teachings were written down ('o. 26 BC') garbled, not used"},
+  {"page": 49, "what": "Buddhist councils table headers garbled; only chairman names used, venue and patron roles not used"}
+ ]
+}

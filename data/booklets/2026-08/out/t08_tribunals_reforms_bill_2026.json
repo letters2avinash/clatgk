@@ -1,0 +1,363 @@
+{
+ "topic": {
+  "title": "Tribunals Reforms Bill 2026",
+  "chapter_title": "Polity & Governance",
+  "subtopics": [
+   {
+    "title": "Tribunals vs Ordinary Courts",
+    "summary": "Ordinary courts and administrative tribunals differ mainly in who controls the tenure and service conditions of their members. Civil courts have judicial authority over civil suits, while tribunals are created by statute to hear special cases defined by statutes. Impartiality is a crucial requirement for judges in a court of law.",
+    "facts": [
+     "Civil courts have judicial authority over suits of a civil nature, unless barred by law.",
+     "Judges in ordinary courts are independent regarding tenure, terms and conditions of service.",
+     "Administrative Tribunal members' tenure and conditions are entirely controlled by the Executive (Government).",
+     "The presiding officer of a court is required to be trained in law.",
+     "A tribunal President or member may not be legally trained but may be an expert in administrative matters.",
+     "An Administrative Tribunal is an agency created by Statute and derives its powers from the State.",
+     "Tribunals have power to try special cases defined by Statutes.",
+     "An Administrative Tribunal may be a party to a dispute it decides.",
+     "Impartiality is a crucial requirement for judges in a court of law."
+    ],
+    "keywords": ["Tribunal", "Quasi-judicial", "Executive control", "Judicial independence", "Statute"]
+   },
+   {
+    "title": "Constitutional Framework and History",
+    "summary": "Part XIV-A, inserted by the 42nd Constitutional Amendment Act 1976, contains Articles 323A and 323B, which empower Parliament and State Legislatures to set up tribunals. In L. Chandra Kumar vs Union of India (1997), the Supreme Court held that judicial review is part of the Basic Structure. Tribunal decisions remain subject to scrutiny by the concerned High Court.",
+    "facts": [
+     "Part XIV-A was inserted by the 42nd Constitutional Amendment Act, 1976.",
+     "Part XIV-A contains Articles 323A and 323B.",
+     "Article 323A: Parliament alone can establish Administrative Tribunals.",
+     "Article 323B: Parliament or State Legislatures can establish tribunals for specified matters.",
+     "L. Chandra Kumar vs Union of India (1997): judicial review under Articles 226/227 and Article 32 is part of the Basic Structure.",
+     "Tribunals aim to adjudicate specialised disputes and reduce the workload of constitutional courts.",
+     "Tribunals operate in areas such as taxation, company law, environment, telecommunications, armed forces and administrative matters.",
+     "Tribunal decisions remain subject to scrutiny by the concerned High Court.",
+     "The Income Tax Appellate Tribunal, established in 1941, was the first tribunal in India.",
+     "The First Administrative Reforms Commission recommended Civil Services Tribunals at national and state levels."
+    ],
+    "keywords": ["Article 323A", "Article 323B", "42nd Amendment", "L. Chandra Kumar", "Basic Structure", "ITAT"]
+   },
+   {
+    "title": "Tribunals Reforms Bill 2026 and the National Tribunals Commission",
+    "summary": "The Lok Sabha has passed the Tribunals Reforms Bill 2026, which seeks to repeal the Tribunals Reforms Act 2021 and re-enact provisions that were struck down. The Bill proposes a National Tribunals Commission that gives tribunals a common institutional framework for selection, performance review, discipline and data. The Central Government must complete appointments within three months of receiving a recommendation.",
+    "facts": [
+     "The Lok Sabha has passed the Tribunals Reforms Bill 2026.",
+     "The Bill seeks to repeal the Tribunals Reforms Act, 2021.",
+     "The Bill re-enacts provisions of the 2021 Act that were struck down.",
+     "The National Tribunals Commission provides a Common Institutional Framework for Tribunals.",
+     "NTC functions: selection of chairpersons and members, performance review, oversight of complaints and disciplinary inquiries, administrative supervision, and a National Tribunals Data Grid.",
+     "NTC composition: a Chairperson (SC Judge or HC Chief Justice), 2 Judicial Members and 2 Technical Members.",
+     "Technical Members must have at least 25 years of relevant experience.",
+     "Chairpersons are capped at 70 years and Members at 67, with a maximum five-year term, whichever is earlier.",
+     "The framework covers 16 Tribunals and Authorities.",
+     "The Central Government must complete the appointment process within 3 months of receiving a recommendation.",
+     "The Supreme Court has repeatedly scrutinised provisions giving the Executive excessive control over tribunals, including in Madras Bar Association v. Union of India (2010-2025)."
+    ],
+    "keywords": ["National Tribunals Commission", "Tribunals Reforms Act 2021", "Search-cum-Selection Committee", "Chairperson", "Technical Members", "Data Grid"]
+   },
+   {
+    "title": "National Green Tribunal",
+    "summary": "The National Green Tribunal is a statutory body set up in 2010 under the National Green Tribunal Act, with the objective of giving relief and compensation for environmental damage. It is guided by principles of natural justice and is not bound by the Code of Civil Procedure, and its decisions can be executed as a decree of a civil court. Appeals can be filed in the Supreme Court within 90 days.",
+    "facts": [
+     "The NGT is a statutory body established in 2010 under the National Green Tribunal Act (2010).",
+     "Objective: relief and compensation for environmental damage, polluter pays principle, and sustainable development.",
+     "India is the 3rd country after Australia and New Zealand to set up a specialised environmental tribunal.",
+     "The Chairperson is a retired Supreme Court judge or High Court Chief Justice, appointed by the Central Government in consultation with the Chief Justice of India.",
+     "Principal place of sitting is New Delhi, with regional benches at Kolkata, Bhopal, Pune and Chennai.",
+     "The NGT is mandated to dispose of appeals within 6 months of their filing.",
+     "Appeals can be filed in the Supreme Court within 90 days.",
+     "The NGT is guided by principles of natural justice and is not bound by the Code of Civil Procedure, 1908.",
+     "The NGT excludes the Wildlife Protection Act, 1972 and the Forest Rights Act, 2006 from its jurisdiction.",
+     "NGT decisions are executable as a decree of a civil court."
+    ],
+    "keywords": ["NGT", "Polluter pays", "Sustainable development", "Natural justice", "Regional benches", "Appeal to Supreme Court"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Tribunals Reforms Bill 2026: overview",
+   "root": {
+    "label": "Tribunals Reforms Bill 2026",
+    "children": [
+     {"label": "Why in news", "children": [
+      {"label": "Lok Sabha passed the Bill"},
+      {"label": "Replaces Tribunals Reforms Act 2021"}
+     ]},
+     {"label": "Courts vs tribunals", "children": [
+      {"label": "Courts: judges independent in tenure"},
+      {"label": "Tribunals: Executive controls member tenure"}
+     ]},
+     {"label": "Constitutional basis", "children": [
+      {"label": "42nd Amendment, 1976"},
+      {"label": "Articles 323A and 323B"},
+      {"label": "L. Chandra Kumar (1997): judicial review"}
+     ]},
+     {"label": "National Tribunals Commission", "children": [
+      {"label": "Common framework for 16 bodies"},
+      {"label": "Chair, 2 judicial, 2 technical members"},
+      {"label": "Caps: Chair 70, Members 67"}
+     ]},
+     {"label": "National Green Tribunal", "children": [
+      {"label": "Set up in 2010"},
+      {"label": "Relief for environmental damage"},
+      {"label": "Appeals to SC within 90 days"}
+     ]},
+     {"label": "History", "children": [
+      {"label": "ITAT 1941: first tribunal in India"},
+      {"label": "Civil Services Tribunals recommended"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Courts vs tribunals",
+   "root": {
+    "label": "Courts vs Tribunals",
+    "children": [
+     {"label": "Ordinary courts", "children": [
+      {"label": "Judges independent in tenure"},
+      {"label": "Presiding officer trained in law"},
+      {"label": "Impartiality is crucial"}
+     ]},
+     {"label": "Administrative tribunals", "children": [
+      {"label": "Created by statute"},
+      {"label": "Members' tenure controlled by Executive"},
+      {"label": "Members may be experts, not lawyers"},
+      {"label": "May be party to a dispute it decides"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Constitutional framework",
+   "root": {
+    "label": "Constitutional Framework",
+    "children": [
+     {"label": "Part XIV-A (42nd Amendment, 1976)", "children": [
+      {"label": "Article 323A: Parliament alone"},
+      {"label": "Article 323B: Parliament or State legislatures"}
+     ]},
+     {"label": "L. Chandra Kumar (1997)", "children": [
+      {"label": "Judicial review is Basic Structure"}
+     ]},
+     {"label": "Tribunal decisions", "children": [
+      {"label": "Subject to High Court scrutiny"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Bill and National Tribunals Commission",
+   "root": {
+    "label": "Bill and NTC",
+    "children": [
+     {"label": "Bill features", "children": [
+      {"label": "Repeals Tribunals Reforms Act 2021"},
+      {"label": "Re-enacts struck-down provisions"},
+      {"label": "Follows SC directions on independence"}
+     ]},
+     {"label": "NTC functions", "children": [
+      {"label": "Selects chairpersons and members"},
+      {"label": "Reviews member performance"},
+      {"label": "Oversees complaints and inquiries"},
+      {"label": "Maintains national data grid"}
+     ]},
+     {"label": "Composition and tenure", "children": [
+      {"label": "Chair: SC judge or HC Chief Justice"},
+      {"label": "2 judicial and 2 technical members"},
+      {"label": "Caps: Chair 70, Members 67"},
+      {"label": "Maximum five-year term"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "National Green Tribunal",
+   "root": {
+    "label": "National Green Tribunal",
+    "children": [
+     {"label": "Objective", "children": [
+      {"label": "Relief and compensation"},
+      {"label": "Polluter pays"},
+      {"label": "Sustainable development"}
+     ]},
+     {"label": "Set-up", "children": [
+      {"label": "Statutory body, 2010"},
+      {"label": "Principal seat: New Delhi"},
+      {"label": "Regional benches: Kolkata, Bhopal, Pune, Chennai"}
+     ]},
+     {"label": "Procedure", "children": [
+      {"label": "Not bound by CPC"},
+      {"label": "Appeals disposed within 6 months"},
+      {"label": "SC appeal within 90 days"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Articles 323A and 323B",
+   "mnemonic": "Alone for A, Choice for B",
+   "decode": [
+    {"key": "A (Article 323A)", "meaning": "Parliament alone can establish Administrative Tribunals"},
+    {"key": "B (Article 323B)", "meaning": "Parliament or State Legislatures can establish tribunals for specified matters"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "NTC composition",
+   "mnemonic": "One Chair, Two Judges, Two Techs",
+   "decode": [
+    {"key": "One Chair", "meaning": "One Chairperson, a Supreme Court Judge or High Court Chief Justice"},
+    {"key": "Two Judges", "meaning": "Two Judicial Members, Chief Justices or Judges of a High Court"},
+    {"key": "Two Techs", "meaning": "Two Technical Members with at least 25 years of relevant experience"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "NGT objective",
+   "mnemonic": "PRS: Pay, Relieve, Sustain",
+   "decode": [
+    {"key": "P", "meaning": "Polluter pays principle"},
+    {"key": "R", "meaning": "Relief and compensation for environmental damage"},
+    {"key": "S", "meaning": "Sustainable development"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 2,
+   "title": "National Tribunals Commission: MCQ practice",
+   "passage": "The Lok Sabha has passed the Tribunals Reforms Bill 2026, which proposes to establish a National Tribunals Commission for unified governance of tribunals. The Bill is intended to replace the Tribunals Reforms Act, 2021, and to restructure the legal framework that governs tribunal appointments and service conditions. It also re-enacts provisions of the 2021 law that were struck down, and it is drafted in line with the Supreme Court's directions on judicial independence and separation of powers. The Supreme Court has repeatedly examined provisions that gave the Executive excessive control over tribunals, including in Madras Bar Association v. Union of India. The proposed Commission would provide a common institutional framework for all tribunals covered under the Bill. Its major functions include selecting tribunal chairpersons and members, reviewing the performance of members, overseeing complaints and disciplinary inquiries, and providing administrative supervision. It will also maintain a national tribunals data grid. For selection, a Search-cum-Selection Committee will recommend candidates for each vacancy. The Commission framework applies to a wide range of bodies, from central and state administrative tribunals to specialised bodies such as the Armed Forces Tribunal and the National Consumer Disputes Redressal Commission. The Central Government will frame the rules governing service conditions. Reappointment for another term is considered on the basis of past performance.",
+   "questions": [
+    {
+     "q": "What minimum relevant experience must the Technical Members of the National Tribunals Commission have?",
+     "options": ["15 years", "20 years", "25 years", "30 years"],
+     "answer": 2,
+     "explanation": "The Bill requires Technical Members to have at least 25 years of relevant experience."
+    },
+    {
+     "q": "Within what time must the Central Government complete the appointment process after receiving an NTC recommendation?",
+     "options": ["1 month", "3 months", "6 months", "1 year"],
+     "answer": 1,
+     "explanation": "The Central Government must complete the appointment process within 3 months of receiving the recommendation."
+    },
+    {
+     "q": "Assertion (A): The Search-cum-Selection Committee of the NTC recommends candidates for each vacancy.\nReason (R): The Central Government must complete the appointment process within three months of receiving the recommendation.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "Both statements are true, but the three-month appointment deadline does not explain why the committee recommends candidates for each vacancy."
+    },
+    {
+     "q": "Match List I with List II:\nI. Age cap for NTC Chairpersons   ->   A. 70 years\nII. Age cap for NTC Members   ->   B. 67 years\nIII. Maximum term for NTC Chairpersons and Members   ->   C. Five years\nIV. Tribunals and authorities covered by the framework   ->   D. 16\nChoose the correct match.",
+     "options": ["I-B, II-A, III-C, IV-D", "I-C, II-B, III-A, IV-D", "I-A, II-C, III-D, IV-B", "I-A, II-B, III-C, IV-D"],
+     "answer": 3,
+     "explanation": "Chairpersons are capped at 70 years, Members at 67 years, the maximum term is five years, and the framework covers 16 tribunals and authorities."
+    },
+    {
+     "q": "Consider the following statements about the National Tribunals Commission:\nI. The Judicial Members must be Chief Justices or Judges of a High Court.\nII. The Chairperson must be a Judge of the Supreme Court or a Chief Justice of a High Court.\nIII. Reappointment of members is decided by the Central Government alone, without consulting the Tribunal Chairperson.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "Reappointment is considered in consultation with the concerned Tribunal Chairperson, which makes statement III incorrect."
+    },
+    {
+     "q": "Consider the following statements about the National Tribunals Commission framework:\nI. Chairpersons are capped at 70 years of age.\nII. Members are capped at 70 years of age.\nIII. Terms are capped at five years, or the age limit if earlier.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only three", "Only two", "None"],
+     "answer": 2,
+     "explanation": "Chairpersons are capped at 70 years, Members at 67 years, and the maximum term is five years, whichever is earlier, so statements I and III are correct."
+    },
+    {
+     "q": "Which of the following bodies is included among the tribunals covered under the proposed framework?",
+     "options": ["Supreme Court of India", "National Green Tribunal", "High Court of Delhi", "Election Commission of India"],
+     "answer": 1,
+     "explanation": "The list of 16 covered tribunals and authorities includes the National Green Tribunal."
+    },
+    {
+     "q": "How many Judicial Members does the National Tribunals Commission have, apart from the Chairperson?",
+     "options": ["1", "3", "4", "2"],
+     "answer": 3,
+     "explanation": "The composition includes 2 Judicial Members and 2 Technical Members in addition to the Chairperson."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "National Green Tribunal: typed answer practice",
+   "passage": "The National Green Tribunal is a statutory body created under an Act of Parliament to deal with environmental disputes. Its objective is to provide relief and compensation for environmental damage, and its work rests on the polluter pays principle and the goal of sustainable development. India is one of the few countries to have set up a specialised environmental tribunal, and the NGT is the body through which such cases are heard. The Tribunal is headed by a Chairperson who is either a retired Supreme Court judge or a former Chief Justice of a High Court. Its members are of two kinds, judicial members and expert members, and the Central Government decides their exact number. The Tribunal has a principal place of sitting and also holds sittings at regional benches in several other cities. The NGT hears civil cases arising under a set of environmental laws, and it has original jurisdiction over civil cases with substantial environmental questions. It is guided by the principles of natural justice and is not bound by the Code of Civil Procedure. Its decisions can be executed as a decree of a civil court. Appeals against its orders can be taken to the Supreme Court, and the Tribunal must dispose of appeals within a fixed period from the date they are filed. Certain statutes, including a wildlife law and a forest rights law, are excluded from its jurisdiction.",
+   "questions": [
+    {
+     "q": "In which year was the statutory body National Green Tribunal established under the NGT Act? (year)",
+     "answer": "2010",
+     "accept": ["two thousand ten"],
+     "explanation": "The NGT is a statutory body established in 2010 under the National Green Tribunal Act, 2010."
+    },
+    {
+     "q": "What is the principal place of sitting of the National Green Tribunal? (city)",
+     "answer": "New Delhi",
+     "accept": ["Delhi", "NewDelhi"],
+     "explanation": "The NGT's principal place of sitting is New Delhi, with regional benches at Kolkata, Bhopal, Pune and Chennai."
+    },
+    {
+     "q": "How many regional benches does the National Green Tribunal have, apart from its principal place of sitting? (number)",
+     "answer": "4",
+     "accept": ["four"],
+     "explanation": "The regional benches are at Kolkata, Bhopal, Pune and Chennai, which makes four."
+    },
+    {
+     "q": "Within how many months must the NGT dispose of appeals from the date of their filing? (in months)",
+     "answer": "6",
+     "accept": ["six"],
+     "explanation": "The NGT is mandated to dispose of appeals within 6 months of their filing."
+    },
+    {
+     "q": "Within how many days can an appeal be filed against an NGT decision in the Supreme Court? (in days)",
+     "answer": "90",
+     "accept": ["ninety"],
+     "explanation": "Appeals can be filed in the Supreme Court within 90 days."
+    },
+    {
+     "q": "In which year was the Forest Rights Act enacted, the law that the NGT excludes from its jurisdiction? (year)",
+     "answer": "2006",
+     "accept": ["AD 2006"],
+     "explanation": "The NGT excludes the Wildlife Protection Act, 1972 and the Forest Rights Act, 2006 from its jurisdiction."
+    },
+    {
+     "q": "The Central Government appoints the NGT Chairperson in consultation with which authority? (name the authority)",
+     "answer": "Chief Justice of India",
+     "accept": ["CJI", "Chief Justice of India (CJI)"],
+     "explanation": "The NGT Chairperson is appointed by the Central Government in consultation with the Chief Justice of India."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 38, "what": "Number of candidates the NTC Search-cum-Selection Committee recommends per vacancy, and names on the waiting list, is garbled (OCR shows a missing count before 'Candidate' and '2 Name per Vacancy' in the sidebar). Not used."},
+  {"page": 38, "what": "Sidebar list of struck-down provisions of the 2021 Act (50-year minimum age, four-year tenure) is garbled; the mapping of items to provisions is unclear. Not used."},
+  {"page": 38, "what": "Heading above the list of grounds (Insolvency, Conviction for Moral Turpitude, Physical or Mental Incapacity, Abuse of Position, Conflict of Interest, Incompetence) is unreadable, so the purpose of the list is not confirmed. Not used."},
+  {"page": 39, "what": "Names of the environmental laws under which the NGT hears civil cases ('7 laws') are partly garbled; only some names are legible. Not used."},
+  {"page": 39, "what": "Powers table listing the Water, Air, Public Liability Insurance and Environment Acts is partly garbled. Not used."},
+  {"page": 40, "what": "Flowchart on the Swaran Singh Committee and 42nd Amendment recommendations is garbled; the mapping of tribunals to each recommendation is unclear. Not used."},
+  {"page": 40, "what": "Box on the Tribunals Reforms Act 2021 (number of tribunals merged, 'nine tribunals' reading) and the SAT, APTEL and Finance Act labels are garbled. Not used."}
+ ]
+}

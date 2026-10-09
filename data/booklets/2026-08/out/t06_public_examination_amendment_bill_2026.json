@@ -1,0 +1,402 @@
+{
+ "topic": {
+  "title": "Public Examination (Prevention of Unfair Means) Amendment Bill, 2026",
+  "chapter_title": "Polity & Governance",
+  "subtopics": [
+   {
+    "title": "NEET-UG 2024 leak and the 2024 Act",
+    "summary": "The 2026 Amendment follows the NEET-UG 2024 paper leak controversy, in which alleged leak networks were reported in Patna (Bihar) and Hazaribagh (Jharkhand). Investigations and Supreme Court monitoring exposed organised cheating syndicates. Parliament responded by enacting the Public Examinations (Prevention of Unfair Means) Act, 2024, which the text describes as India's first dedicated central legislation on this issue.",
+    "facts": [
+     "NEET-UG 2024 paper leak: alleged leak networks in Patna (Bihar) and Hazaribagh (Jharkhand)",
+     "67 candidates secured full marks, aided by disputed grace marks",
+     "The full-marks outcome triggered nationwide protests and judicial scrutiny",
+     "CBI investigation and Supreme Court monitoring exposed organised cheating syndicates",
+     "Public Examinations (Prevention of Unfair Means) Act, 2024 was enacted in response",
+     "The Act is India's first dedicated central legislation on paper leaks, organised cheating and exam-related fraud",
+     "Act covers exams by UPSC, SSC, Railway Recruitment Boards, National Testing Agency and Institute of Banking Personnel Selection",
+     "Later controversy intensified demands for stronger deterrence and faster legal proceedings"
+    ],
+    "keywords": ["NEET-UG 2024", "Patna", "Hazaribagh", "CBI", "organised cheating", "2024 Act"]
+   },
+   {
+    "title": "Harsher punishments under the 2026 Amendment",
+    "summary": "The 2026 Amendment revises penalties across four categories: individual offences, service providers, organised examination crime and organised crimes. Individual offences move from 3-5 years to 5-10 years, and the service-provider ban rises from 4 years to 8 years. Organised examination crime and organised crimes also get revised minimum terms and fines.",
+    "facts": [
+     "Individual offences: 3-5 years earlier, 5-10 years under the amendment",
+     "Individual offences: fine up to ₹50 lakh under the amendment",
+     "Service providers: ban raised from 4 years to 8 years",
+     "Organised examination crime: at least 3 years and ₹1 crore fine earlier",
+     "Organised examination crime: at least 5 years and ₹5 crore fine under the amendment",
+     "Organised crimes: at least 7 years and ₹10 crore fine under the amendment",
+     "The booklet table compares earlier and amended provisions for all four categories"
+    ],
+    "keywords": ["individual offences", "service providers", "organised examination crime", "organised crimes", "deterrence"]
+   },
+   {
+    "title": "Speedy trial: Fast-Track Courts and timelines",
+    "summary": "The amendment gives statutory backing to Fast-Track Courts for offences under the Act and sets a combined timeline for investigation and trial. Appeals before High Courts are heard by a two-judge bench and disposed of within a fixed period. Supreme Court precedents treat speedy trial as a fundamental right and recognise that no fixed time limit can be set for all criminal trials.",
+    "facts": [
+     "Statutory backing for Fast-Track Courts to try offences under the Act",
+     "Initial Fast-Track Courts announced in 4 High Courts where NEET-related cases are pending",
+     "11th Finance Commission (2000-2005) first recommended Fast Track Courts in 2000",
+     "Combined timeline: investigation within 2 months and trial within 3 months, 5 months in all",
+     "Appeals before High Courts heard by a 2-Judge Division Bench and disposed of within 3 months",
+     "Aim: examination fraud cases should not remain pending for prolonged periods",
+     "Hussainara Khatoon v. State of Bihar (1979): speedy trial recognised as a Fundamental Right under Article 21",
+     "P. Ramachandra Rao v. State of Karnataka (2002): no fixed time limit can be prescribed for concluding criminal trials",
+     "Fast-Track Special Courts set up in October 2019 under a Centrally Sponsored Scheme for rape and POCSO Act cases"
+    ],
+    "keywords": ["Fast-Track Courts", "combined timeline", "Hussainara Khatoon", "Ramachandra Rao", "Article 21"]
+   },
+   {
+    "title": "Special Task Force and high-powered task force",
+    "summary": "The Union Government is empowered to set up a Special Task Force for investigating offences under the Act, which is particularly relevant to inter-state paper-leak networks. The government has also constituted a high-powered task force under Nandan Nilekani's chairmanship to drive strategic policy reforms.",
+    "facts": [
+     "Union Government empowered to establish a Special Task Force for investigating offences under the Act",
+     "The Special Task Force is particularly relevant to inter-state paper-leak networks and organised criminal syndicates",
+     "High-powered Task Force constituted under Nandan Nilekani's chairmanship",
+     "Nandan Nilekani is Co-Founder of Infosys",
+     "Nandan Nilekani is Founding Chairman of the Unique Identification Authority of India",
+     "Mandate of the task force: drive strategic policy reforms"
+    ],
+    "keywords": ["Special Task Force", "Nandan Nilekani", "Infosys", "Unique Identification Authority of India", "inter-state networks"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Amendment at a glance",
+   "root": {
+    "label": "Public Exam (Unfair Means) Amendment 2026",
+    "children": [
+     {
+      "label": "NEET-UG 2024 leak",
+      "children": [
+       {"label": "Patna and Hazaribagh leak networks"},
+       {"label": "67 full marks, disputed grace marks"},
+       {"label": "CBI and Supreme Court exposed syndicates"}
+      ]
+     },
+     {
+      "label": "2024 Act",
+      "children": [
+       {"label": "India's first dedicated central law"},
+       {"label": "Covers UPSC, SSC, Railway Recruitment Boards, NTA"}
+      ]
+     },
+     {
+      "label": "Harsher punishments",
+      "children": [
+       {"label": "Individual: 5-10 years, fine up to ₹50 lakh"},
+       {"label": "Service providers: 8-year ban"},
+       {"label": "Organised exam crime: 5 years, ₹5 crore"},
+       {"label": "Organised crimes: 7 years, ₹10 crore"}
+      ]
+     },
+     {
+      "label": "Speedy justice",
+      "children": [
+       {"label": "Statutory backing for Fast-Track Courts"},
+       {"label": "Combined timeline: 2 + 3 months"},
+       {"label": "High Court appeals: disposed within 3 months"}
+      ]
+     },
+     {
+      "label": "Enforcement and reform",
+      "children": [
+       {"label": "Special Task Force set up by Union Government"},
+       {"label": "High-powered task force under Nilekani"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "From NEET-UG 2024 to the 2024 Act",
+   "root": {
+    "label": "NEET-UG 2024 to 2024 Act",
+    "children": [
+     {
+      "label": "Leak and probe",
+      "children": [
+       {"label": "Patna (Bihar) and Hazaribagh (Jharkhand)"},
+       {"label": "CBI investigation, Supreme Court monitoring"}
+      ]
+     },
+     {
+      "label": "Controversy",
+      "children": [
+       {"label": "67 candidates with full marks"},
+       {"label": "Disputed grace marks"},
+       {"label": "Nationwide protests, judicial scrutiny"}
+      ]
+     },
+     {
+      "label": "Response",
+      "children": [
+       {"label": "Public Examinations Act, 2024"},
+       {"label": "First dedicated central legislation"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Penalties by category",
+   "root": {
+    "label": "Harsher punishments, 2026",
+    "children": [
+     {
+      "label": "Individual offences",
+      "children": [
+       {"label": "3-5 years earlier"},
+       {"label": "5-10 years now"},
+       {"label": "Fine up to ₹50 lakh"}
+      ]
+     },
+     {
+      "label": "Service providers",
+      "children": [
+       {"label": "4-year ban earlier"},
+       {"label": "8-year ban now"}
+      ]
+     },
+     {
+      "label": "Organised examination crime",
+      "children": [
+       {"label": "3 years, ₹1 crore earlier"},
+       {"label": "5 years, ₹5 crore now"}
+      ]
+     },
+     {
+      "label": "Organised crimes",
+      "children": [
+       {"label": "At least 7 years"},
+       {"label": "Fine of ₹10 crore"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Speedy trial routes and timelines",
+   "root": {
+    "label": "Speedy trial and timelines",
+    "children": [
+     {
+      "label": "Fast-Track Courts",
+      "children": [
+       {"label": "Statutory backing under the Act"},
+       {"label": "Announced in 4 High Courts"},
+       {"label": "11th Finance Commission recommended in 2000"}
+      ]
+     },
+     {
+      "label": "Timelines",
+      "children": [
+       {"label": "Investigation: 2 months"},
+       {"label": "Trial: 3 months"},
+       {"label": "Combined: 5 months"}
+      ]
+     },
+     {
+      "label": "Appeals",
+      "children": [
+       {"label": "Heard by 2-Judge Division Bench"},
+       {"label": "Disposed within 3 months"}
+      ]
+     },
+     {
+      "label": "Precedents",
+      "children": [
+       {"label": "Hussainara Khatoon, 1979"},
+       {"label": "P. Ramachandra Rao, 2002"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Task forces",
+   "root": {
+    "label": "Enforcement and reform task forces",
+    "children": [
+     {
+      "label": "Special Task Force",
+      "children": [
+       {"label": "Set up by Union Government"},
+       {"label": "Relevant to inter-state paper-leak networks"}
+      ]
+     },
+     {
+      "label": "High-powered task force",
+      "children": [
+       {"label": "Chaired by Nandan Nilekani"},
+       {"label": "Mandate: strategic policy reforms"},
+       {"label": "Nilekani: Infosys co-founder"}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Five-month timeline",
+   "mnemonic": "Two to probe, three to try: five months in all",
+   "decode": [
+    {"key": "Two", "meaning": "Investigation within 2 months"},
+    {"key": "Three", "meaning": "Trial within 3 months"},
+    {"key": "Five", "meaning": "Combined timeline of 5 months"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Four penalty categories",
+   "mnemonic": "Individuals Serve Exam Orders",
+   "decode": [
+    {"key": "Individuals", "meaning": "Individual offences: 5-10 years, fine up to ₹50 lakh"},
+    {"key": "Serve", "meaning": "Service providers: 8-year ban"},
+    {"key": "Exam", "meaning": "Organised examination crime: at least 5 years, ₹5 crore fine"},
+    {"key": "Orders", "meaning": "Organised crimes: at least 7 years, ₹10 crore fine"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Fast-track history",
+   "mnemonic": "Eleven-in-two-thousand, four High Courts first",
+   "decode": [
+    {"key": "Eleven-in-two-thousand", "meaning": "11th Finance Commission first recommended Fast Track Courts in 2000"},
+    {"key": "Four High Courts", "meaning": "Initial Fast-Track Courts announced in 4 High Courts for pending NEET-related cases"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "Amendment and enforcement MCQs",
+   "passage": "Parliament has passed the Public Examination (Prevention of Unfair Means) Amendment Bill, 2026. The amendment follows the controversy over the NEET-UG 2024 paper leak, in which alleged leak networks were reported to be operating in Patna (Bihar) and Hazaribagh (Jharkhand). Concern grew after 67 candidates secured full marks, aided by disputed grace marks, which triggered nationwide protests and judicial scrutiny. Earlier, Parliament had enacted the Public Examinations (Prevention of Unfair Means) Act, 2024. It is India's first dedicated central legislation on question-paper leaks, organised cheating and examination-related fraud. The Act covers major examinations conducted by bodies such as the UPSC, SSC, Railway Recruitment Boards, the National Testing Agency and the Institute of Banking Personnel Selection. The 2026 Amendment is aimed at stronger deterrence. It revises the penalties under four categories: individual offences, service providers, organised examination crime and organised crimes. The penalty for each category differs, so the consequence depends on the category of offence. Demands for stronger deterrence and faster legal proceedings also grew as the controversy continued. The amendment also aims to ensure that examination fraud cases do not remain pending for prolonged periods. It introduces time-bound investigation and trial for offences under the Act. The revised penalties apply to offences under the Act, which covers the examinations listed above.",
+   "questions": [
+    {
+     "q": "Under the 2026 Amendment, what is the revised punishment for individual offences under the Act?",
+     "options": ["3-5 years + fine up to ₹50 lakh", "5-10 years + fine up to ₹50 lakh", "1-2 years + fine up to ₹5 lakh", "Life imprisonment"],
+     "answer": 1,
+     "explanation": "The amendment raises the term for individual offences from 3-5 years to 5-10 years, with a fine up to ₹50 lakh."
+    },
+    {
+     "q": "Match List I with List II:\nI. Organised Examination Crime   ->   A. At least 7 years + ₹10 crore fine\nII. Service Providers   ->   B. 5-10 years + fine up to ₹50 lakh\nIII. Individual Offences   ->   C. 8-year ban\nIV. Organised Crimes   ->   D. At least 5 years + ₹5 crore fine",
+     "options": ["I-D, II-A, III-B, IV-C", "I-B, II-D, III-A, IV-C", "I-A, II-B, III-C, IV-D", "I-D, II-C, III-B, IV-A"],
+     "answer": 3,
+     "explanation": "Organised examination crime carries at least 5 years and a ₹5 crore fine, service providers face an 8-year ban, individual offences carry 5-10 years, and organised crimes carry at least 7 years and a ₹10 crore fine."
+    },
+    {
+     "q": "Consider the following statements:\nI. The Public Examinations (Prevention of Unfair Means) Act, 2024 is India's first dedicated central legislation on question-paper leaks and exam-related fraud.\nII. The 2026 Amendment gives statutory backing to Fast-Track Courts for trying offences under the Act.\nIII. Under the amended Act, appeals before High Courts are heard by a single judge within one month.\nWhich of the above statements is/are correct?",
+     "options": ["I only", "II and III only", "I and II only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statements I and II match the text, while statement III contradicts the two-judge Division Bench hearing appeals within 3 months."
+    },
+    {
+     "q": "Consider the following statements:\nI. Under the 2026 Amendment, individual offences attract 5-10 years of punishment.\nII. The 11th Finance Commission first recommended Fast Track Courts in 2010.\nIII. Appeals before High Courts under the amended Act are disposed of within 6 months.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 0,
+     "explanation": "Only statement I is correct: the Finance Commission recommendation was in 2000, and the appeal limit is 3 months."
+    },
+    {
+     "q": "Investigations by which agency, with Supreme Court monitoring, exposed organised cheating syndicates in the NEET-UG 2024 case?",
+     "options": ["National Investigation Agency", "Central Bureau of Investigation", "Enforcement Directorate", "Intelligence Bureau"],
+     "answer": 1,
+     "explanation": "The text states that the Central Bureau of Investigation investigated the case, with Supreme Court monitoring, and exposed organised cheating syndicates."
+    },
+    {
+     "q": "Statement I: Under the 2026 Amendment, investigation and trial together are to follow a combined 5-month timeline.\nStatement II: Under the 2026 Amendment, the combined timeline for investigation and trial is 6 months.\nWhich of the statements is/are correct?",
+     "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+     "answer": 0,
+     "explanation": "The text gives a combined 5-month timeline (2 months for investigation and 3 months for trial), so statement II is wrong."
+    },
+    {
+     "q": "Which Finance Commission first recommended Fast Track Courts in 2000 to expedite the disposal of long-pending criminal cases?",
+     "options": ["9th Finance Commission", "10th Finance Commission", "11th Finance Commission", "12th Finance Commission"],
+     "answer": 2,
+     "explanation": "The 11th Finance Commission (2000-2005) first recommended Fast Track Courts in 2000."
+    },
+    {
+     "q": "Assertion (A): Under the amended Act, appeals before High Courts are to be disposed of within 3 months.\nReason (R): Appeals before High Courts are heard by a 2-Judge Division Bench under the amended Act.\nIn the light of the above statements, choose the correct answer.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 1,
+     "explanation": "Both statements are in the text, but the bench composition does not explain the 3-month disposal limit."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "Speedy trial TITA",
+   "passage": "Long pendency of criminal cases is a concern that the amendment addresses for examination offences. Fast-Track Courts are meant to speed up trials of cases that have remained pending for long periods. The amended law now gives them statutory backing to try offences under the Act. The Supreme Court has treated speedy trial as a fundamental right under Article 21, and it has held that access to justice is a fundamental right under Articles 14 and 21. It has also held that no fixed time limit can be prescribed for concluding criminal trials, as that is neither feasible nor judicially permissible. The government has also set up a high-powered task force for strategic policy reforms. Initial Fast-Track Courts have been announced in High Courts where NEET-related cases are pending. Fast-Track Special Courts were set up under a Centrally Sponsored Scheme for rape and offences under the POCSO Act. The amendment also aims to ensure that examination fraud cases do not remain pending for prolonged periods. It introduces time-bound investigation and trial, and appeals before High Courts are to be heard by a two-judge Division Bench. Special Task Force powers under the Act are particularly relevant to inter-state paper-leak networks and organised criminal syndicates. The amended provisions are set out alongside the earlier law in a comparison table.",
+   "questions": [
+    {
+     "q": "In which year did the 11th Finance Commission first recommend Fast Track Courts to expedite the disposal of long-pending criminal cases?",
+     "answer": "2000",
+     "accept": ["Two thousand", "Year 2000"],
+     "explanation": "The 11th Finance Commission (2000-2005) first recommended Fast Track Courts in 2000."
+    },
+    {
+     "q": "In how many High Courts were initial Fast-Track Courts announced for pending NEET-related cases? (in number)",
+     "answer": "4",
+     "accept": ["four"],
+     "explanation": "Initial Fast-Track Courts were announced in 4 High Courts where NEET-related cases are pending."
+    },
+    {
+     "q": "What is the combined timeline for investigation and trial under the amendment? (in months)",
+     "answer": "5",
+     "accept": ["five"],
+     "explanation": "The amendment sets a combined timeline of 5 months: investigation within 2 months and trial within 3 months."
+    },
+    {
+     "q": "Speedy trial, recognised as a Fundamental Right under Article 21, traces back to which 1979 case? Give the petitioner's name.",
+     "answer": "Hussainara Khatoon",
+     "accept": ["Hussainara Khatoon v. State of Bihar", "Hussainara Khatoon vs State of Bihar", "Hussainara Khatoon v State of Bihar"],
+     "explanation": "The Supreme Court recognised speedy trial as a Fundamental Right under Article 21 in Hussainara Khatoon vs State of Bihar (1979)."
+    },
+    {
+     "q": "Which Supreme Court judgment of 2002 held that no fixed time limit can be prescribed for concluding criminal trials? Give the first-named party's name.",
+     "answer": "P. Ramachandra Rao",
+     "accept": ["P Ramachandra Rao", "Ramachandra Rao"],
+     "explanation": "P. Ramachandra Rao v. State of Karnataka (2002) held that no fixed time limit can be prescribed for concluding criminal trials."
+    },
+    {
+     "q": "In which year were Fast-Track Special Courts set up under a Centrally Sponsored Scheme for rape and POCSO Act offences?",
+     "answer": "2019",
+     "accept": ["October 2019", "Oct 2019"],
+     "explanation": "Fast-Track Special Courts were set up under a Centrally Sponsored Scheme in October 2019."
+    },
+    {
+     "q": "Within how many months must appeals before High Courts under the amended Act be disposed of? (in months)",
+     "answer": "3",
+     "accept": ["three", "3 months"],
+     "explanation": "Appeals before High Courts are to be heard by a 2-Judge Division Bench and disposed of within 3 months."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 29, "what": "Earlier fine for individual offences reads '710 Lakh' with the rupee sign and digit garbled; the earlier amount was not used"},
+  {"page": 29, "what": "Service provider fine amounts (earlier '21 Crore', amended '75 Crore') are garbled and conflict with the page 31 practice option '%5 crore'; no fine amounts used for service providers"},
+  {"page": 29, "what": "Earlier fine for organised crimes reads '21 Crore' and may be garbled; not used"},
+  {"page": 29, "what": "Text says 'NEET-UG Paper Leak Controversy in 2026' while the background describes NEET-UG 2024; the year was not used"},
+  {"page": 30, "what": "Chairman's name appears once as 'Nandan Nitekani'; 'Nandan Nilekani' was used from its clean occurrences"},
+  {"page": 30, "what": "Side-panel text on the Nilekani-led task force is jumbled ('NTA exam reforms', member names); only the main-text mandate of strategic policy reforms was used"}
+ ]
+}

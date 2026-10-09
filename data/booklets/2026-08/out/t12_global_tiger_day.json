@@ -1,0 +1,351 @@
+{
+ "topic": {
+  "title": "Global Tiger Day and Tiger Conservation",
+  "chapter_title": "Summits, Reports, Indices",
+  "subtopics": [
+   {
+    "title": "Global Tiger Day and the TX2 Goal",
+    "summary": "Global Tiger Day is observed every year on 29 July and traces its origin to the 2010 St. Petersburg Tiger Summit in Russia. Thirteen Tiger Range Countries, including India, adopted the St. Petersburg Declaration. Their shared TX2 goal was to double the global wild tiger population by 2022.",
+    "facts": [
+     "Observed annually on 29 July; the booklet credits IUCN with the observance",
+     "Established at the 2010 St. Petersburg Tiger Summit, Russia",
+     "13 Tiger Range Countries, including India, adopted the St. Petersburg Declaration",
+     "TX2 goal: double the global wild tiger population by 2022",
+     "TX2 was chosen as the initiative's motto",
+     "Global Tiger Recovery Programme was launched",
+     "2010: Global Tiger Day celebrated to bolster international tiger conservation efforts"
+    ],
+    "keywords": ["Global Tiger Day", "TX2", "St. Petersburg Declaration", "Tiger Range Countries", "IUCN", "29 July"]
+   },
+   {
+    "title": "Global Initiatives: IUCN, NTCA Eco-Tourism and IBCA",
+    "summary": "The IUCN Integrated Tiger Habitat Conservation Programme supports habitat restoration, anti-poaching measures and community-led coexistence across Asia. The NTCA Eco-Tourism Initiative provides an integrated platform for authentic safari and accommodation bookings. The International Big Cat Alliance, launched in 2023, is an India-led effort covering seven big cat species.",
+    "facts": [
+     "IUCN programme supports habitat restoration, anti-poaching and community-led coexistence",
+     "The IUCN programme covers Asia",
+     "NTCA Eco-Tourism Initiative is an integrated platform for bookings",
+     "The platform covers authentic safari and accommodation bookings",
+     "International Big Cat Alliance was launched in 2023",
+     "The International Big Cat Alliance is India-led",
+     "It covers seven big cat species: Tiger, Lion, Leopard, Snow Leopard, Cheetah, Jaguar, Puma",
+     "1st International Big Cat Alliance Summit was scheduled for June 2026 in New Delhi and is marked postponed"
+    ],
+    "keywords": ["IUCN", "Integrated Tiger Habitat Conservation Programme", "NTCA Eco-Tourism Initiative", "IBCA", "Big Cat Alliance", "coexistence"]
+   },
+   {
+    "title": "Indian Institutions and Conservation Milestones",
+    "summary": "The National Board for Wild Life is a statutory board under the Wild Life Protection Act, 1972, and works to promote conservation of wildlife and forests. Project Tiger, launched in 1973, is overseen by the National Tiger Conservation Authority, which conducts the tiger census along with the Wildlife Institute of India. The milestones run from the 1969 ban on export of wild cat skins to the 2023 launch of the International Big Cat Alliance.",
+    "facts": [
+     "National Board for Wild Life is a statutory board under the Wild Life Protection Act, 1972",
+     "Project Tiger was launched in 1973 to support preservation of tigers in India",
+     "Project Tiger is overseen by the National Tiger Conservation Authority",
+     "Tiger census estimates population through a 4-year census cycle",
+     "Census is conducted by NTCA and the Wildlife Institute of India",
+     "M-STrIPES (2010) is a software-based monitoring system for tiger reserves",
+     "1969: ban on export of all wild cat skins",
+     "1972: Wildlife Protection Act enacted",
+     "2006: amendment to the Wildlife (Protection) Act",
+     "2023: International Big Cat Alliance launched"
+    ],
+    "keywords": ["National Board for Wild Life", "Project Tiger", "NTCA", "Tiger census", "WII", "M-STrIPES", "Wild Life Protection Act"]
+   },
+   {
+    "title": "Tiger Reserves and Tiger Population in India",
+    "summary": "India has 58 Tiger Reserves, which are specially designated protected areas under Project Tiger and cover over 2.3 per cent of India's total land. Madhya Pradesh leads with the most reserves, and Corbett has the highest tiger abundance among them. India's tiger population was 3,682 in the 2022 figure, with Madhya Pradesh and Karnataka as the top states.",
+    "facts": [
+     "India has 58 Tiger Reserves",
+     "Tiger Reserves are specially designated protected areas under Project Tiger",
+     "Tiger Reserves constitute over 2.3% of India's total land",
+     "Madhya Pradesh leads with 9 reserves, followed by Maharashtra and Karnataka",
+     "Largest tiger reserve: Nagarjunsagar Srisailam",
+     "Smallest tiger reserve: Bor (Maharashtra)",
+     "Highest tiger abundance: Corbett (260), followed by Bandipur (150)",
+     "Top states by tiger population: Madhya Pradesh (785) and Karnataka (563)",
+     "India's tiger population was 3,682 in 2022",
+     "Tiger Reserves are notified by State Governments and governed by NTCA; boundary changes need NTCA recommendation and National Board approval"
+    ],
+    "keywords": ["Tiger Reserve", "Corbett", "Nagarjunsagar Srisailam", "Bor", "Madhya Pradesh", "3,682", "2.3%"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Global Tiger Day and tiger conservation",
+   "root": {
+    "label": "Global Tiger Day and conservation",
+    "children": [
+     {"label": "Global commitments", "children": [
+      {"label": "2010 St. Petersburg Declaration"},
+      {"label": "13 Tiger Range Countries incl. India"},
+      {"label": "TX2: double wild tigers by 2022"}
+     ]},
+     {"label": "Global initiatives", "children": [
+      {"label": "IUCN habitat and anti-poaching programme"},
+      {"label": "NTCA eco-tourism booking platform"},
+      {"label": "IBCA 2023: seven big cats"}
+     ]},
+     {"label": "Indian institutions", "children": [
+      {"label": "National Board for Wild Life (WPA 1972)"},
+      {"label": "Project Tiger, 1973"},
+      {"label": "NTCA oversees Project Tiger"}
+     ]},
+     {"label": "Tiger reserves", "children": [
+      {"label": "58 reserves in India"},
+      {"label": "Madhya Pradesh leads with 9"},
+      {"label": "Largest: Nagarjunsagar Srisailam"}
+     ]},
+     {"label": "Population", "children": [
+      {"label": "3,682 tigers in 2022"},
+      {"label": "Census on a 4-year cycle"},
+      {"label": "Madhya Pradesh 785; Karnataka 563"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Global Tiger Day and TX2",
+   "root": {
+    "label": "Global Tiger Day and TX2 goal",
+    "children": [
+     {"label": "Observed 29 July annually"},
+     {"label": "Established at 2010 St. Petersburg summit"},
+     {"label": "13 Tiger Range Countries incl. India"},
+     {"label": "TX2: double wild tigers by 2022"},
+     {"label": "Global Tiger Recovery Programme launched"}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Global initiatives",
+   "root": {
+    "label": "Global initiatives",
+    "children": [
+     {"label": "IUCN Integrated Tiger Habitat programme", "children": [
+      {"label": "Habitat restoration"},
+      {"label": "Anti-poaching measures"},
+      {"label": "Community-led coexistence across Asia"}
+     ]},
+     {"label": "NTCA Eco-Tourism Initiative", "children": [
+      {"label": "Integrated booking platform"},
+      {"label": "Safari and accommodation bookings"}
+     ]},
+     {"label": "International Big Cat Alliance (2023)", "children": [
+      {"label": "India-led"},
+      {"label": "Covers 7 big cat species"},
+      {"label": "1st summit (June 2026, New Delhi) postponed"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Indian institutions",
+   "root": {
+    "label": "Indian institutions",
+    "children": [
+     {"label": "National Board for Wild Life", "children": [
+      {"label": "Statutory board under WPA 1972"},
+      {"label": "Promotes wildlife and forest conservation"}
+     ]},
+     {"label": "Project Tiger", "children": [
+      {"label": "Launched 1973"},
+      {"label": "Overseen by NTCA"}
+     ]},
+     {"label": "Tiger census", "children": [
+      {"label": "4-year cycle"},
+      {"label": "Conducted by NTCA and WII"}
+     ]},
+     {"label": "M-STrIPES (2010)", "children": [
+      {"label": "Software-based monitoring"},
+      {"label": "Intensive Protection and Ecological Status"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Tiger reserves and population",
+   "root": {
+    "label": "Tiger reserves and population",
+    "children": [
+     {"label": "Reserves", "children": [
+      {"label": "58 in India"},
+      {"label": "Specially designated under Project Tiger"},
+      {"label": "Cover over 2.3% of land"}
+     ]},
+     {"label": "Size and rank", "children": [
+      {"label": "Largest: Nagarjunsagar Srisailam"},
+      {"label": "Smallest: Bor (Maharashtra)"}
+     ]},
+     {"label": "Tiger numbers", "children": [
+      {"label": "Highest abundance: Corbett (260)"},
+      {"label": "3,682 tigers in 2022"},
+      {"label": "Madhya Pradesh (785); Karnataka (563)"}
+     ]},
+     {"label": "Changes to boundaries", "children": [
+      {"label": "Needs NTCA recommendation"},
+      {"label": "Needs National Board approval"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Tiger conservation milestones",
+   "mnemonic": "Big Wildlife Projects Are Good, Indeed",
+   "decode": [
+    {"key": "B", "meaning": "1969: ban on export of all wild cat skins"},
+    {"key": "W", "meaning": "1972: Wildlife Protection Act enacted"},
+    {"key": "P", "meaning": "1973: Project Tiger launched"},
+    {"key": "A", "meaning": "2006: amendment to the Wildlife (Protection) Act"},
+    {"key": "G", "meaning": "2010: Global Tiger Day celebrated"},
+    {"key": "I", "meaning": "2023: International Big Cat Alliance launched"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Seven big cat species of the IBCA",
+   "mnemonic": "Tigers Like Lazy Snowy Cats, Just Playing",
+   "decode": [
+    {"key": "T", "meaning": "Tiger"},
+    {"key": "L", "meaning": "Lion"},
+    {"key": "L", "meaning": "Leopard"},
+    {"key": "S", "meaning": "Snow Leopard"},
+    {"key": "C", "meaning": "Cheetah"},
+    {"key": "J", "meaning": "Jaguar"},
+    {"key": "P", "meaning": "Puma"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Global Tiger Day MCQ set",
+   "passage": "Wild tigers live in a number of countries across Asia, and Global Tiger Day is an occasion to focus attention on their survival. Governments and conservation groups treat the animal as a shared responsibility, because a tiger that roams across borders cannot be protected by one country alone. The international effort is organised around the countries where wild tigers still live, which are called Tiger Range Countries. These nations meet in summits and sign common documents that describe their aims. The programmes described for this region cover habitat restoration, measures against poaching and cooperation with local communities who live close to forests. A central idea in recent observances is coexistence, meaning that people and tigers should be able to share the same landscape. The campaign also stresses that solutions must be scaled up so that they reach many forests, not only a few protected areas. In India, the tiger is the national animal, and the country has a legal framework that governs how tiger reserves are created and protected. Public awareness is therefore as important as government action, since many tiger habitats are shared with local communities. Together, these efforts show that the future of the tiger depends on policy, science and the daily choices of people who share its habitat.",
+   "questions": [
+    {
+     "q": "On which date is Global Tiger Day observed annually?",
+     "options": ["22 July", "5 August", "29 July", "15 September"],
+     "answer": 2,
+     "explanation": "The booklet states that Global Tiger Day is observed annually on 29 July."
+    },
+    {
+     "q": "Global Tiger Day was established at which summit?",
+     "options": ["2010 St. Petersburg Tiger Summit, Russia", "2005 Bangkok Wildlife Summit", "2015 Delhi Tiger Conference", "2019 Kathmandu Tiger Forum"],
+     "answer": 0,
+     "explanation": "The booklet says Global Tiger Day was established at the 2010 St. Petersburg Tiger Summit in Russia."
+    },
+    {
+     "q": "How many Tiger Range Countries adopted the St. Petersburg Declaration?",
+     "options": ["8", "10", "12", "13"],
+     "answer": 3,
+     "explanation": "The booklet says 13 Tiger Range Countries, including India, adopted the declaration."
+    },
+    {
+     "q": "Assertion (A): IUCN observes Global Tiger Day every year.\nReason (R): Global Tiger Day was established at the 2010 St. Petersburg Tiger Summit.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "Both statements appear in the booklet, but the 2010 summit origin does not explain why IUCN observes the day."
+    },
+    {
+     "q": "Match List I with List II:\nI. Target year of the TX2 goal   ->   D. 2022\nII. Year Global Tiger Day was celebrated to bolster international efforts   ->   B. 2010\nIII. International Big Cat Alliance launched   ->   A. 2023\nIV. Jim Corbett, first Tiger Reserve set up   ->   C. 1973",
+     "options": ["I-B, II-A, III-D, IV-C", "I-C, II-B, III-A, IV-D", "I-D, II-B, III-A, IV-C", "I-A, II-C, III-B, IV-D"],
+     "answer": 2,
+     "explanation": "The TX2 goal targets 2022, Global Tiger Day was celebrated in 2010, the Big Cat Alliance launched in 2023, and Jim Corbett became the first Tiger Reserve in 1973."
+    },
+    {
+     "q": "Consider the following statements:\nI. Global Tiger Day was established at the 2010 St. Petersburg Tiger Summit.\nII. Twelve Tiger Range Countries adopted the St. Petersburg Declaration.\nIII. The TX2 motto represents the goal of doubling the global tiger population by 2022.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I, II and III", "I and III only"],
+     "answer": 3,
+     "explanation": "Statement II is wrong because 13 Tiger Range Countries, including India, adopted the declaration."
+    },
+    {
+     "q": "How many of the following statements are correct?\nI. IUCN observes Global Tiger Day.\nII. The TX2 goal aimed to triple the tiger population by 2025.\nIII. Thirteen Tiger Range Countries adopted the St. Petersburg Declaration.",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statements I and III match the booklet, while statement II is wrong because the TX2 goal was to double the population by 2022."
+    },
+    {
+     "q": "Which of these is named among the Tiger Range Countries in the booklet?",
+     "options": ["Brazil", "Kenya", "Vietnam", "Canada"],
+     "answer": 2,
+     "explanation": "Vietnam is in the booklet's list of Tiger Range Countries, while the other three options are not in it."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "Tiger reserves TITA set",
+   "passage": "Tiger reserves are protected areas that receive a special status so that tigers can breed, move and live without constant disturbance. In India, these areas are created under a national programme that gives them legal backing and dedicated management. Any change to a reserve's boundaries needs careful approval, because the rules are meant to protect the animals within them. Officials therefore treat reserve notification as a formal process, not a routine administrative step. Tiger reserves vary greatly in size, from small forest patches to very large landscapes that cover several districts. Their tiger numbers are estimated through a periodic count carried out by official agencies with the help of research institutes. Counting takes place in fixed cycles, so that results from different years can be compared. Some states have many reserves while others have only a few. Software-based monitoring systems help managers track conditions in these reserves and respond to threats. Local communities also play a role, because conservation in and around forests depends on people living alongside wildlife. The scale of this work is large, and even small changes in reserve boundaries can affect many animals. Together, these features explain why tiger reserves remain central to the country's conservation strategy.",
+   "questions": [
+    {
+     "q": "How many tiger reserves does India currently have? (in number)",
+     "answer": "58",
+     "accept": ["58", "fifty-eight"],
+     "explanation": "The booklet states that there are currently 58 Tiger Reserves in India."
+    },
+    {
+     "q": "Which state has the largest number of tiger reserves in India? (name of state)",
+     "answer": "Madhya Pradesh",
+     "accept": ["MP"],
+     "explanation": "The booklet says Madhya Pradesh leads with 9 reserves, followed by Maharashtra and Karnataka."
+    },
+    {
+     "q": "Which tiger reserve has the highest tiger abundance in India? (name)",
+     "answer": "Corbett",
+     "accept": ["Jim Corbett", "Jim Corbett National Park", "Jim Corbett Tiger Reserve"],
+     "explanation": "The booklet lists Corbett with 260 tigers as the reserve with the highest tiger abundance."
+    },
+    {
+     "q": "Which is the largest tiger reserve in India? (name)",
+     "answer": "Nagarjunsagar Srisailam",
+     "accept": ["Nagarjunsagar-Srisailam", "Nagarjunsagar Srisailam Tiger Reserve", "Nagarjunsagar"],
+     "explanation": "The booklet identifies Nagarjunsagar Srisailam as the largest Tiger Reserve in India."
+    },
+    {
+     "q": "What was India's tiger population in the 2022 figure? (in number)",
+     "answer": "3682",
+     "accept": ["3,682"],
+     "explanation": "The booklet states that India's tiger population increased to 3682 in 2022."
+    },
+    {
+     "q": "In which year was Project Tiger launched? (year)",
+     "answer": "1973",
+     "accept": [],
+     "explanation": "The booklet says Project Tiger was established in 1973 to support preservation of tigers in India."
+    },
+    {
+     "q": "Which is the smallest tiger reserve in India? (name)",
+     "answer": "Bor",
+     "accept": ["Bor Tiger Reserve", "Bor (Maharashtra)", "Bor Maharashtra"],
+     "explanation": "The booklet identifies Bor in Maharashtra as the smallest Tiger Reserve in India."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 57, "what": "Population figures in the Journey of Tiger Conservation graphic (printed as '2:67', 'Neg 2.226', '1,706') are garbled; no population time series used"},
+  {"page": 57, "what": "Milestone years in the Journey graphic (the '2010/2014' and '2018' markers) are garbled; the 2014 and 2018 events are not used"},
+  {"page": 57, "what": "Conflict: the 2006 timeline entry says the Wildlife (Protection) Act amendment led to NTCA's establishment, but the NTCA entry says 'Established: 2005'; NTCA founding year not used in content"},
+  {"page": 57, "what": "Ratifying members (total 27, newest Bangladesh; initial five: India, Nicaragua, Eswatini, Somalia, Liberia) are not tied to a named instrument in the OCR text; not used"},
+  {"page": 58, "what": "Practice question gives theme 'Securing the Future of Tigers with Indigenous Peoples and Local Communities at the Heart', which conflicts with the official theme on page 56; no theme question used"},
+  {"page": 57, "what": "State names for Nagarjunsagar Srisailam are printed as 'Talengana'; the reserve name is used without the state names"}
+ ]
+}

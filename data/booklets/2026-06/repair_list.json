@@ -1,0 +1,104 @@
+{
+ "passage_flags": [
+  {
+   "quiz": "q-t01-0",
+   "claim": "In June 2026, the United States and Iran put their signatures to a memorandum drafted in Islamabad.",
+   "problem": "Booklet names it the Islamabad MoU and says it was signed in June 2026; it does not state where the memorandum was drafted.",
+   "page": 5
+  },
+  {
+   "quiz": "t-t01-1",
+   "claim": "Meanwhile, an armed group and a regional state continue to clash over their long-running conflict, and proxy tensions remain.",
+   "problem": "Booklet says tensions between Israel and Hezbollah and Iranian regional proxies persist; it does not describe ongoing armed clashes.",
+   "page": 6
+  },
+  {
+   "quiz": "q-t02-0",
+   "claim": "Both governments see the relationship as a key part of their regional strategies.",
+   "problem": "not found in booklet text; the booklet frames the policy only from India's side (Neighbourhood First, Act East, Indo-Pacific Vision)",
+   "page": 8
+  },
+  {
+   "quiz": "q-t03-0",
+   "claim": "such records are measured in days rather than years",
+   "problem": "not found in booklet text: the booklet states Modi's record only in days (4,399 days) and gives no general rule about how such records are measured",
+   "page": 12
+  },
+  {
+   "quiz": "q-t08-0",
+   "claim": "with new industries, new energy sources and new patterns of production becoming significant",
+   "problem": "not found in booklet text (booklet mentions only renewable energy inclusion, not new industries or new patterns of production)",
+   "page": null
+  },
+  {
+   "quiz": "t-t08-1",
+   "claim": "The service sector contributes a large share of output",
+   "problem": "not found in booklet text (no statement about the share of output from services)",
+   "page": null
+  },
+  {
+   "quiz": "q-t10-0",
+   "claim": "The Quad ... has grown from a set of humanitarian contacts into a regular diplomatic forum",
+   "problem": "'regular diplomatic forum' is not found in booklet text; booklet describes an informal strategic partnership.",
+   "page": 46
+  },
+  {
+   "quiz": "q-t10-0",
+   "claim": "Maritime cooperation is the most visible strand",
+   "problem": "'most visible strand' is not found in booklet text.",
+   "page": 46
+  },
+  {
+   "quiz": "t-t10-1",
+   "claim": "Members have recognised that depending on a small number of suppliers for essential raw materials can disrupt entire industries",
+   "problem": "'disrupt entire industries' is not found in booklet text; booklet only says to reduce supply-chain vulnerabilities and diversify sources.",
+   "page": 47
+  },
+  {
+   "quiz": "t-t10-1",
+   "claim": "This work is meant to help countries across the Indo-Pacific cope with uncertainty in fuel and power markets",
+   "problem": "'fuel and power markets' is not found in booklet text; booklet only lists energy technology integration, supply chain resilience and market risk assessment.",
+   "page": 47
+  },
+  {
+   "quiz": "t-t11-1",
+   "claim": "India's biofuel effort rests on several policy instruments rather than a single law.",
+   "problem": "not found in booklet text: booklet does not describe the legal form of the policy instruments",
+   "page": null
+  },
+  {
+   "quiz": "t-t11-1",
+   "claim": "Implementation depends on coordination between government departments, state governments and industry, and on steady funding for research and plant construction.",
+   "problem": "not found in booklet text: no statement on implementation dependencies or funding needs",
+   "page": null
+  },
+  {
+   "quiz": "q-t12-0",
+   "claim": "several of these are recognised under an international convention on wetlands",
+   "problem": "Booklet mentions Ramsar Sites only; it does not describe Ramsar as an international convention on wetlands.",
+   "page": 55
+  },
+  {
+   "quiz": "q-t12-0",
+   "claim": "Such efforts are most effective when local communities and government agencies coordinate their work.",
+   "problem": "Not found in booklet text; an unsupported evaluative claim.",
+   "page": null
+  }
+ ],
+ "fact_flags": [
+  {
+   "file": "t07.json",
+   "subtopic": 0,
+   "fact": "The booklet also links the platform's privacy features, bots and bank-account marketplaces to rising cybercrime complaints.",
+   "problem": "Booklet ties the rise in cybercrime complaints only to activities organised within Telegram groups; it does not link privacy features, bots or marketplaces to that rise.",
+   "page": 32
+  },
+  {
+   "file": "t10.json",
+   "subtopic": 1,
+   "fact": "Maritime cooperation is the most visible strand of the 11th meeting's outcomes. (subtopic summary)",
+   "problem": "'most visible strand' is a characterization not found in booklet text.",
+   "page": 46
+  }
+ ]
+}

@@ -1,0 +1,358 @@
+{
+ "topic": {
+  "title": "Glaw Lake becomes India's 101st Ramsar Site",
+  "chapter_title": "Summits, Reports, Indices",
+  "subtopics": [
+   {
+    "title": "Glaw Lake and India's Ramsar Network",
+    "summary": "Glaw Lake, a pristine freshwater lake in the Eastern Himalayas region of Arunachal Pradesh, became India's 101st Ramsar Site. It lies in the protected area of Kamlang Tiger Reserve and Wildlife Sanctuary. India's Ramsar network has grown from 26 sites in 2014 to 101 sites in 2026.",
+    "facts": [
+     "Glaw Lake became India's 101st Ramsar Site",
+     "Location: Arunachal Pradesh; region: Eastern Himalayas",
+     "Type: pristine freshwater lake",
+     "Protected area: Kamlang Tiger Reserve and Wildlife Sanctuary",
+     "India's Ramsar network grew from 26 sites in 2014 to 101 sites in 2026",
+     "Largest Indian Ramsar site: Sunderbans, West Bengal",
+     "Smallest Indian Ramsar site: Vembannur Wetland Complex, Tamil Nadu",
+     "Maximum Ramsar sites in one state: Tamil Nadu (14)",
+     "Named Indian Ramsar sites: Chilika, Keoladeo, Harike, Loktak and Wular"
+    ],
+    "keywords": ["Glaw Lake", "Ramsar Site", "Arunachal Pradesh", "Eastern Himalayas", "Kamlang Tiger Reserve"]
+   },
+   {
+    "title": "Wetlands: Meaning and Types",
+    "summary": "A wetland is an area of land covered by water, whether salt, fresh or in between, either seasonally or permanently. Wetlands take many forms, from lakes and rivers to mangroves and coral reefs. The booklet classifies them into three segments: inland, coastal and human-made wetlands.",
+    "facts": [
+     "Wetland: land covered by water that is salt, fresh or in between",
+     "The water cover may be seasonal or permanent",
+     "Includes lakes, rivers, underground aquifers and swamps",
+     "Includes wet grasslands, peatlands, deltas and tidal flats",
+     "Includes mangroves, coral reefs and other coastal areas",
+     "Other forms: marshes, bogs, mudflats, ponds, billabongs, lagoons, floodplains",
+     "Segment 1: inland wetlands",
+     "Segment 2: coastal wetlands",
+     "Segment 3: human-made wetlands"
+    ],
+    "keywords": ["wetland", "inland wetlands", "coastal wetlands", "human-made wetlands", "peatlands", "mangroves"]
+   },
+   {
+    "title": "Ramsar Convention and Montreux Record",
+    "summary": "The Ramsar Convention, formally the Convention on Wetlands of International Importance, is an intergovernmental treaty adopted in 1971 in Ramsar, Iran, and in force from 1975. It has 172 member states, and India became a signatory on 1 February 1982. The Montreux Record, launched in 1990, lists Ramsar sites where ecological character has changed or is likely to change.",
+    "facts": [
+     "Official name: Convention on Wetlands of International Importance",
+     "Adopted in 1971 in Ramsar, Iran; came into force in 1975",
+     "Members: 172 States",
+     "India became a signatory on 1 February 1982",
+     "World Wetlands Day: 2 February",
+     "2026 theme: Wetlands and Traditional Knowledge: Celebrating Cultural Heritage",
+     "Conference of Parties (COP) meets every 3 years",
+     "Montreux Record: launched 1990; lists sites with ecological change from technological developments, pollution or human interference",
+     "Indian sites in Montreux Record: Keoladeo National Park (Rajasthan) and Loktak Lake (Manipur)",
+     "Largest Ramsar site in the world: Pantanal, South America"
+    ],
+    "keywords": ["Ramsar Convention", "Montreux Record", "World Wetlands Day", "COP", "Pantanal"]
+   },
+   {
+    "title": "Government Initiatives to Preserve Wetlands",
+    "summary": "The Amrit Dharohar Capacity Building Scheme is a joint effort of the Ministry of Tourism and MoEFCC to make optimal use of wetlands. The Wetlands (Conservation and Management) Rules, 2017 provide a regulatory framework under the Environment (Protection) Act, 1986. The Wetland City Accreditation Program, approved at COP 12 in 2015, recognises cities that conserve urban wetlands.",
+    "facts": [
+     "Amrit Dharohar: joint effort of the Ministry of Tourism and MoEFCC",
+     "Amrit Dharohar aims: optimal wetland use, biodiversity, carbon stock, eco-tourism and local income",
+     "Amrit Dharohar focus: shift from high-volume tourism to high-value nature tourism",
+     "National Wetland Conservation Program (1986) is implemented through State Wetland Authorities",
+     "Wetlands Rules, 2017 notified by MoEFCC under the Environment (Protection) Act, 1986",
+     "Wetlands Rules decentralise management and provide for State or UT Wetlands Authorities",
+     "Wetland City Accreditation: part of the Ramsar Convention, approved at COP 12 in 2015",
+     "Accreditation requires all 6 international criteria and is valid for 6 years",
+     "Wetland City aim: conservation and wise use of urban and peri-urban wetlands",
+     "Nature-Culture Tourism Corridor announced between Ayodhya and Devi Patan in UP"
+    ],
+    "keywords": ["Amrit Dharohar", "Wetlands Rules 2017", "Wetland City Accreditation", "National Wetland Conservation Program", "Nature-Culture Tourism Corridor"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Glaw Lake and the Ramsar network",
+   "root": {
+    "label": "Glaw Lake: India's 101st Ramsar Site",
+    "children": [
+     {"label": "Glaw Lake facts", "children": [
+      {"label": "Arunachal Pradesh, Eastern Himalayas"},
+      {"label": "Pristine freshwater lake"},
+      {"label": "Kamlang Tiger Reserve protected area"}
+     ]},
+     {"label": "Ramsar network growth", "children": [
+      {"label": "26 sites in 2014"},
+      {"label": "101 sites in 2026"}
+     ]},
+     {"label": "Wetland meaning", "children": [
+      {"label": "Land covered by water"},
+      {"label": "Salt, fresh or in between"},
+      {"label": "Seasonal or permanent"}
+     ]},
+     {"label": "Ramsar Convention", "children": [
+      {"label": "Adopted 1971, Ramsar, Iran"},
+      {"label": "In force 1975"},
+      {"label": "COP meets every 3 years"}
+     ]},
+     {"label": "Montreux Record", "children": [
+      {"label": "Launched 1990"},
+      {"label": "Keoladeo and Loktak in record"}
+     ]},
+     {"label": "Government initiatives", "children": [
+      {"label": "Amrit Dharohar scheme"},
+      {"label": "Wetlands Rules, 2017"},
+      {"label": "Wetland City accreditation"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Glaw Lake and India's network",
+   "root": {
+    "label": "Glaw Lake and India's Ramsar network",
+    "children": [
+     {"label": "Glaw Lake", "children": [
+      {"label": "Arunachal Pradesh"},
+      {"label": "Kamlang Tiger Reserve"}
+     ]},
+     {"label": "Network growth", "children": [
+      {"label": "26 sites (2014)"},
+      {"label": "101 sites (2026)"}
+     ]},
+     {"label": "Largest and smallest", "children": [
+      {"label": "Largest: Sunderbans, West Bengal"},
+      {"label": "Smallest: Vembannur Wetland Complex, Tamil Nadu"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Wetlands: meaning and types",
+   "root": {
+    "label": "Wetlands",
+    "children": [
+     {"label": "Meaning", "children": [
+      {"label": "Land covered by water"},
+      {"label": "Salt, fresh or in between"}
+     ]},
+     {"label": "Forms", "children": [
+      {"label": "Lakes, rivers, aquifers"},
+      {"label": "Mangroves, coral reefs"},
+      {"label": "Peatlands, deltas, tidal flats"}
+     ]},
+     {"label": "Three segments", "children": [
+      {"label": "Inland"},
+      {"label": "Coastal"},
+      {"label": "Human-made"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Ramsar Convention and Montreux Record",
+   "root": {
+    "label": "Ramsar Convention",
+    "children": [
+     {"label": "Origins", "children": [
+      {"label": "Adopted 1971, Ramsar, Iran"},
+      {"label": "In force 1975"}
+     ]},
+     {"label": "World Wetlands Day", "children": [
+      {"label": "2 February"},
+      {"label": "2026 theme: Traditional Knowledge"}
+     ]},
+     {"label": "Montreux Record", "children": [
+      {"label": "Launched 1990"},
+      {"label": "Keoladeo National Park, Loktak Lake"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Government initiatives",
+   "root": {
+    "label": "Government initiatives",
+    "children": [
+     {"label": "Amrit Dharohar scheme", "children": [
+      {"label": "Tourism and MoEFCC"},
+      {"label": "High-value nature tourism"}
+     ]},
+     {"label": "Wetlands Rules, 2017", "children": [
+      {"label": "Under EP Act, 1986"},
+      {"label": "Decentralised management"}
+     ]},
+     {"label": "Wetland City Accreditation", "children": [
+      {"label": "Approved at COP 12, 2015"},
+      {"label": "Valid 6 years"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Three wetland segments",
+   "mnemonic": "I Can Help wetlands",
+   "decode": [
+    {"key": "I", "meaning": "Inland wetlands"},
+    {"key": "C", "meaning": "Coastal wetlands"},
+    {"key": "H", "meaning": "Human-made wetlands"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Montreux Record triggers",
+   "mnemonic": "Think Pollution Hurts",
+   "decode": [
+    {"key": "T", "meaning": "Technological developments"},
+    {"key": "P", "meaning": "Pollution"},
+    {"key": "H", "meaning": "Other human interference"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Amrit Dharohar aims",
+   "mnemonic": "Be Cool, Earn Income",
+   "decode": [
+    {"key": "B", "meaning": "Biodiversity enhancement"},
+    {"key": "C", "meaning": "Carbon stock"},
+    {"key": "E", "meaning": "Eco-tourism opportunities"},
+    {"key": "I", "meaning": "Income for local communities"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Glaw Lake and Ramsar Basics",
+   "passage": "Glaw Lake, a lake in the Eastern Himalayas, has recently gained recognition as a wetland of global importance. It lies in Arunachal Pradesh, a state in north-eastern India, and its waters are fresh rather than salty. The lake sits within a protected area. The recognition came under the Ramsar Convention, the intergovernmental treaty on wetlands. It is the only international treaty that addresses one specific ecosystem. Under this treaty, wetlands of international importance are declared as Ramsar sites. The term wetland is broad. It describes any area of land covered by water, whether that water is salt, fresh or somewhere in between, and whether it is present seasonally or permanently. Wetland types include rivers, swamps, wet grasslands, peatlands, deltas and tidal flats, as well as mangroves and coral reefs. The treaty has been in force for decades and has many member states. Glaw Lake's recognition is an example of a wider expansion of India's protected wetlands network. India has steadily added sites to its Ramsar network over the years. India also runs a National Wetland Conservation Program, implemented through state authorities. Government schemes also support this work. One scheme focuses on the optimal use of wetlands, and its aims include enhancing biodiversity, carbon stock and income for local communities. Another focus is moving from high-volume tourism to nature tourism at ecologically sensitive wetlands.",
+   "questions": [
+    {
+     "q": "Glaw Lake is India's which Ramsar Site, by number?",
+     "options": ["75th", "88th", "101st", "110th"],
+     "answer": 2,
+     "explanation": "The booklet states Glaw Lake became India's 101st Ramsar Site."
+    },
+    {
+     "q": "In which protected area is Glaw Lake situated?",
+     "options": ["Kamlang Tiger Reserve and Wildlife Sanctuary", "Namdapha National Park", "Pakke Tiger Reserve", "Mouling National Park"],
+     "answer": 0,
+     "explanation": "The booklet lists Kamlang Tiger Reserve and Wildlife Sanctuary as the protected area for Glaw Lake."
+    },
+    {
+     "q": "Assertion (A): Glaw Lake is a freshwater wetland in the Eastern Himalayas.\nReason (R): Ramsar wetlands are found only in freshwater lakes and rivers.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+     ],
+     "answer": 3,
+     "explanation": "Ramsar wetlands also include mangroves and coral reefs, so R is false while A is true."
+    },
+    {
+     "q": "Match List I with List II:\nI. Montreux Record\nII. Wetland City Accreditation Program\nIII. Amrit Dharohar Capacity Building Scheme\nIV. Wetlands (Conservation and Management) Rules\n\nList II\nA. Validity of 6 years\nB. Notified in 2017\nC. Launched in 1990\nD. Joint effort of Ministry of Tourism and MoEFCC",
+     "options": ["I-A, II-C, III-B, IV-D", "I-C, II-A, III-D, IV-B", "I-B, II-D, III-A, IV-C", "I-D, II-B, III-C, IV-A"],
+     "answer": 1,
+     "explanation": "Montreux Record was launched in 1990, Wetland City accreditation is valid for 6 years, Amrit Dharohar is a joint effort of two ministries, and the Wetlands Rules were notified in 2017."
+    },
+    {
+     "q": "Consider the following statements about Glaw Lake:\nI. It is a pristine freshwater lake.\nII. It lies in the Eastern Himalayas region.\nIII. It is a coastal wetland of the salt-water type.\nWhich of the above statements is/are correct?",
+     "options": ["I and III only", "II and III only", "I, II and III", "I and II only"],
+     "answer": 3,
+     "explanation": "Glaw Lake is a pristine freshwater lake in the Eastern Himalayas, so statements I and II are correct and III is wrong."
+    },
+    {
+     "q": "How many of the following statements about the Montreux Record are correct?\n(a) It was launched in 1990.\n(b) It identifies Ramsar sites that need priority conservation attention.\n(c) Chilka Lake is currently listed in it.",
+     "options": ["Only one", "None", "Only two", "Only three"],
+     "answer": 2,
+     "explanation": "The record was launched in 1990 and identifies priority sites, but Chilka Lake was removed from it."
+    },
+    {
+     "q": "Which is the largest Ramsar site in the world?",
+     "options": ["Pantanal, South America", "Sunderbans, West Bengal", "Keoladeo National Park, Rajasthan", "Vembannur Wetland Complex, Tamil Nadu"],
+     "answer": 0,
+     "explanation": "The booklet names Pantanal, South America as the largest Ramsar site in the world."
+    },
+    {
+     "q": "Which Indian state has the maximum number of Ramsar sites?",
+     "options": ["Rajasthan", "Tamil Nadu", "West Bengal", "Odisha"],
+     "answer": 1,
+     "explanation": "The booklet states Tamil Nadu has 14 Ramsar sites, the highest of any state."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "Wetland Policy Tools",
+   "passage": "Protecting wetlands in India involves policy as well as science, and several central initiatives work through states and cities. One is a capacity building scheme run jointly by two ministries. Its aim is to encourage the optimal use of wetlands while enhancing biodiversity, carbon stock and eco-tourism. The scheme also seeks to generate income for local communities. Local communities are among the intended beneficiaries of the scheme. A second measure is the National Wetland Conservation Program, which is carried out through State Wetland Authorities. Later, a regulatory framework for wetlands was notified under a major environmental law. This framework decentralises wetland management and provides for State or Union Territory Wetlands Authorities. Cities can also be recognised for wetland care. The Wetland City Accreditation Program is part of the Ramsar Convention. The Wetland City Accreditation Program promotes the conservation and wise use of urban and peri-urban wetlands. Accreditation is granted only to cities that satisfy all of the programme's international criteria. Protection is also linked with tourism. The government has announced a Nature-Culture Tourism Corridor in Uttar Pradesh, to be developed between two places. Mapping supports these efforts too. A national atlas of wetland decadal change, prepared by a national agency, tracks how wetlands have changed over time. Taken together, these steps reflect a move toward careful use of sensitive wetlands.",
+   "questions": [
+    {
+     "q": "What is the validity period of Wetland City accreditation? (in years)",
+     "answer": "6",
+     "accept": ["six", "6 years", "six years"],
+     "explanation": "Wetland City accreditation is valid for 6 years, as the booklet states."
+    },
+    {
+     "q": "In which year was the Wetland City Accreditation Program approved? (year)",
+     "answer": "2015",
+     "accept": ["2015 AD"],
+     "explanation": "The booklet says the Wetland City Accreditation Program was approved at COP 12 in 2015."
+    },
+    {
+     "q": "Apart from MoEFCC, which ministry jointly runs the Amrit Dharohar Capacity Building Scheme?",
+     "answer": "Ministry of Tourism",
+     "accept": ["Tourism Ministry", "Tourism"],
+     "explanation": "The Amrit Dharohar scheme is a joint effort of the Ministry of Tourism and MoEFCC."
+    },
+    {
+     "q": "In which year were the Wetlands (Conservation and Management) Rules notified? (year)",
+     "answer": "2017",
+     "accept": ["2017 AD"],
+     "explanation": "The booklet says the Wetlands (Conservation and Management) Rules were notified in 2017."
+    },
+    {
+     "q": "Which agency prepared the National Wetland Decadal Change Atlas? (acronym)",
+     "answer": "SAC",
+     "accept": ["Space Applications Centre", "Space Applications Center", "SAC, ISRO", "SAC ISRO"],
+     "explanation": "The National Wetland Decadal Change Atlas was prepared by the Space Applications Centre (SAC, ISRO)."
+    },
+    {
+     "q": "Apart from Ayodhya, which place in Uttar Pradesh is linked by the Nature-Culture Tourism Corridor?",
+     "answer": "Devi Patan",
+     "accept": ["Devipatan", "Devi Pattan", "Devipattan"],
+     "explanation": "The Nature-Culture Tourism Corridor will be developed between Ayodhya and Devi Patan in Uttar Pradesh."
+    },
+    {
+     "q": "Under the Amrit Dharohar scheme, tourism is to shift from high-volume tourism to what type of tourism? (three words)",
+     "answer": "high-value nature tourism",
+     "accept": ["High-value nature tourism", "high value nature tourism", "high-value nature"],
+     "explanation": "The scheme's primary focus is transitioning from high-volume tourism to high-value nature tourism."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 60, "what": "Arunachal Pradesh wetland ordinal printed as '| st' (OCR garble); the ordinal was not used"},
+  {"page": 60, "what": "Ramsar sites by country in the 'Extra Shots' box are column-interleaved (United Kingdom, Mexico, India); not used"},
+  {"page": 61, "what": "'Total Number of Ramsar Sites: 85' conflicts with 101 on page 60; not used"},
+  {"page": 61, "what": "Year 2011 for the original National Wetland Decadal Change Atlas release is split from its sentence by OCR; not used"}
+ ]
+}
