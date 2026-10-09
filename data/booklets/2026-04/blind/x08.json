@@ -1,0 +1,299 @@
+{
+ "topic": "RBI Holds Repo Rate at 5.25%",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Repo Rate and the Economy",
+   "summary": "The Repo Rate is the rate at which the RBI lends money to commercial banks, so changes to it ripple through borrowing and spending. A lower repo rate makes loans cheaper and supports growth, while a higher repo rate curbs excess spending and eases inflation. The RBI cut the rate by 25 basis points to 5.25% in December 2025.",
+   "facts": [
+    "Repo stands for Repurchasing Option or Repurchase Agreement",
+    "Repo Rate: rate at which RBI lends money to commercial banks",
+    "Lower repo rate means cheaper loans for banks and lower interest rates for borrowers",
+    "Lower repo rate leads to increased borrowing and spending",
+    "Higher repo rate means costlier loans for banks and higher interest rates for consumers and businesses",
+    "RBI raises the Repo Rate during high levels of inflation to bring down the flow of money",
+    "Higher repo rate curbs excessive spending and slows investment and money supply",
+    "RBI lowers the Repo Rate when it needs to pump funds into the economy",
+    "Dec 2025: RBI cut Repo Rate by 25 basis points to 5.25%",
+    "Dec 2025 cut was the 4th reduction by RBI, totalling 125 basis points in 2025"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Monetary Policy Committee (MPC)",
+   "summary": "The Monetary Policy Committee is a statutory body under the RBI Act, 1934 that sets the benchmark Repo Rate needed to keep inflation within the target. The Central Government constitutes it with six members, chaired ex-officio by the RBI Governor. It meets at least four times a year, decides by majority vote, and its decisions are binding on banks.",
+   "facts": [
+    "Statutory body under the RBI Act, 1934",
+    "Responsible for setting the benchmark policy rate (Repo Rate)",
+    "Aim: contain inflation within the specified target level",
+    "Central Government is empowered to constitute a 6-member MPC",
+    "Ex-officio Chairperson: RBI Governor",
+    "Members: Deputy Governor in charge of monetary policy, one RBI officer nominated by Central Board, three members appointed by Central Government",
+    "Meets at least four times each year",
+    "Quorum: at least four members, including the RBI Governor or, in his absence, the Deputy Governor",
+    "Decisions are based on majority vote; in case of a tie the RBI Governor has the casting vote",
+    "MPC decisions are binding on banks"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Instruments of Monetary Policy",
+   "summary": "The RBI uses several instruments to manage liquidity, borrowing costs and the money supply. The Repo Rate and Reverse Repo Rate set the rates at which the RBI lends to and borrows from banks. Reserve requirements, the Bank Rate, the Marginal Standing Facility and open market operations each work through different channels. To tighten monetary policy, the RBI raises SLR.",
+   "facts": [
+    "Repo Rate: rate at which RBI lends money to commercial banks",
+    "Reverse Repo Rate: rate at which RBI borrows money from commercial banks",
+    "SLR: statutory minimum percentage of deposits a bank must keep as liquid cash, gold or other securities",
+    "To tighten monetary policy, RBI will raise SLR",
+    "Marginal Standing Facility: window for banks to borrow overnight funds at a rate higher than the Repo Rate",
+    "Bank Rate: long-term rate (Repo is short-term) at which the central bank lends to other banks",
+    "An increase in Bank Rate increases interest rates on loans and deposits",
+    "CRR: banks must hold a proportion of their deposits as cash with the RBI",
+    "With an increase in CRR, banks increase their lending rates",
+    "Open Market Operations: purchase or sale of government securities to inject or absorb durable liquidity"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Inflation Targeting and the RBI",
+   "summary": "Inflation targeting means the central bank aims to keep inflation within a pre-defined range. India adopted flexible inflation targeting in 2016 with a 4% target and a deviation of plus or minus 2%. The RBI works to maintain price stability while promoting economic growth, and performs several roles in the financial system.",
+   "facts": [
+    "Inflation targeting: monetary policy framework where the central bank aims to keep inflation within a targeted range",
+    "India adopted Flexible Inflation Targeting in 2016",
+    "India's inflation target is 4%, with a deviation of +/- 2%",
+    "Urjit Patel Committee (2014) formalised inflation targeting with a 4% target and 2% band",
+    "The 4% target and 2% band were first proposed by the Chakravarty Committee (1982-85)",
+    "Inflation target is set by the Government in consultation with RBI every 5 years, under the amended RBI Act, 1934",
+    "RBI aims to maintain price stability while promoting economic growth",
+    "RBI roles include monetary authority, lender of last resort, banker to government and custodian of forex reserves",
+    "Retail inflation is within the mandated target band of 2-6%",
+    "RBI was established on April 1 in Calcutta"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x08-64",
+   "type": "MCQ",
+   "passage": "The Reserve Bank of India is the central bank responsible for managing the country's financial system. Its roles include acting as the monetary authority, lender of last resort, banker to the government and custodian of foreign exchange reserves, and it aims to maintain price stability while promoting economic growth. Its supervisory role covers issuing bank licences and inspecting commercial banks. The Repo Rate is one of the main instruments of monetary policy used by the RBI. Because it governs the cost at which money moves between the central bank and commercial banks, changes to it affect banks and borrowers across the economy. The rate is decided by the Monetary Policy Committee, which must meet at least four times each year and takes its decisions by majority vote. Recently, the Committee chose to keep the policy rate steady as tensions in West Asia rose. These tensions have made global energy prices and trade flows more volatile, and India is experiencing a supply-side shock linked to global energy and commodity markets. Such shocks can raise input costs and prices even without excess domestic demand. Retail inflation has stayed within the mandated target band, and core inflation, which excludes food and fuel, has remained stable. The overall stance is described as cautious and steady.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In December 2025, by how many basis points did the RBI cut the Repo Rate?",
+     "options": [
+      "15 basis points",
+      "25 basis points",
+      "50 basis points",
+      "75 basis points"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What was the total reduction in the Repo Rate by the RBI during 2025, in basis points?",
+     "options": [
+      "75",
+      "100",
+      "150",
+      "125"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "According to the booklet, a higher Repo Rate slows which two things in the economy?",
+     "options": [
+      "Investment and money supply",
+      "Government revenue and exports",
+      "Foreign reserves and gold holdings",
+      "Tax collection and employment"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Lowering the Repo Rate tends to increase borrowing and spending in the economy.\nReason (R): A lower Repo Rate makes loans cheaper for banks and lowers interest rates for borrowers.",
+     "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true and R is the correct explanation of A",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Higher Repo Rate   ->   A. Increases overall supply of money\nII. Lower Repo Rate   ->   B. Lowers the Repo Rate\nIII. RBI's response to high inflation   ->   C. Curbs excessive spending\nIV. RBI needs to pump funds into the economy   ->   D. Raises the Repo Rate",
+     "options": [
+      "I-B, II-C, III-A, IV-D",
+      "I-C, II-A, III-D, IV-B",
+      "I-A, II-B, III-D, IV-C",
+      "I-C, II-B, III-D, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. The Repo Rate is the rate at which the RBI lends money to commercial banks.\nII. A higher Repo Rate makes loans cheaper for commercial banks.\nIII. The Repo Rate is set by the Monetary Policy Committee.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I, II and III",
+      "I and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. Repo stands for 'Repurchasing Option' or 'Repurchase Agreement'.\nII. The December 2025 cut was the second reduction by the RBI.\nIII. A lower Repo Rate makes loans costlier for banks.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-65",
+   "type": "TITA",
+   "passage": "The Reserve Bank of India, which is the country's central bank, manages the financial system through several tools. One of the most watched is the Repo Rate, the rate that acts as the cost of money for the banking system. Changes to this rate travel through the economy. When the rate is set higher, banks face costlier loans, and interest rates for consumers and businesses rise as well. Spending and investment tend to slow in such a situation. When the rate is eased, borrowing becomes cheaper and the overall supply of money in the economy increases, which can help growth. The Monetary Policy Committee decides the rate, and its decisions are based on a majority vote. The Committee meets at least four times each year. In its most recent review, the Committee chose to keep the rate unchanged, as geopolitical tensions in West Asia raised uncertainty about energy prices and trade. Supply-side shocks from global energy and commodity markets can also raise prices without reflecting excess demand. The RBI's role in the financial system is wide, covering monetary authority, supervision of banks, banker to the government and custodian of reserves. The rate is one of several instruments that the RBI can use at different times, depending on conditions in the economy. The aim of policy is to balance price stability with support for economic growth.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which month and year did the RBI cut the Repo Rate by 25 basis points to 5.25%?"
+    },
+    {
+     "n": 2,
+     "q": "What do the letters 'Repo' stand for? (two words)"
+    },
+    {
+     "n": 3,
+     "q": "The December 2025 cut was which numbered reduction by the RBI? (word or numeral)"
+    },
+    {
+     "n": 4,
+     "q": "What was the total reduction in the Repo Rate by the RBI in 2025, in basis points? (number)"
+    },
+    {
+     "n": 5,
+     "q": "What does a higher Repo Rate do to excessive spending? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "What does the RBI do to the Repo Rate when it needs to pump funds into the economy? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "High levels of what lead the RBI to raise the Repo Rate? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x08-66",
+   "type": "MCQ",
+   "passage": "The Reserve Bank of India is the central bank responsible for managing the country's financial system. Its concept drew on the ideas in Dr. Ambedkar's book on the rupee, and the Hilton Young Commission recommended that it be established. The British government passed the Reserve Bank of India Act, and the institution was later nationalised after having been privately owned. Today the RBI performs several roles. As a supervisor, it can issue bank licences, open branches, set minimum reserves and inspect commercial banks. As a monetary authority, it issues and destroys currency notes and circulates coins minted by the government. It also manages the financial operations of the Central Government under the RBI Act, and it regulates the forex market through exchange rules. The Monetary Policy Committee sets the benchmark policy rate needed to contain inflation within the specified target level. The RBI's first Governor was Sir Osborne Smith, and its first Indian Governor was C.D. Deshmukh. Several of these functions are carried out under the RBI Act. Its work is therefore wide in scope, touching the banking sector, the government and the foreign exchange market alike. These responsibilities together make the RBI a central institution in India's financial life.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did India adopt Flexible Inflation Targeting?",
+     "options": [
+      "2014",
+      "2016",
+      "2018",
+      "2020"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What is the permitted deviation from India's 4% inflation target?",
+     "options": [
+      "±1%",
+      "±3%",
+      "±2%",
+      "±5%"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which RBI role involves managing India's foreign exchange reserves?",
+     "options": [
+      "Custodian of forex reserves",
+      "Lender of last resort",
+      "Banker to the government",
+      "Monetary authority"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The RBI works to maintain price stability while promoting economic growth.\nReason (R): Inflation targeting aims to keep inflation within a pre-defined range.",
+     "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Urjit Patel Committee (2014)   ->   A. Target set every five years with the RBI\nII. Chakravarty Committee   ->   B. Mandated band of 2 to 6 per cent\nIII. Retail inflation band   ->   C. First proposed 4% target with 2% band\nIV. Frequency of review of the target   ->   D. Formalised inflation targeting in 2014",
+     "options": [
+      "I-B, II-D, III-A, IV-C",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-C, III-B, IV-A",
+      "I-D, II-A, III-B, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. Inflation targeting means a central bank aims to keep inflation within a targeted range.\nII. The inflation target in India is set by the RBI alone, every five years.\nIII. Retail inflation is required to remain within a mandated band of 2 to 6 per cent.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I, II and III",
+      "I and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. The RBI was established on April 1 in Calcutta.\nII. India's inflation target is 6 per cent with a deviation of ±2 per cent.\nIII. The RBI acts as banker to the government.\nHow many of the above statements are correct?",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-67",
+   "type": "TITA",
+   "passage": "Inflation targeting is a monetary policy framework in which the central bank aims to keep the inflation rate within a range that is defined in advance. In India, the framework has been shaped by committee recommendations and by government decisions taken over time. The target and the permitted band around it are not chosen by the RBI alone. The government sets them in consultation with the Reserve Bank, and the arrangement is reviewed on a regular cycle. The RBI, for its part, works to maintain price stability while promoting economic growth. It carries out several roles in the financial system, and its supervisory functions also cover the issue of bank licences. It acts as the monetary authority of the country and as a supervisor of commercial banks, and it issues and destroys currency notes. It also acts as banker to the government and as the manager of foreign exchange. Retail inflation is watched against a mandated band set under the framework. The RBI was set up after a commission recommended its establishment, and the British government passed the Act that created it. The RBI also serves as lender of last resort for commercial banks. Taken together, these responsibilities place the RBI at the centre of the country's money and banking system.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did India adopt Flexible Inflation Targeting?"
+    },
+    {
+     "n": 2,
+     "q": "What is India's inflation target, in per cent?"
+    },
+    {
+     "n": 3,
+     "q": "Which committee formalised inflation targeting in India in 2014? (name of the committee)"
+    },
+    {
+     "n": 4,
+     "q": "In which city was the RBI established on April 1? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "The 4% target with a 2% band was first proposed by the Chakravarty Committee during which years? (give the span of years)"
+    },
+    {
+     "n": 6,
+     "q": "Once every how many years is the inflation target set by the Government in consultation with the RBI? (number of years)"
+    },
+    {
+     "n": 7,
+     "q": "Retail inflation is required to stay within a mandated band of what range, in per cent?"
+    }
+   ]
+  }
+ ]
+}

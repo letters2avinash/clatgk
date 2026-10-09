@@ -1,0 +1,299 @@
+{
+ "topic": "NASA's Artemis Programme and Space Missions",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Artemis Programme and the Artemis II Mission",
+   "summary": "NASA's Artemis Programme aims to land humans on the Moon and is named after the Moon Goddess of Greek mythology. It proceeds in stages, beginning with an unmanned Artemis I that launched the Orion spacecraft, followed by the crewed Artemis II lunar flyby and then Artemis III, which is to return humans to the Moon. A Lunar Gateway Station is planned as a docking point for astronauts and for scientific research.",
+   "facts": [
+    "Artemis is named after the Moon Goddess in Greek mythology.",
+    "Objective: land humans on the Moon by 2025, including the first woman and the first person of colour.",
+    "Artemis I was an unmanned mission that began with the launch of the Orion spacecraft on the Space Launch System.",
+    "Artemis II is a crewed lunar flyby; astronauts travel around the Moon and return to Earth without landing.",
+    "Artemis II crew of four: Reid Wiseman (Commander), Victor Glover, Christina Koch and Jeremy Hansen.",
+    "Jeremy Hansen is the first Canadian and non-American to fly on a lunar mission.",
+    "Artemis II is expected to last about 10 days, following a free-return trajectory, and splash down in the Pacific Ocean.",
+    "Artemis II launch site: Kennedy Space Center, Florida, USA.",
+    "Artemis III aims to return humans to the Moon.",
+    "Lunar Gateway Station is planned for 2029, serving as a docking point and for scientific research."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Artemis Accords",
+   "summary": "The Artemis Accords were announced by NASA in 2020 and were established by the US State Department and NASA together with seven other founding members. They set out common principles for the civil exploration and use of outer space, including the Moon, Mars, comets and asteroids, for peaceful purposes. The Accords build on the Outer Space Treaty of 1967 but are not legally binding.",
+   "facts": [
+    "Announced by NASA in 2020.",
+    "Established by the US State Department and NASA with 7 other founding members.",
+    "Founding members include Australia, Canada, Italy, Japan, Luxembourg, the United Arab Emirates and the United Kingdom.",
+    "A set of principles and guidelines for international cooperation in space exploration.",
+    "Purpose: common principles to govern civil exploration and use of outer space, the Moon, Mars, comets and asteroids, for peaceful purposes.",
+    "Builds upon the Outer Space Treaty of 1967.",
+    "Nature: not legally binding.",
+    "Members: 63 countries.",
+    "India joined in 2023 as the 27th member.",
+    "Russia and China are not part of the Artemis Accords."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Human Spaceflight and Gaganyaan",
+   "summary": "Yuri Gagarin of the Soviet Union was the first human in space in 1961, and Valentina Tereshkova was the first woman in space in 1963. India's Gaganyaan Project will launch a three-person crew on a three-day mission to a 400 km orbit, which would make India the fourth nation to do so after the United States, Russia and China. Vyommitra and the SAKHI app support the programme, with Vyommitra flying ahead of Gaganyaan and SAKHI supporting crew health and communication.",
+   "facts": [
+    "Yuri Gagarin, Soviet cosmonaut, was the first human in space (Vostok, 12 April 1961).",
+    "Valentina Tereshkova was the first woman to enter space (1963).",
+    "Rakesh Sharma was the first Indian in space (Soyuz T-11, 3 April 1984).",
+    "Shubhanshu Shukla was the second Indian in space and the first on the ISS (Axiom-4, 2025).",
+    "Gaganyaan is India's first human spaceflight programme, with a three-person crew on a three-day mission to a 400 km orbit.",
+    "Gaganyaan would make India the 4th nation to launch humans after the United States, Russia and China.",
+    "Out of 4 astronaut designates (Vyomnauts), 3 will be selected for the final mission.",
+    "Gaganyaan comprises a crew module and a service module; developed by ISRO and launched on GSLV Mk III (LVM3).",
+    "Crew training takes place at the Human Space Flight Centre, Bengaluru.",
+    "Vyommitra is a woman robot astronaut (half humanoid) that will fly ahead of Gaganyaan; the name means Space-Friend."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Lunar Missions: Chandrayaan and Moon Landings",
+   "summary": "India's Chandrayaan-1, launched in 2008, mapped the Moon's surface in unprecedented detail and found water ice in polar craters. Chandrayaan-3, launched in 2023, made India the first nation to soft-land on the lunar South Pole. Chandrayaan-4 is slated for 2028 to bring rock samples back to Earth, and Chandrayaan-5 is a joint mission of ISRO and JAXA to explore the Moon for water and other resources.",
+   "facts": [
+    "Chandrayaan-1 (2008) was India's first lunar mission.",
+    "Chandrayaan-1 mapped the Moon's surface in unprecedented detail, discovering water ice in polar craters.",
+    "Chandrayaan-2 (2019) carried an orbiter, the Vikram lander and the Pragyan (Wisdom) rover.",
+    "Chandrayaan-3 (2023) was a second attempt after Chandrayaan-2, using GSLV Mk III.",
+    "With Chandrayaan-3, India became the first nation to soft-land on the lunar South Pole.",
+    "With Chandrayaan-3, India became the 4th nation to soft-land anywhere on the Moon.",
+    "Chandrayaan-4 is slated for launch in 2028 and aims to bring lunar rock samples back to Earth.",
+    "Chandrayaan-5 (Lunar Polar Exploration, LUPAX) is a joint initiative of ISRO and JAXA.",
+    "Landing on the Moon: Soviet Union first (Luna 9, 1966), United States second (Apollo, 1969), China third (Chang'e, 2013).",
+    "Japan became the 5th nation to land on the Moon (SLIM, 2024)."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x13-84",
+   "type": "MCQ",
+   "passage": "NASA's Artemis Programme is named after the Moon Goddess of Greek mythology. Its stated objective is to land humans on the Moon, including the first woman and the first person of colour to stand on the lunar surface. The programme is being carried out in stages. Artemis I was an unmanned mission that began with the launch of a spacecraft named Orion on the Space Launch System. Orion has a crew module and a service module. Artemis II is a crewed mission in which astronauts will travel around the Moon and return to Earth without landing on it. Its crew of four includes the first Canadian and the first non-American to fly on a lunar mission. The mission is expected to last about ten days, following a free-return trajectory before the spacecraft splashes down in the Pacific Ocean. It will lift off from the Kennedy Space Center in Florida, USA. The programme depends on partnerships. The European Space Agency and the Canadian Space Agency are named as its international collaborators. The planned Lunar Gateway Station is meant to serve as a docking point for astronauts and to facilitate scientific research. Artemis III is the stage meant to return humans to the Moon. The Artemis Accords form part of the same international picture.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which of the following is NOT among the founding members of the Artemis Accords?",
+     "options": [
+      "Japan",
+      "Canada",
+      "India",
+      "Australia"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Besides the Moon, which bodies do the common principles of the Artemis Accords cover?",
+     "options": [
+      "Only Earth orbit",
+      "Venus and Jupiter",
+      "Only deep-sea floors",
+      "Mars, comets and asteroids"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Along with NASA, which body established the Artemis Accords?",
+     "options": [
+      "US Department of Defense",
+      "US State Department",
+      "European Space Agency",
+      "Indian Space Research Organisation"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The Artemis Accords build upon the Outer Space Treaty of 1967.\nReason (R): The Artemis Accords are not legally binding.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Announcement of the Artemis Accords by NASA   ->   A. Not part of the Accords\nII. Founding members other than the US State Department and NASA   ->   B. 2020\nIII. India's entry into the Accords   ->   C. Seven\nIV. Russia and China   ->   D. As the 27th member",
+     "options": [
+      "I-B, II-D, III-C, IV-A",
+      "I-C, II-B, III-A, IV-D",
+      "I-B, II-C, III-D, IV-A",
+      "I-C, II-B, III-D, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the Artemis Accords:\nI. The United Arab Emirates is one of the founding members of the Artemis Accords.\nII. Russia is one of the founding members of the Artemis Accords.\nIII. Luxembourg is one of the founding members of the Artemis Accords.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about the Artemis Accords:\nI. The Artemis Accords set out a set of principles and guidelines for international cooperation in space exploration.\nII. The Artemis Accords are legally binding on their members.\nIII. The Indian Space Research Organisation is one of the founding members of the Artemis Accords.\nHow many of the above statements are correct?",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x13-85",
+   "type": "TITA",
+   "passage": "NASA's Artemis Programme is named after the Moon Goddess of Greek mythology. Its stated objective is to land humans on the Moon, including the first woman and the first person of colour to stand on the lunar surface. The programme is being carried out in stages. Artemis I was an unmanned mission that began with the launch of a spacecraft named Orion on the Space Launch System. Orion has a crew module and a service module. Artemis II is a crewed mission in which astronauts will travel around the Moon and return to Earth without landing on it. Its crew of four includes the first Canadian and the first non-American to fly on a lunar mission. The mission is expected to last about ten days, following a free-return trajectory before the spacecraft splashes down in the Pacific Ocean. It will lift off from the Kennedy Space Center in Florida, USA. The programme depends on partnerships. The European Space Agency and the Canadian Space Agency are named as its international collaborators. The planned Lunar Gateway Station is meant to serve as a docking point for astronauts and to facilitate scientific research. Artemis III is the stage meant to return humans to the Moon. The Artemis Accords form part of the same international picture.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did India join the Artemis Accords? (year)"
+    },
+    {
+     "n": 2,
+     "q": "In which year is the Outer Space Treaty, which the Artemis Accords build upon, dated? (year)"
+    },
+    {
+     "n": 3,
+     "q": "In which year did NASA announce the Artemis Accords? (year)"
+    },
+    {
+     "n": 4,
+     "q": "Besides the US State Department and NASA, how many other founding members did the Artemis Accords have? (number)"
+    },
+    {
+     "n": 5,
+     "q": "Which two major space nations are not part of the Artemis Accords? (two names)"
+    },
+    {
+     "n": 6,
+     "q": "Are the Artemis Accords legally binding? (yes or no)"
+    },
+    {
+     "n": 7,
+     "q": "Apart from the Moon, which planet do the principles of the Artemis Accords cover? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x13-86",
+   "type": "MCQ",
+   "passage": "India's lunar exploration missions are known as the Chandrayaan series. Chandrayaan-1 was India's first lunar mission, and it mapped the surface of the Moon in unprecedented detail. Chandrayaan-4 is India's fourth mission to the Moon, and it follows the earlier missions in the series. Its planned work includes two launches, the development and realisation of its spacecraft, and external Deep Space Network support. Instruments from NASA and the European Space Agency will also be mounted on a rover of Chandrayaan-5, which is planned as a further lunar exploration mission. The Soviet Union was the first nation to land on the Moon, and the United States followed with the Apollo mission, which took place in 1969 and carried astronauts to the lunar surface. Neil Armstrong became the first person to step onto the Moon, and he was joined by Edwin 'Buzz' Aldrin. The United States is also the only country to have landed humans on the Moon. China's Chang'e mission also landed on the Moon. Odysseus was a lander developed in the United States that achieved the first soft lunar landing by a private company. It was the second private attempt to land on the Moon, after the failure of the Peregrine lander.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which country landed on the Moon with the SLIM mission in 2024?",
+     "options": [
+      "China",
+      "Japan",
+      "India",
+      "Russia"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "In which year was Chandrayaan-2 launched?",
+     "options": [
+      "2023",
+      "2028",
+      "2019",
+      "2008"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which agency is responsible for the lunar rover of Chandrayaan-5?",
+     "options": [
+      "JAXA",
+      "ISRO",
+      "NASA",
+      "ESA"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Chandrayaan-3 was a second attempt after Chandrayaan-2.\nReason (R): Chandrayaan-2 carried an orbiter, the Vikram lander and the Pragyan rover.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Chandrayaan-1   ->   A. Landing point Shiv Shakti\nII. Chandrayaan-3   ->   B. Bringing rock samples back to Earth\nIII. Chandrayaan-4   ->   C. Joint initiative of ISRO and JAXA\nIV. Chandrayaan-5   ->   D. Water ice found in polar craters",
+     "options": [
+      "I-C, II-D, III-B, IV-A",
+      "I-C, II-D, III-A, IV-B",
+      "I-B, II-C, III-D, IV-A",
+      "I-D, II-A, III-B, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the Chandrayaan missions:\nI. Chandrayaan-4 is slated for launch in 2028.\nII. Chandrayaan-2 was launched in 2023.\nIII. Chandrayaan-3 used the GSLV Mk III launch vehicle.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about the Chandrayaan missions:\nI. Chandrayaan-4 includes special tests for design validation.\nII. Chandrayaan-3 was India's first lunar mission.\nIII. The Chandrayaan-5 mission is led by NASA.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x13-87",
+   "type": "TITA",
+   "passage": "India's lunar exploration missions are known as the Chandrayaan series. Chandrayaan-1 was India's first lunar mission, and it mapped the surface of the Moon in unprecedented detail. Chandrayaan-4 is India's fourth mission to the Moon, and it follows the earlier missions in the series. Its planned work includes two launches, the development and realisation of its spacecraft, and external Deep Space Network support. Instruments from NASA and the European Space Agency will also be mounted on a rover of Chandrayaan-5, which is planned as a further lunar exploration mission. The Soviet Union was the first nation to land on the Moon, and the United States followed with the Apollo mission, which took place in 1969 and carried astronauts to the lunar surface. Neil Armstrong became the first person to step onto the Moon, and he was joined by Edwin 'Buzz' Aldrin. The United States is also the only country to have landed humans on the Moon. China's Chang'e mission also landed on the Moon. Odysseus was a lander developed in the United States that achieved the first soft lunar landing by a private company. It was the second private attempt to land on the Moon, after the failure of the Peregrine lander.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did the Soviet Union's Luna 9 make the first lunar landing? (year)"
+    },
+    {
+     "n": 2,
+     "q": "In which year did China's Chang'e mission land on the Moon? (year)"
+    },
+    {
+     "n": 3,
+     "q": "Which company developed the Odysseus lander? (company name)"
+    },
+    {
+     "n": 4,
+     "q": "Which launch vehicle was used for the Odysseus lander? (name)"
+    },
+    {
+     "n": 5,
+     "q": "Which Indian agency is handling the lander for the Chandrayaan-5 mission? (acronym)"
+    },
+    {
+     "n": 6,
+     "q": "What is the acronym for the Chandrayaan-5 mission, which is also called Lunar Polar Exploration? (acronym)"
+    },
+    {
+     "n": 7,
+     "q": "Which launch vehicle is listed for the two launches of the Chandrayaan-4 mission? (abbreviation)"
+    }
+   ]
+  }
+ ]
+}

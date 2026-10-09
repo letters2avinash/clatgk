@@ -1,0 +1,296 @@
+{
+ "topic": "WTO Ministerial Conference 14 (MC14)",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "MC14 Deadlock and WTO Basics",
+   "summary": "The 14th WTO Ministerial Conference, held in Yaoundé (Cameroon), ended without consensus, reflecting a deep North-South divide. Pending issues were deferred to the WTO General Council meeting in Geneva. The WTO was established on 1 January 1995, and its Ministerial Conference is its highest decision-making body.",
+   "facts": [
+    "MC14 was held in Yaoundé, Cameroon.",
+    "MC14 ended without consensus over the e-Commerce moratorium, agriculture and transparency norms.",
+    "The deadlock reflects a deep North-South divide.",
+    "Pending issues were deferred to the WTO General Council meeting in Geneva.",
+    "The WTO was established on 1 January 1995 under the 1994 Marrakesh Agreement.",
+    "The WTO is the successor to the General Agreement on Tariffs and Trade of 1948.",
+    "The Ministerial Conference is the WTO's highest decision-making body.",
+    "The Ministerial Conference meets at least once every two years.",
+    "The 13th Ministerial Conference was held in Abu Dhabi in 2024."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "E-Commerce Moratorium and Digital Trade",
+   "summary": "The WTO moratorium on customs duties on electronic transmissions, in place since 1998, expired at MC14 for lack of consensus. Members are therefore theoretically free to impose taxes on digital goods and services. Meanwhile, a coalition of 66 members advanced talks on a plurilateral e-commerce agreement focused on data flows, digital transactions and consumer protection.",
+   "facts": [
+    "The moratorium on customs duties on electronic transmissions has been in place since 1998.",
+    "The moratorium expired at MC14 due to lack of consensus.",
+    "Members cannot impose tariffs on electronic transmissions under the 1998 arrangement.",
+    "With the lapse, members are theoretically free to tax digital goods and services.",
+    "The moratorium covers software, music, films and digital services.",
+    "A coalition of 66 WTO members advanced negotiations on a plurilateral e-commerce agreement.",
+    "Focus areas of the plurilateral e-commerce agreement are data flows, digital transactions and consumer protection.",
+    "MC14 agenda included a decision on continuation of the moratorium on customs duties."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Agriculture, Fisheries and Dispute Settlement",
+   "summary": "Several MC14 agendas remained contested. Dispute settlement reform seeks to restore a two-tier binding system, because the Appellate Body has been non-functional since 2019. Agriculture talks seek a permanent solution on public stockholding for food security, while fisheries talks target bans on harmful subsidies.",
+   "facts": [
+    "Dispute settlement reform aims to restore a two-tier binding dispute system.",
+    "The Appellate Body has been non-functional since 2019.",
+    "Agriculture talks seek a permanent solution for public stockholding for food security.",
+    "The agriculture agenda also seeks to reduce trade-distorting subsidies and improve market access.",
+    "Market access is crucial for developing countries like India.",
+    "Developed countries remain reluctant to expand PSH flexibilities.",
+    "Fisheries talks aim to ban harmful subsidies causing overcapacity and overfishing.",
+    "Members agreed to continue negotiations on curbing subsidies for distant-water fishing fleets.",
+    "LDC graduation support includes transition mechanisms for trade benefits.",
+    "The future roadmap aims to finalise outcomes by MC15."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Investment Facilitation for Development (IFD)",
+   "summary": "The IFD Agreement is a plurilateral pact, binding only on its signatories, that aims to make investment procedures transparent, efficient and predictable. It was launched under a Joint Statement Initiative at MC11 in Buenos Aires in 2017 and finalised in 2023. India opposed bringing it into the WTO's multilateral framework, citing mandate, consensus, policy space and geopolitical concerns.",
+   "facts": [
+    "The IFD Agreement is a plurilateral agreement, binding only on signatories.",
+    "It was launched under a Joint Statement Initiative at MC11, Buenos Aires, in 2017.",
+    "It was finalised in 2023.",
+    "The IFD Agreement is based on the Most-Favoured-Nation principle.",
+    "Its objective is to make investment procedures transparent, efficient and predictable.",
+    "It covers investment facilitation: procedures, approvals and transparency.",
+    "It excludes market access, investment protection, government procurement and investor-state dispute settlement.",
+    "Its firewall clause prevents IFD rules from overriding Bilateral Investment Treaties.",
+    "Its appeal mechanism requires independent tribunals for dispute review.",
+    "India's concerns: investment is not strictly a trade subject, JSIs seem to bypass consensus, binding rules may limit FDI regulation, and geopolitical concerns."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x09-68",
+   "type": "MCQ",
+   "passage": "The 14th Ministerial Conference of the World Trade Organization was held in Yaoundé, Cameroon, and it ended without consensus. The disagreement reflected a deep North-South divide among members. Several agendas were left unresolved, and the matters that could not be settled were passed on to a later meeting.\n\nThe WTO's mandate covers trade in goods, services and intellectual property. Its Ministerial Conference is the highest decision-making body and is made up of trade ministers and senior officials from member nations. It addresses global trade developments. WTO decisions are traditionally sought through agreement among all members.\n\nOne of the agendas before the conference was the reform of the WTO's dispute settlement system, which helps resolve trade disputes among members. The reform was among the agendas that remained contested.\n\nAgriculture and food security formed another contested agenda. Food security was treated as a central concern, and positions on the topic differed among members. The discussions reflected the concerns of several countries, including developing ones.\n\nFisheries was a third agenda. The negotiations dealt with subsidies given to fishing, and members discussed the limits that might apply to them. Some questions on fisheries subsidies were not finished when the conference closed, and the talks were set to continue.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which kind of dispute settlement system is the reform meant to restore?",
+     "options": [
+      "Single-tier advisory system",
+      "Two-tier binding system",
+      "Three-tier arbitration system",
+      "Unilateral trade penalty system"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Where were the key issues left unresolved at MC14 deferred to?",
+     "options": [
+      "Yaoundé, Cameroon",
+      "Abu Dhabi, UAE",
+      "Buenos Aires, Argentina",
+      "Geneva, Switzerland"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "On expanding flexibilities for public stockholding (PSH), where do developed countries stand?",
+     "options": [
+      "They have already eliminated the flexibilities",
+      "They are eager to expand the flexibilities",
+      "They remain reluctant to expand the flexibilities",
+      "They have referred the matter to a dispute panel"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The fisheries talks target a ban on harmful subsidies.\nReason (R): The fisheries talks have already completed such a ban at MC14.",
+     "options": [
+      "A is true, but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false, but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. India and African nations   ->   A. Reducing trade-distorting subsidies\nII. Developing countries   ->   B. Permanent solution for public stockholding\nIII. Agriculture talks   ->   C. Continued negotiations on curbing subsidies\nIV. Distant-water fishing fleets   ->   D. Climate-related disruptions",
+     "options": [
+      "I-A, II-D, III-B, IV-C",
+      "I-B, II-D, III-A, IV-C",
+      "I-A, II-C, III-D, IV-B",
+      "I-D, II-C, III-B, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. Market access is described as crucial for developing countries like India.\nII. Developed countries have already agreed to expand PSH flexibilities.\nIII. The key issues include flexibility for domestic food subsidies and protection against penalties under WTO rules.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements are correct?\nI. The agriculture talks seek to improve market access.\nII. The fisheries talks have already completed a ban on harmful subsidies.\nIII. The dispute settlement reform aims to restore a single-tier advisory system.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-69",
+   "type": "TITA",
+   "passage": "The 14th Ministerial Conference of the WTO was held in Yaoundé, Cameroon, and it ended without consensus. The disagreement reflected a deep North-South divide among members. Several agendas were left open when the meeting closed, and the matters that could not be settled were carried forward to a later meeting.\n\nThe dispute settlement system is central to the WTO because it helps members resolve trade disputes. Reform of the system was one of the main agendas before the conference, and the reform aims to restore a binding dispute system.\n\nAgriculture and food security was another contested agenda. Food security was treated as a central concern, and positions on the topic differed among members. The agriculture agenda also covered the reduction of certain subsidies and the question of market access.\n\nFisheries was a third agenda. The negotiations dealt with subsidies given to the fishing sector, and members discussed how such support might be limited. Some of these subsidy questions remained open when the conference closed, and members agreed to keep negotiating them.\n\nThe Ministerial Conference, the organisation's highest decision-making body, is made up of trade ministers and senior officials from member nations and addresses global trade developments. The WTO's mandate covers trade in goods, services and intellectual property.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many tiers does the dispute settlement system that the reform aims to restore have? (one word)"
+    },
+    {
+     "n": 2,
+     "q": "To which WTO body were the issues left unresolved at MC14 deferred? (two words)"
+    },
+    {
+     "n": 3,
+     "q": "In agriculture talks, what does the acronym PSH stand for? (first two words)"
+    },
+    {
+     "n": 4,
+     "q": "Along with India, which group of nations reiterated the demand for a permanent solution on PSH? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "For which fishing fleets did members agree to keep negotiating subsidy curbs? (one hyphenated word)"
+    },
+    {
+     "n": 6,
+     "q": "Besides overfishing, what problem do harmful fisheries subsidies cause? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "Besides market access barriers, what kind of disruptions do developing countries face? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x09-70",
+   "type": "MCQ",
+   "passage": "The Investment Facilitation for Development Agreement is one of the WTO's most debated pacts, and its place within the organisation has been contested. Supporters see it as part of a wider shift in the WTO toward plurilateralism. The debate also reflects how investment is governed globally, and the arrangement moves toward standardised investment rules.\n\nThe agreement is discussed in relation to a balance between investment facilitation and national sovereignty. A concern raised in the debate is that the agreement could dilute core WTO principles and expand the organisation's mandate beyond trade facilitation. Members at different stages of development have a stake in this discussion. The discussion also involves how far investment rules should bind members, and which subjects fall within the WTO's remit. These questions are central to the debate.\n\nThe WTO's mandate covers trade in goods, services and intellectual property, and the organisation provides a framework for reducing trade restrictions such as tariffs and quotas. It also oversees mechanisms for resolving trade disputes among members.\n\nThe Ministerial Conference is the highest decision-making body of the WTO and is made up of trade ministers and senior officials from member nations. The General Council provides administrative and technical support to WTO bodies, and the Secretariat supports the organisation's work.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many of the following statements are correct?\nI. The IFD Agreement was launched at MC11 in Buenos Aires.\nII. The IFD Agreement excludes investor-state dispute settlement.\nIII. The IFD Agreement is based on the principle of reciprocity.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Consider the following statements:\nI. The IFD Agreement covers investment facilitation, including procedures, approvals and transparency.\nII. The IFD Agreement includes market access commitments.\nIII. The appeal mechanism of the IFD Agreement requires independent tribunals for dispute review.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "I and II only",
+      "I and III only",
+      "II and III only"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "For which group of countries does the IFD's facilitation of foreign direct investment particularly focus?",
+     "options": [
+      "Developed countries only",
+      "Island nations of the Pacific",
+      "Members of the European Union",
+      "Developing and least developed countries"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "What is the stated objective of the IFD Agreement?",
+     "options": [
+      "To liberalise market access for goods",
+      "To make investment procedures transparent, efficient and predictable",
+      "To protect investors against expropriation",
+      "To replace all bilateral investment treaties"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Which of the following is excluded from the scope of the IFD Agreement?",
+     "options": [
+      "Procedures and approvals",
+      "Transparency of investment rules",
+      "Government procurement",
+      "Investment facilitation"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Assertion (A): India opposed bringing the IFD Agreement into the WTO's multilateral framework.\nReason (R): India holds that investment is not strictly a trade subject and so lies outside the WTO's core mandate.",
+     "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Match List I with List II:\nI. Firewall clause   ->   A. Most-Favoured-Nation principle\nII. Appeal mechanism   ->   B. Under a Joint Statement Initiative at MC11\nIII. Launch   ->   C. Prevents IFD rules from overriding BITs\nIV. Basis of the agreement   ->   D. Requires independent tribunals for dispute review",
+     "options": [
+      "I-B, II-D, III-A, IV-C",
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-D, III-B, IV-A",
+      "I-B, II-C, III-D, IV-A"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-71",
+   "type": "TITA",
+   "passage": "The Investment Facilitation for Development Agreement is among the WTO's most debated pacts, and its place within the organisation has been contested. Supporters see it as part of a wider movement in the WTO toward arrangements among a subset of members. Some members question whether investment belongs within the organisation's core mandate.\n\nThe agreement aims to improve how investment procedures work, and it is linked to the broader question of how investment is governed globally, including the move toward standardised investment rules. Developing countries and least developed countries are part of this discussion.\n\nThe debate also touches on sovereignty. Members have to weigh the benefits of investment facilitation against the policy space that governments want to keep for their own regulation. A concern raised in the discussions is that the agreement could dilute core WTO principles and expand the organisation's mandate beyond trade facilitation. Such questions are central to the debate.\n\nThe WTO itself was established on January 1, 1995, and it facilitates trade in goods, services and intellectual property. Its Ministerial Conference, made up of trade ministers and senior officials, is the organisation's highest decision-making body. The organisation also has a Secretariat and a General Council. Members also have different views on how the agreement fits within the organisation's structure.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Under what kind of initiative was the IFD launched? (acronym)"
+    },
+    {
+     "n": 2,
+     "q": "In which city was the MC11 Ministerial Conference, where the IFD was launched, held? (city)"
+    },
+    {
+     "n": 3,
+     "q": "On which principle is the IFD Agreement based? (acronym)"
+    },
+    {
+     "n": 4,
+     "q": "The firewall clause stops IFD rules from overriding which kind of treaties? (acronym)"
+    },
+    {
+     "n": 5,
+     "q": "On which principle does the WTO traditionally work, which JSIs were seen as bypassing? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "Majority supporters of the IFD are linked to which initiative? (acronym)"
+    },
+    {
+     "n": 7,
+     "q": "What kind of tribunals must the IFD's appeal mechanism require for dispute review? (one word)"
+    }
+   ]
+  }
+ ]
+}

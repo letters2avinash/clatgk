@@ -1,0 +1,170 @@
+{
+ "topic": "India Declared Naxal-Free",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Origins, Ideology and Causes of LWE",
+   "summary": "Left Wing Extremism (LWE) traces back to a 1967 uprising in Naxalbari, West Bengal, and aims at societal and political change through revolutionary methods. Its ideology seeks to overthrow the central government through armed revolution and to set up a communist state based on Maoist principles. The booklet links the movement's growth to tribal displacement, tribal resentment over forest laws, poverty and weak governance.",
+   "facts": [
+    "Originated in the 1967 uprising in Naxalbari, West Bengal",
+    "Aim: societal and political change through revolutionary methods",
+    "Ideology: overthrow the central government through armed revolution",
+    "Methods include violence and guerrilla warfare",
+    "Goal: establish a communist state based on Maoist principles",
+    "Massive displacement of tribal population due to development projects and mining operations",
+    "Forest (Conservation) Act 1980 prohibits tribes from harvesting forest resources",
+    "Poverty and lack of sustainable means drive people to join the Naxalite movement",
+    "Lack of effective governance is a listed factor responsible for the movement",
+    "Insufficient technical intelligence against Naxalism is a listed factor responsible for the movement"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Current LWE Landscape and Factors Behind the Decline",
+   "summary": "The booklet reports a sharp fall in LWE-affected districts, from 126 in 2014 to about 7 in 2026, with the remaining hotspots in Chhattisgarh. Violence fell as well, with incidents down 88% and deaths down 90% between 2010 and 2025. The measures credited for this include tactical operations, road and mobile connectivity, action against funding networks, surrender incentives and administrative expansion.",
+   "facts": [
+    "LWE-affected districts reduced from 126 (2014) to about 7 (2026)",
+    "Residual hotspots: Bijapur, Sukma and Narayanpur in Chhattisgarh",
+    "Incidents of violence down 88%: 1,936 in 2010 to 234 in 2025",
+    "Deaths down 90%: 1,005 in 2010",
+    "Red Corridor: severe Naxalism-Maoist insurgency across ten listed states, including Kerala and Telangana",
+    "Tactical dominance by COBRA and Greyhounds, using company operating bases to penetrate remote zones",
+    "Infrastructure integration: 12,000 km of all-weather roads reduced geographical isolation of insurgents",
+    "Information warfare: 9,000+ mobile (4G) towers countered Maoist propaganda and integrated tribal regions digitally",
+    "Financial crackdown: NIA and Enforcement Directorate action and asset seizures disrupted urban funding networks",
+    "Surrender-cum-Rehabilitation Policy: 10,000+ cadres surrendered since 2014, with cash benefits and skill training"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Government Initiatives: Policy, SAMADHAN and Tribal Development",
+   "summary": "The government's response combines a 2015 national policy and action plan with the SAMADHAN doctrine, a set of eight elements running from leadership to financing. Parallel development schemes target tribal regions, including the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan and PM-JANMAN. The booklet also cites the 2006 Bandyopadhyay Committee, which highlighted governance and discrimination gaps faced by tribals.",
+   "facts": [
+    "National Policy and Action Plan to address Left Wing Extremism, 2015",
+    "SAMADHAN doctrine: Smart leadership, Aggressive strategy, Motivation and training, Actionable intelligence",
+    "SAMADHAN also covers Dashboard based KPIs and KRAs, Harnessing technology, Action plan for each theatre and No access to financing",
+    "Special Central Assistance (SCA) supports public infrastructure and services",
+    "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan covers 63,000+ tribal villages, with focus on housing and water",
+    "PM-JANMAN targets 75 PVTGs for basic infrastructure and healthcare in remote habitations",
+    "Van Dhan Vikas Kendra: 2,200+ clusters promote minor forest produce value addition",
+    "Bastariya Battalion: local recruits in Chhattisgarh who know the language and terrain",
+    "Bandyopadhyay Committee (2006) highlighted lack of governance and socio-political and cultural discrimination against tribals",
+    "Bandyopadhyay Committee recommended tribal-friendly land acquisition and rehabilitation"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x04-46",
+   "type": "MCQ",
+   "passage": "Left Wing Extremism refers to armed movements that seek societal and political change through revolutionary methods. Its supporters aim to overthrow the central government through armed revolution and guerrilla warfare, and to establish a communist state based on Maoist principles. The movement is traced to an uprising in 1967. The booklet links it to several factors. Displacement of tribal populations, caused by development projects and mining operations, is one of them. Tribal dissatisfaction with the Forest (Conservation) Act 1980 is another, because that law prohibits tribes from harvesting forest resources. Poverty and a lack of sustainable means also drive people towards the movement, while lack of effective governance and insufficient technical intelligence are listed as further factors. The booklet describes a Red Corridor of states where the movement has been most severe.\n\nThe government's response has several strands. It has adopted a national policy and action plan, and it works through a doctrine called SAMADHAN, which is built from a set of elements that guide operations. Development programmes for tribal regions form another strand, and these include the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan, PM-JANMAN and the Van Dhan Vikas Kendra. Special Central Assistance is also available for public infrastructure and services in affected areas. The government set 31 March 2026 as the deadline to eliminate Left Wing Extremism, and India has since been declared Naxal-Free.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The National Policy and Action Plan to address Left Wing Extremism is dated to which year?",
+     "options": [
+      "2006",
+      "2010",
+      "2015",
+      "2026"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "In the SAMADHAN doctrine, what does the letter M stand for?",
+     "options": [
+      "Mobile Units",
+      "Motivation and Training",
+      "Military Command",
+      "Mining Control"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What does the Van Dhan Vikas Kendra promote?",
+     "options": [
+      "Value addition to minor forest produce",
+      "Honey production",
+      "Handloom weaving",
+      "Solar power installation"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The Bandyopadhyay Committee recommended tribal-friendly land acquisition and rehabilitation.\nReason (R): The Bandyopadhyay Committee highlighted the lack of governance against tribals.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Van Dhan Vikas Kendra   ->   A. Local recruits who know the language and terrain\nII. PM-JANMAN   ->   B. Value addition to minor forest produce\nIII. Bastariya Battalion   ->   C. Framework of the national response to Left Wing Extremism\nIV. National Policy and Action Plan   ->   D. Basic infrastructure and healthcare in remote habitations",
+     "options": [
+      "I-C, II-A, III-B, IV-D",
+      "I-C, II-D, III-A, IV-B",
+      "I-A, II-D, III-B, IV-C",
+      "I-B, II-D, III-A, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the Bandyopadhyay Committee and SAMADHAN:\nI. The Bandyopadhyay Committee recommended tribal-friendly land acquisition and rehabilitation.\nII. Bastariya Battalion is based in Jharkhand.\nIII. In SAMADHAN, N stands for No access to Financing.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about the SAMADHAN doctrine and PM-JANMAN:\nI. PM-JANMAN targets 75 PVTGs.\nII. The D in SAMADHAN stands for Development of tribal villages.\nIII. The H in SAMADHAN stands for Harnessing Technology.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x04-47",
+   "type": "TITA",
+   "passage": "The booklet presents the government's response to Left Wing Extremism in several parts. One part is a security doctrine named SAMADHAN, whose letters stand for a set of elements that guide planning and operations. Operations are also supported by Company Operating Bases, which are used to penetrate remote zones. The Greyhounds operate as an elite commando force, and the Bastariya Battalion is made up of local recruits who know the language and terrain. A second part of the response is a set of development programmes for tribal regions. The Dharti Aaba Janjatiya Gram Utkarsh Abhiyan works in tribal villages, the Van Dhan Vikas Kendra works through clusters, and PM-JANMAN is meant for tribal groups living in remote habitations. The Bandyopadhyay Committee, an earlier review of tribal conditions, highlighted governance gaps and discrimination. Its report recommended that land acquisition and rehabilitation be made friendlier to tribals. Special Central Assistance is provided to support public infrastructure and services. Financial action has also been taken, with agencies such as the National Investigation Agency and the Enforcement Directorate seizing assets and disrupting urban funding networks. The government set 31 March 2026 as the deadline to eliminate Left Wing Extremism. The Surrender-cum-Rehabilitation Policy offers cash benefits and skill training to those who give up.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many elements does the SAMADHAN doctrine contain? (give the number)"
+    },
+    {
+     "n": 2,
+     "q": "In which state is the Bastariya Battalion located?"
+    },
+    {
+     "n": 3,
+     "q": "PM-JANMAN targets how many PVTGs? (give the number)"
+    },
+    {
+     "n": 4,
+     "q": "In which year is the Bandyopadhyay Committee dated? (give the year)"
+    },
+    {
+     "n": 5,
+     "q": "What does the letter S stand for in the SAMADHAN doctrine? (give the two-word element)"
+    },
+    {
+     "n": 6,
+     "q": "What does the letter H stand for in the SAMADHAN doctrine? (give the two-word element)"
+    },
+    {
+     "n": 7,
+     "q": "What does the letter D stand for in the SAMADHAN doctrine? (give the element as written in the booklet)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,297 @@
+{
+ "topic": "World Air Quality Report 2025",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "IQAir report 2025: scope and compliance",
+   "summary": "The 8th World Air Quality Report 2025 was released by Swiss IQAir, which assesses air quality using PM2.5 concentrations. IQAir's coverage grew from 134 countries in 2023 to 143 countries and 9,446 cities in 2025. Only 14% of cities met the WHO PM2.5 annual guideline in 2025, down from 17% in 2024.",
+   "facts": [
+    "Report: 8th World Air Quality Report 2025, by Swiss IQAir",
+    "IQAir assessments are based on PM2.5 (fine particulate matter) concentrations",
+    "Coverage: 134 countries in 2023, then 143 countries and 9,446 cities in 2025",
+    "Only 14% of cities complied with the WHO PM2.5 annual guideline in 2025",
+    "City compliance share declined from 17% in 2024",
+    "Only 13 countries/territories met the WHO PM2.5 guidelines",
+    "130 of 143 countries and territories failed to meet safe air quality standards",
+    "Nieuwoudtville (South Africa) recorded as World's Cleanest City, PM2.5 level 1.0 µg/m³",
+    "IQAir is a Swiss air quality technology company founded in 1963, HQ in Goldach, Switzerland"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Most polluted countries, cities and regions",
+   "summary": "Pakistan was the most polluted country in 2025, with PM2.5 levels over 13 times the WHO limit. Loni in Uttar Pradesh was the most polluted city, about 22 times above WHO guidelines. Five of the world's ten most polluted cities are in India, and Central and South Asia remain the most polluted regions globally.",
+   "facts": [
+    "Most polluted country in 2025: Pakistan, PM2.5 at 67.3 µg/m³",
+    "Pakistan's PM2.5 level is over 13 times the WHO limit",
+    "Pakistan was followed by Bangladesh, Tajikistan, Chad and Democratic Republic of Congo",
+    "Most polluted city: Loni, Uttar Pradesh, about 22 times WHO guidelines",
+    "5 of the world's 10 most polluted cities are in India: Loni, Byrnihat, Delhi, Ghaziabad, Ula",
+    "India ranked 6th most polluted country in 2025 (5th in 2024)",
+    "New Delhi is the world's most polluted capital for 8 consecutive years",
+    "India accounted for 74 of the world's 100 most polluted cities in 2024",
+    "Central and South Asia remain the most polluted regions globally"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "National framework and monitoring tools in India",
+   "summary": "India's National Air Quality Index, launched in 2014, explains pollution in simple categories. The Graded Response Action Plan is an emergency measure that applies only when air quality shifts from Poor to Very Poor, and the Supreme Court approved it in 2016. The National Clean Air Programme, launched in 2019, targets a 40% cut in average particulate matter by 2026 in 131 cities.",
+   "facts": [
+    "National Air Quality Index (2014) communicates air quality in easy terms; launched by Central Pollution Control Board (CPCB)",
+    "AQI categories: Good, Satisfactory, Moderate, Poor, Very Poor, Severe",
+    "GRAP (2017): emergency measures that kick in only when air quality shifts from Poor to Very Poor",
+    "GRAP was submitted by CPCB and approved by the Supreme Court in 2016 (MC Mehta vs Union of India)",
+    "GRAP is implemented by the Commission for Air Quality Management",
+    "National Clean Air Programme launched in 2019 by the Ministry of Environment, Forests and Climate Change",
+    "NCAP goal: 40% reduction in average particulate matter concentrations by 2026 in 131 cities",
+    "The 131 non-attainment cities under NCAP were identified by CPCB",
+    "PRANA portal launched to track NCAP progress and regulate air pollution in non-attainment cities",
+    "SAFAR is a Ministry of Earth Sciences initiative for city-wide and localised air quality monitoring"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Vehicle, fuel, farm and legal measures",
+   "summary": "Vehicle norms, clean-fuel schemes and farm tools target different sources of pollution. Bharat Stage VI became mandatory nationwide in 2020, while FAME promotes electric and hybrid vehicles. Legal protection includes the Fundamental Duty in Article 51A(g), added in 1976, and the reading of Article 21 to cover a healthy environment.",
+   "facts": [
+    "Bharat Stage VI (2020): mandatory leap from BS-IV to BS-VI, implemented nationwide",
+    "FAME scheme promotes adoption of electric and hybrid vehicles",
+    "Pradhan Mantri Ujjwala Yojana provides LPG as clean cooking fuel, reducing biomass-based cooking",
+    "SATAT initiative promotes compressed bio-gas to manage agricultural waste",
+    "GRIHA encourages sustainable, eco-friendly practices in building construction and operation",
+    "Turbo Happy Seeder uproots stubble and sows seeds in the cleared area",
+    "Pusa Bio-Decomposer turns crop residue into manure in 15-20 days; developed by Indian Agricultural Research Institute",
+    "42nd Amendment (1976) inserted Clause (g) in Article 51A: protecting and improving the natural environment is a Fundamental Duty",
+    "Article 21 interpreted to include the right to a healthy environment",
+    "Air (Prevention and Control of Pollution) Act, 1981; Water (Prevention and Control of Pollution) Act, 1974; Environment Protection Act, 1986"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x10-72",
+   "type": "MCQ",
+   "passage": "The World Air Quality Report 2025 was prepared by IQAir, a Swiss company that measures air quality. Its assessments are based on PM2.5, which refers to fine particulate matter measured in micrograms per cubic metre (µg/m³). The report compares measured concentrations with the air quality guidelines set by the World Health Organisation. The findings are presented as lists of countries, cities and regions, arranged according to how polluted each place is. Each figure is an annual average, so the rankings reflect typical air over a full year rather than a single day. Such lists help readers see at a glance which places have the highest pollution levels. Among countries, the list begins with one nation whose annual PM2.5 level is many times the WHO limit, and several other nations follow it in the ranking. Among cities, the top of the list is a city located in India. The report also notes that many countries fail to meet safe air quality standards, so the problem is widespread rather than confined to a few places. The report also tracks national capitals and regions. One capital has appeared repeatedly at the top of the capitals list, and the regional comparisons show where the heaviest pollution burden falls. Such capital-level comparisons are part of the report's wider coverage.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Consider the following statements about the most polluted places in the 2025 report:\nI. India accounted for 74 of the world's 100 most polluted cities in 2024.\nII. Bangladesh was the most polluted country in 2025.\nIII. Five of the world's ten most polluted cities are located in India.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Consider the following statements about the 2025 report:\nI. Pakistan's annual PM2.5 level is more than thirteen times the WHO limit.\nII. Delhi is the most polluted city in the 2025 report.\nIII. India ranked as the most polluted country in 2025.\nHow many of the above statements are correct?",
+     "options": [
+      "Only three",
+      "All of the above",
+      "Only one",
+      "Only two"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Assertion (A): The most polluted city in the 2025 report is Byrnihat.\nReason (R): Byrnihat is listed among the world's 10 most polluted cities in the 2025 report.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Which country was placed immediately after Pakistan in the 2025 list of most polluted countries?",
+     "options": [
+      "Chad",
+      "Tajikistan",
+      "Bangladesh",
+      "Democratic Republic of Congo"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "What was Pakistan's annual average PM2.5 level in the 2025 report?",
+     "options": [
+      "67.3 µg/m³",
+      "58.4 µg/m³",
+      "66.1 µg/m³",
+      "72.1 µg/m³"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Which region did the 2025 report identify as the most polluted globally?",
+     "options": [
+      "Sub-Saharan Africa and East Asia",
+      "Central and South Asia",
+      "Eastern Europe and Latin America",
+      "Southeast Asia and West Africa"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which Indian state contains the most polluted city in the 2025 report?",
+     "options": [
+      "Haryana",
+      "Bihar",
+      "Uttar Pradesh",
+      "Rajasthan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x10-73",
+   "type": "TITA",
+   "passage": "The World Air Quality Report 2025 was prepared by IQAir, a Swiss company that measures air quality. Its assessments are based on PM2.5, which refers to fine particulate matter measured in micrograms per cubic metre (µg/m³). The report compares measured concentrations with the air quality guidelines set by the World Health Organisation. The findings are presented as lists of countries, cities and regions, arranged according to how polluted each place is. Each figure is an annual average, so the rankings reflect typical air over a full year rather than a single day. Such lists help readers see at a glance which places have the highest pollution levels. Among countries, the list begins with one nation whose annual PM2.5 level is many times the WHO limit, and several other nations follow it in the ranking. Among cities, the top of the list is a city located in India. The report also notes that many countries fail to meet safe air quality standards, so the problem is widespread rather than confined to a few places. The report also tracks national capitals and regions. One capital has appeared repeatedly at the top of the capitals list, and the regional comparisons show where the heaviest pollution burden falls. Such capital-level comparisons are part of the report's wider coverage.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What was Pakistan's annual average PM2.5 level in the 2025 report, in µg/m³?"
+    },
+    {
+     "n": 2,
+     "q": "Which Indian state contains the most polluted city in the 2025 report?"
+    },
+    {
+     "n": 3,
+     "q": "Which country was placed fourth in the 2025 list of most polluted countries, after Pakistan, Bangladesh and Tajikistan?"
+    },
+    {
+     "n": 4,
+     "q": "How many of the world's 10 most polluted cities in 2025 were located in India?"
+    },
+    {
+     "n": 5,
+     "q": "Name the Indian city, other than Loni, Byrnihat, Delhi and Ghaziabad, that appears among the world's 10 most polluted cities in 2025."
+    },
+    {
+     "n": 6,
+     "q": "How many of the world's 100 most polluted cities in 2024 were in India?"
+    },
+    {
+     "n": 7,
+     "q": "Which national capital has repeatedly been named the world's most polluted capital in the 2025 report?"
+    }
+   ]
+  },
+  {
+   "id": "q-x10-74",
+   "type": "MCQ",
+   "passage": "Air pollution is tackled through measures that target its different sources rather than through a single rule. One group of measures deals with vehicles, using emission standards that apply across the country and encouraging cleaner types of vehicles so that traffic exhaust is reduced. Another group deals with fuels, including clean cooking fuel for households that otherwise depend on biomass, and fuel produced from agricultural waste. Farming is another source covered by these measures. Waste left on fields after harvest has to be managed, and the report describes two tools developed for this purpose. Construction is also addressed, since one measure covers the way buildings are designed and run. Legal protection forms the final layer. Constitutional provisions and several central statutes deal with pollution of air and water and with the wider environment. The measures listed are not all new; some were introduced decades ago, while others are more recent. Some are aimed at households, others at farmers, and others at legal protection. Each measure comes with a short description of what it does, which helps readers compare the tools side by side. Taken together, the listed measures cover vehicles, fuels, farms, construction and the law. Readers can therefore see how each source of pollution is addressed separately.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which emission standard became mandatory nationwide in 2020, with a leap from BS-IV?",
+     "options": [
+      "BS-V",
+      "BS-VI",
+      "BS-III",
+      "Euro VI"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What does the Turbo Happy Seeder do?",
+     "options": [
+      "Converts crop residue into manure",
+      "Generates compressed bio-gas from waste",
+      "Uproots stubble and sows seeds in the cleared area",
+      "Provides LPG to rural households"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "In which year was the Water (Prevention and Control of Pollution) Act enacted?",
+     "options": [
+      "1976",
+      "1981",
+      "1986",
+      "1974"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Article 21 has been interpreted to include the right to a healthy environment.\nReason (R): The Environment Protection Act was enacted in 1981.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. FAME   ->   A. Promotes compressed bio-gas\nII. Pradhan Mantri Ujjwala Yojana   ->   B. Encourages eco-friendly building practices\nIII. SATAT   ->   C. Provides LPG as clean cooking fuel\nIV. GRIHA   ->   D. Promotes electric and hybrid vehicles",
+     "options": [
+      "I-D, II-C, III-A, IV-B",
+      "I-B, II-A, III-C, IV-D",
+      "I-A, II-B, III-D, IV-C",
+      "I-A, II-D, III-C, IV-B"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the measures in the report:\nI. The Pusa Bio-Decomposer was developed by the Indian Agricultural Research Institute.\nII. The Air (Prevention and Control of Pollution) Act was enacted in 1974.\nIII. The Pradhan Mantri Ujjwala Yojana promotes electric and hybrid vehicles.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I only",
+      "I and III only",
+      "II and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about the measures in the report:\nI. Bharat Stage VI became mandatory nationwide in 2020.\nII. The Pusa Bio-Decomposer uproots stubble and sows seeds in the cleared area.\nIII. The Environment Protection Act was enacted in 1986.\nHow many of the above statements are correct?",
+     "options": [
+      "Only two",
+      "Only one",
+      "All of the above",
+      "Only three"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x10-75",
+   "type": "TITA",
+   "passage": "Air pollution is tackled through measures that target its different sources rather than through a single rule. One group of measures deals with vehicles, using emission standards that apply across the country and encouraging cleaner types of vehicles so that traffic exhaust is reduced. Another group deals with fuels, including clean cooking fuel for households that otherwise depend on biomass, and fuel produced from agricultural waste. Farming is another source covered by these measures. Waste left on fields after harvest has to be managed, and the report describes two tools developed for this purpose. Construction is also addressed, since one measure covers the way buildings are designed and run. Legal protection forms the final layer. Constitutional provisions and several central statutes deal with pollution of air and water and with the wider environment. The measures listed are not all new; some were introduced decades ago, while others are more recent. Some are aimed at households, others at farmers, and others at legal protection. Each measure comes with a short description of what it does, which helps readers compare the tools side by side. Taken together, the listed measures cover vehicles, fuels, farms, construction and the law. Readers can therefore see how each source of pollution is addressed separately.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the Environment Protection Act enacted?"
+    },
+    {
+     "n": 2,
+     "q": "Which scheme provides LPG as a clean cooking fuel to reduce biomass-based cooking?"
+    },
+    {
+     "n": 3,
+     "q": "Which scheme promotes the adoption of electric and hybrid vehicles?"
+    },
+    {
+     "n": 4,
+     "q": "Which Article of the Constitution has been interpreted to include the right to a healthy environment?"
+    },
+    {
+     "n": 5,
+     "q": "In which year was the Clause protecting the natural environment inserted into Article 51A as a Fundamental Duty?"
+    },
+    {
+     "n": 6,
+     "q": "Which institute developed the Pusa Bio-Decomposer?"
+    },
+    {
+     "n": 7,
+     "q": "How many days does the Pusa Bio-Decomposer take to turn crop residue into manure?"
+    }
+   ]
+  }
+ ]
+}

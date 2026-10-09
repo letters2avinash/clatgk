@@ -1,0 +1,421 @@
+{
+ "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Census 2027 Phase I and digital enumeration",
+   "summary": "India has launched Phase I of Census 2027, described as the world's largest population count and the first fully digital enumeration exercise. Phase I is a House Listing and Housing Census, with self-enumeration from 1 April 2026 and a field exercise from 16 April to 15 May 2026 in notified States and UTs. The exercise relies on mobile applications, web-based data collection and digital mapping tools.",
+   "facts": [
+    "Phase I of Census 2027 is a House Listing and Housing Census.",
+    "Self-enumeration began on 1 April 2026.",
+    "Field exercise runs from 16 April to 15 May 2026 in notified States and UTs.",
+    "Key focus areas: housing conditions, household amenities, assets and infrastructure.",
+    "Described as the first fully digital census exercise in India.",
+    "Digital tools: mobile applications, web-based data collection and digital mapping tools.",
+    "Self-enumeration works through a secure web portal and is available in 16 languages.",
+    "Stated limitation: only residents currently present in India are covered.",
+    "The Census 2027 questionnaire contains 33 questions."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Census history and caste enumeration",
+   "summary": "Population counts are traced to the Arthashastra, Ain-e-Akbari and Rig Veda. The modern census developed in the colonial period, with a non-synchronous national census in 1871 and a synchronous census in 1881. The 1931 census was the last caste-based census, and after Independence only SC and ST data has been collected.",
+   "facts": [
+    "Ancient references to population counts appear in the Arthashastra, Ain-e-Akbari and Rig Veda.",
+    "The 1871 national census was non-synchronous and was conducted under Lord Mayo.",
+    "The 1881 synchronous census was conducted by WC Plowden under Lord Rippon.",
+    "JH Hutton was Census Commissioner in 1931; RA Gopalaswami was Census Commissioner in 1951.",
+    "The 1931 census was the last caste-based census.",
+    "After 1947 only SC and ST data was collected; OBCs have been excluded until now.",
+    "The 1921 census is the only census to witness a decadal population decline.",
+    "Bihar, Karnataka and Telangana undertook independent caste surveys, in that order.",
+    "India has held 7 censuses since Independence."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Constitutional and legal framework",
+   "summary": "The Union's power to conduct the census rests on Article 246 and Entry 69 of the Union List. The Census Act, 1948 provides the legal mandate and makes participation mandatory. The 84th Constitutional Amendment Act of 2002 froze Lok Sabha seat allocation on 1971 Census data until the first census conducted after 2026.",
+   "facts": [
+    "The Union has the power to conduct the census under Article 246 and Entry 69 of the Union List.",
+    "Articles 81 and 82 relate to Lok Sabha seat distribution and delimitation after 2026.",
+    "The 84th Constitutional Amendment Act, 2002 froze Lok Sabha seat allocation using 1971 Census data.",
+    "The freeze lasts until the first census conducted after 2026.",
+    "The Census Act, 1948 provides the legal mandate and makes participation mandatory.",
+    "The census is managed by the Registrar General and Census Commissioner of India, Mritunjay Kumar Narayan."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Purpose of the census and its challenges",
+   "summary": "Census data supports delimitation, women's one-third seat reservation and planning for healthcare, education and infrastructure. Unlike sample surveys, the census offers comprehensive population data. Challenges include limited rural digital access, caste data inconsistencies, logistics, public trust and administrative capacity.",
+   "facts": [
+    "Caste data is seen as key to sharpen welfare schemes such as PM Awas Yojana and Skill India.",
+    "Caste data aids delimitation and enables Women's One-Third Seat Reservation in Parliament and Assemblies.",
+    "Unlike sample surveys, the census offers comprehensive population data.",
+    "Demographic data is vital for planning healthcare, education and infrastructure.",
+    "Census forms are the basis for updating the National Population Register.",
+    "Challenge: limited rural access to digital tools.",
+    "Challenge: avoid duplication and inconsistencies in caste data.",
+    "Challenge: large-scale training and coverage of remote areas.",
+    "Challenge: public trust, given fears around NPR/NRC linkages.",
+    "Challenge: administrative capacity, covering funds, staffing and inter-agency coordination."
+   ]
+  },
+  {
+   "i": 4,
+   "title": "NPR, CAA and NRC compared",
+   "summary": "The NPR is a nationwide database of every resident, including foreigners, meant for government schemes. The CAA covers minority refugees from Pakistan, Afghanistan and Bangladesh who came to India before 31 December 2014. The NRC covers citizens of India with valid identity documents, and only Assam currently updates it.",
+   "facts": [
+    "NPR is a database of every resident, including foreigners.",
+    "NPR covers residents who have lived at an address for the last 6 months and will stay there for the next 6 months.",
+    "NPR is meant to be used for government schemes and has nationwide coverage.",
+    "CAA covers minority refugees (Hindu, Christian, Sikh, Parsi, Jain, Buddhist) from Pakistan, Afghanistan and Bangladesh.",
+    "CAA covers those minority refugees who came to India before 31 December 2014.",
+    "NRC covers citizens of India with valid identity documents.",
+    "Currently, only Assam updates the NRC.",
+    "Government's answer: there is no duplication between NPR and Aadhaar, as the objectives are different.",
+    "Government's answer: Muslims are not a minority in the 3 neighbouring countries, so they are not mentioned."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x03-40",
+   "type": "MCQ",
+   "passage": "Census 2027 rests on a set of constitutional and legal provisions. The Union holds the power to conduct a census, and the count is connected with how seats in the Lok Sabha are distributed and how delimitation is handled after 2026. A separate central statute gives the exercise its legal mandate and decides whether residents must take part. The census is managed by a senior official who holds the posts of Registrar General and Census Commissioner of India. Its data also serves as a basis for updating the National Population Register and for preparing a register of citizens across the country. The same count is used for planning healthcare, education and infrastructure. Because it covers the whole population, the census provides a reference point against which other surveys can be measured. Phase I of the census is described as a house listing and housing census, and the exercise as a whole is described as the world's largest fully digital enumeration. The booklet also describes it as the first fully digital census in India. In that sense, the legal and administrative structure behind the count matters for representation, governance and welfare alike, and the framework connects a single national exercise to several different public purposes.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "On which census's data was Lok Sabha seat allocation frozen under the 84th Constitutional Amendment Act, 2002?",
+     "options": [
+      "1951 Census",
+      "1961 Census",
+      "1971 Census",
+      "1981 Census"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Until when does that freeze on Lok Sabha seat allocation last?",
+     "options": [
+      "Until the first census conducted after 2026",
+      "Until the first census conducted after 1971",
+      "Until the Census Act, 1948 is amended",
+      "Until the next Lok Sabha general election"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Who is named in the booklet as Registrar General and Census Commissioner of India for Census 2027?",
+     "options": [
+      "Vivek Joshi",
+      "Sailesh",
+      "Mritunjay Kumar Narayan",
+      "Ashutosh Shukla"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following.\nAssertion (A): Articles 81 and 82 relate to Lok Sabha seat distribution and delimitation after 2026.\nReason (R): The Census Act, 1948 provides the legal mandate for the census and makes participation mandatory.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Article 246 and Entry 69   ->   A. Legal mandate and mandatory participation\nII. 84th Constitutional Amendment Act, 2002   ->   B. Lok Sabha seat distribution and delimitation after 2026\nIII. Articles 81 and 82   ->   C. Freeze on Lok Sabha seat allocation\nIV. Census Act, 1948   ->   D. Union's power to conduct the census",
+     "options": [
+      "I-C, II-B, III-D, IV-A",
+      "I-D, II-C, III-B, IV-A",
+      "I-D, II-A, III-B, IV-C",
+      "I-C, II-A, III-B, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the legal framework.\nI. The Union has power to conduct the census under Article 246 and Entry 69 of the Union List.\nII. Lok Sabha seat allocation is frozen until the first census conducted after 1971.\nIII. The Census Act, 1948 makes participation in the census mandatory.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I, II and III",
+      "I and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the statements below about the legal framework are correct?\nI. Articles 81 and 82 deal with Lok Sabha seat distribution and delimitation after 2026.\nII. The Registrar General and Census Commissioner of India is Vivek Joshi.\nIII. The 84th Constitutional Amendment Act, 2002 froze seat allocation using 1971 Census data.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x03-41",
+   "type": "TITA",
+   "passage": "India's census draws its legal backing from more than one source. The Constitution places the power to conduct a census with the Union, and the relevant entry appears in the list of matters on which the Union may legislate. A central Act provides the statutory mandate and makes participation compulsory for those being counted. Separate constitutional provisions deal with how Lok Sabha seats are distributed and how constituencies are delimited after a fixed date. A constitutional amendment from the early 2000s holds Lok Sabha seat allocation on older census figures for a set period. The census is managed by the Registrar General and Census Commissioner of India, a senior official whose name is given in the booklet. Results from the census also support the National Population Register, the planning of healthcare, education and infrastructure, and the work of other surveys, which can use the census as a benchmark. Taken together, these arrangements connect a national count to representation, administration and public planning in one legal framework. Each of these elements is set out separately in the booklet. Phase I of the census is a house listing and housing census, and the exercise is described as the world's largest fully digital enumeration.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Under which Article of the Constitution does the Union get the power to conduct the census? (number)"
+    },
+    {
+     "n": 2,
+     "q": "Which entry of the Union List covers the power to conduct the census? (entry number)"
+    },
+    {
+     "n": 3,
+     "q": "Which two Articles deal with Lok Sabha seat distribution and delimitation after 2026? (give the two numbers)"
+    },
+    {
+     "n": 4,
+     "q": "In which year was the 84th Constitutional Amendment Act passed? (year)"
+    },
+    {
+     "n": 5,
+     "q": "In which year was the Census Act passed, giving the census its legal mandate? (year)"
+    },
+    {
+     "n": 6,
+     "q": "According to the booklet, what is the surname of the Registrar General and Census Commissioner of India? (surname)"
+    },
+    {
+     "n": 7,
+     "q": "The 84th Amendment froze Lok Sabha seat allocation using data from which census? (year)"
+    }
+   ]
+  },
+  {
+   "id": "q-x03-42",
+   "type": "MCQ",
+   "passage": "Census 2027 is designed to produce population information that policymakers can use across many areas. Caste is one of the categories for which information is gathered, and the booklet presents caste data as an input for targeting government programmes at marginalised groups. Census data is also used in electoral planning, including the allocation of seats. The exercise is large and is organised in phases, beginning with house listing and a housing census. Officials have to organise fieldwork across the country and coordinate with other agencies. The process also involves covering areas in the notified States and Union Territories. The exercise is described in the booklet as the world's largest fully digital enumeration, which relies on mobile applications and web-based data collection. The census is also described as a foundation for planning in several sectors, including the design of public services for growing and moving populations. Several practical and public difficulties accompany a count of this size, and the booklet discusses them alongside the purposes of the exercise. The booklet places the census in a long history of population counting, from ancient texts to colonial-era enumerations. Phase I is one step within the larger Census 2027 programme. The exercise is described as the world's largest population count.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which category does the booklet use for limited rural access to digital tools?",
+     "options": [
+      "Logistical",
+      "Technological",
+      "Public trust",
+      "Administrative capacity"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which two welfare schemes does the booklet name as examples that caste data could help sharpen?",
+     "options": [
+      "PM Awas Yojana and Skill India",
+      "Ayushman Bharat and Swachh Bharat",
+      "Jan Dhan and Mudra",
+      "PM Kisan and Ujjwala"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Consider the following.\nAssertion (A): Caste data aids delimitation and enables Women's One-Third Seat Reservation in Parliament and Assemblies.\nReason (R): Census forms are the basis for updating the National Population Register.",
+     "options": [
+      "A is true but R is false",
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. Data classification   ->   A. Funds, staffing and inter-agency coordination\nII. Logistical   ->   B. Fears around NPR/NRC linkages\nIII. Administrative capacity   ->   C. Avoiding duplication and inconsistencies in caste data\nIV. Public trust   ->   D. Large-scale training and coverage of remote areas",
+     "options": [
+      "I-C, II-D, III-A, IV-B",
+      "I-B, II-C, III-A, IV-D",
+      "I-A, II-C, III-B, IV-D",
+      "I-A, II-D, III-C, IV-B"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about the purposes of Census 2027.\nI. Unlike sample surveys, the census offers comprehensive population data.\nII. The census is used only to count households and does not inform planning.\nIII. Demographic data from the census is vital for planning healthcare, education and infrastructure.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Of the statements below, how many are correct?\nI. Fears around NPR/NRC linkages are listed as a public trust challenge.\nII. Census forms are used to prepare the Aadhaar number database.\nIII. The census is considered a reliable benchmark for other surveys.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Progress towards which global framework does the booklet say census data advances?",
+     "options": [
+      "Millennium Development Goals",
+      "Paris Agreement targets",
+      "Digital India mission targets",
+      "Sustainable Development Goals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x03-43",
+   "type": "TITA",
+   "passage": "Caste data is one of the types of information that the census is expected to collect. The booklet presents it as useful for sharpening welfare programmes meant for marginalised groups, and as relevant to delimitation and to the representation of women in legislatures. Demographic information is also described as essential for planning services such as healthcare, education and infrastructure, particularly in view of urban migration and an ageing population. The census covers the whole population, which distinguishes it from smaller sample-based studies, and it is therefore used as a reference for other surveys. The booklet also notes that the census is linked with the updating of registers of residents and citizens. Carrying out the count is demanding, and officials must reach remote areas. Public trust is also a concern, particularly around links with other registers. The exercise must also avoid mistakes in how caste information is recorded. Finally, the census is expected to add to national progress on health, education and poverty indicators. The booklet traces population counting back to ancient texts and to colonial-era censuses. Census data also supports tracking of population trends. The booklet describes the census as the world's largest population count, and says census data is crucial for assessing policies and welfare programmes.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which housing welfare scheme does the booklet name as one that caste data could sharpen? (scheme name)"
+    },
+    {
+     "n": 2,
+     "q": "Besides PM Awas Yojana, which skills-focused scheme does the booklet name as one that caste data could sharpen? (scheme name)"
+    },
+    {
+     "n": 3,
+     "q": "What fraction of seats in Parliament and Assemblies does Women's One-Third Seat Reservation cover? (fraction)"
+    },
+    {
+     "n": 4,
+     "q": "Which challenge category covers duplication and inconsistencies in caste data? (category name)"
+    },
+    {
+     "n": 5,
+     "q": "Which challenge category covers large-scale training and coverage of remote areas? (category name)"
+    },
+    {
+     "n": 6,
+     "q": "Which challenge category covers funds, staffing and inter-agency coordination? (category name)"
+    },
+    {
+     "n": 7,
+     "q": "Progress towards which global framework does census data help advance? (acronym)"
+    }
+   ]
+  },
+  {
+   "id": "q-x03-44",
+   "type": "MCQ",
+   "passage": "Three terms are often discussed together in the context of Census 2027: the National Population Register, the Citizenship Amendment Act and the National Register of Citizens. Each one has a different purpose and a different scope. The first is a database and is connected with the census exercise. The second deals with refugees who came to India from neighbouring countries and belong to particular religious communities. The third concerns the citizens of India and the documents that establish their status. Public discussion has raised questions about whether a population database is needed alongside the Aadhaar number, and the government's response has been that the two serve different objectives. The Census Act provides the legal framework within which the census operates. The three terms are sometimes treated as one issue, although each covers a different group of people. The booklet presents a comparison table to show the scope, coverage and purpose of each, and it discusses these terms as part of the wider debate on the census. The comparison covers who is in scope, the geographical coverage and the definition used for each, and it appears under the heading Difference between NPR, CAA and NRC. The census itself is managed by the Registrar General and Census Commissioner of India.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which register is described as a database of every resident, including foreigners?",
+     "options": [
+      "National Register of Citizens",
+      "Citizenship Amendment Act",
+      "National Population Register",
+      "Census Act, 1948"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "How many of the statements below about the registers are correct?\nI. Census forms are the basis for updating the National Population Register.\nII. The CAA covers refugees who came to India after 31 December 2014.\nIII. The National Population Register is meant to be used for government schemes.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Consider the following.\nAssertion (A): The NRC covers citizens of India who have valid identity documents.\nReason (R): The NPR covers every resident, including foreigners.",
+     "options": [
+      "A is false but R is true",
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "By what date must the minority refugees covered under the CAA have come to India?",
+     "options": [
+      "31 December 2014",
+      "31 December 2010",
+      "31 March 2014",
+      "31 December 2016"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about the registers and the CAA.\nI. The NPR covers residents who have lived at an address for the last 6 months and will stay there for the next 6 months.\nII. The CAA covers Muslim refugees from Pakistan, Afghanistan and Bangladesh.\nIII. The NRC covers citizens of India with valid identity documents.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Which of the following religious communities is NOT listed among the minority refugees covered under the CAA?",
+     "options": [
+      "Hindu",
+      "Jewish",
+      "Sikh",
+      "Buddhist"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Match List I with List II:\nI. National Population Register   ->   A. Muslims are not a minority in the three neighbouring countries\nII. Citizenship Amendment Act   ->   B. Citizens of India with valid identity documents\nIII. National Register of Citizens   ->   C. Database of every resident, including foreigners\nIV. Government's reply on the absence of Muslims   ->   D. Minority refugees from Pakistan, Afghanistan and Bangladesh",
+     "options": [
+      "I-C, II-A, III-D, IV-B",
+      "I-B, II-C, III-A, IV-D",
+      "I-A, II-C, III-D, IV-B",
+      "I-C, II-D, III-B, IV-A"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x03-45",
+   "type": "TITA",
+   "passage": "Census 2027 is discussed alongside several related exercises that are often confused with it. The first is a national database of residents, which is linked to the census through the forms used to update it. The second is a law that concerns refugees who entered India from neighbouring countries and belong to certain religious communities, and it sets a date by which they must have arrived. The third is a list of people who are citizens of India and hold valid identity documents, and only one state is described as updating it. Concerns have been raised that the database overlaps with another national identity system, but the government has argued that the two have different aims. The Census Act provides the legal framework within which the census operates, and the Union government conducts it. The census itself covers the whole population and is organised in phases, with house listing first. The booklet presents these exercises as distinct, with different coverage and purposes. Its table shows who is in scope and gives a definition for each exercise, which allows direct comparison. The booklet also lists the government's replies to public questions, and it treats the residence period and the arrival date as key conditions for coverage.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "For how many months must a person have lived at an address in the past to be covered by the database of residents? (number of months)"
+    },
+    {
+     "n": 2,
+     "q": "By what date must minority refugees have come to India to be covered by the law? (date)"
+    },
+    {
+     "n": 3,
+     "q": "How many neighbouring countries are named as sources of minority refugees under the law? (number)"
+    },
+    {
+     "n": 4,
+     "q": "What is the short form of the law covering minority refugees from neighbouring countries? (abbreviation)"
+    },
+    {
+     "n": 5,
+     "q": "What is the short form of the register of citizens of India who hold valid identity documents? (abbreviation)"
+    },
+    {
+     "n": 6,
+     "q": "The government says the database of residents does not duplicate which other national identity system? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "Which register covers every resident, including foreigners? (abbreviation)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,296 @@
+{
+ "topic": "Constitution (131st Amendment) Bill, 2026",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Bill and Lok Sabha expansion",
+   "summary": "The Constitution (131st Amendment) Bill, 2026 was proposed along with the Delimitation Bill, 2026 to restructure representation. It would expand the Lok Sabha from 543 to 850 seats, with 815 for States and 35 for Union Territories. Seat allocation and delimitation would use the 2011 Census, and Parliament would decide which population data to use.",
+   "facts": [
+    "Constitution (131st Amendment) Bill, 2026 proposed with the Delimitation Bill, 2026",
+    "Lok Sabha to expand from 543 to 850 seats",
+    "Proposed 850 seats: 815 for States and 35 for Union Territories",
+    "Current Lok Sabha strength: 543 elected members",
+    "2011 Census used for seat allocation and delimitation",
+    "Article 82 amended to lift the freeze on redrawing constituency boundaries",
+    "Parliament empowered to decide which population data to use",
+    "Current Lok Sabha seat freeze is based on the 1971 Census under the 84th Amendment"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Women's reservation",
+   "summary": "The Bill overrides the delay linked to the Census for women's reservation under the Nari Shakti Vandan Adhiniyam. Reservation is for one-third of seats in the Lok Sabha and State Assemblies, valid for 15 years and extendable by Parliament. Reserved constituencies rotate after each delimitation, and the reservation does not extend to the Rajya Sabha or State Legislative Councils.",
+   "facts": [
+    "Women's Reservation Act, 2023 is the 106th Constitutional Amendment Act",
+    "One-third of total seats in Lok Sabha and State Assemblies reserved for women",
+    "Article 330A: reservation for women in the Lok Sabha",
+    "Article 332A: reservation for women in State Legislative Assemblies",
+    "Article 239AA: reservation for women in the NCT of Delhi",
+    "Article 334A: reservation effective after delimitation and Census",
+    "Reservation valid for 15 years and can be extended",
+    "Reserved seats rotate after each delimitation",
+    "Within SC/ST reserved seats, one-third reserved for SC/ST women under the Bill",
+    "Women's reservation bills were introduced in 1996, 1998, 2009, 2010 and 2014",
+    "No women's reservation in the Rajya Sabha or State Legislative Councils"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Delimitation and the Commission",
+   "summary": "Delimitation redraws territorial constituency boundaries so that representation stays fair after population changes. Article 82 requires Parliament to pass a Delimitation Act after every Census, and the President appoints the Delimitation Commission. The Delimitation Bill, 2026 gives the Commission civil court powers and states that its orders cannot be challenged in courts.",
+   "facts": [
+    "Delimitation defines territorial constituency boundaries after population changes",
+    "Article 82: Parliament to pass a Delimitation Act after every Census",
+    "Article 170 governs the division of constituencies for State Assemblies",
+    "President appoints the Delimitation Commission in consultation with the Election Commission",
+    "Commission members: a retired Supreme Court judge (Chairperson), the Chief Election Commissioner and State Election Commissioners",
+    "Commission decisions are final and not subject to court review or modification by Parliament or State Assemblies",
+    "Delimitation Commissions were formed under Acts of 1952, 1962, 1972 and 2002",
+    "No Commission was formed after the 1981 and 1991 Censuses",
+    "84th Amendment (2002) extended the freeze until the first Census after 2026"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Concerns and consequences",
+   "summary": "Critics point to federal imbalance, with the South's share of Lok Sabha seats projected to fall from 24.3% to about 20.7%. Concerns also include outdated 2011 data, removal of judicial review and excess legislative control over delimitation. Supporters point to smaller constituencies, better grievance redressal and a more efficient use of MPLADS funds.",
+   "facts": [
+    "Federal imbalance: Southern States' share falls from 24.3% to about 20.7%",
+    "Northern dominance: high population growth states gain more seats",
+    "Outdated data: the 2011 Census may distort representation for decades",
+    "Judicial review removed: risk of gerrymandering",
+    "Excess legislative control: Parliament's discretion may politicise delimitation",
+    "Ministers capped at 15% of Lok Sabha strength under Article 75(1A)",
+    "Joint sittings: Lok Sabha dominance dilutes the Rajya Sabha's federal role",
+    "Expansion reduces constituency size and improves accessibility and grievance redressal",
+    "Census dependency delays implementation of women's reservation"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x02-36",
+   "type": "MCQ",
+   "passage": "Delimitation is the process of drawing the boundaries of territorial constituencies so that representation stays fair as population changes. Over time, some constituencies grow much larger than others, which means that a vote in one area can carry less weight than a vote in another. For this reason, boundaries are not drawn once and left alone. Each redrawing exercise is carried out by a body called a Delimitation Commission, which is set up for that purpose. Such Commissions have been created under several Acts passed over a period of decades. They have not been appointed after every census, and at certain points the seat allocation among States was frozen to protect States that had controlled their population growth. Later changes to the Constitution continued these freezes. The same principle of fair representation also applies to the division of constituencies for State Assemblies, which follows its own constitutional provisions. Because the freeze was tied to population counts, the timing of the next redrawing has become a central question in the present debate over expanding the Lok Sabha. The question is not only how many seats exist but also how they are spread across regions. This makes the process both technical and politically sensitive, since every change in boundaries affects the candidates and voters in each area.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which Article governs the division of constituencies for State Assemblies?",
+     "options": [
+      "Article 81",
+      "Article 170",
+      "Article 332A",
+      "Article 239AA"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "After which two Censuses was no Delimitation Commission formed?",
+     "options": [
+      "1981 and 1991",
+      "1971 and 1981",
+      "1991 and 2001",
+      "2001 and 2011"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which amendment extended the seat freeze until the first Census after 2026?",
+     "options": [
+      "73rd Amendment (1992)",
+      "42nd Amendment (1976)",
+      "84th Amendment (2002)",
+      "106th Amendment (2023)"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following assertion and reason.\nAssertion (A): The President appoints the Delimitation Commission in consultation with the Election Commission.\nReason (R): Article 82 requires Parliament to pass a Delimitation Act after every Census.",
+     "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Article 82   ->   A. Division of constituencies for State Assemblies\nII. Article 170   ->   B. Consultation with the Election Commission\nIII. 84th Amendment (2002)   ->   C. Parliament to pass a Delimitation Act after every Census\nIV. Appointment of the Delimitation Commission   ->   D. Extended the freeze until the first Census after 2026",
+     "options": [
+      "I-D, II-B, III-A, IV-C",
+      "I-C, II-D, III-A, IV-B",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-B, III-C, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the Delimitation Commission:\nI. The Commission's functions include allocating seats among States.\nII. Commissions have been formed under Acts of 1952, 1962 and 1972 only, with none under a later Act.\nIII. Rapid migration has overcrowded some urban constituencies.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "II and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about the Delimitation Commission are correct?\nI. A Delimitation Commission was formed under an Act of 1972.\nII. The Commission's decisions are final and not subject to modification by Parliament or State Assemblies.\nIII. A Delimitation Commission was formed after the 1981 Census.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x02-37",
+   "type": "TITA",
+   "passage": "Delimitation is the process of drawing the boundaries of territorial constituencies so that representation stays fair as population changes. Over time, some constituencies grow much larger than others, which means that a vote in one area can carry less weight than a vote in another. For this reason, boundaries are not drawn once and left alone. Each redrawing exercise is carried out by a body called a Delimitation Commission, which is set up for that purpose. Such Commissions have been created under several Acts passed over a period of decades. They have not been appointed after every census, and at certain points the seat allocation among States was frozen to protect States that had controlled their population growth. Later changes to the Constitution continued these freezes. The same principle of fair representation also applies to the division of constituencies for State Assemblies, which follows its own constitutional provisions. Because the freeze was tied to population counts, the timing of the next redrawing has become a central question in the present debate over expanding the Lok Sabha. The question is not only how many seats exist but also how they are spread across regions. This makes the process both technical and politically sensitive, since every change in boundaries affects the candidates and voters in each area.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the most recent Delimitation Commission listed in the booklet formed under an Act? (year)"
+    },
+    {
+     "n": 2,
+     "q": "Which body does the President consult before appointing the Delimitation Commission? (name)"
+    },
+    {
+     "n": 3,
+     "q": "Under which Article is the division of constituencies for State Assemblies governed? (Article number)"
+    },
+    {
+     "n": 4,
+     "q": "Apart from a retired Supreme Court judge, which constitutional office holder is a member of the Delimitation Commission? (title)"
+    },
+    {
+     "n": 5,
+     "q": "In which year was the earliest Delimitation Commission listed in the booklet formed? (year)"
+    },
+    {
+     "n": 6,
+     "q": "What quality is the Commission described as having, since it functions without executive influence? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "Apart from Scheduled Castes and Scheduled Tribes, for which group does the Commission decide reservations? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x02-38",
+   "type": "MCQ",
+   "passage": "The proposed expansion of the Lok Sabha has been debated mainly for its effects on different parts of the country. Supporters of the change argue that a larger House would bring elected representatives closer to the people they serve, making it easier for citizens to raise their problems and seek a response. Critics reply that the benefits are not shared evenly, because the new seat arrangement would affect States differently depending on how their populations have grown over time. Some argue that the population figures used for the exercise may no longer match present conditions, and that the effects could last for many years. Others point to the design of the framework itself and ask how much room the rules leave for choices made at different stages. The discussion has also drawn in committees, public commentary and political parties, each setting out its own view of the reform. Taken together, these views show a debate about how representation, federal balance and effective governance should be weighed against one another. Each side supports its position with a different set of concerns about the design of the change and its likely results in the years ahead. Local perspectives on the issue also vary across regions, and this variation is part of why the debate remains open.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Match List I with List II:\nI. Decline in legislative deliberation   ->   A. Political weight may influence Finance Commission allocations\nII. Fiscal federal concerns   ->   B. MPs handle smaller constituencies and make more efficient use of their development funds\nIII. Better local development targeting   ->   C. Committee specialisation and policy expertise\nIV. Improved parliamentary functioning   ->   D. Reduced speaking time per MP and weaker Question Hour scrutiny",
+     "options": [
+      "I-C, II-D, III-B, IV-A",
+      "I-D, II-B, III-C, IV-A",
+      "I-A, II-D, III-B, IV-C",
+      "I-D, II-A, III-B, IV-C"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Consider the following statements about the proposed Lok Sabha changes:\nI. Smaller constituencies may improve grievance redressal.\nII. Joint sittings are said to strengthen the Rajya Sabha's federal role.\nIII. Expansion may inflate the size of the Executive.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "How many of the following statements about the proposed Lok Sabha changes are correct?\nI. Economically efficient but less populous States may be disadvantaged in Finance Commission allocations.\nII. Census dependency is one reason women's reservation has been delayed.\nIII. Expansion increases the average size of constituencies.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Which chamber's federal role is said to be diluted by Lok Sabha dominance in joint sittings?",
+     "options": [
+      "Lok Sabha",
+      "State Legislative Assembly",
+      "Rajya Sabha",
+      "Legislative Council"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Which negative consequence is linked to Parliament's discretion over which population data to use?",
+     "options": [
+      "Politicisation of delimitation",
+      "Smaller constituencies",
+      "Higher MPLADS allocation",
+      "Lower Finance Commission transfers"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "What approximate share of Lok Sabha seats is the Southern States' share projected to fall to under the proposed delimitation?",
+     "options": [
+      "About 24.3%",
+      "About 20.7%",
+      "About 33.3%",
+      "About 14.4%"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following assertion and reason.\nAssertion (A): Gerrymandering is identified as a risk in the proposed framework.\nReason (R): Judicial review of the delimitation process has been removed, leaving no court challenge.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x02-39",
+   "type": "TITA",
+   "passage": "The proposed expansion of the Lok Sabha has been debated mainly for its effects on different parts of the country. Supporters of the change argue that a larger House would bring elected representatives closer to the people they serve, making it easier for citizens to raise their problems and seek a response. Critics reply that the benefits are not shared evenly, because the new seat arrangement would affect States differently depending on how their populations have grown over time. Some argue that the population figures used for the exercise may no longer match present conditions, and that the effects could last for many years. Others point to the design of the framework itself and ask how much room the rules leave for choices made at different stages. The discussion has also drawn in committees, public commentary and political parties, each setting out its own view of the reform. Taken together, these views show a debate about how representation, federal balance and effective governance should be weighed against one another. Each side supports its position with a different set of concerns about the design of the change and its likely results in the years ahead. Local perspectives on the issue also vary across regions, and this variation is part of why the debate remains open.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "To what approximate percentage would the Southern States' share of Lok Sabha seats fall? (per cent)"
+    },
+    {
+     "n": 2,
+     "q": "Removing judicial review is said to carry a risk of which practice? (one word)"
+    },
+    {
+     "n": 3,
+     "q": "Population-based delimitation is said to violate which principle of federalism? (two words)"
+    },
+    {
+     "n": 4,
+     "q": "Census dependency is cited as a reason for delay in implementing which reservation? (two words)"
+    },
+    {
+     "n": 5,
+     "q": "Political weight tied to population may influence allocations by which Commission? (name)"
+    },
+    {
+     "n": 6,
+     "q": "Which constitutional amendment is cited as being supported by the expansion? (number)"
+    },
+    {
+     "n": 7,
+     "q": "In joint sittings, the dominance of the Lok Sabha dilutes the federal role of which chamber? (name)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "topic": "PFBR at Kalpakkam Achieves Criticality",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Criticality and neutron balance",
+   "summary": "A reactor reaches criticality when its nuclear fission chain reaction becomes self-sustaining, and this depends on the balance of the neutron population in the core. The multiplication factor k compares the neutrons in one generation with the previous generation. The value of k decides whether a reactor is subcritical, critical or supercritical.",
+   "facts": [
+    "Criticality: the state in which the nuclear fission chain reaction is self-sustaining.",
+    "Depends on the neutron population balance in the reactor core.",
+    "Multiplication factor k: neutrons in one generation divided by neutrons in the previous generation.",
+    "Subcritical (k < 1): neutron population decreases and the chain reaction dies out.",
+    "Critical (k = 1): neutron population remains constant and the reaction is steady and self-sustaining.",
+    "Supercritical (k > 1): neutron population increases exponentially and power output rises rapidly.",
+    "The PFBR achieved its first criticality, marking entry into Stage II of the nuclear programme."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "PFBR design and breeding",
+   "summary": "The Prototype Fast Breeder Reactor uses Mixed Oxide fuel derived from reprocessed spent fuel. Its core is surrounded by a Uranium-238 blanket in which fast neutrons convert U-238 into Plutonium-239. Liquid sodium is the coolant, and the reactor has a capacity of 500 MWe.",
+   "facts": [
+    "Fuel: Mixed Oxide (MOX) of plutonium and uranium.",
+    "The MOX fuel is derived from reprocessed spent fuel.",
+    "The core is surrounded by a Uranium-238 blanket, called the breeder blanket.",
+    "The breeder mechanism converts U-238 into Plutonium-239.",
+    "Uses fast neutrons to produce more nuclear fuel than it consumes while generating power.",
+    "Coolant system uses liquid sodium.",
+    "Liquid sodium has high thermal conductivity and does not slow neutrons.",
+    "Type: Fast Breeder Reactor with a capacity of 500 MWe."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Benefits: fuel, waste and energy",
+   "summary": "The PFBR produces more fuel than it consumes, which extends the use of nuclear resources. It recycles spent fuel from Stage I reactors, which reduces the volume of nuclear waste and its long-term radiotoxicity. The booklet also says it extracts about 60 times more energy from natural uranium than traditional PHWRs.",
+   "facts": [
+    "Result: the PFBR produces more fuel than it consumes.",
+    "Waste reduction: recycles spent fuel from Stage I reactors.",
+    "Reduces the volume of nuclear waste.",
+    "Reduces long-term radiotoxicity of nuclear waste.",
+    "Energy efficiency: extracts about 60 times more energy from natural uranium than traditional PHWRs.",
+    "PHWR stands for Pressurized Heavy Water Reactor, the comparison point for energy efficiency."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "India's three-stage nuclear programme",
+   "summary": "India's three-stage nuclear power programme was formulated by Homi Jehangir Bhabha to achieve long-term energy security using uranium and thorium resources. Stage I uses PHWRs, Stage II uses fast breeder reactors with MOX fuel and liquid sodium, and Stage III uses thorium-based advanced reactors. India presently has 24 nuclear power reactors operating in 6 states.",
+   "facts": [
+    "Formulated by Homi Jehangir Bhabha.",
+    "Aim: long-term energy security using uranium and thorium resources.",
+    "Stage I: PHWR with natural uranium fuel, heavy water coolant and heavy water moderator.",
+    "Stage I breeds Plutonium-239.",
+    "Stage II: Fast Breeder Reactor using MOX (Pu-239 + U-238) fuel and liquid sodium coolant.",
+    "Stage III: Advanced HWR / Thermal Breeder using Uranium-233 derived from thorium.",
+    "Stage III uses light water as coolant and heavy water as moderator.",
+    "India presently has 24 nuclear power reactors operating in 6 states, with installed capacity of 8780 MWe.",
+    "Kudankulam Power Plant in Tamil Nadu is the newest and largest; Tarapur Power Plant in Maharashtra is the first and oldest.",
+    "Atomic Energy Act, 1962 governs nuclear facilities; the Atomic Energy Regulatory Board (AERB) regulates them."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x11-76",
+   "type": "MCQ",
+   "passage": "The PFBR at Kalpakkam has achieved first criticality, a milestone that the booklet links with the start of a new phase in India's nuclear programme. Criticality is the state of a nuclear reactor in which the fission chain reaction is self-sustaining. Whether a reactor reaches this state depends on the balance of the neutron population in its core. The multiplication factor, written k, is the ratio of the number of neutrons in one generation to the number of neutrons in the previous generation. The booklet presents this under the heading Criticality in Nuclear Reactors and names three types of criticality, which are distinguished by the value of k. When k is less than 1, the reactor is subcritical: the neutron population decreases over time and the chain reaction dies out. When k equals 1, the reactor is critical: the neutron population remains constant and the chain reaction is steady and self-sustaining. When k is greater than 1, the reactor is supercritical: the neutron population increases exponentially and the power output rises rapidly. The achievement was reported in April 2026 in the booklet's current affairs section. The booklet then turns to the reactor's key technical features, which it lists in a separate section.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which fuel does the PFBR use?",
+     "options": [
+      "Natural uranium only",
+      "Enriched uranium-235",
+      "Mixed Oxide of plutonium and uranium",
+      "Thorium-232"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "From what is the reactor's MOX fuel derived?",
+     "options": [
+      "Reprocessed spent fuel",
+      "Natural uranium ore",
+      "Heavy water",
+      "Thorium-232"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What does the Uranium-238 blanket around the core do?",
+     "options": [
+      "It absorbs all neutrons",
+      "It slows fast neutrons",
+      "It cools the core",
+      "It converts U-238 into Plutonium-239"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The PFBR uses Mixed Oxide fuel.\nReason (R): The PFBR's coolant system uses liquid sodium.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Fuel   ->   A. Uranium-238\nII. Coolant   ->   B. Fast Breeder Reactor\nIII. Reactor type   ->   C. Mixed Oxide (MOX) of plutonium and uranium\nIV. Breeder blanket   ->   D. Liquid sodium",
+     "options": [
+      "I-D, II-A, III-C, IV-B",
+      "I-B, II-A, III-D, IV-C",
+      "I-C, II-D, III-B, IV-A",
+      "I-C, II-B, III-A, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the PFBR:\nI. Its fuel is a Mixed Oxide of plutonium and uranium.\nII. Its coolant is heavy water.\nIII. Its breeder blanket is made of thorium-232.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "II and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. The fuel is derived from reprocessed spent fuel.\nII. The core is surrounded by a Uranium-238 blanket.\nIII. The coolant is pressurised water.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x11-77",
+   "type": "TITA",
+   "passage": "The PFBR at Kalpakkam has achieved first criticality, a milestone that the booklet links with the start of a new phase in India's nuclear programme. Criticality is the state of a nuclear reactor in which the fission chain reaction is self-sustaining. Whether a reactor reaches this state depends on the balance of the neutron population in its core. The multiplication factor, written k, is the ratio of the number of neutrons in one generation to the number of neutrons in the previous generation. The booklet presents this under the heading Criticality in Nuclear Reactors and names three types of criticality, which are distinguished by the value of k. When k is less than 1, the reactor is subcritical: the neutron population decreases over time and the chain reaction dies out. When k equals 1, the reactor is critical: the neutron population remains constant and the chain reaction is steady and self-sustaining. When k is greater than 1, the reactor is supercritical: the neutron population increases exponentially and the power output rises rapidly. The achievement was reported in April 2026 in the booklet's current affairs section. The booklet then turns to the reactor's key technical features, which it lists in a separate section.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Into which isotope does the breeder mechanism convert U-238? (isotope name)"
+    },
+    {
+     "n": 2,
+     "q": "Which liquid metal is used as the reactor's coolant? (one word)"
+    },
+    {
+     "n": 3,
+     "q": "What is the abbreviation for the fuel made of plutonium and uranium? (abbreviation)"
+    },
+    {
+     "n": 4,
+     "q": "From what source is the reactor's fuel derived? (two words)"
+    },
+    {
+     "n": 5,
+     "q": "Which property of liquid sodium, cited as an advantage, does the booklet name? (two words)"
+    },
+    {
+     "n": 6,
+     "q": "What is the name of the process by which the reactor produces more fuel than it consumes? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "What is the term for the layer surrounding the core that contains U-238? (two words)"
+    }
+   ]
+  },
+  {
+   "id": "q-x11-78",
+   "type": "MCQ",
+   "passage": "India's nuclear power programme is organised in three stages, and its purpose is to achieve long-term energy security using the country's uranium and thorium resources. The booklet describes the programme's strategic significance under three headings. The first is energy security, which maximises the use of limited uranium reserves and unlocks India's large thorium reserves. The second is technological advancement, which positions India among the global leaders in advanced nuclear technology. The third is climate goals, since the programme supports a clean, low-carbon energy transition. The booklet's April 2026 current affairs item focuses on the reactor at Kalpakkam, which is described in its own technical section. That section covers the reactor's type, its design features and the materials used in its core and cooling system. The booklet also gives the reactor's installed capacity, the agency that built it and the department that acts as its nodal agency. A separate three-stage table compares reactor types, fuels, coolants, moderators and breeding processes across the stages. The programme is presented as a tutorial item in the booklet, under the chapter Science and Technology, Defence and Space. Other entries in the same booklet cover India's regulatory bodies, its existing reactors and the laws that govern nuclear facilities.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Match List I with List II:\nI. Reactor used for energy comparison   ->   A. Volume\nII. Long-term property of waste that is reduced   ->   B. Produces more fuel than it consumes\nIII. Fuel balance of the PFBR   ->   C. Radiotoxicity\nIV. Physical measure of waste that is reduced   ->   D. Pressurized Heavy Water Reactor",
+     "options": [
+      "I-C, II-A, III-B, IV-D",
+      "I-A, II-C, III-B, IV-D",
+      "I-D, II-C, III-B, IV-A",
+      "I-B, II-C, III-D, IV-A"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Compared with its consumption, what is the PFBR's fuel output?",
+     "options": [
+      "It consumes more fuel than it produces",
+      "It produces exactly as much fuel as it consumes",
+      "It produces no fuel at all",
+      "It produces more fuel than it consumes"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Against which reactor type does the booklet compare the PFBR's extraction of energy from natural uranium?",
+     "options": [
+      "Pressurized Heavy Water Reactors (PHWRs)",
+      "Light Water Reactors",
+      "Advanced Heavy Water Reactors",
+      "Thermal Breeder Reactors"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following statements:\nI. The PFBR recycles spent fuel from Stage I reactors.\nII. The PFBR's energy extraction is compared with that of PHWRs.\nIII. The PFBR increases the volume of nuclear waste.\nHow many of the above statements are correct?",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about the PFBR:\nI. It produces more fuel than it consumes.\nII. Recycling spent fuel increases the volume of nuclear waste.\nIII. It reduces the long-term radiotoxicity of nuclear waste.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "What happens to the long-term radiotoxicity of nuclear waste with the PFBR?",
+     "options": [
+      "It is increased",
+      "It is reduced",
+      "It is unchanged",
+      "It is eliminated completely"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Assertion (A): The PFBR increases the long-term radiotoxicity of nuclear waste.\nReason (R): The PFBR reduces the long-term radiotoxicity of nuclear waste.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x11-79",
+   "type": "TITA",
+   "passage": "India's nuclear power programme is organised in three stages, and its purpose is to achieve long-term energy security using the country's uranium and thorium resources. The booklet describes the programme's strategic significance under three headings. The first is energy security, which maximises the use of limited uranium reserves and unlocks India's large thorium reserves. The second is technological advancement, which positions India among the global leaders in advanced nuclear technology. The third is climate goals, since the programme supports a clean, low-carbon energy transition. The booklet's April 2026 current affairs item focuses on the reactor at Kalpakkam, which is described in its own technical section. That section covers the reactor's type, its design features and the materials used in its core and cooling system. The booklet also gives the reactor's installed capacity, the agency that built it and the department that acts as its nodal agency. A separate three-stage table compares reactor types, fuels, coolants, moderators and breeding processes across the stages. The programme is presented as a tutorial item in the booklet, under the chapter Science and Technology, Defence and Space. Other entries in the same booklet cover India's regulatory bodies, its existing reactors and the laws that govern nuclear facilities.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What does the abbreviation PHWR stand for? (full name)"
+    },
+    {
+     "n": 2,
+     "q": "Spent fuel from which stage's reactors does the PFBR recycle? (Roman numeral)"
+    },
+    {
+     "n": 3,
+     "q": "Which long-term property of nuclear waste does the PFBR reduce? (one word)"
+    },
+    {
+     "n": 4,
+     "q": "Which physical measure of nuclear waste does the PFBR reduce? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "What does the PFBR recycle in order to reduce nuclear waste? (two words)"
+    },
+    {
+     "n": 6,
+     "q": "Complete the sentence: The PFBR ___ more fuel than it consumes. (one word)"
+    },
+    {
+     "n": 7,
+     "q": "In the booklet's comparison of the PFBR with PHWRs, which aspect of performance is compared? (two words)"
+    }
+   ]
+  }
+ ]
+}
