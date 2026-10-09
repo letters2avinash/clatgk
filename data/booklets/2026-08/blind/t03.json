@@ -1,0 +1,187 @@
+{
+ "topic": "UNSC Straw Poll for Next UN Secretary-General",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Selection Process and Nominations",
+   "summary": "The selection begins with a joint communication from the Presidents of the General Assembly and the Security Council, inviting UN Member States to nominate candidates. Candidates typically submit a CV and vision statement, then take part in interactive dialogues with member states. Straw polls then narrow the field before the Council formally recommends a candidate.",
+   "facts": [
+    "Joint communication from Presidents of UNGA and UNSC starts the process",
+    "193 UN Member States are invited to nominate candidates",
+    "Candidates generally submit CV, vision statements and relevant information",
+    "Nominees take part in interactive dialogues with Member States",
+    "Straw polls narrow the field before the Council formally recommends a candidate",
+    "Article 97 of UN Charter: General Assembly appoints SG on Council recommendation",
+    "Selection involves 2 formal stages: UNSC recommends, UNGA appoints"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Straw Polls and Permanent Member Signals",
+   "summary": "Straw polls are informal and confidential voting exercises that assess how acceptable each candidate is to Security Council members. Members indicate Encourage, Discourage or No Opinion. In later rounds the Permanent Members use distinctively coloured ballots, so a Discourage from a Permanent Member signals a likely veto. Rounds continue until a candidate demonstrates sufficient support.",
+   "facts": [
+    "Straw polls are informal and confidential voting exercises",
+    "Purpose: assess relative acceptability of candidates",
+    "Members indicate one of three positions: Encourage, Discourage, No Opinion",
+    "Encourage means the member supports or favours the candidate",
+    "Permanent Members use distinctively coloured ballots in subsequent rounds",
+    "A Discourage from a Permanent Member effectively signals a veto in a formal vote",
+    "Straw poll rounds continue until a candidate demonstrates sufficient support",
+    "A preferred candidate needs at least 9 of 15 votes and no veto from any Permanent Member"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Appointment, Term and Regional Rotation",
+   "summary": "Article 97 provides for appointment by the General Assembly on the Council's recommendation, and appointments have traditionally been made by consensus or acclamation. The Charter sets no fixed term; established practice provides for a 5-year term, conventionally renewable once. Regional rotation is an informal political convention that promotes geographical representation.",
+   "facts": [
+    "UN Charter does not prescribe a fixed term limit for the Secretary-General",
+    "Established UN practice provides for a 5-year term",
+    "Term is conventionally renewable once, based on practice rather than an explicit Charter provision",
+    "General Assembly can decide by majority vote but appointments are traditionally by consensus or acclamation",
+    "Regional rotation is an informal principle to promote geographical representation",
+    "Five broad regional groupings are involved: African, Asia-Pacific, Eastern European, Latin American and Caribbean, Western European and Other States",
+    "Regional rotation is a political convention, not a legally binding provision"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "UNSC Structure and the Veto",
+   "summary": "The UNSC is one of the six principal organs of the UN and has 15 members, each with one vote. The five Permanent Members hold veto power, so opposition from any one of them blocks a decision regardless of wider support. The booklet argues that the Council still reflects the post-Second World War order rather than the present world.",
+   "facts": [
+    "UNSC is one of the six principal organs of the UN",
+    "15 members, and each member has one vote",
+    "Five Permanent Members hold veto power",
+    "Opposition from any one Permanent Member blocks a decision regardless of other support",
+    "A retiring member is not eligible for immediate re-election",
+    "The five Permanent Members gained permanent membership because they won WWII",
+    "The veto system has become a tool to block progress in the UN",
+    "During the Russia-Ukraine conflict, the UNSC was powerless due to Russia's veto"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t03-0",
+   "type": "MCQ",
+   "passage": "The United Nations Security Council has held a second round of informal straw polls to help identify a successor to Antonio Guterres, whose second term as Secretary-General is due to end at the close of the year. The selection process begins when the presidents of the General Assembly and the Security Council jointly write to member states, inviting them to put forward candidates. Nominees usually submit a curriculum vitae and a vision statement describing their experience and qualifications. They then take part in interactive dialogues, where they explain their plans for the organisation and answer questions. The straw poll is the next stage. It is an informal and confidential exercise in which Council members show how acceptable each candidate is to them. Because the process runs through successive rounds, weaker candidates can be filtered out over time. Each round gives the Council a clearer picture of which names have broad acceptance among its members, and the process is designed to continue until one candidate has the backing needed. The straw polls are an important stage in narrowing the field, but they are not the final step, since the Council must still formally recommend a candidate before the General Assembly acts.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many UN Member States are invited to nominate candidates?",
+     "options": [
+      "15",
+      "54",
+      "100",
+      "193"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which Article of the UN Charter provides for the appointment of the Secretary-General?",
+     "options": [
+      "Article 51",
+      "Article 97",
+      "Article 108",
+      "Article 24"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Assertion (A): A candidate who receives a 'Discourage' from a Permanent Member is likely to advance in the formal vote if at least nine Council members support him or her.\nReason (R): A 'Discourage' indication from a Permanent Member effectively signals that the candidate would face a veto in a formal vote.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. Encourage   ->   A. Used by Permanent Members in subsequent rounds\nII. Discourage   ->   B. Member has not taken a position\nIII. No Opinion   ->   C. Member supports or favours the candidate\nIV. Distinctively coloured ballots   ->   D. Member indicates opposition to the candidate",
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-D, III-B, IV-A",
+      "I-B, II-C, III-A, IV-D",
+      "I-C, II-A, III-B, IV-D"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about the Security Council's straw polls and selection process:\nI. In subsequent straw poll rounds, Permanent Members use distinctively coloured ballots.\nII. A preferred candidate needs at least 9 of 15 votes and no veto from any Permanent Member.\nIII. Straw poll results are binding on the General Assembly's final appointment.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements about the Secretary-General's term are correct?\nI. The UN Charter prescribes a fixed five-year term for the Secretary-General.\nII. Established UN practice provides for a five-year term.\nIII. Regional rotation is a legally binding provision of the UN Charter.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many Permanent Members of the 15-member Security Council hold veto power?",
+     "options": [
+      "Three",
+      "Five",
+      "Seven",
+      "Nine"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "How many positions can a member indicate in a straw poll?",
+     "options": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t03-1",
+   "type": "TITA",
+   "passage": "The selection of the UN Secretary-General combines written rules with long-standing custom. The founding Charter explains how the post is filled, but it does not set a limit on how long the holder may serve. Over time, a standard length of office has developed through practice, and the holder is normally allowed to seek a further term, although this rests on custom rather than written rules. The Security Council plays the decisive role in the process. The Council has fifteen members, and each one holds a single vote, so its recommendation reflects collective judgment rather than the preference of one state. When the Council settles on a candidate, its recommendation passes to the wider membership of the United Nations, which makes the formal appointment. Even though that wider body could decide by a simple majority, appointments have usually been made without a vote, through agreement or general approval. The choice is also shaped by an unwritten expectation that the post should move between different parts of the world. This expectation is meant to give every region a fair chance of representation at the top of the organisation. Candidates are expected to present their experience and their vision for the organisation before member states, so that the process is open and transparent. The practice is widely followed among members, and it reflects an effort to balance representation across the world.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the conventional length, in years, of a Secretary-General's term under established UN practice? (in years)"
+    },
+    {
+     "n": 2,
+     "q": "How many times is a Secretary-General's term conventionally renewable? (answer in digits)"
+    },
+    {
+     "n": 3,
+     "q": "Under which Article of the UN Charter is the Secretary-General appointed on the Council's recommendation? (answer as the article number)"
+    },
+    {
+     "n": 4,
+     "q": "Which informal principle, aimed at geographical representation, has traditionally guided the choice of Secretary-General?"
+    },
+    {
+     "n": 5,
+     "q": "How many broad regional groupings are involved in the regional rotation principle? (in number)"
+    },
+    {
+     "n": 6,
+     "q": "Is regional rotation a legally binding provision of the UN Charter? (answer yes or no)"
+    },
+    {
+     "n": 7,
+     "q": "Which UN body formally appoints the Secretary-General? (name the body)"
+    }
+   ]
+  }
+ ]
+}

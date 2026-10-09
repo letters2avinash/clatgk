@@ -1,0 +1,417 @@
+[
+ {
+  "topic": "Ceuta Migration Crisis and International Refugee Frameworks",
+  "page": 5,
+  "what": "Map labels for Ceuta and Melilla are garbled (for example 'Melilla QB sakm'); not used."
+ },
+ {
+  "topic": "Ceuta Migration Crisis and International Refugee Frameworks",
+  "page": 6,
+  "what": "The signatory count '146 Countries' does not say which treaty it refers to; not used."
+ },
+ {
+  "topic": "Ceuta Migration Crisis and International Refugee Frameworks",
+  "page": 6,
+  "what": "'Global Compact builds on Article 14 of UDHR' does not clearly say which Global Compact is meant; not used."
+ },
+ {
+  "topic": "Ceuta Migration Crisis and International Refugee Frameworks",
+  "page": 7,
+  "what": "The sentence 'MHA classifies All Individuals entering India without Valid' is cut off in the OCR; not used."
+ },
+ {
+  "topic": "China's Antelope Reef Base in the South China Sea",
+  "page": 11,
+  "what": "Map labels for Antelope Reef, Scarborough Shoal and the Paracel Islands are garbled, so no map positions were used"
+ },
+ {
+  "topic": "China's Antelope Reef Base in the South China Sea",
+  "page": 13,
+  "what": "Vietnam sovereignty sentence is cut off at the page end ('Entire Island Grou'), so only the claimant list was used"
+ },
+ {
+  "topic": "UNSC Straw Poll for Next UN Secretary-General",
+  "page": 16,
+  "what": "Guterres's name is printed as 'Anténio' in the OCR; the spelling 'Antonio' was taken from the practice questions on page 19 instead"
+ },
+ {
+  "topic": "UNSC Straw Poll for Next UN Secretary-General",
+  "page": 17,
+  "what": "The OCR of the consensus/acclamation sentence is garbled ('through Consens', 'sor Acclamation'); the same fact was used only from the clearer page 20 wording"
+ },
+ {
+  "topic": "UNSC Straw Poll for Next UN Secretary-General",
+  "page": 18,
+  "what": "The sentence on what the UNSC alone can do (binding resolutions) has a garbled verb ('can a ... feted binding resolutions'); not used"
+ },
+ {
+  "topic": "UNSC Straw Poll for Next UN Secretary-General",
+  "page": 18,
+  "what": "The sentence on non-permanent members' role (monthly presidency and agendas) is garbled ('They holds the monthly'); not used"
+ },
+ {
+  "topic": "UNSC Straw Poll for Next UN Secretary-General",
+  "page": 18,
+  "what": "The India-related line ('In 2021, CET was elected as a 8th ii time') has a garbled country name and count; not used"
+ },
+ {
+  "topic": "UNSC Straw Poll for Next UN Secretary-General",
+  "page": 18,
+  "what": "The veto-system line says 'ignoring the collective will of 188 members', which conflicts with 193 Member States elsewhere in the text; not used"
+ },
+ {
+  "topic": "Cauvery Water Dispute",
+  "page": 22,
+  "what": "Full-time members' subject area is garbled ('Water Resources and Agriculture' with split engineering-services wording); not used"
+ },
+ {
+  "topic": "Cauvery Water Dispute",
+  "page": 22,
+  "what": "Chairperson eligibility line (Secretary/Additional Secretary IAS or Central Water Engineering Services, plus 'Senior Engineer' wording) is garbled; only the 5-year term is used"
+ },
+ {
+  "topic": "Cauvery Water Dispute",
+  "page": 22,
+  "what": "Map labels (district names, Hemavathi, Cauvery Delta locations) are garbled; no map facts used"
+ },
+ {
+  "topic": "Cauvery Water Dispute",
+  "page": 21,
+  "what": "Major dams line reads 'Mettur Dam Sea (Tamil Nadu)' with an OCR artefact; Mettur Dam used only as named in the text"
+ },
+ {
+  "topic": "Gorkhaland Issue",
+  "page": 25,
+  "what": "Names of the districts in the 1907 separation committee are garbled ('Dart 8 paigurif'); only the 1907 petition by the Darjeeling Hillmen's Association is used."
+ },
+ {
+  "topic": "Gorkhaland Issue",
+  "page": 25,
+  "what": "Proposed territory beyond the Darjeeling Hills ('adjoining Terai and Dooar:') is partly garbled; only the Darjeeling Hills is used."
+ },
+ {
+  "topic": "Gorkhaland Issue",
+  "page": 25,
+  "what": "Gorkha Rifles regiment number and raising year ('11 Gorkha Rifles raised in 1948') is unclear in the OCR; not used."
+ },
+ {
+  "topic": "Public Examination (Prevention of Unfair Means) Amendment Bill, 2026",
+  "page": 29,
+  "what": "Earlier fine for individual offences reads '710 Lakh' with the rupee sign and digit garbled; the earlier amount was not used"
+ },
+ {
+  "topic": "Public Examination (Prevention of Unfair Means) Amendment Bill, 2026",
+  "page": 29,
+  "what": "Service provider fine amounts (earlier '21 Crore', amended '75 Crore') are garbled and conflict with the page 31 practice option '%5 crore'; no fine amounts used for service providers"
+ },
+ {
+  "topic": "Public Examination (Prevention of Unfair Means) Amendment Bill, 2026",
+  "page": 29,
+  "what": "Earlier fine for organised crimes reads '21 Crore' and may be garbled; not used"
+ },
+ {
+  "topic": "Public Examination (Prevention of Unfair Means) Amendment Bill, 2026",
+  "page": 29,
+  "what": "Text says 'NEET-UG Paper Leak Controversy in 2026' while the background describes NEET-UG 2024; the year was not used"
+ },
+ {
+  "topic": "Public Examination (Prevention of Unfair Means) Amendment Bill, 2026",
+  "page": 30,
+  "what": "Chairman's name appears once as 'Nandan Nitekani'; 'Nandan Nilekani' was used from its clean occurrences"
+ },
+ {
+  "topic": "Public Examination (Prevention of Unfair Means) Amendment Bill, 2026",
+  "page": 30,
+  "what": "Side-panel text on the Nilekani-led task force is jumbled ('NTA exam reforms', member names); only the main-text mandate of strategic policy reforms was used"
+ },
+ {
+  "topic": "Prevention of Insults to National Honour (Amendment) Bill, 2026",
+  "page": 33,
+  "what": "'Why in News' says Parliament passed the Bill, but the News section on page 34 says it was introduced in the Rajya Sabha and 'if passed' would make acts punishable; the Bill's status was not used."
+ },
+ {
+  "topic": "Prevention of Insults to National Honour (Amendment) Bill, 2026",
+  "page": 33,
+  "what": "Anandamath publication line reads '(1 Published in magazine Bangadarshan)', which is garbled; the magazine link for the novel was not used."
+ },
+ {
+  "topic": "Prevention of Insults to National Honour (Amendment) Bill, 2026",
+  "page": 34,
+  "what": "Bill objective list reads 'Obstructi ting its singi', which is garbled; the exact wording on obstructing the singing was not used."
+ },
+ {
+  "topic": "Prevention of Insults to National Honour (Amendment) Bill, 2026",
+  "page": 34,
+  "what": "Jana Gana Mana row of the National Song vs National Anthem table is partly garbled ('pong (Vande', 'ig Vande Mataram'); only clearly readable entries were used, and the 1911 composition date was not used."
+ },
+ {
+  "topic": "Prevention of Insults to National Honour (Amendment) Bill, 2026",
+  "page": 35,
+  "what": "Practice question options 3 and 6 are partly garbled ('Up to | year'); the minimum-year figure was taken from the body text on page 33 instead."
+ },
+ {
+  "topic": "Tribunals Reforms Bill 2026",
+  "page": 38,
+  "what": "Number of candidates the NTC Search-cum-Selection Committee recommends per vacancy, and names on the waiting list, is garbled (OCR shows a missing count before 'Candidate' and '2 Name per Vacancy' in the sidebar). Not used."
+ },
+ {
+  "topic": "Tribunals Reforms Bill 2026",
+  "page": 38,
+  "what": "Sidebar list of struck-down provisions of the 2021 Act (50-year minimum age, four-year tenure) is garbled; the mapping of items to provisions is unclear. Not used."
+ },
+ {
+  "topic": "Tribunals Reforms Bill 2026",
+  "page": 38,
+  "what": "Heading above the list of grounds (Insolvency, Conviction for Moral Turpitude, Physical or Mental Incapacity, Abuse of Position, Conflict of Interest, Incompetence) is unreadable, so the purpose of the list is not confirmed. Not used."
+ },
+ {
+  "topic": "Tribunals Reforms Bill 2026",
+  "page": 39,
+  "what": "Names of the environmental laws under which the NGT hears civil cases ('7 laws') are partly garbled; only some names are legible. Not used."
+ },
+ {
+  "topic": "Tribunals Reforms Bill 2026",
+  "page": 39,
+  "what": "Powers table listing the Water, Air, Public Liability Insurance and Environment Acts is partly garbled. Not used."
+ },
+ {
+  "topic": "Tribunals Reforms Bill 2026",
+  "page": 40,
+  "what": "Flowchart on the Swaran Singh Committee and 42nd Amendment recommendations is garbled; the mapping of tribunals to each recommendation is unclear. Not used."
+ },
+ {
+  "topic": "Tribunals Reforms Bill 2026",
+  "page": 40,
+  "what": "Box on the Tribunals Reforms Act 2021 (number of tribunals merged, 'nine tribunals' reading) and the SAT, APTEL and Finance Act labels are garbled. Not used."
+ },
+ {
+  "topic": "Samudra Manthan Scheme",
+  "page": 43,
+  "what": "Amounts for 60 Deepwater Exploratory Wells and Seismic Data Acquisition have garbled leading digits (read as 243,200 and 228,534 crore) and do not reconcile with the 84,084 crore total, so they were not used."
+ },
+ {
+  "topic": "Samudra Manthan Scheme",
+  "page": 44,
+  "what": "Per-well risk-sharing assistance reads as '2675 Crore' with a garbled currency symbol, so it was not used."
+ },
+ {
+  "topic": "Samudra Manthan Scheme",
+  "page": 44,
+  "what": "Matsya6000 pressure rating reads as '6,000 bar', which looks inconsistent with a 6,000 metre dive depth; it reads clearly but was not used."
+ },
+ {
+  "topic": "Sarnath: India's 45th UNESCO World Heritage Site",
+  "page": 48,
+  "what": "Sacred Ensembles of Hoysalas shown under Kerala; state looks doubtful, not used"
+ },
+ {
+  "topic": "Sarnath: India's 45th UNESCO World Heritage Site",
+  "page": 48,
+  "what": "Buddha as incarnation of Vishnu: the ordinal before 'of the 10 incarnations' is garbled ('8”'), not used"
+ },
+ {
+  "topic": "Sarnath: India's 45th UNESCO World Heritage Site",
+  "page": 48,
+  "what": "Buddha's addressing title ('BI vat') garbled, not used"
+ },
+ {
+  "topic": "Sarnath: India's 45th UNESCO World Heritage Site",
+  "page": 48,
+  "what": "Creative Cities list and World Heritage in Danger table garbled, not used"
+ },
+ {
+  "topic": "Sarnath: India's 45th UNESCO World Heritage Site",
+  "page": 48,
+  "what": "UNESCO Director-General's country garbled ('1 Arab'), not used"
+ },
+ {
+  "topic": "Sarnath: India's 45th UNESCO World Heritage Site",
+  "page": 48,
+  "what": "Placement of 'named Buddha after attaining enlightenment' against Bodh Gaya unclear, not used"
+ },
+ {
+  "topic": "Sarnath: India's 45th UNESCO World Heritage Site",
+  "page": 49,
+  "what": "Buddhist term for suffering ('Dulgcsa (outtermg)') garbled; Dukkha not used"
+ },
+ {
+  "topic": "Sarnath: India's 45th UNESCO World Heritage Site",
+  "page": 49,
+  "what": "Date when Buddha's teachings were written down ('o. 26 BC') garbled, not used"
+ },
+ {
+  "topic": "Sarnath: India's 45th UNESCO World Heritage Site",
+  "page": 49,
+  "what": "Buddhist councils table headers garbled; only chairman names used, venue and patron roles not used"
+ },
+ {
+  "topic": "UNCCD COP17 and Land Restoration",
+  "page": 53,
+  "what": "Item 3 heading is missing from the OCR, so the sentence 'Objective is to use Healthy Ecosystems as a means of strengthening Climate and Drought Resilience' is unattributed and was not used."
+ },
+ {
+  "topic": "UNCCD COP17 and Land Restoration",
+  "page": 53,
+  "what": "A garbled fragment ('6Th') sits before the Bonn Challenge target sentence; the 26 million hectare target was taken from the clear sentence that follows it."
+ },
+ {
+  "topic": "UNCCD COP17 and Land Restoration",
+  "page": 55,
+  "what": "Practice-question option '(a) UNCCD COP1S5, Abidjan, 2022' is garbled; not used."
+ },
+ {
+  "topic": "Global Tiger Day and Tiger Conservation",
+  "page": 57,
+  "what": "Population figures in the Journey of Tiger Conservation graphic (printed as '2:67', 'Neg 2.226', '1,706') are garbled; no population time series used"
+ },
+ {
+  "topic": "Global Tiger Day and Tiger Conservation",
+  "page": 57,
+  "what": "Milestone years in the Journey graphic (the '2010/2014' and '2018' markers) are garbled; the 2014 and 2018 events are not used"
+ },
+ {
+  "topic": "Global Tiger Day and Tiger Conservation",
+  "page": 57,
+  "what": "Conflict: the 2006 timeline entry says the Wildlife (Protection) Act amendment led to NTCA's establishment, but the NTCA entry says 'Established: 2005'; NTCA founding year not used in content"
+ },
+ {
+  "topic": "Global Tiger Day and Tiger Conservation",
+  "page": 57,
+  "what": "Ratifying members (total 27, newest Bangladesh; initial five: India, Nicaragua, Eswatini, Somalia, Liberia) are not tied to a named instrument in the OCR text; not used"
+ },
+ {
+  "topic": "Global Tiger Day and Tiger Conservation",
+  "page": 58,
+  "what": "Practice question gives theme 'Securing the Future of Tigers with Indigenous Peoples and Local Communities at the Heart', which conflicts with the official theme on page 56; no theme question used"
+ },
+ {
+  "topic": "Global Tiger Day and Tiger Conservation",
+  "page": 57,
+  "what": "State names for Nagarjunsagar Srisailam are printed as 'Talengana'; the reserve name is used without the state names"
+ },
+ {
+  "topic": "Glaw Lake becomes India's 101st Ramsar Site",
+  "page": 60,
+  "what": "Arunachal Pradesh wetland ordinal printed as '| st' (OCR garble); the ordinal was not used"
+ },
+ {
+  "topic": "Glaw Lake becomes India's 101st Ramsar Site",
+  "page": 60,
+  "what": "Ramsar sites by country in the 'Extra Shots' box are column-interleaved (United Kingdom, Mexico, India); not used"
+ },
+ {
+  "topic": "Glaw Lake becomes India's 101st Ramsar Site",
+  "page": 61,
+  "what": "'Total Number of Ramsar Sites: 85' conflicts with 101 on page 60; not used"
+ },
+ {
+  "topic": "Glaw Lake becomes India's 101st Ramsar Site",
+  "page": 61,
+  "what": "Year 2011 for the original National Wetland Decadal Change Atlas release is split from its sentence by OCR; not used"
+ },
+ {
+  "topic": "23rd Commonwealth Games 2026 (Glasgow)",
+  "page": 64,
+  "what": "Medal table rows (Australia, England, Canada, Scotland and their gold, silver and total values) are garbled; no values used."
+ },
+ {
+  "topic": "23rd Commonwealth Games 2026 (Glasgow)",
+  "page": 64,
+  "what": "Monarch numeral in 'King Charles II]' and the Commonwealth Head line are garbled; not used."
+ },
+ {
+  "topic": "23rd Commonwealth Games 2026 (Glasgow)",
+  "page": 65,
+  "what": "India contingent size: page 65 says 122 athletes, page 64 says '125 Member Contingent, including Para-Athletes'; the two readings conflict, so neither is used."
+ },
+ {
+  "topic": "23rd Commonwealth Games 2026 (Glasgow)",
+  "page": 65,
+  "what": "Medal success rate figures (around 31% versus 29%) are interleaved with the eligibility text; not used."
+ },
+ {
+  "topic": "23rd Commonwealth Games 2026 (Glasgow)",
+  "page": 65,
+  "what": "Wording linking the reduced contingent to doping-related eligibility restrictions is garbled; only the reduced contingent and absent disciplines are used."
+ },
+ {
+  "topic": "23rd Commonwealth Games 2026 (Glasgow)",
+  "page": 65,
+  "what": "Tejaswin Shankar decathlon medal line (first Indian to win a ... medal, Bronze) is garbled; not used."
+ },
+ {
+  "topic": "23rd Commonwealth Games 2026 (Glasgow)",
+  "page": 65,
+  "what": "Gulveer Singh 'winning 7 Medals' conflicts with the 'double medallist' line; only the silver (10,000 m) and bronze (5,000 m) events are used."
+ },
+ {
+  "topic": "23rd Commonwealth Games 2026 (Glasgow)",
+  "page": 66,
+  "what": "Practice question options are garbled and no answer key is printed; practice questions not used as facts."
+ },
+ {
+  "topic": "23rd Commonwealth Games 2026 (Glasgow)",
+  "page": 67,
+  "what": "India's medal table position options are garbled; the 4th position is used only from the page 65 statement."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 72,
+  "what": "PM-VBRY total outlay is garbled (reads as 799446 crore); not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 73,
+  "what": "PM Surya Sarovar Yojana: current operational capacity of Omkareshwar (reads as 278) is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 73,
+  "what": "PM Surya Sarovar Yojana: de-risking support per project (reads as 750 lakh) is unclear; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 73,
+  "what": "PM Surya Sarovar Yojana: financial outlay (reads as 5,070 crore) is not clearly legible; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 71,
+  "what": "NCDC Bill: administrative ministry name is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 78,
+  "what": "COSPAR medal: Subramaniam's women and Indian ranking (3rd woman / 1st Indian woman) is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 78,
+  "what": "Nauru ISO-code line (NRU / NRO) is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 79,
+  "what": "Popcorn maize hybrid names (reads as Krisna459 and Godari234) are unclear; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 79,
+  "what": "GOBARdhan total outlay (reads as 23,731 crore) is not clearly legible; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 79,
+  "what": "Barda Wildlife Sanctuary year for lion absence (reads as 1879) is unclear; not used"
+ },
+ {
+  "topic": "Dirac Medal 2026 and Paul Dirac",
+  "page": 80,
+  "what": "Third co-recipient of the 2026 Dirac Medal is OCR-garbled ('Mare Mezard' / 'Mézard' spelling uncertain); the name is not used, though the count of three co-recipients is used"
+ },
+ {
+  "topic": "Dirac Medal 2026 and Paul Dirac",
+  "page": 80,
+  "what": "Scheme heading missing: 'Implementation Period: FY 2026-27 to 2035-36' and 'Nodal Ministry: Ministry of Petroleum and Natural Gas' cannot be tied to a named scheme, so they are not used"
+ }
+]
