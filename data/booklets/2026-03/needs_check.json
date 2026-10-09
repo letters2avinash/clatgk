@@ -290,6 +290,46 @@
   "what": "Currency symbol before the Ni-Kshay Poshan Yojana amount reads '%1,000'; only the number 1,000 is used, with no currency stated"
  },
  {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 72,
+  "what": "Acronyms for the India-Israel-UAE-USA grouping (shown as 12U2) and the India-Israel R&D fund (shown as 14F) are garbled; names not used"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 75,
+  "what": "UIP list of covered diseases appears twice with different contents (12 vs 13 diseases); not used"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 75,
+  "what": "Sixth Schedule ADC powers table columns are scrambled; only clearly readable powers used"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 76,
+  "what": "Name of the inventor of the first successful vaccine reads Edvard Jenner (OCR spelling uncertain); not used. Intensified Mission Indradhanush 4.0 and 5.0 descriptions are cut off; not used"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 79,
+  "what": "JJM funding-pattern table layout is ambiguous about which state group gets the 90:10 share; not used"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 80,
+  "what": "Sahyog Portal launching ministry and the nodal agency acronym are garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 82,
+  "what": "Name of the atomic clock inventor reads Louise Essen (possible OCR error); not used"
+ },
+ {
+  "topic": "Miscellaneous (Part 1)",
+  "page": 84,
+  "what": "Shangri-La Dialogue row (year and country count) is garbled; not used"
+ },
+ {
   "topic": "Miscellaneous (Part 2)",
   "page": 87,
   "what": "Best Cinematography line naming Autumn Durald Arkapaw as first woman winner is split across lines and partly garbled; not used"

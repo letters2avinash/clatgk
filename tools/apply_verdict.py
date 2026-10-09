@@ -16,15 +16,20 @@ def tita_match(stored, accept, mine):
         if n and (n == m or n in m or m in n and m): return True
     return False
 BAD = ("ambiguous", "multiple_correct", "no_correct_option", "answer_stated_in_passage", "garbled_basis")
-report = collections.defaultdict(list); passage_flags = []; fact_flags = []
+report = collections.defaultdict(list); passage_flags = []; fact_flags = []; keeplist = []
 for f in sorted(glob.glob(f"data/booklets/{mid}/verdict/t*.json")):
     v = json.load(open(f, encoding="utf8"))
+    bl = json.load(open(f.replace("/verdict/", "/blind/"), encoding="utf8"))
+    BQ = {b["id"]: {x["n"]: x["q"] for x in b["questions"]} for b in bl["quizzes"]}   # question text exactly as the verifier saw it
     for vq in v["quizzes"]:
         q = Q.get(vq["id"])
         if not q: report["unknown quiz"].append(vq["id"]); continue
         drop = {}
+        pos = {x["q"]: k for k, x in enumerate(q["questions"])}
         for r in vq["questions"]:
-            i = r["n"] - 1
+            txt = BQ.get(vq["id"], {}).get(r["n"])
+            if txt not in pos: report["question text not found (skipped)"].append((vq["id"], r["n"])); continue
+            i = pos[txt]
             x = q["questions"][i]; why = []
             if not r.get("supported", True): why.append("unsupported")
             iss = [s for s in r.get("issues", []) if s.startswith(BAD) or s.startswith("other")]
@@ -38,7 +43,8 @@ for f in sorted(glob.glob(f"data/booklets/{mid}/verdict/t*.json")):
         n = len(q["questions"])
         if n - len(drop) < 6:
             keep = sorted(drop, key=lambda k: (any("mismatch" in w or "unsupported" in w for w in drop[k]), len(drop[k])))[: 6 - (n - len(drop))]
-            for k in keep: report["kept despite flags (quiz would fall below 6)"].append((q["id"], k + 1, drop.pop(k)))
+            for k in keep:
+                report["kept despite flags (quiz would fall below 6)"].append((q["id"], k + 1, drop[k])); keeplist.append({"quiz": q["id"], "q": q["questions"][k]["q"], "issues": drop.pop(k)})
         for i, w in drop.items(): report["dropped"].append((q["id"], i + 1, q["questions"][i]["q"][:70].replace("\n", " "), w))
         q["questions"] = [x for i, x in enumerate(q["questions"]) if i not in drop]
         for pf in vq.get("passage_flags", []): passage_flags.append({"quiz": q["id"], **pf})
@@ -55,6 +61,7 @@ for q in d["quizzes"]:
         if not run and not cyc: break
         rnd.shuffle(q["questions"])
 json.dump(d, open(path, "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
+json.dump(keeplist, open(f"data/booklets/{mid}/keep_list.json", "w", encoding="utf8"), ensure_ascii=False, indent=1)
 json.dump({"passage_flags": passage_flags, "fact_flags": fact_flags}, open(f"data/booklets/{mid}/repair_list.json", "w", encoding="utf8"), ensure_ascii=False, indent=1)
 for k, v in report.items():
     print(f"== {k}: {len(v)}")

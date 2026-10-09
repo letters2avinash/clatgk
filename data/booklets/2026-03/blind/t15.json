@@ -134,12 +134,12 @@
     },
     {
      "n": 5,
-     "q": "Match List I with List II:\nI. BIMSTEC   ->   A. Came into force on 7 April 1948\nII. Three Seas Initiative   ->   B. Established in 1946\nIII. Commission on the Status of Women   ->   C. Established in 1997 (Bangkok Declaration)\nIV. World Health Organization   ->   D. Initiated in 2016 by Poland and Croatia",
+     "q": "Match List I with List II:\nI. BIMSTEC   ->   A. Established in 1946\nII. Three Seas Initiative   ->   B. Established in 1997 (Bangkok Declaration)\nIII. Commission on the Status of Women   ->   C. Came into force on 7 April 1948\nIV. World Health Organization   ->   D. Initiated in 2016 by Poland and Croatia",
      "options": [
-      "I-C, II-D, III-B, IV-A",
-      "I-A, II-B, III-D, IV-C",
-      "I-A, II-C, III-B, IV-D",
-      "I-D, II-A, III-C, IV-B"
+      "I-B, II-D, III-A, IV-C",
+      "I-D, II-A, III-C, IV-B",
+      "I-A, II-B, III-C, IV-D",
+      "I-A, II-D, III-C, IV-B"
      ]
     },
     {

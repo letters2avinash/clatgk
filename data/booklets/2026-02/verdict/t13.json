@@ -1,0 +1,39 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t13-0",
+   "questions": [
+    {"n": 1, "my_answer": 0, "supported": true, "evidence": {"page": 86, "quote": "Frequency: Biennial"}, "issues": []},
+    {"n": 2, "my_answer": 3, "supported": true, "evidence": {"page": 85, "quote": "Designed and Developed By: Defence Research and Development Organisation"}, "issues": []},
+    {"n": 3, "my_answer": 1, "supported": true, "evidence": {"page": 85, "quote": "Indigenous Jet Engine Programme for Fighter Aircraft (LCA Tejas)."}, "issues": []},
+    {"n": 4, "my_answer": 0, "supported": true, "evidence": {"page": 86, "quote": "Organiser: General Authority for Military Industries (GAMI)"}, "issues": []},
+    {"n": 5, "my_answer": 2, "supported": true, "evidence": {"page": 86, "quote": "Showcases innovations across 5 Defence Domains: Air, Land, Sea, Space, Security"}, "issues": []},
+    {"n": 6, "my_answer": 2, "supported": true, "evidence": {"page": 85, "quote": "Range: Beyond 3000 kms"}, "issues": []},
+    {"n": 7, "my_answer": 3, "supported": true, "evidence": {"page": 85, "quote": "Propulsion: 2—Stage Solid—Fuel Missile System."}, "issues": []},
+    {"n": 8, "my_answer": 1, "supported": true, "evidence": {"page": 85, "quote": "India successfully tested A gni — III Missile from Odisha"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "the test confirmed its technical readiness", "problem": "not found in booklet text", "page": 85},
+    {"claim": "so the result was closely watched", "problem": "not found in booklet text", "page": 85},
+    {"claim": "The event brought together companies and governments from many countries", "problem": "not found in booklet text", "page": 86},
+    {"claim": "Its exhibits covered new technologies and the industrial capabilities behind them.", "problem": "industrial capabilities not found in booklet text; booklet only says showcases innovations across 5 defence domains", "page": 86}
+   ]
+  },
+  {
+   "id": "t-t13-1",
+   "questions": [
+    {"n": 1, "my_answer": "Joint Force Command Norfolk", "supported": true, "evidence": {"page": 85, "quote": "Led By: Joint Force Command Norfolk (JFC Norfolk)."}, "issues": []},
+    {"n": 2, "my_answer": "2008", "supported": true, "evidence": {"page": 87, "quote": "Established: 2008"}, "issues": []},
+    {"n": 3, "my_answer": "1998", "supported": true, "evidence": {"page": 87, "quote": "Established in 1998 by UN Secretary — General."}, "issues": []},
+    {"n": 4, "my_answer": "New York", "supported": true, "evidence": {"page": 87, "quote": "HQ: New York (USA)"}, "issues": []},
+    {"n": 5, "my_answer": "Jabalpur", "supported": true, "evidence": {"page": 87, "quote": "Pacific Region in Jabalpur (Madhya Pradesh)"}, "issues": []},
+    {"n": 6, "my_answer": "Indian Navy", "supported": true, "evidence": {"page": 87, "quote": "Initiated By: Indian Navy"}, "issues": []},
+    {"n": 7, "my_answer": "weapons of mass destruction (WMD)", "supported": true, "evidence": {"page": 87, "quote": "Core Objective: Complete Elimination of Weapons of Mass Destruction."}, "issues": []}
+   ],
+   "passage_flags": []
+  }
+ ],
+ "fact_flags": [
+  {"subtopic": 3, "fact": "The Global CyberPeace Summit 2026 was held in New Delhi and launched cyber-related initiatives. The summit also set up a centre of excellence on automotive cybersecurity.", "problem": "booklet lists the CoE and Quantum Threat Alliance under the summit heading but does not say the summit set up or launched them", "page": 86}
+ ]
+}

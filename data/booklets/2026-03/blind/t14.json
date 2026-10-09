@@ -74,6 +74,16 @@
    "questions": [
     {
      "n": 1,
+     "q": "Which film was the first Best Picture winner at the Academy Awards?",
+     "options": [
+      "Wings",
+      "Mother India",
+      "Flow",
+      "RRR"
+     ]
+    },
+    {
+     "n": 2,
      "q": "How many Best Actress awards does Katharine Hepburn hold, according to the booklet?",
      "options": [
       "2",
@@ -83,7 +93,7 @@
      ]
     },
     {
-     "n": 2,
+     "n": 3,
      "q": "Who conceptualised the Oscars?",
      "options": [
       "Walt Disney",
@@ -93,23 +103,13 @@
      ]
     },
     {
-     "n": 3,
-     "q": "Which person holds the record for the most Oscars, with 22?",
-     "options": [
-      "Katharine Hepburn",
-      "Sean Baker",
-      "Walt Disney",
-      "Paul Thomas Anderson"
-     ]
-    },
-    {
      "n": 4,
-     "q": "Assertion (A): The number of Oscar categories has increased over time.\nReason (R): The awards started with 12 categories and have since expanded to 24.",
+     "q": "Which of the above statements is/are correct?\nI. The Oscars were conceptualised by Louis B. Mayer, co-founder of MGM Studios.\nII. The Oscar statuette depicts a knight standing on a reel of film holding a sword.\nIII. The Oscar statuette is made of solid gold.",
      "options": [
-      "Both A and R are true and R is the correct explanation of A",
-      "Both A and R are true but R is not the correct explanation of A",
-      "A is true but R is false",
-      "A is false but R is true"
+      "II and III only",
+      "I and III only",
+      "I and II only",
+      "I, II and III"
      ]
     },
     {
@@ -124,32 +124,32 @@
     },
     {
      "n": 6,
-     "q": "Which film was the first Best Picture winner at the Academy Awards?",
+     "q": "Match List I with List II:\nI. Record for most Oscars   ->   A. Paul Thomas Anderson\nII. Leads in Best Actress wins   ->   B. Wings\nIII. First Best Picture winner   ->   C. Walt Disney\nIV. Best Director, 98th Academy Awards   ->   D. Katharine Hepburn",
      "options": [
-      "Wings",
-      "Mother India",
-      "Flow",
-      "RRR"
+      "I-A, II-B, III-D, IV-C",
+      "I-C, II-D, III-B, IV-A",
+      "I-A, II-C, III-B, IV-D",
+      "I-D, II-A, III-C, IV-B"
      ]
     },
     {
      "n": 7,
-     "q": "Match List I with List II:\nI. Record for most Oscars   ->   A. Katharine Hepburn\nII. Leads in Best Actress wins   ->   B. Wings\nIII. First Best Picture winner   ->   C. Paul Thomas Anderson\nIV. Best Director, 98th Academy Awards   ->   D. Walt Disney",
+     "q": "Which person holds the record for the most Oscars, with 22?",
      "options": [
-      "I-C, II-D, III-B, IV-A",
-      "I-D, II-A, III-B, IV-C",
-      "I-A, II-D, III-B, IV-C",
-      "I-A, II-B, III-D, IV-C"
+      "Katharine Hepburn",
+      "Sean Baker",
+      "Walt Disney",
+      "Paul Thomas Anderson"
      ]
     },
     {
      "n": 8,
-     "q": "Which of the above statements is/are correct?\nI. The Oscars were conceptualised by Louis B. Mayer, co-founder of MGM Studios.\nII. The Oscar statuette depicts a knight standing on a reel of film holding a sword.\nIII. The Oscar statuette is made of solid gold.",
+     "q": "Assertion (A): The number of Oscar categories has increased over time.\nReason (R): The awards started with 12 categories and have since expanded to 24.",
      "options": [
-      "II and III only",
-      "I and III only",
-      "I and II only",
-      "I, II and III"
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
      ]
     }
    ]

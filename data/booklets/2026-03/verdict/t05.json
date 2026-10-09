@@ -1,0 +1,32 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t05-0",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 33, "quote": "with prior recommendation of President."}, "issues": []},
+    {"n": 2, "my_answer": 0, "supported": true, "evidence": {"page": 34, "quote": "considered as Amendments of the Constitution under Article 368."}, "issues": []},
+    {"n": 3, "my_answer": 3, "supported": true, "evidence": {"page": 33, "quote": "Mysore Karnataka 1973"}, "issues": []},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 34, "quote": "refers to Admission of States which are already in existence,"}, "issues": []},
+    {"n": 5, "my_answer": 0, "supported": true, "evidence": {"page": 34, "quote": "Kashmir by Instrument of Accession"}, "issues": []},
+    {"n": 6, "my_answer": 2, "supported": true, "evidence": {"page": 34, "quote": "On 16 May 1975, Indian Parliament passed"}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 34, "quote": "Part B:9 erstwhile Princely States with Legislatures."}, "issues": ["answer_stated_in_passage"]},
+    {"n": 8, "my_answer": 3, "supported": true, "evidence": {"page": 35, "quote": "Creation of 16 States and 3 Centrally Administered Territories."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-t05-1",
+   "questions": [
+    {"n": 1, "my_answer": "Indian Independence Act, 1947", "supported": true, "evidence": {"page": 34, "quote": "Indian Independence Act (1947) created 2 Independent Separate Dominions of India and Pakistan"}, "issues": []},
+    {"n": 2, "my_answer": "549", "supported": true, "evidence": {"page": 34, "quote": "Of 552 Princely States situated within Geographical Boundaries of India, 549 joined India"}, "issues": []},
+    {"n": 3, "my_answer": "Junagarh", "supported": true, "evidence": {"page": 34, "quote": "means of Referendum"}, "issues": []},
+    {"n": 4, "my_answer": "Instrument of Accession", "supported": true, "evidence": {"page": 34, "quote": "Kashmir by Instrument of Accession"}, "issues": []},
+    {"n": 5, "my_answer": "9", "supported": true, "evidence": {"page": 34, "quote": "PartA:9 erstwhile Governor's Provinces of British India."}, "issues": []},
+    {"n": 6, "my_answer": "JVP Committee", "supported": true, "evidence": {"page": 35, "quote": "known as \"JVP Committee\"."}, "issues": []},
+    {"n": 7, "my_answer": "Fazl Ali", "supported": true, "evidence": {"page": 35, "quote": "chairmanship of \"Fazl Ali\""}, "issues": []}
+   ],
+   "passage_flags": []
+  }
+ ],
+ "fact_flags": []
+}

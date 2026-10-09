@@ -1,0 +1,61 @@
+{
+ "passage_flags": [
+  {
+   "quiz": "t-t01-1",
+   "claim": "The approach focuses on planting native species on land that has lost its vegetation, which helps hold soil and supports local wildlife.",
+   "problem": "soil-holding and local wildlife benefits are not found in booklet text; booklet only says plantation of native species on degraded land",
+   "page": 7
+  },
+  {
+   "quiz": "t-t01-1",
+   "claim": "Government policy has treated afforestation as a long-term commitment rather than a one-time campaign.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t04-1",
+   "claim": "Supporters of a common code argue that it would reduce legal ambiguity, while critics point to the country's religious diversity.",
+   "problem": "contradicts booklet: ambiguity reduction is attributed to the 2018 Law Commission's family-law reform (which says a UCC is neither necessary nor desirable); the diversity/unity argument is attributed to the Central Government, which favours a UCC",
+   "page": 22
+  },
+  {
+   "quiz": "t-t04-1",
+   "claim": "The Law Commission has studied the question more than once",
+   "problem": "not found in booklet text: only the 2018 Law Commission report is mentioned",
+   "page": 22
+  },
+  {
+   "quiz": "q-t05-0",
+   "claim": "The Indian rupee lost ground steadily through 2025",
+   "problem": "not found in booklet text: booklet reports a depreciation of over 5% in 2025 but does not describe the fall as steady",
+   "page": 26
+  },
+  {
+   "quiz": "q-t05-0",
+   "claim": "pressures that had been building for months",
+   "problem": "not found in booklet text: booklet says pressures built over time, with no duration given",
+   "page": 26
+  },
+  {
+   "quiz": "t-t05-1",
+   "claim": "Each measure takes time to show results.",
+   "problem": "not found in booklet text: booklet lists the stabilisation measures but says nothing about how long they take to show results",
+   "page": null
+  },
+  {
+   "quiz": "q-t08-0",
+   "claim": "each conflict ended in settlements that changed how Afghanistan's external relations were handled",
+   "problem": "not found: booklet gives only 'British Intervention Failed' for the 1839-42 war and states no settlement",
+   "page": 43
+  }
+ ],
+ "fact_flags": [
+  {
+   "file": "t08.json",
+   "subtopic": 0,
+   "fact": "India's trade agreements with New Zealand and Oman, which give zero-duty access and expand trade and investment (subtopic summary)",
+   "problem": "zero-duty access is stated in the booklet only for New Zealand; no duty terms are given for the India-Oman CEPA",
+   "page": 44
+  }
+ ]
+}

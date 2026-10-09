@@ -1,0 +1,130 @@
+{
+ "passage_flags": [
+  {
+   "quiz": "q-t01-0",
+   "claim": "The Court's reasoning focused on the text and purpose of the statute itself.",
+   "problem": "not found in booklet text; the booklet states only that IEEPA is designed for emergency economic restrictions, not general tariff policy",
+   "page": null
+  },
+  {
+   "quiz": "q-t05-0",
+   "claim": "each linked to reducing the country's dependence on imports",
+   "problem": "contradicts or is not found in booklet text: the booklet links import reduction explicitly only to electronics (and the container scheme); the biopharma SHAKTI and semiconductor Mission 2.0 text does not state this",
+   "page": 32
+  },
+  {
+   "quiz": "t-t05-1",
+   "claim": "removing thresholds that had complicated compliance for families travelling or studying abroad",
+   "problem": "unsupported specific: the booklet says TCS thresholds were removed for LRS remittances (overseas tours, education, medical) but does not say they complicated compliance for families",
+   "page": 34
+  },
+  {
+   "quiz": "q-t07-0",
+   "claim": "A credible revision therefore helps workers, businesses and governments judge how far household money goes.",
+   "problem": "not found in booklet text: the booklet links the revision to credibility and cost-of-living reflection, but does not name workers or businesses as users of the judgment",
+   "page": 45
+  },
+  {
+   "quiz": "t-t07-1",
+   "claim": "Releasing the index for each state, not only for the country as a whole, gives policy makers a closer view of regional prices.",
+   "problem": "not clearly found: the booklet row is labelled 'Data dissemination at state level', but the CPI 2024 entry lists rural, urban and combined indices, and no state-wise release is stated",
+   "page": 45
+  },
+  {
+   "quiz": "q-t08-0",
+   "claim": "The declaration also draws on partnerships between governments, startups, academia and industry.",
+   "problem": "Booklet lists building partnerships between governments, startups, academia and industry as a summit objective (Objective 3), not as a basis of the New Delhi Declaration; attribution to the declaration is not found in the booklet text.",
+   "page": 50
+  },
+  {
+   "quiz": "q-t10-0",
+   "claim": "Officials argue that the plan will bring jobs, better connectivity and new economic activity to the islands.",
+   "problem": "not found in booklet text; the booklet does not attribute job, connectivity or economic-activity arguments to officials",
+   "page": null
+  },
+  {
+   "quiz": "q-t10-0",
+   "claim": "whose way of life depends on the land and the sea",
+   "problem": "not found in booklet text; booklet lists tribes inhabiting the island but does not describe their livelihood as depending on land and sea",
+   "page": null
+  },
+  {
+   "quiz": "t-t10-1",
+   "claim": "they depend on the forest for food, shelter and cultural practices",
+   "problem": "not found in booklet text; booklet mentions loss of habitat, cultural disruption and livelihood impact but does not state tribes depend on the forest for food and shelter",
+   "page": null
+  },
+  {
+   "quiz": "t-t11-1",
+   "claim": "The programme is run jointly, so the planning of wetland use and the study of wetland change are both part of one national effort.",
+   "problem": "Not supported as stated: the booklet lists the National Wetland Decadal Change Atlas (SAC, ISRO) as a separate item and does not place it within the jointly run Amrit Dharohar scheme.",
+   "page": 66
+  },
+  {
+   "quiz": "t-t12-1",
+   "claim": "a voluntary multinational partnership headquartered in the Gulf region",
+   "problem": "Booklet gives the HQ only as Manama (Bahrain); 'Gulf region' is not stated in the booklet text",
+   "page": 82
+  },
+  {
+   "quiz": "t-t12-1",
+   "claim": "Each initiative relies on cooperation between government agencies, industry and international partners to deliver long-term results for the country.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "q-t13-0",
+   "claim": "the test confirmed its technical readiness",
+   "problem": "not found in booklet text",
+   "page": 85
+  },
+  {
+   "quiz": "q-t13-0",
+   "claim": "so the result was closely watched",
+   "problem": "not found in booklet text",
+   "page": 85
+  },
+  {
+   "quiz": "q-t13-0",
+   "claim": "The event brought together companies and governments from many countries",
+   "problem": "not found in booklet text",
+   "page": 86
+  },
+  {
+   "quiz": "q-t13-0",
+   "claim": "Its exhibits covered new technologies and the industrial capabilities behind them.",
+   "problem": "industrial capabilities not found in booklet text; booklet only says showcases innovations across 5 defence domains",
+   "page": 86
+  }
+ ],
+ "fact_flags": [
+  {
+   "file": "t06.json",
+   "subtopic": 3,
+   "fact": "Grants to rural and urban local bodies in a 60:40 ratio",
+   "problem": "Ratio is stated in the booklet, but the booklet's own amounts (4.4 lakh crore rural, 3.6 lakh crore urban) imply about 55:45; internal inconsistency in the source",
+   "page": 39
+  },
+  {
+   "file": "t10.json",
+   "subtopic": 3,
+   "fact": "Not bound by the Code of Civil Procedure 1908; guided by natural justice; decisions executable as a civil court decree.",
+   "problem": "booklet OCR is garbled on this point ('net bound by Code of Civil Procedure 1908'; 'principles of mature! justice'); the negation and 'natural justice' are inferred from garbled text",
+   "page": 62
+  },
+  {
+   "file": "t12.json",
+   "subtopic": 2,
+   "fact": "Both visits stress maritime security and disaster-resilient infrastructure.",
+   "problem": "Malaysia section cites UNCLOS and freedom of navigation but not maritime security; maritime security cooperation is stated only for Seychelles",
+   "page": 72
+  },
+  {
+   "file": "t13.json",
+   "subtopic": 3,
+   "fact": "The Global CyberPeace Summit 2026 was held in New Delhi and launched cyber-related initiatives. The summit also set up a centre of excellence on automotive cybersecurity.",
+   "problem": "booklet lists the CoE and Quantum Threat Alliance under the summit heading but does not say the summit set up or launched them",
+   "page": 86
+  }
+ ]
+}

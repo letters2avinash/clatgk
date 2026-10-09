@@ -1,0 +1,36 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t07-0",
+   "questions": [
+    {"n": 1, "my_answer": 0, "supported": true, "evidence": {"page": 44, "quote": "Ministry of Statistics & Programme Implementation revised CPI Base Year to 2024, Replacing 2012 Benchmark."}, "issues": []},
+    {"n": 2, "my_answer": 3, "supported": true, "evidence": {"page": 44, "quote": "Replacing 2012 Benchmark."}, "issues": []},
+    {"n": 3, "my_answer": 1, "supported": true, "evidence": {"page": 44, "quote": "Goldar Named Chairman, to decide Base Year for GDP Data in 2024."}, "issues": []},
+    {"n": 4, "my_answer": 3, "supported": true, "evidence": {"page": 44, "quote": "Identifies 2024 as CPI Base Year Using 2023-24 Household Consumer Expenditure Survey Data."}, "issues": []},
+    {"n": 5, "my_answer": 1, "supported": true, "evidence": {"page": 45, "quote": "Formula Used: Laspeyres Index Formula (Based on Base Year Prices, Base Year Weights, Current Prices)"}, "issues": []},
+    {"n": 6, "my_answer": 2, "supported": true, "evidence": {"page": 45, "quote": "Divisions, Groups, Classes and Subclasses in line with COICOP 2018."}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 44, "quote": "Overall Inflation Jan 2026 (YoY): 2.75% (Provisional) — Rural Inflation: 2.73% | Urban Inflation: 2.77%"}, "issues": []},
+    {"n": 8, "my_answer": 0, "supported": true, "evidence": {"page": 45, "quote": "Newly Added Items: OTT Subscriptions, Rural House Rent, Value — added"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "A credible revision therefore helps workers, businesses and governments judge how far household money goes.", "problem": "not found in booklet text: the booklet links the revision to credibility and cost-of-living reflection, but does not name workers or businesses as users of the judgment", "page": 45}
+   ]
+  },
+  {
+   "id": "t-t07-1",
+   "questions": [
+    {"n": 1, "my_answer": "358", "supported": true, "evidence": {"page": 45, "quote": "358 (308 goods and 50"}, "issues": []},
+    {"n": 2, "my_answer": "50", "supported": true, "evidence": {"page": 45, "quote": "358 (308 goods and 50"}, "issues": []},
+    {"n": 3, "my_answer": "12", "supported": true, "evidence": {"page": 45, "quote": "12 online markets will be covered in cities with populations above 25 lakh"}, "issues": []},
+    {"n": 4, "my_answer": "2018", "supported": true, "evidence": {"page": 45, "quote": "Divisions, Groups, Classes and Subclasses in line with COICOP 2018."}, "issues": []},
+    {"n": 5, "my_answer": "45.86", "supported": true, "evidence": {"page": 45, "quote": "45.86%"}, "issues": []},
+    {"n": 6, "my_answer": "36.75", "supported": true, "evidence": {"page": 45, "quote": "36.75%"}, "issues": []},
+    {"n": 7, "my_answer": "rural", "supported": true, "evidence": {"page": 45, "quote": "Urban & rural both excluding Employer provided accomodation"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "Releasing the index for each state, not only for the country as a whole, gives policy makers a closer view of regional prices.", "problem": "not clearly found: the booklet row is labelled 'Data dissemination at state level', but the CPI 2024 entry lists rural, urban and combined indices, and no state-wise release is stated", "page": 45}
+   ]
+  }
+ ],
+ "fact_flags": []
+}

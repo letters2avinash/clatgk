@@ -1,0 +1,32 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t09-0",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 55, "quote": "Finland (Rank 1 | 7.764 | 9° Consecutive Year)"}, "issues": []},
+    {"n": 2, "my_answer": 1, "supported": true, "evidence": {"page": 55, "quote": "Lowest Ranked: Afghanistan (Rank 147)"}, "issues": []},
+    {"n": 3, "my_answer": 3, "supported": true, "evidence": {"page": 55, "quote": "Finland (Rank 1 | 7.764 | 9° Consecutive Year)"}, "issues": ["ambiguous"]},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 56, "quote": "Lower Life Satisfaction than Elderly (60+)"}, "issues": []},
+    {"n": 5, "my_answer": 0, "supported": true, "evidence": {"page": 55, "quote": "4.536 (Improved from 118"}, "issues": []},
+    {"n": 6, "my_answer": 2, "supported": true, "evidence": {"page": 55, "quote": "14th World Happiness Report 2026 highlighted Global Well-Being Trends"}, "issues": []},
+    {"n": 7, "my_answer": 3, "supported": true, "evidence": {"page": 55, "quote": "Published by: Wellbeing Research Centre, University of Oxford"}, "issues": []},
+    {"n": 8, "my_answer": 2, "supported": true, "evidence": {"page": 55, "quote": "(Theme 2026: Care and Share)"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-t09-1",
+   "questions": [
+    {"n": 1, "my_answer": "116", "supported": true, "evidence": {"page": 55, "quote": "Rank: 116\" | 4.536 (Improved from 118\""}, "issues": []},
+    {"n": 2, "my_answer": "Afghanistan", "supported": true, "evidence": {"page": 55, "quote": "Lowest Ranked: Afghanistan (Rank 147)"}, "issues": []},
+    {"n": 3, "my_answer": "2012", "supported": true, "evidence": {"page": 55, "quote": "Published annually since 2012"}, "issues": []},
+    {"n": 4, "my_answer": "Costa Rica", "supported": true, "evidence": {"page": 55, "quote": "Notable Performer: Costa Rica (Rank 4\" from 23\")"}, "issues": []},
+    {"n": 5, "my_answer": "9", "supported": true, "evidence": {"page": 55, "quote": "Finland (Rank 1 | 7.764 | 9° Consecutive Year)"}, "issues": []},
+    {"n": 6, "my_answer": "1", "supported": true, "evidence": {"page": 56, "quote": "Social Media \\<1 Hour/Day"}, "issues": []},
+    {"n": 7, "my_answer": "Vernal Equinox", "supported": true, "evidence": {"page": 56, "quote": "Coincides with Vernal Equinox, a time"}, "issues": []}
+   ],
+   "passage_flags": []
+  }
+ ],
+ "fact_flags": []
+}

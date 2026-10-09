@@ -1,0 +1,11 @@
+# Brief: repair flagged items for one month (Haiku repairer)
+You repair flagged items in CLAT dashboard content using ONLY the booklet OCR text files for the month (folder given; files tNN_*.txt; pages marked '=== PAGE n ==='). No web search, no outside knowledge. Do not call create_session or spawn_task.
+Inputs (month folder = data/booklets/<MONTH>/):
+- repair_list.json: "passage_flags" (quiz id, exact claim, problem, page) and "fact_flags" (file, subtopic index, fact, problem, page).
+- keep_list.json: quizzes where a flagged question had to be KEPT to stay at 6 questions: [{"quiz": id, "n": question number (1-based, in the CURRENT order in dashboard/data/<MONTH>.json), "issues": [...]}].
+- dashboard/data/<MONTH>.json (read with python3 -I; never print it all): quizzes by id (field "passage", "questions"), chapters>topics>subtopics (summary, facts).
+Write data/booklets/<MONTH>/patches.json (valid JSON, no fences):
+{ "passage_fixes":[{"quiz":"<id>","old":"<EXACT substring currently in the passage>","new":"<replacement supported by the booklet, or a shorter wording>"}],
+  "fact_fixes":[{"old":"<EXACT substring in a subtopic summary or fact string>","new":"<corrected text or empty string to delete>","page":<int>}],
+  "replacements":[{"quiz":"<id>","n":<int>,"question":{...},"evidence":{"page":<int>,"quote":"<=25 words copied exactly"}}] }
+Rules: one passage_fix per passage flag (delete or soften the unsupported claim; keep grammar); one fact_fix per fact flag (state only what the booklet clearly supports; where the booklet contradicts itself do not choose a side - delete or reword); one replacement per keep_list entry: a NEW question for that same quiz type testing a DIFFERENT clearly readable fact from the same topic text, with exactly one defensible answer and its answer not stated in the quiz passage (check with python3 -I). TITA replacement shape: {"q","answer","accept":[...],"explanation"} (short typed answer; units in the question). MCQ replacement shape: {"q","options":[4 distinct],"answer":0-3,"explanation"} - plain direct question only (no assertion/reason, no match). Do not reuse a fact already asked in that quiz. Verify each 'old' string occurs exactly once (python3 -I). Reply with one line: counts of passage_fixes, fact_fixes, replacements.
