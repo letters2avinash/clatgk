@@ -1,0 +1,190 @@
+{
+ "topic": "World Tuberculosis Day 2026",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Global burden and progress",
+   "summary": "The Global TB Report 2025 shows that a small group of countries carries most of the world's tuberculosis cases. India has the highest share among them. Global incidence and deaths have both fallen over the period from 2015 to 2024.",
+   "facts": [
+    "87% of the world's TB cases in 2024 were concentrated in 30 high-burden countries",
+    "India accounts for the highest share: 25% of global TB cases",
+    "Eight nations drive 67% of global TB cases in 2025, led by India, Indonesia (10%) and Philippines (6.8%)",
+    "South-East Asia (34%), Western Pacific (27%) and Africa (25%) account for over 85% of the global TB burden in 2025",
+    "Global TB incidence rate reduced by 12% between 2015 and 2024",
+    "Global TB incidence was 131 per 100,000 in 2024",
+    "Global TB deaths declined by 29% over the same period"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "India's initiatives and targets",
+   "summary": "India has launched campaigns and digital tools to accelerate TB elimination. Its National Strategic Plan for TB Elimination (2017-2025) sets goals for incidence and mortality by 2025. Patient support, community adoption and modern testing are also part of the response.",
+   "facts": [
+    "TB Mukt Bharat Abhiyaan is a 100 Days Intensified Campaign to accelerate TB elimination",
+    "TB Mukt Bharat App is a digital platform for monitoring, awareness and citizen participation",
+    "TB Mukt Urban Ward Initiative targets urban TB hotspots with localised intervention",
+    "National Strategic Plan (2017-2025) aims to eliminate TB five years ahead of global timelines",
+    "Plan goals include 80% reduction in incidence and 90% mortality reduction by 2025",
+    "Ni-Kshay Poshan Yojana gives monthly nutritional support of 1,000 through direct benefit transfer to registered TB patients",
+    "Ni-Kshay Mitra: individuals, NGOs and corporates can adopt TB patients",
+    "Truenat is a Polymerase Chain Reaction based molecular test",
+    "India's TB incidence fell 21% since 2015, from 195 (2023) to 187 per 100,000 (2024)"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Global strategy and partners",
+   "summary": "The WHO End TB Strategy (2015-2035) is a long-term global blueprint with targets for 2030. The Global Fund and the Stop TB Partnership support countries with finance, technical help and innovation. World TB Day, observed on March 24, marks the 1882 discovery of the TB bacterium by Robert Koch.",
+   "facts": [
+    "World TB Day is observed on March 24 every year",
+    "Robert Koch discovered the TB bacterium in 1882",
+    "Theme 2026: 'Yes! We Can End TB: Led by Countries, Powered by People'",
+    "WHO End TB Strategy (2015-2035) is a long-term global blueprint",
+    "WHO End TB targets for 2030: 90% reduction in TB deaths and 80% reduction in TB incidence",
+    "Global Fund and Stop TB Partnership provide financial and technical support",
+    "Global Fund and Stop TB Partnership strengthen surveillance systems",
+    "Global Fund and Stop TB Partnership promote innovation in diagnostics, treatment and preventive tools"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Disease and drug resistance",
+   "summary": "Tuberculosis is caused by Mycobacterium tuberculosis and spreads through the air, but it is preventable and curable. Pulmonary TB is highly contagious, while extrapulmonary TB is less contagious. MDR-TB is resistant to first-line drugs and needs second-line drugs, longer treatment and higher spending.",
+   "facts": [
+    "TB is caused by Mycobacterium tuberculosis",
+    "TB is an airborne, contagious infectious disease",
+    "TB is preventable and curable with timely diagnosis and appropriate treatment",
+    "Pulmonary TB affects the lungs and is highly contagious",
+    "Extrapulmonary TB affects organs outside the lungs and is less contagious",
+    "First-line treatment drugs: Rifampicin, Isoniazid, Pyrazinamide, Ethambutol",
+    "MDR-TB is resistant to Rifampicin and Isoniazid",
+    "MDR-TB requires second-line drugs, longer treatment duration and higher cost",
+    "MDR-TB is a major public health crisis and a global health security threat"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t12-0",
+   "type": "MCQ",
+   "passage": "World Tuberculosis Day is observed every year to raise awareness about a disease that is spread through the air and is both preventable and curable. The day also seeks to accelerate global efforts to eliminate the disease, and this year's message stresses that countries lead the response while people power it. The disease has been known to science for more than a century, yet it continues to affect people around the world. Public health bodies monitor the disease through a few core measures. Incidence refers to the number of new cases in a population, usually expressed per 100,000 people. Deaths are tracked as a separate measure. Comparing these measures against a base year allows analysts to judge whether the response is working. The latest global report reviews the situation for recent years. It looks at how the caseload is spread across countries and regions, and it identifies where most of the burden sits. Such findings help governments and international partners decide where to direct diagnostic tools, treatment programmes and financial support. Concentration matters because a small group of countries often carries most of the caseload. Targeted action in those places therefore matters a great deal for global totals. Officials regularly compare countries, track trends and review progress, so that resources reach the places where they are needed most.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "According to the Global TB Report 2025, which country has the highest share of the world's TB cases?",
+     "options": [
+      "Indonesia",
+      "Philippines",
+      "India",
+      "Brazil"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What share of the world's TB cases in 2024 were concentrated in 30 high-burden countries?",
+     "options": [
+      "87%",
+      "65%",
+      "75%",
+      "92%"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "By what percentage did global TB deaths decline over the 2015 to 2024 period?",
+     "options": [
+      "12%",
+      "21%",
+      "67%",
+      "29%"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Extrapulmonary TB is less contagious than pulmonary TB.\nReason (R): Extrapulmonary TB affects organs outside the lungs.\nChoose the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. TB Mukt Bharat App   ->   A. 100 Days Intensified Campaign\nII. TB Mukt Bharat Abhiyaan   ->   B. Digital platform for monitoring, awareness and citizen participation\nIII. TB Mukt Urban Ward Initiative   ->   C. Monthly nutritional support by direct benefit transfer\nIV. Ni-Kshay Poshan Yojana   ->   D. Urban TB hotspots and localised intervention",
+     "options": [
+      "I-A, II-D, III-B, IV-C",
+      "I-D, II-A, III-C, IV-B",
+      "I-B, II-A, III-D, IV-C",
+      "I-D, II-B, III-C, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about tuberculosis:\nI. Pulmonary TB affects the lungs and is highly contagious.\nII. Extrapulmonary TB is the most contagious form of the disease.\nIII. TB is preventable and curable with timely diagnosis and appropriate treatment.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "II and III only",
+      "I only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about the TB figures given in the booklet:\nI. 87% of 2024 cases were concentrated in 30 high-burden countries.\nII. Global TB deaths declined by 12% over 2015 to 2024.\nIII. India accounts for 25% of global TB cases.\nIV. Eight nations drive 87% of global TB cases.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "What was India's TB incidence rate per 100,000 population in 2024?",
+     "options": [
+      "131",
+      "195",
+      "150",
+      "187"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t12-1",
+   "type": "TITA",
+   "passage": "India has built a layered response to tuberculosis that combines national planning, direct support for patients and digital tools for monitoring. The national strategy is a roadmap to eliminate the disease, and its timeline is set to finish ahead of the global schedule. Its goals include steep reductions in incidence and in deaths, measured against the baseline set for the plan. Patients receive support as well as treatment. Under a direct benefit transfer scheme, every person registered for treatment receives a monthly amount meant for nutrition. Citizens and organisations can also take part. Individuals, non-governmental organisations and corporates are encouraged to support patients through a community-driven model. Diagnosis has also improved. A molecular test based on the polymerase chain reaction principle is now part of the toolkit, helping health workers detect the disease. Urban areas receive focused attention because they can contain hotspots where transmission is concentrated. Local interventions are designed to respond to such pockets rather than treating the whole city uniformly. Such local work is set out in the national plan, which sets targets for the years ahead. Progress is visible in the national figures, which show that the disease rate has fallen in recent years. Officials use digital platforms to monitor the programme, raise public awareness and invite citizen participation.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Name the 100 Days Intensified Campaign launched in India to accelerate TB elimination."
+    },
+    {
+     "n": 2,
+     "q": "What is the monthly nutritional support under the Ni-Kshay Poshan Yojana? (number only)"
+    },
+    {
+     "n": 3,
+     "q": "By how many years does India's National Strategic Plan for TB Elimination aim to eliminate TB ahead of global timelines? (in years)"
+    },
+    {
+     "n": 4,
+     "q": "What percentage reduction in TB incidence does India's National Strategic Plan target by 2025? (in per cent)"
+    },
+    {
+     "n": 5,
+     "q": "Which PCR-based molecular test is listed among India's modern TB testing tools? (name)"
+    },
+    {
+     "n": 6,
+     "q": "Under the Ni-Kshay Mitra initiative, what do individuals, NGOs and corporates do for TB patients? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "By what percentage did India's TB incidence rate fall between 2015 and 2024? (in per cent)"
+    }
+   ]
+  }
+ ]
+}

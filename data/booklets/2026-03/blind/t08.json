@@ -1,0 +1,194 @@
+{
+ "topic": "New GDP Series with Base Year Revised to 2022-23",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Base Year Revision to 2022-23",
+   "summary": "The Ministry of Statistics and Programme Implementation released the New National Accounts Series, with the GDP base year revised from 2011-12 to 2022-23. The 2026 revision is the 8th base year revision since 1948-49 and aligns with System of National Accounts 2008 and the IMF Quarterly National Accounts Manual 2017. A base year is the benchmark for measuring real changes in GDP, CPI and IIP over time. Revisions reflect structural changes in the economy, such as digital services expansion, renewable energy growth and changing consumption patterns.",
+   "facts": [
+    "Released by Ministry of Statistics and Programme Implementation (Rao Inderjit Singh)",
+    "New base year is 2022-23; earlier base year was 2011-12",
+    "2026 revision is the 8th base year revision since 1948-49",
+    "Before 2026, the base year was last updated to 2011-12 in 2015",
+    "A base year removes the inflation effect and enables accurate index creation",
+    "A base year reflects current economic structure, consumption patterns and price trends",
+    "The revision aligns with SNA 2008 and IMF QNA Manual 2017",
+    "2022-23 was chosen as the most recent normal economic year after COVID-19 disruptions",
+    "Periodic revision follows guidelines of the United Nations Statistical Commission"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Improved Data Sources and Methods",
+   "summary": "The new series integrates high-frequency and administrative datasets, including GST collection, vehicle registration data, PFMS, the Annual Survey of Unincorporated Sector Enterprises and the Periodic Labour Force Survey. Double deflation adjusts both output prices and input prices, giving a more accurate measure of real value addition in manufacturing and agriculture. The revision brings the National Pension System and the Old Pension Scheme into government sector accounting. Platform workers, digital economy participants and hired domestic workers are now captured.",
+   "facts": [
+    "GST collection data is one of the new high-frequency and administrative datasets",
+    "Vehicle registration data and PFMS are integrated into the new series",
+    "Annual Survey of Unincorporated Sector Enterprises and Periodic Labour Force Survey are new data sources",
+    "Improves coverage of the informal sector, gig economy, household enterprises and digital activities",
+    "Earlier single deflation adjusted only output prices",
+    "Double deflation adjusts both output prices and input prices",
+    "Double deflation gives more accurate real value addition in manufacturing and agriculture",
+    "GDP now includes the National Pension System and the Old Pension Scheme",
+    "Captures platform workers, digital economy participants and hired domestic workers"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "GDP Concepts and Measurement",
+   "summary": "GDP is the total monetary value of all finished goods and services produced. It can be calculated by three methods: expenditure, production and income. On the expenditure side, GDP equals consumption plus investment plus government expenditure plus exports minus imports. Real GDP is inflation-adjusted GDP, while nominal GDP is GDP at current prices.",
+   "facts": [
+    "GDP is the total monetary value of all finished goods and services produced",
+    "Three methods to calculate GDP: expenditure, production and income",
+    "Expenditure formula: GDP = C + I + G + (X - M)",
+    "C is goods and services consumed; I is investments; G is government expenditures",
+    "Real GDP is inflation-adjusted GDP",
+    "Nominal GDP is GDP at current prices",
+    "GDP at factor cost = GDP at market prices + subsidies - indirect taxes",
+    "GDP at market prices is the measure of GDP in India",
+    "GDP is not an accurate measure of the overall living standard or well-being of a country",
+    "Example: 2021 GDP at current prices Rs 1000; 2022 GDP at current prices Rs 1650; 2022 real GDP at 2021 prices Rs 1100"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Economic Implications of the Revision",
+   "summary": "Real GDP growth is revised upward to 7.6% for FY 2025-26, while nominal GDP is lower at 345.47 lakh crore. Lower nominal GDP can raise the fiscal deficit and debt-to-GDP ratios even though absolute deficit levels are unchanged. Sectoral growth in FY26 is 2.8% in the primary, 9.5% in the secondary and 8.9% in the tertiary sector. More accurate economic data supports policy formulation, investment and business planning.",
+   "facts": [
+    "Real GDP growth revised upward to 7.6% for FY 2025-26",
+    "Nominal GDP for FY 2025-26 is 345.47 lakh crore after revision",
+    "Fiscal deficit (as % of GDP): revised 4.51%, earlier 4.36%",
+    "Debt-to-GDP ratio: revised estimate 57.5% for FY 2026-27, earlier target 55.6%",
+    "Lower nominal GDP can raise fiscal deficit and debt-to-GDP ratios despite unchanged absolute deficit levels",
+    "Primary sector growth in FY26 is 2.8%, from 5% in FY25",
+    "Secondary sector growth in FY26 is 9.5%, from 7.3% in FY25",
+    "Tertiary sector growth in FY26 is 8.9%, from 8.3% in FY25",
+    "More accurate economic data supports policy formulation, investment and business decisions"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t08-0",
+   "type": "MCQ",
+   "passage": "Measuring an economy requires a fixed reference period against which later figures are compared. This reference, known as the base year, is used to calculate price-adjusted output, so that changes in the size of an economy are not confused with changes in prices. As economies evolve, a base year that once reflected the production structure gradually becomes outdated. New industries grow, consumer habits shift, and the relative importance of sectors changes. Statisticians therefore revise the base year at intervals, rebuilding national accounts on a newer structure. Each revision also gives an opportunity to improve methods and draw on fresh information. Administrative records, periodic household surveys and financial data can capture activities that older estimates may have missed, such as small unregistered enterprises and digital services. The methods used to remove price effects from output figures can also be refined, which sharpens the estimate of value added in key sectors. International guidelines for national accounts are updated periodically, and revisions help countries keep their figures comparable with global standards. Because gross domestic product guides budget planning, investment decisions and assessments of fiscal health, a revision can change reported growth rates and ratios even when the real economy has not changed. For this reason, official releases usually explain how the new figures were built and why they differ from earlier estimates, so that analysts can interpret trends correctly.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The 2026 revision marks which base year revision since 1948-49?",
+     "options": [
+      "Fifth",
+      "Sixth",
+      "Eighth",
+      "Tenth"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Match List I with List II:\nI. Single deflation   ->   A. Adjusts both output and input prices\nII. Double deflation   ->   B. Total monetary value of all finished goods and services produced\nIII. Base year 2022-23   ->   C. Adjusts only output prices\nIV. Gross Domestic Product   ->   D. Most recent normal economic year after COVID-19 disruptions",
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-D, II-C, III-A, IV-B",
+      "I-C, II-A, III-D, IV-B",
+      "I-B, II-A, III-C, IV-D"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which survey, newly used as a data source in the revised GDP series, covers unincorporated sector enterprises?",
+     "options": [
+      "Annual Survey of Industries",
+      "Annual Survey of Unincorporated Sector Enterprises",
+      "National Sample Survey",
+      "Consumer Expenditure Survey"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Which two pension systems are now included in GDP government sector accounting under the revised series?",
+     "options": [
+      "National Pension System and Old Pension Scheme",
+      "Atal Pension Yojana and PM-SYM",
+      "Employee Provident Fund and Gratuity",
+      "PM Jan Dhan Yojana and PM Jeevan Jyoti Bima"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "How many of the following statements about the revised GDP series are correct?\nI. It aligns with System of National Accounts 2008 and the IMF Quarterly National Accounts Manual 2017.\nII. It captures platform workers and hired domestic workers.\nIII. It was released by the Ministry of Finance.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the revised GDP series:\nI. The new base year 2022-23 replaces 2011-12 as the benchmark.\nII. Government sector accounts now include the National Pension System and the Old Pension Scheme.\nIII. Double deflation ignores input prices when measuring real value addition.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Who led the National Income Committee that compiled India's first National Income Estimates in 1949?",
+     "options": [
+      "C.D. Deshmukh",
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "PC Mahalanobis"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Assertion (A): The 2026 revision raised the nominal GDP estimate for FY 2025-26.\nReason (R): A base year removes the inflation effect and enables accurate index creation.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t08-1",
+   "type": "TITA",
+   "passage": "Official statistics are only as good as the information fed into them. Traditional estimates leaned heavily on surveys of large, registered firms, which left many small and informal producers poorly measured. Modern statistical systems therefore combine several sources. Tax collections on goods and services offer a timely view of business activity, while registrations of motor vehicles reflect demand and mobility. Financial management systems record government spending and receipts, which helps in measuring public sector activity. Labour surveys provide information on employment, including work that does not follow a conventional pattern. Such sources help capture household enterprises and digital activity that are hard to observe directly. Measurement also depends on how prices are handled. When output is converted into real terms, a careful price adjustment gives a more accurate picture of value added across the economy. Statisticians must also decide who is counted within the economy, and newer estimates aim to include workers who earn income in unconventional ways. Better coverage does not change the underlying economy, but it reduces the risk that real activity goes unrecorded. Users of these statistics should therefore read revised figures alongside the notes that explain changes in methodology.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which deflation method adjusts both output prices and input prices when measuring real value addition? (name the method)"
+    },
+    {
+     "n": 2,
+     "q": "Which survey covering unincorporated sector enterprises was added as a data source? (give the full name)"
+    },
+    {
+     "n": 3,
+     "q": "Apart from the Old Pension Scheme, which pension system is now included in GDP government sector accounts? (give the full name)"
+    },
+    {
+     "n": 4,
+     "q": "In which year were India's first National Income Estimates published? (in year)"
+    },
+    {
+     "n": 5,
+     "q": "Which Union ministry released the New National Accounts Series? (give the name)"
+    },
+    {
+     "n": 6,
+     "q": "Name the two sectors whose real value addition is measured more accurately under the new method. (name both)"
+    },
+    {
+     "n": 7,
+     "q": "What was the earlier base year before the 2026 revision? (in year range)"
+    }
+   ]
+  }
+ ]
+}
