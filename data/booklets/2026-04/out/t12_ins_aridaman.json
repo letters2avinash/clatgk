@@ -1,0 +1,307 @@
+{
+ "topic": {
+  "title": "INS Aridaman: India's Third Nuclear-Powered Ballistic Missile Submarine",
+  "chapter_title": "Science and Technology, Defence and Space",
+  "subtopics": [
+   {
+    "title": "INS Aridaman and SSBN Features",
+    "summary": "India commissioned INS Aridaman, its third nuclear-powered ballistic missile submarine, which marks a milestone of 3 operational SSBNs at sea. It is an indigenous Arihant-class SSBN powered by an 83 MW Pressurised Compact Light-Water Reactor. The booklet describes it as equipped with 8 vertical launch systems and as carrying K-4 missiles with a 3,500 km range. SSBNs are typically the largest and most complex type of nuclear-powered submarine.",
+    "facts": [
+     "INS Aridaman is India's 3rd nuclear-powered ballistic missile submarine (SSBN).",
+     "Its commissioning marks a milestone of 3 operational SSBNs at sea.",
+     "It is the 3rd indigenous Arihant-class SSBN, after INS Arihant and INS Arighaat.",
+     "Powered by an 83 MW Pressurised Compact Light-Water Reactor.",
+     "Equipped with 8 vertical launch systems.",
+     "Firepower: K-4 missiles with 3,500 km range, plus capability to carry more K-15 missiles.",
+     "Built at the Ship Building Centre, Visakhapatnam, under the ATV programme.",
+     "Benefits: stealth (low noise), extended submerged operations and improved survivability.",
+     "SSBN stands for Ship Submersible Ballistic Nuclear; it can carry ballistic missiles that may be nuclear armed."
+    ],
+    "keywords": ["INS Aridaman", "SSBN", "Arihant class", "83 MW reactor", "K-4 missile", "ATV programme"]
+   },
+   {
+    "title": "Arihant-Class Submarines",
+    "summary": "The booklet shows the Arihant class with three submarines: INS Arihant (commissioned 2016), INS Arighaat (commissioned 2024) and INS Aridaman. INS Arighaat is similar to Arihant in power, launch tubes and displacement but much more technologically advanced. The specifications of Arihant-class submarines are classified, so the booklet's sketch is only an approximation. Nuclear submarines are grouped into SSN, SSGN and SSBN types, each with a different weapons role.",
+    "facts": [
+     "The Arihant-class comparison covers three submarines: INS Arihant, INS Arighaat and INS Aridaman.",
+     "INS Arihant was commissioned in 2016; its firepower is K-15 Sagarika missiles.",
+     "INS Arighaat was commissioned in 2024.",
+     "INS Arighaat is similar to Arihant in power, launch tubes and displacement, but much more technologically advanced.",
+     "Specifications of Arihant-class submarines are classified; the sketch is an approximation.",
+     "SSN (Submersible Ship Nuclear) carries conventional weapons.",
+     "SSGN (Ship Submersible Guided Nuclear) carries guided missiles with conventional warheads.",
+     "SSBN is typically the largest and most complex type of nuclear-powered submarine."
+    ],
+    "keywords": ["Arihant class", "INS Arihant", "INS Arighaat", "K-15 Sagarika", "SSN", "SSGN"]
+   },
+   {
+    "title": "Strategic Significance for India",
+    "summary": "INS Aridaman completes India's nuclear triad, which enables nuclear delivery from land, air and sea. Its second-strike capability provides assured retaliation and supports the No First Use doctrine. The booklet says the submarine improves strategic reach in the Indian Ocean Region and Indo-Pacific and boosts Credible Minimum Deterrence. India is placed among the countries with operational nuclear triads, which the booklet lists as USA, Russia, UK, China and France.",
+    "facts": [
+     "Completes India's nuclear triad, enabling nuclear delivery via land, air and sea.",
+     "Provides second-strike capability, meaning assured retaliation capability.",
+     "Supports India's No First Use doctrine.",
+     "Improves strategic reach in the Indian Ocean Region and Indo-Pacific.",
+     "Boosts Credible Minimum Deterrence.",
+     "Places India among countries with operational nuclear triads.",
+     "Other countries with operational nuclear triads listed: USA, Russia, UK, China, France."
+    ],
+    "keywords": ["nuclear triad", "second strike", "No First Use", "Credible Minimum Deterrence", "assured retaliation", "Indo-Pacific"]
+   },
+   {
+    "title": "Submarine Building Programmes",
+    "summary": "The 30-year Submarine Building Plan was approved by the Cabinet Committee on Security in 1999, after the Kargil War, and aimed to build 24 conventional submarines indigenously by 2030. Under Project 75, six Kalvari-class diesel-electric submarines were being built at Mazagon Dock Limited, and INS Kalvari was commissioned in 2017. Project 75I, approved in 2007 as Phase II, is the first project under the Strategic Partnership Model. Project 751 adds AIP technology, which lets submarines stay submerged for up to 2 weeks.",
+    "facts": [
+     "After the Kargil War (1999), the Cabinet Committee on Security approved a 30-year Submarine Building Plan.",
+     "The plan included building 24 conventional submarines indigenously by 2030.",
+     "Project 75 is Phase I (2000-2015) of the Indian Navy's 30-year indigenous submarine plan.",
+     "Six Kalvari-class (Scorpene-based) diesel-electric attack submarines were being built at Mazagon Dock Limited.",
+     "INS Kalvari, the first Project 75 submarine, was commissioned in 2017.",
+     "Project 75I, approved in 2007 as Phase II, is the first project under the Strategic Partnership Model.",
+     "Project 75I aims to procure diesel-electric attack submarines with fuel cells and AIP.",
+     "Conventional diesel-electric submarines must surface every 48 hours to be recharged.",
+     "Project 751 uses AIP technology to build six submarines that can stay submerged for up to 2 weeks.",
+     "Five foreign OEMs: Daewoo (South Korea), Naval Group (France), Rosoboronexport (Russia), Thyssenkrupp Marine Systems (TKMS, Germany), Navantia (Spain)."
+    ],
+    "keywords": ["Project 75", "Project 75I", "Project 751", "AIP", "Kalvari class", "Strategic Partnership Model", "30-year plan"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "INS Aridaman at a Glance",
+   "root": {
+    "label": "INS Aridaman: third nuclear-powered SSBN",
+    "children": [
+     {"label": "Commissioning and class", "children": [
+      {"label": "3rd nuclear-powered ballistic missile submarine"},
+      {"label": "Milestone: 3 operational SSBNs at sea"},
+      {"label": "3rd Arihant-class SSBN"}
+     ]},
+     {"label": "Propulsion and weapons", "children": [
+      {"label": "83 MW pressurised compact light-water reactor"},
+      {"label": "K-4 missiles, 3,500 km range"},
+      {"label": "8 vertical launch systems"}
+     ]},
+     {"label": "Stealth and endurance", "children": [
+      {"label": "Low noise stealth"},
+      {"label": "Extended submerged operations"},
+      {"label": "Improved survivability"}
+     ]},
+     {"label": "Strategic significance", "children": [
+      {"label": "Completes nuclear triad: land, air, sea"},
+      {"label": "Second-strike capability"},
+      {"label": "Supports No First Use doctrine"}
+     ]},
+     {"label": "Building programmes", "children": [
+      {"label": "30-year plan approved after Kargil War"},
+      {"label": "Project 75 and Project 75I"},
+      {"label": "Project 751 AIP: up to 2 weeks submerged"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "INS Aridaman Features",
+   "root": {
+    "label": "INS Aridaman features",
+    "children": [
+     {"label": "Class: 3rd Arihant-class SSBN"},
+     {"label": "Reactor: 83 MW light-water"},
+     {"label": "Weapons", "children": [
+      {"label": "K-4 missiles, 3,500 km range"},
+      {"label": "More K-15 missiles possible"}
+     ]},
+     {"label": "8 vertical launch systems"},
+     {"label": "Built at Visakhapatnam under ATV"},
+     {"label": "Benefits: stealth, endurance, survivability"}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Arihant-Class and Submarine Types",
+   "root": {
+    "label": "Arihant-class submarines",
+    "children": [
+     {"label": "INS Arihant: commissioned 2016", "children": [
+      {"label": "Firepower: K-15 Sagarika"}
+     ]},
+     {"label": "INS Arighaat: commissioned 2024", "children": [
+      {"label": "Similar power, tubes, displacement"},
+      {"label": "More technologically advanced"}
+     ]},
+     {"label": "INS Aridaman: 3rd class member", "children": [
+      {"label": "Carries K-4 missiles"}
+     ]},
+     {"label": "Submarine types", "children": [
+      {"label": "SSN: conventional weapons"},
+      {"label": "SSGN: guided missiles, conventional warheads"},
+      {"label": "SSBN: ballistic, may be nuclear armed"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Strategic Significance Map",
+   "root": {
+    "label": "Strategic significance of INS Aridaman",
+    "children": [
+     {"label": "Nuclear triad", "children": [
+      {"label": "Delivery via land, air and sea"}
+     ]},
+     {"label": "Second strike", "children": [
+      {"label": "Assured retaliation"},
+      {"label": "Supports No First Use doctrine"}
+     ]},
+     {"label": "Deterrence", "children": [
+      {"label": "Credible Minimum Deterrence"},
+      {"label": "Reach in IOR and Indo-Pacific"}
+     ]},
+     {"label": "Global status", "children": [
+      {"label": "Operational triads: USA, Russia, UK, China, France"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Submarine Building Programmes Map",
+   "root": {
+    "label": "Submarine building programmes",
+    "children": [
+     {"label": "30-year plan (1999)", "children": [
+      {"label": "24 conventional submarines by 2030"}
+     ]},
+     {"label": "Project 75 (Phase I)", "children": [
+      {"label": "Six Kalvari-class submarines"},
+      {"label": "INS Kalvari commissioned 2017"}
+     ]},
+     {"label": "Project 75I (Phase II)", "children": [
+      {"label": "Approved 2007"},
+      {"label": "Strategic Partnership Model"}
+     ]},
+     {"label": "Project 751", "children": [
+      {"label": "AIP technology"},
+      {"label": "Submerged up to 2 weeks"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "SSBN Expansion",
+   "mnemonic": "Sea Sentries Boast Nukes",
+   "decode": [
+    {"key": "Sea", "meaning": "S = Ship"},
+    {"key": "Sentries", "meaning": "S = Submersible"},
+    {"key": "Boast", "meaning": "B = Ballistic"},
+    {"key": "Nukes", "meaning": "N = Nuclear"}
+   ]
+  },
+  {
+   "scope": "topic",
+   "title": "Nuclear Triad Delivery",
+   "mnemonic": "Lions Always Swim",
+   "decode": [
+    {"key": "Lions", "meaning": "L = Land delivery"},
+    {"key": "Always", "meaning": "A = Air delivery"},
+    {"key": "Swim", "meaning": "S = Sea delivery"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Aridaman Submarine Practice Set",
+   "passage": "India has commissioned a new submarine that adds to its strategic forces at sea. The vessel is a ballistic missile submarine, a category that is typically the largest and most complex type of nuclear-powered submarine. Such a vessel can carry missiles that may be nuclear armed, and its design focuses on stealth, which comes from low noise. Operators also value the ability to remain submerged for long periods and the improved survivability it offers. The submarine belongs to a family of Indian submarines that began with an earlier vessel and grew through later additions. Its construction was linked to a programme launched in the 1980s, which aimed to create an indigenous fleet of such submarines with Russian assistance. Several government bodies managed that programme, so the work drew on more than one organisation. The vessel also supports a sea-based leg of India's nuclear forces, alongside weapons delivered from land and from the air. Its role is tied to India's doctrine of not using nuclear weapons first and to the idea of a credible minimum deterrent. Readers preparing for examinations should note how these design goals, the programme history and the strategic role fit together. Taken as a whole, the vessel shows how India combines indigenous development with support from partners over several decades. Each of these points connects back to the submarine programme and the wider defence strategy.",
+   "questions": [
+    {
+     "q": "What type of reactor powers INS Aridaman?",
+     "options": ["40 MW Heavy Water Reactor", "100 MW Fast Breeder Reactor", "83 MW Pressurised Compact Light-Water Reactor", "60 MW Boiling Water Reactor"],
+     "answer": 2,
+     "explanation": "The booklet states INS Aridaman is powered by an 83 MW Pressurised Compact Light-Water Reactor."
+    },
+    {
+     "q": "Where was INS Aridaman built?",
+     "options": ["Mazagon Dock, Mumbai", "Cochin Shipyard, Kerala", "Garden Reach Shipbuilders, Kolkata", "Ship Building Centre, Visakhapatnam"],
+     "answer": 3,
+     "explanation": "The booklet says it was built at the Ship Building Centre, Visakhapatnam, as part of the ATV programme."
+    },
+    {
+     "q": "What does the acronym SSBN stand for?",
+     "options": ["Ship Submersible Ballistic Nuclear", "Strategic Submarine Ballistic Network", "Stealth Submarine Battle Navy", "Sub-Surface Ballistic Nuclear"],
+     "answer": 0,
+     "explanation": "The booklet expands SSBN as Ship Submersible Ballistic Nuclear."
+    },
+    {
+     "q": "Assertion (A): Specifications of Arihant-class submarines have been fully declassified.\nReason (R): Arihant-class specifications are classified, so the booklet's sketch is only an approximation.\nIn the context of the above, which one of the following is correct?",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 3,
+     "explanation": "The booklet states that Arihant-class specifications are classified, so A is false while R is true."
+    },
+    {
+     "q": "Match List I with List II:\nI. INS Arihant   ->   A. Commissioned in 2016\nII. INS Arighaat   ->   B. Commissioned in 2024\nIII. INS Aridaman   ->   C. Commissioned in 2026\nIV. INS Kalvari   ->   D. Commissioned in 2017\nSelect the correct answer.",
+     "options": ["I-B, II-A, III-C, IV-D", "I-A, II-C, III-B, IV-D", "I-A, II-B, III-C, IV-D", "I-A, II-B, III-D, IV-C"],
+     "answer": 2,
+     "explanation": "Arihant was commissioned in 2016, Arighaat in 2024, Aridaman in 2026 and INS Kalvari in 2017."
+    },
+    {
+     "q": "Consider the following statements:\nI. The 30-year Submarine Building Plan was approved by the Cabinet Committee on Security after the Kargil War in 1999.\nII. Project 75I was the first project under the Strategic Partnership Model.\nIII. Project 751 submarines can stay submerged for up to 48 hours.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "The booklet says Project 751 submarines can stay submerged for up to 2 weeks, while 48 hours is the recharge interval for conventional submarines."
+    },
+    {
+     "q": "How many of the following statements about INS Aridaman are correct?\nI. It is equipped with 8 vertical launch systems.\nII. It was built by Cochin Shipyard Limited.\nIII. It can carry K-4 missiles with a range of 3,500 km.",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and III match the booklet, while statement II is wrong because the booklet places its construction at Visakhapatnam."
+    },
+    {
+     "q": "Which organisations together manage the ATV Project?",
+     "options": ["ISRO, Indian Navy and Ministry of Defence", "DRDO, Department of Atomic Energy and Indian Navy", "DRDO, Ministry of Finance and Indian Navy", "HAL, BARC and Indian Air Force"],
+     "answer": 1,
+     "explanation": "The booklet says the ATV Project is managed by DRDO, the Department of Atomic Energy and the Indian Navy."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Arihant-Class Short Answer Set",
+   "passage": "Nuclear-powered submarines come in several types, and each type is built for a different role. One type carries conventional weapons, another carries guided missiles with conventional warheads, and a third carries ballistic missiles that may be nuclear armed. The third type is typically the largest and most complex of the group. Submarines of this kind are valued for stealth, which comes from low noise, along with extended submerged operations and improved survivability. India's Arihant-class submarines form part of this picture. The specifications of these submarines are classified, so any sketch of them is only an approximation, and readers should treat such drawings with caution. The class shares a design that balances power, launch tubes and displacement across its members. The programme behind these vessels aimed to create an indigenous submarine fleet with outside help. Taken together, these points show how the class fits into India's wider strategic planning. Readers studying this area often connect design features with the role each submarine plays in a country's defence. The booklet describes stealth as a benefit of these vessels, and it lists extended submerged operations and improved survivability alongside it. The class has been described in terms of its power, its launch capacity and its displacement, though some figures are not publicly confirmed. This is why sketches should be read as approximations rather than exact engineering drawings. Students should keep these categories distinct when answering questions on submarines.",
+   "questions": [
+    {"q": "In which year was INS Arighaat commissioned? (year)", "answer": "2024", "accept": ["2024"], "explanation": "The booklet's comparison lists INS Arighaat as commissioned in 2024."},
+    {"q": "How many submarines does the booklet's Arihant-class comparison cover? (number)", "answer": "3", "accept": ["three"], "explanation": "The comparison covers INS Arihant, INS Arighaat and INS Aridaman."},
+    {"q": "Which Arihant-class submarine has K-15 Sagarika listed as its firepower? (name)", "answer": "INS Arihant", "accept": ["Arihant", "INS Arihant"], "explanation": "The booklet lists K-15 Sagarika as the firepower of INS Arihant."},
+    {"q": "What does SSGN stand for? (full expansion)", "answer": "Ship Submersible Guided Nuclear", "accept": ["Ship-Submersible Guided Nuclear", "Ship Submersible Guided Nuclear submarine"], "explanation": "SSGN is expanded as Ship Submersible Guided Nuclear and carries guided missiles with conventional warheads."},
+    {"q": "What does SSN stand for? (full expansion)", "answer": "Submersible Ship Nuclear", "accept": ["Submersible-Ship Nuclear", "Submersible Ship Nuclear submarine"], "explanation": "The booklet expands SSN as Submersible Ship Nuclear, a type that carries conventional weapons."},
+    {"q": "Which Arihant-class submarine is described as much more technologically advanced than INS Arihant? (name)", "answer": "INS Arighaat", "accept": ["Arighaat", "INS Arighat", "Arighat"], "explanation": "The booklet says INS Arighaat is similar to Arihant in power, launch tubes and displacement but much more technologically advanced."},
+    {"q": "Which Arihant-class submarine has 2026 as its commissioning year in the booklet? (name)", "answer": "INS Aridaman", "accept": ["Aridaman", "INS Aridaman"], "explanation": "The booklet's comparison table gives 2026 as the commissioning year of INS Aridaman."}
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 56, "what": "Arihant and Aridaman columns of the comparison table (launch tube counts, displacement, reactor upgrade note) are misaligned by OCR; not used."},
+  {"page": 56, "what": "Missile option counts (24 x K-15 Sagarika, 8 x K-4) and the K-15 range (about 750 km vs over 700 km) are unclear; not used."},
+  {"page": 57, "what": "Statement that 6 of the 24 submarines will be nuclear-powered conflicts with the 24 conventional submarine plan; not used."},
+  {"page": 57, "what": "The 'S4*' entry in the current nuclear submarine list and the INS Chakra lease note are garbled; not used."}
+ ]
+}
