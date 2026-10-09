@@ -1,0 +1,89 @@
+{
+ "passage_flags": [
+  {
+   "quiz": "t-t05-1",
+   "claim": "which is kept demanding so that judges can work without fear",
+   "problem": "not found in booklet text; the booklet gives no rationale for the removal process beyond the grounds and procedure",
+   "page": 29
+  },
+  {
+   "quiz": "q-t06-0",
+   "claim": "Legislators in India are elected on the ticket of a political party",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "q-t06-0",
+   "claim": "to make elected representatives answerable to the party that fielded them",
+   "problem": "not found in booklet text; booklet says the law makes legislators accountable for their conduct, not to the party that fielded them",
+   "page": 33
+  },
+  {
+   "quiz": "q-t08-0",
+   "claim": "The report is widely read because it allows citizens to compare their own country with others.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "q-t08-0",
+   "claim": "Analysts often look first at the countries near the top and bottom, but the middle of the table also shows how legal and economic conditions change over time.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "q-t10-0",
+   "claim": "when several milestones were announced together",
+   "problem": "not found in booklet text; the booklet describes these as achievements of 11 May 1998, not as announced together",
+   "page": 52
+  },
+  {
+   "quiz": "q-t11-0",
+   "claim": "Parliament has translated many of these aims into laws",
+   "problem": "enacting body (Parliament) is not stated in booklet text; the booklet lists the Acts without naming who enacted them",
+   "page": 56
+  },
+  {
+   "quiz": "t-t11-1",
+   "claim": "This allows disagreements about working conditions to be discussed through a common process.",
+   "problem": "not found in booklet text; the booklet says the tripartite structure gives an equal voice to governments, employers and workers but describes no such discussion process",
+   "page": 57
+  },
+  {
+   "quiz": "q-t12-0",
+   "claim": "Member states hold different views on the rivalry between China and the United States",
+   "problem": "not found in booklet text; the booklet only says ASEAN must balance influence between China and the U.S. and does not state that members disagree",
+   "page": 61
+  },
+  {
+   "quiz": "q-t13-0",
+   "claim": "Its results are published so that citizens can compare their own panchayat with others across the country.",
+   "problem": "not found in booklet text (booklet does not say PAI results are published for citizen comparison)",
+   "page": null
+  },
+  {
+   "quiz": "q-t13-0",
+   "claim": "these surveys guide policy at national and state level",
+   "problem": "not found in booklet text (booklet describes ASUSE's objective and coverage only, not its policy use)",
+   "page": null
+  },
+  {
+   "quiz": "q-t14-0",
+   "claim": "The projects are part of a wider effort by India to share development resources with friendly nations.",
+   "problem": "not found in booklet text; the booklet describes SEEDS only as an Indian developmental cooperation initiative for SMEs in the Global South, with no 'wider effort' or 'friendly nations' wording",
+   "page": 77
+  },
+  {
+   "quiz": "t-t14-1",
+   "claim": "so that field data and local solutions can be studied in one place",
+   "problem": "purpose not found in booklet text; the booklet only says Jharkhand is set to establish the research centre",
+   "page": 77
+  },
+  {
+   "quiz": "t-t14-1",
+   "claim": "One method uses bees to keep elephants away from crops",
+   "problem": "'away from crops' not found in booklet text; the booklet says only that RE-HAB reduces elephant-human attacks using bees",
+   "page": 77
+  }
+ ],
+ "fact_flags": []
+}

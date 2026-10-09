@@ -1,0 +1,24 @@
+[
+ {
+  "quiz": "t-t04-1",
+  "q": "What is the maximum term of imprisonment (in years) for violating the Places of Worship Act?",
+  "issues": [
+   "garbled_basis"
+  ]
+ },
+ {
+  "quiz": "t-t04-1",
+  "q": "In which year did the Supreme Court's Ayodhya verdict say that the Places of Worship Act upholds secular values? (year)",
+  "issues": [
+   "garbled_basis"
+  ]
+ },
+ {
+  "quiz": "t-t14-1",
+  "q": "Which body implements Project RE-HAB? (short form)",
+  "issues": [
+   "unsupported",
+   "other: question asks for the short form (KVIC); booklet gives only the full name, so the requested form is not supported"
+  ]
+ }
+]
