@@ -1,0 +1,87 @@
+{
+ "quizzes": [
+  {
+   "id": "q-x15-92",
+   "questions": [
+    {"n": 1, "my_answer": 1, "supported": true, "evidence": {"page": 71, "quote": "Issuedunder Article 341(1)."}, "issues": []},
+    {"n": 2, "my_answer": 2, "supported": true, "evidence": {"page": 72, "quote": "Doctrine of Eclipse: SC Status is Suspended (Eclipsed), Not Permanently Extinguished."}, "issues": []},
+    {"n": 3, "my_answer": 0, "supported": true, "evidence": {"page": 73, "quote": "Amends Andhra Pradesh Reorganisation Act 2014: Change Replaced Placeholder in Section 5(2)"}, "issues": []},
+    {"n": 4, "my_answer": 0, "supported": true, "evidence": {"page": 72, "quote": "Conversion to Islam, Christianity or Any Other Religion"}, "issues": []},
+    {"n": 5, "my_answer": 2, "supported": true, "evidence": {"page": 81, "quote": "Nodal Ministry: Ministry of Rural Development"}, "issues": []},
+    {"n": 6, "my_answer": 3, "supported": true, "evidence": {"page": 71, "quote": "Only Parliament can amend SC List."}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 81, "quote": "extended by Union Cabinet till Mar 2028."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x15-93",
+   "questions": [
+    {"n": 1, "my_answer": "2000", "supported": true, "evidence": {"page": 81, "quote": "Launch Year: 2000"}, "issues": []},
+    {"n": 2, "my_answer": "2028", "supported": true, "evidence": {"page": 81, "quote": "extended by Union Cabinet till Mar 2028."}, "issues": []},
+    {"n": 3, "my_answer": "15000", "supported": true, "evidence": {"page": 81, "quote": "Drone Distribution: Target15,000 Drones for SHGs"}, "issues": []},
+    {"n": 4, "my_answer": "25", "supported": true, "evidence": {"page": 74, "quote": "Age Criteria: 18—25 Years (Earlier: 21—24 Years)"}, "issues": []},
+    {"n": 5, "my_answer": "National Rural Infrastructure Development Agency", "supported": true, "evidence": {"page": 81, "quote": "Central Agency: National Rural Infrastructure DevelopmentAgency"}, "issues": []},
+    {"n": 6, "my_answer": "2014", "supported": true, "evidence": {"page": 73, "quote": "Amends Andhra Pradesh Reorganisation Act 2014"}, "issues": []},
+    {"n": 7, "my_answer": "1989", "supported": true, "evidence": {"page": 71, "quote": "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "q-x15-94",
+   "questions": [
+    {"n": 1, "my_answer": 0, "supported": true, "evidence": {"page": 75, "quote": "behind United Kingdom and Japan."}, "issues": []},
+    {"n": 2, "my_answer": 1, "supported": true, "evidence": {"page": 73, "quote": "Legal Basis: Section 147 (Finance Act 2002)"}, "issues": []},
+    {"n": 3, "my_answer": 0, "supported": true, "evidence": {"page": 81, "quote": "Semiconductor Fabrication SEZ at Dholera (Gujarat), led by Tata Semiconductor"}, "issues": []},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 75, "quote": "India has hosted COP8 (2002) Once in New Delhi."}, "issues": []},
+    {"n": 5, "my_answer": 3, "supported": true, "evidence": {"page": 76, "quote": "Emission Intensity 45% Reduction 47% Reduction"}, "issues": []},
+    {"n": 6, "my_answer": 2, "supported": true, "evidence": {"page": 76, "quote": "Nature: Legally Binding with Differentiated Responsibilities"}, "issues": []},
+    {"n": 7, "my_answer": 2, "supported": true, "evidence": {"page": 76, "quote": "Adopted under Montreal Protocol (2016, Rwanda)"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x15-95",
+   "questions": [
+    {"n": 1, "my_answer": "47", "supported": true, "evidence": {"page": 76, "quote": "Emission Intensity Reduction: 47% Reduction from 2005 Levels."}, "issues": []},
+    {"n": 2, "my_answer": "2016", "supported": true, "evidence": {"page": 76, "quote": "Adopted under Montreal Protocol (2016, Rwanda)"}, "issues": []},
+    {"n": 3, "my_answer": "2021", "supported": true, "evidence": {"page": 76, "quote": "Indiaratified in 2021"}, "issues": []},
+    {"n": 4, "my_answer": "New Delhi", "supported": true, "evidence": {"page": 75, "quote": "India has hosted COP8 (2002) Once in New Delhi."}, "issues": []},
+    {"n": 5, "my_answer": "1944", "supported": true, "evidence": {"page": 73, "quote": "Linked to Central Excise Act 1944."}, "issues": []},
+    {"n": 6, "my_answer": "Tata Semiconductor", "supported": true, "evidence": {"page": 81, "quote": "led by Tata Semiconductor"}, "issues": []},
+    {"n": 7, "my_answer": "2028", "supported": true, "evidence": {"page": 76, "quote": "Freeze HFC Consumption: 2028"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "such revisions change the level of output reported for earlier years", "problem": "not found in booklet text; the booklet says only that a new base year was introduced and GDP was revised downward", "page": 75}
+   ]
+  },
+  {
+   "id": "q-x15-96",
+   "questions": [
+    {"n": 1, "my_answer": 1, "supported": true, "evidence": {"page": 80, "quote": "Observed on 23 March."}, "issues": []},
+    {"n": 2, "my_answer": 2, "supported": true, "evidence": {"page": 79, "quote": "Death Toll estimated at 379 (Official)"}, "issues": []},
+    {"n": 3, "my_answer": 2, "supported": true, "evidence": {"page": 78, "quote": "Executed in Delhi on orders of Mughal Emperor Aurangzeb for defending Freedom of Religion."}, "issues": []},
+    {"n": 4, "my_answer": 0, "supported": true, "evidence": {"page": 77, "quote": "He started the GURU KA LANGAR."}, "issues": []},
+    {"n": 5, "my_answer": 3, "supported": true, "evidence": {"page": 78, "quote": "Tulughma Strategy: Division of Army into flanking units attacking from sides and rear."}, "issues": []},
+    {"n": 6, "my_answer": 1, "supported": true, "evidence": {"page": 78, "quote": "Translated in Persian as Baburnama by Abdur Rahim Khan"}, "issues": []},
+    {"n": 7, "my_answer": 3, "supported": true, "evidence": {"page": 79, "quote": "Perpetrator: Reginald Dyer"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "a gathering in Amritsar on a spring festival day", "problem": "booklet gives the place only as Jallianwala Bagh; Amritsar is not stated in the massacre section", "page": 79}
+   ]
+  },
+  {
+   "id": "t-x15-97",
+   "questions": [
+    {"n": 1, "my_answer": "24", "supported": true, "evidence": {"page": 78, "quote": "In 1504, Babur Seized Kabul at the age of 24"}, "issues": []},
+    {"n": 2, "my_answer": "1699", "supported": true, "evidence": {"page": 77, "quote": "He founded a warrior community known as Khalsa in 1699."}, "issues": []},
+    {"n": 3, "my_answer": "1604", "supported": true, "evidence": {"page": 77, "quote": "He composed the Adi Granth in 1604."}, "issues": []},
+    {"n": 4, "my_answer": "1848", "supported": true, "evidence": {"page": 80, "quote": "Jyotirao Phule and Savitribai Phule established India's"}, "issues": []},
+    {"n": 5, "my_answer": "1956", "supported": true, "evidence": {"page": 79, "quote": "Converted to Buddhism in 1956"}, "issues": []},
+    {"n": 6, "my_answer": "23 March", "supported": true, "evidence": {"page": 80, "quote": "Observed on 23 March."}, "issues": []},
+    {"n": 7, "my_answer": "Guru Tegh Bahadur", "supported": true, "evidence": {"page": 77, "quote": "He founded Anandpur Sahib."}, "issues": []}
+   ],
+   "passage_flags": []
+  }
+ ],
+ "fact_flags": []
+}
