@@ -1,0 +1,296 @@
+{
+ "topic": "New GDP Series with Base Year Revised to 2022-23",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Base Year Revision to 2022-23",
+   "summary": "The Ministry of Statistics and Programme Implementation released the New National Accounts Series, with the GDP base year revised from 2011-12 to 2022-23. The 2026 revision is the 8th base year revision since 1948-49 and aligns with System of National Accounts 2008 and the IMF Quarterly National Accounts Manual 2017. A base year is the benchmark for measuring real changes in GDP, CPI and IIP over time. Revisions reflect structural changes in the economy, such as digital services expansion, renewable energy growth and changing consumption patterns.",
+   "facts": [
+    "Released by Ministry of Statistics and Programme Implementation (Rao Inderjit Singh)",
+    "New base year is 2022-23; earlier base year was 2011-12",
+    "2026 revision is the 8th base year revision since 1948-49",
+    "Before 2026, the base year was last updated to 2011-12 in 2015",
+    "A base year removes the inflation effect and enables accurate index creation",
+    "A base year reflects current economic structure, consumption patterns and price trends",
+    "The revision aligns with SNA 2008 and IMF QNA Manual 2017",
+    "2022-23 was chosen as the most recent normal economic year after COVID-19 disruptions",
+    "Periodic revision follows guidelines of the United Nations Statistical Commission"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Improved Data Sources and Methods",
+   "summary": "The new series integrates high-frequency and administrative datasets, including GST collection, vehicle registration data, PFMS, the Annual Survey of Unincorporated Sector Enterprises and the Periodic Labour Force Survey. Double deflation adjusts both output prices and input prices, giving a more accurate measure of real value addition in manufacturing and agriculture. The revision brings the National Pension System and the Old Pension Scheme into government sector accounting. Platform workers, digital economy participants and hired domestic workers are now captured.",
+   "facts": [
+    "GST collection data is one of the new high-frequency and administrative datasets",
+    "Vehicle registration data and PFMS are integrated into the new series",
+    "Annual Survey of Unincorporated Sector Enterprises and Periodic Labour Force Survey are new data sources",
+    "Improves coverage of the informal sector, gig economy, household enterprises and digital activities",
+    "Earlier single deflation adjusted only output prices",
+    "Double deflation adjusts both output prices and input prices",
+    "Double deflation gives more accurate real value addition in manufacturing and agriculture",
+    "GDP now includes the National Pension System and the Old Pension Scheme",
+    "Captures platform workers, digital economy participants and hired domestic workers"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "GDP Concepts and Measurement",
+   "summary": "GDP is the total monetary value of all finished goods and services produced. It can be calculated by three methods: expenditure, production and income. On the expenditure side, GDP equals consumption plus investment plus government expenditure plus exports minus imports. Real GDP is inflation-adjusted GDP, while nominal GDP is GDP at current prices.",
+   "facts": [
+    "GDP is the total monetary value of all finished goods and services produced",
+    "Three methods to calculate GDP: expenditure, production and income",
+    "Expenditure formula: GDP = C + I + G + (X - M)",
+    "C is goods and services consumed; I is investments; G is government expenditures",
+    "Real GDP is inflation-adjusted GDP",
+    "Nominal GDP is GDP at current prices",
+    "GDP at factor cost = GDP at market prices + subsidies - indirect taxes",
+    "GDP at market prices is the measure of GDP in India",
+    "GDP is not an accurate measure of the overall living standard or well-being of a country",
+    "Example: 2021 GDP at current prices Rs 1000; 2022 GDP at current prices Rs 1650; 2022 real GDP at 2021 prices Rs 1100"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Economic Implications of the Revision",
+   "summary": "Real GDP growth is revised upward to 7.6% for FY 2025-26, while nominal GDP is lower at 345.47 lakh crore. Lower nominal GDP can raise the fiscal deficit and debt-to-GDP ratios even though absolute deficit levels are unchanged. Sectoral growth in FY26 is 2.8% in the primary, 9.5% in the secondary and 8.9% in the tertiary sector. More accurate economic data supports policy formulation, investment and business planning.",
+   "facts": [
+    "Real GDP growth revised upward to 7.6% for FY 2025-26",
+    "Nominal GDP for FY 2025-26 is 345.47 lakh crore after revision",
+    "Fiscal deficit (as % of GDP): revised 4.51%, earlier 4.36%",
+    "Debt-to-GDP ratio: revised estimate 57.5% for FY 2026-27, earlier target 55.6%",
+    "Lower nominal GDP can raise fiscal deficit and debt-to-GDP ratios despite unchanged absolute deficit levels",
+    "Primary sector growth in FY26 is 2.8%, from 5% in FY25",
+    "Secondary sector growth in FY26 is 9.5%, from 7.3% in FY25",
+    "Tertiary sector growth in FY26 is 8.9%, from 8.3% in FY25",
+    "More accurate economic data supports policy formulation, investment and business decisions"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x08-64",
+   "type": "MCQ",
+   "passage": "Gross Domestic Product, or GDP, is the main indicator used to describe the size of an economy. It works as an economic snapshot, helping analysts estimate how much economic activity a country has generated. Statisticians compile the figure within the national accounts framework. Policymakers, investors and businesses use it for planning and investment decisions, so its accuracy matters. The measure relies on a base year, which serves as a benchmark reference point. Using a base year allows economic indicators, price changes and statistical trends to be compared over time. The same reference is used to measure changes in GDP, the consumer price index and the index of industrial production. A base year also helps remove the inflation effect and makes accurate index creation possible. Over time, an economy changes its structure, as digital services expand, renewable energy grows and consumption patterns shift. Periodic revision of the base year is meant to reflect these changes, to follow international guidelines and to improve the accuracy and credibility of GDP estimates. Statistical reforms that update the CPI, IIP and WPI base years are part of a wider effort to modernise India's data system. Such updates aim to strengthen the national framework for economic statistics.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In the expenditure formula GDP = C + I + G + (X - M), what does G represent?",
+     "options": [
+      "Goods and services consumed",
+      "Investments",
+      "Government expenditures",
+      "Gross savings"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which measure of GDP is adjusted for inflation?",
+     "options": [
+      "Real GDP",
+      "Nominal GDP",
+      "GDP at factor cost",
+      "GDP at market prices"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "In the booklet's bread example, what was the GDP at current prices in 2022 (in Rs)?",
+     "options": [
+      "Rs 1,000",
+      "Rs 1,650",
+      "Rs 1,400",
+      "Rs 1,100"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): GDP is an accurate measure of the overall living standard and well-being of a country.\nReason (R): GDP is the total monetary value of all finished goods and services produced.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Real GDP   ->   A. GDP at market prices plus subsidies minus indirect taxes\nII. Nominal GDP   ->   B. Goods and services consumed\nIII. GDP at factor cost   ->   C. Inflation-adjusted GDP\nIV. C in the expenditure formula   ->   D. GDP at current prices",
+     "options": [
+      "I-C, II-D, III-A, IV-B",
+      "I-C, II-A, III-B, IV-D",
+      "I-C, II-B, III-A, IV-D",
+      "I-A, II-D, III-B, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about GDP calculation:\nI. GDP at factor cost equals GDP at market prices plus subsidies minus indirect taxes.\nII. GDP at market prices is the measure of GDP used in India.\nIII. Nominal GDP is inflation-adjusted GDP.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Examine the statements given below on GDP measures.\nI. Real GDP is inflation-adjusted GDP.\nII. Nominal GDP is GDP at current prices.\nIII. GDP is an accurate measure of the overall living standard of a country.\nHow many of these statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-65",
+   "type": "TITA",
+   "passage": "Gross Domestic Product is widely used to take a snapshot of an economy and to estimate its growth. At its core, it is the total monetary value of all finished goods and services produced. The figure can be calculated through different approaches, and each approach is one part of how statisticians build the national accounts. Price levels matter when output is compared across years, because a rise in value may reflect higher prices rather than more production. Statisticians therefore rely on a benchmark reference point, known as a base year, to compare economic indicators, price changes and statistical trends. The base year also helps measure changes in indicators that track output and prices, and it removes the inflation effect so that accurate index numbers can be created. Economic structure changes over time, as digital services expand and renewable energy grows. Revising the base year allows the national accounts to reflect these changes. Policymakers, investors and businesses depend on such estimates for planning, which is why accurate data is valued. Improved methodologies and granular data enhance the accuracy of economic growth estimates, and a revised framework better captures the digital economy and platform-based work. Statistical reforms update the consumer price index, the index of industrial production and the wholesale price index base years.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In the expenditure formula GDP = C + I + G + (X - M), what does C stand for? (give the phrase)"
+    },
+    {
+     "n": 2,
+     "q": "In the same formula, what does I stand for? (one word)"
+    },
+    {
+     "n": 3,
+     "q": "What is GDP at current prices called? (one word)"
+    },
+    {
+     "n": 4,
+     "q": "Which GDP measure is adjusted for inflation? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "In the booklet's bread example, what was GDP at current prices in 2021? (in Rs)"
+    },
+    {
+     "n": 6,
+     "q": "GDP at MP is GDP at which prices? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "GDP at market prices is the measure of GDP used in which country? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x08-66",
+   "type": "MCQ",
+   "passage": "The New National Accounts Series was released by the Ministry of Statistics and Programme Implementation, with the base year for Gross Domestic Product revised to 2022-23. The new series uses improved estimation methods and aligns with the System of National Accounts 2008. It integrates high-frequency and administrative datasets, including GST collections, vehicle registration data and the Periodic Labour Force Survey. The base year 2022-23 was chosen because it represents the most recent normal economic year after the COVID-19 disruptions. The revision also changes how government finances are estimated, and the national accounts now capture more platform workers and hired domestic workers than before. Headline figures for the year 2025-26 are presented afresh under the new base year. The revision seeks to improve the accuracy and credibility of the national accounts. The new series also reflects the digital economy and new sectors more closely, so that the measured economy reflects present production structures. Improved methodologies and granular data enhance the accuracy of the economic growth rate. Statistical reforms modernise India's data system through updated CPI, IIP and WPI base years, strengthening the national framework. The Periodic revision of the base year follows guidelines of the United Nations Statistical Commission. The series covers gig work and household enterprises as well.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the revised real GDP growth rate for FY 2025-26?",
+     "options": [
+      "6.5%",
+      "7.6%",
+      "8.9%",
+      "9.5%"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "By what percentage did the secondary sector grow in FY 2025-26?",
+     "options": [
+      "7.3%",
+      "8.3%",
+      "9.5%",
+      "8.9%"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What is the revised fiscal deficit as a percentage of GDP?",
+     "options": [
+      "4.51%",
+      "4.36%",
+      "55.6%",
+      "57.5%"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The revised series lowers the debt-to-GDP ratio estimate for FY 2026-27 below the earlier target.\nReason (R): Lower nominal GDP can raise debt-to-GDP ratios despite unchanged absolute deficit levels.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Primary sector growth in FY 2025-26   ->   A. 9.5%\nII. Secondary sector growth in FY 2025-26   ->   B. 7.6%\nIII. Tertiary sector growth in FY 2025-26   ->   C. 2.8%\nIV. Real GDP growth for FY 2025-26   ->   D. 8.9%",
+     "options": [
+      "I-B, II-C, III-A, IV-D",
+      "I-C, II-A, III-D, IV-B",
+      "I-A, II-B, III-D, IV-C",
+      "I-D, II-B, III-C, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the revised figures:\nI. The revised debt-to-GDP ratio estimate for FY 2026-27 is 57.5%.\nII. The earlier target for the debt-to-GDP ratio was 57.5%.\nIII. More accurate economic data supports policy formulation, investment and business decisions.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Examine the statements given below and find how many are correct.\nI. The primary sector growth for FY 2025-26 is 2.8%.\nII. The revised fiscal deficit is 4.36% of GDP.\nIII. The revised real GDP growth for FY 2025-26 is 7.6%.\nHow many of these statements are correct?",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-67",
+   "type": "TITA",
+   "passage": "A revision of the national accounts can change many figures at once. Once the base year is updated, the estimates for recent years are recalculated, so the size of the economy and its growth path both shift. The new series for the year 2025-26 is released with a revised base, and the change affects how the economy looks compared with earlier estimates. The economy has changed in structure, with digital services expansion, renewable energy growth and changing consumption patterns. A periodic revision is meant to reflect these shifts in the data. The new series also integrates high-frequency datasets, including GST collections and vehicle registration data, which add to the coverage of the informal sector, gig economy and household enterprise activity. Government sector accounting has been improved, and the estimates of government finances are now more accurate. Better economic data is expected to help policy formulation, investment and business planning. The revision is therefore presented as an improvement in statistical reliability for the country. Improved methodologies and granular data enhance the accuracy of the economic growth rate. The base year 2022-23 was chosen as the most recent normal economic year after the COVID-19 disruptions. The series is aligned with the System of National Accounts 2008.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the revised real GDP growth rate for FY 2025-26? (give the number, in %)"
+    },
+    {
+     "n": 2,
+     "q": "What is the revised nominal GDP for FY 2025-26? (give the number, in lakh crore)"
+    },
+    {
+     "n": 3,
+     "q": "What is the revised fiscal deficit as a percentage of GDP? (give the number, in %)"
+    },
+    {
+     "n": 4,
+     "q": "What was the earlier target for the debt-to-GDP ratio for FY 2026-27? (give the number, in %)"
+    },
+    {
+     "n": 5,
+     "q": "Which sector's growth in FY 2025-26 was 2.8%? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "Which sector grew by 9.5% in FY 2025-26? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "What was tertiary sector growth in FY 2024-25? (give the number, in %)"
+    }
+   ]
+  }
+ ]
+}

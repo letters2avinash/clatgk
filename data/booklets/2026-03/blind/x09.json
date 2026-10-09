@@ -1,0 +1,294 @@
+{
+ "topic": "World Happiness Report 2026",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Report basics and International Day of Happiness",
+   "summary": "The World Happiness Report is published annually by the Wellbeing Research Centre at the University of Oxford, in collaboration with Gallup and the UN Sustainable Development Solutions Network. Participants rate their lives on a scale of 0 to 10, and the report uses six key indicators. The 2026 edition was released on the International Day of Happiness, which is observed on 20 March and coincides with the vernal equinox.",
+   "facts": [
+    "2026 is the 14th edition of the World Happiness Report",
+    "Published annually since 2012",
+    "Published by the Wellbeing Research Centre, University of Oxford",
+    "Prepared in collaboration with Gallup and UN SDSN",
+    "Participants rate their lives on a scale of 0 to 10",
+    "Six key indicators: GDP per capita, social support, healthy life expectancy, freedom, generosity, perception of corruption",
+    "Report helps countries assess development beyond GDP",
+    "International Day of Happiness observed on 20 March",
+    "Day coincides with the vernal equinox",
+    "Theme of International Day of Happiness 2026: Care and Share",
+    "Day was pioneered by Bhutan, which prioritised Gross National Happiness over GDP"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Global rankings 2026",
+   "summary": "Finland ranked first in the 2026 report, its ninth consecutive year at the top, with Iceland and Denmark following. Costa Rica rose to 4th place from 23rd, while Afghanistan ranked lowest at 147th. No Anglosphere nation appeared in the top 10 for a second consecutive year, which the report links to a shift in global happiness rankings.",
+   "facts": [
+    "Finland: rank 1, score 7.764, 9th consecutive year at rank 1",
+    "Iceland and Denmark follow Finland in the top ranks",
+    "Costa Rica: rank 4, moved up from 23rd",
+    "Afghanistan: lowest ranked at 147th",
+    "Sierra Leone and Malawi follow Afghanistan at the bottom",
+    "No Anglosphere nation in the top 10 for 2nd consecutive year",
+    "New Zealand 11th, Ireland 13th, Australia 15th",
+    "USA 23rd, Canada 25th, UK 29th",
+    "Costa Rica's strong social cohesion is cited among its gains"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "India and BRICS comparison",
+   "summary": "India ranked 116th in the 2026 report with a score of 4.536, improved from 118th. Its areas of improvement were social support and healthy life expectancy. Among BRICS nations, China ranked highest at 65th, and India ranked below Nepal and Pakistan but above Bangladesh and Sri Lanka.",
+   "facts": [
+    "India: rank 116th, score 4.536",
+    "India improved from 118th in the previous ranking",
+    "India's areas of improvement: social support and healthy life expectancy",
+    "China ranked 65th, the highest among BRICS nations",
+    "India ranked below Nepal (99th) and Pakistan (104th)",
+    "India ranked above Bangladesh (127th) and Sri Lanka (134th)"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Social media and youth well-being",
+   "summary": "The 2026 report examines how social media use relates to happiness among young people. Youth aged 15 to 24 report lower life satisfaction than those aged 60 and above, a pattern seen in the United States, Canada, Australia and New Zealand. Adolescent girls using social media for more than five hours a day are the most vulnerable group, while youth using it for under one hour a day report the best well-being.",
+   "facts": [
+    "Youth aged 15-24 report lower life satisfaction than elderly aged 60+",
+    "Age-based pattern observed in US, Canada, Australia and New Zealand",
+    "Most vulnerable group: adolescent girls using social media over 5 hours a day",
+    "Heavy use linked with decline in mental health and comparison-driven stress",
+    "Optimal threshold: youth using social media under 1 hour a day",
+    "Youth using under 1 hour a day report even better well-being than non-users",
+    "Digital paradox: in developing countries like India, digital access improves education and connectivity",
+    "Excessive use in the same settings causes stress and anxiety",
+    "Report provides insights into mental health and digital behaviour trends"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x09-68",
+   "type": "MCQ",
+   "passage": "The World Happiness Report is an annual ranking of countries based on how people evaluate their own lives. Respondents are asked to rate their lives on a numbered scale, and the results are read together with six key indicators. These indicators are GDP per capita, social support, healthy life expectancy, freedom, generosity and perception of corruption. Because the report looks at these factors together, it helps countries assess development beyond GDP alone.\n\nThe report does not compare countries only on one global list. It also places countries within regional and economic groups, so that a country can be seen against its neighbours and against the other members of BRICS. India is one of the countries studied in South Asia, and its position can be read alongside the positions of its neighbours. Such comparisons show how a country stands relative to others in its own group.\n\nIndia's place in the 2026 edition can also be compared with its earlier position, because rankings can move from one edition to the next. A change in rank is shown alongside the country's score, so the movement and the level of well-being can be read together. Areas where a country has improved are also identified in the report.\n\nThe 2026 report was released on International Day of Happiness, which is observed every year on 20 March. The report emphasises well-being as a policy goal.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which BRICS nation ranked highest in the 2026 World Happiness Report?",
+     "options": [
+      "Russia",
+      "Iran",
+      "China",
+      "India"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "India's 2026 rank was an improvement from which earlier position?",
+     "options": [
+      "118th",
+      "120th",
+      "112th",
+      "108th"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which two areas were identified as areas of improvement for India in the 2026 report?",
+     "options": [
+      "GDP per capita and freedom",
+      "Generosity and perception of corruption",
+      "Freedom and perception of corruption",
+      "Social support and healthy life expectancy"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): India ranked below Nepal and Pakistan in the 2026 report.\nReason (R): Sri Lanka was placed 134th in the 2026 report.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Russia   ->   A. 104th\nII. Iran   ->   B. 99th\nIII. Nepal   ->   C. 97th\nIV. Pakistan   ->   D. 79th",
+     "options": [
+      "I-B, II-D, III-A, IV-C",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-C, III-B, IV-A",
+      "I-D, II-A, III-B, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about India and BRICS in the 2026 report:\nI. India ranked above Bangladesh.\nII. Russia ranked above China.\nIII. Pakistan ranked above Iran.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I only",
+      "II and III only",
+      "I and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about India in the 2026 report:\nI. India ranked above Nepal.\nII. India ranked below Pakistan.\nIII. India ranked above Sri Lanka.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-69",
+   "type": "TITA",
+   "passage": "The World Happiness Report is an annual ranking of countries based on how people evaluate their own lives. Respondents are asked to rate their lives on a numbered scale, and the results are read together with six key indicators. These indicators are GDP per capita, social support, healthy life expectancy, freedom, generosity and perception of corruption. Because the report looks at these factors together, it helps countries assess development beyond GDP alone.\n\nThe report does not compare countries only on one global list. It also places countries within regional and economic groups, so that a country can be seen against its neighbours and against the other members of BRICS. India is one of the countries studied in South Asia, and its position can be read alongside the positions of its neighbours. Such comparisons show how a country stands relative to others in its own group.\n\nIndia's place in the 2026 edition can also be compared with its earlier position, because rankings can move from one edition to the next. A change in rank is shown alongside the country's score, so the movement and the level of well-being can be read together. Areas where a country has improved are also identified in the report.\n\nThe 2026 report was released on International Day of Happiness, which is observed every year on 20 March. The report emphasises well-being as a policy goal.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which BRICS nation ranked highest in the 2026 World Happiness Report? (country)"
+    },
+    {
+     "n": 2,
+     "q": "Which BRICS nation was placed 97th in the 2026 World Happiness Report? (country)"
+    },
+    {
+     "n": 3,
+     "q": "What overall rank did Russia hold in the 2026 World Happiness Report? (number)"
+    },
+    {
+     "n": 4,
+     "q": "India's position in the 2026 report improved from which earlier rank? (number)"
+    },
+    {
+     "n": 5,
+     "q": "Which South Asian country was placed 99th in the 2026 World Happiness Report? (country)"
+    },
+    {
+     "n": 6,
+     "q": "Which country was placed 134th in the 2026 World Happiness Report? (country)"
+    },
+    {
+     "n": 7,
+     "q": "Which country was placed 104th in the 2026 World Happiness Report? (country)"
+    }
+   ]
+  },
+  {
+   "id": "q-x09-70",
+   "type": "MCQ",
+   "passage": "The 2026 World Happiness Report examines how social media use relates to happiness among young people. The report looks at life satisfaction across age groups, comparing how people in different age brackets rate their lives. It also considers how much time young people spend on these platforms, rather than treating all use as the same. The study is therefore about patterns of use as well as the simple fact of using these platforms.\n\nLife satisfaction in the report is measured through people's own ratings of their lives, which allows the results to be compared across groups and countries. The age comparisons are drawn from the same survey data that produces the country rankings. The findings are presented as a set of key insights. Some of these insights concern developing countries, where the effects of digital tools are discussed separately.\n\nThe report also describes situations in which the same tools bring strain. Its findings suggest that the amount of use matters, since some levels of use are associated with lower well-being than others. Taken together, these insights help show how young people are faring in a digital environment.\n\nThe report was released on International Day of Happiness, and it is part of the annual series published under the World Happiness Report name.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "According to the report, which group is the most vulnerable to social media use?",
+     "options": [
+      "Elderly men using social media over 3 hours a day",
+      "Adolescent girls using social media over 5 hours a day",
+      "Young boys aged 10-14 using social media over 4 hours a day",
+      "Working adults using social media over 6 hours a day"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "In which group of countries was the age-based pattern of youth life satisfaction observed?",
+     "options": [
+      "India, Nepal, Pakistan and Bangladesh",
+      "Finland, Iceland, Denmark and Costa Rica",
+      "United States, Canada, Australia and New Zealand",
+      "China, Russia, Iran and Pakistan"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Assertion (A): Youth aged 15 to 24 report lower life satisfaction than people aged 60 and above.\nReason (R): The report provides insights into mental health and digital behaviour trends.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. Developing countries like India   ->   A. Decline in mental health and comparison-driven stress\nII. Excessive use in the same settings   ->   B. Digital access improves education and connectivity\nIII. Heavy social media use   ->   C. Lower life satisfaction than those aged 60 and above\nIV. Youth aged 15 to 24   ->   D. Stress and anxiety",
+     "options": [
+      "I-A, II-D, III-B, IV-C",
+      "I-A, II-C, III-D, IV-B",
+      "I-D, II-C, III-B, IV-A",
+      "I-B, II-D, III-A, IV-C"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about the report's findings on social media:\nI. Youth aged 15 to 24 report lower life satisfaction than those aged 60 and above.\nII. Adolescent girls using social media for less than five hours a day are the most vulnerable group.\nIII. In developing countries like India, excessive social media use causes stress and anxiety.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about social media use in the report:\nI. The age-based pattern was observed in Australia.\nII. Youth aged 15 to 24 report higher life satisfaction than those aged 60 and above.\nIII. Excessive digital use in developing countries is linked with improved happiness.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "What does the report link heavy social media use with?",
+     "options": [
+      "Improved mental health",
+      "Decline in mental health and comparison-driven stress",
+      "Higher GDP per capita",
+      "Greater social trust"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-71",
+   "type": "TITA",
+   "passage": "The 2026 World Happiness Report examines how social media use relates to happiness among young people. The report looks at life satisfaction across age groups, comparing how people in different age brackets rate their lives. It also considers how much time young people spend on these platforms, rather than treating all use as the same. The study is therefore about patterns of use as well as the simple fact of using these platforms.\n\nLife satisfaction in the report is measured through people's own ratings of their lives, which allows the results to be compared across groups and countries. The age comparisons are drawn from the same survey data that produces the country rankings. The findings are presented as a set of key insights. Some of these insights concern developing countries, where the effects of digital tools are discussed separately.\n\nThe report also describes situations in which the same tools bring strain. Its findings suggest that the amount of use matters, since some levels of use are associated with lower well-being than others. Taken together, these insights help show how young people are faring in a digital environment.\n\nThe report was released on International Day of Happiness, and it is part of the annual series published under the World Happiness Report name.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Adolescent girls using social media for more than how many hours a day form the most vulnerable group? (hours)"
+    },
+    {
+     "n": 2,
+     "q": "In how many countries was the age-based youth life satisfaction pattern observed, according to the report? (number)"
+    },
+    {
+     "n": 3,
+     "q": "Youth in which age bracket reported lower life satisfaction than people aged 60 and above? (age range)"
+    },
+    {
+     "n": 4,
+     "q": "In developing countries like India, digital access improves education and what other area? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "In developing countries like India, excessive digital use causes stress and what? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "Heavy social media use is linked with a decline in which area of health? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "Which country is named alongside Canada, Australia and New Zealand for the youth life satisfaction pattern? (country)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "topic": "World Tuberculosis Day 2026",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Global burden and progress",
+   "summary": "The Global TB Report 2025 shows that a small group of countries carries most of the world's tuberculosis cases. India has the highest share among them. Global incidence and deaths have both fallen over the period from 2015 to 2024.",
+   "facts": [
+    "87% of the world's TB cases in 2024 were concentrated in 30 high-burden countries",
+    "India accounts for the highest share: 25% of global TB cases",
+    "Eight nations drive 67% of global TB cases in 2025, led by India, Indonesia (10%) and Philippines (6.8%)",
+    "South-East Asia (34%), Western Pacific (27%) and Africa (25%) account for over 85% of the global TB burden in 2025",
+    "Global TB incidence rate reduced by 12% between 2015 and 2024",
+    "Global TB incidence was 131 per 100,000 in 2024",
+    "Global TB deaths declined by 29% over the same period"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "India's initiatives and targets",
+   "summary": "India has launched campaigns and digital tools to accelerate TB elimination. Its National Strategic Plan for TB Elimination (2017-2025) sets goals for incidence and mortality by 2025. Patient support, community adoption and modern testing are also part of the response.",
+   "facts": [
+    "TB Mukt Bharat Abhiyaan is a 100 Days Intensified Campaign to accelerate TB elimination",
+    "TB Mukt Bharat App is a digital platform for monitoring, awareness and citizen participation",
+    "TB Mukt Urban Ward Initiative targets urban TB hotspots with localised intervention",
+    "National Strategic Plan (2017-2025) aims to eliminate TB five years ahead of global timelines",
+    "Plan goals include 80% reduction in incidence and 90% mortality reduction by 2025",
+    "Ni-Kshay Poshan Yojana gives monthly nutritional support of 1,000 through direct benefit transfer to registered TB patients",
+    "Ni-Kshay Mitra: individuals, NGOs and corporates can adopt TB patients",
+    "Truenat is a Polymerase Chain Reaction based molecular test",
+    "India's TB incidence fell 21% since 2015, from 195 (2023) to 187 per 100,000 (2024)"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Global strategy and partners",
+   "summary": "The WHO End TB Strategy (2015-2035) is a long-term global blueprint with targets for 2030. The Global Fund and the Stop TB Partnership support countries with finance, technical help and innovation. World TB Day, observed on March 24, marks the 1882 discovery of the TB bacterium by Robert Koch.",
+   "facts": [
+    "World TB Day is observed on March 24 every year",
+    "Robert Koch discovered the TB bacterium in 1882",
+    "Theme 2026: 'Yes! We Can End TB: Led by Countries, Powered by People'",
+    "WHO End TB Strategy (2015-2035) is a long-term global blueprint",
+    "WHO End TB targets for 2030: 90% reduction in TB deaths and 80% reduction in TB incidence",
+    "Global Fund and Stop TB Partnership provide financial and technical support",
+    "Global Fund and Stop TB Partnership strengthen surveillance systems",
+    "Global Fund and Stop TB Partnership promote innovation in diagnostics, treatment and preventive tools"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Disease and drug resistance",
+   "summary": "Tuberculosis is caused by Mycobacterium tuberculosis and spreads through the air, but it is preventable and curable. Pulmonary TB is highly contagious, while extrapulmonary TB is less contagious. MDR-TB is resistant to first-line drugs and needs second-line drugs, longer treatment and higher spending.",
+   "facts": [
+    "TB is caused by Mycobacterium tuberculosis",
+    "TB is an airborne, contagious infectious disease",
+    "TB is preventable and curable with timely diagnosis and appropriate treatment",
+    "Pulmonary TB affects the lungs and is highly contagious",
+    "Extrapulmonary TB affects organs outside the lungs and is less contagious",
+    "First-line treatment drugs: Rifampicin, Isoniazid, Pyrazinamide, Ethambutol",
+    "MDR-TB is resistant to Rifampicin and Isoniazid",
+    "MDR-TB requires second-line drugs, longer treatment duration and higher cost",
+    "MDR-TB is a major public health crisis and a global health security threat"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x12-80",
+   "type": "MCQ",
+   "passage": "Tuberculosis has long been one of the world's persistent infectious diseases, and one day each year is set aside to draw attention to it. The observance is meant to raise awareness and to accelerate global efforts to eliminate TB. Much of the global response is guided by the World Health Organization's End TB Strategy, a plan that sets goals for reducing deaths and new cases, with milestones along the way so that progress can be tracked. The strategy applies to all countries, so each nation can measure its results against the same benchmarks. Governments are not working alone, because partner organisations also back national programmes. Their support is meant to sit alongside the work of national health systems. Each year's observance also carries a theme, chosen to keep the message focused on a single idea. The day is marked in India as well, where a number of initiatives have been launched, including a digital platform for monitoring, awareness and citizen participation. The disease calls for attention to prevention, diagnosis and treatment alike, and the response has to address all three. Taken together, the day, the strategy and the partnerships show how the effort against TB is organised across many levels.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Match List I with List II:\nI. WHO End TB Strategy   ->   A. Localised intervention in urban TB hotspots\nII. Global Fund and Stop TB Partnership   ->   B. Discovery of the TB bacterium in 1882\nIII. Robert Koch   ->   C. Financial and technical support\nIV. TB Mukt Urban Ward Initiative   ->   D. Long-term global blueprint",
+     "options": [
+      "I-C, II-A, III-B, IV-D",
+      "I-D, II-C, III-B, IV-A",
+      "I-A, II-C, III-B, IV-D",
+      "I-B, II-C, III-D, IV-A"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "On which date is World Tuberculosis Day observed every year?",
+     "options": [
+      "March 14",
+      "March 24",
+      "April 7",
+      "April 24"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What is the theme of World Tuberculosis Day 2026?",
+     "options": [
+      "Unite to End TB: Led by Countries, Powered by People",
+      "Find TB, Treat TB: Led by Countries, Powered by People",
+      "Zero TB Deaths: Led by Countries, Powered by People",
+      "Yes! We Can End TB: Led by Countries, Powered by People"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Read these statements:\nI. The Global Fund and Stop TB Partnership promote innovation in diagnostics.\nII. World TB Day marks the 1882 discovery of the TB bacterium.\nIII. The WHO End TB targets for 2030 include a 50% reduction in TB deaths.\nHow many of the statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Read these statements:\nI. The Global Fund and Stop TB Partnership strengthen surveillance systems.\nII. The WHO End TB Strategy targets an 80% reduction in TB incidence by 2030.\nIII. The WHO End TB Strategy runs only until 2030.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Under the WHO End TB Strategy, what is the target for the reduction in TB deaths by 2030?",
+     "options": [
+      "90%",
+      "29%",
+      "80%",
+      "12%"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Assertion (A): The WHO End TB Strategy has targets set for the year 2030.\nReason (R): The WHO End TB Strategy is a long-term global blueprint.",
+     "options": [
+      "A is true but R is false",
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x12-81",
+   "type": "TITA",
+   "passage": "Every year, the world marks one day to focus attention on tuberculosis, a disease that has affected people for generations. The occasion is used to raise awareness and to speed up global efforts. A central reference point for these efforts is the End TB Strategy of the World Health Organization. The strategy is a plan with stated goals, and it applies to every country that chooses to measure its progress against it. Its goals concern the number of deaths from the disease and the number of new cases each year, and it includes milestones that allow progress to be checked. Alongside national governments, several international partner organisations also work on the disease. They support countries in their programmes and help build the capacity needed to carry those programmes out. The observance also carries a theme, which changes from year to year. In India, several initiatives were launched recently, and they have been described as tools for monitoring the disease and encouraging citizens to take part. Taken together, these efforts show how the response to tuberculosis is organised across many levels, from national programmes to global partnerships. Progress depends on governments, health workers and communities working together over a long period.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year does the WHO End TB Strategy period end? (year)"
+    },
+    {
+     "n": 2,
+     "q": "By which year are the WHO End TB Strategy's targets for TB deaths and incidence set? (year)"
+    },
+    {
+     "n": 3,
+     "q": "Who discovered the TB bacterium in 1882? (full name)"
+    },
+    {
+     "n": 4,
+     "q": "In which year did the WHO End TB Strategy begin? (year)"
+    },
+    {
+     "n": 5,
+     "q": "What percentage reduction in TB incidence does the WHO End TB Strategy target by 2030? (number, in per cent)"
+    },
+    {
+     "n": 6,
+     "q": "In which year was the TB bacterium discovered? (year)"
+    },
+    {
+     "n": 7,
+     "q": "What kind of systems do the Global Fund and Stop TB Partnership strengthen? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x12-82",
+   "type": "MCQ",
+   "passage": "Tuberculosis is an infectious disease that has affected people for a long time and continues to be a concern for health systems in many countries. The illness can take more than one form, and medical reports describe those forms by the part of the body that is affected. Doctors therefore examine where the infection has settled before deciding how to respond. Treatment depends on medicines, and the choice of medicines depends on the case in hand. Some cases become difficult to manage, and public health officials watch those situations closely. Because of the seriousness of such cases, controlling the disease is treated as a shared task for governments, hospitals and communities rather than a matter for individual patients alone. Diagnosis made in good time matters, and treatment has to be completed as prescribed. Health workers play an important part in identifying cases early, supporting patients through their course of medicine and recording new cases so that the wider picture stays clear. Each stage of this work depends on good records, accurate testing and the steady cooperation of everyone involved in the response to the disease. A day of observance is held each year to raise awareness of the disease, and that day marks the discovery of its bacterial cause in 1882. Several initiatives have been launched in India to support the work, and some of them are monitored through digital platforms that track progress across the country.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which organism causes tuberculosis?",
+     "options": [
+      "Plasmodium falciparum",
+      "Vibrio cholerae",
+      "Salmonella typhi",
+      "Mycobacterium tuberculosis"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which form of TB affects the lungs and is highly contagious?",
+     "options": [
+      "Extrapulmonary TB",
+      "Pulmonary TB",
+      "Latent TB",
+      "MDR-TB only"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which of these is listed among the first-line drugs used to treat TB?",
+     "options": [
+      "Ethambutol",
+      "Penicillin",
+      "Amoxicillin",
+      "Paracetamol"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): MDR-TB is resistant to first-line drugs.\nReason (R): MDR-TB requires second-line drugs, longer treatment and higher cost.",
+     "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true but R is not the correct explanation of A",
+      "Both A and R are true and R is the correct explanation of A"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Pulmonary TB   ->   A. Resistant to Rifampicin and Isoniazid\nII. Extrapulmonary TB   ->   B. Bacterium that causes TB\nIII. MDR-TB   ->   C. Affects the lungs and is highly contagious\nIV. Mycobacterium tuberculosis   ->   D. Affects organs outside the lungs",
+     "options": [
+      "I-D, II-C, III-B, IV-A",
+      "I-C, II-D, III-A, IV-B",
+      "I-D, II-B, III-A, IV-C",
+      "I-B, II-A, III-D, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Read these statements:\nI. TB is an airborne, contagious infectious disease.\nII. Extrapulmonary TB is more contagious than pulmonary TB.\nIII. MDR-TB requires second-line drugs for its treatment.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Read these statements:\nI. TB is caused by Mycobacterium tuberculosis.\nII. Ethambutol is a second-line drug for MDR-TB.\nIII. TB cannot be cured even with timely diagnosis.\nHow many of the statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x12-83",
+   "type": "TITA",
+   "passage": "Tuberculosis is a long-standing health problem that many countries still struggle with. Its cause is a microscopic germ, and the infection can move from one person to another under the right conditions. Medical reports describe the disease in separate categories, depending on which part of the body it attacks. Patients are usually treated with a set of medicines, and the first medicines used are chosen from a known group. When the infection does not respond to those medicines, the case becomes much harder to manage. Such cases have been described by health authorities as a serious concern for public health. The disease can be prevented and controlled, and timely diagnosis matters a great deal. Health workers play a part in finding cases early, and governments follow the course of the disease closely. Treatment has to be completed as prescribed, and every stage of care depends on accurate testing and steady cooperation among doctors, patients and institutions. A day of observance is held each year to raise awareness, and the response to the disease has been organised through national programmes and a wider global strategy. In India, several initiatives have been launched to monitor the disease and to encourage citizens to take part in its elimination. The campaign is framed around targets that are checked over time, so that the progress made in each period can be seen clearly.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which genus of bacteria causes tuberculosis? (one word)"
+    },
+    {
+     "n": 2,
+     "q": "Name the first-line TB drug that is not Ethambutol, Rifampicin or Isoniazid. (one word)"
+    },
+    {
+     "n": 3,
+     "q": "Along with Isoniazid, which first-line drug is MDR-TB resistant to? (one word)"
+    },
+    {
+     "n": 4,
+     "q": "MDR-TB requires which class of drugs for treatment, in place of standard first-line drugs? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "Which form of TB affects organs outside the lungs? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "MDR-TB is described as a threat to which global concept? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "Through which route does TB spread between people? (one word)"
+    }
+   ]
+  }
+ ]
+}
