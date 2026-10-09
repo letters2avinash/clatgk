@@ -1,0 +1,158 @@
+{
+ "passage_flags": [
+  {
+   "quiz": "q-t02-0",
+   "claim": "the two governments signed a memorandum on preparedness and response",
+   "problem": "booklet says the MoU was signed between India's National Disaster Management Authority and Indonesia's Disaster Management Agency, not between the two governments",
+   "page": 12
+  },
+  {
+   "quiz": "q-t03-0",
+   "claim": "The Bill specifies who holds the removal power in each case, and it also sets out what follows if the authority does not act.",
+   "problem": "Generalises: the booklet gives the no-advice consequence (automatic cessation on the 31st day) only for Union Ministers, not for every category.",
+   "page": 16
+  },
+  {
+   "quiz": "q-t07-0",
+   "claim": "The amendment, however, does not deal with every problem in the system, because inclusion errors remain.",
+   "problem": "Booklet only says the amendment does not address inclusion errors; 'every problem in the system' and the causal 'because' are not stated",
+   "page": 36
+  },
+  {
+   "quiz": "q-t07-0",
+   "claim": "which is why any change to their entitlement draws close attention",
+   "problem": "Poorest-of-poor status for AAY is supported, but the causal claim that this is why changes draw attention is not found in the booklet",
+   "page": 35
+  },
+  {
+   "quiz": "t-t07-1",
+   "claim": "the parts of the system that remain unchanged",
+   "problem": "Booklet does not discuss any parts of the PDS or NFSA that remain unchanged by the amendment",
+   "page": null
+  },
+  {
+   "quiz": "q-t08-0",
+   "claim": "the booklet presents it as a central part of that partnership",
+   "problem": "not found in booklet text; the booklet does not describe CETA as a central part of the India-UK partnership",
+   "page": null
+  },
+  {
+   "quiz": "q-t09-0",
+   "claim": "The RBI had earlier attempted trials of a similar idea, and the matter remains under discussion.",
+   "problem": "Not clearly stated in booklet text (OCR garbled): booklet says the 2009 initial proposal was never implemented and cites successful field trials (2014-15 annual report); it does not say RBI conducted the trials or that the matter remains under discussion.",
+   "page": 43
+  },
+  {
+   "quiz": "q-t10-0",
+   "claim": "This support builds on an earlier international framework that guides how countries prepare for natural hazards.",
+   "problem": "not found in booklet text: the booklet names the Sendai Framework for Disaster Risk Reduction 2015-2030 and says the conference carries forward its spirit, but does not say it guides preparation for natural hazards",
+   "page": 49
+  },
+  {
+   "quiz": "t-t10-1",
+   "claim": "Japan will supply train sets for the line, and their design reflects a partnership with a UK-based design firm.",
+   "problem": "contradicts booklet: the booklet ties the UK-based firm Tangerin only to the E10 design (designed by JR East in collaboration with Tangerin), not to all train sets Japan will supply",
+   "page": 50
+  },
+  {
+   "quiz": "q-t11-0",
+   "claim": "Early efforts focused on a small group of development goals with a fixed deadline",
+   "problem": "not found in booklet text; the booklet gives only that the MDGs were adopted in 2000 with 8 goals, with no deadline stated",
+   "page": null
+  },
+  {
+   "quiz": "q-t11-0",
+   "claim": "countries that signed these commitments were expected to report on progress",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "q-t11-0",
+   "claim": "Later conferences asked whether those targets had been met",
+   "problem": "not found in booklet text; the booklet only says the 2002 and 2012 conferences followed up and laid the foundation for the SDGs",
+   "page": null
+  },
+  {
+   "quiz": "t-t11-1",
+   "claim": "which is still cited in international debates",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t12-1",
+   "claim": "Foreign investment is also governed by this policy, and the limits differ across segments.",
+   "problem": "not found in booklet text: the booklet lists the FDI Policy as a separate item from Indian Space Policy 2023 and does not say the FDI limits come from this policy",
+   "page": 62
+  },
+  {
+   "quiz": "q-t13-0",
+   "claim": "Each part of the train has a separate role, and the train works only when these parts function together.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t13-1",
+   "claim": "when the first line was opened between two cities in western India",
+   "problem": "'western India' is not stated in booklet text (booklet gives only Bombay to Thane)",
+   "page": 66
+  },
+  {
+   "quiz": "t-t13-1",
+   "claim": "One long project links Maharashtra, Goa and Karnataka, and it passes through difficult terrain.",
+   "problem": "'difficult terrain' is not found in booklet text",
+   "page": 67
+  },
+  {
+   "quiz": "t-t15-1",
+   "claim": "India's own statistics are also being tracked more closely.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "q-t16-0",
+   "claim": "For India it is the single most important source of rain",
+   "problem": "not found in booklet text; booklet only says India receives about 75% of annual rainfall from the monsoon",
+   "page": 91
+  },
+  {
+   "quiz": "q-t16-0",
+   "claim": "The southwest monsoon is the main rain-bearing system",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "q-t16-0",
+   "claim": "Upper-air winds high above the earth ... help set up the pattern of pressure that draws moisture inland",
+   "problem": "booklet ties jet streams only to onset, strength and withdrawal of the monsoon; it does not say they set up the pressure pattern",
+   "page": 92
+  },
+  {
+   "quiz": "t-t16-1",
+   "claim": "passing through several states before it reaches the plains",
+   "problem": "booklet names only Arunachal Pradesh and Assam as states the river passes through; 'several' is not supported",
+   "page": 90
+  },
+  {
+   "quiz": "t-t16-1",
+   "claim": "Along this journey the river supports farming, drinking water and the livelihoods of many communities",
+   "problem": "not found in booklet text",
+   "page": null
+  }
+ ],
+ "fact_flags": [
+  {
+   "file": "t11.json",
+   "subtopic": 3,
+   "fact": "much of it flows through multilateral climate funds coordinated by the UNFCCC",
+   "problem": "booklet says multilateral climate funds are coordinated by UNFCCC but does not say most climate finance flows through them",
+   "page": 57
+  },
+  {
+   "file": "t16.json",
+   "subtopic": 2,
+   "fact": "Summer heating, the Himalayas, jet streams and El Nino together shape the monsoon's onset, strength and withdrawal.",
+   "problem": "booklet ties onset, strength and withdrawal only to jet streams; it does not say the Himalayas or El Nino shape them (El Nino is said to weaken strength)",
+   "page": 92
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+[
+ {
+  "quiz": "t-t06-1",
+  "q": "Which ministry is the nodal ministry for PM Surya Ghar? (give the short form)",
+  "issues": [
+   "other: short form MNRE is not printed in the booklet; only the expanded name is"
+  ]
+ },
+ {
+  "quiz": "t-t07-1",
+  "q": "What term describes the concern the proposal does not tackle, where ineligible beneficiaries continue to receive NFSA benefits? (two words)",
+  "issues": [
+   "answer_stated_in_passage"
+  ]
+ },
+ {
+  "quiz": "t-t07-1",
+  "q": "Under the revised design, distribution would become proportional to what? (two words)",
+  "issues": [
+   "answer_stated_in_passage"
+  ]
+ },
+ {
+  "quiz": "t-t07-1",
+  "q": "The government expects the revised design to align allocation more closely with which requirements? (two words)",
+  "issues": [
+   "answer_stated_in_passage"
+  ]
+ },
+ {
+  "quiz": "t-t11-1",
+  "q": "Which 1997 protocol was the Earth Summit's outcomes said to lay the foundation for? (one word)",
+  "issues": [
+   "other: one-word answer conflicts with the protocol's name 'Kyoto Protocol'"
+  ]
+ }
+]
