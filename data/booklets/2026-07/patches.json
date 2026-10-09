@@ -1,0 +1,222 @@
+{
+ "passage_fixes": [
+  {
+   "quiz": "q-t02-0",
+   "old": "the two governments signed a memorandum on preparedness and response",
+   "new": "the two countries' national agencies signed a memorandum on preparedness and response"
+  },
+  {
+   "quiz": "q-t03-0",
+   "old": "and it also sets out what follows if the authority does not act",
+   "new": "and, for Union Ministers, it also sets out what follows if the Prime Minister gives no advice"
+  },
+  {
+   "quiz": "q-t07-0",
+   "old": "The amendment, however, does not deal with every problem in the system, because inclusion errors remain.",
+   "new": "The amendment, however, does not deal with inclusion errors."
+  },
+  {
+   "quiz": "q-t07-0",
+   "old": ", which is why any change to their entitlement draws close attention",
+   "new": ""
+  },
+  {
+   "quiz": "t-t07-1",
+   "old": "the logic of the change, the effect on different households, and the parts of the system that remain unchanged",
+   "new": "the logic of the change and its effect on different households"
+  },
+  {
+   "quiz": "q-t08-0",
+   "old": ", and the booklet presents it as a central part of that partnership",
+   "new": ""
+  },
+  {
+   "quiz": "q-t09-0",
+   "old": "The RBI had earlier attempted trials of a similar idea, and the matter remains under discussion. ",
+   "new": ""
+  },
+  {
+   "quiz": "q-t10-0",
+   "old": "This support builds on an earlier international framework that guides how countries prepare for natural hazards.",
+   "new": "This support carries forward the spirit of the Sendai Framework for Disaster Risk Reduction."
+  },
+  {
+   "quiz": "t-t10-1",
+   "old": "Japan will supply train sets for the line, and their design reflects a partnership with a UK-based design firm.",
+   "new": "Japan will supply train sets for the line, and one model, the E10, reflects a design partnership with a UK-based firm."
+  },
+  {
+   "quiz": "q-t11-0",
+   "old": " with a fixed deadline",
+   "new": ""
+  },
+  {
+   "quiz": "q-t11-0",
+   "old": ", and countries that signed these commitments were expected to report on progress",
+   "new": ""
+  },
+  {
+   "quiz": "q-t11-0",
+   "old": "Later conferences asked whether those targets had been met",
+   "new": "Later conferences followed up on these efforts"
+  },
+  {
+   "quiz": "t-t11-1",
+   "old": " that are still cited in international debates",
+   "new": ""
+  },
+  {
+   "quiz": "t-t12-1",
+   "old": "Foreign investment is also governed by this policy, and the limits differ across segments.",
+   "new": "Foreign investment is governed separately by the FDI Policy, and the limits differ across segments."
+  },
+  {
+   "quiz": "q-t13-0",
+   "old": "Each part of the train has a separate role, and the train works only when these parts function together. ",
+   "new": ""
+  },
+  {
+   "quiz": "t-t13-1",
+   "old": "between two cities in western India",
+   "new": "between two cities"
+  },
+  {
+   "quiz": "t-t13-1",
+   "old": ", and it passes through difficult terrain",
+   "new": ""
+  },
+  {
+   "quiz": "t-t15-1",
+   "old": "India's own statistics are also being tracked more closely. ",
+   "new": ""
+  },
+  {
+   "quiz": "q-t16-0",
+   "old": "For India it is the single most important source of rain, because it supports agriculture",
+   "new": "For India it is a major source of rain, because it supports agriculture"
+  },
+  {
+   "quiz": "q-t16-0",
+   "old": "The southwest monsoon is the main rain-bearing system and advances gradually",
+   "new": "The southwest monsoon advances gradually"
+  },
+  {
+   "quiz": "q-t16-0",
+   "old": "Several other large-scale factors also matter. Upper-air winds high above the earth and the broad temperature contrast between land and ocean in summer help set up the pattern of pressure that draws moisture inland. ",
+   "new": ""
+  },
+  {
+   "quiz": "t-t16-1",
+   "old": "passing through several states before it reaches the plains",
+   "new": "passing through Indian states before it reaches the plains"
+  },
+  {
+   "quiz": "t-t16-1",
+   "old": "Along this journey the river supports farming, drinking water and the livelihoods of many communities. ",
+   "new": ""
+  }
+ ],
+ "fact_fixes": [
+  {
+   "old": "much of it flows through multilateral climate funds coordinated by the UNFCCC",
+   "new": "multilateral climate funds are coordinated by the UNFCCC",
+   "page": 57
+  },
+  {
+   "old": "Summer heating, the Himalayas, jet streams and El Nino together shape the monsoon's onset, strength and withdrawal.",
+   "new": "Jet streams influence the monsoon's onset, strength and withdrawal.",
+   "page": 92
+  }
+ ],
+ "replacements": [
+  {
+   "quiz": "t-t06-1",
+   "n": 1,
+   "question": {
+    "q": "How many Model Solar Villages are to be established in each district? (number)",
+    "answer": "1",
+    "accept": [
+     "one",
+     "1 per district",
+     "one per district"
+    ],
+    "explanation": "The booklet says the scheme aims to establish 1 Model Solar Village per district."
+   },
+   "evidence": {
+    "page": 30,
+    "quote": "Establish I Model Solar Village Per District"
+   }
+  },
+  {
+   "quiz": "t-t07-1",
+   "n": 1,
+   "question": {
+    "q": "What is the maximum foodgrain cap per AAY household per month under the proposed design? (in kg)",
+    "answer": "35",
+    "accept": [
+     "35 kg",
+     "35kg",
+     "35 kg per household"
+    ],
+    "explanation": "The proposal keeps a ceiling of 35 kg per household per month, with 7 kg per individual."
+   },
+   "evidence": {
+    "page": 35,
+    "quote": "Maximum of 35 kg per Household"
+   }
+  },
+  {
+   "quiz": "t-t07-1",
+   "n": 2,
+   "question": {
+    "q": "Under the current NFSA design, how many kg per person per month does a Priority Household receive? (in kg)",
+    "answer": "5",
+    "accept": [
+     "5 kg",
+     "5kg",
+     "five"
+    ],
+    "explanation": "The booklet states that PHH beneficiaries receive 5 kg per person per month under the NFSA."
+   },
+   "evidence": {
+    "page": 36,
+    "quote": "PHH 5 kg/person/month at subsidised rates"
+   }
+  },
+  {
+   "quiz": "t-t07-1",
+   "n": 3,
+   "question": {
+    "q": "How many crore people were covered by the extra 5 kg of free foodgrains given to NFSA beneficiaries? (in crore)",
+    "answer": "81.35",
+    "accept": [
+     "81.35 crore",
+     "81.35 crores",
+     "81.35 Crore"
+    ],
+    "explanation": "The booklet says the extra 5 kg of free foodgrains covered 81.35 crore people."
+   },
+   "evidence": {
+    "page": 36,
+    "quote": "covering 81.35 crore people alongside regular PDS entitlements"
+   }
+  },
+  {
+   "quiz": "t-t11-1",
+   "n": 4,
+   "question": {
+    "q": "In which year was the Rio+20 Conference held? (year)",
+    "answer": "2012",
+    "accept": [
+     "2012 AD",
+     "the year 2012"
+    ],
+    "explanation": "The booklet lists the Rio+20 Conference of 2012, which laid the foundation for the SDGs."
+   },
+   "evidence": {
+    "page": 54,
+    "quote": "2012: Rio+20 Conference laid foundation for SDGs."
+   }
+  }
+ ]
+}

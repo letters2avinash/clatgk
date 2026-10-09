@@ -1,0 +1,34 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t16-0",
+   "questions": [
+    {"n": 1, "my_answer": 0, "supported": true, "evidence": {"page": 80, "quote": "Annual Award presented by International Centre for Theoretical Physics."}, "issues": []},
+    {"n": 2, "my_answer": 1, "supported": true, "evidence": {"page": 80, "quote": "Instituted: 1985"}, "issues": []},
+    {"n": 3, "my_answer": 1, "supported": true, "evidence": {"page": 80, "quote": "Indian Physicist Deepak Dhar won 2026 Dirac Medal"}, "issues": []},
+    {"n": 4, "my_answer": 3, "supported": true, "evidence": {"page": 80, "quote": "Each Recipient receives a US$5,000 award along with medal."}, "issues": ["ambiguous", "other: A says 'shared prize'; booklet says each recipient receives US$5,000"]},
+    {"n": 5, "my_answer": 1, "supported": true, "evidence": {"page": 80, "quote": "Honours legacy ofrenowned physicist Paul Dirac, one of founders of modern quantum mechanics."}, "issues": []},
+    {"n": 6, "my_answer": 0, "supported": true, "evidence": {"page": 80, "quote": "Received 1933 Nobel Prize in Physics, jointly with Erwin Schrédinger."}, "issues": []},
+    {"n": 7, "my_answer": 2, "supported": true, "evidence": {"page": 80, "quote": "Instituted: 1985"}, "issues": []},
+    {"n": 8, "my_answer": 3, "supported": true, "evidence": {"page": 80, "quote": "Indian Physicist Deepak Dhar won 2026 Dirac Medal alongside Bernard Derrida, Mare Mézard and Haim Sompolinsky"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "the medal carries his name in recognition of his influence on the subject", "problem": "reason not stated in booklet; booklet only says the award honours Dirac's legacy", "page": 80}
+   ]
+  },
+  {
+   "id": "t-t16-1",
+   "questions": [
+    {"n": 1, "my_answer": "1985", "supported": true, "evidence": {"page": 80, "quote": "Instituted: 1985"}, "issues": []},
+    {"n": 2, "my_answer": "5000", "supported": true, "evidence": {"page": 80, "quote": "Each Recipient receives a US$5,000 award along with medal."}, "issues": []},
+    {"n": 3, "my_answer": "ICTP", "supported": true, "evidence": {"page": 80, "quote": "Annual Award presented by International Centre for Theoretical Physics."}, "issues": ["other: acronym ICTP is not printed in booklet; derived from the full name"]},
+    {"n": 4, "my_answer": "1933", "supported": true, "evidence": {"page": 80, "quote": "Received 1933 Nobel Prize in Physics, jointly with Erwin Schrédinger."}, "issues": []},
+    {"n": 5, "my_answer": "Schrödinger", "supported": true, "evidence": {"page": 80, "quote": "Received 1933 Nobel Prize in Physics, jointly with Erwin Schrédinger."}, "issues": []},
+    {"n": 6, "my_answer": "Deepak Dhar", "supported": true, "evidence": {"page": 80, "quote": "Indian Physicist Deepak Dhar won 2026 Dirac Medal"}, "issues": []},
+    {"n": 7, "my_answer": "4", "supported": true, "evidence": {"page": 80, "quote": "Indian Physicist Deepak Dhar won 2026 Dirac Medal alongside Bernard Derrida, Mare Mézard and Haim Sompolinsky"}, "issues": []}
+   ],
+   "passage_flags": []
+  }
+ ],
+ "fact_flags": []
+}
