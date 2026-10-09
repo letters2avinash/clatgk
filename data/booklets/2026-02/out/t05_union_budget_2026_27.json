@@ -1,0 +1,467 @@
+{
+ "topic": {
+  "title": "Union Budget 2026-27",
+  "chapter_title": "Economics",
+  "subtopics": [
+   {
+    "title": "Vision and Six Pillars",
+    "summary": "Nirmala Sitharaman presented the Union Budget 2026-27 as her record ninth consecutive budget, prepared in the newly inaugurated Kartavya Bhawan. It is framed as a Yuva Shakti-driven blueprint anchored in the Viksit Bharat Vision and guided by three Kartavyas. Six pillars of growth organise the agenda across manufacturing, MSMEs, infrastructure, financial stability and city economic regions.",
+    "facts": [
+     "Presented by Nirmala Sitharaman as her record 9th consecutive Union Budget",
+     "Framed as a Yuva Shakti-driven blueprint anchored in the Viksit Bharat Vision",
+     "Three Kartavyas: Sustain Economic Growth; Fulfill Aspirations; Sabka Saath, Sabka Vikas",
+     "First-ever Union Budget tabled on a Sunday, a Parliamentary first",
+     "Pillar 1: Scaling up manufacturing in seven strategic sectors",
+     "Pillar 2: Rejuvenating legacy industrial sectors to boost productivity and competitiveness",
+     "Pillar 3: Creating champion MSMEs to strengthen the backbone of the economy",
+     "Pillar 4: Delivering infrastructure development across the country",
+     "Pillar 5: Ensuring long-term security and stability in economic and financial systems",
+     "Pillar 6: Developing city economic regions to drive regional growth and urban development"
+    ],
+    "keywords": ["Viksit Bharat", "Yuva Shakti", "Kartavya Bhawan", "Kartavyas", "Six pillars", "Sabka Saath, Sabka Vikas"]
+   },
+   {
+    "title": "Manufacturing, Industry and Infrastructure",
+    "summary": "The budget pairs manufacturing schemes for biopharma, semiconductors, containers and critical minerals with infrastructure measures for freight, carbon capture and urban growth. SHAKTI aims to make India a global bio-pharmaceutical manufacturing hub, while the Rare Earth Corridor aims to secure the mining-to-manufacturing value chain. Funds for MSMEs, carbon capture and City Economic Regions complete the package.",
+    "facts": [
+     "Biopharma SHAKTI: outlay of 2,10,000 crore over 5 years to build a global bio-pharma manufacturing hub",
+     "SHAKTI stands for Strategy for Healthcare Advancement through Knowledge, Technology & Innovation",
+     "Bio-economy target: USD 300 Bn by 2030; contributes 4.25% of GDP",
+     "Semiconductor Mission 2.0 shifts focus from assembly to higher-value manufacturing and indigenous IP",
+     "Container scheme aims to reduce dependence on Chinese imports",
+     "Rare Earth Corridor across Odisha, Kerala, Andhra Pradesh and Tamil Nadu",
+     "Dankuni (West Bengal) to Surat (Gujarat) freight corridor proposed for East-West logistics",
+     "SME Growth Fund of 10,000 crore to scale MSMEs into Champion enterprises",
+     "CCUS outlay of 20,000 crore to decarbonise hard-to-abate sectors like steel and cement",
+     "City Economic Regions: 5,000 crore per region over 5 years"
+    ],
+    "keywords": ["Biopharma SHAKTI", "Biologics", "Biosimilars", "Semiconductor Mission 2.0", "Rare Earth Corridor", "SME Growth Fund", "CCUS", "City Economic Regions", "Growth Connectors"]
+   },
+   {
+    "title": "Agriculture, Services and Women-led Growth",
+    "summary": "Agriculture measures centre on Bharat-VISTAAR, an AI-based platform for accessing farm resources, and on higher-margin plantation crops. Creative and service sectors get talent pipelines and the Orange Economy is promoted, while foreign cloud providers using Indian data centres receive a tax holiday. Women-led development gets community-owned retail outlets and STEM hostels for girls.",
+    "facts": [
+     "Bharat-VISTAAR: Virtually Integrated System to Access Agricultural Resources",
+     "A multi-lingual AI-based platform integrating AgriStack portals and ICAR's agricultural practices",
+     "Special support for sandalwood, agar trees, walnuts and almonds",
+     "Target: Global Brand Status for Indian cashew and cocoa by 2030",
+     "Content Creator Labs in 15,000 Schools and 500 Colleges for the AVGC sector",
+     "Orange Economy coined by Ivan Duque Marquez and Felipe Buitrago in their 2013 work",
+     "Orange Economy value comes mainly from intellectual property, ideas and cultural expression",
+     "Cloud services tax holiday for foreign companies using Indian data centres until 2047",
+     "SHE Marts: community-owned retail outlets for women's SHGs",
+     "One dedicated girls' hostel in each district to retain female students in STEM"
+    ],
+    "keywords": ["Bharat-VISTAAR", "AgriStack", "Orange Economy", "AVGC", "Cloud tax holiday", "SHE Marts", "STEM Hostels"]
+   },
+   {
+    "title": "Taxation and Fiscal Framework",
+    "summary": "The budget retained existing income tax slabs for FY 2026-27 and replaces the 1961 Act with a new Income Tax Act 2025 from 1 April 2026. Tax changes include a uniform 2% TCS on LRS remittances and a Minimum Alternate Tax cut to 14%. The fiscal framework sets a deficit target of 4.3% of GDP, record capex of 12.2 lakh crore and a total outlay of 53.47 lakh crore.",
+    "facts": [
+     "New Income Tax Act 2025 replaces the 1961 Act from 1 April 2026 to reduce litigation",
+     "Existing income tax slabs retained for FY 2026-27",
+     "TCS rationalised to a uniform 2% on overseas tours, education and medical remittances under LRS",
+     "MAT proposed as a final tax, rate cut to 14% from 15%; non-residents exempted",
+     "LRS introduced in 2004 by RBI; limit of USD 2,50,000 per financial year",
+     "Projections for FY 2026-27: 10.5% nominal GDP growth and around 7% real GDP growth",
+     "Fiscal deficit target for FY 2026-27 is 4.3% of GDP",
+     "Debt estimated to decline to 55.6% in BE 2026-27 from 56.1% in RE 2025-26",
+     "Record capex of 12.2 lakh crore; total outlay of 53.47 lakh crore",
+     "TCS on LRS is governed under Section 206C of the Income Tax Act 1961"
+    ],
+    "keywords": ["Income Tax Act 2025", "TCS", "LRS", "MAT", "Fiscal deficit", "Debt-to-GDP", "Capex", "Total outlay"]
+   },
+   {
+    "title": "Budget Process and Parliament",
+    "summary": "Article 112 requires the annual financial statement to be laid before Parliament, although the word 'Budget' does not appear in the Constitution. The budget is prepared by the Budget Division of the Department of Economic Affairs with NITI Aayog and ministries. Money Bills start in Lok Sabha, and Rajya Sabha can only return them within 14 days without any power to vote on demands for grants.",
+    "facts": [
+     "Article 112 (Part V): annual statement of estimated receipts and expenditure of the Government",
+     "The term 'Budget' is not mentioned anywhere in the Constitution",
+     "Budget Division of the Department of Economic Affairs prepares it with NITI Aayog",
+     "Six stages: presentation, general discussion, scrutiny, voting on demands, appropriation bill, finance bill",
+     "Money/Finance Bill involving taxation is introduced only in Lok Sabha",
+     "Rajya Sabha must return a Money/Finance Bill within 14 days",
+     "Railway Budget was presented separately for 92 years, merged with the Union Budget in 2017",
+     "India's first budget was presented on 7 April 1860 by James Wilson",
+     "First post-independence Union Budget presented by R.K. Shanmukham Chetty on 26 Nov 1947",
+     "Budget announcement moved to the 1st working day of February from 2017"
+    ],
+    "keywords": ["Article 112", "Budget Division", "Money Bill", "Appropriation Bill", "Finance Bill", "Demands for grants", "Railway Budget"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Union Budget 2026-27 overview",
+   "root": {
+    "label": "Union Budget 2026-27",
+    "children": [
+     {"label": "Vision and framing", "children": [
+      {"label": "Viksit Bharat Vision"},
+      {"label": "Yuva Shakti-driven blueprint"},
+      {"label": "Three Kartavyas"}
+     ]},
+     {"label": "Six pillars of growth", "children": [
+      {"label": "Manufacturing in seven sectors"},
+      {"label": "Legacy industrial sectors"},
+      {"label": "Champion MSMEs"},
+      {"label": "Infrastructure across the country"},
+      {"label": "Economic and financial stability"},
+      {"label": "City economic regions"}
+     ]},
+     {"label": "Industry and infrastructure", "children": [
+      {"label": "Biopharma SHAKTI"},
+      {"label": "Semiconductor Mission 2.0"},
+      {"label": "Rare Earth Corridor"},
+      {"label": "CCUS outlay"},
+      {"label": "High-speed growth connectors"}
+     ]},
+     {"label": "Agriculture, services, women", "children": [
+      {"label": "Bharat-VISTAAR AI platform"},
+      {"label": "Orange Economy"},
+      {"label": "Cloud services tax holiday"},
+      {"label": "SHE Marts"},
+      {"label": "STEM girls' hostels"}
+     ]},
+     {"label": "Tax and fiscal framework", "children": [
+      {"label": "New Income Tax Act 2025"},
+      {"label": "MAT rate cut to 14%"},
+      {"label": "Fiscal deficit 4.3% of GDP"},
+      {"label": "Record capex 12.2 lakh crore"}
+     ]},
+     {"label": "Budget process and Parliament", "children": [
+      {"label": "Article 112"},
+      {"label": "Six enactment stages"},
+      {"label": "Money Bills start in Lok Sabha"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Vision and Six Pillars",
+   "root": {
+    "label": "Vision and Six Pillars",
+    "children": [
+     {"label": "Vision", "children": [
+      {"label": "Viksit Bharat"},
+      {"label": "Yuva Shakti blueprint"}
+     ]},
+     {"label": "Three Kartavyas", "children": [
+      {"label": "Sustain economic growth"},
+      {"label": "Fulfill aspirations"},
+      {"label": "Sabka Saath, Sabka Vikas"}
+     ]},
+     {"label": "Six pillars", "children": [
+      {"label": "Manufacturing"},
+      {"label": "Legacy industries"},
+      {"label": "Champion MSMEs"},
+      {"label": "Infrastructure"},
+      {"label": "Financial stability"},
+      {"label": "City economic regions"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Manufacturing, Industry and Infrastructure",
+   "root": {
+    "label": "Manufacturing and Infrastructure",
+    "children": [
+     {"label": "Biopharma SHAKTI", "children": [
+      {"label": "Global bio-pharma manufacturing hub"},
+      {"label": "Outlay 2,10,000 crore over 5 years"},
+      {"label": "3 new NIPERs, 7 upgraded"}
+     ]},
+     {"label": "Electronics and semiconductors", "children": [
+      {"label": "Semiconductor Mission 2.0"},
+      {"label": "USD 500 Bn ecosystem by 2030-31"},
+      {"label": "Reduce import dependence"}
+     ]},
+     {"label": "Critical minerals and containers", "children": [
+      {"label": "Rare Earth Corridor in 4 states"},
+      {"label": "Domestic container ecosystem"}
+     ]},
+     {"label": "MSMEs", "children": [
+      {"label": "SME Growth Fund 10,000 crore"},
+      {"label": "Champion enterprises"}
+     ]},
+     {"label": "Infrastructure and energy", "children": [
+      {"label": "CCUS 20,000 crore"},
+      {"label": "Dankuni-Surat freight corridor proposed"},
+      {"label": "7 high-speed growth connectors"},
+      {"label": "Infrastructure Risk Guarantee Fund"},
+      {"label": "City Economic Regions 5,000 crore each"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Agriculture, Services and Women-led Growth",
+   "root": {
+    "label": "Agriculture, Services, Women",
+    "children": [
+     {"label": "Agriculture", "children": [
+      {"label": "Bharat-VISTAAR AI platform"},
+      {"label": "Sandalwood, agar, walnut, almond support"},
+      {"label": "Cashew and cocoa global brand by 2030"}
+     ]},
+     {"label": "Creative economy", "children": [
+      {"label": "Orange Economy"},
+      {"label": "Content Creator Labs: 15,000 schools"}
+     ]},
+     {"label": "Services and tax", "children": [
+      {"label": "Cloud tax holiday till 2047"},
+      {"label": "National Institute of Hospitality"}
+     ]},
+     {"label": "Women-led growth", "children": [
+      {"label": "SHE Marts"},
+      {"label": "One girls' hostel per district"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Taxation and Fiscal Framework",
+   "root": {
+    "label": "Tax and Fiscal Framework",
+    "children": [
+     {"label": "Income tax", "children": [
+      {"label": "New Income Tax Act 2025"},
+      {"label": "Replaces 1961 Act"},
+      {"label": "Existing slabs retained"}
+     ]},
+     {"label": "TCS and LRS", "children": [
+      {"label": "Uniform 2% TCS"},
+      {"label": "LRS limit USD 2,50,000"},
+      {"label": "LRS introduced 2004 by RBI"}
+     ]},
+     {"label": "Minimum Alternate Tax", "children": [
+      {"label": "Final tax at 14%"},
+      {"label": "Non-residents exempted"}
+     ]},
+     {"label": "Fiscal indicators", "children": [
+      {"label": "Fiscal deficit 4.3% of GDP"},
+      {"label": "Debt falls to 55.6% of GDP"},
+      {"label": "Total outlay 53.47 lakh crore"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Budget Process and Parliament",
+   "root": {
+    "label": "Budget Process and Parliament",
+    "children": [
+     {"label": "Constitution", "children": [
+      {"label": "Article 112"},
+      {"label": "'Budget' not in Constitution"},
+      {"label": "Budget Division with NITI Aayog"}
+     ]},
+     {"label": "Six stages", "children": [
+      {"label": "Presentation"},
+      {"label": "General discussion"},
+      {"label": "Scrutiny by committees"},
+      {"label": "Voting on demands for grants"},
+      {"label": "Appropriation Bill"},
+      {"label": "Finance Bill"}
+     ]},
+     {"label": "Role of Parliament", "children": [
+      {"label": "Money Bill starts in Lok Sabha"},
+      {"label": "Rajya Sabha returns within 14 days"},
+      {"label": "No power on demands for grants"}
+     ]},
+     {"label": "History", "children": [
+      {"label": "First budget 7 April 1860"},
+      {"label": "First post-independence budget 1947"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Biopharma SHAKTI expansion",
+   "mnemonic": "Some Healthcare Advances Kindle Tech Innovation",
+   "decode": [
+    {"key": "S", "meaning": "Strategy"},
+    {"key": "H", "meaning": "Healthcare"},
+    {"key": "A", "meaning": "Advancement"},
+    {"key": "K", "meaning": "Knowledge"},
+    {"key": "T", "meaning": "Technology"},
+    {"key": "I", "meaning": "Innovation"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Bharat-VISTAAR expansion",
+   "mnemonic": "Very Interesting Stories Tell Amazing Agricultural Results",
+   "decode": [
+    {"key": "V", "meaning": "Virtually"},
+    {"key": "I", "meaning": "Integrated"},
+    {"key": "S", "meaning": "System"},
+    {"key": "T", "meaning": "to"},
+    {"key": "A A", "meaning": "Access Agricultural"},
+    {"key": "R", "meaning": "Resources"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Budget enactment stages",
+   "mnemonic": "Peter Gave Sam Vegetables And Fruit",
+   "decode": [
+    {"key": "P", "meaning": "Presentation of the budget"},
+    {"key": "G", "meaning": "General discussion"},
+    {"key": "S", "meaning": "Scrutiny by departmental committees"},
+    {"key": "V", "meaning": "Voting on demands for grants"},
+    {"key": "A", "meaning": "Passing an Appropriation Bill"},
+    {"key": "F", "meaning": "Passing of Finance Bill"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "Manufacturing and Infrastructure Check",
+   "passage": "Union Budget 2026-27 places manufacturing and infrastructure at the centre of the government's growth plan. The budget describes a push to scale up production in several strategic sectors and to revive older industrial sectors so that they become more productive and competitive. Among the sectors named are biopharmaceuticals, electronics, semiconductors and critical minerals, each linked to reducing the country's dependence on imports. A biopharma scheme called SHAKTI is meant to strengthen domestic production of advanced medicines, while the semiconductor programme is expected to move from assembly toward higher-value manufacturing and home-grown intellectual property. A separate scheme is planned to build a domestic container manufacturing base. The plan also addresses heavy industries whose emissions are hard to cut, and it funds technologies that capture carbon for those sectors. On infrastructure, the budget proposes new freight and rail links, along with city-to-city connectors meant to speed up movement between major urban centres. Medium-sized businesses with strong growth potential are another focus, and a dedicated fund is planned to help them compete globally. Finally, the budget plans to map cities according to their economic strengths so that each region can pursue its own growth drivers. The budget presents these measures as part of a broader blueprint for economic growth that puts young people at its centre.",
+   "questions": [
+    {
+     "q": "What does the acronym SHAKTI stand for in the Biopharma SHAKTI scheme?",
+     "options": [
+      "Scheme for Healthcare and Knowledge Transfer in Agro Industries",
+      "Strategy for Health Assistance through Key Technical Investment",
+      "Strategy for Healthcare Advancement through Knowledge, Technology and Innovation",
+      "Strategic Hub for Automated Knowledge and Trade Infrastructure"
+     ],
+     "answer": 2,
+     "explanation": "The booklet expands SHAKTI as Strategy for Healthcare Advancement through Knowledge, Technology & Innovation."
+    },
+    {
+     "q": "Foreign companies providing cloud services to global customers from Indian data centres receive a tax holiday until which year?",
+     "options": ["2030", "2035", "2050", "2047"],
+     "answer": 3,
+     "explanation": "The booklet states this tax holiday runs until 2047 to incentivise data localisation."
+    },
+    {
+     "q": "Under the City Economic Regions initiative, what is the allocation per region over 5 years?",
+     "options": ["1,000 crore", "5,000 crore", "10,000 crore", "20,000 crore"],
+     "answer": 1,
+     "explanation": "Each City Economic Region receives 5,000 crore over 5 years through a competitive challenge-based mechanism."
+    },
+    {
+     "q": "Assertion (A): The container scheme in the budget is meant to increase dependence on Chinese imports.\nReason (R): A dedicated container manufacturing ecosystem is meant to reduce dependence on Chinese imports.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 3,
+     "explanation": "The booklet says the container scheme aims to reduce dependence on Chinese imports, so A is false and R is true."
+    },
+    {
+     "q": "Match List I with List II:\nI. Infrastructure Risk Guarantee Fund   ->   A. Partial credit guarantees to lenders\nII. Carbon Capture, Utilisation and Storage (CCUS)   ->   B. Decarbonising steel and cement\nIII. Bharat-VISTAAR   ->   C. Multi-lingual AI-based agriculture platform\nIV. SME Growth Fund   ->   D. Scaling MSMEs into Champion enterprises",
+     "options": [
+      "I-B, II-A, III-C, IV-D",
+      "I-A, II-B, III-D, IV-C",
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-D, III-A, IV-B"
+     ],
+     "answer": 2,
+     "explanation": "The booklet links the risk fund to lender guarantees, CCUS to steel and cement, VISTAAR to a multi-lingual AI platform, and the SME fund to Champion enterprises."
+    },
+    {
+     "q": "Consider the following statements:\nI. The Rare Earth Corridor will be developed across four states, including Kerala.\nII. A proposed Dedicated Freight Corridor connects Dankuni with Surat.\nIII. Five High-Speed Rail Corridors will be developed as Growth Connectors.\nWhich of the above statements is/are correct?",
+     "options": ["I only", "I and II only", "II and III only", "I, II and III"],
+     "answer": 1,
+     "explanation": "The booklet lists seven High-Speed Rail corridors, so the five-corridor claim in statement III is wrong."
+    },
+    {
+     "q": "Consider the following statements about the SME Growth Fund:\nI. It is a dedicated fund of 10,000 crore.\nII. It aims to scale high-potential MSMEs into Champion enterprises.\nIII. It is meant only for large corporations, not MSMEs.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and II match the booklet, while statement III contradicts its MSME focus."
+    },
+    {
+     "q": "What is the target value of India's Bio-Economy by 2030?",
+     "options": ["USD 300 Billion", "USD 150 Billion", "USD 500 Billion", "USD 50 Billion"],
+     "answer": 0,
+     "explanation": "The booklet sets a target of USD 300 Bn for the bio-economy by 2030."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "Tax and Fiscal Check",
+   "passage": "Union Budget 2026-27 pairs tax simplification with a cautious fiscal stance. The government decided to replace the old income tax law with a shorter statute, with the aim of reducing disputes between taxpayers and the tax department. Importantly, the existing income tax slabs were kept unchanged, so individuals did not face a change in rates for the year. Tax collected at source was also rationalised by removing thresholds that had complicated compliance for families travelling or studying abroad. Remittances for education, medical care and overseas tours were brought under a single simpler rule. A change was also proposed for companies that report high book profits but pay little or no taxable income. Under the proposal, a minimum tax would become a final tax at a lower rate than before, and non-residents would be exempted from it. On the economic side, the budget projects a growth path that combines price growth with real output growth. The government has also set a deficit target for the year and expects public debt, measured against the size of the economy, to fall gradually. A new fiscal plan aims to stabilise that debt ratio by the end of the decade. Capital spending receives special attention because infrastructure investment is seen as a strong multiplier of economic activity. Taken together, these measures seek to combine a stable tax regime with disciplined public finances.",
+   "questions": [
+    {
+     "q": "What is the fiscal deficit target for FY 2026-27 (in per cent of GDP)?",
+     "answer": "4.3",
+     "accept": ["4.3%", "4.3 per cent", "4.3 percent"],
+     "explanation": "The booklet sets the FY 2026-27 fiscal deficit target at 4.3% of GDP."
+    },
+    {
+     "q": "On which date (day, month and year) does the new Income Tax Act 2025 replace the 1961 Act?",
+     "answer": "1 April 2026",
+     "accept": ["01 April 2026", "1st April 2026", "April 1, 2026", "1 Apr 2026"],
+     "explanation": "The booklet says the new Income Tax Act 2025 replaces the 1961 Act from 1 April 2026."
+    },
+    {
+     "q": "What is the uniform TCS rate (in per cent) on LRS remittances for overseas tours, education and medical purposes?",
+     "answer": "2",
+     "accept": ["2%", "2 per cent", "2 percent", "two"],
+     "explanation": "The booklet rationalises TCS on these LRS remittances to a uniform 2%."
+    },
+    {
+     "q": "To what rate (in per cent) is the Minimum Alternate Tax proposed to be cut?",
+     "answer": "14",
+     "accept": ["14%", "14 per cent", "14 percent"],
+     "explanation": "The booklet says the MAT rate is cut to 14% from 15%."
+    },
+    {
+     "q": "Under which section of the Income Tax Act 1961 is TCS governed?",
+     "answer": "206C",
+     "accept": ["Section 206C", "S. 206C", "Sec 206C", "206 C"],
+     "explanation": "The booklet states that TCS is governed under Section 206C of the Income Tax Act 1961."
+    },
+    {
+     "q": "What is the maximum LRS remittance limit per financial year for a resident individual (in USD)?",
+     "answer": "2,50,000",
+     "accept": ["250000", "250,000", "2.5 lakh", "USD 2,50,000"],
+     "explanation": "The booklet sets the LRS remittance limit at USD 2,50,000 per financial year."
+    },
+    {
+     "q": "What nominal GDP growth rate (in per cent) does the budget project for FY 2026-27?",
+     "answer": "10.5",
+     "accept": ["10.5%", "10.5 per cent", "10.5 percent"],
+     "explanation": "The booklet projects 10.5% nominal GDP growth and around 7% real GDP growth for FY 2026-27."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 32, "what": "Semiconductor Mission allocation printed as '%1,000 Crore' (currency symbol garbled); figure not used"},
+  {"page": 32, "what": "Electronics Component Manufacturing Scheme outlay split across a line break ('740,000' then 'crore'); figure not used"},
+  {"page": 32, "what": "Container Ecosystem scheme amount garbled ('=10,00S0 Crore'); figure not used"},
+  {"page": 32, "what": "Bio-economy growth trajectory line garbled ('USD 10 Bn (2014) + USD 165.7 Bn (2024)'); not used"},
+  {"page": 34, "what": "Income tax pie chart: mapping of categories (Income Tax, Excise and Customs, Non-Tax Revenues, Central Sector Scheme, Subsidies, Defence) to percentages is garbled; not used"},
+  {"page": 34, "what": "New fiscal plan debt target printed as '50% (+1%)' by FY 2030-31; the band is unclear, so only the approximate target is noted and the band is not used"}
+ ]
+}

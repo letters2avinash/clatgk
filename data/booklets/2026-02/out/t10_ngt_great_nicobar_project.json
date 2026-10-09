@@ -1,0 +1,397 @@
+{
+ "topic": {
+  "title": "NGT Clears Great Nicobar Mega Infrastructure Project",
+  "chapter_title": "Environment & Biodiversity",
+  "subtopics": [
+   {
+    "title": "Project Overview and Clearance",
+    "summary": "The Great Nicobar Mega Infrastructure Project was launched in 2021, credited to NITI Aayog, and is located on Great Nicobar Island, the southernmost island of India. The National Green Tribunal upheld its Environmental Clearance, citing compliance with Island Coastal Regulation Zone and Coastal Regulation Zone norms. The Andaman and Nicobar Islands Integrated Development Corporation is the implementing agency.",
+    "facts": [
+     "Launched in 2021, credited to NITI Aayog.",
+     "Located on Great Nicobar Island, the southernmost and largest Nicobar island.",
+     "Indira Point is the southernmost point of India.",
+     "Components: International Container Transshipment Terminal, 450 MVA gas and solar-based power plant, dual-use civil-military airport, integrated township.",
+     "Strategic importance: near the Malacca Strait, vital to India's Act East Policy and QUAD Indo-Pacific Strategy.",
+     "Economic aim: cut reliance on Singapore and Colombo ports.",
+     "Implementing agency: Andaman and Nicobar Islands Integrated Development Corporation.",
+     "Covered areas include Galathea Bay, Campbell Bay and Great Nicobar, with a Biosphere Reserve and two national parks."
+    ],
+    "keywords": ["Great Nicobar", "NITI Aayog", "Indira Point", "Malacca Strait", "ICRZ", "transshipment terminal"]
+   },
+   {
+    "title": "Environmental and Tribal Concerns",
+    "summary": "The project is criticised for diverting about 130 sq. km of tropical rainforest and cutting nearly 1 million trees. The Environmental Impact Assessment used single-season data, and the proposed afforestation in Haryana cannot replicate the island's rainforest ecosystem. Tribal groups, including the Shompen and Nicobarese, face loss of habitat, cultural disruption and livelihood impact.",
+    "facts": [
+     "About 130 sq. km of tropical rainforest is to be diverted.",
+     "Nearly 1 million trees are to be cut.",
+     "The Environmental Impact Assessment was based on single-season data.",
+     "Concerns exist over inadequate ecological evaluation.",
+     "Proposed afforestation in Haryana cannot replicate the tropical rainforest ecosystem.",
+     "Shompen (a Particularly Vulnerable Tribal Group) and the Nicobarese tribe are affected.",
+     "Concerns include loss of habitat, cultural disruption and livelihood impact.",
+     "The island lies in the highest seismic risk zone, vulnerable to earthquakes, tsunamis and climate change impacts."
+    ],
+    "keywords": ["EIA", "compensatory afforestation", "Shompen", "Nicobarese", "tropical rainforest", "seismic risk"]
+   },
+   {
+    "title": "Particularly Vulnerable Tribal Groups",
+    "summary": "A Particularly Vulnerable Tribal Group (PVTG), previously called a Primitive Tribal Group, is a sub-classification of Scheduled Tribes that is more vulnerable than a regular Scheduled Tribe. The Dhebar Commission set up the PTG category in 1973, and the Government renamed these groups PVTGs in 2006. PM-JANMAN, with an outlay of Rs. 24,000 crore, aims to improve their socio-economic conditions.",
+    "facts": [
+     "A PVTG is a sub-classification of Scheduled Tribe that is more vulnerable than a regular Scheduled Tribe.",
+     "PVTGs were previously known as Primitive Tribal Groups (PTGs).",
+     "The Dhebar Commission established the PTG category in 1973.",
+     "The Government of India renamed PTGs as PVTGs in 2006.",
+     "Salient features: technological backwardness, stagnant or declining population growth, low literacy, subsistence economy, challenging living conditions.",
+     "The Ministry of Tribal Affairs has identified 75 PVTGs across 18 states and one Union Territory.",
+     "PM-JANMAN has an outlay of Rs. 24,000 crore.",
+     "PM-JANMAN covers safe housing, clean drinking water, sanitation, health and nutrition, and road and telecom connectivity."
+    ],
+    "keywords": ["PVTG", "PTG", "Dhebar Commission", "PM-JANMAN", "Ministry of Tribal Affairs"]
+   },
+   {
+    "title": "National Green Tribunal",
+    "summary": "The National Green Tribunal is a specialised environmental tribunal set up under the National Green Tribunal Act (2010), and India is the third country after Australia and New Zealand to do so. It provides relief and compensation for environmental damage, applying the polluter pays principle and sustainable development. Its decisions can be appealed in the Supreme Court within 90 days.",
+    "facts": [
+     "Set up under the National Green Tribunal Act (2010).",
+     "India is the third country, after Australia and New Zealand, to set up a specialised environmental tribunal.",
+     "Principal seat is in New Delhi; regional benches include Bhopal, Pune and Chennai.",
+     "Chairperson: a retired Supreme Court judge or High Court Chief Justice, appointed in consultation with the Chief Justice of India.",
+     "Judicial members: 10-20, exact number decided by the Central Government.",
+     "Hears civil cases under seven laws; excludes the Wildlife Protection Act 1972 and the Forest Rights Act 2006.",
+     "Appeals can be filed in the Supreme Court within 90 days.",
+     "Appeals must be disposed of within 6 months of filing.",
+     "Not bound by the Code of Civil Procedure 1908; guided by natural justice; decisions executable as a civil court decree."
+    ],
+    "keywords": ["NGT", "polluter pays", "90 days", "Chairperson", "natural justice", "civil court decree"]
+   }
+  ],
+  "mindmaps": [
+   {
+    "scope": "topic",
+    "title": "Great Nicobar project and NGT clearance",
+    "root": {
+     "label": "Great Nicobar project and NGT clearance",
+     "children": [
+      {"label": "Project basics", "children": [
+        {"label": "Launched 2021 (NITI Aayog)"},
+        {"label": "Located on Great Nicobar Island"},
+        {"label": "Indira Point: southernmost point"}
+      ]},
+      {"label": "Components", "children": [
+        {"label": "International container transshipment terminal"},
+        {"label": "450 MVA gas and solar power plant"},
+        {"label": "Dual-use civil-military airport"},
+        {"label": "Integrated township"}
+      ]},
+      {"label": "Strategic and economic aim", "children": [
+        {"label": "Near Malacca Strait"},
+        {"label": "Act East and QUAD links"},
+        {"label": "Cut reliance on Singapore and Colombo ports"}
+      ]},
+      {"label": "Environmental concerns", "children": [
+        {"label": "130 sq. km rainforest diverted"},
+        {"label": "Nearly 1 million trees cut"},
+        {"label": "EIA used single-season data"},
+        {"label": "Haryana afforestation cannot replicate rainforest"}
+      ]},
+      {"label": "Tribal impact", "children": [
+        {"label": "Shompen (PVTG) affected"},
+        {"label": "Nicobarese tribe affected"},
+        {"label": "Habitat, culture, livelihood at risk"}
+      ]},
+      {"label": "Legal clearance", "children": [
+        {"label": "NGT upheld Environmental Clearance"},
+        {"label": "ICRZ and CRZ norms cited"}
+      ]},
+      {"label": "Hazards", "children": [
+        {"label": "Highest seismic risk zone"},
+        {"label": "Earthquakes, tsunamis, climate change"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 0,
+    "title": "Project at a glance",
+    "root": {
+     "label": "Great Nicobar Mega Infrastructure Project",
+     "children": [
+      {"label": "Launch and location", "children": [
+        {"label": "Launched 2021 (NITI Aayog)"},
+        {"label": "Great Nicobar Island"},
+        {"label": "Indira Point: southernmost point"}
+      ]},
+      {"label": "Components", "children": [
+        {"label": "Container transshipment terminal"},
+        {"label": "450 MVA gas and solar power"},
+        {"label": "Dual-use civil-military airport"},
+        {"label": "Integrated township"}
+      ]},
+      {"label": "Strategic aim", "children": [
+        {"label": "Near Malacca Strait"},
+        {"label": "Act East and QUAD links"},
+        {"label": "Cut reliance on Singapore and Colombo ports"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 1,
+    "title": "Concerns map",
+    "root": {
+     "label": "Environmental and tribal concerns",
+     "children": [
+      {"label": "Biodiversity loss", "children": [
+        {"label": "130 sq. km rainforest diverted"},
+        {"label": "Nearly 1 million trees cut"}
+      ]},
+      {"label": "Assessment gaps", "children": [
+        {"label": "EIA used single-season data"},
+        {"label": "Ecological evaluation seen as inadequate"}
+      ]},
+      {"label": "Afforestation gap", "children": [
+        {"label": "Haryana cannot replicate rainforest"}
+      ]},
+      {"label": "Tribal impact", "children": [
+        {"label": "Shompen and Nicobarese affected"},
+        {"label": "Habitat, culture, livelihood at risk"}
+      ]},
+      {"label": "Hazards", "children": [
+        {"label": "Highest seismic risk zone"},
+        {"label": "Earthquakes, tsunamis, climate change"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 2,
+    "title": "PVTG map",
+    "root": {
+     "label": "Particularly Vulnerable Tribal Groups",
+     "children": [
+      {"label": "Definition", "children": [
+        {"label": "Sub-class of Scheduled Tribe"},
+        {"label": "More vulnerable than regular ST"},
+        {"label": "Earlier called Primitive Tribal Groups"}
+      ]},
+      {"label": "History", "children": [
+        {"label": "Dhebar Commission, 1973"},
+        {"label": "Renamed PVTG in 2006"}
+      ]},
+      {"label": "Features", "children": [
+        {"label": "Technological backwardness"},
+        {"label": "Stagnant or declining population"},
+        {"label": "Low literacy"},
+        {"label": "Subsistence economy"}
+      ]},
+      {"label": "Count and support", "children": [
+        {"label": "75 PVTGs in 18 states and 1 UT"},
+        {"label": "PM-JANMAN: Rs. 24,000 crore outlay"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 3,
+    "title": "NGT map",
+    "root": {
+     "label": "National Green Tribunal",
+     "children": [
+      {"label": "Basis", "children": [
+        {"label": "NGT Act (2010)"},
+        {"label": "Third country after Australia and NZ"}
+      ]},
+      {"label": "Composition", "children": [
+        {"label": "Chairperson: retired SC judge or HC CJ"},
+        {"label": "Judicial members: 10-20"}
+      ]},
+      {"label": "Powers", "children": [
+        {"label": "Civil cases under seven laws"},
+        {"label": "Excludes Wildlife Protection Act 1972"},
+        {"label": "Excludes Forest Rights Act 2006"}
+      ]},
+      {"label": "Appeals and timelines", "children": [
+        {"label": "Appeal to Supreme Court in 90 days"},
+        {"label": "Dispose of appeals in 6 months"}
+      ]},
+      {"label": "Principles", "children": [
+        {"label": "Natural justice"},
+        {"label": "Polluter pays"},
+        {"label": "Sustainable development"}
+      ]}
+     ]
+    }
+   }
+  ],
+  "mnemonics": [
+   {
+    "scope": "subtopic",
+    "subtopic_index": 0,
+    "title": "Project components",
+    "mnemonic": "Cats And Ponies Trot",
+    "decode": [
+     {"key": "C", "meaning": "International Container Transshipment Terminal"},
+     {"key": "A", "meaning": "Dual-use civil-military Airport"},
+     {"key": "P", "meaning": "450 MVA gas and solar-based Power plant"},
+     {"key": "T", "meaning": "Integrated Township"}
+    ]
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 1,
+    "title": "Tribal impact concerns",
+    "mnemonic": "Hold Culture, Livelihood",
+    "decode": [
+     {"key": "H", "meaning": "Loss of Habitat"},
+     {"key": "C", "meaning": "Cultural Disruption"},
+     {"key": "L", "meaning": "Livelihood Impact"}
+    ]
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 3,
+    "title": "Appeal and disposal timelines",
+    "mnemonic": "Ninety to appeal, six months to decide",
+    "decode": [
+     {"key": "90", "meaning": "Days within which an appeal can be filed in the Supreme Court"},
+     {"key": "6", "meaning": "Months within which NGT appeals must be disposed of"}
+    ]
+   }
+  ],
+  "quizzes": [
+   {
+    "type": "MCQ",
+    "subtopic_index": 0,
+    "title": "Project and Clearance Practice",
+    "passage": "The Great Nicobar Mega Infrastructure Project has returned to the spotlight after the National Green Tribunal upheld its Environmental Clearance. The Tribunal found that the project complied with the coastal norms that apply to the island. Great Nicobar is the largest island of the Nicobar group and sits at the southern end of India, where a dense green cover of trees meets long coastlines. Planners see the project as a major step in building trade and strategic capacity near the Malacca Strait. Officials argue that the plan will bring jobs, better connectivity and new economic activity to the islands. Critics, however, have questioned whether the damage to the island's fragile ecology can be offset. The island is also home to tribal communities whose way of life depends on the land and the sea. This debate highlights a familiar challenge in India: how to balance national economic and strategic goals with the protection of ecologically sensitive regions and their people. Understanding the project therefore requires knowing about the island's location, its ecology, the people who live there and the legal bodies that review such proposals.",
+    "questions": [
+     {
+      "q": "In which year was the Great Nicobar Mega Infrastructure Project launched?",
+      "options": ["2019", "2020", "2021", "2022"],
+      "answer": 2,
+      "explanation": "The booklet records the project's launch year as 2021, credited to NITI Aayog."
+     },
+     {
+      "q": "Which two national parks are associated with Great Nicobar Island?",
+      "options": ["Indira Point and Shompen", "Campbell Bay and Galathea Bay", "Nicobar and Andaman", "Malacca and Singapore"],
+      "answer": 1,
+      "explanation": "The booklet names Campbell Bay and Galathea as the two national parks on the island."
+     },
+     {
+      "q": "Assertion (A): Great Nicobar Island lies in the highest seismic risk zone and is vulnerable to earthquakes and tsunamis.\nReason (R): Great Nicobar Island is the southernmost island of India.",
+      "options": [
+       "Both A and R are true and R is the correct explanation of A",
+       "Both A and R are true but R is not the correct explanation of A",
+       "A is true but R is false",
+       "A is false but R is true"
+      ],
+      "answer": 1,
+      "explanation": "Both statements are in the booklet, but being the southernmost island does not explain the seismic vulnerability in A."
+     },
+     {
+      "q": "Match List I with List II:\nI. Shompen   ->   A. Active volcano\nII. Indira Point   ->   B. Particularly Vulnerable Tribal Group\nIII. Barren Island   ->   C. Southernmost point of India\nIV. Campbell Bay   ->   D. National Park",
+      "options": [
+       "I-C, II-A, III-B, IV-D",
+       "I-A, II-B, III-C, IV-D",
+       "I-B, II-C, III-A, IV-D",
+       "I-B, II-A, III-C, IV-D"
+      ],
+      "answer": 2,
+      "explanation": "Shompen is a PVTG, Barren Island is an active volcano, Indira Point is the southernmost point and Campbell Bay is a national park."
+     },
+     {
+      "q": "Consider the following statements about the National Green Tribunal:\nI. It was set up under the National Green Tribunal Act (2010).\nII. It is bound by the Code of Civil Procedure, 1908.\nIII. Its decisions can be appealed in the Supreme Court within 90 days.\nWhich of the above statements is/are correct?",
+      "options": ["I and III only", "II and III only", "I and II only", "I, II and III"],
+      "answer": 0,
+      "explanation": "Statement II is wrong because the Tribunal is not bound by the Code of Civil Procedure, 1908."
+     },
+     {
+      "q": "Consider the following components of the Great Nicobar Mega Infrastructure Project:\nI. An International Container Transshipment Terminal\nII. A 450 MVA gas and solar-based power plant\nIII. A nuclear power plant\nIV. A dual-use civil-military airport\nHow many of the above components are included in the project?",
+      "options": ["Only one", "Only two", "Only four", "Only three"],
+      "answer": 3,
+      "explanation": "The booklet lists the terminal, the gas and solar power plant and the airport, but not a nuclear power plant."
+     },
+     {
+      "q": "Which ecosystem is mostly found on Great Nicobar Island and is expected to be affected by the project?",
+      "options": ["Tropical rainforest", "Mangrove forest", "Deciduous forest", "Alpine forest"],
+      "answer": 0,
+      "explanation": "The booklet says the island is mostly tropical rainforest and that the project diverts it."
+     },
+     {
+      "q": "Who is appointed as the Chairperson of the National Green Tribunal?",
+      "options": [
+       "A serving Union Cabinet Minister",
+       "A retired Supreme Court judge or High Court Chief Justice",
+       "The Chief Justice of India",
+       "A Secretary of the Ministry of Environment"
+      ],
+      "answer": 1,
+      "explanation": "The booklet says the Chairperson is a retired Supreme Court judge or High Court Chief Justice, appointed in consultation with the Chief Justice of India."
+     }
+    ]
+   },
+   {
+    "type": "TITA",
+    "subtopic_index": 1,
+    "title": "Concerns and Tribal Facts",
+    "passage": "The Great Nicobar project has raised serious environmental and social concerns. Clearing large stretches of dense forest would remove habitat for wildlife and disturb an ecosystem that has developed over long periods. Critics argue that the environmental study relied on too little field data, so it may not capture how the island's species behave across changing conditions. Compensatory afforestation has been proposed in a different state, but critics say a new plantation cannot reproduce the unique structure and species of a natural forest. Indigenous communities are at the centre of the debate. Certain tribal groups are considered especially vulnerable, and they depend on the forest for food, shelter and cultural practices. Any disturbance could cause loss of habitat, disruption of traditions and a hit to local livelihoods. The island is also exposed to natural hazards. Earthquakes, tsunamis and the impacts of climate change add to concerns about building large facilities there. Supporters point to strategic and economic gains, but the debate shows how difficult it is to weigh development against ecological and tribal rights. Whether the project proceeds responsibly will depend on how well the safeguards are enforced in practice.",
+    "questions": [
+     {
+      "q": "What area of tropical rainforest is reported to be diverted, in sq. km (give the number)?",
+      "answer": "130",
+      "accept": ["130 sq km", "130 sq. km", "approximately 130", "approx 130"],
+      "explanation": "The booklet reports diversion of approximately 130 sq. km of tropical rainforest."
+     },
+     {
+      "q": "Roughly how many million trees is the project reported to cut (give the number)?",
+      "answer": "1",
+      "accept": ["one", "one million", "1 million", "1,000,000", "nearly 1 million"],
+      "explanation": "The booklet says nearly 1 million trees are to be cut."
+     },
+     {
+      "q": "The proposed compensatory afforestation is located in which state?",
+      "answer": "Haryana",
+      "accept": ["haryana state"],
+      "explanation": "The booklet notes that the proposed afforestation in Haryana cannot replicate the tropical rainforest ecosystem."
+     },
+     {
+      "q": "Which Particularly Vulnerable Tribal Group is directly threatened by the project?",
+      "answer": "Shompen",
+      "accept": ["Shompen tribe", "Shompens"],
+      "explanation": "The booklet names the Shompen, a PVTG, as affected by the project."
+     },
+     {
+      "q": "The Environmental Impact Assessment was based on data from how many seasons (in number)?",
+      "answer": "one",
+      "accept": ["single", "1", "single season", "one season"],
+      "explanation": "The booklet states that the EIA was based on single-season data."
+     },
+     {
+      "q": "How many PVTGs has the Ministry of Tribal Affairs identified (in number)?",
+      "answer": "75",
+      "accept": ["seventy-five", "seventy five"],
+      "explanation": "The booklet states the Ministry has identified 75 PVTGs across 18 states and one Union Territory."
+     },
+     {
+      "q": "In which year did the Government rename Primitive Tribal Groups as PVTGs?",
+      "answer": "2006",
+      "accept": ["the year 2006"],
+      "explanation": "The booklet says the Government renamed PTGs as PVTGs in 2006."
+     }
+    ]
+   }
+  ],
+  "needs_check": [
+   {"page": 62, "what": "Regional bench listed as 'Kotkata' is probably an OCR error for Kolkata; only Bhopal, Pune and Chennai used."},
+   {"page": 62, "what": "The second '10-20' member-count block has a garbled label; only the Judicial Members count is used."},
+   {"page": 62, "what": "The list of seven laws is partly garbled (for example the Water Cess Act line); only the Forest Rights Act and Wildlife Protection Act exclusions and the NGT Act year are used."},
+   {"page": 60, "what": "The name 'Norcondam (Extinct Volcano)' is spelled unclearly; not used."},
+   {"page": 60, "what": "The threatened species line is fragmented in the OCR text; not used."},
+   {"page": 61, "what": "The full PM-JANMAN scheme name and its 'Janjatiya' line are garbled; only the acronym and Rs. 24,000 crore outlay are used."}
+  ]
+ }
+}

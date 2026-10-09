@@ -1,0 +1,324 @@
+{
+ "topic": {
+  "title": "December 2025 AILET Corner: Current Affairs Facts",
+  "chapter_title": "AILET Corner",
+  "subtopics": [
+   {
+    "title": "Polity, Law and Regulators",
+    "summary": "This subtopic covers the contempt of court framework in India, including the Court of Record status given to the Supreme Court and High Courts. It also covers the UMEED portal for Waqf properties and the Competition Commission of India's probe into airline flight disruptions.",
+    "facts": [
+     "Contempt of Courts Act, 1971 governs contempt proceedings in India",
+     "Civil contempt: wilful disobedience of a judgment, decree, direction or order of a court",
+     "Criminal contempt: publication or act that scandalises or lowers the authority of a court",
+     "Criminal contempt also covers interfering with judicial proceedings and obstructing administration of justice",
+     "Article 129: Supreme Court is a Court of Record with power to punish for its own contempt",
+     "Article 215: High Courts enjoy similar Court of Record status with power to punish for contempt",
+     "UMEED stands for Unified Waqf Management, Empowerment, Efficiency and Development under the Waqf Act, 1995",
+     "UMEED is a centralised digital platform for Waqf property management, monitoring and transparency",
+     "UMEED nodal agency: Ministry of Minority Affairs",
+     "CCI is a statutory body under the Competition Act, 2002; established in 2003",
+     "CCI took cognisance of IndiGo flight disruptions to probe possible abuse of dominant position"
+    ],
+    "keywords": ["contempt of court", "civil contempt", "criminal contempt", "Article 129", "Article 215", "UMEED", "Waqf Act 1995", "Competition Commission of India"]
+   },
+   {
+    "title": "Economy and Finance",
+    "summary": "This subtopic covers the RBI's regulation of Domestic Systemically Important Banks, the Integrated Ombudsman Scheme 2021 for customer grievances, and the Goldilocks economy after a repo rate cut. It also covers the Economic Census, which is conducted to build a business register and support planning.",
+    "facts": [
+     "D-SIBs are referred to as 'Too Big To Fail'",
+     "D-SIBs are banks whose failure could trigger a significant disruption in the financial system and economy",
+     "D-SIBs are designated by the Reserve Bank of India",
+     "D-SIBs must maintain higher Common Equity Tier 1 (CET 1) capital than regular banks",
+     "Each D-SIB is placed in a risk bucket; a higher bucket means a higher additional CET 1 requirement",
+     "Integrated Ombudsman Scheme 2021 merges the Banking (2006), NBFC (2018) and Digital Transactions (2019) ombudsman schemes",
+     "Ombudsman can direct regulated entities to pay up to 20 lakh as compensation for financial loss",
+     "Goldilocks economy: RBI cut the repo rate by 25 basis points to 5.25%, an economy neither too hot nor too cold",
+     "Economic Census: first held in 1977; the next one is due in 2027, after the two-phase population census"
+    ],
+    "keywords": ["D-SIB", "Too Big To Fail", "CET 1", "Integrated Ombudsman Scheme 2021", "Goldilocks economy", "repo rate", "Economic Census"]
+   },
+   {
+    "title": "Environment, Science and Defence",
+    "summary": "This subtopic covers the CAFE fuel-efficiency norms and their phases, the UNEP Global Environment Outlook (GEO-7) report, and the ISRO launch of BlueBird Block-2. It also covers wetland additions to the Ramsar List and the Majuli river island.",
+    "facts": [
+     "CAFE norms are notified under the Energy Conservation Act, 2001",
+     "CAFE objectives: reduce fuel consumption, lower CO2 emissions, curb air pollution and reduce oil import dependency",
+     "CAFE phases: Phase I 2017-18, Phase II 2022-23, Phase III 2027-32",
+     "UNEP released the 7th Global Environment Outlook (GEO-7), 'A Future We Choose'; HQ in Nairobi",
+     "Pollution is linked to 9 million deaths every year",
+     "ISRO's LVM3-M6 launched BlueBird Block-2 into Low Earth Orbit on a commercial mission for AST SpaceMobile (USA)",
+     "Indian Coast Guard inducted Samudra Pratap, an indigenous pollution control vessel",
+     "Majuli: Charaichung Royal Bird Sanctuary was established in 1633 by Ahom ruler Pratap Singha; Majuli is the world's largest river island",
+     "Siliserh Lake and Kopra Reservoir were added to the Ramsar List, taking India's total to 96 wetlands"
+    ],
+    "keywords": ["CAFE norms", "Energy Conservation Act 2001", "GEO-7", "UNEP", "LVM3", "BlueBird Block-2", "Samudra Pratap", "Ramsar", "Majuli"]
+   },
+   {
+    "title": "International Bodies and Conventions",
+    "summary": "This subtopic covers the US-led Pax Silica initiative, from which India is excluded, and SoLAR Phase II for solar irrigation. It also covers the Biological Weapons Convention, the UNESCO education convention, the Kimberley Process chair and the ADB.",
+    "facts": [
+     "Pax Silica is a US-led strategic geo-economic and technology initiative; India is excluded from it",
+     "Pax Silica covers the entire silicon value chain, from critical minerals to chips, AI infrastructure and logistics",
+     "Pax Silica members: US, Japan, South Korea, Singapore, Netherlands, UK, Israel, UAE and Australia",
+     "SoLAR (Solar Irrigation for Agricultural Resilience) Phase II covers India, Bangladesh, Kenya and Ethiopia",
+     "SoLAR Phase I (2019-2024) was implemented by IWMI (Colombo) and the Swiss Agency for Development and Cooperation",
+     "Biological Weapons Convention: opened for signature in 1972, entered into force in 1975, 189 member states",
+     "Biological Weapons Convention prohibits development, production, stockpiling and use of biological and toxin weapons",
+     "UNESCO Convention against Discrimination in Education was adopted in 1960; India has not ratified it",
+     "ADB was established in 1966 and is headquartered in Manila; it revised India's FY26 GDP growth forecast to 7.2%",
+     "India chairs the Kimberley Process from January 2026 to keep conflict diamonds out of global trade"
+    ],
+    "keywords": ["Pax Silica", "SoLAR", "Biological Weapons Convention", "UNESCO", "Kimberley Process", "ADB", "conflict diamonds"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "December 2025 AILET Corner",
+   "root": {
+    "label": "AILET Corner: Current Affairs",
+    "children": [
+     {
+      "label": "Polity and Law",
+      "children": [
+       {"label": "Contempt of court", "children": [{"label": "Civil: disobeying court orders"}, {"label": "Criminal: scandalising court"}]},
+       {"label": "UMEED portal for Waqf", "children": [{"label": "Waqf Act, 1995"}]}
+      ]
+     },
+     {
+      "label": "Economy and Finance",
+      "children": [
+       {"label": "D-SIBs: Too Big To Fail"},
+       {"label": "Integrated Ombudsman Scheme 2021"},
+       {"label": "Goldilocks economy"}
+      ]
+     },
+     {
+      "label": "Environment, Science, Defence",
+      "children": [
+       {"label": "CAFE norms: three phases"},
+       {"label": "BlueBird Block-2 launch"},
+       {"label": "Ramsar sites total 96"}
+      ]
+     },
+     {
+      "label": "International Bodies",
+      "children": [
+       {"label": "Pax Silica initiative"},
+       {"label": "Biological Weapons Convention: 189 states"},
+       {"label": "Kimberley Process chair from 2026"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Polity, Law and Regulators",
+   "root": {
+    "label": "Polity, Law and Regulators",
+    "children": [
+     {"label": "Contempt of Courts Act, 1971", "children": [{"label": "Civil contempt"}, {"label": "Criminal contempt"}]},
+     {"label": "Court of Record status", "children": [{"label": "Article 129: Supreme Court"}, {"label": "Article 215: High Courts"}]},
+     {"label": "UMEED portal", "children": [{"label": "Waqf Act, 1995"}, {"label": "Ministry of Minority Affairs"}]},
+     {"label": "Competition Commission of India", "children": [{"label": "Statutory body, Competition Act 2002"}, {"label": "Probes IndiGo disruptions"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Economy and Finance",
+   "root": {
+    "label": "Economy and Finance",
+    "children": [
+     {"label": "D-SIBs", "children": [{"label": "Too Big To Fail"}, {"label": "Higher CET 1 capital"}, {"label": "Risk buckets by importance"}]},
+     {"label": "Integrated Ombudsman Scheme 2021", "children": [{"label": "Merges three earlier schemes"}, {"label": "Compensation up to 20 lakh"}]},
+     {"label": "Goldilocks economy", "children": [{"label": "Repo cut by 25 basis points"}, {"label": "Neither too hot nor too cold"}]},
+     {"label": "Economic Census", "children": [{"label": "First held 1977"}, {"label": "Next due 2027"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Environment, Science and Defence",
+   "root": {
+    "label": "Environment, Science and Defence",
+    "children": [
+     {"label": "CAFE norms", "children": [{"label": "Energy Conservation Act, 2001"}, {"label": "Phases: 2017-18, 2022-23, 2027-32"}]},
+     {"label": "Space launch", "children": [{"label": "BlueBird Block-2 via LVM3-M6"}, {"label": "Low Earth Orbit"}]},
+     {"label": "Environment reports and wetlands", "children": [{"label": "GEO-7 by UNEP"}, {"label": "Ramsar sites total 96"}, {"label": "Majuli: largest river island"}]},
+     {"label": "Defence", "children": [{"label": "Samudra Pratap pollution vessel"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "International Bodies and Conventions",
+   "root": {
+    "label": "International Bodies and Conventions",
+    "children": [
+     {"label": "Pax Silica", "children": [{"label": "US-led; India excluded"}, {"label": "Nine member countries"}]},
+     {"label": "SoLAR Phase II", "children": [{"label": "Solar irrigation for agriculture"}, {"label": "India, Bangladesh, Kenya, Ethiopia"}]},
+     {"label": "Biological Weapons Convention", "children": [{"label": "Opened 1972, in force 1975"}, {"label": "Bans biological and toxin weapons"}]},
+     {"label": "UNESCO and ADB", "children": [{"label": "UNESCO Discrimination Convention 1960"}, {"label": "ADB established 1966"}]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "UMEED expansion",
+   "mnemonic": "Unified Management Empowers Efficient Development",
+   "decode": [
+    {"key": "U", "meaning": "Unified (Waqf Management)"},
+    {"key": "M", "meaning": "Management"},
+    {"key": "E", "meaning": "Empowerment and Efficiency"},
+    {"key": "D", "meaning": "Development"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Pax Silica supply chain",
+   "mnemonic": "Silicon Runs on Innovation",
+   "decode": [
+    {"key": "S", "meaning": "Secure supply chain"},
+    {"key": "R", "meaning": "Resilient"},
+    {"key": "I", "meaning": "Innovation-driven"}
+   ]
+  },
+  {
+   "scope": "topic",
+   "title": "Goldilocks economy",
+   "mnemonic": "Neither Hot Nor Cold, Just Right",
+   "decode": [
+    {"key": "Not hot", "meaning": "No overheating of the economy"},
+    {"key": "Not cold", "meaning": "No recessionary pressures"},
+    {"key": "Just right", "meaning": "Balanced growth, low inflation, high employment"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Courts, Waqf and Competition Law",
+   "passage": "Indian courts have long held a power to punish persons who disrespect them, and recent developments have brought this power back into focus. In a recent ruling, the Supreme Court stated that the power to punish for criminal contempt is not a personal shield for judges. The Court also stressed that judges have the authority to forgive an offender, and that forgiveness can be given alongside punishment. Contempt is generally divided into two broad categories, and each category protects the justice system in a different way. Separately, the government has moved to bring Waqf property records into a single digital system. A minister recently made an announcement about the registration of Waqf properties. The system, known as UMEED, is meant to make the management of Waqf properties more efficient and transparent. Meanwhile, the Competition Commission of India has started to examine a sudden disruption to airline services. The regulator is checking whether a dominant company has misused its market position, which is a matter covered by competition law. Such steps show how courts, regulators and ministries each shape the rules that citizens and companies must follow in everyday life. Each institution in these stories works within a defined legal framework, which is why the exact provisions matter.",
+   "questions": [
+    {
+     "q": "Which provision makes the Supreme Court a Court of Record with power to punish for contempt of itself?",
+     "options": ["Article 215, for the High Courts", "Article 129, for the High Courts", "Article 215, for the Supreme Court", "Article 129, for the Supreme Court"],
+     "answer": 3,
+     "explanation": "Article 129 makes the Supreme Court a Court of Record with power to punish for its own contempt, while Article 215 covers High Courts."
+    },
+    {
+     "q": "Which Act governs contempt proceedings in India?",
+     "options": ["Waqf Act, 1995", "Contempt of Courts Act, 1971", "Competition Act, 2002", "Energy Conservation Act, 2001"],
+     "answer": 1,
+     "explanation": "The Contempt of Courts Act, 1971 governs contempt proceedings in India."
+    },
+    {
+     "q": "Read the two statements and choose the correct option.\nAssertion (A): Criminal contempt includes acts that scandalise or lower the authority of a court.\nReason (R): Criminal contempt covers wilful disobedience of a court's judgment or order.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 2,
+     "explanation": "Criminal contempt covers acts that lower a court's authority, whereas wilful disobedience of a court order is civil contempt."
+    },
+    {
+     "q": "Read the two statements and choose the correct option.\nAssertion (A): The CCI can examine a possible abuse of dominant position by a company.\nReason (R): The CCI is a statutory body set up under the Competition Act, 2002.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 0,
+     "explanation": "The CCI's power to probe abuse of dominance comes from the Competition Act, 2002, under which it is a statutory body."
+    },
+    {
+     "q": "Match List I with List II:\nList I\nI. Article 129\nII. Article 215\nIII. Competition Commission of India\nIV. UMEED portal\nList II\nA. Waqf Act, 1995\nB. High Courts\nC. Supreme Court\nD. Competition Act, 2002",
+     "options": ["I-A, II-B, III-C, IV-D", "I-C, II-B, III-D, IV-A", "I-B, II-C, III-A, IV-D", "I-D, II-A, III-C, IV-B"],
+     "answer": 1,
+     "explanation": "Article 129 is for the Supreme Court, Article 215 for High Courts, the CCI under the Competition Act 2002, and UMEED under the Waqf Act 1995."
+    },
+    {
+     "q": "Consider the following statements:\nI. Criminal contempt covers acts that scandalise or lower the authority of a court.\nII. Civil contempt covers wilful breach of an undertaking given to a court.\nIII. The Competition Commission of India was established in 2002.\nWhich of the above statements is/are correct?",
+     "options": ["I and III only", "II and III only", "I and II only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statement III is wrong because the CCI was established in 2003, not 2002."
+    },
+    {
+     "q": "Consider the following statements:\nI. The CCI consists of a Chairperson and 2 to 6 Members.\nII. The Ministry of Corporate Affairs is the nodal agency for UMEED.\nIII. Civil contempt includes wilful disobedience of a court's judgment.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statement II is wrong because the Ministry of Minority Affairs is the nodal agency for UMEED, while I and III are correct."
+    },
+    {
+     "q": "The CCI has taken cognisance of flight disruptions of which airline to probe a possible abuse of dominant position?",
+     "options": ["Air India", "SpiceJet", "Akasa Air", "IndiGo"],
+     "answer": 3,
+     "explanation": "The CCI took cognisance of IndiGo flight disruptions to probe a possible abuse of dominant position."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Repo Cut, D-SIBs and Economic Census",
+   "passage": "Economic news in December 2025 focused on how stable the Indian economy looked and how the banking system is being watched more closely. The Reserve Bank of India, which decides monetary policy, recently reduced its key policy rate by a quarter of a percentage point. The central bank described the situation as a rare Goldilocks phase, a term that describes an economy in a balanced state. In such a phase, growth is steady, inflation is low, employment is high and the economy shows no sign of overheating or recession. Regulators have also taken steps to strengthen the largest banks. Some banks are so large and so closely connected with the rest of the system that their failure could disrupt the entire economy, so they must hold extra capital. For customers, the RBI's grievance system has been reorganised. A single integrated scheme now handles complaints against banks, non-banking finance companies and other regulated entities, with the aim of resolving disputes quickly, transparently and at low cost. Looking ahead, the government will conduct another Economic Census once the population census is complete, with the data expected to support a unified business register and better planning for enterprises across the country. Together, these measures show how monetary policy, banking regulation, consumer protection and statistics work as connected parts of the financial system.",
+   "questions": [
+    {
+     "q": "What is the RBI's repo rate after its December 2025 cut? (in per cent)",
+     "answer": "5.25",
+     "accept": ["5.25%", "5.25 per cent", "5.25 percent"],
+     "explanation": "The RBI cut the repo rate by 25 basis points to 5.25%."
+    },
+    {
+     "q": "Up to how many lakh rupees can an Ombudsman direct a regulated entity to pay as compensation for financial loss? (in lakh)",
+     "answer": "20",
+     "accept": ["20 lakh", "twenty"],
+     "explanation": "The Integrated Ombudsman Scheme 2021 allows compensation of up to 20 lakh for financial loss."
+    },
+    {
+     "q": "What is the informal term used for Domestic Systemically Important Banks?",
+     "answer": "Too Big To Fail",
+     "accept": ["too big to fail", "TBTF"],
+     "explanation": "D-SIBs are referred to as Too Big To Fail."
+    },
+    {
+     "q": "Which authority designates the D-SIBs?",
+     "answer": "Reserve Bank of India",
+     "accept": ["RBI", "Reserve Bank", "Reserve Bank of India (RBI)"],
+     "explanation": "The Reserve Bank of India designates each D-SIB and places it in a risk bucket."
+    },
+    {
+     "q": "What does CET 1 stand for in bank capital requirements?",
+     "answer": "Common Equity Tier 1",
+     "accept": ["Common Equity Tier-1", "Common Equity Tier 1 capital", "CET1"],
+     "explanation": "D-SIBs must maintain higher Common Equity Tier 1 capital than regular banks."
+    },
+    {
+     "q": "In which year will India conduct its next Economic Census?",
+     "answer": "2027",
+     "accept": ["2027 AD"],
+     "explanation": "India will conduct the next Economic Census in 2027, after completing the two-phase population census."
+    },
+    {
+     "q": "In which year was the first Economic Census conducted in India?",
+     "answer": "1977",
+     "accept": ["1977 AD"],
+     "explanation": "The first Economic Census was conducted in 1977."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 60, "what": "Additional compensation for distress is printed as '=1 Lakh' (rupee symbol garbled); not used"},
+  {"page": 61, "what": "GEO-7 bullet lines on greenhouse-gas growth and land loss are interleaved with other text; not used"},
+  {"page": 63, "what": "Biological Weapons Convention 'first multilateral treaty' ordinal is garbled; not used"},
+  {"page": 64, "what": "CPI first-president ordinal and the Singaravelu Chettiar detail are unclear; not used"},
+  {"page": 66, "what": "Project Cheetah 'world's first inter-continental translocation' ordinal is garbled; not used"},
+  {"page": 65, "what": "Asia Power Index 'India Ranked 3rd' ordinal and Ditwah cyclone name line are partly garbled; not used"}
+ ]
+}
