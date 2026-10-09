@@ -1,0 +1,64 @@
+{
+ "passage_flags": [
+  {
+   "quiz": "t-t02-1",
+   "claim": "Outside powers are also investing in Arctic research and infrastructure, which signals long-term interest in the region.",
+   "problem": "not found in booklet text as stated: the booklet names only China as investing in Arctic research and infrastructure; 'outside powers' (plural) is a generalisation",
+   "page": 13
+  },
+  {
+   "quiz": "t-t06-1",
+   "claim": "Gallantry awards are given for acts of bravery and service",
+   "problem": "booklet describes gallantry awards as recognising bravery; it does not state that gallantry awards are given for service",
+   "page": 40
+  },
+  {
+   "quiz": "t-t11-1",
+   "claim": "the right to exploit the living and non-living resources of the water and the seabed",
+   "problem": "not found in booklet text (booklet says the EEZ gives the right to exploit all economic resources)",
+   "page": 65
+  },
+  {
+   "quiz": "q-t13-0",
+   "claim": "Every national sports body must also have a general body and an executive committee, and both must include sportspersons and women.",
+   "problem": "Booklet requires sportspersons (at least 4 Sportspersons of Outstanding Merit) only in the General Body. The Executive Committee requirement is at least 4 women members; no sportsperson requirement for the Executive Committee is stated.",
+   "page": 77
+  },
+  {
+   "quiz": "t-t13-1",
+   "claim": "The Indian Olympic Association is the body that leads Olympic sport in the country.",
+   "problem": "Booklet lists the Indian Olympic Association (1927, President PT Usha, HQ New Delhi) but does not say it leads Olympic sport. The booklet names the National Olympic Committee as the sole governing body for Olympic sports in India.",
+   "page": 78
+  }
+ ],
+ "fact_flags": [
+  {
+   "file": "t06_republicday.json",
+   "subtopic": 0,
+   "fact": "2026 is India's 77th Republic Day; the parade theme is 150 Years of Vande Mataram.",
+   "problem": "booklet lists '150 Years of Vande Mataram' under 'Themes 2026', not explicitly as the parade theme; the parade sub-themes are 'Swatantrata ka Mantra - Vande Mataram' and 'Samriddhi ka Mantra - Atmanirbhar Bharat'",
+   "page": 38
+  },
+  {
+   "file": "t10_chinapop.json",
+   "subtopic": 2,
+   "fact": "Official end of the One-Child Policy in 2016 with the Two-Child Policy.",
+   "problem": "Booklet p62 states China's One-Child Policy ran 1979-2015, which conflicts with the 2016 end date given on p61.",
+   "page": 62
+  },
+  {
+   "file": "t13_sports.json",
+   "subtopic": 1,
+   "fact": "Rules 2026 require every national sports body to have a General Body and an Executive Committee with sportspersons and women included (subtopic summary)",
+   "problem": "Booklet requires sportspersons only in the General Body; the Executive Committee requirement is at least 4 women members, with no sportsperson requirement stated.",
+   "page": 77
+  },
+  {
+   "file": "t14_misc.json",
+   "subtopic": 0,
+   "fact": "Coffee Club opposes expansion of permanent seats; India is a key Uniting for Consensus opponent of Germany's bid.",
+   "problem": "Not supported. The booklet names Italy and Spain as opposing Germany's bid and Pakistan as opposing India's bid; India is described as an advocate for a permanent seat, not as an opponent of Germany's bid.",
+   "page": 81
+  }
+ ]
+}
