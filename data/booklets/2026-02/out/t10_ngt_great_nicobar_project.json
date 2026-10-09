@@ -64,8 +64,9 @@
     ],
     "keywords": ["NGT", "polluter pays", "90 days", "Chairperson", "natural justice", "civil court decree"]
    }
-  ],
-  "mindmaps": [
+  ]
+ },
+ "mindmaps": [
    {
     "scope": "topic",
     "title": "Great Nicobar project and NGT clearance",
@@ -267,7 +268,7 @@
     "type": "MCQ",
     "subtopic_index": 0,
     "title": "Project and Clearance Practice",
-    "passage": "The Great Nicobar Mega Infrastructure Project has returned to the spotlight after the National Green Tribunal upheld its Environmental Clearance. The Tribunal found that the project complied with the coastal norms that apply to the island. Great Nicobar is the largest island of the Nicobar group and sits at the southern end of India, where a dense green cover of trees meets long coastlines. Planners see the project as a major step in building trade and strategic capacity near the Malacca Strait. Officials argue that the plan will bring jobs, better connectivity and new economic activity to the islands. Critics, however, have questioned whether the damage to the island's fragile ecology can be offset. The island is also home to tribal communities whose way of life depends on the land and the sea. This debate highlights a familiar challenge in India: how to balance national economic and strategic goals with the protection of ecologically sensitive regions and their people. Understanding the project therefore requires knowing about the island's location, its ecology, the people who live there and the legal bodies that review such proposals.",
+    "passage": "The Great Nicobar Mega Infrastructure Project has returned to the spotlight after the National Green Tribunal upheld its Environmental Clearance. The Tribunal found that the project complied with the coastal norms that apply to the island. Great Nicobar is the largest island of the Nicobar group and sits at the southern end of India, where a dense green cover of trees meets long coastlines. Planners see the project as a major step in building trade and strategic capacity near the Malacca Strait. Officials argue that the plan will bring jobs, better connectivity and new economic activity to the islands. Critics, however, have questioned whether the damage to the island's fragile ecology can be offset. The island is also home to tribal communities whose way of life depends on the land and the sea. This debate highlights a familiar challenge in India: how to balance national economic and strategic goals with the protection of ecologically sensitive regions and their people. Understanding the project therefore requires knowing about the island's location, its ecology, the people who live there and the legal bodies that review such proposals. Local residents and planners will need to show how the development protects both the forest cover and the people who depend on it.",
     "questions": [
      {
       "q": "In which year was the Great Nicobar Mega Infrastructure Project launched?",
@@ -338,7 +339,7 @@
     "type": "TITA",
     "subtopic_index": 1,
     "title": "Concerns and Tribal Facts",
-    "passage": "The Great Nicobar project has raised serious environmental and social concerns. Clearing large stretches of dense forest would remove habitat for wildlife and disturb an ecosystem that has developed over long periods. Critics argue that the environmental study relied on too little field data, so it may not capture how the island's species behave across changing conditions. Compensatory afforestation has been proposed in a different state, but critics say a new plantation cannot reproduce the unique structure and species of a natural forest. Indigenous communities are at the centre of the debate. Certain tribal groups are considered especially vulnerable, and they depend on the forest for food, shelter and cultural practices. Any disturbance could cause loss of habitat, disruption of traditions and a hit to local livelihoods. The island is also exposed to natural hazards. Earthquakes, tsunamis and the impacts of climate change add to concerns about building large facilities there. Supporters point to strategic and economic gains, but the debate shows how difficult it is to weigh development against ecological and tribal rights. Whether the project proceeds responsibly will depend on how well the safeguards are enforced in practice.",
+    "passage": "The Great Nicobar project has raised serious environmental and social concerns. Clearing large stretches of dense forest would remove habitat for wildlife and disturb an ecosystem that has developed over long periods. Critics argue that the environmental study relied on too little field data, so it may not capture how the island's species behave across changing conditions. Compensatory afforestation has been proposed in a different state, but critics say a new plantation cannot reproduce the unique structure and species of a natural forest. Indigenous communities are at the centre of the debate. Certain tribal groups are considered especially vulnerable, and they depend on the forest for food, shelter and cultural practices. Any disturbance could cause loss of habitat, disruption of traditions and a hit to local livelihoods. The island is also exposed to natural hazards. Earthquakes, tsunamis and the impacts of climate change add to concerns about building large facilities there. Supporters point to strategic and economic gains, but the debate shows how difficult it is to weigh development against ecological and tribal rights. Whether the project proceeds responsibly will depend on how well the safeguards are enforced in practice. Supporters and critics alike agree that the island's natural and human heritage needs careful protection. Clear rules on monitoring and accountability would help build trust among the communities that are most affected.",
     "questions": [
      {
       "q": "What area of tropical rainforest is reported to be diverted, in sq. km (give the number)?",
@@ -393,5 +394,4 @@
    {"page": 60, "what": "The threatened species line is fragmented in the OCR text; not used."},
    {"page": 61, "what": "The full PM-JANMAN scheme name and its 'Janjatiya' line are garbled; only the acronym and Rs. 24,000 crore outlay are used."}
   ]
- }
 }

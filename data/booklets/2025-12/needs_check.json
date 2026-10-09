@@ -1,0 +1,227 @@
+[
+ {
+  "topic": "Protection of Aravalli Hills",
+  "page": 6,
+  "what": "Ministry named for the 1990s mining restrictions is garbled ('MoFF'); not used"
+ },
+ {
+  "topic": "Protection of Aravalli Hills",
+  "page": 7,
+  "what": "Origin of the dry winds described as 'Afghanistan & Pakistan' sits in a jumbled column and conflicts with the Central Asia wording on p.6; not used"
+ },
+ {
+  "topic": "Protection of Aravalli Hills",
+  "page": 7,
+  "what": "Date of earliest mining activity ('5th century BCE') has a garbled superscript; not used"
+ },
+ {
+  "topic": "Protection of Aravalli Hills",
+  "page": 7,
+  "what": "Number of the UNCCD meeting in Riyadh is garbled ('COPIG'); not used"
+ },
+ {
+  "topic": "VB-G RAM G Bill 2025",
+  "page": 10,
+  "what": "Shift table (MGNREGA to VB-G RAM G Bill) has partly garbled labels, including the 'Supply-driven' label; not used."
+ },
+ {
+  "topic": "VB-G RAM G Bill 2025",
+  "page": 13,
+  "what": "MGNREGA vs proposed comparison table has scrambled layout and a stray unrelated headline; only rows that read clearly were used."
+ },
+ {
+  "topic": "VB-G RAM G Bill 2025",
+  "page": 11,
+  "what": "Fourth priority is 'Special Works for Extreme Weather Events' on p.11 but 'climate adaptation' on p.12; p.11 wording used."
+ },
+ {
+  "topic": "4th National Lok Adalat",
+  "page": 17,
+  "what": "Delhi as the first district-level e-Court and the surrounding Phase II lines are interleaved with other text and garbled; not used"
+ },
+ {
+  "topic": "4th National Lok Adalat",
+  "page": 18,
+  "what": "Head of the Taluka/Sub-division committee ('Senior Civil Judge') and the District Judge Ex-Officio Chairman line are layout-garbled; not used"
+ },
+ {
+  "topic": "Assam Prohibition of Polygamy Bill 2025",
+  "page": 22,
+  "what": "Central Government view on different matrimonial laws: the final word before the closing quote is partly garbled (OCR reads 'nity'); not used"
+ },
+ {
+  "topic": "Assam Prohibition of Polygamy Bill 2025",
+  "page": 22,
+  "what": "Scrambled timeline rows (1947, 1948, 1954, 1956, 1986, 2003, 2015) cannot be paired with events reliably; not used"
+ },
+ {
+  "topic": "Assam Prohibition of Polygamy Bill 2025",
+  "page": 23,
+  "what": "Timeline rows on UCC history (Hindu Code Bill, Special Marriage Act, Shah Bano and Kalam references) cannot be matched to years reliably; not used"
+ },
+ {
+  "topic": "Assam Prohibition of Polygamy Bill 2025",
+  "page": 24,
+  "what": "Practice questions give no answer key, so answers to the questions on Javed vs State of Haryana and the Narasu Appa Mali case are not stated; not used"
+ },
+ {
+  "topic": "Assam Prohibition of Polygamy Bill 2025",
+  "page": 25,
+  "what": "QuickByte item on the National Quantum Mission is off-topic and its outlay figure is garbled; not used"
+ },
+ {
+  "topic": "Indian Rupee Breaches 90 per US Dollar in 2025",
+  "page": 26,
+  "what": "A further depreciation level printed as '291 or higher' is garbled (possibly 91), so it was not used."
+ },
+ {
+  "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+  "page": 30,
+  "what": "Labels in the repo rate flow diagram (money supply and inflation boxes) are garbled; only clearly readable bullets were used."
+ },
+ {
+  "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+  "page": 31,
+  "what": "Ordinal for the present RBI Governor ('26th') is garbled; not used."
+ },
+ {
+  "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+  "page": 31,
+  "what": "Effect of a CRR increase on bank lending rates is garbled ('Lending Tates'); not used."
+ },
+ {
+  "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+  "page": 32,
+  "what": "Section number of the amended RBI Act for the MPC legal framework is garbled ('4528'); not used."
+ },
+ {
+  "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+  "page": 33,
+  "what": "WPI base year is garbled ('20n-12'); not used."
+ },
+ {
+  "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+  "page": 33,
+  "what": "CPI commodity weights and the GDP deflator release agency are garbled; not used."
+ },
+ {
+  "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+  "page": 33,
+  "what": "Parts of the WPI vs CPI comparison table are misaligned (capital goods and indirect tax rows); only clearly aligned rows used."
+ },
+ {
+  "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+  "page": 34,
+  "what": "Recommendation text of the Hilton Young Commission is garbled; not used."
+ },
+ {
+  "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+  "page": 34,
+  "what": "First Indian Governor's name is rendered as 'C DDeshmukh' (spacing garbled); not used."
+ },
+ {
+  "topic": "23rd India-Russia Annual Summit",
+  "page": 38,
+  "what": "Year of the summit in which PM Modi received the Order of St Andrew the Apostle is garbled (printed as 'In22 Summit'); not used."
+ },
+ {
+  "topic": "23rd India-Russia Annual Summit",
+  "page": 38,
+  "what": "Year '2019' for the Chennai-Vladivostok corridor proposal sits in an ambiguous map label position; not used."
+ },
+ {
+  "topic": "23rd India-Russia Annual Summit",
+  "page": 38,
+  "what": "Existing-route distances (5647 and 8675 nautical miles) and INSTC length (7200 km) in the map are garbled; not used."
+ },
+ {
+  "topic": "23rd India-Russia Annual Summit",
+  "page": 39,
+  "what": "Recently commissioned frigate printed as 'INSA Tushil' (likely INS Tushil); not used."
+ },
+ {
+  "topic": "23rd India-Russia Annual Summit",
+  "page": 39,
+  "what": "Location of the AK-203 joint venture ('Korwa (Amethi, Kanpur)') is unclear in the text; not used."
+ },
+ {
+  "topic": "23rd India-Russia Annual Summit",
+  "page": 40,
+  "what": "'Extra Shots' bullet on PM Modi's visits (Bhutan, Maldives, Sri Lanka) and foreign recipients list are garbled; not used."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 43,
+  "what": "Sub-heading wording on the Durand Line consequences is partly garbled (Russian spheres line); the Wakhan Corridor point was used only where the text is clear"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 44,
+  "what": "Oman 'first Gulf country for tri-service exercises' line is garbled ('I' Gulf Country); not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 45,
+  "what": "Name of the alumni outreach network ('Bharat ki AAN') is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 46,
+  "what": "SHANTI Bill tiered liability range ('100 Crore to %3000 Crore') is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 47,
+  "what": "Earlier earthquake zone numbering ('II, II, IV, V') is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 49,
+  "what": "Name of the five-pillar framework ('Panch-Jyoti') and pillar numbering are garbled; pillars listed without the name"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 49,
+  "what": "Masala bond maturity amounts lack a clear currency unit; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 54,
+  "what": "Suryavarman II reign dates ('///3 - 1150 CE') are garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 56,
+  "what": "NACP IV row (period and 50% target mapping) is garbled; not used"
+ },
+ {
+  "topic": "December 2025 AILET Corner: Current Affairs Facts",
+  "page": 60,
+  "what": "Additional compensation for distress is printed as '=1 Lakh' (rupee symbol garbled); not used"
+ },
+ {
+  "topic": "December 2025 AILET Corner: Current Affairs Facts",
+  "page": 61,
+  "what": "GEO-7 bullet lines on greenhouse-gas growth and land loss are interleaved with other text; not used"
+ },
+ {
+  "topic": "December 2025 AILET Corner: Current Affairs Facts",
+  "page": 63,
+  "what": "Biological Weapons Convention 'first multilateral treaty' ordinal is garbled; not used"
+ },
+ {
+  "topic": "December 2025 AILET Corner: Current Affairs Facts",
+  "page": 64,
+  "what": "CPI first-president ordinal and the Singaravelu Chettiar detail are unclear; not used"
+ },
+ {
+  "topic": "December 2025 AILET Corner: Current Affairs Facts",
+  "page": 66,
+  "what": "Project Cheetah 'world's first inter-continental translocation' ordinal is garbled; not used"
+ },
+ {
+  "topic": "December 2025 AILET Corner: Current Affairs Facts",
+  "page": 65,
+  "what": "Asia Power Index 'India Ranked 3rd' ordinal and Ditwah cyclone name line are partly garbled; not used"
+ }
+]

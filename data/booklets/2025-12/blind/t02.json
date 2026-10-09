@@ -1,0 +1,189 @@
+{
+ "topic": "VB-G RAM G Bill 2025",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Why MGNREGA Is Being Replaced",
+   "summary": "The Viksit Bharat G RAM G Bill 2025 was introduced in the Lok Sabha to replace MGNREGA, which was enacted in 2005. The government argues that the older framework is outdated given changes in the rural economy, livelihoods and employment patterns. Criticism of the older scheme includes the creation of low-utility or non-durable assets and a funding model that is open-ended.",
+   "facts": [
+    "Bill name: Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin) Bill, 2025",
+    "Introduced in Lok Sabha to replace MGNREGA",
+    "MGNREGA was enacted in 2005",
+    "Framework argued to be outdated given changes in rural economy, livelihoods and employment",
+    "Criticism over creation of low-utility or non-durable assets",
+    "Shift from open-ended funding to normative allocations aims at better fiscal management",
+    "Farmers report labour shortages during sowing and harvest seasons",
+    "Bill is framed under the national vision of Viksit Bharat @2047"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Key Features of the Bill",
+   "summary": "The bill raises the statutory work guarantee to 125 days per rural household per financial year and lets states suspend the scheme for up to 60 days in sowing and harvesting seasons. Works must align with four national priorities for durable asset creation. An unemployment allowance applies if work is not provided within 15 days of a household's application.",
+   "facts": [
+    "125 days of guaranteed unskilled manual work per rural household per financial year",
+    "Earlier guarantee under MGNREGA was 100 days",
+    "States can suspend the scheme for up to 60 days during sowing and harvesting seasons",
+    "Shift to a Centrally Sponsored Scheme with shared financial responsibility",
+    "States/UTs funding: 60% Centre : 40% State",
+    "North-Eastern and Himalayan States funding: 90% Centre : 10% State",
+    "Four priorities: Water Security, Core Rural Infrastructure, Livelihood-related Infrastructure, Special Works for Extreme Weather Events",
+    "Unemployment allowance if work is not provided within 15 days of application",
+    "Weekly wage payments are envisaged"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "MGNREGA vs the Proposed Bill",
+   "summary": "The comparison sets out the two frameworks on guaranteed workdays, wage funding, nature of the right, budgeting, operating period and payment timing. MGNREGA gave a justiciable right with open-ended funding, while the proposed bill makes the guarantee subject to a fixed budget cap. The bill also allows seasonal pauses and envisages weekly wage payments.",
+   "facts": [
+    "Guaranteed workdays: MGNREGA at least 100 days; proposed bill 125 days",
+    "Wage funding: MGNREGA Centre bears 100% of unskilled wage cost; proposed 60:40 for most states",
+    "Nature of right: MGNREGA is justiciable, citizens can sue if work is denied; proposed is a schematic entitlement",
+    "Budget cap: the proposed guarantee is limited by a fixed budget cap",
+    "Budgeting: MGNREGA uses a labour budget reflecting actual demand; proposed uses a fixed state-wise allocation",
+    "Operating period: MGNREGA runs continuously; proposed allows suspension for up to 60 days in peak seasons",
+    "Payment frequency: MGNREGA mandates payment within 15 days of work completion; proposed envisages weekly payments"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Planning, Oversight and Related Schemes",
+   "summary": "Gram Panchayats prepare Viksit Gram Panchayat Plans, which are integrated with PM Gati Shakti and aggregated through VB-NRIS for national planning. Panchayats are graded on development indicators, and councils and steering committees oversee implementation. Several other rural schemes address livelihoods, skilling, property cards and traditional artisans.",
+   "facts": [
+    "Viksit Gram Panchayat Plans (VGPPs) are prepared by Gram Panchayats",
+    "VGPPs are integrated with PM Gati Shakti for infrastructure convergence",
+    "Plans are aggregated through Viksit Bharat National Rural Infrastructure Stack (VB-NRIS)",
+    "Panchayats are graded on development indicators; underperforming ones get higher allocations",
+    "Central and State Gramin Rozgar Guarantee Councils review, monitor and advise",
+    "National and State Steering Committees make recommendations on allocation and convergence",
+    "Digital ecosystem with biometric authentication and AI analytics to reduce leakages",
+    "SVAMITVA gives property cards; PM Vishwakarma supports artisans via skilling, toolkits and credit"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t02-0",
+   "type": "MCQ",
+   "passage": "Rural employment policy has been under review since the government introduced the Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin) Bill, 2025 in the Lok Sabha. The proposal would replace MGNREGA, which critics say has grown outdated as rural livelihoods and employment patterns have changed. Concerns have also been raised that the older scheme created assets of low utility or limited durability. The government presents the new law as part of its national vision of Viksit Bharat by 2047.\n\nThe funding model is also changing. The earlier scheme relied on open-ended funding that was largely borne by the Centre. The new bill moves to a model of shared financial responsibility between the Centre and the States, with different ratios for different regions. Supporters argue that predictable allocations make budgeting easier and help the Centre target spending.\n\nPlanning is meant to begin in villages. Gram panchayats prepare their own plans, which are linked to infrastructure programmes and then combined at the national level. Panchayats are also to be graded on development indicators. Oversight will come from councils at the Centre and in the States, along with steering committees that advise on allocations and coordination between ministries.\n\nFarmers have long reported labour shortages during sowing and harvest seasons, and the bill gives States a tool to respond. Overall, the government says the reform will strengthen rural income security while improving transparency and accountability.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the statutory guarantee of unskilled manual work per rural household per financial year under the proposed bill?",
+     "options": [
+      "100 days",
+      "125 days",
+      "150 days",
+      "180 days"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Assertion (A): State governments can suspend the scheme for up to 60 days during sowing and harvesting seasons.\nReason (R): The suspension is meant to ensure availability of agricultural labour during these seasons.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Match List I with List II:\nI. Viksit Bharat National Rural Infrastructure Stack   ->   A. Property cards to rural households\nII. PM Gati Shakti   ->   B. Skilling, toolkits and credit linkage for artisans\nIII. SVAMITVA   ->   C. Infrastructure convergence with village plans\nIV. PM Vishwakarma   ->   D. Aggregates Viksit Gram Panchayat Plans for national planning",
+     "options": [
+      "I-C, II-D, III-B, IV-A",
+      "I-A, II-B, III-C, IV-D",
+      "I-A, II-D, III-C, IV-B",
+      "I-D, II-C, III-A, IV-B"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following statements about the VB-G RAM G Bill:\nI. Panchayats that underperform on development indicators may receive higher allocations.\nII. Works must align with five national priorities for durable asset creation.\nIII. Wages are envisaged to be paid weekly, instead of within a 15-day cycle.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "How many of the following statements about MGNREGA and the proposed bill are correct?\nI. MGNREGA was enacted in 2005.\nII. For most states, the Centre-State funding ratio under the bill is 60:40.\nIII. Under MGNREGA, the central government bears 100% of the cost of unskilled labour wages.\nIV. The bill envisages paying wages within 15 days of completion of work.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "What share of funding is borne by the Centre for North-Eastern and Himalayan States under the bill?",
+     "options": [
+      "60%",
+      "75%",
+      "90%",
+      "100%"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which of the following is NOT one of the four national priorities for durable asset creation under the bill?",
+     "options": [
+      "Water Security",
+      "Core Rural Infrastructure",
+      "Livelihood-related Infrastructure",
+      "Digital Banking Infrastructure"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Within how many days of a household's application must work be provided, failing which an unemployment allowance is payable?",
+     "options": [
+      "15 days",
+      "7 days",
+      "10 days",
+      "30 days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t02-1",
+   "type": "TITA",
+   "passage": "Rural employment policy is being reshaped to match changes in the countryside. A legal guarantee of work has long been the base of the framework, but critics have pointed to scattered works and to assets that did not last. The proposed replacement treats planning as a village-level exercise. Gram panchayats prepare plans for their areas, and those plans are meant to be linked with larger infrastructure programmes so that core rural infrastructure, water and livelihood works are coordinated rather than separate. The local plans are then combined into a national picture, which the government says will support coordinated planning across the country.\n\nBeyond wage work, the government runs several rural programmes. One helps self-help groups build self-employment and access finance. Another aims to build skills among rural youth. A further programme gives rural households records of their property, and another supports traditional artisans with skilling, toolkits and credit. Together, these measures are presented as part of a wider effort to promote livelihoods in villages.\n\nThe bill also seeks tighter monitoring. Officials plan to use digital tools, including biometric checks and data analytics, to reduce leakages and track work. Social audits are to be strengthened so that local communities can review how public money is spent.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many days of wage employment per rural household per financial year did MGNREGA guarantee? (in days)"
+    },
+    {
+     "n": 2,
+     "q": "What percentage share of funding does the Centre bear for States and UTs other than North-Eastern and Himalayan States under the bill? (in per cent)"
+    },
+    {
+     "n": 3,
+     "q": "Under MGNREGA, within how many days of completion of work were wages to be paid? (in days)"
+    },
+    {
+     "n": 4,
+     "q": "Which system aggregates the Viksit Gram Panchayat Plans for coordinated national planning? (give the abbreviation)"
+    },
+    {
+     "n": 5,
+     "q": "Viksit Gram Panchayat Plans are integrated with which scheme for infrastructure convergence? (name of the scheme)"
+    },
+    {
+     "n": 6,
+     "q": "Which scheme gives property cards to rural households? (give the acronym)"
+    },
+    {
+     "n": 7,
+     "q": "In which year was MGNREGA enacted? (year)"
+    }
+   ]
+  }
+ ]
+}

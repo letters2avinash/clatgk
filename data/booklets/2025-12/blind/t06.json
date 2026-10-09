@@ -1,0 +1,217 @@
+{
+ "topic": "RBI Cuts Repo Rate to 5.25%: The Goldilocks Phase",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Dec 2025 Repo Rate Cut and Goldilocks Phase",
+   "summary": "In December 2025 the RBI cut the repo rate by 25 basis points to 5.25%, its fourth reduction in 2025. The RBI said the cut aims to sustain a Goldilocks phase of strong growth and low inflation. Inflation had fallen below the lower tolerance band, giving the central bank room to ease while growth stayed robust.",
+   "facts": [
+    "RBI cut the repo rate by 25 basis points to 5.25% in December 2025.",
+    "The December 2025 cut was the 4th reduction by RBI in 2025.",
+    "Total reduction by RBI in 2025 was 125 basis points.",
+    "Goldilocks phase means not too hot (high inflation) and not too cold (low growth).",
+    "Goldilocks phase enables balanced and sustainable expansion.",
+    "GDP growth was 8.2% in Q2 FY2025-26.",
+    "Inflation was 1.7% in Q2 and dipped to 0.3% in October 2025.",
+    "Inflation fell below the 2% lower tolerance band of the RBI framework.",
+    "Reasons for cut: sustained disinflation, strong growth momentum, external risks."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Repo Rate Transmission and Other Instruments",
+   "summary": "The repo rate is the rate at which RBI lends to commercial banks, and it moves borrowing costs across the economy. RBI raises it to curb spending when inflation is high and lowers it to pump money in during a liquidity crunch. Other tools include the reverse repo rate, Bank Rate, MSF, CRR, SLR and open market operations.",
+   "facts": [
+    "Repo stands for 'Repurchasing Option' or 'Repurchase Agreement'.",
+    "Repo rate is the rate at which RBI lends money to commercial banks.",
+    "Reverse repo rate is the rate at which RBI borrows money from commercial banks.",
+    "In high inflation, RBI increases the repo rate to reduce the flow of money.",
+    "A higher repo rate makes loans costlier for banks and borrowing costly for businesses.",
+    "In a short-term liquidity crunch, RBI lowers the repo rate to pump funds into the economy.",
+    "Bank Rate is a long-term rate at which the central bank lends to other banks.",
+    "MSF is a window for banks to borrow overnight funds at a higher rate than the repo rate.",
+    "CRR is the proportion of deposits banks must hold as cash with RBI.",
+    "SLR is the minimum share of deposits banks must hold as liquid cash, gold or other securities.",
+    "Open market operations: purchase or sale of government securities to inject or absorb liquidity."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Monetary Policy Committee and Inflation Targeting",
+   "summary": "The MPC is a statutory body that sets the benchmark policy rate needed to contain inflation within the target range. It has six members, the RBI Governor chairs it ex officio, and decisions are taken by majority vote with the Governor holding a casting vote in a tie. India's flexible inflation targeting uses a 4% target with a 2% tolerance band, formalised by the Urjit Patel Committee (2014).",
+   "facts": [
+    "The MPC is a statutory body under the RBI Act, 1934.",
+    "The Central Government is empowered to constitute a six-member MPC.",
+    "MPC members: RBI Governor, Deputy Governor in charge of monetary policy, one RBI officer nominated by the central board, and three members appointed by the Central Government.",
+    "The RBI Governor is the ex-officio chairperson of the MPC.",
+    "The MPC must meet at least four times a year.",
+    "Quorum is four members, including the RBI Governor or, in his absence, the Deputy Governor.",
+    "Decisions are by majority vote; the Governor has a casting vote in a tie.",
+    "MPC decisions are binding on banks.",
+    "Inflation target is 4% with a 2% band (2% to 6%).",
+    "India adopted flexible inflation targeting in 2016.",
+    "Urjit Patel Committee (2014) formalised inflation targeting; the target was first proposed by the Chakravarty Committee (1982-85).",
+    "The inflation target is set by the government in consultation with RBI every 5 years.",
+    "RBI releases a Monetary Policy Report every six months, forecasting inflation 6-18 months ahead."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Inflation Measures: CPI, WPI and GDP Deflator",
+   "summary": "Inflation is an increase in the overall prices of goods and services in an economy over time, and it is tracked through several indices. CPI measures retail inflation and covers both goods and services, while WPI covers only goods and reflects wholesale prices. The GDP deflator compares annual production value at current prices with a base year.",
+   "facts": [
+    "Inflation is an increase in the overall prices of goods and services in an economy over time.",
+    "CPI measures inflation in the retail market.",
+    "CPI has a base year of 2012.",
+    "CPI is released by the National Statistical Office (NSO).",
+    "CPI includes both goods and services.",
+    "CPI reflects up-to-date expenditure patterns.",
+    "WPI includes only goods and does not consider the services sector.",
+    "WPI is released by the Office of Economic Advisor, Ministry of Commerce and Industry.",
+    "GDP deflator compares annual production value at current prices to a base year."
+   ]
+  },
+  {
+   "i": 4,
+   "title": "RBI: Origins and Core Functions",
+   "summary": "The RBI is the central bank responsible for managing India's financial system. It was established on April 1 in Calcutta, was later nationalised from private stakeholders, and performs supervisory, monetary, currency and banking roles. Its concept was inspired by Dr. Ambedkar's strategies in his book on the rupee.",
+   "facts": [
+    "RBI is the central bank responsible for managing the country's financial system.",
+    "RBI's concept was inspired by Dr. Ambedkar's strategies in his book 'The Problem of the Rupee'.",
+    "RBI was established on April 1 in Calcutta.",
+    "RBI was nationalised; it was previously owned by private stakeholders.",
+    "Supervisory function: issue bank licences, open branches, set minimum reserves and inspect commercial banks.",
+    "Monetary authority: maintain price stability while promoting economic growth.",
+    "Issuer of currency: exchanges and destroys currency notes.",
+    "Manager of foreign exchange and custodian of India's forex reserves.",
+    "Lender of last resort and banker to the government and to other banks.",
+    "Custodian of the cash reserves of commercial banks.",
+    "Regulates the forex market through exchange rules."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t06-0",
+   "type": "MCQ",
+   "passage": "In December 2025, the Reserve Bank of India (RBI) cut the policy repo rate to 5.25 per cent. The move was intended to sustain what the RBI called a Goldilocks phase, a balanced condition that is neither too hot nor too cold. In such a phase, the economy grows strongly while inflation stays low. Monetary policy works through the repo rate in both directions. When inflation rises, the central bank can make borrowing costly, which curbs excessive spending and slows investment. When the economy needs more money, the central bank lowers the rate, so that loans become cheaper for banks, which then pass lower interest rates on to borrowers and businesses. The December cut was justified on three grounds. Inflation had fallen sharply below the lower end of the target range, which created room for easing without risking price instability. Growth also remained robust despite global uncertainties. Finally, global trade headwinds and other external pressures made a pre-emptive stimulus useful in offsetting a slowing expansion. Lower rates are expected to boost lending, consumption and investment. They may, however, weaken the rupee and reduce returns on fixed deposits, which could discourage household savings. The rate decision itself is taken by a statutory body called the Monetary Policy Committee, which works within India's flexible inflation-targeting framework.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "By how many basis points did the RBI cut the repo rate in December 2025?",
+     "options": [
+      "50 basis points",
+      "25 basis points",
+      "75 basis points",
+      "100 basis points"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What was the total reduction in the repo rate by the RBI during 2025, in basis points?",
+     "options": [
+      "100 basis points",
+      "150 basis points",
+      "125 basis points",
+      "175 basis points"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Consider the following assertion and reason.\nAssertion (A): The RBI lowers the repo rate when it needs to pump funds into the economy.\nReason (R): A lower repo rate makes loans cheaper for banks, which lowers interest rates for borrowers.\nChoose the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. Repo Rate   ->   A. Window for banks to borrow overnight funds at higher rate than repo\nII. Bank Rate   ->   B. Share of deposits banks must hold as cash with RBI\nIII. Cash Reserve Ratio   ->   C. Long-term rate at which central bank lends to other banks\nIV. Marginal Standing Facility   ->   D. Rate at which RBI lends money to commercial banks",
+     "options": [
+      "I-C, II-B, III-A, IV-D",
+      "I-A, II-D, III-C, IV-B",
+      "I-C, II-A, III-B, IV-D",
+      "I-D, II-C, III-B, IV-A"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about the repo and related rates.\nI. The repo rate is the rate at which RBI lends money to commercial banks.\nII. The reverse repo rate is the rate at which RBI borrows money from commercial banks.\nIII. The Bank Rate is a short-term rate at which RBI lends money to other banks.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements about the Monetary Policy Committee are correct?\nI. The MPC is required to meet at least four times in a year.\nII. The quorum for an MPC meeting is five members.\nIII. The RBI Governor has a casting vote in case of a tie.\nIV. MPC decisions are taken by unanimous vote.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "What was India's GDP growth rate in Q2 FY2025-26, as cited in the booklet?",
+     "options": [
+      "8.2%",
+      "7.5%",
+      "9.0%",
+      "6.8%"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "What was India's inflation rate in October 2025, as cited in the booklet?",
+     "options": [
+      "1.7%",
+      "2.0%",
+      "4.0%",
+      "0.3%"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t06-1",
+   "type": "TITA",
+   "passage": "India's monetary policy is framed within an inflation-targeting system. The Reserve Bank of India manages the money supply to achieve economic growth, which is different from fiscal policy handled by the Ministry of Finance. A statutory committee within the RBI decides the benchmark policy rate needed to keep inflation within a targeted range. The Central Government is empowered to constitute this committee, and its decisions are taken by majority vote. The Governor chairs it ex officio, and its decisions are binding on banks. India moved to flexible inflation targeting after an earlier expert panel formally set the target and its band. The inflation target is set by the government in consultation with the RBI. The RBI also releases a periodic report that explains the sources of inflation and its forecasts.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many members does the Monetary Policy Committee have? (number)"
+    },
+    {
+     "n": 2,
+     "q": "What is the minimum number of times the MPC must meet in a year? (number)"
+    },
+    {
+     "n": 3,
+     "q": "In the event of a tie in MPC voting, whose vote decides the outcome? (name the post)"
+    },
+    {
+     "n": 4,
+     "q": "Which committee formalised inflation targeting in India? (name)"
+    },
+    {
+     "n": 5,
+     "q": "What is the inflation target under India's framework? (in per cent)"
+    },
+    {
+     "n": 6,
+     "q": "In which year did India adopt flexible inflation targeting? (year)"
+    },
+    {
+     "n": 7,
+     "q": "What is the tolerance band on either side of the inflation target? (in percentage points)"
+    }
+   ]
+  }
+ ]
+}
