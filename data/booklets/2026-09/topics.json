@@ -1,0 +1,19 @@
+[
+  {"key": "t01_houthi_mokha", "title": "Houthi Rebels Capture Strategic Port City Mokha in Yemen", "chapter": "International Relations and News", "start": 5, "end": 10},
+  {"key": "t02_indus_waters_hague", "title": "India Rejects Hague Court Ruling on Indus Waters Treaty", "chapter": "International Relations and News", "start": 11, "end": 17},
+  {"key": "t03_cardiff_pact", "title": "Cardiff Pact and UK Federal Challenge", "chapter": "International Relations and News", "start": 18, "end": 25},
+  {"key": "t04_lindsey_graham_act", "title": "Lindsey O. Graham Sanctioning Russia and Iran Act 2026", "chapter": "International Relations and News", "start": 26, "end": 29},
+  {"key": "t05_pakistan_china_boundary", "title": "India Rejects Pakistan - China Boundary Joint Commission", "chapter": "International Relations and News", "start": 30, "end": 38},
+  {"key": "t06_map_projections", "title": "From Mercator to Equal Earth: Evolution of World Map Projections", "chapter": "International Relations and News", "start": 39, "end": 44},
+  {"key": "t07_chief_election_commissioner", "title": "Removal of Chief Election Commissioner", "chapter": "National News and Issues", "start": 45, "end": 54},
+  {"key": "t08_semicon_india_2026", "title": "SEMICON India 2026", "chapter": "Polity & Governance", "start": 55, "end": 59},
+  {"key": "t09_npci_upi_mdr", "title": "NPCI Introduces MDR on UPI Transactions", "chapter": "Economics", "start": 60, "end": 64},
+  {"key": "t10_brics_summit_2026", "title": "18th BRICS Summit 2026", "chapter": "Summits, Reports, Indices", "start": 65, "end": 70},
+  {"key": "t11_sco_summit_2026", "title": "26th SCO Summit 2026", "chapter": "Summits, Reports, Indices", "start": 71, "end": 76},
+  {"key": "t12_unga_81", "title": "81st United Nations General Assembly", "chapter": "Summits, Reports, Indices", "start": 77, "end": 82},
+  {"key": "t13_global_gender_gap_2026", "title": "Global Gender Gap Index 2026", "chapter": "Summits, Reports, Indices", "start": 83, "end": 89},
+  {"key": "t14_swachh_vayu_sarvekshan_2026", "title": "Swachh Vayu Sarvekshan 2026", "chapter": "Environment & Biodiversity", "start": 90, "end": 95},
+  {"key": "t15_eos_05", "title": "EOS-05: India's 1st dedicated GEO Satellite", "chapter": "Sports, S&T & Defence", "start": 96, "end": 102},
+  {"key": "t16_miscellaneous", "title": "Miscellaneous", "chapter": "Miscellaneous", "start": 103, "end": 116},
+  {"key": "t17_ailet_corner", "title": "AILET Corner", "chapter": "AILET Corner", "start": 117, "end": 122}
+]

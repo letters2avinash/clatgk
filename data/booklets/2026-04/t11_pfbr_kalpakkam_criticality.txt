@@ -1,0 +1,258 @@
+=== PAGE 52 ===
+  
+PFBR AT  
+KALPAKKAM  
+ACHIEVED  
+CRITICALITY  
+  
+Why in News?  
+  
+India's Prototype Fast Breeder Reactor at Kalpakkam achieved 1st Criticality (Self— Sustaining Nuclear Chain Reaction),  
+marking Entry into Stage II of Nuclear Programme.  
+  
+India became 2nd Nation after Russia to operate a Commercial — scale Fast Breeder Reactor.  
+  
+Criticality in Nuclear Reactors  
+e = Refers to State of a Nuclear Reactor when Nuclear Fission Chain Reaction is Self—Sustaining.  
+e Depends on Neutron Population Balance in Reactor Core.  
+¢ = Multiplication Factor (k): Ratio of Number of Neutrons in One Generation to Number of Neutrons in Previous  
+Generation.  
+© = Types of Criticality  
+o — Subcritical State (k \< 1): Neutron Population Decreases over time; Chain reaction Dies out.  
+0° Critical State (k = 1): Neutron Population remains Constant. Chain reaction is Steady and Self— Sustaining.  
+  
+o Supercritical State (k \> 1): Neutron Population Increases exponentially; Power Output rises rapidly.  
+  
+Key Technical Features  
+  
+e Fuel Type: Uses Mixed Oxide (MOX = Plutonium + Uranium) 9 o\> 77077070  
+derived from Reprocessed Spent Fuel. PFBR  
+  
+e Breeder Mechanism: Core Surrounded by Uranium — 238 ° Type: Fast Breeder Reactor  
+  
+Blanket.  
+o Converts: U—238 — Plutonium—239  
+  
+o Uses Fast Neutrons to Produce More  
+Nuclear Fuel than it Consumes while  
+Generating Power.  
+  
+© Capacity: 500 MWe  
+  
+o Result: Produces More Fuel than it Consumes.  
+e Designed By: Indira Gandhi Centre for Atomic \\  
+  
+¢ Coolant System: Uses Liquid Sodium  
+  
+o Advantages High Thermal Conductivity does Not Slow Research  
+  
+Neutrons. e Built By: Bharatiya Nabhikiya Vidyut Nigam  
+. Limited (BHAVINI)  
+e Waste Reduction: Recycles Spent Fuel from Stage I Reactors.  
+. e Nodal Agency: Department of Atomic Energy  
+o Reduces Nuclear Waste Volume and Long — Term Radio — (1948)  
+  
+Toxicity ne eee ee ee ee ee ee eee ee eee - eee?  
+  
+"s. April 2026  
+  
+\=, TOPIC  
+“inNEWS  
+  
+e Energy Efficiency: Extracts \~60 times More Energy from Natural Uranium compared to Traditional Pressurized Heavy  
+  
+Water Reactors (PHWRs).  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099  
+  
+48  
+  
+\
+=== PAGE 53 ===
+  
+LAW PREP  
+  
+Current Affairs April 2026\_S\&T, Defence, Space \[= Tutorial\]  
+India’s 3 — Stage Nuclear Power Programme  
+Formulated by Homi Jehangir Bhabha, aims to achieve Long — Term Energy Security using Uranium and Thorium  
+Resources.  
+Stage I Stage II Stage III  
+Reactor Type PHWR Fast Breeder Reactor Advanced HWR / Thermal Breeder  
+Fuel Natural Uranium MOX (Pu — 239 + U — 238) U — 233 from Thorium  
+Coolant Heavy Water Liquid Sodium Light Water  
+Moderator Heavy Water None Heavy Water  
+Breeding Pu— 239 Pu — 239 + U— 233 U-233  
+  
+Strategic Significance  
+e Energy Security: Maximises Use of Limited Uranium Reserves and Unlocks India's vast Thorium Reserves (Stage Ll).  
+e Closed Fuel Cycle: Ensures Recycling of Nuclear Fuel and Reduces Waste and Import Dependence.  
+e Technological Advancement: Positions India among Global Leaders in Advanced Nuclear Technology.  
+  
+¢ Climate Goals: Supports Clean, Low— Carbon Energy Transition.  
+  
+Narora Atomic Power Plant  
+  
+Kudankulam Nuclear Power Station  
+  
+FACTS  
+  
+Q Presently, India has 24 nuclear power reactors operating in 6 states, with an installed capacity of 8780 MegaWatt electric (MWe).  
+  
+Q Activities concerning the establishment and utilization of nuclear facilities and use of radioactive sources are carried out in India in  
+accordance with the Atomic Energy Act, 1962.  
+  
+Q Atomic Energy Regulatory Board (AERB) regulates nuclear & radiation facilities and activities.  
+  
+© Newest & Largest Nuclear Power Plant: Kudankulam Power Plant, Tamil Nadu.  
+  
+O First & Oldest Nuclear Power Plant: Tarapur Power Plant, Maharashtra.  
+  
+Skill — Up: SHANTI Act 2025, NPCIL, ASHVINI Joint Venture, Kakrapar, Apsara, CIRUS, International  
+Atomic Energy Agency, NPT, NSG, New START  
+  
+www.lawpreptutorial.com | Frollowusnow 8B@O@ 49  
+  
+\
+=== PAGE 54 ===
+  
+Current Affairs April 2026\_S\&T, Defence, Space — Tutorial —  
+  
+10\.  
+  
+ll.  
+  
+LAW PREP  
+  
+www lawpreptutorial.com  
+  
+PRACTICE QUESTIONS  
+  
+What milestone did India's Prototype Fast Breeder Reactor (PFBR) at Kalpakkam achieve?  
+(a) First Grid Connectivity (b) Full Commercial Operation  
+(c) First Criticality (d) First Fuel Loading  
+  
+The PFBR achieving criticality marks India's entry into which Stage of its Nuclear Programme?  
+(a) Stage I (b) Stage II (c) Stage III (d) Stage IV  
+  
+By operating a Commercial-scale Fast Breeder Reactor, India became which nation to do so?  
+(a) 1" (b) 2nd (c) 3" (d) 4"  
+  
+What type of fuel does the PFBR use?  
+(a) Natural Uranium only (b) Enriched Uranium  
+(c) Thorium-232 (d) Mixed Oxide  
+  
+What surrounds the core of the PFBR as a Breeder Mechanism?  
+(a) Thorium-232 Blanket (b) Plutonium-239 Blanket  
+(c) Uranium-238 Blanket (d) Heavy Water Blanket  
+  
+Through its Breeder Mechanism, the PFBR converts U-238 into which isotope?  
+(a) Uranium-235 (b) Thorium-232  
+(c) Uranium-233 (d) Plutonium-239  
+  
+What is the unique output characteristic of a Fast Breeder Reactor?  
+(a) It produces no nuclear waste (b) It consumes more fuel than it produces  
+(c) It produces more fuel than it consumes (d) It only generates electricity with zero radiation  
+  
+Which coolant system does the PFBR use?  
+(a) Heavy Water (b) Light Water (c) Carbon Dioxide Gas (d) Liquid Sodium  
+  
+Why is Liquid Sodium preferred as a coolant in the PFBR?  
+  
+(a) It is cheaply available and non-reactive  
+  
+(b) It slows neutrons effectively for fission  
+  
+(c) It absorbs radiation completely  
+  
+(d) It has High Thermal Conductivity and does not slow neutrons  
+  
+India's 3-Stage Nuclear Power Programme was formulated by which scientist?  
+(a) APJ Abdul Kalam (b) Vikram Sarabhai (c) Homi Jehangir Bhabha (d) Raja Ramanna  
+  
+What is the primary long-term goal of India's 3-Stage Nuclear Power Programme?  
+(a) Achieve nuclear weapons capability  
+  
+(b) Join the Nuclear Suppliers Group  
+  
+(c) Achieve Long-Term Energy Security using Uranium and Thorium Resources  
+(d) Develop space-based nuclear propulsion  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099 50  
+  
+\
+=== PAGE 55 ===
+  
+Current Affairs April 2026\_S\&T, Defence, Space — Tutorial —  
+  
+12\.  
+  
+13\.  
+  
+14,  
+  
+LAW PREP  
+  
+www lawpreptutorial.com  
+  
+Which type of reactor is used in Stage I of India's Nuclear Programme?  
+(a) Fast Breeder Reactor (b) Advanced Heavy Water Reactor  
+(c) Light Water Reactor (d) Pressurised Heavy Water Reactor  
+  
+Which fuel will be used in Stage III of India's Nuclear Programme?  
+(a) Natural Uranium (b) Plutonium-239  
+(c) Enriched Uranium-235 (d) Uranium-233 from Thorium  
+  
+What moderator is used in Stage I (PHWR) of India's Nuclear Programme?  
+(a) Graphite (b) Light Water (c) Heavy Water (d) Beryllium  
+  
+Which isotope is bred in Stage III of India's Nuclear Programme?  
+(a) Plutonium-239 (b) Uranium-238 (c) Uranium-235 (d) Uranium-233  
+  
+gg QUICKBYTE-NEWS IN A MINUTE |  
+  
+Bloomberg News published Bloomberg Billionaires Index 2026, ranking World's 500 Wealthiest Individuals.  
+  
+o Gautam Adani became Richest in Asia, surpassing Mukesh Ambani, ranking 19th globally as Ambani stands  
+20th.  
+  
+o World's Richest Persons: Elon Musk followed by Larry Page and Jeff Bezos.  
+  
+i=) QUICKBYTE-NEWS INA MINUTE |  
+  
+Mukesh Nelavalli and Palak Gulia won Gold in Mixed Team 10m Air Pistol at International Shooting Sport  
+Federation World Cup 2026 in Granada, Spain.  
+  
+o China tops Medal Tally with 13 Medals (8G), followed by Germany and India (1G).  
+  
+India finished 5" at 22™ Senior Asian Wrestling Championships in Bishkek (Kyrgyzstan) with 17 Medals (2 G, 6 S,  
+9B).  
+  
+o. Iran tops standings followed by Japan and China.  
+  
+International Day of Sport for Development and Peace observed on Apr 6 to promote Peace, Inclusion, Human  
+Rights and Sustainable Development through Sports.  
+  
+o 2026 Theme: “Sport: Building Bridges, Breaking Barriers”.  
+  
+Athletics Integrity Unit upgraded Athletics Federation of India to Category A (Countries with Very High Doping  
+Violations), India placed in Highest Doping Risk Category.  
+  
+o Athletics Integrity Unit, established in 2017 under World Athletics, oversees Anti — Doping Enforcement,  
+Integrity and Compliance; HQ in Monaco.  
+  
+Khelo India Tribal Games 2026 held in Chhattisgarh.  
+  
+o Karnataka tops Medal Tally with 38 Medals (23 G, 8 S, 7 B) followed by Odisha (57: 21 G, 15 S, 21 B) and  
+Jharkhand (35: 16 G, 8S, 11 B).  
+  
+Chingleput Doraikannu Gopinath, India's Oldest Living Test Cricketer, passed away at 96; 2" Oldest Globally after  
+Neil Harvey (97 years, 183 days).  
+  
+o Chandu Patankar became Oldest Living India Test Cricketer following demise of CD Gopinath.  
+  
+Asian Boxing Championships 2026 held in Ulaanbaatar, Mongolia; Kazakhstan topped Medal Tally as India  
+finished 2nd with 16 Medals (5 G), followed by Uzbekistan.  
+  
+www.lawpreptutorial.com | Frollowusnow 8B@O@ 51  
+  
+\

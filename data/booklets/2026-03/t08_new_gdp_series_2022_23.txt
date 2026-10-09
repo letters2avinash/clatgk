@@ -1,0 +1,412 @@
+=== PAGE 50 ===
+  
+i. March 2026  
+  
+\= TOPIC  
+“inNEWS  
+  
+NEW GDP SERIES  
+RELEASED WITH  
+BASE YEAR REVISED  
+TO 2022 - 23  
+  
+Why in News?  
+  
+1\.  
+  
+Ministry of Statistics and Programme Implementation (Rao Inderjit Singh) released New National Accounts Series,  
+Revised Gross Domestic Product Base Year to 2022 —23 with Improved Estimation Methods.  
+  
+New GDP Series aligns with System of National Accounts 2008 and International Monetary Fund Quarterly National  
+Accounts Manual 2017.  
+  
+2026 Revision marked 8th Base Year Revision since 1948 —49, Last updated to 2011 —12in2015.  
+  
+Ist National Income Estimates for India compiled in 1949 by National Income Committee led by PC Mahalanobis,  
+published in 1956 under Central Statistical Organisation.  
+  
+Major Economic Implications  
+¢ GDP Growth Rate Increased: Real GDP Growth revised upward to 7.6% for FY 2025 — 26.  
+¢ Nominal GDP down by 3.3 — 3.8% to 345.47 Lakh Crore for FY 2025 — 26.  
+Le Fiscal Deficit Increased (as % of GDP): Revised: 4.51% | Earlier: 4.36%  
+e¢ Debt—to—GDP Ratio Increased: Revised Estimate: 57.5% (FY 2026 — 27) | Earlier Target: 55.6%  
+  
+Base Year  
+  
+Serves as Benchmark Reference Point for comparing Economic Indicators, Price Changes and Statistical Trends and  
+Provides Reference to measure Real Changes in GDP, CPI and IIP over time.  
+  
+Removes Inflation Effect, Enables Accurate Index Creation and Reflects Current Economic Structure, Consumption  
+  
+Patterns and Price Trends  
+  
+Why Base Year Revision is Necessary?  
+  
+¢ = Reflect Structural Economic Changes: India's Economy has changed significantly due to Digital Services  
+Expansion, Renewable Energy Growth, Changing Consumption Patterns.  
+  
+i e — Align with International Standards: Periodic Revision follows guidelines of United Nations Statistical  
+  
+Commission.  
+  
+¢ = Improve Accuracy and Credibility: Ensures GDP reflects Current Production Structure and Economic  
+  
+Realities.  
+  
+Key Changes in New GDP Series  
+  
+New Base Year: 2022 — 23  
+e Earlier Base Year: 2011 — 12  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099 48  
+  
+\
+=== PAGE 51 ===
+  
+LAW PREP  
+  
+— Tutorial—  
+www.lawpreptutorial.com  
+  
+Current Affairs March 2026\_Economics  
+  
+¢ Selected because it represents Most Recent Normal Economic Year after COVID — 19 Disruptions & reflect Current  
+Economic Structure, including Digital Economy and New Sectors.  
+  
+2\. Improved Data Sources  
+  
+e New Series integrates High — Frequency and Administrative Datasets including GST Collection, Vehicle Registration  
+Data, Public Financial Management System, Annual Survey of Unincorporated Sector Enterprises, Periodic Labour  
+Force Survey.  
+  
+¢ This improves coverage of Informal Sector, Gig Economy, Household Enterprises, Digital Economic Activities  
+  
+3\. Adoption of Double Deflation Method  
+  
+e Earlier: Single Deflation (Single Deflation Adjusts Only Output Prices)  
+Sectoral Growth Trends in FY26  
+  
+Primary: 2.8% from 5% in FY25.  
+  
+Secondary: 9.5% from 7.3% in  
+FY25.  
+  
+Tertiary: 8.9% from 8.3% in FY25.  
+  
+¢ Double Deflation adjusts Both Output Prices & Input Prices  
+  
+o Result: More Accurate Measurement of Real Value Addition in  
+  
+Manufacturing and Agriculture.  
+  
+4\. Improved Government Sector Accounting  
+  
+¢ GDP now includes National Pension System and Old Pension Scheme.  
+o This ensures more accurate estimation of government finances.  
+5\. Inclusion of Gig Economy and Domestic Workers  
+  
+¢ New GDP series now captures Platform Workers, Digital Economy Participants, Hired Domestic Workers.  
+  
+GOP AND RELATED TERM  
+  
+GROSS DOMESTIC PRODUCT (GDP): ————=  
+@ Total monetary value of all finished goods/services produced  
+  
+oa ye ithir itry ir  
+Activity Measurement, Providing More aan Dee  
+®3 methods to calculate GDP - expenditures, production,  
+  
+Reliable Real GDP Growth Estimates. income Method  
+  
+Provides an economic snapshot to estimate a country’s  
+  
+@  
+  
+Implications of New Base Year  
+Improved Methodologies and Granular }  
+  
+Data enhance Accuracy of Economic  
+  
+Revised Framework better captures Digital  
+  
+‘economy/growth rate  
+  
+Services, Platform Economy and Gig Work; ®GDP is not an accurate measure of the overall living standard/  
+well-being of a country  
+GDP = Goods and services consumed (C) + Investments (I) + Govt  
+  
+‘expenditures(@) + (Exports(X) - Imports(M))  
+  
+Improving Measurement of Emerging  
+Sector Contributions  
+  
+Lower Nominal GDP Estimates may Raise  
+Fiscal Deficit and Debt — to — GDP Ratios  
+despite Unchanged Absolute Deficit Levels.  
+More Accurate Economic Data enhances  
+Policy Formulation, Enabling Better  
+  
+1 Inflation-adjusted @DP  
+  
+Includes inflation/pace of More accurate reflection of the  
+rising prices ‘output of an economy than NGDP  
+  
+Used to compare different Used to compare GDP of  
+quarters of output (in same I 2 or more years  
+  
+i) ' :  
+| Galoulated using a GDP Price  
+Deflator  
+  
+(rao GOP Ds  
+  
+1 GDP at current prices  
+Planning and Investment Decisions for  
+  
+Policymakers, Investors and Businesses.  
+  
+Statistical Reforms Modernise India's Data  
+System through updated CPI, IIP and WPI  
+Base Years strengthening National  
+  
+GDP Price Deflator = (NGDP + RGDP) \*100  
+Framework.  
+  
+Example: Assume a country that only produces bread  
+  
+/S Year 2021: It produced 100 units of bread @ price Rs 10 (each)  
+Then, GDP @ current price - Rs 1000  
+¥ Year 2022: It produced 110 units of bread @ price Rs 15 (each)  
+Then, GDP @ current price - Rs 1650  
+RGDP for year 2022 (base year - 2021) = 110 x Rs 10 = Rs 1,100  
+Here, GDP Deflator would be \~ 1,650 + 1,400 = 4.50 (or 150%)  
+  
+www.lawpreptutorial.com | FollowusNow B@O@  
+  
+pr  
+Corporations native to a country  
+  
+Includes those based abroad (by native  
+but not foreign-owned domestic production  
+  
+all income earned by citizens/nationals  
+  
+domestic income + taxes  
+\+ depreciation +  
+  
+@op ——-“— nop  
+; +d y  
+  
+\+(NFIA) +(NFIA)  
+  
+NNP  
+\[Eadepreciation \[NG5T:NEINet Factor Income from Abroad  
+1912 Net National Product ItT-72EINet Domestic Product  
+  
+© GDP at FC = GDP at MP + Subsidies - indirect Taxes  
+“VP = GVAx MP  
+GDP at MP is the measure of GDP in India  
+  
+The @ GDP + subsidies on products  
+  
+49  
+  
+\
+=== PAGE 52 ===
+  
+Current Affairs March 2026\_Economics  
+  
+10\.  
+  
+LAW PREP  
+  
+— Tutorial—  
+www.lawpreptutorial.com  
+  
+PRACTICE QUESTIONS  
+  
+Which Ministry released the New National Accounts Series with a revised GDP Base Year?  
+(a) Ministry of Finance  
+  
+(b) Ministry of Commerce and Industry  
+  
+(c) Ministry of Statistics and Programme Implementation  
+  
+(d) Ministry of Economic Affairs  
+  
+What is the new Base Year adopted in the revised GDP Series released in 2026?  
+(a) 2018-19 (b) 2019-20 (c) 2020-21 (d) 2022-23  
+  
+What was the previous Base Year used in India's GDP calculations before the 2026 revision?  
+(a) 2004-05 (b) 2007-08 (c) 2011-12 (d) 2014-15  
+  
+The 2026 revision marks which Base Year revision since 1948-49?  
+  
+When was the last Base Year revision done before 2026?  
+(a) 2010 (b) 2012 (c) 2015 (d) 2018  
+  
+The new GDP Series aligns with which international standard for national accounts?  
+  
+(a) System of National Accounts 2003 and IMF Manual 2010  
+  
+(b) System of National Accounts 2008 and IMF Quarterly National Accounts Manual 2017  
+(c) System of National Accounts 2012 and World Bank Guidelines 2015  
+  
+(d) System of National Accounts 2015 and OECD Framework 2018  
+  
+Who compiled the first National Income Estimates for India, and in which year?  
+(a) B.R. Ambedkar, 1947 (b) C.D. Deshmukh, 1948  
+(c) PC Mahalanobis, 1949 (d) Jawaharlal Nehru, 1950  
+  
+When were India's first National Income Estimates published?  
+(a) 1950 (b) 1952 (c) 1954 (d) 1956  
+  
+Under which organisation were India's first National Income Estimates published?  
+(a) Reserve Bank of India (b) Planning Commission of India  
+(c) Central Statistical Organisation (d) National Statistical Office  
+  
+Why was 2022-23 specifically chosen as the new Base Year?  
+  
+(a) It was the year India crossed the $3 trillion GDP mark  
+  
+(b) It represents the most recent normal economic year after COVID-19 disruptions and reflects the current  
+economic structure  
+  
+(c) It coincides with India's 75th Independence anniversary  
+  
+(d) It was recommended by the International Monetary Fund  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099 50  
+  
+\
+=== PAGE 53 ===
+  
+Current Affairs March 2026\_Economics  
+  
+ll.  
+  
+12\.  
+  
+13\.  
+  
+14\.  
+  
+16\.  
+  
+17\.  
+  
+LAW PREP  
+  
+— Tutorial—  
+www.lawpreptutorial.com  
+  
+Which of the following is NOT listed as one of the new High-Frequency and Administrative Datasets integrated into  
+the new GDP series?  
+  
+(a) GST Collection data (b) Vehicle Registration Data  
+  
+(c) Foreign Exchange Reserve data (d) Periodic Labour Force Survey  
+  
+What is the Public Financial Management System data used for in the new GDP series?  
+(a) Tracking foreign investment flows  
+  
+(b) Improving coverage of informal sector and digital economic activities  
+  
+(c) Calculating inflation indices  
+  
+(d) Measuring household consumption patterns  
+  
+What is the key difference between the Double Deflation Method and the earlier Single Deflation Method?  
+(a) Single deflation uses annual data; double deflation uses quarterly data  
+  
+(b) Single deflation adjusts only output prices; double deflation adjusts both output and input prices  
+  
+(c) Single deflation covers only agriculture; double deflation covers all sectors  
+  
+(d) Single deflation is used for manufacturing; double deflation is used for services  
+  
+What is the result of adopting the Double Deflation Method in the new GDP series?  
+  
+(a) Faster release of quarterly GDP data  
+  
+(b) More accurate measurement of real value addition in manufacturing and agriculture  
+(c) Better tracking of foreign trade statistics  
+  
+(d) Improved calculation of per capita income  
+  
+Which pension schemes are now included in GDP accounting under the improved government sector accounting?  
+(a) Atal Pension Yojana and PM-SYM (b) Employee Provident Fund and Gratuity  
+(c) National Pension System and Old Pension Scheme (d) PM Jan Dhan Yojana and PM Jeevan Jyoti Bima  
+  
+What primary purpose does a Base Year serve in economic measurement?  
+  
+(a) Setting tax rates for the financial year  
+  
+(b) Providing a benchmark reference point for comparing economic indicators and measuring real changes in  
+GDP, CPI and IIP  
+  
+(c) Determining foreign exchange rates  
+  
+(d) Setting interest rates by the Reserve Bank of India  
+  
+Which of the following economic realities does the new Base Year 2022-23 better reflect compared to 2011-12?  
+(a) Post-liberalisation industrial growth (b) Pre-GST tax structure  
+(c) Digital Economy and New Sectors (d) Manufacturing-led export growth  
+  
+Which survey has been included as a new data source to improve GDP estimation?  
+(a) Annual Survey of Industries  
+  
+(b) Annual Survey of Unincorporated Sector Enterprises  
+  
+(c) National Sample Survey  
+  
+(d) Consumer Expenditure Survey  
+  
+www.lawpreptutorial.com | FoLLowUsSNow B@O@ 51  
+  
+\
+=== PAGE 54 ===
+  
+LAW PREP  
+  
+— Tutorial—  
+www\_lawpreptutorial.com  
+  
+Current Affairs March 2026\_Economics  
+  
+19\. The new GDP series now captures which categories of workers previously not adequately covered?  
+(a) Agricultural labourers and MSME workers  
+(b) Platform Workers, Digital Economy Participants and Hired Domestic Workers  
+(c) Contract workers in public sector undertakings  
+(d) Migrant workers and seasonal labourers  
+  
+20\. What key benefit does removing the inflation effect through Base Year revision provide?  
+(a) It increases nominal GDP automatically  
+(b) It enables accurate index creation and reflects current economic structure, consumption patterns and price  
+trends  
+(c) It reduces India's fiscal deficit on paper  
+(d) It helps attract more foreign direct investment  
+  
+&: QUICKBYTE-NEWS IN A MINUTE |  
+  
+e Union Government Unveils Decade-Long GARBH -— INi (Interdisciplinary Group for Advanced Research on Birth  
+  
+Outcomes) Programme Results at India Habitat Centre.  
+o GARBH — INi, India's Largest Pregnancy Cohort Study, led by Department of Biotechnology to Advance Research  
+on Birth Outcomes.  
+\= Garbhini — GA2: 1" Indigenous AI Model to Accurately Determine Fetal Age, developed by IIT Madras &  
+Translational Health Science and Technology Institute.  
+\= GARBH - INi—DRISHTI: Data — Sharing Platform provides Bio — Specimens and Clinical Data for Maternal  
+& Child Health Research.  
+e Indian Institute of Science and Pratiksha Trust launched 'Moonshot Project' to develop Brain Co — Processors for  
+Restoring Neurological Functions in Stroke Patients.  
+  
+Scan the code  
+to download  
+the answer key  
+of this month's  
+magazine.  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099 52  
+  
+\
