@@ -1,0 +1,370 @@
+{
+ "topic": {
+  "title": "Myanmar President's India Visit",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "Visit Outcomes",
+    "summary": "Myanmar's President Min Aung Hlaing made a five-day official visit to India, his first since the political transition in Myanmar. The talks produced commitments on border security, a currency settlement framework, connectivity projects and scholarships. Both sides reaffirmed the Kaladan project and agreed to expedite the Trilateral Highway.",
+    "facts": [
+     "Myanmar's President Min Aung Hlaing made a five-day official visit to India.",
+     "It was his first visit to India since the political transition in Myanmar.",
+     "Myanmar assured India that its territory would not be used by anti-India insurgent groups near the border.",
+     "Both sides agreed to promote greater use of the Rupee-Kyat settlement framework, operational since 2024.",
+     "Both countries reaffirmed their commitment to complete the Kaladan project at the earliest.",
+     "Efforts were announced to expedite the India-Myanmar-Thailand Trilateral Highway.",
+     "India increased the number of Mekong-Ganga ICCR scholarships for Myanmar students from 36 to 100."
+    ],
+    "keywords": ["Min Aung Hlaing", "counter-insurgency", "Rupee-Kyat", "Kaladan", "Trilateral Highway", "ICCR scholarships"]
+   },
+   {
+    "title": "Historical Background",
+    "summary": "Much of India's North-East was under Burmese occupation until the Treaty of Yandaboo, signed in 1826 to end the Anglo-Burmese War of 1824-1826. The treaty established the current India-Myanmar boundary. General Sir Archibald Campbell signed it on behalf of the British.",
+    "facts": [
+     "Much of India's North-East Region was under Burmese occupation until the Treaty of Yandaboo.",
+     "The Treaty of Yandaboo was signed in 1826.",
+     "The treaty ended the Anglo-Burmese War of 1824-1826.",
+     "General Sir Archibald Campbell signed the treaty on behalf of the British.",
+     "The treaty established the current India-Myanmar boundary."
+    ],
+    "keywords": ["Treaty of Yandaboo", "Anglo-Burmese War", "Archibald Campbell", "India-Myanmar boundary", "North-East"]
+   },
+   {
+    "title": "Strategic Importance and Relations",
+    "summary": "Myanmar is India's only ASEAN neighbour connected through both land and maritime boundaries, which makes it a geographic bridge to Southeast Asia. Cooperation with Myanmar is important for tackling insurgency, narcotics trafficking and cross-border crime. Ties are framed within India's Act East and Neighbourhood First policies.",
+    "facts": [
+     "Myanmar is India's only ASEAN neighbour connected through both land and maritime boundaries.",
+     "India shares a border of 1643 km with Myanmar across Arunachal Pradesh, Nagaland, Manipur and Mizoram.",
+     "India and Myanmar share a maritime boundary in the Bay of Bengal.",
+     "Myanmar acts as a bridge between South Asia and South-East Asia.",
+     "India and Myanmar signed a Treaty of Friendship in 1951.",
+     "Cooperation with Myanmar is critical for tackling insurgency, narcotics trafficking, illegal arms smuggling and cross-border crime.",
+     "Myanmar is a member of BIMSTEC, a SAARC observer and part of the Mekong-Ganga Cooperation.",
+     "Bilateral trade is conducted under the ASEAN-India Trade in Goods Agreement (AITIGA)."
+    ],
+    "keywords": ["Only ASEAN neighbour", "1643 km border", "Treaty of Friendship 1951", "BIMSTEC", "AITIGA", "Mekong-Ganga Cooperation"]
+   },
+   {
+    "title": "Connectivity Projects",
+    "summary": "The Kaladan Multi-Modal Transit Transport Project links Kolkata with Sittwe Seaport in Rakhine, Myanmar, via the Bay of Bengal. The India-Myanmar-Thailand Trilateral Highway runs from Moreh in Manipur through Myanmar to Mae Sot in Thailand. Both projects featured in the outcomes of the visit.",
+    "facts": [
+     "The Kaladan Multi-Modal Transit Transport Project links Kolkata with Sittwe Seaport in Rakhine, Myanmar.",
+     "The Kaladan project links India and Myanmar via the Bay of Bengal.",
+     "The India-Myanmar-Thailand Trilateral Highway is 1,360 km long.",
+     "The Trilateral Highway starts from Moreh in Manipur.",
+     "The Trilateral Highway passes through Myanmar before reaching Mae Sot in Thailand.",
+     "Both countries reaffirmed commitment to complete Kaladan at the earliest, and efforts to expedite the Trilateral Highway were announced."
+    ],
+    "keywords": ["Kaladan", "Sittwe", "Trilateral Highway", "Moreh", "Mae Sot", "1,360 km"]
+   },
+   {
+    "title": "Myanmar's Political Background",
+    "summary": "The military seized power in Myanmar on February 1, 2021, after alleging huge irregularities in the November parliamentary polls. Aung San Suu Kyi and other civilian leaders were taken into custody, and a one-year state of emergency was declared. The NLD had won landslide victories in 2015 and 2020.",
+    "facts": [
+     "The military seized power on February 1, 2021.",
+     "The military alleged huge irregularities in the November parliamentary polls.",
+     "The army declared a one-year state of emergency.",
+     "Myint Swe, a former general and the vice president, was to become acting president.",
+     "Aung San Suu Kyi and other civilian leaders were taken into custody hours before parliament was due to convene.",
+     "Internet and mobile phone communications were severely restricted and all banks were closed nationwide."
+    ],
+    "keywords": ["Myanmar coup", "state of emergency", "NLD", "Myint Swe", "Aung San Suu Kyi"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Myanmar President's India Visit overview",
+   "root": {
+    "label": "Myanmar President's India Visit",
+    "children": [
+     {"label": "Visit outcomes", "children": [
+       {"label": "Counter-insurgency assurance"},
+       {"label": "Rupee-Kyat settlement framework"},
+       {"label": "Kaladan project reaffirmed"},
+       {"label": "Trilateral Highway expedited"},
+       {"label": "ICCR scholarships: 36 to 100"}
+     ]},
+     {"label": "Historical background", "children": [
+       {"label": "Treaty of Yandaboo, 1826"},
+       {"label": "Ended Anglo-Burmese War, 1824-1826"}
+     ]},
+     {"label": "Strategic importance", "children": [
+       {"label": "Only ASEAN neighbour, land and maritime"},
+       {"label": "1643 km land border"},
+       {"label": "Bridge to South-East Asia"}
+     ]},
+     {"label": "Connectivity projects", "children": [
+       {"label": "Kaladan: Kolkata to Sittwe"},
+       {"label": "Trilateral Highway: Moreh to Mae Sot"}
+     ]},
+     {"label": "Political background", "children": [
+       {"label": "Military seized power, Feb 1, 2021"},
+       {"label": "One-year state of emergency"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Visit outcomes",
+   "root": {
+    "label": "Visit Outcomes",
+    "children": [
+     {"label": "Security", "children": [
+       {"label": "No territory for anti-India insurgents"}
+     ]},
+     {"label": "Economy", "children": [
+       {"label": "Rupee-Kyat settlement framework"}
+     ]},
+     {"label": "Connectivity", "children": [
+       {"label": "Kaladan project: early completion"},
+       {"label": "Trilateral Highway: expedite"}
+     ]},
+     {"label": "People", "children": [
+       {"label": "ICCR scholarships: 36 to 100"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Historical background",
+   "root": {
+    "label": "Historical Background",
+    "children": [
+     {"label": "Before 1826", "children": [
+       {"label": "Burmese occupation of much of North-East"}
+     ]},
+     {"label": "Treaty of Yandaboo, 1826", "children": [
+       {"label": "Ended Anglo-Burmese War (1824-1826)"},
+       {"label": "Signed for British by Gen. Sir Archibald Campbell"},
+       {"label": "Established current India-Myanmar boundary"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Strategic importance and relations",
+   "root": {
+    "label": "Strategic Importance",
+    "children": [
+     {"label": "Geography", "children": [
+       {"label": "Only ASEAN neighbour with land and sea boundaries"},
+       {"label": "1643 km land border"},
+       {"label": "Maritime boundary in Bay of Bengal"}
+     ]},
+     {"label": "Diplomacy", "children": [
+       {"label": "Treaty of Friendship, 1951"},
+       {"label": "Act East and Neighbourhood First"}
+     ]},
+     {"label": "Regional bodies", "children": [
+       {"label": "BIMSTEC member"},
+       {"label": "SAARC observer"},
+       {"label": "Mekong-Ganga Cooperation"}
+     ]},
+     {"label": "Trade", "children": [
+       {"label": "AITIGA trade framework"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Connectivity projects",
+   "root": {
+    "label": "Connectivity Projects",
+    "children": [
+     {"label": "Kaladan Multi-Modal Project", "children": [
+       {"label": "Kolkata to Sittwe seaport"},
+       {"label": "Links India and Myanmar via Bay of Bengal"}
+     ]},
+     {"label": "Trilateral Highway", "children": [
+       {"label": "Length 1,360 km"},
+       {"label": "Moreh to Mae Sot via Myanmar"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Myanmar's political background",
+   "root": {
+    "label": "Political Background",
+    "children": [
+     {"label": "Coup, Feb 1, 2021", "children": [
+       {"label": "Alleged irregularities in November polls"},
+       {"label": "One-year state of emergency declared"}
+     ]},
+     {"label": "Detentions", "children": [
+       {"label": "Aung San Suu Kyi and civilian leaders detained"},
+       {"label": "Myint Swe to become acting president"}
+     ]},
+     {"label": "Restrictions", "children": [
+       {"label": "Internet and phones severely restricted"},
+       {"label": "All banks closed nationwide"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "KRIS for visit outcomes",
+   "mnemonic": "KRIS: Kaladan, Rupee-Kyat, Insurgency, Scholarships",
+   "decode": [
+    {"key": "K", "meaning": "Kaladan project: both sides reaffirmed completion at the earliest"},
+    {"key": "R", "meaning": "Rupee-Kyat settlement framework: greater use promoted"},
+    {"key": "I", "meaning": "Insurgency: Myanmar territory not to be used by anti-India groups"},
+    {"key": "S", "meaning": "Scholarships: ICCR scholarships for Myanmar students raised from 36 to 100"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "BAMS for regional ties",
+   "mnemonic": "BAMS: Bold Asian Mates Shine",
+   "decode": [
+    {"key": "B", "meaning": "BIMSTEC: Myanmar is a member"},
+    {"key": "A", "meaning": "AITIGA: governs bilateral trade between India and Myanmar"},
+    {"key": "M", "meaning": "Mekong-Ganga Cooperation: Myanmar is part of it"},
+    {"key": "S", "meaning": "SAARC: Myanmar is an observer"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Visit Outcomes MCQ",
+   "passage": "Myanmar's President, Min Aung Hlaing, recently completed a five-day official visit to India. It was his first visit since the political transition in Myanmar. The visit came at a time when Myanmar remains central to India's Neighbourhood First Policy, Act East Policy and the wider Indo-Pacific Vision. During the talks, Myanmar gave an assurance on a sensitive security concern. Its territory, it said, would not be used by anti-India insurgent groups operating near the border. Both sides also agreed to promote wider use of the Rupee-Kyat settlement framework, which is already in operation. The two countries reaffirmed their commitment to complete the Kaladan Multi-Modal Transit Transport Project at the earliest. Efforts were also announced to expedite the India-Myanmar-Thailand Trilateral Highway. In education, India increased the number of ICCR scholarships available to Myanmar students. The outcomes cover security, trade settlement, connectivity and people-to-people ties. Both governments see the relationship as a key part of their regional strategies. The talks also reflected the long history between the two neighbours, whose modern boundary was fixed after the Anglo-Burmese War. Trade between the two countries is an important part of the relationship as well.",
+   "questions": [
+    {
+     "q": "Which seaport in Myanmar does the Kaladan project link with Kolkata?",
+     "options": ["Yangon Seaport", "Pathein Seaport", "Sittwe Seaport (Rakhine)", "Dawei Seaport"],
+     "answer": 2,
+     "explanation": "The booklet states that the Kaladan project links Kolkata with Sittwe Seaport in Rakhine, Myanmar."
+    },
+    {
+     "q": "What is the total length of the India-Myanmar-Thailand Trilateral Highway?",
+     "options": ["980 km", "1,200 km", "1,643 km", "1,360 km"],
+     "answer": 3,
+     "explanation": "The booklet gives the length of the India-Myanmar-Thailand Trilateral Highway as 1,360 km."
+    },
+    {
+     "q": "Which Indian states share a boundary with Myanmar?",
+     "options": ["Assam, Meghalaya, Tripura and Nagaland", "Arunachal Pradesh, Nagaland, Manipur and Mizoram", "Sikkim, Assam, Manipur and Mizoram", "Arunachal Pradesh, Assam, Nagaland and Tripura"],
+     "answer": 1,
+     "explanation": "The booklet lists Arunachal Pradesh, Nagaland, Manipur and Mizoram as the Indian states bordering Myanmar."
+    },
+    {
+     "q": "Assertion (A): India seeks to enhance its cooperation with Myanmar in line with its Act East Policy.\nReason (R): Myanmar is a member of the Mekong-Ganga Cooperation.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "Both statements are true in the booklet, but Myanmar's membership of the Mekong-Ganga Cooperation does not explain India's Act East engagement."
+    },
+    {
+     "q": "Match List I with List II:\nI. Treaty of Yandaboo   ->   A. 1951\nII. Treaty of Friendship   ->   B. 2024\nIII. Rupee-Kyat settlement framework operational   ->   C. 2021\nIV. Military seizure of power in Myanmar   ->   D. 1826",
+     "options": [
+      "I-B, II-A, III-C, IV-D",
+      "I-D, II-A, III-B, IV-C",
+      "I-A, II-C, III-D, IV-B",
+      "I-C, II-D, III-A, IV-B"
+     ],
+     "answer": 1,
+     "explanation": "The booklet dates are: Treaty of Yandaboo 1826, Treaty of Friendship 1951, Rupee-Kyat framework since 2024, and the seizure of power on February 1, 2021."
+    },
+    {
+     "q": "Consider the following statements about Myanmar's relations with India:\nI. Myanmar is India's only ASEAN neighbour connected through both land and maritime boundaries.\nII. Myanmar is a full member of SAARC.\nIII. The India-Myanmar-Thailand Trilateral Highway passes through Myanmar before reaching Mae Sot in Thailand.\nWhich of the above statements is/are correct?",
+     "options": ["II and III only", "I and II only", "I and III only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statement I and III are correct, while statement II is wrong because the booklet describes Myanmar as a SAARC observer."
+    },
+    {
+     "q": "How many of the following statements about Myanmar's regional memberships are correct?\n- Myanmar is a member of BIMSTEC.\n- Myanmar is a full member of SAARC.\n- Myanmar is part of the Mekong-Ganga Cooperation.\n- Bilateral trade with India is conducted under AITIGA.",
+     "options": ["Only two", "Only three", "All four", "None"],
+     "answer": 1,
+     "explanation": "BIMSTEC, the Mekong-Ganga Cooperation and AITIGA are correct, while Myanmar is only a SAARC observer, so only three statements are correct."
+    },
+    {
+     "q": "The Treaty of Yandaboo was signed on behalf of the British by whom?",
+     "options": ["General Sir Archibald Campbell", "Lord Cornwallis", "Lord Dalhousie", "Lord Wellesley"],
+     "answer": 0,
+     "explanation": "The booklet states that General Sir Archibald Campbell signed the Treaty of Yandaboo on behalf of the British."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "Strategic Ties TITA",
+   "passage": "Myanmar holds a special place in India's foreign policy. It is the only ASEAN nation with which India shares a boundary, and the two countries are linked by both land and sea. The land frontier runs through several northeastern states, where cross-border issues such as insurgency, narcotics trafficking and illegal arms smuggling have long been concerns. Cooperation with Myanmar is therefore seen as critical for tackling these problems. Myanmar also lies near India's island territories, which makes maritime cooperation important for regional stability and security. Beyond security, Myanmar acts as a bridge between South Asia and South-East Asia, a role that matters for India's connectivity with the wider region. India seeks to enhance its ties with Myanmar in line with its Act East and Neighbourhood First policies. Myanmar's membership of several regional forums adds to its importance for India. Trade is an important part of this relationship, and the Kaladan project and the trilateral highway are central to plans for better physical links. The relationship has deep roots in history, as the modern boundary was shaped by a treaty that ended an early nineteenth-century war.",
+   "questions": [
+    {
+     "q": "In which year did India and Myanmar sign their Treaty of Friendship? (year)",
+     "answer": "1951",
+     "accept": ["AD 1951", "CE 1951"],
+     "explanation": "The booklet states that India and Myanmar signed a Treaty of Friendship in 1951."
+    },
+    {
+     "q": "What is the length of the India-Myanmar land border? (in km)",
+     "answer": "1643",
+     "accept": ["1,643", "1643 km", "1,643 km"],
+     "explanation": "The booklet says India shares a border of 1643 km with Myanmar."
+    },
+    {
+     "q": "Which trade agreement governs bilateral trade between India and Myanmar? (acronym)",
+     "answer": "AITIGA",
+     "accept": ["ASEAN-India Trade in Goods Agreement", "ASEAN India Trade in Goods Agreement"],
+     "explanation": "The booklet states that bilateral trade is conducted under the ASEAN-India Trade in Goods Agreement (AITIGA)."
+    },
+    {
+     "q": "Myanmar is an observer in which South Asian grouping? (acronym)",
+     "answer": "SAARC",
+     "accept": ["South Asian Association for Regional Cooperation"],
+     "explanation": "The booklet describes Myanmar as a SAARC Observer."
+    },
+    {
+     "q": "Myanmar is a member of which Bay of Bengal grouping? (acronym)",
+     "answer": "BIMSTEC",
+     "accept": ["Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation"],
+     "explanation": "The booklet states that Myanmar is a member of BIMSTEC."
+    },
+    {
+     "q": "From which Indian town in Manipur does the India-Myanmar-Thailand Trilateral Highway start?",
+     "answer": "Moreh",
+     "accept": ["Moreh (Manipur)"],
+     "explanation": "The booklet states that the Trilateral Highway starts from Moreh in Manipur."
+    },
+    {
+     "q": "Along which sea does the India-Myanmar maritime boundary lie? (name)",
+     "answer": "Bay of Bengal",
+     "accept": ["Bay Of Bengal", "Bay of bengal"],
+     "explanation": "The booklet states that India and Myanmar share a maritime boundary in the Bay of Bengal."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 8, "what": "Name of the Burmese signatory of the Treaty of Yandaboo (Legaing Maha Min Hla Kyaw Htin) is garbled; not used"},
+  {"page": 8, "what": "Ordinal of the Anglo-Burmese War ('It ended I ... Anglo-Burmese War') is garbled; only the years 1824-1826 were used"},
+  {"page": 9, "what": "Count shown as '33' before Maritime Boundary in Bay of Bengal is garbled; not used"},
+  {"page": 9, "what": "Kaladan project conception year (2008), proposer, consultant (Ircon, 2019), Inland Waterways Authority (2009), approval (2002) and start (2012) are interleaved across columns; not used"},
+  {"page": 9, "what": "Alignment line 'Runs from border at Tamu-Moreh to Kalemyo & Kalewa' is interleaved with the Kaladan column; not used"},
+  {"page": 10, "what": "Map distances (87.81 km, 49.2 km, 460.8 km) are garbled; not used"},
+  {"page": 10, "what": "Myanmar coup timeline columns are interleaved (e.g. 2010 release, 2016 role, age 75 entry, acting president line); only clearly readable entries used"}
+ ]
+}
