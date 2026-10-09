@@ -1,0 +1,107 @@
+{
+ "passage_fixes": [
+  {
+   "quiz": "q-t01-0",
+   "old": "The Court's reasoning focused on the text and purpose of the statute itself. ",
+   "new": ""
+  },
+  {
+   "quiz": "q-t05-0",
+   "old": ", each linked to reducing the country's dependence on imports",
+   "new": ""
+  },
+  {
+   "quiz": "t-t05-1",
+   "old": "removing thresholds that had complicated compliance for families travelling or studying abroad",
+   "new": "removing thresholds for families travelling or studying abroad"
+  },
+  {
+   "quiz": "q-t07-0",
+   "old": "helps workers, businesses and governments judge how far household money goes",
+   "new": "reflects how far household money goes"
+  },
+  {
+   "quiz": "t-t07-1",
+   "old": "Releasing the index for each state, not only for the country as a whole, gives policy makers a closer view of regional prices. ",
+   "new": ""
+  },
+  {
+   "quiz": "q-t08-0",
+   "old": "The declaration also draws on partnerships between governments, startups, academia and industry. ",
+   "new": ""
+  },
+  {
+   "quiz": "q-t10-0",
+   "old": "Officials argue that the plan will bring jobs, better connectivity and new economic activity to the islands. ",
+   "new": ""
+  },
+  {
+   "quiz": "q-t10-0",
+   "old": " whose way of life depends on the land and the sea",
+   "new": ""
+  },
+  {
+   "quiz": "t-t10-1",
+   "old": ", and they depend on the forest for food, shelter and cultural practices. ",
+   "new": ". "
+  },
+  {
+   "quiz": "t-t11-1",
+   "old": "The programme is run jointly, so the planning of wetland use and the study of wetland change are both part of one national effort. ",
+   "new": ""
+  },
+  {
+   "quiz": "t-t12-1",
+   "old": "headquartered in the Gulf region",
+   "new": "headquartered in Manama, Bahrain"
+  },
+  {
+   "quiz": "t-t12-1",
+   "old": "Each initiative relies on cooperation between government agencies, industry and international partners to deliver long-term results for the country. ",
+   "new": ""
+  },
+  {
+   "quiz": "q-t13-0",
+   "old": ", and the test confirmed its technical readiness",
+   "new": ""
+  },
+  {
+   "quiz": "q-t13-0",
+   "old": ", so the result was closely watched",
+   "new": ""
+  },
+  {
+   "quiz": "q-t13-0",
+   "old": "The event brought together companies and governments from many countries and showcased",
+   "new": "The event showcased"
+  },
+  {
+   "quiz": "q-t13-0",
+   "old": " and the industrial capabilities behind them",
+   "new": ""
+  }
+ ],
+ "fact_fixes": [
+  {
+   "old": "Grants to rural and urban local bodies in a 60:40 ratio",
+   "new": "Grants to rural and urban local bodies",
+   "page": 39
+  },
+  {
+   "old": "Not bound by the Code of Civil Procedure 1908; guided by natural justice; decisions executable as a civil court decree.",
+   "new": "",
+   "page": 62
+  },
+  {
+   "old": "Both visits stress maritime security and disaster-resilient infrastructure.",
+   "new": "Both visits stress disaster-resilient infrastructure, and the Seychelles visit also stresses maritime security.",
+   "page": 72
+  },
+  {
+   "old": " and launched cyber-related initiatives. The summit also set up a centre of excellence on automotive cybersecurity.",
+   "new": ".",
+   "page": 86
+  }
+ ],
+ "replacements": []
+}

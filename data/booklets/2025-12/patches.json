@@ -1,0 +1,86 @@
+{
+ "passage_fixes": [
+  {
+   "quiz": "t-t01-1",
+   "old": "The approach focuses on planting native species on land that has lost its vegetation, which helps hold soil and supports local wildlife.",
+   "new": "The approach focuses on planting native species on degraded land to support ongoing afforestation."
+  },
+  {
+   "quiz": "t-t01-1",
+   "old": "Government policy has treated afforestation as a long-term commitment rather than a one-time campaign.",
+   "new": "The National Forest Policy (1988) aims for at least one-third of total land area under forest or tree cover."
+  },
+  {
+   "quiz": "t-t04-1",
+   "old": "Supporters of a common code argue that it would reduce legal ambiguity, while critics point to the country's religious diversity.",
+   "new": "The Central Government favours a common code, calling different matrimonial laws for various religions a threat to the nation's unity."
+  },
+  {
+   "quiz": "t-t04-1",
+   "old": "The Law Commission has studied the question more than once, and one of its reports suggested",
+   "new": "The 2018 Law Commission report suggested"
+  },
+  {
+   "quiz": "q-t05-0",
+   "old": "lost ground steadily through 2025",
+   "new": "depreciated by over 5% in 2025"
+  },
+  {
+   "quiz": "q-t05-0",
+   "old": "pressures that had been building for months",
+   "new": "pressures that had been building over time"
+  },
+  {
+   "quiz": "t-t05-1",
+   "old": " Each measure takes time to show results.",
+   "new": ""
+  },
+  {
+   "quiz": "q-t08-0",
+   "old": "each conflict ended in settlements",
+   "new": "some of these conflicts ended in settlements"
+  }
+ ],
+ "fact_fixes": [
+  {
+   "old": "India's trade agreements with New Zealand and Oman, which give zero-duty access and expand trade and investment",
+   "new": "India's trade agreements with New Zealand and Oman expand trade and investment, with zero-duty access stated only for New Zealand",
+   "page": 44
+  }
+ ],
+ "replacements": [
+  {
+   "quiz": "t-t04-1",
+   "n": 2,
+   "question": {
+    "q": "Which Act of 1954 allows inter-religious marriages while explicitly prohibiting polygamy? (name of the Act)",
+    "answer": "Special Marriage Act",
+    "accept": [
+     "Special Marriage Act 1954",
+     "Special Marriage Act, 1954"
+    ],
+    "explanation": "The Special Marriage Act 1954 allows inter-religious marriages while explicitly prohibiting polygamy."
+   },
+   "evidence": {
+    "page": 22,
+    "quote": "Special Marriage Act 1954 Allows Inter — Religious Marriages While Explicitly Prohibiting Polygamy."
+   }
+  },
+  {
+   "quiz": "t-t09-1",
+   "n": 5,
+   "question": {
+    "q": "How many earlier ombudsman schemes does the Integrated Ombudsman Scheme 2021 merge? (in number)",
+    "answer": "3",
+    "accept": [
+     "three"
+    ],
+    "explanation": "The Integrated Ombudsman Scheme 2021 merges the Banking Ombudsman Scheme 2006, the NBFC Ombudsman Scheme 2018 and the Ombudsman Scheme for Digital Transactions 2019."
+   },
+   "evidence": {
+    "page": 60,
+    "quote": "RBI's Integrated Ombudsman Scheme 2021 Merges Banking Ombudsman Scheme 2006, NBFC Ombudsman Scheme 2018 and Ombudsman Scheme for Digital Transactions 2019."
+   }
+  }
+ ]
+}

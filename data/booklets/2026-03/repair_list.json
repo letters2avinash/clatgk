@@ -1,0 +1,109 @@
+{
+ "passage_flags": [
+  {
+   "quiz": "q-t02-0",
+   "claim": "Afghanistan's monarchy ended in 1973 and was followed by communist rule backed by the Soviet Union.",
+   "problem": "contradicts booklet: a nationalist regime is placed between the monarchy's end and Soviet-backed communist rule; the passage skips it.",
+   "page": 15
+  },
+  {
+   "quiz": "t-t02-1",
+   "claim": "India has also engaged the Taliban regime at a senior diplomatic level, and these ties have continued even as Afghanistan's political leadership has changed.",
+   "problem": "the 2025 senior engagement with the Taliban regime is in the booklet, but the claim that ties continued across leadership changes is not found in booklet text.",
+   "page": 17
+  },
+  {
+   "quiz": "t-t04-1",
+   "claim": "investors in India were left facing uncertainty",
+   "problem": "Booklet says the rifts created uncertainty about Canadian investments in India (Canadian investors), not investors in India.",
+   "page": 29
+  },
+  {
+   "quiz": "q-t06-0",
+   "claim": "It also observed that long years of service may raise salary levels without necessarily improving social standing, especially for lower-level employees.",
+   "problem": "Booklet presents this under 'Evaluation of Ruling' as commentary; it is not attributed to the Court as an observation.",
+   "page": 38
+  },
+  {
+   "quiz": "q-t06-0",
+   "claim": "The Court's reasoning rests on the view that rank or position in employment reflects social status and influence better than income alone.",
+   "problem": "Booklet presents this under 'Evaluation of Ruling' as commentary, not as the Court's stated reasoning.",
+   "page": 38
+  },
+  {
+   "quiz": "t-t06-1",
+   "claim": "the decision set off a national debate on social justice and the share of seats reserved for these groups",
+   "problem": "Not found in booklet text. The booklet confirms the 1990 implementation but says nothing about a national debate.",
+   "page": null
+  },
+  {
+   "quiz": "q-t08-0",
+   "claim": "official releases usually explain how the new figures were built and why they differ from earlier estimates",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t08-1",
+   "claim": "Traditional estimates leaned heavily on surveys of large, registered firms, which left many small and informal producers poorly measured.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t10-1",
+   "claim": "India has long been one of the largest buyers of defence equipment in the world",
+   "problem": "not found in booklet text: the booklet gives only India's 2nd-place import rank for 2021-25 and makes no historical claim",
+   "page": 59
+  },
+  {
+   "quiz": "q-t12-0",
+   "claim": "Incidence refers to the number of new cases in a population, usually expressed per 100,000 people.",
+   "problem": "The definition of incidence as new cases is not found in the booklet text; the booklet gives only the per 100,000 rate.",
+   "page": 67
+  },
+  {
+   "quiz": "t-t12-1",
+   "claim": "Such local work is set out in the national plan, which sets targets for the years ahead.",
+   "problem": "Not found in the booklet text: the TB Mukt Urban Ward Initiative is listed as a separate launch, not as part of the National Strategic Plan.",
+   "page": 67
+  },
+  {
+   "quiz": "q-t14-0",
+   "claim": "new categories have been added to reflect different kinds of cinematic work",
+   "problem": "not found in booklet text; the booklet gives the growth from 12 to 24 categories but no purpose for them",
+   "page": 87
+  },
+  {
+   "quiz": "q-t14-0",
+   "claim": "Each year the winners in the main categories are widely discussed, and their names become part of the record of world cinema",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "q-t14-0",
+   "claim": "the categories and winners reflect the priorities of each period",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t14-1",
+   "claim": "Each year the Sahitya Akademi announces its awards",
+   "problem": "not found in booklet text; the booklet covers only the Sahitya Akademi Awards 2025 and states no annual cadence",
+   "page": 89
+  },
+  {
+   "quiz": "q-t15-0",
+   "claim": "Its Women and Child Development Minister represented the country at a session of the Commission on the Status of Women in New York",
+   "problem": "Booklet says the minister is 'to represent' the country at the 70th Session (planned); the passage states it as completed.",
+   "page": 92
+  }
+ ],
+ "fact_flags": [
+  {
+   "file": "t04.json",
+   "subtopic": 0,
+   "fact": "Their nuclear and space links date back to the 1950s and 2013.",
+   "problem": "Booklet dates only the nuclear items (CIRUS reactor 1954, Nuclear Cooperation Agreement 2013). It gives no date for the ISRO-Canadian Space Agency space collaboration, so the 1950s/2013 dating of space links is unsupported.",
+   "page": 28
+  }
+ ]
+}
