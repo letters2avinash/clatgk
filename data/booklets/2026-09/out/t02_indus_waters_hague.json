@@ -1,0 +1,451 @@
+{
+ "topic": {
+  "title": "Indus Waters Treaty and India's rejection of the Hague ruling",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "Treaty basics and river allocation",
+    "summary": "The Indus Waters Treaty, 1960, is a bilateral water-sharing agreement between India and Pakistan that was facilitated by the World Bank. It allocates the Eastern rivers to India and the Western rivers primarily to Pakistan. India keeps limited, conditional rights on the Western rivers, including run-of-river power generation.",
+    "facts": [
+     "Signed on 19 September 1960, after eight years of negotiations",
+     "Bilateral water-sharing agreement between India and Pakistan",
+     "Facilitated by the World Bank",
+     "Eastern rivers: Ravi, Beas and Sutlej, with exclusive and unrestricted use for India",
+     "Western rivers: Indus, Jhelum and Chenab, allocated primarily to Pakistan",
+     "India's rights on Western rivers are limited and subject to treaty conditions",
+     "Permitted uses on Western rivers include domestic use, limited agricultural use and run-of-river hydroelectric generation",
+     "India can build run-of-river hydro projects with minimum storage for conservation and flood management"
+    ],
+    "keywords": ["Indus Waters Treaty", "Eastern rivers", "Western rivers", "run-of-river", "World Bank"]
+   },
+   {
+    "title": "Three-tier dispute-resolution mechanism",
+    "summary": "The treaty provides a three-tiered route for disputes, starting with the Permanent Indus Commission for bilateral discussion. Technical differences that the Commission cannot resolve may go to a Neutral Expert, while formal legal disputes may be referred to a Court of Arbitration. The Court of Arbitration is constituted under Annexure G of the treaty.",
+    "facts": [
+     "The treaty provides a three-tiered dispute mechanism",
+     "Permanent Indus Commission is the first institutional mechanism and provides a forum for bilateral discussion and information exchange",
+     "The Permanent Indus Commission meets at least once a year",
+     "Neutral Expert handles technical differences the Commission cannot resolve",
+     "The Neutral Expert is appointed through a mechanism involving the World Bank",
+     "The Neutral Expert route primarily addresses technical questions",
+     "Court of Arbitration handles formal legal disputes referred under the treaty",
+     "The Court of Arbitration is constituted under Annexure G and consists of 5 members"
+    ],
+    "keywords": ["Permanent Indus Commission", "Neutral Expert", "Court of Arbitration", "Annexure G"]
+   },
+   {
+    "title": "Court of Arbitration's findings",
+    "summary": "The Court of Arbitration held that the treaty continues to apply and that India's decision to place it in abeyance was not permissible. It said the treaty does not deal with terrorism or use of force, so cross-border terrorism was not accepted as a material breach. The tribunal also imposed interim limits on construction at the Ratle project.",
+    "facts": [
+     "The treaty continues in force until terminated by a duly ratified treaty (Article XII(4))",
+     "Article III(1) obliges India to let flow the waters of the Western rivers to Pakistan",
+     "Placing the treaty in abeyance was held not permissible under the treaty or international law",
+     "The Vienna Convention on the Law of Treaties 1969 was applied in the ruling",
+     "The treaty does not provide India a unilateral mechanism to suspend obligations",
+     "The treaty contains no provisions on terrorism or use of force",
+     "Interim limits bar concreting of specified parts of the Ratle dam wall and power intake beyond prescribed levels",
+     "The Ratle restrictions last until 90 days after the Neutral Expert's final determination"
+    ],
+    "keywords": ["Article XII(4)", "Article III(1)", "abeyance", "Ratle project", "Vienna Convention"]
+   },
+   {
+    "title": "India's objection to the tribunal",
+    "summary": "India rejects the ruling, saying the tribunal was constituted by the World Bank contrary to the treaty and has no jurisdiction over its sovereign decisions. India argues the treaty sets a graded, sequential route that ends with a court only after the Neutral Expert step. Pakistan and India initiated parallel proceedings in 2016, and the World Bank paused and later resumed the two processes.",
+    "facts": [
+     "India has rejected the ruling and has neither recognised the tribunal's legitimacy nor participated in its proceedings",
+     "India's Ministry of External Affairs says the Court of Arbitration was constituted by the World Bank contrary to the treaty",
+     "India's abeyance decision after the April 2025 Pahalgam terror attack remains valid according to New Delhi",
+     "India says the tribunal has no jurisdiction over its sovereign decisions or infrastructure projects on the western rivers",
+     "India's position: question, then Permanent Indus Commission, then Neutral Expert, then legal dispute or Court of Arbitration",
+     "In 2016, Pakistan initiated proceedings seeking a Court of Arbitration",
+     "In 2016, India requested appointment of a Neutral Expert to examine technical aspects",
+     "In 2016, the World Bank paused both the arbitration and Neutral Expert processes",
+     "In 2022, the World Bank allowed both processes to move forward",
+     "India took part in Neutral Expert proceedings but not in Court of Arbitration proceedings"
+    ],
+    "keywords": ["Ministry of External Affairs", "graded and sequential", "parallel proceedings", "jurisdiction", "Pahalgam"]
+   },
+   {
+    "title": "Indus river system and water-sharing principles",
+    "summary": "The Indus is a trans-boundary river and the longest river in Pakistan, and its main tributaries have distinct sources in Tibet, Kashmir and Himachal Pradesh. The booklet lists three international instruments on shared water: the Helsinki Rules of 1966, the Helsinki Convention of 1992 and the UN Watercourses Convention of 1997. India, China and Pakistan have not signed the UN Watercourses Convention.",
+    "facts": [
+     "The Indus is a trans-boundary river and the longest river in Pakistan",
+     "The Indus originates at the Bokhar Chu Glacier near Mt Kailash, Mansarovar, Tibet",
+     "The Jhelum rises at the Verinag Spring in the Kashmir Valley and joins the Chenab at Trimmu",
+     "The Chenab originates near Bara Lacha Pass in Lahul-Spiti (HP) and joins the Satluj at Panchnad",
+     "The Ravi rises in the Kullu Hills near Rohtang Pass and joins the Chenab a little above Rangpur",
+     "The Beas originates near Rohtang Pass and joins the Satluj at Harike",
+     "The Satluj rises from the Manasarovar-Rakas Lakes in Tibet and joins the Indus a little above Mithankot",
+     "Helsinki Rules 1966 were adopted by the International Law Association to regulate water use in an international drainage basin",
+     "Helsinki Convention 1992 provides a framework for preventing and controlling water pollution across national borders",
+     "UN Watercourses Convention 1997 codified law on non-navigational uses of international watercourses; India, China and Pakistan have not signed it"
+    ],
+    "keywords": ["trans-boundary river", "Helsinki Rules", "Helsinki Convention", "UN Watercourses Convention", "Bokhar Chu"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Indus Waters Treaty at a glance",
+   "root": {
+    "label": "Indus Waters Treaty (1960)",
+    "children": [
+     {
+      "label": "Rivers and rights",
+      "children": [
+       {"label": "Eastern rivers: Ravi, Beas, Sutlej to India", "children": []},
+       {"label": "Western rivers: Indus, Jhelum, Chenab to Pakistan", "children": []},
+       {"label": "India: limited conditional rights on Western rivers", "children": []}
+      ]
+     },
+     {
+      "label": "Dispute mechanism",
+      "children": [
+       {"label": "Permanent Indus Commission: first tier", "children": []},
+       {"label": "Neutral Expert: technical differences", "children": []},
+       {"label": "Court of Arbitration: legal disputes, Annexure G", "children": []}
+      ]
+     },
+     {
+      "label": "Court of Arbitration ruling",
+      "children": [
+       {"label": "Treaty remains in force (Article XII(4))", "children": []},
+       {"label": "Abeyance not permissible", "children": []},
+       {"label": "No terrorism provisions in treaty", "children": []},
+       {"label": "Ratle construction limits until 90 days after NE decision", "children": []}
+      ]
+     },
+     {
+      "label": "India's response",
+      "children": [
+       {"label": "Tribunal said to be improperly constituted", "children": []},
+       {"label": "Tribunal not recognised, not participated", "children": []},
+       {"label": "Abeyance after April 2025 attack held valid", "children": []}
+      ]
+     },
+     {
+      "label": "Water-sharing principles",
+      "children": [
+       {"label": "Helsinki Rules 1966", "children": []},
+       {"label": "Helsinki Convention 1992: pollution", "children": []},
+       {"label": "UN Watercourses Convention 1997", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Treaty basics map",
+   "root": {
+    "label": "Treaty basics and allocation",
+    "children": [
+     {"label": "Signed 19 Sept 1960 after eight years", "children": []},
+     {"label": "Facilitated by the World Bank", "children": []},
+     {
+      "label": "Western rivers to Pakistan",
+      "children": [
+       {"label": "Indus, Jhelum, Chenab", "children": []}
+      ]
+     },
+     {
+      "label": "Eastern rivers to India",
+      "children": [
+       {"label": "Ravi, Beas, Sutlej", "children": []}
+      ]
+     },
+     {
+      "label": "India's limited Western rights",
+      "children": [
+       {"label": "Run-of-river power", "children": []},
+       {"label": "Domestic and non-consumptive use", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Dispute tiers map",
+   "root": {
+    "label": "Three-tier dispute mechanism",
+    "children": [
+     {
+      "label": "Permanent Indus Commission",
+      "children": [
+       {"label": "Bilateral discussion and information exchange", "children": []},
+       {"label": "Meets at least once a year", "children": []}
+      ]
+     },
+     {
+      "label": "Neutral Expert",
+      "children": [
+       {"label": "Technical differences", "children": []},
+       {"label": "Appointed via World Bank mechanism", "children": []}
+      ]
+     },
+     {
+      "label": "Court of Arbitration",
+      "children": [
+       {"label": "Formal legal disputes", "children": []},
+       {"label": "Constituted under Annexure G", "children": []},
+       {"label": "5 members", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Court of Arbitration findings map",
+   "root": {
+    "label": "Court of Arbitration holdings",
+    "children": [
+     {
+      "label": "Treaty continues in force",
+      "children": [
+       {"label": "Article XII(4)", "children": []},
+       {"label": "Article III(1): let flow to Pakistan", "children": []}
+      ]
+     },
+     {
+      "label": "Abeyance not permissible",
+      "children": [
+       {"label": "Vienna Convention 1969", "children": []}
+      ]
+     },
+     {
+      "label": "Terrorism not a treaty subject",
+      "children": [
+       {"label": "No provisions on terrorism or force", "children": []}
+      ]
+     },
+     {
+      "label": "Ratle interim limits",
+      "children": [
+       {"label": "Until 90 days after Neutral Expert decision", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "India's objection map",
+   "root": {
+    "label": "India's objection to the tribunal",
+    "children": [
+     {
+      "label": "Tribunal improperly constituted",
+      "children": [
+       {"label": "World Bank constituted it, per MEA", "children": []}
+      ]
+     },
+     {
+      "label": "Graded, sequential route",
+      "children": [
+       {"label": "Commission, then Neutral Expert, then court", "children": []}
+      ]
+     },
+     {
+      "label": "Parallel proceedings",
+      "children": [
+       {"label": "2016: Pakistan sought Court of Arbitration", "children": []},
+       {"label": "2016: World Bank paused both processes", "children": []},
+       {"label": "2022: both processes resumed", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Indus system and principles map",
+   "root": {
+    "label": "Indus river system and principles",
+    "children": [
+     {
+      "label": "Source points",
+      "children": [
+       {"label": "Indus: Bokhar Chu Glacier, Tibet", "children": []},
+       {"label": "Jhelum: Verinag Spring, Kashmir", "children": []},
+       {"label": "Chenab: Bara Lacha Pass area", "children": []},
+       {"label": "Ravi and Beas: Rohtang Pass area", "children": []},
+       {"label": "Satluj: Manasarovar-Rakas Lakes", "children": []}
+      ]
+     },
+     {
+      "label": "International principles",
+      "children": [
+       {"label": "Helsinki Rules 1966: water use", "children": []},
+       {"label": "Helsinki Convention 1992: pollution", "children": []},
+       {"label": "UN Watercourses Convention 1997", "children": []}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Dispute ladder order",
+   "mnemonic": "Come Eat Cake",
+   "decode": [
+    {"key": "Come", "meaning": "Permanent Indus Commission is the first tier for bilateral discussion"},
+    {"key": "Eat", "meaning": "Neutral Expert takes technical differences the Commission cannot resolve"},
+    {"key": "Cake", "meaning": "Court of Arbitration takes formal legal disputes"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Western rivers to Pakistan",
+   "mnemonic": "I Jump Cheerfully",
+   "decode": [
+    {"key": "I", "meaning": "Indus is a Western river allocated primarily to Pakistan"},
+    {"key": "J", "meaning": "Jhelum is a Western river allocated primarily to Pakistan"},
+    {"key": "C", "meaning": "Chenab is a Western river allocated primarily to Pakistan"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "International water instruments in order",
+   "mnemonic": "Use Pollution Codes",
+   "decode": [
+    {"key": "Use", "meaning": "Helsinki Rules 1966 regulate use of water in an international drainage basin"},
+    {"key": "Pollution", "meaning": "Helsinki Convention 1992 covers preventing and controlling water pollution across borders"},
+    {"key": "Codes", "meaning": "UN Watercourses Convention 1997 codified law on non-navigational uses"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Indus Waters Treaty: MCQ practice",
+   "passage": "The Indus Waters Treaty is a bilateral agreement between India and Pakistan that governs how the waters of the Indus river system are shared. The treaty divides the rivers into two groups. One group is available to one country with broad rights, while the other group is mainly allocated to the other country, which keeps only limited uses such as domestic supply, some irrigation and power generation from run-of-river plants. The agreement also sets out a layered system for resolving disputes, which runs from bilateral discussion to more formal procedures. Recently, a tribunal based in The Hague held that India cannot suspend the treaty by placing it in abeyance, and that the treaty remains in force. India rejected the ruling. New Delhi says the tribunal was not properly formed and has no jurisdiction over its sovereign decisions, so it has neither recognised the tribunal nor taken part in its proceedings. The episode has renewed debate about how the treaty's dispute procedures should work, especially when both countries pursue parallel proceedings.",
+   "questions": [
+    {
+     "q": "Which organisation facilitated the Indus Waters Treaty?",
+     "options": ["United Nations", "International Court of Justice", "World Bank", "International Monetary Fund"],
+     "answer": 2,
+     "explanation": "The booklet states that the treaty was facilitated by the World Bank."
+    },
+    {
+     "q": "Under the Indus Waters Treaty, India has exclusive and unrestricted use of which rivers?",
+     "options": ["Ravi, Beas and Sutlej", "Indus, Jhelum and Chenab", "Indus, Ravi and Beas", "Jhelum, Chenab and Sutlej"],
+     "answer": 0,
+     "explanation": "The booklet lists the Eastern rivers Ravi, Beas and Sutlej as those over which India has exclusive and unrestricted use."
+    },
+    {
+     "q": "Which article of the Indus Waters Treaty states that the treaty continues in force until terminated by a duly ratified treaty?",
+     "options": ["Article III(1)", "Article VIII", "Article IX", "Article XII(4)"],
+     "answer": 3,
+     "explanation": "The booklet quotes Article XII(4) as saying the treaty shall continue in force until terminated by a duly ratified treaty."
+    },
+    {
+     "q": "Assertion (A) and Reason (R) are given below.\nAssertion (A): The Court of Arbitration did not accept cross-border terrorism as a material breach of the treaty by Pakistan.\nReason (R): The Indus Waters Treaty contains no provisions dealing with terrorism or use of force.\nChoose the correct option.",
+     "options": [
+      "Both A and R are true but R is not the correct explanation of A",
+      "Both A and R are true and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "The booklet states the treaty has no terrorism provisions, which is why the tribunal did not treat cross-border terrorism as a material breach."
+    },
+    {
+     "q": "Match List I with List II:\nI. Permanent Indus Commission   ->   A. Meets at least once a year\nII. Neutral Expert   ->   B. Handles technical differences\nIII. Court of Arbitration   ->   C. Constituted under Annexure G\nIV. Eastern rivers (Ravi, Beas, Sutlej)   ->   D. Exclusive and unrestricted use for India\nChoose the correct match.",
+     "options": ["I-A, II-B, III-C, IV-D", "I-B, II-A, III-C, IV-D", "I-A, II-C, III-B, IV-D", "I-D, II-B, III-A, IV-C"],
+     "answer": 0,
+     "explanation": "The booklet says the Commission meets at least once a year and the Neutral Expert addresses technical differences."
+    },
+    {
+     "q": "Consider the following statements about the dispute-resolution mechanism of the Indus Waters Treaty:\nI. The Permanent Indus Commission is the first institutional mechanism for addressing questions between India and Pakistan.\nII. Technical differences that the Commission cannot resolve may be referred to a Neutral Expert.\nIII. The Court of Arbitration is constituted under Annexure G and has three members.\nWhich of the above statements is/are correct?",
+     "options": ["II and III only", "I and III only", "I and II only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statement III is wrong because the booklet says the Court of Arbitration consists of 5 members, not three."
+    },
+    {
+     "q": "Consider the following statements about the Indus Waters Treaty and the Court of Arbitration ruling:\nI. The treaty contains provisions dealing with terrorism.\nII. The treaty continues in force until terminated by a duly ratified treaty for that purpose.\nIII. India participated in the Court of Arbitration proceedings.\nIV. Interim restrictions on the Ratle project last until 90 days after the Neutral Expert's final decision.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only three", "All of the above", "Only two"],
+     "answer": 3,
+     "explanation": "Statements II and IV are correct, while I and III are contradicted by the booklet, which says India did not participate and the treaty has no terrorism provisions."
+    },
+    {
+     "q": "The Vienna Convention on the Law of Treaties is popularly known as the:",
+     "options": ["Charter of Agreements", "Treaty on Treaties", "Law of Nations", "Code of Pacts"],
+     "answer": 1,
+     "explanation": "The booklet notes that the Vienna Convention on the Law of Treaties earns the title 'Treaty on Treaties'."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Dispute mechanism: typed answers",
+   "passage": "The Indus Waters Treaty sets out a graded system for handling disagreements between India and Pakistan. A standing bilateral body is meant to handle questions through discussion and exchange of information. Where a disagreement is technical rather than legal, it can be passed to an independent expert whose appointment is arranged through an outside institution. Formal legal disputes are meant to reach a court of arbitration, which is constituted under a formal annex to the treaty and has a fixed number of members. Both countries have at times run proceedings along two tracks at the same time, which has raised concerns about conflicting outcomes. When one such track was paused and later resumed, the order of steps became a central point of argument. India holds that the treaty must be followed in sequence, so that a legal tribunal takes up a case only after the earlier steps are exhausted. Pakistan has pursued its own route through arbitration. Meanwhile, restrictions on construction at one hydroelectric project remain linked to the outcome of the expert's work and stay in force for a period after the expert issues its final decision. The dispute has shown how much depends on the procedural order laid down in the treaty.",
+   "questions": [
+    {
+     "q": "How many members does the Court of Arbitration under the Indus Waters Treaty have? (in number)",
+     "answer": "5",
+     "accept": ["five"],
+     "explanation": "The booklet states that the tribunal consists of 5 members."
+    },
+    {
+     "q": "Under which Annexure of the Indus Waters Treaty is the Court of Arbitration constituted?",
+     "answer": "Annexure G",
+     "accept": ["G", "Annexure-G", "Annex G"],
+     "explanation": "The booklet says the Court of Arbitration is constituted under Annexure G of the treaty."
+    },
+    {
+     "q": "Which institution's mechanism is involved in appointing the Neutral Expert? (name the institution)",
+     "answer": "World Bank",
+     "accept": ["The World Bank", "world bank"],
+     "explanation": "The booklet states that the Neutral Expert is appointed through a mechanism involving the World Bank."
+    },
+    {
+     "q": "In which year did the World Bank pause both the arbitration and Neutral Expert processes?",
+     "answer": "2016",
+     "accept": ["the year 2016"],
+     "explanation": "The booklet says the World Bank paused both processes in 2016 over concerns about conflicting outcomes."
+    },
+    {
+     "q": "In which year did the World Bank allow both processes to move forward?",
+     "answer": "2022",
+     "accept": ["the year 2022"],
+     "explanation": "The booklet states that in 2022 the World Bank allowed the two processes to move forward."
+    },
+    {
+     "q": "Which 850 MW hydroelectric project on the Chenab River has restrictions imposed by the tribunal? (name the project)",
+     "answer": "Ratle",
+     "accept": ["Ratle Hydroelectric Project", "Ratle HEP", "RHEP", "Ratle project"],
+     "explanation": "The booklet identifies the Ratle Hydroelectric Project (850 MW) on the Chenab River as the subject of the interim limits."
+    },
+    {
+     "q": "Ratle project restrictions remain relevant until how many days after the Neutral Expert's final determination? (in days)",
+     "answer": "90",
+     "accept": ["ninety", "90 days"],
+     "explanation": "The booklet says the restrictions are expected to remain relevant until 90 days after the Neutral Expert issues its final determination."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 12, "what": "Inspection-tour count and inspection frequency lines for the Permanent Indus Commission are garbled; not used."},
+  {"page": 13, "what": "Pakal Dul project river name (Marusudar) and Lower Kalnai location are garbled; not used."},
+  {"page": 14, "what": "Sentence on India's position about Pakistan's arbitration alongside the Neutral Expert process is cut off; not used."},
+  {"page": 14, "what": "Trans-boundary chain for the Indus (Pakistan > India > Tibet > Afghanistan) and the sea name are garbled; not used."},
+  {"page": 15, "what": "Signatory name and office line for the treaty are partly garbled; not used."},
+  {"page": 13, "what": "Expected year of the Neutral Expert final determination is partly garbled in the map text; not used."}
+ ]
+}

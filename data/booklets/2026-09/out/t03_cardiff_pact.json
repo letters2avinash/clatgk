@@ -1,0 +1,375 @@
+{
+ "topic": {
+  "title": "Cardiff Pact and UK Federal Challenge",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "Devolution and the asymmetric UK framework",
+    "summary": "Devolution transfers powers from the central government to subnational institutions, while the centre keeps ultimate constitutional authority. In the UK, Scotland, Wales and Northern Ireland have devolved institutions, but the extent and nature of their powers differ, so the arrangement is asymmetric rather than uniform. The UK Treasury uses the Barnett Formula to set changes in block grant funding for these administrations.",
+    "facts": [
+     "Devolution means transfer of powers from central government to subnational institutions",
+     "Ultimate constitutional authority is retained at the centre",
+     "Devolved institutions in the UK: Scotland, Wales and Northern Ireland",
+     "Extent and nature of devolved powers differ among the three",
+     "UK devolution is asymmetric rather than uniform",
+     "Scotland Act 1998 established the Scottish Parliament and devolved substantial domestic powers",
+     "Government of Wales Act 1998 established the Welsh Legislature, now known as the Senedd",
+     "Barnett Formula is used by the UK Treasury to set block grant changes",
+     "UK Internal Market Act 2020 regulates the domestic UK market after Brexit",
+     "Devolved governments criticised the 2020 Act as reducing their regulatory autonomy"
+    ],
+    "keywords": ["devolution", "asymmetric", "Barnett Formula", "Scotland Act 1998", "Senedd", "UK Internal Market Act 2020"]
+   },
+   {
+    "title": "Historical formation of the Union",
+    "summary": "The UK's constituent nations joined the union at different points. Wales was incorporated into the English legal and political system through the Act of Union of 1536, while later Acts of Union brought Scotland (1707) and Ireland (1801) into the state. After most of Ireland became independent in 1922, six counties remained within the UK as Northern Ireland.",
+    "facts": [
+     "Wales was incorporated into the English legal and political system; Act of Union in 1536",
+     "Acts of Union, 1707 united the English and Scottish Parliaments into the Kingdom of Great Britain",
+     "Act of Union, 1801 brought Ireland into the United Kingdom",
+     "Anglo-Irish War (1919-21) preceded Irish independence",
+     "In 1922 most of Ireland became independent",
+     "Six counties formed Northern Ireland within the UK",
+     "The state is now the United Kingdom of Great Britain and Northern Ireland"
+    ],
+    "keywords": ["Act of Union", "1536", "1707", "1801", "Anglo-Irish War", "Northern Ireland"]
+   },
+   {
+    "title": "Good Friday Agreement and Northern Ireland",
+    "summary": "The Good Friday (Belfast) Agreement, signed on 10 April 1998, ended the conflict known as The Troubles in Northern Ireland. It set up power-sharing government, allowed reunification with Ireland subject to a referendum, and let citizens hold Irish or British nationality or both. After the 2022 deadlock over government formation, a new deal was published as the command paper Safeguarding the Union.",
+    "facts": [
+     "Signed on 10 April 1998 at Belfast; ended a 30-year-old civil war known as The Troubles",
+     "Power-sharing government formed on the wishes of Republicans and Unionists, who share governance equally",
+     "People can seek reunification with Ireland at any time, subject to a referendum",
+     "Citizens can hold Irish or British nationality or both",
+     "Agreement abolished border checks and encouraged freedom of movement across UK and Ireland",
+     "A border poll on Irish reunification can be called by the UK Secretary of State for Northern Ireland when conditions show majority support",
+     "After Brexit, Northern Ireland shared a land border with the Republic of Ireland, an EU member",
+     "Border checks between Great Britain and Northern Ireland angered Unionists",
+     "The DUP leader refused to allow government formation after the May 2022 Northern Ireland polls",
+     "A new deal was published as a command paper called Safeguarding the Union"
+    ],
+    "keywords": ["Good Friday Agreement", "Belfast Agreement", "The Troubles", "border poll", "power-sharing", "Safeguarding the Union"]
+   },
+   {
+    "title": "Cardiff Pact and the UK federal challenge",
+    "summary": "The Cardiff Pact is a political Memorandum of Understanding signed in Cardiff by leaders from Scotland, Wales and Northern Ireland, and it is not a legally binding treaty. It asks Westminster to prepare, plan and facilitate constitutional change and affirms each nation's right to hold independence referendums. The UK government rejects new referendums, relying on a 2022 Supreme Court ruling that the Scottish Parliament cannot legislate for one without Westminster's consent.",
+    "facts": [
+     "Cardiff Pact is an inter-party accord signed in Cardiff (Wales)",
+     "Signatories include John Swinney (SNP), Rhun ap Iorwerth (Plaid Cymru) and Michelle O'Neill (Sinn Fein Vice President)",
+     "Mary Lou McDonald (Sinn Fein President) also attended",
+     "The pact is a political Memorandum of Understanding, not a legally binding treaty",
+     "Core objectives: prepare, plan and facilitate constitutional change; affirm right to hold independence referendums; coordinate policies on economy, energy and European relations",
+     "Scotland and Wales would seek EU membership as new states",
+     "Northern Ireland would rejoin the EU through unification with the Republic of Ireland",
+     "All three devolved administrations are now led by pro-independence parties",
+     "UK government rejects new independence referendums without appropriate constitutional and legal authority",
+     "2022 UK Supreme Court ruling (Reference by the Lord Advocate): Scottish Parliament cannot unilaterally legislate for an independence referendum without Westminster's consent"
+    ],
+    "keywords": ["Cardiff Pact", "Memorandum of Understanding", "self-determination", "Reference by the Lord Advocate", "Westminster", "independence referendum"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "UK devolution and the Cardiff Pact",
+   "root": {
+    "label": "UK devolution and the Cardiff Pact",
+    "children": [
+     {
+      "label": "Devolution framework",
+      "children": [
+       {"label": "Powers transferred from the centre", "children": []},
+       {"label": "Ultimate authority stays at Westminster", "children": []},
+       {"label": "Powers differ across three nations", "children": []}
+      ]
+     },
+     {
+      "label": "Formation of the Union",
+      "children": [
+       {"label": "Wales: Act of Union 1536", "children": []},
+       {"label": "Acts of Union 1707 and 1801", "children": []},
+       {"label": "Most of Ireland independent 1922", "children": []}
+      ]
+     },
+     {
+      "label": "Good Friday Agreement 1998",
+      "children": [
+       {"label": "Power-sharing in Belfast", "children": []},
+       {"label": "Reunification subject to referendum", "children": []},
+       {"label": "Irish or British nationality or both", "children": []}
+      ]
+     },
+     {
+      "label": "Cardiff Pact",
+      "children": [
+       {"label": "Political MoU, not legally binding", "children": []},
+       {"label": "Demands constitutional change", "children": []},
+       {"label": "Coordinates economy, energy, Europe", "children": []}
+      ]
+     },
+     {
+      "label": "UK government position",
+      "children": [
+       {"label": "Rejects new independence referendums", "children": []},
+       {"label": "Relies on 2022 Supreme Court ruling", "children": []}
+      ]
+     },
+     {
+      "label": "Brexit and devolution tensions",
+      "children": [
+       {"label": "Scotland 62% voted Remain", "children": []},
+       {"label": "Northern Ireland 55.8% voted Remain", "children": []},
+       {"label": "UK Internal Market Act 2020", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Devolution and asymmetry",
+   "root": {
+    "label": "Devolution and asymmetry",
+    "children": [
+     {
+      "label": "Transfer of powers from centre",
+      "children": [
+       {"label": "Centre retains ultimate authority", "children": []}
+      ]
+     },
+     {
+      "label": "Asymmetric, not uniform",
+      "children": [
+       {"label": "Scotland Act 1998: Scottish Parliament", "children": []},
+       {"label": "Government of Wales Act 1998: Senedd", "children": []},
+       {"label": "Barnett Formula: block grant changes", "children": []}
+      ]
+     },
+     {
+      "label": "UK Internal Market Act 2020",
+      "children": [
+       {"label": "Regulates domestic market after Brexit", "children": []},
+       {"label": "Criticised as cutting devolved autonomy", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Historical formation of the Union",
+   "root": {
+    "label": "Formation of the Union",
+    "children": [
+     {"label": "Wales: Act of Union 1536", "children": []},
+     {"label": "1707: English and Scottish Parliaments united", "children": []},
+     {"label": "1801: Ireland brought into UK", "children": []},
+     {
+      "label": "Irish independence",
+      "children": [
+       {"label": "Anglo-Irish War 1919-21", "children": []},
+       {"label": "1922: most of Ireland independent", "children": []},
+       {"label": "Six counties remained in UK", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Good Friday Agreement",
+   "root": {
+    "label": "Good Friday Agreement 1998",
+    "children": [
+     {"label": "Signed 10 April 1998 at Belfast", "children": []},
+     {
+      "label": "Three main aspects",
+      "children": [
+       {"label": "Power-sharing government", "children": []},
+       {"label": "Reunification referendum any time", "children": []},
+       {"label": "Irish or British nationality or both", "children": []}
+      ]
+     },
+     {
+      "label": "Border and aftermath",
+      "children": [
+       {"label": "Border poll: Secretary of State can call", "children": []},
+       {"label": "2022 government formation refused", "children": []},
+       {"label": "Safeguarding the Union command paper", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Cardiff Pact",
+   "root": {
+    "label": "Cardiff Pact",
+    "children": [
+     {"label": "Signed in Cardiff, Wales", "children": []},
+     {"label": "Political MoU, not a treaty", "children": []},
+     {
+      "label": "Objectives",
+      "children": [
+       {"label": "Prepare, plan and facilitate change", "children": []},
+       {"label": "Affirm independence referendum right", "children": []},
+       {"label": "Coordinate economy, energy, Europe", "children": []}
+      ]
+     },
+     {"label": "UK government: no new referendums yet", "children": []}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Cardiff Pact core objectives",
+   "mnemonic": "PAC: Pact Asks Change",
+   "decode": [
+    {"key": "P", "meaning": "Prepare, plan and facilitate constitutional change"},
+    {"key": "A", "meaning": "Affirm each nation's right to hold independence referendums"},
+    {"key": "C", "meaning": "Coordinate policies on economy, energy and European relations"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Good Friday Agreement's three aspects",
+   "mnemonic": "SRN: Share, Reunite, Nationality",
+   "decode": [
+    {"key": "S", "meaning": "Government formed on both sides' wishes, sharing governance equally"},
+    {"key": "R", "meaning": "Reunification with Ireland possible any time, subject to a referendum"},
+    {"key": "N", "meaning": "Citizens can hold Irish or British nationality or both"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 3,
+   "title": "Cardiff Pact MCQ set",
+   "passage": "Political leaders from Scotland, Wales and Northern Ireland signed a Memorandum of Understanding in Cardiff, asserting the principle of self-determination and calling for constitutional changes within the United Kingdom. The move has renewed debate over the UK's devolution framework, under which power is transferred from the central government to subnational institutions while ultimate constitutional authority stays at the centre. Devolution in the UK is asymmetric, because the extent and nature of devolved powers differ among the territories. The pact is a political understanding rather than a legally binding treaty. It asks Westminster to prepare, plan and facilitate constitutional change, and it affirms each nation's right to hold independence referendums. The UK government has rejected demands for new independence referendums, saying such votes need appropriate constitutional and legal authority. In the 2016 Brexit referendum, Scotland and Northern Ireland both voted to remain in the EU, which fed into these debates. Scotland and Wales would seek EU membership as new states, while Northern Ireland would rejoin the EU through unification with the Republic of Ireland. The pact is seen as the most coordinated challenge to the UK's union structure since the Good Friday Agreement.",
+   "questions": [
+    {
+     "q": "Which Sinn Fein leader signed the Cardiff Pact for Northern Ireland?",
+     "options": ["Mary Lou McDonald", "Michelle O'Neill", "Gerry Adams", "Arlene Foster"],
+     "answer": 1,
+     "explanation": "Michelle O'Neill, Sinn Fein Vice President, is the Northern Ireland signatory, while party president Mary Lou McDonald only attended."
+    },
+    {
+     "q": "Rhun ap Iorwerth, a signatory of the pact, represents which party?",
+     "options": ["Plaid Cymru", "Sinn Fein", "Scottish National Party", "Democratic Unionist Party"],
+     "answer": 0,
+     "explanation": "The booklet lists Rhun ap Iorwerth as Wales, Plaid Cymru."
+    },
+    {
+     "q": "Assertion (A): The Cardiff Pact is a legally binding treaty that requires Westminster to hold independence referendums.\nReason (R): The pact is a political Memorandum of Understanding that is not legally binding.\nSelect the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 3,
+     "explanation": "The booklet states the pact is not a legally binding treaty, so A is false while R is true."
+    },
+    {
+     "q": "Match List I with List II:\nI. Scotland Act 1998   ->   A. Established the Scottish Parliament\nII. Government of Wales Act 1998   ->   B. Established the Welsh Legislature, now Senedd\nIII. Good Friday Agreement   ->   C. Signed on 10 April 1998 at Belfast\nIV. UK Internal Market Act 2020   ->   D. Regulates the domestic UK market after Brexit",
+     "options": ["I-B, II-A, III-C, IV-D", "I-A, II-B, III-C, IV-D", "I-A, II-C, III-B, IV-D", "I-C, II-A, III-D, IV-B"],
+     "answer": 1,
+     "explanation": "Each Act or agreement is matched to the function the booklet assigns to it."
+    },
+    {
+     "q": "Statements about the Cardiff Pact and the UK:\nI. The Cardiff Pact was signed by leaders from Scotland, Wales and Northern Ireland.\nII. The Good Friday Agreement was signed in Cardiff in 1998.\nIII. The Barnett Formula is used by the UK Treasury to set changes in block grant funding for devolved administrations.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statement II is wrong because the Good Friday Agreement was signed at Belfast, so only I and III are correct."
+    },
+    {
+     "q": "How many of the following statements about the Good Friday Agreement are correct?\nI. It was signed at Cardiff in 1998.\nII. It allows citizens of Northern Ireland to hold Irish or British citizenship or both.\nIII. It allows reunification with Ireland to be sought at any time, subject to a referendum.",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statement I is wrong because the agreement was signed at Belfast, while II and III match the booklet."
+    },
+    {
+     "q": "In the 2016 Brexit referendum, what percentage of Northern Ireland voted to Remain?",
+     "options": ["48%", "62%", "55.8%", "70%"],
+     "answer": 2,
+     "explanation": "The booklet records Northern Ireland at 55.8% Remain, while Scotland was at 62%."
+    },
+    {
+     "q": "The Act of Union that brought Ireland into the United Kingdom was passed in which year?",
+     "options": ["1536", "1707", "1801", "1922"],
+     "answer": 2,
+     "explanation": "The booklet states the Act of Union of 1801 brought Ireland into the United Kingdom."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Union history TITA set",
+   "passage": "The United Kingdom was built in stages, and its constituent nations joined it at different times. Wales was brought into the English legal and political system through an Act of Union passed in the sixteenth century. The English and Scottish parliaments were united in 1707, creating a single new state. Ireland joined later, when another Act of Union brought it into the United Kingdom. Most of Ireland became independent after an Anglo-Irish War, while six counties in the north remained within the United Kingdom as Northern Ireland. Scotland, Wales and Northern Ireland now each have devolved institutions, but the extent of their powers differs. Scotland's Parliament and Wales's legislature were set up by separate Acts of Parliament, and Westminster retains ultimate constitutional authority over all of these arrangements. After Brexit, Northern Ireland came to share a land border with an EU member state. New checks were then introduced between Great Britain and Northern Ireland, and these checks angered Unionists who believed they undermined Northern Ireland's position within the UK. This layered history explains why devolution differs across the nations, and why these tensions continue to shape political debate.",
+   "questions": [
+    {
+     "q": "In which year was the Act of Union that brought Ireland into the United Kingdom passed?",
+     "answer": "1801",
+     "accept": ["1801 AD", "AD 1801"],
+     "explanation": "The Act of Union of 1801 brought Ireland into the United Kingdom."
+    },
+    {
+     "q": "In which year was Wales incorporated into the English legal and political system?",
+     "answer": "1536",
+     "accept": ["AD 1536", "1536 AD"],
+     "explanation": "Wales was incorporated through the Act of Union of 1536."
+    },
+    {
+     "q": "In which year did most of Ireland become independent?",
+     "answer": "1922",
+     "accept": ["AD 1922"],
+     "explanation": "Most of Ireland became independent in 1922, after the Anglo-Irish War."
+    },
+    {
+     "q": "In which year did the Anglo-Irish War begin?",
+     "answer": "1919",
+     "accept": ["AD 1919"],
+     "explanation": "The booklet dates the Anglo-Irish War to 1919-21."
+    },
+    {
+     "q": "Name the Act of Parliament that established the Scottish Parliament.",
+     "answer": "Scotland Act 1998",
+     "accept": ["Scotland Act", "Scotland Act, 1998", "Scotland Act 1998 (UK)"],
+     "explanation": "The Scotland Act 1998 established the Scottish Parliament and devolved substantial domestic powers to it."
+    },
+    {
+     "q": "What was the state called that was formed when the English and Scottish parliaments were united in 1707? (use the full name)",
+     "answer": "Kingdom of Great Britain",
+     "accept": ["Great Britain"],
+     "explanation": "The Acts of Union, 1707 united the English and Scottish Parliaments into the Kingdom of Great Britain."
+    },
+    {
+     "q": "In which year was the Good Friday Agreement signed?",
+     "answer": "1998",
+     "accept": ["AD 1998"],
+     "explanation": "The Good Friday (Belfast) Agreement was signed on 10 April 1998."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 18, "what": "Partition date conflicts: p.18 says Partition of Ireland 1920 while p.21 says Northern Ireland was created in 1921; neither date used"},
+  {"page": 18, "what": "Formation of Union section has caption text overlapping map labels; only clearly readable dates used"},
+  {"page": 19, "what": "Public Impact line reads 'parked debate on Federal Reform' (likely 'sparked'); not used"},
+  {"page": 19, "what": "Westminster Response paragraph is garbled ('acknowled ... ged'); not used"},
+  {"page": 22, "what": "Windsor Framework lane diagram text is garbled; lane rules not used"},
+  {"page": 22, "what": "UK column of the Federal Dispute Settlement row is partly garbled; not used"}
+ ]
+}
