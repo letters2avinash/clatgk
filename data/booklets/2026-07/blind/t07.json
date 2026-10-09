@@ -1,0 +1,187 @@
+{
+ "topic": "Proposed NFSA Amendment for AAY Households",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Proposed AAY Entitlement Change",
+   "summary": "The Union Government has proposed amending Section 3(1) of the National Food Security Act 2013 to change foodgrain entitlement for Antyodaya Anna Yojana households. The current rule gives each AAY household a fixed 35 kg per month irrespective of family size. The proposal shifts the basis to individuals, at 7 kg per person per month, with a maximum of 35 kg per household.",
+   "facts": [
+    "Amendment seeks to modify Section 3(1) of NFSA 2013 relating to AAY foodgrain entitlement",
+    "Current provision: every AAY household receives 35 kg per month irrespective of family size",
+    "Proposed provision: every individual in an AAY household receives 7 kg per month",
+    "Proposed ceiling: maximum 35 kg per household",
+    "The proposal moves the basis of AAY entitlement from household to individual",
+    "The proposal has been made by the Union Government"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Rationale and Limits of the Amendment",
+   "summary": "The Union Government argues that the household-based AAY entitlement creates inequities within the category. Small households receive more foodgrain per person than larger ones, and the amendment would make distribution proportional to household size. The government also says the change reduces disparities with Priority Household beneficiaries, but the amendment does not address inclusion errors.",
+   "facts": [
+    "Government argues the household-based entitlement creates inequities within the AAY category",
+    "Per capita inequality: small households receive more foodgrain per person than larger households",
+    "Better equity: distribution becomes proportional to household size",
+    "Rationalisation: allocation aligned more closely with nutritional requirements",
+    "Uniformity: reduces disparities between AAY and Priority Household beneficiaries",
+    "Limitation: the amendment does not address inclusion errors, where ineligible beneficiaries continue to receive NFSA benefits"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "NFSA 2013 and Beneficiary Categories",
+   "summary": "The National Food Security Act 2013 was enacted to ensure food and nutritional security through subsidised foodgrains under the Targeted Public Distribution System. It made foodgrain access a legal right for two-thirds of the population. AAY households get 35 kg per month and PHH households get 5 kg per person per month at subsidised rates.",
+   "facts": [
+    "NFSA 2013 was enacted to ensure food and nutritional security",
+    "It provides subsidised foodgrains through the Targeted Public Distribution System",
+    "It made foodgrain access a legal right for two-thirds of the population",
+    "AAY is meant for the poorest of the poor households",
+    "AAY families get 35 kg per month, fixed per household",
+    "PHH covers other eligible households",
+    "PHH get 5 kg per person per month",
+    "AAY entitlement is fixed per household; PHH entitlement is per person"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "PDS Background and PMGKAY",
+   "summary": "The Public Distribution System was introduced by the British during World War II, after the 1942-43 Bengal famine, to control food prices and ration foodgrains. It was initially focused on urban food security and expanded to tribal and poor areas after the Green Revolution. PMGKAY (2020) added extra free foodgrains for NFSA beneficiaries.",
+   "facts": [
+    "PDS in India was introduced by the British during World War II",
+    "It was introduced after the 1942-43 Bengal famine to control food prices and ration foodgrains",
+    "Initially focused on urban food security",
+    "Expanded to tribal and poor areas after the Green Revolution in the 1970s and 1980s",
+    "Essential goods distributed: wheat, sugar, rice and kerosene",
+    "Administered by the Ministry of Consumer Affairs, Food and Public Distribution",
+    "RPDS (1992) aims to extend PDS access to remote, hilly areas through an area-based approach",
+    "PMGKAY (2020) provided an extra 5 kg of free foodgrains to AAY and PHH beneficiaries",
+    "PMGKAY covered 81.35 crore people alongside regular PDS entitlements",
+    "Kerala set up one of India's earliest PDS in 1962; Tamil Nadu introduced universal free rice distribution in 2011"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t07-0",
+   "type": "MCQ",
+   "passage": "The Union Government has proposed an amendment to the National Food Security Act, 2013, that would change how foodgrains are allocated to households under the Antyodaya Anna Yojana. At present, each AAY household receives a fixed quantity of foodgrain each month, no matter how many members it has. The government argues that this household-based system creates inequities within the AAY category, because small households end up receiving more foodgrain per person than larger households. Under the proposal, the entitlement would be worked out for each individual in the household, with an overall ceiling for each household. The government expects this to make distribution more proportional to household size and to align allocation more closely with nutritional requirements. The change would also reduce disparities between AAY households and Priority Households. The amendment, however, does not deal with every problem in the system, because inclusion errors remain. The National Food Security Act was enacted to ensure food and nutritional security through subsidised foodgrains delivered by a targeted system. The households concerned belong to the poorest group within the Act, which is why any change to their entitlement draws close attention. The proposal is still under consideration and is discussed here as a change in the making, so its final shape may differ from what is described above.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which Section of the National Food Security Act 2013 does the proposed amendment seek to modify?",
+     "options": [
+      "Section 2(1)",
+      "Section 5(1)",
+      "Section 3(1)",
+      "Section 7(2)"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Under the proposed amendment, how much foodgrain does each individual in an AAY household receive per month?",
+     "options": [
+      "7 kg",
+      "5 kg",
+      "10 kg",
+      "35 kg"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What is the maximum foodgrain entitlement cap per AAY household per month under the proposed amendment?",
+     "options": [
+      "25 kg",
+      "30 kg",
+      "50 kg",
+      "35 kg"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The proposal would reduce disparities between AAY and PHH beneficiaries.\nReason (R): Under NFSA 2013, PHH beneficiaries receive 5 kg of foodgrain per person per month.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Individual entitlement under the proposal (AAY)   ->   A. 5 kg per person per month\nII. Household ceiling under the proposal   ->   B. 2020\nIII. PHH entitlement under NFSA 2013   ->   C. 7 kg per individual per month\nIV. Year PMGKAY was launched   ->   D. 35 kg per household per month",
+     "options": [
+      "I-C, II-A, III-D, IV-B",
+      "I-B, II-A, III-C, IV-D",
+      "I-C, II-D, III-A, IV-B",
+      "I-D, II-B, III-A, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the proposed NFSA amendment:\nI. It seeks to modify the entitlement under Section 3(1) for AAY households.\nII. It addresses inclusion errors where ineligible beneficiaries receive NFSA benefits.\nIII. It would make distribution proportional to household size.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about the proposed NFSA amendment are correct?\nI. It seeks to modify Section 3(1) of the NFSA 2013.\nII. The proposed AAY ceiling is 50 kg per household per month.\nIII. Per capita inequality is cited as a reason for the change.\nIV. Priority Household beneficiaries currently receive 5 kg per person per month.",
+     "options": [
+      "Only one",
+      "All four",
+      "Only two",
+      "Only three"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Under the current NFSA 2013 arrangement, how much foodgrain does every AAY household receive per month, irrespective of family size?",
+     "options": [
+      "35 kg",
+      "7 kg",
+      "5 kg",
+      "50 kg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t07-1",
+   "type": "TITA",
+   "passage": "Foodgrain entitlements under the National Food Security Act are linked to categories of beneficiaries. Within the Antyodaya Anna Yojana, the present design gives a single fixed amount to each household, so the amount a person gets depends on how many people share the household. The Union Government has argued that this design produces inequities inside the category. A revised design would calculate the entitlement for each individual, while keeping a ceiling for each household so that large families do not receive unlimited grain. The government expects this to link allocation more closely with what people need to eat, and to make treatment across categories more uniform. The proposal does not, however, tackle one important concern in the system. Readers should remember that the amendment is still a proposal under discussion, and that its aims and limits are described in the booklet. The discussion covers the logic of the change, the effect on different households, and the parts of the system that remain unchanged. The rules discussed here are a useful base for answering questions on this theme. Each part of the revised design is linked to a clear purpose, and the passage is meant to help a reader connect the purpose with the mechanism that the government has described for achieving it.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What term describes the concern the proposal does not tackle, where ineligible beneficiaries continue to receive NFSA benefits? (two words)"
+    },
+    {
+     "n": 2,
+     "q": "Under the revised design, distribution would become proportional to what? (two words)"
+    },
+    {
+     "n": 3,
+     "q": "The government expects the revised design to align allocation more closely with which requirements? (two words)"
+    },
+    {
+     "n": 4,
+     "q": "What term describes small households receiving more foodgrain per person than larger households? (three words)"
+    },
+    {
+     "n": 5,
+     "q": "The amendment aims to reduce disparities between AAY and which other beneficiary category? (short name)"
+    },
+    {
+     "n": 6,
+     "q": "How many kg per month would each individual in an AAY household receive under the proposal? (in kg)"
+    },
+    {
+     "n": 7,
+     "q": "Which Section of the NFSA 2013 does the amendment modify? (in the form 3(x))"
+    }
+   ]
+  }
+ ]
+}

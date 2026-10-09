@@ -1,0 +1,472 @@
+[
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 6,
+  "what": "Heading 'Strategic & Industrial Growth' and the '4x' label beside the drivers are garbled; only the four driver descriptions were used."
+ },
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 7,
+  "what": "Ordinal superscripts ('1st') for Israel, Bushehr and the UAE are garbled; 'first' claims for Bushehr and the UAE were not used."
+ },
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 8,
+  "what": "Manhattan Project date range conflicts (1939-1945 heading vs 1942-45 subheading); no date range was used."
+ },
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 8,
+  "what": "Chernobyl Disaster (1986) entry and its placement in the timeline are garbled; not used."
+ },
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 9,
+  "what": "Tata Institute of Fundamental Research line is garbled ('Retell Gilad)'); not used."
+ },
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 9,
+  "what": "Later name of the 1954 Atomic Energy Establishment, Trombay is garbled; only BARC is used."
+ },
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 9,
+  "what": "Name of the 1948 atomic energy law is garbled ('PNT Te aay'); not used."
+ },
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 9,
+  "what": "Asia's first research reactor name is garbled ('CYECICH') and its year cannot be matched to the 1956/1958/1969 row; not used."
+ },
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 9,
+  "what": "Year for the Three-Stage Nuclear Programme adoption (1956 or 1958) is unclear in the layout; not used."
+ },
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 9,
+  "what": "Acronym '(Cex)' for the Indira Gandhi Centre for Atomic Research is garbled; centre not used."
+ },
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 9,
+  "what": "Rajasthan Atomic Power Station year and 'later indigenised' phrase are unclear; not used."
+ },
+ {
+  "topic": "US-Saudi 123 Civil Nuclear Agreement",
+  "page": 9,
+  "what": "2008 NSG/civil trade entry title is garbled ('BSSMIEIEY grantea'); not used."
+ },
+ {
+  "topic": "India-Indonesia Relations",
+  "page": 12,
+  "what": "Sidebar caption for the air-to-air missile image is garbled (Visual Range Air-to-Air Missile wording); caption not used."
+ },
+ {
+  "topic": "India-Indonesia Relations",
+  "page": 13,
+  "what": "Sentence ending for Indonesia's role as India's strategic partner in ASEAN engagement is cut off; not used."
+ },
+ {
+  "topic": "India-Indonesia Relations",
+  "page": 13,
+  "what": "NAM membership figure (120 member countries) sits in a partly garbled caption; not used."
+ },
+ {
+  "topic": "India-Indonesia Relations",
+  "page": 13,
+  "what": "Some NAM founder names in the portrait labels are garbled (Ahmed / Abdel); only clearly readable founders used."
+ },
+ {
+  "topic": "India-Indonesia Relations",
+  "page": 13,
+  "what": "NAM failures list is scrambled across columns (Arab-Israel conflict wording); only clearly readable failures used."
+ },
+ {
+  "topic": "130th Constitution Amendment Bill",
+  "page": 16,
+  "what": "The three-Bills table is garbled: the removal-authority and conditions columns (including the Lieutenant-Governor and Administrator row labels) cannot be read reliably, and the removal rule for the Prime Minister himself is not readable, so only the headline mention is used."
+ },
+ {
+  "topic": "130th Constitution Amendment Bill",
+  "page": 17,
+  "what": "The year of the Lily Thomas case in the Extra Shots box is cut off (reads '201'); the year is not used in the content."
+ },
+ {
+  "topic": "130th Constitution Amendment Bill",
+  "page": 18,
+  "what": "The vote thresholds in the flowchart (votes required 225 and 350, 95 not voting or absent, and the majority and two-thirds wording) are garbled and cannot be tied to a House or a Bill type, so they are not used."
+ },
+ {
+  "topic": "Autonomous Hill Development Councils expanded across Ladakh",
+  "page": 21,
+  "what": "Map labels (for example PAKISTAN, HIMACHAL PRADESH and the China and Tibet labels) are garbled in OCR; not used."
+ },
+ {
+  "topic": "Autonomous Hill Development Councils expanded across Ladakh",
+  "page": 21,
+  "what": "The district list in the Expansion of AHDCs bullet is split across lines; only the complete 7-district list on page 22 was used."
+ },
+ {
+  "topic": "Autonomous Hill Development Councils expanded across Ladakh",
+  "page": 22,
+  "what": "The state-to-Article table for Articles 370 and 371 to 371J has jumbled columns in OCR; no state-to-article pairings were used."
+ },
+ {
+  "topic": "Delhi Electric Vehicle Policy 2.0",
+  "page": 25,
+  "what": "NEMMP target line is partly garbled ('Aims to put 6-7 million ... e-vehicles on roads by 2020'); the figure was not used"
+ },
+ {
+  "topic": "Delhi Electric Vehicle Policy 2.0",
+  "page": 26,
+  "what": "Government allocation figure (printed as 27,000 crore) is unclear and does not fit the approx 15,000 crore total; not used"
+ },
+ {
+  "topic": "Delhi Electric Vehicle Policy 2.0",
+  "page": 27,
+  "what": "PM E-DRIVE eligible-category list and incentive details (15% of factory price, capital support) are garbled; not used"
+ },
+ {
+  "topic": "PM Surya Ghar: Muft Bijli Yojana",
+  "page": 30,
+  "what": "'Launched in 2014' line is merged with Pradhan Mantri Suryodaya Yojana text in the OCR; the 2014 year was not used"
+ },
+ {
+  "topic": "PM Surya Ghar: Muft Bijli Yojana",
+  "page": 30,
+  "what": "'Goal: 40 GW by 2026' sits beside the Financial Support text; attribution unclear, not used"
+ },
+ {
+  "topic": "PM Surya Ghar: Muft Bijli Yojana",
+  "page": 30,
+  "what": "Population figure for the ISA access mission is garbled ('| Billion (1000 Million) People'); not used"
+ },
+ {
+  "topic": "PM Surya Ghar: Muft Bijli Yojana",
+  "page": 30,
+  "what": "Order of the top contributing states (Gujarat, Maharashtra, Rajasthan) is garbled; only the set of names was used"
+ },
+ {
+  "topic": "PM Surya Ghar: Muft Bijli Yojana",
+  "page": 31,
+  "what": "India's installed solar capacity '150.26 GW in 2025' has a garbled trailing '26.'; figure not used"
+ },
+ {
+  "topic": "PM Surya Ghar: Muft Bijli Yojana",
+  "page": 31,
+  "what": "China (2258.02 GW) and United States (467.92 GW) installed capacity figures have garbled decimals; not used"
+ },
+ {
+  "topic": "PM Surya Ghar: Muft Bijli Yojana",
+  "page": 32,
+  "what": "Carbon intensity target reads 'less than 45 percent by 2030', wording may be altered in OCR; intensity figure not used in facts or questions"
+ },
+ {
+  "topic": "Proposed NFSA Amendment for AAY Households",
+  "page": 35,
+  "what": "AAY and PHH per-kg pricing figures are garbled in OCR; not used"
+ },
+ {
+  "topic": "Proposed NFSA Amendment for AAY Households",
+  "page": 35,
+  "what": "Rationale diagram: which benefit (cash assistance, nutrition for children) maps to which age group is not clearly legible; not used"
+ },
+ {
+  "topic": "Proposed NFSA Amendment for AAY Households",
+  "page": 36,
+  "what": "Paragraph on RPDS-era BPL and APL families (1993-94 Lakdawala estimates) and the 25 kg to 35 kg paragraph: the scheme they belong to is unclear from layout; not used by name"
+ },
+ {
+  "topic": "Proposed NFSA Amendment for AAY Households",
+  "page": 36,
+  "what": "Name of the body established under the 1964 Act (MSP procurement, buffer stocks) is not legible; not used"
+ },
+ {
+  "topic": "Proposed NFSA Amendment for AAY Households",
+  "page": 38,
+  "what": "Launch year of Antyodaya Anna Yojana and the crisis linked to PMGKAY are not stated in the text; not used"
+ },
+ {
+  "topic": "Proposed NFSA Amendment for AAY Households",
+  "page": 38,
+  "what": "Constitutional provision question (List and Entry options) is garbled; not used"
+ },
+ {
+  "topic": "India-UK Comprehensive Economic and Trade Agreement (CETA)",
+  "page": 39,
+  "what": "The Why in News line is split and garbled ('Security Agreement) as key aspect of Trade Deal'); the full name of the social security agreement was not used."
+ },
+ {
+  "topic": "India-UK Comprehensive Economic and Trade Agreement (CETA)",
+  "page": 39,
+  "what": "Map labels and boxes (for example 'Exton Site') are garbled; no map-based facts were used."
+ },
+ {
+  "topic": "India-UK Comprehensive Economic and Trade Agreement (CETA)",
+  "page": 40,
+  "what": "Text says the EU involves 28 European countries; this count may be outdated after Brexit and was not used."
+ },
+ {
+  "topic": "India-UK Comprehensive Economic and Trade Agreement (CETA)",
+  "page": 41,
+  "what": "Practice-question options for India's rank as UK's trading partner are garbled ('1\"'); the 11th rank was taken from the page 39 highlight only."
+ },
+ {
+  "topic": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+  "page": 43,
+  "what": "Denomination in the 'RBI invited bids to procure polymer ... notes' box is garbled; not used."
+ },
+ {
+  "topic": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+  "page": 43,
+  "what": "Field trial failure reasons and the city-to-climate labels (Shimla, Bhubaneswar, Kochi, Mysuru) are garbled; not used."
+ },
+ {
+  "topic": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+  "page": 43,
+  "what": "The reference to the 2014-15 Annual Report and the field trial details are garbled; not used."
+ },
+ {
+  "topic": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+  "page": 43,
+  "what": "The 'NEVER IMPLEMENTED' label is placed unclearly; its link to the 2009 proposal is not confirmed, so not used."
+ },
+ {
+  "topic": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+  "page": 44,
+  "what": "The low-denomination cost burden line and the import-dependency supply-disruption wording are garbled; not used."
+ },
+ {
+  "topic": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+  "page": 45,
+  "what": "The city of the second SPMCIL press in Madhya Pradesh reads as 'bewas' (possibly Dewas); not used."
+ },
+ {
+  "topic": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+  "page": 45,
+  "what": "The 2005 denominations box and the MGNS 'refresh' detail are garbled; not used."
+ },
+ {
+  "topic": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+  "page": 45,
+  "what": "The symbol and watermark description in the first-banknote box ('Replacing Colonial ... Pillar (Sarnath)') is garbled; not used."
+ },
+ {
+  "topic": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+  "page": 46,
+  "what": "Conflicting reference: page 46 cites the Coinage Act 1909 for coins and the Re 1 note, while pages 44-45 cite the Coinage Act 2011; not used."
+ },
+ {
+  "topic": "16th India-Japan Annual Summit 2026",
+  "page": 50,
+  "what": "Second Shinkansen series name is garbled ('ES' or E5); only the E10 and E3 series are used"
+ },
+ {
+  "topic": "16th India-Japan Annual Summit 2026",
+  "page": 50,
+  "what": "Name of the UK-based design firm for the E10 is garbled ('Tangerin'); not used"
+ },
+ {
+  "topic": "16th India-Japan Annual Summit 2026",
+  "page": 50,
+  "what": "Year '(2016)' next to National High-Speed Rail Corporation Limited is unclear in meaning (formation or other event); not used"
+ },
+ {
+  "topic": "16th India-Japan Annual Summit 2026",
+  "page": 49,
+  "what": "Japan facts sidebar (Kuril Islands line and other entries) is partly garbled; not used"
+ },
+ {
+  "topic": "16th India-Japan Annual Summit 2026",
+  "page": 51,
+  "what": "National Green Hydrogen Mission cost ceiling ('under 7100/kg') is garbled (currency and figure); not used"
+ },
+ {
+  "topic": "16th India-Japan Annual Summit 2026",
+  "page": 51,
+  "what": "Current green hydrogen cost in India ('%350-400/kg'): currency symbol garbled; figure not used"
+ },
+ {
+  "topic": "16th India-Japan Annual Summit 2026",
+  "page": 51,
+  "what": "Expected 2030 outcomes: annual green hydrogen production ('SMMT'), CO2 emissions averted ('SOMMT'), jobs ('Glakh jobs') and investment ('%8 lakh crore') are garbled; not used"
+ },
+ {
+  "topic": "16th India-Japan Annual Summit 2026",
+  "page": 51,
+  "what": "Hydrogen colour diagram labels (grey, blue, green) and the underground storage link are garbled; colour-to-source mapping not used"
+ },
+ {
+  "topic": "UN Sustainable Development Report 2026",
+  "page": 54,
+  "what": "Number of countries ranked: 167 on this page versus 169 on page 55; country count not used"
+ },
+ {
+  "topic": "UN Sustainable Development Report 2026",
+  "page": 55,
+  "what": "'Released By: UN SDSN (2012)' - the year is ambiguous and was not used as a founding year"
+ },
+ {
+  "topic": "UN Sustainable Development Report 2026",
+  "page": 55,
+  "what": "List of SDGs said to face the greatest global challenges is interleaved with other text; goal list not used"
+ },
+ {
+  "topic": "UN Sustainable Development Report 2026",
+  "page": 56,
+  "what": "List of goals under 'Areas Facing Major Structural Challenges' is interleaved with US withdrawal text; not used"
+ },
+ {
+  "topic": "UN Sustainable Development Report 2026",
+  "page": 57,
+  "what": "Protocol years garbled: Kyoto Protocol (20014), Cancun Agreements (2040), Paris Agreement (2045); attribution of the USD 100 billion goal not used"
+ },
+ {
+  "topic": "UN Sustainable Development Report 2026",
+  "page": 57,
+  "what": "Long-term climate finance timeline diagram is garbled; not used"
+ },
+ {
+  "topic": "UN Sustainable Development Report 2026",
+  "page": 58,
+  "what": "Earth Summit count 'More than 178' sits beside garbled text ('jopted'); not used"
+ },
+ {
+  "topic": "Vikram-1: India's Private Orbital Rocket",
+  "page": 61,
+  "what": "A '4 F' fragment beside the description of the first three stages (Kalam Engines) is garbled; only 'advanced solid propellants' was used"
+ },
+ {
+  "topic": "Vikram-1: India's Private Orbital Rocket",
+  "page": 62,
+  "what": "The developer name for the SOLARAS CubeSat is garbled; not used"
+ },
+ {
+  "topic": "Vikram-1: India's Private Orbital Rocket",
+  "page": 62,
+  "what": "The name of the German payload ('German Deubed's Payload') is garbled; not used"
+ },
+ {
+  "topic": "Vikram-1: India's Private Orbital Rocket",
+  "page": 63,
+  "what": "The headquarters city for Antrix Corporation and NewSpace India Limited is ambiguous (two 'HQ: Bangalore' lines in the layout); only the Antrix year and the NewSpace India Limited year were used"
+ },
+ {
+  "topic": "India's first indigenous Hydrogen-powered Train",
+  "page": 67,
+  "what": "Namo Bharat line 'Connect Bhuj ... with capital Ahmedabad' is unclear (Bhuj route not used)"
+ },
+ {
+  "topic": "India's first indigenous Hydrogen-powered Train",
+  "page": 67,
+  "what": "Konkan Railway tunnel line ('Asia's Largest Tunnel ... nearly 6.5 km long') has no clear name, so the tunnel was not used"
+ },
+ {
+  "topic": "India's first indigenous Hydrogen-powered Train",
+  "page": 67,
+  "what": "UNESCO line ('Indian Railways has 2 UNESCO World Heritage Sites') is interleaved with the CSMT sidebar, so it was not used"
+ },
+ {
+  "topic": "India's first indigenous Hydrogen-powered Train",
+  "page": 66,
+  "what": "Mountain railway years (1999, 2005, 2008) and the separate '(2004)' line are not tied to a clear label, so they were not used"
+ },
+ {
+  "topic": "India's first indigenous Hydrogen-powered Train",
+  "page": 69,
+  "what": "Mission 41K option (c) reads '241,000 Crore' in OCR; page 67 gives Rs 41000 Crore, and the option figure was not used"
+ },
+ {
+  "topic": "FIFA World Cup 2026",
+  "page": 71,
+  "what": "The 22-goal all-time World Cup scoring record: the column layout does not make clear whom it applies to (Mbappé is the likely subject); not used."
+ },
+ {
+  "topic": "FIFA World Cup 2026",
+  "page": 71,
+  "what": "Third-place scoreline reads 'England 6 - 4' with France split onto the next line; only the third-place finish was used."
+ },
+ {
+  "topic": "FIFA World Cup 2026",
+  "page": 72,
+  "what": "Share of the world's footballs made in Sialkot ('more than 2/3') is OCR-garbled; not used."
+ },
+ {
+  "topic": "FIFA World Cup 2026",
+  "page": 73,
+  "what": "Bronze Ball and Bronze Boot labels are not legible; the third-listed names (Kylian Mbappé, Jude Bellingham) were not used as awards."
+ },
+ {
+  "topic": "FIFA World Cup 2026",
+  "page": 75,
+  "what": "1974 final score reads '2-7' in the host table, conflicting with 2-1 on page 74; not used."
+ },
+ {
+  "topic": "FIFA World Cup 2026",
+  "page": 75,
+  "what": "2014 result row is blank, 2010 stage reads 'Group 4', and the sidebar continent counts are garbled; not used."
+ },
+ {
+  "topic": "FIFA World Cup 2026",
+  "page": 76,
+  "what": "Practice questions have no answer key and some options are garbled; no answers were taken from them."
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 79,
+  "what": "Seychelles 'Guardian of Blue Horizon' sentence has conflicting wording on whose highest civilian distinction was conferred; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 80,
+  "what": "Kudankulam attack: contractor wording (Reliance Infrastructure, Units 3 and 4) and which party detected the suspicious activity (Yotta Data Services) are overlapped by layout; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 83,
+  "what": "Railway Transport growth figure in the Declining Sectors box (0.4% and its sign) is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 84,
+  "what": "National Supercomputing Mission implementing agency wording (C-DAC and IISc Bengaluru) is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 85,
+  "what": "Article 347 number and heading are garbled (only the description is readable); not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 87,
+  "what": "Rana Group UAE automobile project line is cut off, and the GM domain name and TE&T indicator split in the PGI table are garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 88,
+  "what": "Monarch named for the 2026 Commonwealth Games reads 'Charles II' and may be garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous",
+  "page": 88,
+  "what": "India Commonwealth Games sidebar overlaps (participation year and medal count); not used"
+ },
+ {
+  "topic": "Current Affairs July 2026: AILET Corner",
+  "page": 89,
+  "what": "Sushruta's period (century BCE) is garbled ('7°— 6\" Century BCE'); not used"
+ },
+ {
+  "topic": "Current Affairs July 2026: AILET Corner",
+  "page": 89,
+  "what": "Beth Mooney's rank word in 'first player to win two Player of Tournament awards' is garbled ('1*'); not used"
+ },
+ {
+  "topic": "Current Affairs July 2026: AILET Corner",
+  "page": 92,
+  "what": "Pressure and wind labels in the monsoon mechanism diagram are garbled; only the text lines were used"
+ }
+]

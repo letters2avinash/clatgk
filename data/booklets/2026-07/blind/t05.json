@@ -1,0 +1,189 @@
+{
+ "topic": "Delhi Electric Vehicle Policy 2.0",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Policy Overview and Targets",
+   "summary": "Delhi EV Policy 2.0 was notified by the Government of NCT of Delhi and is scheduled to come into force from 1 July 2026, remaining effective until 31 March 2030. It builds upon the achievements of Delhi EV Policy 2020 and aims to turn Delhi into a leading electric mobility hub. The policy targets at least 30% electrification of Delhi's total vehicle fleet by 31 March 2030, with a focus on high-usage and high-emission transport segments.",
+   "facts": [
+    "Notified by the Government of NCT of Delhi",
+    "In force from 1 July 2026",
+    "Effective until 31 March 2030",
+    "Builds upon the achievements of Delhi EV Policy 2020",
+    "Electrification target: at least 30% of Delhi's total vehicle fleet by 31 March 2030",
+    "Focus: electrification of high-usage and high-emission transport segments",
+    "Priority segments: 2-wheelers, 3-wheelers, commercial goods carriers, school buses, app-based aggregator fleets, government-owned transport fleets",
+    "Objective: widespread adoption of zero-emission vehicles",
+    "Objective: reduce urban air pollution and greenhouse gas emissions"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Registration Rules and Phase-out",
+   "summary": "New registrations in Delhi move to electric models in stages. From 1 January 2027 only electric 3-wheelers and electric N1 category light commercial trucks can be newly registered, and from 1 April 2028 new 2-wheeler registrations are restricted to electric models. Existing petrol and diesel vehicles may keep operating until the end of their prescribed service life. Schools must also electrify part of their bus fleets.",
+   "facts": [
+    "From 1 January 2027: only electric 3-wheelers and electric N1 category light commercial trucks newly registered",
+    "From 1 April 2028: registration of new 2-wheelers restricted exclusively to electric models",
+    "Existing petrol and diesel vehicles registered in Delhi may operate until the end of their prescribed service life",
+    "N1 category refers to light commercial trucks",
+    "Schools must convert at least 10% of their bus fleet into electric buses within 2 years of policy implementation",
+    "Long-term objective: 30% electrification of school bus fleets by 2030"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Investment, Support and Charging",
+   "summary": "The policy plans total investment of approximately 15,000 crore. Government support is restricted exclusively to battery electric vehicles and not to hybrid vehicles. The plan includes installing over 30,000 public charging stations across Delhi. Financial support and investment is handled by the Delhi Transport Department, and infrastructure development by Delhi Transco Limited.",
+   "facts": [
+    "Total planned investment: approximately 15,000 crore",
+    "Government support restricted exclusively to battery electric vehicles, not hybrid vehicles",
+    "Over 30,000 public charging stations planned across Delhi",
+    "Financial support and investment implemented by Delhi Transport Department",
+    "Infrastructure development implemented by Delhi Transco Limited",
+    "Key objective: strengthen charging and battery-swapping infrastructure",
+    "Key objective: encourage sustainable public and commercial transport"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "National Schemes: NEMMP, FAME and PM E-DRIVE",
+   "summary": "Delhi's policy sits within national electric mobility efforts. The National Electric Mobility Mission Plan was launched in 2013, and the government committed to achieve 30% e-mobility by 2030. FAME India, launched by the Ministry of Heavy Industries & Public Enterprises, is part of that mission plan and offers subsidies for several vehicle types. PM E-DRIVE, launched in 2024 with the Ministry of Heavy Industries as nodal ministry, builds on FAME-II and the Electric Mobility Promotion Scheme 2024.",
+   "facts": [
+    "National Electric Mobility Mission Plan launched in 2013",
+    "Government committed to achieve 30% e-mobility by 2030",
+    "FAME India launched by Ministry of Heavy Industries & Public Enterprises",
+    "FAME India is a part of the National Electric Mobility Mission Plan",
+    "FAME subsidy can be claimed for two-wheelers, three-wheelers, electric and hybrid cars and electric buses",
+    "PM E-DRIVE launched in 2024; scheme period 2024-2026",
+    "PM E-DRIVE nodal ministry: Ministry of Heavy Industries",
+    "PM E-DRIVE objectives: reduce upfront EV cost and expedite EV adoption",
+    "PM E-DRIVE objectives: establish public EV charging and promote EV manufacturing ecosystem",
+    "PM E-DRIVE builds on FAME-II and Electric Mobility Promotion Scheme 2024"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t05-0",
+   "type": "MCQ",
+   "passage": "The Government of the National Capital Territory of Delhi has notified the Delhi Electric Vehicle Policy 2.0, which is scheduled to come into force from 1 July 2026. The policy will remain effective until 31 March 2030. It builds upon the achievements of the Delhi EV Policy 2020 and provides a comprehensive roadmap for transforming Delhi into a leading electric mobility hub. A central aim is to reduce vehicular emissions by encouraging the electrification of high-usage and high-emission transport segments. The policy sets an electrification target of at least 30 per cent of Delhi's total vehicle fleet by 31 March 2030. Several segments have been identified as priorities, including two-wheelers, three-wheelers, commercial goods carriers, school buses, app-based aggregator fleets and government-owned transport fleets. The policy also seeks to promote the widespread adoption of zero-emission vehicles, reduce urban air pollution and greenhouse gas emissions, and encourage sustainable public and commercial transport. It is linked to India's clean energy and climate commitments. The idea of electric mobility is not new in India. The National Electric Mobility Mission Plan, launched in 2013, set out an earlier national plan to expand the number of electric vehicles on the roads. Delhi's policy therefore sits within a longer national effort to shift transport away from petrol and diesel vehicles.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which department is responsible for financial support and investment under Delhi EV Policy 2.0?",
+     "options": [
+      "Delhi Transco Limited",
+      "Delhi Pollution Control Committee",
+      "Delhi Transport Department",
+      "Ministry of Road Transport and Highways"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Assertion (A): The policy sets an electrification target of at least 30 per cent of Delhi's total vehicle fleet by 31 March 2030.\nReason (R): Government financial support under the policy is restricted to battery electric vehicles only.",
+     "options": [
+      "Both A and R are true and R explains A",
+      "Both A and R are true but R does not explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Match List I with List II:\nI. Registration restricted to electric 3-wheelers and N1 trucks   ->   A. 30% by 2030\nII. Electric-only registration of new 2-wheelers   ->   B. 10% of school bus fleet within 2 years\nIII. School bus conversion target within 2 years   ->   C. 1 April 2028\nIV. Long-term school bus electrification target   ->   D. 1 January 2027",
+     "options": [
+      "I-C, II-B, III-A, IV-D",
+      "I-C, II-A, III-B, IV-D",
+      "I-A, II-D, III-C, IV-B",
+      "I-D, II-C, III-B, IV-A"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following statements about Delhi EV Policy 2.0:\nI. Delhi Transco Limited is responsible for infrastructure development under the policy.\nII. Government financial support under the policy extends to hybrid vehicles.\nIII. The total planned investment under the policy is approximately 15,000 crore.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Within how many years of the policy's implementation must schools convert at least 10 per cent of their bus fleet into electric buses?",
+     "options": [
+      "1 year",
+      "3 years",
+      "4 years",
+      "2 years"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about Delhi EV Policy 2.0:\n1. The policy plans installation of over 30,000 public charging stations across Delhi.\n2. Government financial support is available to hybrid vehicles under the policy.\n3. Existing petrol and diesel vehicles registered in Delhi may operate until the end of their prescribed service life.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which of the following is listed as a key objective of PM E-DRIVE?",
+     "options": [
+      "Reduce upfront EV cost",
+      "Ban all private cars from Delhi roads",
+      "Increase petrol and diesel vehicle registrations",
+      "Promote hydrogen fuel cell buses"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Which ministry is the nodal ministry for PM E-DRIVE (2024-2026)?",
+     "options": [
+      "Ministry of Road Transport and Highways",
+      "Ministry of New and Renewable Energy",
+      "Ministry of Heavy Industries",
+      "Ministry of Power"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t05-1",
+   "type": "TITA",
+   "passage": "Delhi's electric vehicle policy changes which new vehicles can be registered in the city, and it does so in stages rather than all at once. The first categories affected are electric three-wheelers and light commercial trucks, while two-wheelers come later in the schedule. Schools are also covered by the transition. Their bus fleets must include a growing share of electric buses, and the policy sets a longer-term goal for the whole school bus fleet. School buses are one of several priority segments, which also include commercial goods carriers, app-based aggregator fleets and government-owned transport fleets. The policy's wider objective is to reduce urban air pollution and greenhouse gas emissions. It also aims to encourage sustainable public and commercial transport across the city. Together, the registration rules and school bus targets show how the policy moves Delhi towards electric mobility over the period up to 2030. The policy is notified by the Government of the National Capital Territory of Delhi and comes into force from 1 July 2026. Demand for petrol and diesel is expected to reduce, and new jobs are expected to be created in the automobile sector. Reduction in pollution-induced health problems is also listed as a benefit. The booklet lists these as expected benefits of the shift towards electric vehicles.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "From which year will only electric 3-wheelers and electric N1 category light commercial trucks be newly registered in Delhi?"
+    },
+    {
+     "n": 2,
+     "q": "From which year will new 2-wheeler registration in Delhi be restricted exclusively to electric models?"
+    },
+    {
+     "n": 3,
+     "q": "What minimum percentage (in per cent) of their bus fleet must schools convert to electric buses within 2 years of the policy's implementation?"
+    },
+    {
+     "n": 4,
+     "q": "What is the long-term target (in per cent) for electrification of school bus fleets by 2030?"
+    },
+    {
+     "n": 5,
+     "q": "Which body is responsible for infrastructure development under the policy?"
+    },
+    {
+     "n": 6,
+     "q": "Until the end of what is existing petrol and diesel vehicles registered in Delhi permitted to operate?"
+    },
+    {
+     "n": 7,
+     "q": "What is the total planned investment under the policy (in crore rupees)?"
+    }
+   ]
+  }
+ ]
+}
