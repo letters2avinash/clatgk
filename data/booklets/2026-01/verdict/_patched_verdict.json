@@ -1,0 +1,45 @@
+{
+  "questions": [
+    {
+      "id": "t-t01-1",
+      "n": 6,
+      "my_answer": "1823",
+      "supported": true,
+      "evidence": {
+        "page": 8,
+        "quote": "Proclaimed: 1823"
+      },
+      "issues": []
+    },
+    {
+      "id": "t-t08-1",
+      "n": 3,
+      "my_answer": "16 January",
+      "supported": true,
+      "evidence": {
+        "page": 48,
+        "quote": "India marks 10 Years of Startup India Initiative as National Startup Day (16 Jan)"
+      },
+      "issues": []
+    },
+    {
+      "id": "t-t11-1",
+      "n": 5,
+      "my_answer": "83",
+      "supported": true,
+      "evidence": {
+        "page": 66,
+        "quote": "Ratified By: 83 Countries (India has signed the agreement, Ratification Pending)"
+      },
+      "issues": ["time_sensitive"]
+    }
+  ],
+  "passage_flags": [
+    {
+      "quiz": "q-t13-0",
+      "claim": "Recent results show the value of this support: Indian athletes won several medals at the Paris Olympics and Paralympics, and young players have also made headlines in chess and shooting.",
+      "problem": "The booklet (t13 page 78) lists the Paris Olympics (6 medals), Praveen Kumar's Paralympic gold, Gukesh's chess title and Manu Bhaker's shooting medals, but never attributes these results to government support. The causal framing 'show the value of this support' is not in the text. The results themselves are supported."
+    }
+  ],
+  "fact_flags": []
+}
