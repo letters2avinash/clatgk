@@ -1,0 +1,154 @@
+{
+ "passage_flags": [
+  {
+   "quiz": "q-t01-0",
+   "claim": "Because of this position, the enclave has long been a point of concern for people who travel between the two continents.",
+   "problem": "not found in booklet text; the booklet does not describe a long-standing concern among travellers",
+   "page": null
+  },
+  {
+   "quiz": "q-t01-0",
+   "claim": "Officials therefore treat the border not as a purely local matter but as part of a wider regional pattern.",
+   "problem": "not found in booklet text; the booklet makes no statement about how officials treat the border",
+   "page": null
+  },
+  {
+   "quiz": "t-t01-1",
+   "claim": "Several newer initiatives support host communities that receive large numbers of refugees, and they encourage countries to share responsibility.",
+   "problem": "booklet says the Global Compact offers a framework to support refugees and host countries; 'encourage countries to share responsibility' is not found",
+   "page": 6
+  },
+  {
+   "quiz": "t-t01-1",
+   "claim": "Governments may meet at regular intervals to review progress on refugee issues.",
+   "problem": "booklet says the Global Refugee Forum is held every four years to address challenges; 'review progress' is not found",
+   "page": 6
+  },
+  {
+   "quiz": "t-t01-1",
+   "claim": "Not every country has joined the main refugee agreements, and this affects how such countries treat people who arrive seeking protection.",
+   "problem": "booklet notes India is not a signatory; the effect on how such countries treat arrivals is not found",
+   "page": 6
+  },
+  {
+   "quiz": "t-t03-1",
+   "claim": "so that the process is open and transparent",
+   "problem": "Not found in booklet text. The booklet describes the straw poll as informal and confidential; it does not say the process is open or transparent.",
+   "page": 16
+  },
+  {
+   "quiz": "t-t03-1",
+   "claim": "The practice is widely followed among members",
+   "problem": "Not found in booklet text. The booklet says only that the Secretary-Generalship has traditionally followed regional rotation; it does not say the practice is widely followed among members.",
+   "page": 17
+  },
+  {
+   "quiz": "q-t09-0",
+   "claim": "an exploratory well that finds nothing is an expensive loss",
+   "problem": "not found in booklet text; the booklet gives the cost of a deepwater exploratory well but says nothing about dry wells",
+   "page": null
+  },
+  {
+   "quiz": "t-t09-1",
+   "claim": "the rules define which expenses qualify",
+   "problem": "not found in booklet text; the booklet says only that risk-sharing applies to eligible drilling costs and does not define which expenses qualify",
+   "page": 44
+  },
+  {
+   "quiz": "t-t09-1",
+   "claim": "its long-term success depends on steady investment across all of these heads",
+   "problem": "not found in booklet text; this is an evaluative claim the booklet does not make",
+   "page": null
+  },
+  {
+   "quiz": "q-t10-0",
+   "claim": "Sarnath is also counted among the principal Buddhist pilgrimage sites, which draw devotees from many countries.",
+   "problem": "The booklet lists Sarnath as one of 4 principal Buddhist pilgrimage sites but says nothing about devotees drawn from many countries; this specific is not found in booklet text.",
+   "page": null
+  },
+  {
+   "quiz": "q-t11-0",
+   "claim": "Organisers and participants generally treated the conference as an opportunity to move from commitments on paper to restoration on the ground.",
+   "problem": "not found in booklet text; the booklet gives no account of participants' attitudes",
+   "page": null
+  },
+  {
+   "quiz": "t-t11-1",
+   "claim": "its damage builds slowly and is often noticed only after crops have failed and water supplies have run low",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t11-1",
+   "claim": "a drought in one region can quickly affect farming, food supplies and local incomes across wider areas",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t11-1",
+   "claim": "Pressure on water, farming and land tends to show up in the others as well.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t12-1",
+   "claim": "very large landscapes that cover several districts",
+   "problem": "not found in booklet text; booklet gives only the largest (Nagarjunsagar Srisailam) and smallest (Bor) reserves, with no district coverage",
+   "page": null
+  },
+  {
+   "quiz": "q-t13-0",
+   "claim": "It lies in Arunachal Pradesh, a state in north-eastern India",
+   "problem": "'north-eastern India' is not found in booklet text; booklet gives only Location: Arunachal Pradesh",
+   "page": 61
+  },
+  {
+   "quiz": "q-t14-0",
+   "claim": "The Commonwealth Flag is handed over to the next host at the end of each edition, which marks the beginning of preparations for the following Games.",
+   "problem": "not found in booklet text; the booklet only says Neeraj Chopra received the Commonwealth Flag and that India takes over 2030 hosting rights",
+   "page": 64
+  },
+  {
+   "quiz": "t-t14-1",
+   "claim": "each edition is hosted by a nation chosen in advance",
+   "problem": "not found in booklet text; the booklet mentions hosting rights (Scotland 2026, India 2030) but not how hosts are chosen",
+   "page": 64
+  },
+  {
+   "quiz": "q-t16-0",
+   "claim": "the medal carries his name in recognition of his influence on the subject",
+   "problem": "reason not stated in booklet; booklet only says the award honours Dirac's legacy",
+   "page": 80
+  }
+ ],
+ "fact_flags": [
+  {
+   "file": "t07.json",
+   "subtopic": 0,
+   "fact": "The Central Government has introduced an amendment in the Rajya Sabha (subtopic 0 summary)",
+   "problem": "Booklet is internally inconsistent: 'Why in News' says Parliament passed the Bill, while 'THE NEWS' says it was introduced in Rajya Sabha and punishable only 'If passed'. The summary follows the 'introduced' wording.",
+   "page": 33
+  },
+  {
+   "file": "t13.json",
+   "subtopic": 0,
+   "fact": "India's Ramsar network grew from 26 sites in 2014 to 101 sites in 2026",
+   "problem": "Booklet p.61 states 'Total Number of Ramsar Sites:85', contradicting 101 on p.60 (fact is supported by p.60; booklet is internally inconsistent, possibly OCR)",
+   "page": 61
+  },
+  {
+   "file": "t14.json",
+   "subtopic": 2,
+   "fact": "India's total: 39 medals (13 gold, 17 silver, 9 bronze)",
+   "problem": "gold/silver split conflicts with the medal table row on page 64 (OCR 'ino 17 9 39', read as 17 gold, 9 silver, 39 total); totals agree, the split does not",
+   "page": 65
+  },
+  {
+   "file": "t14.json",
+   "subtopic": 3,
+   "fact": "Gulveer Singh: India's only double medallist (Silver in 10,000 m, Bronze in 5,000 m)",
+   "problem": "page 65 also says Gulveer Singh was 'winning 7 Medals', which conflicts with 'double medallist'; the sentence is garbled and unresolved",
+   "page": 65
+  }
+ ]
+}
