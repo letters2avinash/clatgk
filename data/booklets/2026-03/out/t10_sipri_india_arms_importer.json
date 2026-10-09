@@ -1,0 +1,370 @@
+{
+ "topic": {
+  "title": "SIPRI Report: India as 2nd Largest Arms Importer",
+  "chapter_title": "Science & Technology, Defence and Space",
+  "subtopics": [
+   {
+    "title": "SIPRI and global arms transfers",
+    "summary": "The Stockholm International Peace Research Institute (SIPRI), an independent research institute, released the Trends in International Arms Transfers 2025 report on global defence trade. International arms transfers rose 9.2% in 2021-25 compared with 2016-20. The rise in European arms imports, up 210%, was largely driven by the Russia-Ukraine war.",
+    "facts": [
+     "SIPRI: Stockholm International Peace Research Institute, established 1966",
+     "SIPRI headquarters: Stockholm, Sweden",
+     "SIPRI focus areas: Conflict and Peace Studies; Armaments and Military Expenditure; Arms Transfers and Disarmament",
+     "International arms transfers rose 9.2% (2021-25 vs 2016-20)",
+     "Arms imports by European countries rose 210%",
+     "Rise in European imports largely driven by the Russia-Ukraine war"
+    ],
+    "keywords": ["SIPRI", "Arms transfers", "Global defence trade", "Russia-Ukraine war"]
+   },
+   {
+    "title": "Top global exporters and importers",
+    "summary": "The SIPRI report ranks the largest arms exporters and importers for 2021-25. The United States led exports with a 42% share, while Ukraine topped imports with a 9.7% share. Russia's arms exports fell sharply, cutting its share of global exports.",
+    "facts": [
+     "Top exporter: United States, 42% share",
+     "Next exporters in order: France, Russia, Germany, China",
+     "Russia's arms exports declined by 64%",
+     "Russia's share of global exports fell to 6.8%",
+     "Top importer: Ukraine, 9.7% share",
+     "India ranked second among importers, with an 8.2% share"
+    ],
+    "keywords": ["Exporters", "Importers", "United States", "Ukraine", "Russia"]
+   },
+   {
+    "title": "India as 2nd largest arms importer",
+    "summary": "India remained the second-largest arms importer during 2021-25, with an 8.2% share. Its overall arms imports fell by 4%, largely due to increased domestic defence manufacturing and indigenisation. Russia, France and Israel were its main suppliers.",
+    "facts": [
+     "India's import rank in 2021-25: 2nd largest",
+     "India's share of global arms imports: 8.2%",
+     "India's overall arms imports declined by 4%",
+     "Decline largely due to domestic manufacturing and indigenisation efforts",
+     "India's supplier composition: Russia 40%",
+     "India's supplier composition: France 29%",
+     "India's supplier composition: Israel 15%"
+    ],
+    "keywords": ["Arms imports", "Indigenisation", "Supplier composition", "2nd largest importer"]
+   },
+   {
+    "title": "India's push for domestic defence",
+    "summary": "India has set production and export targets for 2029 and is building its domestic defence capacity. Policy changes, defence industrial corridors and foreign investment rules support this aim. The top three export destinations are the US, France and Armenia.",
+    "facts": [
+     "Defence budget 2026-27: Rs 7.85 lakh crore",
+     "Defence production 2024-25: Rs 1.54 lakh crore (2029 target: Rs 3 lakh crore)",
+     "Defence exports 2024-25: Rs 23,622 crore (2029 target: Rs 50,000 crore)",
+     "Top 3 export destinations: US, France, Armenia",
+     "Defence Acquisition Procedure 2020 prioritises Indian-made products over foreign purchases",
+     "Defence Industrial Corridors established in Uttar Pradesh and Tamil Nadu",
+     "FDI: 74% through automatic route; 100% through government route",
+     "iDEX supports startups and MSMEs in defence innovation"
+    ],
+    "keywords": ["Defence budget", "Defence production", "Defence exports", "DAP 2020", "Industrial corridors", "iDEX"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "SIPRI report and India's arms imports",
+   "root": {
+    "label": "SIPRI report: India as 2nd largest importer",
+    "children": [
+     {
+      "label": "Global transfers",
+      "children": [
+       {"label": "Up 9.2% in 2021-25", "children": []},
+       {"label": "European imports up 210%", "children": []},
+       {"label": "Largely driven by Russia-Ukraine war", "children": []}
+      ]
+     },
+     {
+      "label": "Top exporters",
+      "children": [
+       {"label": "United States: 42% share", "children": []},
+       {"label": "Russia's exports down 64%", "children": []}
+      ]
+     },
+     {
+      "label": "Top importer",
+      "children": [
+       {"label": "Ukraine: 9.7% share", "children": []},
+       {"label": "India second at 8.2%", "children": []}
+      ]
+     },
+     {
+      "label": "India's imports",
+      "children": [
+       {"label": "Overall imports down 4%", "children": []},
+       {"label": "Russia 40%, France 29%, Israel 15%", "children": []}
+      ]
+     },
+     {
+      "label": "Self-reliance push",
+      "children": [
+       {"label": "Budget 2026-27: Rs 7.85 lakh crore", "children": []},
+       {"label": "Export target 2029: Rs 50,000 crore", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "SIPRI and global transfers",
+   "root": {
+    "label": "SIPRI global arms transfer findings",
+    "children": [
+     {
+      "label": "SIPRI profile",
+      "children": [
+       {"label": "Established 1966, HQ Stockholm", "children": []},
+       {"label": "Independent research institute", "children": []}
+      ]
+     },
+     {
+      "label": "2021-25 trends",
+      "children": [
+       {"label": "Transfers up 9.2%", "children": []},
+       {"label": "European imports up 210%", "children": []}
+      ]
+     },
+     {
+      "label": "Main driver",
+      "children": [
+       {"label": "Russia-Ukraine war", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Top exporters and importers",
+   "root": {
+    "label": "Top global exporters and importers",
+    "children": [
+     {
+      "label": "Exporters",
+      "children": [
+       {"label": "United States: 42%", "children": []},
+       {"label": "Then France, Russia, Germany, China", "children": []},
+       {"label": "Russia's exports down 64%", "children": []}
+      ]
+     },
+     {
+      "label": "Importers",
+      "children": [
+       {"label": "Ukraine: 9.7%", "children": []},
+       {"label": "India second: 8.2%", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "India's arms import position",
+   "root": {
+    "label": "India's arms import position",
+    "children": [
+     {
+      "label": "Rank and share",
+      "children": [
+       {"label": "2nd largest importer", "children": []},
+       {"label": "Share 8.2%", "children": []}
+      ]
+     },
+     {
+      "label": "Imports down 4%",
+      "children": [
+       {"label": "Domestic manufacturing", "children": []},
+       {"label": "Indigenisation efforts", "children": []}
+      ]
+     },
+     {
+      "label": "Suppliers",
+      "children": [
+       {"label": "Russia 40%", "children": []},
+       {"label": "France 29%", "children": []},
+       {"label": "Israel 15%", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "India's domestic defence push",
+   "root": {
+    "label": "India's domestic defence push",
+    "children": [
+     {
+      "label": "Budget and output",
+      "children": [
+       {"label": "Budget 2026-27: Rs 7.85 lakh crore", "children": []},
+       {"label": "Production 2024-25: Rs 1.54 lakh crore", "children": []}
+      ]
+     },
+     {
+      "label": "Exports",
+      "children": [
+       {"label": "2024-25: Rs 23,622 crore", "children": []},
+       {"label": "2029 target: Rs 50,000 crore", "children": []}
+      ]
+     },
+     {
+      "label": "Policy and ecosystem",
+      "children": [
+       {"label": "DAP 2020: Indian-made products first", "children": []},
+       {"label": "Corridors: UP and Tamil Nadu", "children": []},
+       {"label": "FDI: 74% automatic, 100% government", "children": []},
+       {"label": "iDEX for startups and MSMEs", "children": []}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "SIPRI focus areas",
+   "mnemonic": "CAT",
+   "decode": [
+    {"key": "C", "meaning": "Conflict and Peace Studies"},
+    {"key": "A", "meaning": "Armaments and Military Expenditure"},
+    {"key": "T", "meaning": "Arms Transfers and Disarmament"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "India's main arms suppliers",
+   "mnemonic": "Really Fine Imports",
+   "decode": [
+    {"key": "R", "meaning": "Russia supplies 40% of India's arms imports"},
+    {"key": "F", "meaning": "France supplies 29% of India's arms imports"},
+    {"key": "I", "meaning": "Israel supplies 15% of India's arms imports"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Global arms transfers quiz",
+   "passage": "International arms transfers are the movement of weapons and military equipment from one country to another, and they show how global defence trade is changing. The Stockholm International Peace Research Institute, an independent research body that studies conflict and peace, armaments, military expenditure and disarmament, examined these transfers in its Trends in International Arms Transfers 2025 report. The report analysed the period from 2021 to 2025 and compared it with the earlier five-year period from 2016 to 2020, which allows changes in global defence trade to be measured over time. Its findings show that overall transfers grew between the two periods. The increase was particularly strong in Europe, where arms imports rose sharply, and the institute linked much of this surge to the Russia-Ukraine war. Trade patterns also shifted among suppliers, as one major exporter saw its shipments fall significantly and its share of global exports became much smaller. The report offers a picture of which countries supply weapons to the world and which countries buy them. Such information helps observers understand how the balance of global defence trade is moving.",
+   "questions": [
+    {
+     "q": "Where is the headquarters of the institute that released the 'Trends in International Arms Transfers 2025' report?",
+     "options": ["Geneva, Switzerland", "Stockholm, Sweden", "Oslo, Norway", "Vienna, Austria"],
+     "answer": 1,
+     "explanation": "SIPRI is headquartered in Stockholm, Sweden, and was established in 1966."
+    },
+    {
+     "q": "By what percentage did international arms transfers increase in 2021-25 compared with 2016-20?",
+     "options": ["5.4%", "7.8%", "9.2%", "12.6%"],
+     "answer": 2,
+     "explanation": "The SIPRI report recorded a 9.2% increase in international arms transfers for 2021-25 over 2016-2020."
+    },
+    {
+     "q": "Assertion (A): India's overall arms imports declined during 2021-2025.\nReason (R): India's share of global arms imports was the highest in the world during 2021-2025.\nChoose the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 2,
+     "explanation": "India's imports fell by 4%, but Ukraine (9.7%), not India, was the top importer."
+    },
+    {
+     "q": "Match List I with List II:\nI. Share of the United States in global arms exports   ->   A. 210%\nII. Rise in European arms imports   ->   B. 6.8%\nIII. Russia's share of global arms exports   ->   C. 42%\nIV. Rise in international arms transfers, 2021-25   ->   D. 9.2%\nChoose the correct match.",
+     "options": ["I-B, II-A, III-C, IV-D", "I-A, II-D, III-C, IV-B", "I-D, II-B, III-A, IV-C", "I-C, II-A, III-B, IV-D"],
+     "answer": 3,
+     "explanation": "The US held a 42% share of exports, European arms imports rose 210%, Russia's share is 6.8%, and transfers rose 9.2%."
+    },
+    {
+     "q": "Which of the following statements about the SIPRI report are correct?\nI. The United States was the top arms exporter in 2021-25 with a 42% share.\nII. Russia's arms exports declined by 64%, reducing its share of global exports to 6.8%.\nIII. Germany was the second-largest arms exporter in the world.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "Statement III is wrong because France, not Germany, followed the United States among the top exporters."
+    },
+    {
+     "q": "Consider the following statements about the SIPRI report.\nI. SIPRI was established in 1966 and is headquartered in Stockholm, Sweden.\nII. Ukraine was the top arms exporter in the 2021-25 period.\nIII. India's overall arms imports declined by 4% in 2021-25.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statement II is wrong because the United States was the top exporter, while Ukraine was the top importer."
+    },
+    {
+     "q": "Which country was the largest supplier of India's arms imports during 2021-25?",
+     "options": ["France", "Israel", "Russia", "Armenia"],
+     "answer": 2,
+     "explanation": "Russia accounted for 40% of India's supplier composition, ahead of France (29%) and Israel (15%)."
+    },
+    {
+     "q": "Which country was the top arms importer globally in 2021-25, with a 9.7% share?",
+     "options": ["Ukraine", "India", "Qatar", "Pakistan"],
+     "answer": 0,
+     "explanation": "Ukraine topped the importer list with a 9.7% share, with India placed second at 8.2%."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "India's arms imports quiz",
+   "passage": "India has long been one of the largest buyers of defence equipment in the world, and its purchases shape both its military capability and its relationships with foreign suppliers. In the most recent SIPRI assessment, covering 2021 to 2025, India kept a high position among the world's arms importers. However, its total arms imports during this period were lower than in the earlier phase, a change linked to a growing push for domestic production. Over the past several years, the government has focused on building a stronger defence manufacturing base at home. Procurement policy was revised to prioritise Indian-made products over foreign purchases, which signals a clear preference for local industry. To support this shift, industrial corridors have been created in certain states to bring together manufacturers and suppliers. Foreign investment is also allowed in the defence sector through both automatic and government routes, while a dedicated initiative supports start-ups and small firms working on innovation. Taken together, these steps aim to reduce dependence on imported weapons and to turn India into a larger producer and exporter of defence equipment.",
+   "questions": [
+    {
+     "q": "What was India's share (in per cent) of global arms imports during 2021-25?",
+     "answer": "8.2",
+     "accept": ["8.2%", "8.2 per cent", "8.2 percent"],
+     "explanation": "The report places India as the second-largest importer with an 8.2% share during 2021-2025."
+    },
+    {
+     "q": "By how many per cent did India's overall arms imports decline during 2021-25?",
+     "answer": "4",
+     "accept": ["4%", "4 per cent", "four"],
+     "explanation": "India's overall arms imports declined by 4%, largely due to increased domestic defence manufacturing."
+    },
+    {
+     "q": "Which country was the largest supplier to India's arms imports during 2021-25?",
+     "answer": "Russia",
+     "accept": ["Russian Federation"],
+     "explanation": "Russia supplied 40% of India's arms imports, the largest share among its suppliers."
+    },
+    {
+     "q": "Which country was the second-largest supplier to India's arms imports during 2021-25?",
+     "answer": "France",
+     "accept": [],
+     "explanation": "France supplied 29% of India's arms imports, behind Russia's 40%."
+    },
+    {
+     "q": "What was India's defence production value in 2024-25 (in Rs lakh crore)?",
+     "answer": "1.54",
+     "accept": ["Rs 1.54 lakh crore", "1.54 lakh crore"],
+     "explanation": "India's defence production in 2024-25 was Rs 1.54 lakh crore, against a 2029 target of Rs 3 lakh crore."
+    },
+    {
+     "q": "What is the target for India's defence exports in 2029 (in Rs crore)?",
+     "answer": "50000",
+     "accept": ["50,000", "50,000 crore", "Rs 50,000 crore"],
+     "explanation": "The 2029 export target is Rs 50,000 crore, up from Rs 23,622 crore in 2024-25."
+    },
+    {
+     "q": "In which year was the Defence Acquisition Procedure that prioritises Indian-made products introduced?",
+     "answer": "2020",
+     "accept": ["DAP 2020"],
+     "explanation": "The Defence Acquisition Procedure 2020 shifted focus towards domestic procurement, prioritising Indian-made products."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 59, "what": "Third-ranked importer is printed as 'Suadi Arabia' (OCR); the name is not used in this output"}
+ ]
+}

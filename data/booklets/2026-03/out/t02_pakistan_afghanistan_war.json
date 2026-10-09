@@ -1,0 +1,215 @@
+{
+ "topic": {"title": "Pakistan Declares Open War on Afghanistan's Taliban Government", "chapter_title": "International Relations and News",
+   "subtopics": [
+     {"title": "Regime changes in Afghanistan (1973-2021)",
+      "summary": "Afghanistan's political history since 1973 has seen a series of regimes, each shaped by outside powers. The monarchy ended in 1973 and was followed by Soviet-backed communist rule, and Soviet military intervention in 1979 drew Pakistan into supporting Afghan Mujahideen factions. Civil war after 1992 led to Taliban rule, which ended with the US intervention of 2001, and the Taliban regained full control after the US withdrawal in August 2021.",
+      "facts": [
+        "Afghanistan's monarchy ended in 1973.",
+        "The nationalist regime was followed by communist rule backed by the Soviet Union.",
+        "In 1979 the Soviet Union intervened militarily in Afghanistan.",
+        "Pakistan supported Afghan Mujahideen factions during the Soviet intervention.",
+        "President Najibullah's government collapsed in 1992, triggering civil war.",
+        "The Taliban emerged in 1994 and captured Kabul in 1996.",
+        "Pakistan was one of the few countries to recognise the Taliban regime.",
+        "After the 9/11 attacks, the United States invaded Afghanistan and overthrew the Taliban.",
+        "The new Islamic Republic struggled with insurgency and corruption.",
+        "After the US withdrawal in August 2021, the Taliban regained full control."
+      ],
+      "keywords": ["Monarchy 1973", "Soviet intervention 1979", "Najibullah", "Taliban 1994-1996", "Islamic Republic", "US withdrawal 2021"]},
+     {"title": "Factors behind the open war",
+      "summary": "Pakistan launched Operation Ghazab-Lil-Haq on Afghan military bases, and Afghanistan retaliated with airstrikes on Pakistani targets. The escalation grew out of long-standing disputes over cross-border militancy, the Durand Line and border fencing. Clashes at disputed checkpoints turned these tensions into direct military confrontation.",
+      "facts": [
+        "Pakistan launched Operation Ghazab-Lil-Haq on Afghan military bases.",
+        "Afghanistan retaliated with airstrikes on Nur Khan Airbase (Rawalpindi) and 12th Division HQ (Quetta).",
+        "The Afghan Taliban is allegedly sheltering Tehrik-i-Taliban Pakistan (TTP).",
+        "TTP is accused of launching cross-border attacks inside Pakistan.",
+        "Pakistan recognises the Durand Line as a permanent international border.",
+        "Afghan governments have historically disputed the legitimacy of the Durand Line.",
+        "Pakistan's border fencing has been resisted by Afghan forces.",
+        "Repeated Torkham crossing closures hurt Afghan trade and deepened mistrust.",
+        "Pakistan's 'strategic depth' doctrine has been eroded by the Taliban's outreach to India."
+      ],
+      "keywords": ["Ghazab-Lil-Haq", "TTP", "Durand Line", "Border fencing", "Torkham", "Strategic depth"]},
+     {"title": "India-Afghanistan ties and projects",
+      "summary": "India and Afghanistan share historic links, including Gandhara's place among the Mahajanapadas of the Vedic Age and the Bamiyan Buddhas. Afghanistan is also a crossroad between South Asia and Central Asia, and India has supported its energy, agriculture, drinking water and democratic institutions through projects. The Zaranj-Delaram Highway helps Afghanistan reach Iran's Chabahar Port while bypassing Pakistan.",
+      "facts": [
+        "Gandhara, part of modern-day Afghanistan, was one of 16 Mahajanapadas in the Vedic Age.",
+        "The Bamiyan Buddhas highlight the influence of Buddhism in Afghanistan.",
+        "Afghanistan is a crossroad between South Asia and Central Asia, and between South Asia and the Middle East.",
+        "TAPI (Peace) Pipeline: a 1814 km gas pipeline from the Galkynysh Gas Field in Turkmenistan through Afghanistan, Pakistan and India.",
+        "Salma Dam (Afghan-India Friendship Dam), 2016, in Herat Province, supports energy and agriculture.",
+        "Zaranj-Delaram Highway (2009) connects Afghanistan to Iran's Chabahar Port and was built by India's Border Roads Organization.",
+        "Shahtoot Dam Project (2021) aims to provide drinking water to Kabul.",
+        "Afghan Parliament Building (2015), built by India, symbolises India's commitment to Afghan democracy."
+      ],
+      "keywords": ["Gandhara", "Bamiyan Buddhas", "TAPI", "Salma Dam", "Zaranj-Delaram Highway", "Shahtoot Dam", "Afghan Parliament"]},
+     {"title": "Implications for India",
+      "summary": "The Pakistan-Afghanistan conflict has several implications for India, touching its western border, its security and its trade routes. Escalation may reduce Pakistan's infiltration pressure along the LoC, but prolonged instability could let ISIS-K regroup and jeopardise India's access to the INSTC. India condemned Pakistan's attacks and reaffirmed support for Afghanistan's sovereignty, territorial integrity and independence.",
+      "facts": [
+        "India condemned Pakistan's attacks and reaffirmed support for Afghanistan's sovereignty, territorial integrity and independence.",
+        "LoC relief: escalation on the western border may compel Pakistan to reduce infiltration pressure along the LoC.",
+        "Terror spillover: prolonged instability risks allowing ISIS-K to regroup and expand across South Asia.",
+        "Connectivity risks: the conflict jeopardises India's access to the INSTC and Central Asian trade outreach.",
+        "Refugee pressure: a full-scale conflict risks an Afghan refugee inflow onto India's borders."
+      ],
+      "keywords": ["LoC", "ISIS-K", "INSTC", "Refugee pressure"]}
+   ]},
+ "mindmaps": [
+   {"scope": "topic", "title": "Pakistan-Afghanistan open war: overview",
+    "root": {"label": "Pakistan-Afghanistan open war (March 2026)", "children": [
+      {"label": "Afghan regime history (1973-2021)", "children": [
+        {"label": "1973: monarchy ends"},
+        {"label": "1979: Soviet military intervention"},
+        {"label": "1996: Taliban capture Kabul"},
+        {"label": "2001: US overthrows Taliban"},
+        {"label": "2021: Taliban regain full control"}]},
+      {"label": "Factors behind the war", "children": [
+        {"label": "TTP sanctuary allegations"},
+        {"label": "Durand Line dispute"},
+        {"label": "Border fencing clashes"},
+        {"label": "Torkham crossing closures"}]},
+      {"label": "Durand Line dispute", "children": [
+        {"label": "Drawn 1893 by Sir Mortimer Durand"},
+        {"label": "Afghanistan: colonial, temporary arrangement"},
+        {"label": "Pakistan: legal boundary since 1947"}]},
+      {"label": "India-Afghanistan ties", "children": [
+        {"label": "Gandhara: one of 16 Mahajanapadas"},
+        {"label": "TAPI gas pipeline"},
+        {"label": "Dams, highway, Parliament building"}]},
+      {"label": "Implications for India", "children": [
+        {"label": "LoC relief"},
+        {"label": "ISIS-K terror spillover"},
+        {"label": "INSTC connectivity risk"},
+        {"label": "Refugee pressure"}]}
+    ]}},
+   {"scope": "subtopic", "subtopic_index": 0, "title": "Afghan regime changes",
+    "root": {"label": "Afghan regime changes", "children": [
+      {"label": "1973: monarchy ends"},
+      {"label": "1979: Soviet intervention; Pakistan backs Mujahideen"},
+      {"label": "1992: Najibullah government collapses"},
+      {"label": "Taliban rule", "children": [
+        {"label": "Emerged 1994"},
+        {"label": "Captured Kabul 1996"},
+        {"label": "Recognised by Pakistan"}]},
+      {"label": "2001-21: US intervention, Islamic Republic"},
+      {"label": "2021: Taliban return"}]}},
+   {"scope": "subtopic", "subtopic_index": 1, "title": "Factors behind the open war",
+    "root": {"label": "Factors behind the open war", "children": [
+      {"label": "Operation Ghazab-Lil-Haq launched"},
+      {"label": "Retaliatory strikes: Nur Khan, Quetta HQ"},
+      {"label": "Border tensions", "children": [
+        {"label": "TTP sanctuary allegations"},
+        {"label": "Durand Line dispute"},
+        {"label": "Border fencing resisted"},
+        {"label": "Clashes at disputed checkpoints"}]},
+      {"label": "Trade and strategy", "children": [
+        {"label": "Torkham crossing closures"},
+        {"label": "Strategic depth eroded"}]}]}},
+   {"scope": "subtopic", "subtopic_index": 2, "title": "India-Afghanistan ties",
+    "root": {"label": "India-Afghanistan ties", "children": [
+      {"label": "Historic links", "children": [
+        {"label": "Gandhara: one of 16 Mahajanapadas"},
+        {"label": "Bamiyan Buddhas: Buddhist influence"}]},
+      {"label": "Development projects", "children": [
+        {"label": "TAPI gas pipeline (1814 km)"},
+        {"label": "Salma Dam, Herat (2016)"},
+        {"label": "Zaranj-Delaram Highway (2009)"},
+        {"label": "Shahtoot Dam, Kabul water (2021)"},
+        {"label": "Afghan Parliament Building (2015)"}]},
+      {"label": "Strategic importance", "children": [
+        {"label": "Crossroad: South and Central Asia"},
+        {"label": "Route to Chabahar Port"}]}]}},
+   {"scope": "subtopic", "subtopic_index": 3, "title": "Implications for India",
+    "root": {"label": "Implications for India", "children": [
+      {"label": "LoC relief"},
+      {"label": "Terror spillover: ISIS-K"},
+      {"label": "Connectivity risks: INSTC"},
+      {"label": "Refugee pressure"},
+      {"label": "India condemned attacks"}]}}
+ ],
+ "mnemonics": [
+   {"scope": "subtopic", "subtopic_index": 2, "title": "TAPI pipeline route", "mnemonic": "Turkmen Afghan Pakistani Indian gas: TAPI",
+    "decode": [
+      {"key": "T", "meaning": "Turkmenistan: source of the gas (Galkynysh Gas Field)"},
+      {"key": "A", "meaning": "Afghanistan: pipeline route country"},
+      {"key": "P", "meaning": "Pakistan: pipeline route country"},
+      {"key": "I", "meaning": "India: pipeline route country"}]},
+   {"scope": "subtopic", "subtopic_index": 3, "title": "Risks for India", "mnemonic": "Lazy Tigers Chase Rabbits",
+    "decode": [
+      {"key": "L", "meaning": "LoC relief from reduced infiltration pressure"},
+      {"key": "T", "meaning": "Terror spillover (ISIS-K)"},
+      {"key": "C", "meaning": "Connectivity risks to the INSTC"},
+      {"key": "R", "meaning": "Refugee pressure"}]}
+ ],
+ "quizzes": [
+   {"type": "MCQ", "subtopic_index": 0, "title": "Background of the open war",
+    "passage": "Pakistan and Afghanistan have shared a difficult relationship for decades, shaped by changes of government inside Afghanistan and by the border between the two countries. Afghanistan's monarchy ended in 1973 and was followed by communist rule backed by the Soviet Union. Pakistan supported Afghan Mujahideen factions during the period of Soviet military intervention, and later became one of the few countries to recognise the Taliban regime. After the Taliban regained full control in 2021, Pakistan initially welcomed the development, expecting strategic alignment. Tensions soon resurfaced, however, as cross-border militancy continued. Pakistan alleges that the Afghan Taliban is sheltering the TTP, while Afghan governments have historically disputed the legitimacy of the Durand Line, which Pakistan treats as a permanent international border. Clashes at disputed checkpoints escalated into direct military confrontation, and the fighting drew a sharp response from India, which condemned Pakistan's attacks. Pakistan's traditional doctrine of strategic depth has also been eroded, since the Taliban has reached out to India and reduced Pakistan's leverage over Kabul. The result is a conflict in which border disputes, militancy and trade disruption reinforce one another.",
+    "questions": [
+      {"q": "What is the name of the military operation Pakistan launched on Afghan military bases?",
+       "options": ["Operation Thunder Strike", "Operation Iron Fist", "Operation Ghazab-Lil-Haq", "Operation Desert Shield"],
+       "answer": 2,
+       "explanation": "The booklet states that Pakistan launched Operation Ghazab-Lil-Haq on Afghan military bases."},
+      {"q": "Why was the Durand Line originally drawn in 1893?",
+       "options": ["To create a buffer zone to prevent Russian expansion toward British India during the Great Game", "To separate Pashtun tribes from Arab influence", "To define a trade route between India and Central Asia", "To demarcate oil-rich territories between British India and Afghanistan"],
+       "answer": 0,
+       "explanation": "The booklet says the line was intended to create a buffer zone against Russian expansion toward British India during the Great Game."},
+      {"q": "Read the statements and choose the correct option.\nAssertion (A): The Taliban emerged in 1994 and captured Kabul in 1996.\nReason (R): The United States invaded Afghanistan after the 9/11 attacks and overthrew the Taliban.",
+       "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+       "answer": 1,
+       "explanation": "Both statements are true in the booklet, but the US intervention after 9/11 does not explain the Taliban's 1994 emergence."},
+      {"q": "Match List I with List II:\nI. Salma Dam   ->   A. Drinking water supply for Kabul\nII. Shahtoot Dam   ->   B. Located in Herat Province\nIII. Zaranj-Delaram Highway   ->   C. Symbol of India's commitment to Afghan democracy\nIV. Afghan Parliament Building   ->   D. Links Afghanistan to Iran's Chabahar Port",
+       "options": ["I-A, II-B, III-C, IV-D", "I-B, II-C, III-A, IV-D", "I-C, II-A, III-B, IV-D", "I-B, II-A, III-D, IV-C"],
+       "answer": 3,
+       "explanation": "Salma Dam is in Herat, Shahtoot Dam supplies Kabul, the Zaranj-Delaram Highway links to Chabahar and the Parliament Building symbolises Indian support for Afghan democracy."},
+      {"q": "Consider the following statements about the TAPI pipeline:\nI. It is a gas pipeline of 1814 km.\nII. It carries natural gas from the Galkynysh Gas Field in Turkmenistan.\nIII. It was built as a water pipeline connecting Tajikistan to India.\nWhich of the above statements is/are correct?",
+       "options": ["I and II only", "I and III only", "II and III only", "I, II and III"],
+       "answer": 0,
+       "explanation": "The booklet describes TAPI as a 1814 km gas pipeline carrying gas from Galkynysh in Turkmenistan, not as a water pipeline."},
+      {"q": "How many of the following statements about the Zaranj-Delaram Highway are correct?\nI. It was built in 2009.\nII. It was constructed by India's Border Roads Organisation.\nIII. It connects Afghanistan to China's Belt and Road Initiative.",
+       "options": ["Only one", "Only three", "None", "Only two"],
+       "answer": 3,
+       "explanation": "The booklet states it was built in 2009 by India's Border Roads Organization and links Afghanistan to Iran's Chabahar Port, not to China's initiative."},
+      {"q": "Who was the Afghan ruler when the Durand Line was drawn?",
+       "options": ["Ahmad Shah Durrani", "Abdur Rahman Khan", "Dost Mohammad Khan", "Amanullah Khan"],
+       "answer": 1,
+       "explanation": "The booklet names Afghan ruler Abdur Rahman Khan as the other party when the Durand Line was drawn."},
+      {"q": "Consider the following statements about the Heart of Asia Process:\nI. It was an initiative of Turkey and Afghanistan.\nII. It started in 2011 to provide more assistance to Afghanistan.\nWhich of the above statements is/are correct?",
+       "options": ["I only", "Both I and II", "II only", "Neither I nor II"],
+       "answer": 1,
+       "explanation": "The booklet says the Heart of Asia (Istanbul) Process, started in 2011, was an initiative of Turkey and Afghanistan."}
+    ]},
+   {"type": "TITA", "subtopic_index": 2, "title": "India and Afghanistan ties",
+    "passage": "India's relationship with Afghanistan rests on historical, cultural and developmental foundations. Gandhara, a region that is part of modern-day Afghanistan, was one of the Mahajanapadas of the Vedic Age, and the Bamiyan Buddhas reflect the influence of Buddhism in the country. Afghanistan is also strategically important, because it acts as a crossroad between South Asia and Central Asia as well as between South Asia and the Middle East. Over the years, India has backed projects that support Afghanistan's energy, agriculture and drinking water needs, as well as its democratic institutions. Dams, roads and public buildings are among the projects India has built or helped build. One gas pipeline would carry natural gas from Turkmenistan through Afghanistan and Pakistan to India, while another highway gives Afghanistan a route to a port in Iran that bypasses Pakistan. India has also engaged the Taliban regime at a senior diplomatic level, and these ties have continued even as Afghanistan's political leadership has changed.",
+    "questions": [
+      {"q": "What is the name of the gas pipeline project that carries natural gas from Turkmenistan through Afghanistan and Pakistan to India?",
+       "answer": "TAPI", "accept": ["TAPI (Peace) Pipeline", "TAPI Pipeline", "Peace Pipeline"],
+       "explanation": "The booklet names this gas pipeline the TAPI (Peace) Pipeline."},
+      {"q": "What is the length of the TAPI gas pipeline (in km)?",
+       "answer": "1814", "accept": ["1814 km", "1,814", "1814 kms"],
+       "explanation": "The booklet gives the TAPI gas pipeline length as 1814 km."},
+      {"q": "In which Afghan province is the Salma Dam (Afghan-India Friendship Dam) located?",
+       "answer": "Herat", "accept": ["Herat Province"],
+       "explanation": "The booklet places the Salma Dam in Herat Province."},
+      {"q": "In which year was the Shahtoot Dam Project, which aims to supply drinking water to Kabul, started?",
+       "answer": "2021", "accept": ["2021 CE"],
+       "explanation": "The booklet dates the Shahtoot Dam Project to 2021."},
+      {"q": "In which year was the Afghan Parliament Building, built by India, inaugurated?",
+       "answer": "2015", "accept": ["2015 CE"],
+       "explanation": "The booklet dates the Afghan Parliament Building, built by India, to 2015."},
+      {"q": "Which Afghan Acting Foreign Minister met India's Foreign Secretary Vikram Misri in Dubai?",
+       "answer": "Amir Khan Muttaqi", "accept": ["Muttaqi", "Amir Khan Muttaqi"],
+       "explanation": "The booklet says Vikram Misri met Acting Foreign Minister Amir Khan Muttaqi in Dubai."},
+      {"q": "Which Iranian port does the Zaranj-Delaram Highway connect Afghanistan to?",
+       "answer": "Chabahar", "accept": ["Chabahar Port"],
+       "explanation": "The booklet says the Zaranj-Delaram Highway connects Afghanistan to Iran's Chabahar Port."}
+    ]}
+ ],
+ "needs_check": [
+   {"page": 15, "what": "Heading of the 1973-89 phase is garbled ('Endof Monarchy'); only the dates and clearly readable sentences were used"},
+   {"page": 16, "what": "Durand Line map labels (Helmand, Kandahar, Lashkar Gah, Waziristan, Tajikistan, Turkmenistan) are garbled; map-based facts not used"},
+   {"page": 17, "what": "Afghanistan fact box (capital, supreme leader, currency, border) is interleaved with map text; not used"},
+   {"page": 17, "what": "Foreign Secretary Vikram Misri's Dubai meeting year is printed as '2025.8' with a stray footnote mark; year not used in any question"},
+   {"page": 17, "what": "National Human Rights Commission and Universal Declaration of Human Rights items are off-topic to this booklet topic and partly garbled; not used"},
+   {"page": 17, "what": "Zaranj-Delaram Highway and Afghan Parliament Building items read clearly, but the Afghanistan 'Multi-Lateral Partnership' (SAARC) line is interleaved with map text; not used"}
+ ]
+}
