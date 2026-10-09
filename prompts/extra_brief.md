@@ -1,0 +1,15 @@
+# Brief: extra practice quizzes for sub-topics that have none (Haiku writer)
+You write NEW practice quizzes from ONE booklet topic. Use ONLY the booklet OCR text (pages marked `=== PAGE n ===`, ~5-10% garbled). No web search, no outside knowledge. Never call create_session or spawn_task. If a name/number/date is garbled or two readings are possible, do not use it.
+Input: a task JSON (path in your task): topic, text_file, subtopics (id, title, summary, facts - the summaries/facts are leads, but every tested fact must be confirmed in the booklet text file), already_asked (questions already used elsewhere on this topic - do NOT repeat those facts).
+For EACH subtopic in the task write TWO quizzes: one "MCQ" and one "TITA", each with a passage and exactly 7 questions about THAT sub-topic.
+Write ONE JSON file (path in your task; one Write; valid JSON; no markdown fences):
+{"quizzes":[ {"type":"MCQ","subtopic":"<subtopic id exactly as given>","title":"...","passage":"200-260 words, plain prose, built only from the text",
+   "questions":[{"q":"...","options":["..","..","..",".."],"answer":0,"explanation":"one sentence"}]},
+  {"type":"TITA","subtopic":"<id>","title":"...","passage":"...","questions":[{"q":"...","answer":"short typed answer","accept":["variants"],"explanation":"..."}]} ]}
+Question rules (CLAT style):
+- Passage gives context only. The answer to each question must be a fact from the booklet text that the passage does NOT state; never a sentence-for-sentence restatement. Do not add claims to the passage that the booklet does not state (no opinions, no "experts say", no study advice, no generalisations).
+- MCQ (7): 3 direct; 1 assertion-reason (stem lines "Assertion (A): ..." and "Reason (R): ..." each on its own line; the 4 standard options: both true & R explains A / both true & R does not explain A / A true R false / A false R true); 1 match-the-following (stem "Match List I with List II:" then 4 lines "I. item   ->   A. item" ; options like "I-B, II-A, III-C, IV-D"; only if the text gives four clearly matchable pairs, otherwise write another direct question); 1 multi-statement (statements each on its own line starting "I. ", "II. ", "III. "; then "Which of the above statements is/are correct?"; options like "I and II only"); 1 how-many-statements ("Only one","Only two","Only three","All of the above" style, statements each on its own line).
+- Exactly one defensible answer; plausible distractors; correct-answer positions spread over 0,1,2,3 within each quiz, no pattern like 0,1,2,3.
+- TITA (7): answer is a number, name, place, year or one short word/phrase; units go in the question, not the answer; add spellings/variants in accept; the answer must not appear in the passage.
+- Avoid questions whose answer is a count or ranking that changes over time. Keep every explanation to one sentence.
+After writing, re-open the file with python3 -I and confirm it parses and every subtopic id of the task has an MCQ and a TITA quiz with 7 questions each. Reply with one line: path, number of quizzes.
