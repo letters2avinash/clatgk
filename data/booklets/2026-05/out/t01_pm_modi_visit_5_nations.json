@@ -1,0 +1,377 @@
+{
+ "topic": {
+  "title": "PM Modi Visit to 5 Nations",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "UAE Visit: Strategic Outcomes",
+    "summary": "PM Modi's UAE visit produced agreements and proposals on energy security, LPG supply, shipbuilding and defence, and AI infrastructure. The energy outcomes centre on strategic crude storage and an LPG supply partnership with ADNOC. Investment interest in India's infrastructure sector was also noted.",
+    "facts": [
+      "MoU between Indian Strategic Petroleum Reserves Limited and Abu Dhabi National Oil Company (ADNOC) for strategic collaboration.",
+      "Proposal to store up to 30 million barrels of ADNOC crude oil in India's Strategic Petroleum Reserves.",
+      "Discussions on storing crude oil in Fujairah under India's Overseas Strategic Reserve Framework.",
+      "IOCL and ADNOC signed a strategic collaboration agreement on LPG supply security; a long-term LPG sale deal between ADNOC Gas and IOCL is a potential deal.",
+      "Framework advanced for a Strategic Defence Partnership between India and the UAE.",
+      "Cochin Shipyard and Drydocks World MoU to establish a Ship Repair Cluster at Vadinar.",
+      "Cooperation includes offshore fabrication under the Maritime Development Fund Scheme.",
+      "Term sheet signed for setting up 8 Exaflop Super Computing Clusters.",
+      "Partnership between C-DAC and G42 under India's AI Mission.",
+      "Abu Dhabi Investment Authority and National Infrastructure and Investment Fund to explore investments up to US$1 billion in India's infrastructure sector."
+    ],
+    "keywords": ["ADNOC", "Strategic Petroleum Reserves", "Fujairah", "IOCL", "Vadinar", "C-DAC", "G42", "Exaflop", "Maritime Development Fund"]
+   },
+   {
+    "title": "UAE: Trade, Diaspora and Country Profile",
+    "summary": "India-UAE trade in FY 2025-26 stood at US$100 billion, and the UAE is among India's largest energy suppliers and export destinations. The 2022 CEPA and the UAE's share of India's remittance flows are key economic links. The booklet also profiles the UAE's government and the Kafala sponsorship system.",
+    "facts": [
+      "Trade between India and the UAE in FY 2025-26: US$100 billion.",
+      "UAE is India's 2nd largest export destination, after the US.",
+      "UAE is India's 3rd largest crude oil source.",
+      "UAE is India's 3rd largest supplier of LNG and 2nd largest supplier of LPG.",
+      "UAE is the only nation participating in India's Strategic Reserve Programme.",
+      "In 2022, India was the first country with which the UAE signed a Comprehensive Economic Partnership Agreement (CEPA).",
+      "UAE accounted for 18% of India's remittance flows.",
+      "UAE is a federal, elective monarchy of 7 emirates; capital Abu Dhabi; currency dirham.",
+      "Kafala system: a sponsorship system in Gulf countries that ties a foreign worker's visa and legal status to an in-country sponsor, typically the employer.",
+      "Indian nationals form the largest expatriate community within the UAE."
+    ],
+    "keywords": ["CEPA", "remittances", "Kafala", "Abu Dhabi", "dirham", "LNG", "LPG", "Strategic Reserve Programme"]
+   },
+   {
+    "title": "Norway, Nordic Group and Sweden",
+    "summary": "PM Modi made the first bilateral visit by an Indian PM to Norway in 43 years and attended the 3rd India-Nordic Summit in Oslo. Ties with Norway were upgraded to a Green Strategic Partnership, and ties with Sweden were elevated to a Strategic Partnership. The core Nordic group has five countries.",
+    "facts": [
+      "PM Modi undertook the first bilateral visit by an Indian PM to Norway in 43 years.",
+      "The 3rd India-Nordic Summit was held in Oslo; earlier summits were in Stockholm (2018) and Copenhagen (2022).",
+      "India and Norway upgraded ties to a Green Strategic Partnership covering clean energy transition, climate resilience, blue economy and green shipping.",
+      "Norway formally joined India's Indo-Pacific Oceans Initiative.",
+      "PM Modi was awarded Norway's highest civilian honour, the Grand Cross of the Royal Norwegian Order of Merit.",
+      "India-EFTA TEPA was signed in 2024.",
+      "Norwegian Sovereign Wealth Fund (GPFG) has invested about USD 28 billion in India.",
+      "Core Nordic countries: Denmark, Finland, Iceland (least populous), Norway and Sweden (most populous).",
+      "India and Sweden elevated ties to a Strategic Partnership and adopted the India-Sweden Joint Action Plan 2026-2030.",
+      "India and Sweden launched LeadIT at the UN Climate Action Summit in 2019 and endorsed joint development of SITAC, the India-Sweden Technology and Artificial Intelligence Corridor."
+    ],
+    "keywords": ["Green Strategic Partnership", "Oslo", "Nordic Summit", "GPFG", "EFTA TEPA", "LeadIT", "SITAC", "Joint Action Plan 2026-2030"]
+   },
+   {
+    "title": "Italy and Netherlands: Partnerships and Heritage",
+    "summary": "India and Italy upgraded ties to a Special Strategic Partnership, targeting EUR 20 billion in bilateral trade by 2029 and backing the IMEEC corridor. Cooperation with the Netherlands covers semiconductors, water management and the return of 11th-century Chola copper plates. The booklet also places the Afsluitdijk Dam in the Netherlands alongside the proposed Kalpasar Project in Gujarat.",
+    "facts": [
+      "India and Italy upgraded bilateral relations to a Special Strategic Partnership.",
+      "India and Italy committed to raising bilateral trade to EUR 20 billion by 2029.",
+      "Both nations support IMEEC, which aims to improve trade connectivity, logistics, energy and digital links between Asia and Europe.",
+      "2027 is declared the Year of Culture and Tourism between India and Italy, marking 80 years of diplomatic relations.",
+      "Italy is India's 4th largest trading partner in the EU.",
+      "MoU between Tata Electronics and ASML supports India's semiconductor plant in Dholera, Gujarat.",
+      "Leiden University returned 11th-century Chola copper plates (Anaimangalam Copper Plates) to India.",
+      "Afsluitdijk Dam: a 32 km long barrier dam in the Netherlands that transformed the saline Zuiderzee inlet into freshwater IJsselmeer Lake.",
+      "Kalpasar Project (Gujarat): proposed dam across the Gulf of Khambhat, expected to create the world's largest freshwater reservoir.",
+      "Kalpasar objectives: freshwater storage, flood control, climate resilience, irrigation support and regional development."
+    ],
+    "keywords": ["Special Strategic Partnership", "IMEEC", "EUR 20 billion", "Tata Electronics", "ASML", "Chola copper plates", "Afsluitdijk", "Kalpasar"]
+   }
+  ],
+  "mindmaps": [
+   {
+    "scope": "topic",
+    "title": "PM Modi's 5-Nation Visit",
+    "root": {
+     "label": "PM Modi visit to 5 nations",
+     "children": [
+      {"label": "UAE: energy and strategic reserves", "children": [
+        {"label": "30 million barrels ADNOC crude proposal"},
+        {"label": "Fujairah crude storage discussions"},
+        {"label": "IOCL-ADNOC LPG supply collaboration"}
+      ]},
+      {"label": "UAE: defence, AI and investment", "children": [
+        {"label": "Strategic Defence Partnership framework"},
+        {"label": "8 Exaflop supercomputing term sheet"},
+        {"label": "Investment up to US$1 billion"}
+      ]},
+      {"label": "UAE: trade and bilateral ties", "children": [
+        {"label": "Trade US$100 billion in FY 2025-26"},
+        {"label": "CEPA signed in 2022"},
+        {"label": "18% of India's remittance flows"}
+      ]},
+      {"label": "Norway and Nordic summit", "children": [
+        {"label": "First bilateral visit in 43 years"},
+        {"label": "3rd India-Nordic Summit in Oslo"},
+        {"label": "Green Strategic Partnership upgrade"}
+      ]},
+      {"label": "Sweden: Strategic Partnership", "children": [
+        {"label": "SITAC technology and AI corridor"},
+        {"label": "Joint Action Plan 2026-2030"},
+        {"label": "LeadIT launched in 2019"}
+      ]},
+      {"label": "Italy and Netherlands", "children": [
+        {"label": "Italy: Special Strategic Partnership"},
+        {"label": "EUR 20 billion trade target by 2029"},
+        {"label": "Chola copper plates returned"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 0,
+    "title": "UAE Visit Outcomes",
+    "root": {
+     "label": "UAE visit outcomes",
+     "children": [
+      {"label": "Energy and petroleum", "children": [
+        {"label": "30 million barrels ADNOC crude proposal"},
+        {"label": "Fujairah crude storage talks"},
+        {"label": "IOCL-ADNOC LPG supply pact"}
+      ]},
+      {"label": "Defence and shipbuilding", "children": [
+        {"label": "Strategic Defence Partnership framework"},
+        {"label": "Ship Repair Cluster at Vadinar"},
+        {"label": "Offshore fabrication under Maritime Development Fund"}
+      ]},
+      {"label": "AI and investment", "children": [
+        {"label": "8 Exaflop supercomputing clusters"},
+        {"label": "C-DAC and G42 partnership"},
+        {"label": "Investment up to US$1 billion"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 1,
+    "title": "UAE Profile and Ties",
+    "root": {
+     "label": "UAE profile and ties",
+     "children": [
+      {"label": "Trade and energy partner", "children": [
+        {"label": "Trade US$100 billion in FY 2025-26"},
+        {"label": "2nd largest export destination"},
+        {"label": "3rd largest crude oil source"}
+      ]},
+      {"label": "Agreements", "children": [
+        {"label": "CEPA signed in 2022"},
+        {"label": "Only nation in India's Strategic Reserve Programme"}
+      ]},
+      {"label": "Remittances and people", "children": [
+        {"label": "18% of India's remittance flows"},
+        {"label": "Indians: largest expatriate community"}
+      ]},
+      {"label": "Country and labour", "children": [
+        {"label": "Federal elective monarchy of 7 emirates"},
+        {"label": "Kafala: employer-linked sponsorship"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 2,
+    "title": "Norway, Nordics and Sweden",
+    "root": {
+     "label": "Norway, Nordics and Sweden",
+     "children": [
+      {"label": "Norway visit", "children": [
+        {"label": "First bilateral visit in 43 years"},
+        {"label": "Green Strategic Partnership"},
+        {"label": "Joined Indo-Pacific Oceans Initiative"}
+      ]},
+      {"label": "Nordic summits", "children": [
+        {"label": "3rd summit held in Oslo"},
+        {"label": "Earlier: Stockholm 2018, Copenhagen 2022"},
+        {"label": "Core Nordic group: five countries"}
+      ]},
+      {"label": "Sweden ties", "children": [
+        {"label": "Strategic Partnership upgrade"},
+        {"label": "Joint Action Plan 2026-2030"},
+        {"label": "SITAC and SME-startup platform"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 3,
+    "title": "Italy, Netherlands and Water Projects",
+    "root": {
+     "label": "Italy and Netherlands",
+     "children": [
+      {"label": "Italy", "children": [
+        {"label": "Special Strategic Partnership"},
+        {"label": "EUR 20 billion trade target by 2029"},
+        {"label": "2027: Year of Culture and Tourism"}
+      ]},
+      {"label": "Netherlands", "children": [
+        {"label": "Tata Electronics-ASML semiconductor MoU"},
+        {"label": "Anaimangalam Copper Plates returned"},
+        {"label": "Afsluitdijk: 32 km barrier dam"}
+      ]},
+      {"label": "Water projects", "children": [
+        {"label": "Kalpasar: dam across Gulf of Khambhat"},
+        {"label": "Freshwater storage and flood control"},
+        {"label": "Target: world's largest freshwater reservoir"}
+      ]}
+     ]
+    }
+   }
+  ],
+  "mnemonics": [
+   {
+    "scope": "subtopic",
+    "subtopic_index": 1,
+    "title": "UAE trade rankings",
+    "mnemonic": "Tiny Elephants Cross Large Pools",
+    "decode": [
+      {"key": "Tiny", "meaning": "Trade: US$100 billion in FY 2025-26"},
+      {"key": "Elephants", "meaning": "UAE is India's 2nd largest export destination, after the US"},
+      {"key": "Cross", "meaning": "UAE is India's 3rd largest crude oil source"},
+      {"key": "Large", "meaning": "UAE is India's 3rd largest LNG supplier"},
+      {"key": "Pools", "meaning": "UAE is India's 2nd largest LPG supplier"}
+    ]
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 2,
+    "title": "Core Nordic countries",
+    "mnemonic": "Dancers Find Icy Nordic Summers",
+    "decode": [
+      {"key": "D", "meaning": "Denmark"},
+      {"key": "F", "meaning": "Finland"},
+      {"key": "I", "meaning": "Iceland (least populous)"},
+      {"key": "N", "meaning": "Norway"},
+      {"key": "S", "meaning": "Sweden (most populous)"}
+    ]
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 3,
+    "title": "Kalpasar objectives",
+    "mnemonic": "Fresh Floods Can Irrigate Regions",
+    "decode": [
+      {"key": "Fresh", "meaning": "Freshwater storage"},
+      {"key": "Floods", "meaning": "Flood control"},
+      {"key": "Can", "meaning": "Climate resilience"},
+      {"key": "Irrigate", "meaning": "Irrigation support"},
+      {"key": "Regions", "meaning": "Regional development"}
+    ]
+   }
+  ],
+  "quizzes": [
+   {
+    "type": "MCQ",
+    "subtopic_index": 0,
+    "title": "UAE Visit Outcomes Check",
+    "passage": "Prime Minister Narendra Modi's visit to the United Arab Emirates focused on energy security, defence, technology and investment. Energy was a central theme, with an Indian strategic reserves company signing a memorandum of understanding with Abu Dhabi National Oil Company for strategic collaboration. Talks also covered storing crude oil at Fujairah under India's Overseas Strategic Reserve Framework. Separately, Indian Oil Corporation and ADNOC signed a strategic collaboration agreement on LPG supply security, and a long-term LPG sale agreement was under consideration.\n\nOn defence and maritime matters, the framework for a Strategic Defence Partnership was advanced. A memorandum between Cochin Shipyard and Drydocks World aims to establish a ship repair cluster at Vadinar. Cooperation also includes offshore fabrication under the Maritime Development Fund Scheme.\n\nIn technology, a term sheet was signed for setting up supercomputing clusters, linked to India's AI Mission and a partnership between C-DAC and G42. Investment was also on the agenda, as two institutions agreed to explore investments in India's infrastructure sector.\n\nTaken together, these outcomes show how India's partnership with the UAE now extends well beyond trade into petroleum security, shipbuilding, artificial intelligence and infrastructure finance. Several arrangements were signed, while others remain at the stage of proposals or discussions.",
+    "questions": [
+      {
+       "q": "How many barrels of ADNOC crude oil did India propose to store in its Strategic Petroleum Reserves?",
+       "options": ["10 million barrels", "20 million barrels", "30 million barrels", "50 million barrels"],
+       "answer": 2,
+       "explanation": "The booklet states India proposed storing up to 30 million barrels of ADNOC crude oil in its Strategic Petroleum Reserves."
+      },
+      {
+       "q": "Assertion (A): The UAE is the only nation participating in India's Strategic Reserve Programme.\nReason (R): The UAE accounted for 18% of India's remittance flows.\nSelect the correct option.",
+       "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+       "answer": 1,
+       "explanation": "The booklet states both facts, but the remittance share does not explain the UAE's place in India's Strategic Reserve Programme."
+      },
+      {
+       "q": "Match List I with List II:\nI. Trade between India and UAE in FY 2025-26   ->   A. US$ 100 billion\nII. UAE share of India's remittance flows   ->   B. 18%\nIII. Investment explored by ADIA and NIIF   ->   C. Up to US$ 1 billion\nIV. Proposed ADNOC crude storage in India   ->   D. 30 million barrels",
+       "options": ["I-A, II-B, III-C, IV-D", "I-C, II-A, III-B, IV-D", "I-D, II-C, III-A, IV-B", "I-B, II-D, III-A, IV-C"],
+       "answer": 0,
+       "explanation": "The booklet gives US$100 billion for trade, 18% for the remittance share, up to US$1 billion for investment and 30 million barrels for the proposed storage."
+      },
+      {
+       "q": "Consider the following statements about the UAE:\nI. The UAE is India's 3rd largest supplier of LNG.\nII. The UAE is India's 2nd largest crude oil source.\nIII. The UAE is India's 2nd largest export destination, after the US.\nWhich of the above statements is/are correct?",
+       "options": ["I and II only", "II and III only", "I, II and III", "I and III only"],
+       "answer": 3,
+       "explanation": "Statement II is wrong because the booklet ranks the UAE as India's 3rd largest crude oil source, while statements I and III match the booklet."
+      },
+      {
+       "q": "How many of the following statements about the UAE are correct?\nI. The UAE signed a Comprehensive Economic Partnership Agreement with India in 2022.\nII. Indian nationals form the largest expatriate community within the UAE.\nIII. Al Maktoum International Airport is located in Abu Dhabi.",
+       "options": ["Only one", "Only two", "Only three", "None"],
+       "answer": 1,
+       "explanation": "Statement III is wrong because the booklet places Al Maktoum International Airport in Jebel Ali, Dubai, while statements I and II match the booklet."
+      },
+      {
+       "q": "Which of the following is the naval component named in the booklet's list of UAE defence cooperation?",
+       "options": ["Zayed Talwar", "Desert Cyclone", "Desert Eagle", "Al Dhafra Air Base"],
+       "answer": 0,
+       "explanation": "The booklet lists Zayed Talwar as the naval component, with Desert Cyclone as the military exercise and Desert Eagle as the air force exercise."
+      },
+      {
+       "q": "Which facility is described in the booklet as the world's largest airport terminal?",
+       "options": ["Abu Dhabi International Airport", "Jebel Ali Port", "Al Maktoum International Airport", "Barakah Nuclear Power Plant"],
+       "answer": 2,
+       "explanation": "The booklet names Al Maktoum International Airport in Jebel Ali, Dubai, as the world's largest airport terminal."
+      },
+      {
+       "q": "Who is the Prime Minister of the UAE according to the booklet?",
+       "options": ["Mohammed bin Rashid Al Maktoum", "Mohammed bin Zayed Al Nahyan", "Abdullah bin Zayed Al Nahyan", "Sheikh Khalifa bin Zayed Al Nahyan"],
+       "answer": 0,
+       "explanation": "The booklet lists Mohammed bin Rashid Al Maktoum as Prime Minister, while Mohammed bin Zayed Al Nahyan is listed as President."
+      }
+    ]
+   },
+   {
+    "type": "TITA",
+    "subtopic_index": 2,
+    "title": "Nordic and Sweden Ties",
+    "passage": "Prime Minister Narendra Modi's engagements in the Nordic region combined a visit to Norway with participation in a regional summit series. The Nordic countries form a group in Northern Europe, and India has held a series of summits with them. Relations with Norway moved to a higher level, with a focus on clean energy, climate resilience, the blue economy and green shipping. Norway also joined an Indo-Pacific initiative led by India.\n\nSweden was the other key partner in this round. The two countries moved their ties to a strategic partnership and adopted a joint action plan that covers the years ahead. They endorsed joint development of a technology and artificial intelligence corridor, and agreed to set up a platform for small enterprises and start-ups. Modi also received a Swedish order that is among the highest honours a head of government can receive.\n\nEconomic links also matter. Norway's sovereign wealth fund has invested in India, and a trade agreement between India and the European Free Trade Association has been signed. Together, these steps show how the Nordic engagement joins climate, technology, trade and diplomacy in one strategy.",
+    "questions": [
+      {
+       "q": "In how many years was PM Modi's visit to Norway the first bilateral visit by an Indian PM? (answer in years)",
+       "answer": "43",
+       "accept": ["43 years", "forty-three", "forty three"],
+       "explanation": "The booklet states it was the first bilateral visit by an Indian PM to Norway in 43 years."
+      },
+      {
+       "q": "In which city was the 3rd India-Nordic Summit held?",
+       "answer": "Oslo",
+       "accept": ["Oslo, Norway"],
+       "explanation": "The booklet says the 3rd India-Nordic Summit was held in Oslo, after the earlier summits in Stockholm (2018) and Copenhagen (2022)."
+      },
+      {
+       "q": "Which partnership did India and Norway upgrade their ties to? (name the partnership)",
+       "answer": "Green Strategic Partnership",
+       "accept": ["green strategic partnership"],
+       "explanation": "The booklet states India and Norway upgraded ties to a Green Strategic Partnership focused on clean energy and blue economy."
+      },
+      {
+       "q": "About how much has the Norwegian Sovereign Wealth Fund (GPFG) invested in India? (in USD billion)",
+       "answer": "28",
+       "accept": ["28 billion", "USD 28 billion", "~28", "about 28"],
+       "explanation": "The booklet gives the Norwegian Sovereign Wealth Fund's investment in India as about USD 28 billion."
+      },
+      {
+       "q": "In which year did India and Sweden launch LeadIT at the UN Climate Action Summit?",
+       "answer": "2019",
+       "accept": ["the year 2019", "AD 2019"],
+       "explanation": "The booklet states India and Sweden launched LeadIT at the UN Climate Action Summit in 2019."
+      },
+      {
+       "q": "For which period is the India-Sweden Joint Action Plan designed? (give the years)",
+       "answer": "2026-2030",
+       "accept": ["2026–2030", "2026 to 2030", "2026-30", "2026–30"],
+       "explanation": "The booklet states that both nations adopted the India-Sweden Joint Action Plan 2026-2030."
+      },
+      {
+       "q": "How many countries form the core Nordic group, as listed in the booklet?",
+       "answer": "5",
+       "accept": ["five"],
+       "explanation": "The booklet lists five core Nordic countries: Denmark, Finland, Iceland, Norway and Sweden."
+      }
+    ]
+   }
+  ],
+  "needs_check": [
+   {"page": 5, "what": "'3% Largest Trade Partner after China and US': the ordinal is garbled (3rd or 3%); not used"},
+   {"page": 6, "what": "'12U2 (India - Israel - UAE - USA)': the grouping label is garbled; not used"},
+   {"page": 7, "what": "'Himadri Station (Svalbard) in Norway (2008)': column layout merges the year, so it is unclear whether 2008 belongs to Himadri; not used"},
+   {"page": 7, "what": "'European Country after India-France-Australia' line is unclear in layout; not used"},
+   {"page": 7, "what": "'2nd Indo-Pacific Trilateral' line for India-Italy-Japan is broken across columns; not used"},
+   {"page": 8, "what": "IMEC map labels (ports and countries) are garbled; not used"},
+   {"page": 9, "what": "Anaimangalam inscriptions: Tamil and Sanskrit section roles are stated two different ways (summary line vs bullets); not used"}
+  ]
+ }
+}
