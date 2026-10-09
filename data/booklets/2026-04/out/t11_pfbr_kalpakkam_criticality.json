@@ -1,0 +1,337 @@
+{
+ "topic": {
+  "title": "PFBR at Kalpakkam Achieves Criticality",
+  "chapter_title": "Science and Technology, Defence and Space",
+  "subtopics": [
+   {
+    "title": "Criticality and neutron balance",
+    "summary": "A reactor reaches criticality when its nuclear fission chain reaction becomes self-sustaining, and this depends on the balance of the neutron population in the core. The multiplication factor k compares the neutrons in one generation with the previous generation. The value of k decides whether a reactor is subcritical, critical or supercritical.",
+    "facts": [
+     "Criticality: the state in which the nuclear fission chain reaction is self-sustaining.",
+     "Depends on the neutron population balance in the reactor core.",
+     "Multiplication factor k: neutrons in one generation divided by neutrons in the previous generation.",
+     "Subcritical (k < 1): neutron population decreases and the chain reaction dies out.",
+     "Critical (k = 1): neutron population remains constant and the reaction is steady and self-sustaining.",
+     "Supercritical (k > 1): neutron population increases exponentially and power output rises rapidly.",
+     "The PFBR achieved its first criticality, marking entry into Stage II of the nuclear programme."
+    ],
+    "keywords": ["criticality", "multiplication factor k", "neutron population", "subcritical", "supercritical", "chain reaction"]
+   },
+   {
+    "title": "PFBR design and breeding",
+    "summary": "The Prototype Fast Breeder Reactor uses Mixed Oxide fuel derived from reprocessed spent fuel. Its core is surrounded by a Uranium-238 blanket in which fast neutrons convert U-238 into Plutonium-239. Liquid sodium is the coolant, and the reactor has a capacity of 500 MWe.",
+    "facts": [
+     "Fuel: Mixed Oxide (MOX) of plutonium and uranium.",
+     "The MOX fuel is derived from reprocessed spent fuel.",
+     "The core is surrounded by a Uranium-238 blanket, called the breeder blanket.",
+     "The breeder mechanism converts U-238 into Plutonium-239.",
+     "Uses fast neutrons to produce more nuclear fuel than it consumes while generating power.",
+     "Coolant system uses liquid sodium.",
+     "Liquid sodium has high thermal conductivity and does not slow neutrons.",
+     "Type: Fast Breeder Reactor with a capacity of 500 MWe."
+    ],
+    "keywords": ["MOX", "breeder blanket", "U-238", "Pu-239", "liquid sodium", "fast neutrons", "500 MWe"]
+   },
+   {
+    "title": "Benefits: fuel, waste and energy",
+    "summary": "The PFBR produces more fuel than it consumes, which extends the use of nuclear resources. It recycles spent fuel from Stage I reactors, which reduces the volume of nuclear waste and its long-term radiotoxicity. The booklet also says it extracts about 60 times more energy from natural uranium than traditional PHWRs.",
+    "facts": [
+     "Result: the PFBR produces more fuel than it consumes.",
+     "Waste reduction: recycles spent fuel from Stage I reactors.",
+     "Reduces the volume of nuclear waste.",
+     "Reduces long-term radiotoxicity of nuclear waste.",
+     "Energy efficiency: extracts about 60 times more energy from natural uranium than traditional PHWRs.",
+     "PHWR stands for Pressurized Heavy Water Reactor, the comparison point for energy efficiency."
+    ],
+    "keywords": ["waste reduction", "radiotoxicity", "spent fuel recycling", "energy efficiency", "PHWR", "breeding"]
+   },
+   {
+    "title": "India's three-stage nuclear programme",
+    "summary": "India's three-stage nuclear power programme was formulated by Homi Jehangir Bhabha to achieve long-term energy security using uranium and thorium resources. Stage I uses PHWRs, Stage II uses fast breeder reactors with MOX fuel and liquid sodium, and Stage III uses thorium-based advanced reactors. India presently has 24 nuclear power reactors operating in 6 states.",
+    "facts": [
+     "Formulated by Homi Jehangir Bhabha.",
+     "Aim: long-term energy security using uranium and thorium resources.",
+     "Stage I: PHWR with natural uranium fuel, heavy water coolant and heavy water moderator.",
+     "Stage I breeds Plutonium-239.",
+     "Stage II: Fast Breeder Reactor using MOX (Pu-239 + U-238) fuel and liquid sodium coolant.",
+     "Stage III: Advanced HWR / Thermal Breeder using Uranium-233 derived from thorium.",
+     "Stage III uses light water as coolant and heavy water as moderator.",
+     "India presently has 24 nuclear power reactors operating in 6 states, with installed capacity of 8780 MWe.",
+     "Kudankulam Power Plant in Tamil Nadu is the newest and largest; Tarapur Power Plant in Maharashtra is the first and oldest.",
+     "Atomic Energy Act, 1962 governs nuclear facilities; the Atomic Energy Regulatory Board (AERB) regulates them."
+    ],
+    "keywords": ["three-stage programme", "Bhabha", "PHWR", "fast breeder", "thorium", "AERB", "Atomic Energy Act"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "PFBR at Kalpakkam: key map",
+   "root": {
+    "label": "PFBR at Kalpakkam achieved criticality",
+    "children": [
+     {"label": "Milestone", "children": [
+       {"label": "Entry into Stage II"},
+       {"label": "India second after Russia"}
+     ]},
+     {"label": "Criticality states", "children": [
+       {"label": "Subcritical: k less than 1"},
+       {"label": "Critical: k equals 1"},
+       {"label": "Supercritical: k greater than 1"}
+     ]},
+     {"label": "Technical features", "children": [
+       {"label": "MOX fuel from reprocessed spent fuel"},
+       {"label": "Uranium-238 blanket converts to Pu-239"},
+       {"label": "Liquid sodium coolant"},
+       {"label": "Capacity 500 MWe"}
+     ]},
+     {"label": "Organisations", "children": [
+       {"label": "Built by BHAVINI"},
+       {"label": "Designed by Indira Gandhi Centre for Atomic Research"},
+       {"label": "Nodal agency: Department of Atomic Energy"}
+     ]},
+     {"label": "Benefits", "children": [
+       {"label": "Produces more fuel than it consumes"},
+       {"label": "About 60 times more energy than PHWRs"},
+       {"label": "Reduces waste volume and radiotoxicity"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Reactor criticality states",
+   "root": {
+    "label": "Reactor criticality",
+    "children": [
+     {"label": "Self-sustaining fission chain reaction", "children": [
+       {"label": "Depends on neutron population balance"}
+     ]},
+     {"label": "Multiplication factor k", "children": [
+       {"label": "Neutrons per generation / previous generation"}
+     ]},
+     {"label": "Three states", "children": [
+       {"label": "Subcritical: k below 1, chain dies out"},
+       {"label": "Critical: k equals 1, steady"},
+       {"label": "Supercritical: k above 1, power rises"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "PFBR design and breeding",
+   "root": {
+    "label": "PFBR design",
+    "children": [
+     {"label": "Fuel: MOX from reprocessed spent fuel"},
+     {"label": "Breeder blanket around core", "children": [
+       {"label": "U-238 converts to Pu-239"},
+       {"label": "Fast neutrons produce fuel"}
+     ]},
+     {"label": "Coolant: liquid sodium", "children": [
+       {"label": "High thermal conductivity"},
+       {"label": "Does not slow neutrons"}
+     ]},
+     {"label": "Capacity: 500 MWe"}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Benefits of breeding",
+   "root": {
+    "label": "Benefits of the PFBR",
+    "children": [
+     {"label": "Fuel: produces more than it consumes"},
+     {"label": "Waste: recycles Stage I spent fuel", "children": [
+       {"label": "Reduces waste volume"},
+       {"label": "Reduces long-term radiotoxicity"}
+     ]},
+     {"label": "Energy: more than PHWRs", "children": [
+       {"label": "About 60 times more from natural uranium"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Three-stage programme",
+   "root": {
+    "label": "Three-stage nuclear programme",
+    "children": [
+     {"label": "Stage I: PHWR", "children": [
+       {"label": "Natural uranium fuel"},
+       {"label": "Heavy water coolant and moderator"}
+     ]},
+     {"label": "Stage II: Fast breeder reactor", "children": [
+       {"label": "MOX fuel"},
+       {"label": "Liquid sodium coolant"}
+     ]},
+     {"label": "Stage III: Advanced HWR / thermal breeder", "children": [
+       {"label": "Uranium-233 from thorium fuel"},
+       {"label": "Light water coolant"}
+     ]},
+     {"label": "Status today", "children": [
+       {"label": "24 reactors in 6 states"},
+       {"label": "Kudankulam: newest and largest"},
+       {"label": "Tarapur: first and oldest"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Benefits of the PFBR",
+   "mnemonic": "Make More, Waste Less, Sixty Times",
+   "decode": [
+    {"key": "Make More", "meaning": "The PFBR produces more fuel than it consumes."},
+    {"key": "Waste Less", "meaning": "It reduces the volume of nuclear waste and its long-term radiotoxicity."},
+    {"key": "Sixty Times", "meaning": "It extracts about 60 times more energy from natural uranium than traditional PHWRs."}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Subcritical, critical, supercritical",
+   "mnemonic": "Die, Hold, Climb",
+   "decode": [
+    {"key": "Die", "meaning": "Subcritical state (k less than 1): the chain reaction dies out."},
+    {"key": "Hold", "meaning": "Critical state (k equals 1): the neutron population remains constant."},
+    {"key": "Climb", "meaning": "Supercritical state (k greater than 1): power output rises rapidly."}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Fuel across the three stages",
+   "mnemonic": "Natural, Mixed, Thorium",
+   "decode": [
+    {"key": "Natural", "meaning": "Stage I PHWRs use natural uranium fuel."},
+    {"key": "Mixed", "meaning": "Stage II fast breeder reactors use MOX fuel of plutonium and uranium."},
+    {"key": "Thorium", "meaning": "Stage III uses Uranium-233 derived from thorium."}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Criticality and reactor choices",
+   "passage": "A nuclear reactor produces useful power only when its chain reaction keeps going on its own. Whether this happens depends on the neutrons inside the core, because each fission releases neutrons that can trigger further fissions. Engineers track how many neutrons are produced in each round compared with the round before. If this ratio falls below the level needed, the reaction fades away. If it holds at that level, the power stays steady. If it climbs above, the output grows quickly and must be brought under control.\n\nIndia's nuclear programme is designed to make the most of its resources over a long period. Early reactors use the fuel the country can readily supply, while later designs aim to create more fuel than they consume. The prototype reactor at Kalpakkam is a test of one such design, and its progress is being followed closely by scientists and policymakers.\n\nBuilding a reactor that breeds fuel is demanding. Its core must be surrounded by material that captures neutrons and turns into new fuel. Its coolant must remove heat efficiently and be chosen with care, because the choice affects how the neutrons behave. These decisions shape the reactor's cost, its safety record and the amount of waste it leaves behind.\n\nRegulation also matters. Nuclear and radiation facilities must follow national rules, and an expert body oversees their activities so that they run in a controlled way.",
+   "questions": [
+    {
+     "q": "Which agency is responsible for building the Prototype Fast Breeder Reactor at Kalpakkam?",
+     "options": ["Atomic Energy Regulatory Board (AERB)", "Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI)", "Department of Atomic Energy", "Indira Gandhi Centre for Atomic Research"],
+     "answer": 1,
+     "explanation": "The booklet states that the PFBR was built by Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI)."
+    },
+    {
+     "q": "What is the capacity of the Prototype Fast Breeder Reactor at Kalpakkam?",
+     "options": ["200 MWe", "500 MWe", "700 MWe", "1000 MWe"],
+     "answer": 1,
+     "explanation": "The booklet gives the PFBR's capacity as 500 MWe."
+    },
+    {
+     "q": "Which Indian law governs the establishment and use of nuclear facilities and radioactive sources?",
+     "options": ["Atomic Energy Act, 1962", "Atomic Energy Act, 1982", "Atomic Energy Act, 1992", "Atomic Energy Act, 2002"],
+     "answer": 0,
+     "explanation": "The booklet states that nuclear facilities are established and used in accordance with the Atomic Energy Act, 1962."
+    },
+    {
+     "q": "Assertion (A): Liquid sodium is used as the coolant in the PFBR because it slows neutrons effectively for fission.\nReason (R): Liquid sodium has high thermal conductivity and does not slow neutrons.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 3,
+     "explanation": "The booklet says liquid sodium has high thermal conductivity and does not slow neutrons, so the assertion that it slows neutrons is false."
+    },
+    {
+     "q": "Match List I with List II:\nI. Stage I   ->   A. Mixed Oxide (MOX) fuel\nII. Stage II   ->   B. Natural uranium fuel\nIII. Stage III   ->   C. Uranium-233 from thorium\nIV. PFBR coolant   ->   D. Liquid sodium",
+     "options": ["I-A, II-B, III-C, IV-D", "I-C, II-A, III-B, IV-D", "I-B, II-A, III-C, IV-D", "I-B, II-D, III-C, IV-A"],
+     "answer": 2,
+     "explanation": "Stage I uses natural uranium, Stage II uses MOX, Stage III uses Uranium-233 from thorium, and the PFBR uses liquid sodium as coolant."
+    },
+    {
+     "q": "Consider the following statements:\nI. The PFBR uses Mixed Oxide fuel derived from reprocessed spent fuel.\nII. Stage I reactors breed Plutonium-239.\nIII. Kudankulam is the oldest nuclear power plant in India.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I only", "I, II and III"],
+     "answer": 0,
+     "explanation": "Statement III is false because Tarapur, not Kudankulam, is India's first and oldest nuclear power plant."
+    },
+    {
+     "q": "Consider the following statements about India's nuclear power sector:\nI. Tarapur is India's first and oldest nuclear power plant.\nII. India presently has 24 nuclear power reactors operating in 6 states.\nIII. The PFBR at Kalpakkam has an installed capacity of 8780 MWe.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and II are correct, while III is wrong because 8780 MWe is India's total installed capacity and the PFBR's capacity is 500 MWe."
+    },
+    {
+     "q": "Compared with traditional Pressurized Heavy Water Reactors (PHWRs), by roughly how many times does the PFBR extract more energy from natural uranium?",
+     "options": ["About 6 times", "About 16 times", "About 60 times", "About 600 times"],
+     "answer": 2,
+     "explanation": "The booklet states that the PFBR extracts about 60 times more energy from natural uranium compared to PHWRs."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "India's energy programme",
+   "passage": "Energy security has become a central goal for any country that depends on imported fuel. Nuclear power is one tool for this goal, because a small amount of fuel can produce a large amount of electricity. Its expansion also raises questions about waste, safety and the long-term supply of raw material. Planners have therefore looked for ways to close the fuel cycle, so that used fuel is recycled rather than simply stored.\n\nSuch a plan works best when the programme is carefully staged. Each stage is meant to make better use of the country's resources than the one before it. Every stage brings its own engineering challenges, from choosing the moderator and coolant to designing the reactor core.\n\nNuclear facilities in the country must follow national rules and are checked by a regulator that oversees nuclear and radiation activities. The programme is described as supporting a clean, low-carbon energy transition. Progress is therefore measured not only in megawatts but also in less waste, more domestic fuel and the building of skills that place the country among the world's advanced nuclear nations.",
+   "questions": [
+    {
+     "q": "Which country was the first to operate a commercial-scale Fast Breeder Reactor, before India? (name of the country)",
+     "answer": "Russia",
+     "accept": ["Russian Federation"],
+     "explanation": "The booklet says India became the second nation, after Russia, to operate a commercial-scale Fast Breeder Reactor."
+    },
+    {
+     "q": "What is the mass number of the uranium isotope that surrounds the PFBR core as a breeder blanket? (number only)",
+     "answer": "238",
+     "accept": ["U-238", "U238", "Uranium-238"],
+     "explanation": "The PFBR core is surrounded by a Uranium-238 blanket that converts into Plutonium-239."
+    },
+    {
+     "q": "How many nuclear power reactors is India presently operating? (number)",
+     "answer": "24",
+     "accept": ["twenty-four", "Twenty-four", "Twenty four"],
+     "explanation": "The booklet states that India presently has 24 nuclear power reactors operating in 6 states."
+    },
+    {
+     "q": "Which plant is India's newest and largest nuclear power plant? (name of the plant)",
+     "answer": "Kudankulam",
+     "accept": ["Kudankulam Power Plant", "Kudankulam Nuclear Power Station"],
+     "explanation": "The booklet lists the Kudankulam Power Plant in Tamil Nadu as the newest and largest nuclear power plant."
+    },
+    {
+     "q": "Which Indian state hosts Tarapur, India's first and oldest nuclear power plant? (name of the state)",
+     "answer": "Maharashtra",
+     "accept": ["Maharashtra state"],
+     "explanation": "The booklet lists the Tarapur Power Plant in Maharashtra as the first and oldest nuclear power plant."
+    },
+    {
+     "q": "Which material serves as the coolant in Stage I (PHWR) reactors of India's programme? (two words)",
+     "answer": "Heavy Water",
+     "accept": ["heavy water"],
+     "explanation": "The booklet's comparison table lists heavy water as the Stage I coolant, and heavy water is also the Stage I moderator."
+    },
+    {
+     "q": "Who formulated India's three-stage nuclear power programme? (full name)",
+     "answer": "Homi Jehangir Bhabha",
+     "accept": ["Homi Bhabha", "H. J. Bhabha", "H J Bhabha"],
+     "explanation": "The booklet states that India's three-stage nuclear power programme was formulated by Homi Jehangir Bhabha."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 53, "what": "Stage II 'Breeding' cell reads 'Pu-239 + U-233'; whether it is U-233 or U-238 is unclear, so this was not used."},
+  {"page": 53, "what": "Thorium is linked to 'Stage Ll' in the strategic significance line; the stage number is garbled, so it was not used."},
+  {"page": 52, "what": "'(1948)' appears beside the Nodal Agency line; its attachment to the Department of Atomic Energy is unclear, so the year was not used."},
+  {"page": 53, "what": "Skill-Up line (SHANTI Act 2025, ASHVINI Joint Venture and others) is garbled and was not used."}
+ ]
+}

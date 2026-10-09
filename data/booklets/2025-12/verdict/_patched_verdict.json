@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "id": "t-t04-1",
+      "n": 2,
+      "my_answer": "Special Marriage Act, 1954",
+      "supported": true,
+      "evidence": {
+        "page": 22,
+        "quote": "Special Marriage Act 1954 Allows Inter — Religious Marriages While Explicitly Prohibiting Polygamy."
+      },
+      "issues": []
+    },
+    {
+      "id": "t-t09-1",
+      "n": 5,
+      "my_answer": "3",
+      "supported": true,
+      "evidence": {
+        "page": 58,
+        "quote": "RBI's Integrated Ombudsman Scheme 2021 Merges Banking Ombudsman Scheme 2006, NBFC Ombudsman Scheme 2018 and Ombudsman Scheme for Digital Transactions 2019."
+      },
+      "issues": []
+    }
+  ],
+  "passage_flags": [
+    {
+      "quiz": "t-t01-1",
+      "claim": "Damaged water bodies are also being restored, because healthy ponds and lakes help recharge groundwater.",
+      "problem": "Booklet lists water body restoration (p.5/p.7 implementation list) but does not state that ponds or lakes recharge groundwater. Groundwater recharge is attributed to the Aravalli rock formations, not to restored water bodies."
+    },
+    {
+      "quiz": "t-t01-1",
+      "claim": "Invasive plant species, which crowd out native plants, are removed so that the native forest can recover.",
+      "problem": "Booklet says only 'Removal of invasive species'. The 'crowd out native plants' and 'native forest can recover' rationale is not in the text."
+    }
+  ],
+  "fact_flags": []
+}
