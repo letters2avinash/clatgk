@@ -1,0 +1,34 @@
+{
+ "quizzes": [
+  {
+   "id": "q-t02-0",
+   "questions": [
+    {"n": 1, "my_answer": 1, "supported": true, "evidence": {"page": 12, "quote": "Region hosts Kaffeklubben Island, Recognised as World's Northernmost Point of Land."}, "issues": []},
+    {"n": 2, "my_answer": 2, "supported": true, "evidence": {"page": 13, "quote": "Greenland lies within strategic GIUK (Greenland, Iceland, United Kingdom) Gap, Key Chokepoint for Monitoring Naval Movements in North Atlantic."}, "issues": []},
+    {"n": 3, "my_answer": 0, "supported": true, "evidence": {"page": 12, "quote": "Today, U.S. maintains Pituffik Space Base (formerly known as Thule Air Base), a pivotal facility for monitoring"}, "issues": []},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 12, "quote": "In 1946, U.S. proposed a $100 Million offer to Denmark for Outright Purchase of Greenland."}, "issues": []},
+    {"n": 5, "my_answer": 3, "supported": true, "evidence": {"page": 12, "quote": "In 1973, Greenland joined now — defunct European Community with Denmark, but left in 1985."}, "issues": []},
+    {"n": 6, "my_answer": 0, "supported": true, "evidence": {"page": 13, "quote": "French President urges European Union to invoke Anti — Coercion Instrument 'Trade Bazooka', for the first time,"}, "issues": []},
+    {"n": 7, "my_answer": 2, "supported": true, "evidence": {"page": 14, "quote": "Any decision to invite a country to join the Alliance is taken by the North Atlantic Council"}, "issues": []},
+    {"n": 8, "my_answer": 3, "supported": true, "evidence": {"page": 14, "quote": "NATO was created by 12 countries from Europe and North America on 4 April 1949."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-t02-1",
+   "questions": [
+    {"n": 1, "my_answer": "rare earth", "supported": true, "evidence": {"page": 13, "quote": "Greenland possesses Large Untapped Reserves of rare earth minerals, crucial for"}, "issues": ["ambiguous", "other: two-word limit conflicts with booklet term 'Rare Earth Elements' (three words)"]},
+    {"n": 2, "my_answer": "China", "supported": true, "evidence": {"page": 13, "quote": "Offers the West an Alternative supply Chain to China — dominated REE Markets, aligning"}, "issues": []},
+    {"n": 3, "my_answer": "Transpolar Sea Route", "supported": true, "evidence": {"page": 13, "quote": "Melting Arctic Ice is opening New Maritime Corridors, especially Transpolar Sea Route."}, "issues": []},
+    {"n": 4, "my_answer": "Panama", "supported": true, "evidence": {"page": 13, "quote": "Bypass Strategic Chokepoints like Panama Canal and Suez Canal."}, "issues": []},
+    {"n": 5, "my_answer": "Near-Arctic State", "supported": true, "evidence": {"page": 13, "quote": "China labels itself a 'Near — Arctic State' and is investing in Arctic Research and"}, "issues": []},
+    {"n": 6, "my_answer": "GIUK", "supported": true, "evidence": {"page": 13, "quote": "Greenland lies within strategic GIUK (Greenland, Iceland, United Kingdom) Gap, Key Chokepoint for"}, "issues": []},
+    {"n": 7, "my_answer": "Thule Air Base", "supported": true, "evidence": {"page": 12, "quote": "Today, U.S. maintains Pituffik Space Base (formerly known as Thule Air Base), a pivotal facility"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "Outside powers are also investing in Arctic research and infrastructure, which signals long-term interest in the region.", "problem": "not found in booklet text as stated: the booklet names only China as investing in Arctic research and infrastructure; 'outside powers' (plural) is a generalisation", "page": 13}
+   ]
+  }
+ ],
+ "fact_flags": []
+}
