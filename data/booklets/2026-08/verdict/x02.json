@@ -1,0 +1,87 @@
+{
+ "quizzes": [
+  {
+   "id": "q-x02-38",
+   "questions": [
+    {"n": 1, "my_answer": 1, "supported": true, "evidence": {"page": 10, "quote": "Bordered by Brunei, China, Indonesia, Malaysia, Philippines,"}, "issues": []},
+    {"n": 2, "my_answer": 3, "supported": true, "evidence": {"page": 10, "quote": "Connected by \"Taiwan Strait\" with East China Sea and by \"Luzon Strait\" with Philippine Sea"}, "issues": []},
+    {"n": 3, "my_answer": 0, "supported": true, "evidence": {"page": 10, "quote": "Connected by \"Taiwan Strait\" with East China Sea and by \"Luzon"}, "issues": []},
+    {"n": 4, "my_answer": 2, "supported": true, "evidence": {"page": 10, "quote": "\"South China Sea\" and \"East China Sea\" together form \"China Sea\"."}, "issues": []},
+    {"n": 5, "my_answer": 3, "supported": true, "evidence": {"page": 10, "quote": "Connected by \"Taiwan Strait\" with East China Sea and by \"Luzon Strait\" with Philippine Sea"}, "issues": []},
+    {"n": 6, "my_answer": 2, "supported": true, "evidence": {"page": 10, "quote": "Bordered by Brunei, China, Indonesia, Malaysia, Philippines,"}, "issues": []},
+    {"n": 7, "my_answer": 2, "supported": true, "evidence": {"page": 10, "quote": "\"Arm of Western Pacific Ocean\" that borders \"South — East Asian Mainland\"."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x02-39",
+   "questions": [
+    {"n": 1, "my_answer": "Luzon Strait", "supported": true, "evidence": {"page": 10, "quote": "Connected by \"Taiwan Strait\" with East China Sea and by \"Luzon Strait\" with Philippine Sea"}, "issues": []},
+    {"n": 2, "my_answer": "East China Sea", "supported": true, "evidence": {"page": 10, "quote": "Connected by \"Taiwan Strait\" with East China Sea and by \"Luzon"}, "issues": []},
+    {"n": 3, "my_answer": "Western Pacific Ocean", "supported": true, "evidence": {"page": 10, "quote": "\"Arm of Western Pacific Ocean\" that borders \"South — East Asian Mainland\"."}, "issues": []},
+    {"n": 4, "my_answer": "7", "supported": true, "evidence": {"page": 10, "quote": "Bordered by Brunei, China, Indonesia, Malaysia, Philippines,"}, "issues": []},
+    {"n": 5, "my_answer": "Brunei", "supported": true, "evidence": {"page": 10, "quote": "Bordered by Brunei, China, Indonesia, Malaysia, Philippines,"}, "issues": []},
+    {"n": 6, "my_answer": "Vietnam", "supported": true, "evidence": {"page": 10, "quote": "Taiwan and Vietnam."}, "issues": []},
+    {"n": 7, "my_answer": "Indonesia", "supported": true, "evidence": {"page": 10, "quote": "Bordered by Brunei, China, Indonesia, Malaysia, Philippines,"}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "q-x02-40",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 11, "quote": "There are 11 billion barrels of Oil and 190 trillion cubic feet of Natural Gas in deposits"}, "issues": []},
+    {"n": 2, "my_answer": 3, "supported": true, "evidence": {"page": 11, "quote": "United Nations Conference on Trade and Development (UNCTAD) estimates that over 21%"}, "issues": []},
+    {"n": 3, "my_answer": 0, "supported": true, "evidence": {"page": 11, "quote": "More than Halfof World's Fishing Vessels operate in this area."}, "issues": []},
+    {"n": 4, "my_answer": 0, "supported": true, "evidence": {"page": 11, "quote": "Nearly 1/3\" of World's Shipping Trade annually pass through this waterway."}, "issues": []},
+    {"n": 5, "my_answer": 1, "supported": true, "evidence": {"page": 11, "quote": "There are 11 billion barrels of Oil and 190 trillion cubic feet of Natural Gas in deposits"}, "issues": []},
+    {"n": 6, "my_answer": 1, "supported": true, "evidence": {"page": 11, "quote": "There are 11 billion barrels of Oil and 190 trillion cubic feet of Natural Gas in deposits"}, "issues": []},
+    {"n": 7, "my_answer": 2, "supported": true, "evidence": {"page": 11, "quote": "Sea is home to Rich Fishing Grounds, containing an Estimated 12% of World's Fisheries"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "fishing vessels from several countries work in the area", "problem": "not found in booklet text; booklet says more than half of the world's fishing vessels operate in the area but does not name several countries' fleets", "page": 11}
+   ]
+  },
+  {
+   "id": "t-x02-41",
+   "questions": [
+    {"n": 1, "my_answer": "11", "supported": true, "evidence": {"page": 11, "quote": "There are 11 billion barrels of Oil and 190 trillion cubic feet of Natural Gas in deposits"}, "issues": []},
+    {"n": 2, "my_answer": "190", "supported": true, "evidence": {"page": 11, "quote": "There are 11 billion barrels of Oil and 190 trillion cubic feet of Natural Gas in deposits"}, "issues": []},
+    {"n": 3, "my_answer": "12", "supported": true, "evidence": {"page": 11, "quote": "Sea is home to Rich Fishing Grounds, containing an Estimated 12% of World's Fisheries"}, "issues": []},
+    {"n": 4, "my_answer": "21", "supported": true, "evidence": {"page": 11, "quote": "United Nations Conference on Trade and Development (UNCTAD) estimates that over 21%"}, "issues": []},
+    {"n": 5, "my_answer": "3.37", "supported": true, "evidence": {"page": 11, "quote": "of Global Trade, amounting to $3.37 trillion."}, "issues": []},
+    {"n": 6, "my_answer": "EIA", "supported": true, "evidence": {"page": 14, "quote": "According to US EIA estimates, how much natural gas lies in deposits under the South China Sea?"}, "issues": []},
+    {"n": 7, "my_answer": "UNCTAD", "supported": true, "evidence": {"page": 11, "quote": "United Nations Conference on Trade and Development (UNCTAD) estimates that over 21%"}, "issues": []}
+   ],
+   "passage_flags": [
+    {"claim": "rich grounds that support fleets from several neighbouring countries", "problem": "not found in booklet text; booklet describes rich fishing grounds and more than half of the world's fishing vessels but names no neighbouring countries' fleets", "page": 11}
+   ]
+  },
+  {
+   "id": "q-x02-42",
+   "questions": [
+    {"n": 1, "my_answer": 2, "supported": true, "evidence": {"page": 11, "quote": "The Spratly Islands China, Taiwan, Vietnam, Brunei and the Philippines"}, "issues": []},
+    {"n": 2, "my_answer": 0, "supported": true, "evidence": {"page": 12, "quote": "A significant share of India's Maritime Commerce passes through South China Sea and Malacca Strait, making"}, "issues": []},
+    {"n": 3, "my_answer": 3, "supported": true, "evidence": {"page": 12, "quote": "A Standoff in 2012 resulted in China gaining \"De — Facto Control\""}, "issues": []},
+    {"n": 4, "my_answer": 1, "supported": true, "evidence": {"page": 12, "quote": "Chinese Naval Infrastructure in South China Sea could facilitate greater Indian Ocean power projection."}, "issues": []},
+    {"n": 5, "my_answer": 0, "supported": true, "evidence": {"page": 11, "quote": "The Paracel Islands China, Taiwan and Vietnam"}, "issues": []},
+    {"n": 6, "my_answer": 2, "supported": true, "evidence": {"page": 11, "quote": "The Scarborough Shoal Philippines, China and Taiwan"}, "issues": []},
+    {"n": 7, "my_answer": 1, "supported": true, "evidence": {"page": 13, "quote": "China has exercised De Facto Control since 1974, following Battle of Paracel Islands involving South Vietnam."}, "issues": []}
+   ],
+   "passage_flags": []
+  },
+  {
+   "id": "t-x02-43",
+   "questions": [
+    {"n": 1, "my_answer": "2012", "supported": true, "evidence": {"page": 12, "quote": "A Standoff in 2012 resulted in China gaining \"De — Facto Control\""}, "issues": []},
+    {"n": 2, "my_answer": "South Vietnam", "supported": true, "evidence": {"page": 13, "quote": "China has exercised De Facto Control since 1974, following Battle of Paracel Islands involving South Vietnam."}, "issues": []},
+    {"n": 3, "my_answer": "Spratly Islands", "supported": true, "evidence": {"page": 11, "quote": "The Spratly Islands China, Taiwan, Vietnam, Brunei and the Philippines"}, "issues": []},
+    {"n": 4, "my_answer": "Scarborough Shoal", "supported": true, "evidence": {"page": 11, "quote": "The Scarborough Shoal Philippines, China and Taiwan"}, "issues": []},
+    {"n": 5, "my_answer": "Paracel Islands", "supported": true, "evidence": {"page": 11, "quote": "The Paracel Islands China, Taiwan and Vietnam"}, "issues": []},
+    {"n": 6, "my_answer": "Malacca Strait", "supported": true, "evidence": {"page": 12, "quote": "A significant share of India's Maritime Commerce passes through South China Sea and Malacca Strait, making"}, "issues": []},
+    {"n": 7, "my_answer": "SLOC", "supported": true, "evidence": {"page": 12, "quote": "Greater Chinese militarisation could threaten security of Sea Lines of Communication."}, "issues": ["other: abbreviation SLOC is not printed in the booklet; the text gives only the spelled-out name Sea Lines of Communication"]}
+   ],
+   "passage_flags": []
+  }
+ ],
+ "fact_flags": []
+}
