@@ -1,0 +1,41 @@
+{
+  "questions": [],
+  "passage_flags": [
+    {
+      "quiz": "q-t01-0",
+      "claim": "Resolving such moments usually depends on cooperation between governments, as well as on the legal rules that protect people who seek safety. Such episodes also test how well the rules protecting people who seek safety are applied in practice.",
+      "problem": "Generalisation not stated in booklet t01. The booklet only says the Ceuta crisis was declared resolved through Spain-Morocco cooperation (page 5)."
+    },
+    {
+      "quiz": "q-t10-0",
+      "claim": "Such a listing is a major achievement for any country, because it brings the monument to the attention of the whole world.",
+      "problem": "Not stated in booklet t10. Opinion or generalisation with no source in the booklet."
+    },
+    {
+      "quiz": "q-t11-0",
+      "claim": "rangelands, which are grasslands and open lands used for grazing; The emphasis on pastoral communities reflects how directly their livelihoods depend on the condition of the land; delegates argued that restoring whole landscapes is more effective than scattered, isolated projects.",
+      "problem": "Booklet t11 (page 50) gives no definition of rangelands and no reasoning about pastoral livelihoods. It does not say delegates argued restoration is 'more effective'. It only says COP17 highlighted the need for landscape-level restoration rather than isolated interventions."
+    },
+    {
+      "quiz": "q-t14-0",
+      "claim": "Scotland is set to host the Commonwealth Games for the fourth time, after earlier editions in Edinburgh and Glasgow.",
+      "problem": "Time-sensitive and internally inconsistent. The same passage says the 2026 edition was staged in Glasgow. Booklet t14 (page 64) says Glasgow 2026 ran 23 July to 2 August 2026, which is already past as of 2026-10-09. Future tense is wrong."
+    },
+    {
+      "quiz": "q-t16-0",
+      "claim": "A short written summary, with each detail on its own line, makes these facts easier to recall before an examination.",
+      "problem": "Study advice, not a fact from booklet t16. Not supported by the booklet text."
+    },
+    {
+      "quiz": "t-t12-1",
+      "claim": "Tiger reserves are protected areas that receive a special status so that tigers can breed, move and live without constant disturbance.",
+      "problem": "The stated purpose is not in booklet t12 (pages 56-57). The booklet only says a reserve is a specially designated protected area under Project Tiger, notified by the state government and governed by NTCA rules."
+    },
+    {
+      "quiz": "t-t12-1",
+      "claim": "Local communities also play a role, because conservation in and around forests depends on people living alongside wildlife.",
+      "problem": "Not stated in booklet t12. The booklet covers tiger counts, NTCA/WII roles, reserve sizes and M-STrIPES monitoring, but nothing on local communities."
+    }
+  ],
+  "fact_flags": []
+}
