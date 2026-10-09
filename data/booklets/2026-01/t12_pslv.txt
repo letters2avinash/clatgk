@@ -1,0 +1,463 @@
+=== PAGE 71 ===
+  
+\_..», January 2026  
+  
+(a)\< TOPIC  
+in NEWS  
+  
+coon  
+  
+PSLV -— C62  
+MISSION FAILURE  
+  
+Why in News?  
+ISRO's PSLV — C62 Mission faces 3rd — Stage Solid Rocket Anomaly disrupts High — Thrust Delivery to Upper Stages,  
+Impacting Intended Satellite Orbital Injection.  
+ISRO's lst 2026 Launch, PSLV — C62, scheduled for Liftoff from Sriharikota (Andhra Pradesh).  
+PSLV—C62 Failure, Following PSLV — C61 Setback in 8 Months.  
+  
+Polar Satellite Launch Vehicle  
+e Also called Workhorse of ISRO.  
+e Type: 3“—Generation 4—Stage Medium — Lift Launch Vehicle  
+o Payload Capability: Up to 1750 kg to 600 km Sun—Synchronous Orbit  
+e =I" Launched in 1993.  
+o Achieved 1" Success in 1994 with IRS—P2 Remote Sensing Satellite Insertion.  
+¢ Uses Solid Propellants in 1" and 3" Stages, Liquid Propellants in 2" (Vikas Engine) and 4" Stages.  
+oI" Indian Launcher with Liquid Stages i  
+e Notable PSLV Missions: Chandrayaan — 1, Mars Orbiter Mission (Mangalyaan), Aditya—L1, AstroSat, World  
+H Record: 104 Satellites in One Launch (2017) i  
+  
+Payload Details  
+  
+e EOS -—NI Satellite (Anvesha): Hyperspectral Imaging Satellite developed for DRDO's Strategic Applications.  
+o Purpose: Strengthen Space — based Earth Observation and Monitoring  
+o Orbit Intended: Sun Synchronous Orbit  
+  
+e KID (Kestrel Initial Demonstrator): Developed by a Spanish Startup  
+o Type: Small — scale Re — Entry Vehicle Prototype  
+  
+o Mission: Atmospheric Re — Entry and Splashdown in  
+Mission Overview  
+  
+South Pacific Ocean :  
+: e Launch Vehicle: PSLV—62  
+  
+o Trajectory: Separate Re — Entry Path (Not SSO)  
+  
+| © Mission Type: Earth Observation + |  
+e Other Co — Passenger Satellites: Total 18 (Domestic + i ssron type a servarion i  
+  
+International) Commercial Payloads from India, Mauritius,  
+  
+Luxembourg, UAE, Singapore, Europe, and the US  
+  
+o Bengaluru — based OrbitAID Aerospace's AayulSAT:  
+India's 1" On-Orbit Satellite Refuelling Payload.  
+  
+o Orbit: Sun Synchronous Orbit  
+  
+i Commercial Mission  
+i © Flight Number: 64" PSLV Flight  
+  
+o 9" dedicated Commercial Mission by  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099 69  
+  
+\
+=== PAGE 72 ===
+  
+Current Affairs January 2026\_Space  
+  
+Indian Space Policy 2023  
+  
+Government's Plan to let Private Enterprises carry out End —to — End Activities from Launching Satellites and  
+  
+Rockets into Space to operating Earth Stations  
+  
+LAW PREP  
+  
+— Tutorial—  
+  
+www lawpreptutorial.com  
+  
+ISRO’s Major Launch Vehicles  
+  
+Next Generation Launch Vehicle  
+  
+India’s Other Launch Vehicles  
+  
+Maximum Payload Capability: 30 Tonnes  
+  
+o 3 Times compared to  
+LVM3.  
+  
+Cost: 1.5 Times  
+  
+(Compared to LVM3).  
+  
+Reusable and Green  
+  
+The Future of  
+  
+Space Travel  
+  
+Next Generation Launch  
+Vehicle (NGLV)  
+Propulsion Systems.  
+New Re-usable  
+Demonstrated with 3 ehicle  
+Flights (D1, D2 & D3)  
+with a target of 96  
+Months (8 years) for  
+Completion of  
+  
+x : d capability at  
+1.5X cost & also have reusability  
+  
+Total fund approved is z  
+  
+Enable national & commercial  
+missions like Human spaceflight  
+missions to Bharat tariksh  
+  
+Development Phase.  
+Total Fund: Rs 8240  
+  
+Crore  
+  
+Satellite Launch Vehicle (SLV): 1° Rocket  
+  
+developed by ISRO.  
+  
+o Followed by Augmented Satellite  
+Launch Vehicle (ASLV).  
+  
+Polar Satellite Launch Vehicle (PSLV): 1\*  
+  
+successful launch was in 1994.  
+  
+o 1\* Indian Launch Vehicle to be equipped  
+with Liquid Stages.  
+  
+o Launched Chandrayaan — 1 and MoM.  
+  
+Geosynchronous Satellite Launch Vehicle  
+  
+(GSLV): To carry Heavier Satellites much  
+  
+deeper into Space.  
+  
+o Mk-\~lIIl Versions have made ISRO  
+entirely Self — Sufficient.  
+  
+Small Satellite Launch Vehicle  
+  
+Agnibaan (SOrTeD)  
+  
+Developed by ISRO in 2024.  
+  
+o 3" Flight Placed EOS — 08 and SR — 0 Demosat into LEO.  
+\= In 2022, SSLV — D1 (carrying EOS — 02 and AzaadiSat) was a  
+  
+Failure.  
+  
+\= With SSLV — D2 in 2023, ISRO tasted success.  
+  
+Type: 3 — Stage Launch Vehicle.  
+  
+Launch Site: Satish Dhawan Space Centre (Sriharikota)  
+  
+Producing Body: NSIL  
+  
+Significance  
+  
+o Seamless Launch of Small Satellites  
+  
+o Suited for launching Multiple Microsatellites  
+  
+o Shift Burden from PSLV  
+  
+RHUMI - 1: India’s 1 Reusable Hybrid Rocket  
+  
+Developed By: Space Zone India  
+Launched in collaboration with Martin Group.  
+Carried 3 Cube Satellites and 50 PICO Satellites.  
+  
+SOrTeD stands for SubOrbital Technology  
+  
+Demonstrator  
+  
+Type: 2 — Stage Rocket  
+  
+Developed By: Agnikul Cosmos  
+  
+o Founded in 2017.  
+  
+o Founder: Srinath Ravichandran, Moin  
+SPM, Satya Chakravarthy  
+  
+o 1“ company in India to sign an  
+agreement with ISRO under IN — SPACe  
+  
+World’s 1“ Rocket with Fully 3D — Printed  
+  
+Engine  
+  
+India’s 1° Semi — Cryogenic Engine —  
+  
+powered Rocket Launch  
+  
+Launch Site: Dhanush (India’s 1\* Privately  
+  
+Developed Launchpad)  
+  
+Mechazilla Starship Pushpak / RLV LEX - 03  
+Nickname for Large 400 ft Rocket — e 2-Stage Heavy Lift Vehicle. e Reusable Launch Vehicle —  
+catching Structure e Largest Rocket ever built. Landing Experiment.  
+  
+Designed to catch Super Heavy Booster in | ¢  
+Mid Air as it returns to Earth.  
+  
+Developed By: SpaceX beyond.  
+  
+e Developed By: SpaceX  
+  
+Designed to carry Crew and Cargo |  
+to Earth Orbit, Moon, Mars and  
+  
+India's 1‘ Uncrewed Flying  
+Testbed.  
+e Developed By: ISRO  
+  
+NOTE: Falcon — 9 Rocket is World’s 1“ Reusable, 2 — Stage Rocket designed and manufactured by SpaceX.  
+  
+www.lawpreptutorial.com |  
+  
+FOLLOW USNOW BOO@  
+  
+70  
+  
+\
+=== PAGE 73 ===
+  
+LAW PREP  
+  
+— Tutorial—  
+www.lawpreptutorial.com  
+  
+Current Affairs January 2026\_Space  
+  
+Indian Space Research Organisation  
+  
+e India's National Space Agency.  
+e Formerly known as Indian National Committee for Space Research (INCOSPAR)  
+o Set up in 1962 by then-Prime Minister Jawaharlal Nehru on recommendation of scientist Vikram Sarabhai (Father of  
+Indian Space Programme).  
+  
+o Renamed as ISRO in 1969.  
+e Serves as Principal Research and Development Arm of Department of Space. “= =\~  
+o Overseen By: Prime Minister of India  
+o Chief Executive: Chairman of ISRO :  
+Sai|isra  
+  
+e Chairman: Dr. V. Narayanan (1 1")  
+e HQ: Bengaluru (Karnataka)  
+  
+ISRO’s Major Missions and Achievements  
+  
+e Aryabhata: India's 1\* Satellite  
+o Launched By: Interkosmos (Soviet Space Agency) in 1975.  
+e¢ RS\~—1 (Rohini Series — I): 1“ Satellite launched by ISRO  
+o In 1980, onboard SLV — 3, making India 7 Country to undertake Orbital Launches.  
+o 3” Indian Satellite to reach orbit as Bhaskara had been launched from USSR in 1979.  
+e APPLE (1981): 1 Indigenous Experimental Communication Satellite launched into GTO.  
+e INSAT — 1B (1983): 1‘ Successful Satellite of INSAT for Communication, Broadcasting Meteorology.  
+e Chandrayaan — 1 (2008): 1° Probe to verify Presence of Water on the Moon.  
+¢ Mars Orbiter Mission (2013): 1“ Asian Spacecraft to enter Martian Orbit.  
+o India 1\* Country to succeed at this on its 1°\* Attempt.  
+© Cryogenic GSLV Rocket: India 6" Country to have full launch capabilities.  
+e LVM3: New Heavier — Lift Launcher  
+o Introduced in 2014 for Heavier Satellites and Future Human Space Missions.  
+  
+Extra Shots  
+Pushpak: Reusable Landing  
+  
+e = Chandrayaan — 3 eB" Moon Mission): India achieved its 1“ Soft Landing on an Vehicle  
+  
+Extraterrestrial Body. Kulasekarapattinam (Tamil  
+Nadu): 2" Rocket Launch Port.  
+  
+o 1“ Nation to successfully land a spacecraft near Lunar South Pole with  
+ISRO's.  
+e Aditya — L1: India’s 1‘ Sun Probe, aboard a PSLV — C57 on Sep 2, 2023.  
+o ISRO’s 2"\! Astronomy Observatory — class Mission after AstroSat (2015).  
+e X-ray Polarimeter Satellite (XPoSat): ISRO’s 1\* Polarimetry Mission launched on PSLV — C58.  
+o World’s 2™ Satellite — based Mission dedicated to making X — ray Polarimetry Measurements.  
+\= In 2021, NASA launched Imaging X-ray Polarimetry Explorer (IXPE)  
+e Indian Regional Navigation Satellite System: Known as NavIC (Navigation in Indian Constellation)  
+o Designed to provide Position Information in Indian Region and 1500 km around Indian Mainland.  
+  
+Organisation Structure  
+  
+Antrix Corporation (1992) NewSpace India Limited IN -— SPACe  
+  
+© Marketing Arm of ISRO. e Established in 2019. e Indian National Space Promotion and  
+  
+© — Objective: To promote ISRO's |\* Commercial Arm of ISRO Authorisation Centre  
+Products, Services and e For Producing, Assembling, e To Enable and Facilitate Participation of  
+Technologies. Integrating Launch Vehicle Private Players  
+  
+© HQ: Bangalore e HQ: Bangalore e HQ: Ahmedabad  
+  
+Skill — Up: National Space Day, NaVIC, Vikram Sarabhai Space Centre, ISRO's Upcoming Missions, Indian Space Policy 2023  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099 71  
+  
+\
+=== PAGE 74 ===
+  
+Current Affairs January 2026\_Space  
+  
+LAW PREP  
+  
+— Tutorial—  
+www.lawpreptutorial.com  
+  
+PRACTICE QUESTIONS  
+  
+1\. What specific anomaly occurred during the PSLV-C62 mission?  
+  
+(a) 1st Stage Liquid Engine Failure  
+(c) 4th Stage Ignition Failure  
+  
+2\. From where was PSLV-C62 scheduled for liftoff?  
+(a) Thumba, Kerala  
+(c) Sriharikota, Andhra Pradesh  
+  
+3\. What was PSLV-C62 in terms of ISRO's launch schedule?  
+  
+(a) Last launch of 2025  
+(c) Second launch of 2026  
+  
+(b) 3rd Stage Solid Rocket Anomaly  
+d) Payload Separation Malfunction  
+  
+\~  
+  
+(b) Balasore, Odisha  
+(d) Thiruvananthapuram, Kerala  
+  
+(b) First launch of 2026  
+) Mid-year launch of 2026  
+  
+4\. How many months after PSLV-C61 setback did PSLV-C62 failure occur?  
+  
+(a) 6 months (b) 8 months (c) 10 months (d) 12 months  
+5\. What is the full name of EOS-N1 satellite?  
+  
+(a) Aryabhata (b) Anvesha (c) AstroSat (d) Aditya  
+6\. For which organization was EOS-N1 satellite developed?  
+  
+(a) ISRO (b) DRDO (c) HAL (d) BARC  
+  
+7\. What type of imaging satellite is EOS-N1?  
+(a) Multispectral Imaging Satellite  
+(c) Hyperspectral Imaging Satellite  
+  
+8\. What does KID stand for?  
+(a) Kinetic Initial Demonstrator  
+(c) Kerbal Initial Demonstrator  
+  
+9\. Which country developed the KID payload?  
+(a) France (b) Germany  
+  
+0\. Where was KID intended to splash down?  
+(a) Indian Ocean (b) Atlantic Ocean  
+  
+(a) 12 (b) 15  
+  
+(a) Skyroot Aerospace (b) Agnikul Cosmos  
+  
+3\. | What is unique about AayulSAT?  
+(a) India's first weather satellite  
+(c) India's first navigation satellite  
+  
+(b) Synthetic Aperture Radar Satellite  
+(d) Optical Imaging Satellite  
+  
+(b) Kestrel Initial Demonstrator  
+(d) Kinetic Impact Device  
+  
+(c) Spain (d) Italy  
+  
+(c) South Pacific Ocean (d) Arabian Sea  
+  
+1\. How many total co-passenger satellites were on PSLV-C62?  
+  
+(c) 18 (d) 20  
+  
+2\. Which Bengaluru-based company developed AayulSAT?  
+  
+(c) OrbitAID Aerospace (d) Pixxel Space  
+  
+(b) India's first on-orbit satellite refuelling payload  
+(d) India's first communication satellite  
+  
+www.lawpreptutorial.com | FoLLowUsSNow B@O@ 72  
+  
+\
+=== PAGE 75 ===
+  
+Current Affairs January 2026\_Space  
+  
+14\.  
+  
+15\.  
+  
+20\.  
+  
+LAW PREP  
+  
+— Tutorial—  
+www.lawpreptutorial.com  
+  
+What orbit was intended for EOS-N1 satellite?  
+(a) Geostationary Orbit (b) Low Earth Orbit  
+(c) Sun Synchronous Orbit (d) Highly Elliptical Orbit  
+  
+Which countries\! payloads were included as co-passengers? (Select the correct combination)  
+(a) India, China, Russia, Japan  
+  
+(b) India, Mauritius, Luxembourg, UAE, Singapore, Europe, US  
+  
+(c) India, UK, France, Germany  
+  
+(d) India, Australia, New Zealand, Canada  
+  
+What was the first successful Indian launch vehicle?  
+(a) ASLV (b) PSLV (c) SLV (d) GSLV  
+  
+When was PSLV's first successful launch?  
+(a) 1992 (b) 1994 (c) 1996 (d) 1998  
+  
+What significant feature made PSLV the first Indian launch vehicle?  
+(a) Equipped with solid stages (b) Equipped with liquid stages  
+(c) Equipped with cryogenic stages (d) Equipped with reusable stages  
+  
+Which ISRO missions were launched by PSLV?  
+(a) Mangalyaan and Chandrayaan-3 (b) Chandrayaan-1 and Mars Orbiter Mission (MoM)  
+(c) Aditya-L1 and Gaganyaan (d) XPoSat and AstroSat only  
+  
+What is the purpose of GSLV?  
+(a) To launch small satellites (b) To carry heavier satellites much deeper into space  
+(c) To launch reusable vehicles (d) To launch planetary missions only  
+  
+Scan the code  
+to download  
+the answer key y  
+of this month's  
+magazine.  
+  
+S-20, Nandkishore Parikh Marg, Bapu Nagar, JAIPUR (M) 72400 60099 73  
+  
+\
