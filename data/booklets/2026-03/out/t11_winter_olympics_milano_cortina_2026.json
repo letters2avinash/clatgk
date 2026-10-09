@@ -1,0 +1,422 @@
+{
+ "topic": {
+  "title": "Winter Olympic Games (Milano Cortina 2026)",
+  "chapter_title": "Sports, Awards & Days",
+  "subtopics": [
+   {
+    "title": "Milano Cortina 2026 Edition",
+    "summary": "The 25th Winter Olympic Games were held from 6 to 22 February 2026 in Italy, with Milan and Cortina d'Ampezzo as joint hosts. It was the first joint two-city Winter Olympics and Italy's fourth time hosting an Olympic Games. The Opening Ceremony was at the San Siro Stadium in Milan and the Closing Ceremony at the Verona Arena.",
+    "facts": [
+     "25th Winter Olympic Games held 6-22 February 2026",
+     "Hosts: Milan and Cortina d'Ampezzo, Italy",
+     "First joint two-city Winter Olympics",
+     "Italy's fourth time hosting an Olympic Games",
+     "Earlier Italian hosting: Cortina 1956 (Winter), Rome 1960 (Summer), Turin 2006 (Winter)",
+     "Opening Ceremony: San Siro Stadium, Milan",
+     "Closing Ceremony: Verona Arena",
+     "Official motto: 'IT's Your Vibe'",
+     "Mascots: Tina and Milo (white stoats)",
+     "Theme 'Armonia' (Harmony); 16 winter sports, debut sport Ski Mountaineering (Skimo)"
+    ],
+    "keywords": ["Milano Cortina 2026", "joint two-city", "San Siro", "Verona Arena", "Armonia", "Skimo", "Tina and Milo"]
+   },
+   {
+    "title": "Medal Tally and Participation",
+    "summary": "Norway topped the final medal table for the fourth consecutive time, with 41 medals including 18 gold. The USA (33 medals, 12 gold) and the Netherlands (20 medals, 10 gold) followed, and host Italy won 30 medals. India sent two athletes, who won no medals, and Abhinav Bindra was India's torchbearer.",
+    "facts": [
+     "Norway: 41 medals, 18 gold; topped the final table",
+     "Norway topped the final medal table for the 4th consecutive time",
+     "USA: 33 medals, 12 gold",
+     "Netherlands: 20 medals, 10 gold",
+     "Italy: 30 medals (10 gold, 6 silver, 14 bronze)",
+     "India fielded 2 athletes and won no medals",
+     "Arif Mohammad Khan: Alpine Skiing, Men's Slalom",
+     "Stanzin Lunduo: Cross-Country Skiing",
+     "India's torchbearer: Abhinav Bindra, India's 1st individual Olympic gold medallist"
+    ],
+    "keywords": ["medal tally", "Norway", "USA", "Italy", "India contingent", "Arif Mohammad Khan", "Stanzin Lunduo", "Abhinav Bindra"]
+   },
+   {
+    "title": "History of the Olympic Games",
+    "summary": "The ancient Olympic Games started in 776 BCE at Olympia, Greece, and the record of the last ancient Games is found in 261 AD. Baron Pierre de Coubertin founded the modern Olympics, and the first modern international event was held at Athens in 1896. Women first took part at the 1900 Paris Olympics, the same year India first participated.",
+    "facts": [
+     "Ancient Olympic Games started in 776 BCE at Olympia, Greece",
+     "In 393 AD, Theodosius I banned the Olympics along with Greek temples and god statues",
+     "Record of the last ancient Olympic Games found in 261 AD",
+     "Founder of the modern Olympics: Baron Pierre de Coubertin",
+     "First modern international Olympic event: Athens, 1896",
+     "Women first took part at the 1900 Paris Olympics; Margaret Abbott (Golf) became the first female Olympic champion",
+     "2020 Olympics postponed to 2021 due to COVID-19 restrictions",
+     "Olympics cancelled due to WWI: Berlin (1916)",
+     "India first participated in 1900, first sent a Summer team in 1920, and competed at Innsbruck (Austria) Winter Games in 1964",
+     "Norman Pritchard, a lone athlete, won 2 silver medals in athletics"
+    ],
+    "keywords": ["Olympia 776 BCE", "Pierre de Coubertin", "Athens 1896", "Margaret Abbott", "Norman Pritchard", "Innsbruck 1964"]
+   },
+   {
+    "title": "Olympic Bodies and India's Sports Schemes",
+    "summary": "The International Olympic Committee, established in 1894, is headquartered in Lausanne, Switzerland, and its President is Kirsty Coventry. In India, the Ministry of Youth Affairs & Sports is the nodal ministry, supported by schemes such as TOPS (2014), Khelo India (2017), Fit India (2019) and KIRTI (2024). A WADA 2023 report placed India high on banned-substance positivity among major nations.",
+    "facts": [
+     "IOC: established 1894, headquarters in Lausanne, Switzerland",
+     "IOC President: Kirsty Coventry",
+     "IOC motto: Citius, Altius, Fortius (Faster, Higher, Stronger)",
+     "Indian Olympic Association: set up 1927, President PT Usha, HQ New Delhi",
+     "Nodal ministry: Ministry of Youth Affairs & Sports",
+     "TOPS (2014): identifies and supports athletes with potential to win Olympic medals",
+     "Khelo India (2017): identification and development of athletes at grassroots and elite levels",
+     "Fit India Movement (2019): mass participation in fitness activities",
+     "KIRTI Programme (2024): talent hunt among school children aged 9 to 18",
+     "WADA 2023 report: India had the highest positivity rate for banned substances among major nations"
+    ],
+    "keywords": ["IOC", "Lausanne", "TOPS", "Khelo India", "Fit India", "KIRTI", "WADA", "Indian Olympic Association", "Mission Olympic Cell"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Winter Olympic Games at a glance",
+   "root": {
+    "label": "Winter Olympic Games (Milano Cortina 2026)",
+    "children": [
+     {
+      "label": "2026 Edition",
+      "children": [
+       {"label": "25th edition, 6-22 February 2026"},
+       {"label": "Joint hosts: Milan and Cortina d'Ampezzo"},
+       {"label": "Italy's fourth time hosting Olympics"}
+      ]
+     },
+     {
+      "label": "Venues and symbols",
+      "children": [
+       {"label": "Opening: San Siro Stadium"},
+       {"label": "Closing: Verona Arena"},
+       {"label": "Motto: IT's Your Vibe"},
+       {"label": "Mascots: Tina and Milo"}
+      ]
+     },
+     {
+      "label": "Medal table",
+      "children": [
+       {"label": "Norway: 41 medals, 18 gold"},
+       {"label": "USA: 33 medals, 12 gold"},
+       {"label": "Italy: 30 medals"}
+      ]
+     },
+     {
+      "label": "India",
+      "children": [
+       {"label": "2 athletes, no medals"},
+       {"label": "Torchbearer: Abhinav Bindra"}
+      ]
+     },
+     {
+      "label": "Olympic history",
+      "children": [
+       {"label": "Ancient start: 776 BCE, Olympia"},
+       {"label": "Modern founder: Pierre de Coubertin"},
+       {"label": "Women first in 1900 Paris"}
+      ]
+     },
+     {
+      "label": "Olympic bodies",
+      "children": [
+       {"label": "IOC: Lausanne, est. 1894"},
+       {"label": "Indian Olympic Association: New Delhi, 1927"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Milano Cortina 2026 edition",
+   "root": {
+    "label": "Milano Cortina 2026 edition",
+    "children": [
+     {
+      "label": "Hosts and dates",
+      "children": [
+       {"label": "Milan and Cortina d'Ampezzo"},
+       {"label": "6-22 February 2026"}
+      ]
+     },
+     {
+      "label": "Ceremonies",
+      "children": [
+       {"label": "Opening: San Siro Stadium"},
+       {"label": "Closing: Verona Arena"}
+      ]
+     },
+     {
+      "label": "Symbols",
+      "children": [
+       {"label": "Motto: IT's Your Vibe"},
+       {"label": "Theme: Armonia"},
+       {"label": "Mascots: Tina and Milo"}
+      ]
+     },
+     {
+      "label": "Sports",
+      "children": [
+       {"label": "16 winter sports"},
+       {"label": "Debut: Ski Mountaineering (Skimo)"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Medal tally and participation",
+   "root": {
+    "label": "Medal tally and participation",
+    "children": [
+     {
+      "label": "Top medal winners",
+      "children": [
+       {"label": "Norway: 41 medals, 18 gold"},
+       {"label": "USA: 33 medals, 12 gold"},
+       {"label": "Netherlands: 20 medals, 10 gold"}
+      ]
+     },
+     {
+      "label": "Host Italy",
+      "children": [
+       {"label": "30 medals"},
+       {"label": "10 gold, 6 silver, 14 bronze"}
+      ]
+     },
+     {
+      "label": "India",
+      "children": [
+       {"label": "2 athletes, no medals"},
+       {"label": "Torchbearer: Abhinav Bindra"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "History of the Olympic Games",
+   "root": {
+    "label": "History of the Olympic Games",
+    "children": [
+     {
+      "label": "Ancient Games",
+      "children": [
+       {"label": "Started 776 BCE, Olympia"},
+       {"label": "Banned in 393 AD by Theodosius I"}
+      ]
+     },
+     {
+      "label": "Modern Games",
+      "children": [
+       {"label": "Founder: Pierre de Coubertin"},
+       {"label": "First event: Athens 1896"}
+      ]
+     },
+     {
+      "label": "Firsts",
+      "children": [
+       {"label": "Women first took part in 1900 Paris"},
+       {"label": "India first participated in 1900"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Olympic bodies and India's schemes",
+   "root": {
+    "label": "Olympic bodies and India's schemes",
+    "children": [
+     {
+      "label": "IOC",
+      "children": [
+       {"label": "Established 1894, Lausanne"},
+       {"label": "President: Kirsty Coventry"}
+      ]
+     },
+     {
+      "label": "India's schemes",
+      "children": [
+       {"label": "TOPS (2014)"},
+       {"label": "Khelo India (2017)"},
+       {"label": "Fit India (2019)"},
+       {"label": "KIRTI (2024)"}
+      ]
+     },
+     {
+      "label": "Anti-doping",
+      "children": [
+       {"label": "WADA 2023 report"},
+       {"label": "Highest positivity rate among major nations"}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Olympic motto initials",
+   "mnemonic": "Cats Are Fast",
+   "decode": [
+    {"key": "C", "meaning": "Citius = Faster"},
+    {"key": "A", "meaning": "Altius = Higher"},
+    {"key": "F", "meaning": "Fortius = Stronger"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Italy's earlier Olympic hosting",
+   "mnemonic": "Can Rest Tonight",
+   "decode": [
+    {"key": "C", "meaning": "Cortina 1956 (Winter Games)"},
+    {"key": "R", "meaning": "Rome 1960 (Summer Games)"},
+    {"key": "T", "meaning": "Turin 2006 (Winter Games)"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "India's sports schemes",
+   "mnemonic": "Fit Kids Kick Talent",
+   "decode": [
+    {"key": "F", "meaning": "Fit India Movement (2019)"},
+    {"key": "K", "meaning": "Khelo India (2017)"},
+    {"key": "K", "meaning": "KIRTI Programme (2024)"},
+    {"key": "T", "meaning": "TOPS (2014), which identifies and supports medal-potential athletes"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Milano Cortina 2026 MCQ practice",
+   "passage": "The 25th Winter Olympic Games were held from 6 to 22 February 2026 in Italy. The Games were hosted by two cities, Milan and Cortina d'Ampezzo, and the booklet describes them as the first joint two-city Winter Olympics. This was the fourth time that Italy hosted an Olympic Games. Italy had earlier hosted the Winter Games at Cortina in 1956, the Summer Games at Rome in 1960 and the Winter Games at Turin in 2006. The Opening Ceremony took place at the San Siro Stadium in Milan, while the Closing Ceremony was held at the Verona Arena. The official motto of the Games was 'IT's Your Vibe', and the mascots were Tina and Milo, two white stoats. The Games were given the theme 'Armonia', meaning Harmony. The Olympic Games are governed by the International Olympic Committee, which has its headquarters in Lausanne, Switzerland. The Winter Games in Italy therefore combined two cities, a long Olympic history and a clear set of official symbols. The modern Olympic Games were founded by Baron Pierre de Coubertin. The first modern Olympic event was held at Athens in 1896, after King George I of Greece officially announced the start of the Games. The ancient Olympic Games began in 776 BCE in Olympia, Greece.",
+   "questions": [
+    {
+     "q": "Which country topped the final medal table at the 2026 Winter Olympics?",
+     "options": ["USA", "Netherlands", "Norway", "Italy"],
+     "answer": 2,
+     "explanation": "The booklet states Norway (41 medals, 18 gold) topped the final medal table."
+    },
+    {
+     "q": "How many winter sports were featured at the 2026 Winter Olympics?",
+     "options": ["12", "14", "18", "16"],
+     "answer": 3,
+     "explanation": "The booklet lists a total of 16 winter sports for the Games."
+    },
+    {
+     "q": "Which sport made its debut at the 2026 Winter Olympics?",
+     "options": ["Ski Mountaineering (Skimo)", "Freestyle Skiing", "Short Track Speed Skating", "Snowboard Cross"],
+     "answer": 0,
+     "explanation": "The booklet identifies Ski Mountaineering (Skimo) as the debut sport."
+    },
+    {
+     "q": "Assertion (A): India sent two athletes to the 2026 Winter Olympics.\nReason (R): India's Winter Olympics contingent won no medals.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "The booklet states India fielded 2 athletes and won no medals, and the two facts do not explain each other."
+    },
+    {
+     "q": "Match List I with List II:\nI. Norway   ->   A. 41 medals\nII. USA   ->   B. 33 medals\nIII. Netherlands   ->   C. 20 medals\nIV. Italy   ->   D. 30 medals",
+     "options": ["I-A, II-C, III-B, IV-D", "I-B, II-A, III-C, IV-D", "I-A, II-B, III-D, IV-C", "I-A, II-B, III-C, IV-D"],
+     "answer": 3,
+     "explanation": "Norway had 41 medals, USA 33, Netherlands 20 and Italy 30, as listed in the booklet."
+    },
+    {
+     "q": "I. Italy won 30 medals at the 2026 Winter Olympics, including 10 gold medals.\nII. Norway topped the final medal table for the fourth consecutive time.\nIII. Neeraj Chopra was India's torchbearer at the 2026 Winter Olympics.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "Statements I and II match the booklet, while the torchbearer was Abhinav Bindra, not Neeraj Chopra."
+    },
+    {
+     "q": "How many of the following statements are correct?\nI. The 2022 Winter Games were held in Beijing, China.\nII. The first Winter Olympic Games were held in 1924 in Chamonix, France.\nIII. India sent 6 athletes to the 2026 Winter Olympics.",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and II are correct, while India sent 2 athletes, so statement III is wrong."
+    },
+    {
+     "q": "Where will the 2030 Winter Games be held?",
+     "options": ["Verona, Italy", "Beijing, China", "French Alps", "Lausanne, Switzerland"],
+     "answer": 2,
+     "explanation": "The booklet names the French Alps as the venue for the 2030 Winter Games."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Medal tally and participation TITA practice",
+   "passage": "Medal tables are the standard way of comparing how countries performed at the Olympic Games, because they add up the medals won by each nation across all sports. The Milano Cortina 2026 Winter Olympics featured 16 winter sports, and the final table recorded the results of several nations in those events. Italy, as the host nation, appears in the same table with its own medal total. India's presence at the Winter Games was small. The country fielded a limited number of athletes, who competed in alpine skiing and cross-country skiing, and the contingent did not win any medal. India first participated at the Olympic Games in 1900, and it first sent a team to the Summer Games in 1920. The country has also competed at the Winter Olympic Games held at Innsbruck, Austria, in 1964. The International Olympic Committee is headquartered in Lausanne, Switzerland, and the Indian Olympic Association has its headquarters in New Delhi. At the Paris Olympics, India won 6 medals and finished 71st in the medal tally. At Paris, Manu Bhaker won bronze in the Women's 10 Metre Air Pistol event. Aman Sehrawat, who won an individual bronze at the Paris Summer Olympics, is the youngest Indian to win an individual Olympic medal.",
+   "questions": [
+    {
+     "q": "Which country topped the final medal table at the 2026 Winter Olympics? (name of country)",
+     "answer": "Norway",
+     "accept": ["Norway"],
+     "explanation": "The booklet states Norway (41 medals, 18 gold) topped the final medal table."
+    },
+    {
+     "q": "How many gold medals did Norway win at the 2026 Winter Olympics? (number)",
+     "answer": "18",
+     "accept": ["18", "eighteen"],
+     "explanation": "Norway won 18 gold medals out of its 41 total medals."
+    },
+    {
+     "q": "How many medals did the USA win at the 2026 Winter Olympics? (number)",
+     "answer": "33",
+     "accept": ["33", "thirty-three", "thirty three"],
+     "explanation": "The USA won 33 medals, including 12 gold."
+    },
+    {
+     "q": "How many gold medals did Italy win at the 2026 Winter Olympics? (number)",
+     "answer": "10",
+     "accept": ["10", "ten"],
+     "explanation": "Italy's 30 medals comprised 10 gold, 6 silver and 14 bronze."
+    },
+    {
+     "q": "How many athletes did India field at the 2026 Winter Olympics? (number)",
+     "answer": "2",
+     "accept": ["2", "two"],
+     "explanation": "India fielded two athletes, Arif Mohammad Khan and Stanzin Lunduo, and won no medals."
+    },
+    {
+     "q": "Who was India's torchbearer at the Milano Cortina 2026 Winter Olympics? (full name)",
+     "answer": "Abhinav Bindra",
+     "accept": ["Abhinav Bindra", "Bindra"],
+     "explanation": "The booklet names Abhinav Bindra, India's first individual Olympic gold medallist, as the torchbearer."
+    },
+    {
+     "q": "How many medals did the Netherlands win at the 2026 Winter Olympics? (number)",
+     "answer": "20",
+     "accept": ["20", "twenty"],
+     "explanation": "The Netherlands won 20 medals, including 10 gold."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 62, "what": "Olympics cancelled due to WWII line is garbled (Tokyo / Helsinki / London 1944 layout); not used"},
+  {"page": 63, "what": "IOC Director General name is garbled by overlapping text; not used"},
+  {"page": 63, "what": "Early IOC name (Demetrios Vikelas) overlaps the TOPS text; not used"},
+  {"page": 63, "what": "Phrase describing Norman Pritchard as the '1st Asian ... Nation' to win a medal is garbled; only his two silver medals are used"}
+ ]
+}

@@ -1,0 +1,435 @@
+{
+ "topic": {
+  "title": "World Happiness Report 2026",
+  "chapter_title": "Reports, Summits, Indices",
+  "subtopics": [
+   {
+    "title": "Report basics and International Day of Happiness",
+    "summary": "The World Happiness Report is published annually by the Wellbeing Research Centre at the University of Oxford, in collaboration with Gallup and the UN Sustainable Development Solutions Network. Participants rate their lives on a scale of 0 to 10, and the report uses six key indicators. The 2026 edition was released on the International Day of Happiness, which is observed on 20 March and coincides with the vernal equinox.",
+    "facts": [
+     "2026 is the 14th edition of the World Happiness Report",
+     "Published annually since 2012",
+     "Published by the Wellbeing Research Centre, University of Oxford",
+     "Prepared in collaboration with Gallup and UN SDSN",
+     "Participants rate their lives on a scale of 0 to 10",
+     "Six key indicators: GDP per capita, social support, healthy life expectancy, freedom, generosity, perception of corruption",
+     "Report helps countries assess development beyond GDP",
+     "International Day of Happiness observed on 20 March",
+     "Day coincides with the vernal equinox",
+     "Theme of International Day of Happiness 2026: Care and Share",
+     "Day was pioneered by Bhutan, which prioritised Gross National Happiness over GDP"
+    ],
+    "keywords": ["World Happiness Report", "Oxford Wellbeing Research Centre", "Gallup", "SDSN", "International Day of Happiness", "Gross National Happiness"]
+   },
+   {
+    "title": "Global rankings 2026",
+    "summary": "Finland ranked first in the 2026 report, its ninth consecutive year at the top, with Iceland and Denmark following. Costa Rica rose to 4th place from 23rd, while Afghanistan ranked lowest at 147th. No Anglosphere nation appeared in the top 10 for a second consecutive year, which the report links to a shift in global happiness rankings.",
+    "facts": [
+     "Finland: rank 1, score 7.764, 9th consecutive year at rank 1",
+     "Iceland and Denmark follow Finland in the top ranks",
+     "Costa Rica: rank 4, moved up from 23rd",
+     "Afghanistan: lowest ranked at 147th",
+     "Sierra Leone and Malawi follow Afghanistan at the bottom",
+     "No Anglosphere nation in the top 10 for 2nd consecutive year",
+     "New Zealand 11th, Ireland 13th, Australia 15th",
+     "USA 23rd, Canada 25th, UK 29th",
+     "Costa Rica's strong social cohesion is cited among its gains"
+    ],
+    "keywords": ["Finland", "Costa Rica", "Afghanistan", "Anglosphere", "rank", "score"]
+   },
+   {
+    "title": "India and BRICS comparison",
+    "summary": "India ranked 116th in the 2026 report with a score of 4.536, improved from 118th. Its areas of improvement were social support and healthy life expectancy. Among BRICS nations, China ranked highest at 65th, and India ranked below Nepal and Pakistan but above Bangladesh and Sri Lanka.",
+    "facts": [
+     "India: rank 116th, score 4.536",
+     "India improved from 118th in the previous ranking",
+     "India's areas of improvement: social support and healthy life expectancy",
+     "China ranked 65th, the highest among BRICS nations",
+     "India ranked below Nepal (99th) and Pakistan (104th)",
+     "India ranked above Bangladesh (127th) and Sri Lanka (134th)"
+    ],
+    "keywords": ["India", "BRICS", "China", "regional comparison", "social support", "healthy life expectancy"]
+   },
+   {
+    "title": "Social media and youth well-being",
+    "summary": "The 2026 report examines how social media use relates to happiness among young people. Youth aged 15 to 24 report lower life satisfaction than those aged 60 and above, a pattern seen in the United States, Canada, Australia and New Zealand. Adolescent girls using social media for more than five hours a day are the most vulnerable group, while youth using it for under one hour a day report the best well-being.",
+    "facts": [
+     "Youth aged 15-24 report lower life satisfaction than elderly aged 60+",
+     "Age-based pattern observed in US, Canada, Australia and New Zealand",
+     "Most vulnerable group: adolescent girls using social media over 5 hours a day",
+     "Heavy use linked with decline in mental health and comparison-driven stress",
+     "Optimal threshold: youth using social media under 1 hour a day",
+     "Youth using under 1 hour a day report even better well-being than non-users",
+     "Digital paradox: in developing countries like India, digital access improves education and connectivity",
+     "Excessive use in the same settings causes stress and anxiety",
+     "Report provides insights into mental health and digital behaviour trends"
+    ],
+    "keywords": ["social media", "youth", "adolescent girls", "digital paradox", "mental health", "well-being"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "World Happiness Report 2026 overview",
+   "root": {
+    "label": "World Happiness Report 2026",
+    "children": [
+     {
+      "label": "Basics",
+      "children": [
+       {"label": "14th edition, released 2026"},
+       {"label": "Published annually since 2012"},
+       {"label": "Oxford Wellbeing Research Centre"},
+       {"label": "With Gallup and UN SDSN"}
+      ]
+     },
+     {
+      "label": "Six indicators",
+      "children": [
+       {"label": "GDP per capita"},
+       {"label": "Social support"},
+       {"label": "Healthy life expectancy"},
+       {"label": "Freedom"},
+       {"label": "Generosity"},
+       {"label": "Perception of corruption"}
+      ]
+     },
+     {
+      "label": "Rankings 2026",
+      "children": [
+       {"label": "Finland: rank 1, score 7.764"},
+       {"label": "Costa Rica: rank 4, from 23rd"},
+       {"label": "India: rank 116, score 4.536"},
+       {"label": "Afghanistan: lowest, rank 147"}
+      ]
+     },
+     {
+      "label": "Social media and youth",
+      "children": [
+       {"label": "Youth 15-24 less satisfied than 60+"},
+       {"label": "Adolescent girls over 5 hours/day most vulnerable"},
+       {"label": "Under 1 hour/day: best youth well-being"}
+      ]
+     },
+     {
+      "label": "International Day of Happiness",
+      "children": [
+       {"label": "Observed 20 March"},
+       {"label": "Coincides with vernal equinox"},
+       {"label": "Theme 2026: Care and Share"},
+       {"label": "Pioneered by Bhutan"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Report basics and Day",
+   "root": {
+    "label": "Report and International Day",
+    "children": [
+     {
+      "label": "Report",
+      "children": [
+       {"label": "Oxford Wellbeing Research Centre"},
+       {"label": "Gallup and UN SDSN collaboration"},
+       {"label": "Published annually since 2012"},
+       {"label": "Self-rating scale: 0 to 10"}
+      ]
+     },
+     {
+      "label": "Day",
+      "children": [
+       {"label": "Observed 20 March"},
+       {"label": "Coincides with vernal equinox"},
+       {"label": "Theme 2026: Care and Share"},
+       {"label": "Pioneered by Bhutan"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Global rankings 2026",
+   "root": {
+    "label": "Global rankings 2026",
+    "children": [
+     {
+      "label": "Top",
+      "children": [
+       {"label": "Finland rank 1, 9th straight year"},
+       {"label": "Iceland and Denmark follow"}
+      ]
+     },
+     {
+      "label": "Costa Rica rise",
+      "children": [
+       {"label": "Rank 4, from 23rd"}
+      ]
+     },
+     {
+      "label": "Bottom",
+      "children": [
+       {"label": "Afghanistan rank 147"},
+       {"label": "Sierra Leone and Malawi follow"}
+      ]
+     },
+     {
+      "label": "Anglosphere",
+      "children": [
+       {"label": "No top 10 place, 2nd straight year"},
+       {"label": "New Zealand 11th, Ireland 13th, Australia 15th"},
+       {"label": "USA 23rd, Canada 25th, UK 29th"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "India and BRICS",
+   "root": {
+    "label": "India and BRICS",
+    "children": [
+     {
+      "label": "India",
+      "children": [
+       {"label": "Rank 116th, score 4.536"},
+       {"label": "Up from 118th"},
+       {"label": "Improved: social support, healthy life expectancy"}
+      ]
+     },
+     {
+      "label": "BRICS",
+      "children": [
+       {"label": "China highest at 65th"}
+      ]
+     },
+     {
+      "label": "Regional comparison",
+      "children": [
+       {"label": "Below Nepal (99th) and Pakistan (104th)"},
+       {"label": "Above Bangladesh (127th) and Sri Lanka (134th)"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Social media and youth well-being",
+   "root": {
+    "label": "Social media and youth",
+    "children": [
+     {
+      "label": "Age trend",
+      "children": [
+       {"label": "Youth 15-24 lower satisfaction than 60+"},
+       {"label": "Seen in US, Canada, Australia, NZ"}
+      ]
+     },
+     {
+      "label": "Vulnerable group",
+      "children": [
+       {"label": "Adolescent girls over 5 hours/day"}
+      ]
+     },
+     {
+      "label": "Optimal use",
+      "children": [
+       {"label": "Under 1 hour/day"},
+       {"label": "Better than non-users"}
+      ]
+     },
+     {
+      "label": "Digital paradox",
+      "children": [
+       {"label": "Access aids education and connectivity"},
+       {"label": "Excess use brings stress and anxiety"}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Six indicators",
+   "mnemonic": "Get Some Help From Good Companions",
+   "decode": [
+    {"key": "G", "meaning": "GDP per capita"},
+    {"key": "S", "meaning": "Social support"},
+    {"key": "H", "meaning": "Healthy life expectancy"},
+    {"key": "F", "meaning": "Freedom"},
+    {"key": "G", "meaning": "Generosity"},
+    {"key": "C", "meaning": "Perception of corruption"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Social media thresholds",
+   "mnemonic": "Under One Thrives, Over Five Struggles",
+   "decode": [
+    {"key": "Under One", "meaning": "Youth using social media under 1 hour a day report the best well-being"},
+    {"key": "Over Five", "meaning": "Adolescent girls using social media over 5 hours a day are the most vulnerable group"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "International Day of Happiness",
+   "mnemonic": "Bhutan's Equal Twenty",
+   "decode": [
+    {"key": "Bhutan", "meaning": "Pioneered the concept behind the day, Gross National Happiness"},
+    {"key": "Equal", "meaning": "Day coincides with the vernal equinox, when day and night are of approximately equal length"},
+    {"key": "Twenty", "meaning": "Day is observed annually on 20 March"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "World Happiness Report: CLAT practice",
+   "passage": "Happiness is increasingly discussed as a measure of progress, not only as a private feeling. Every year, a global report asks people to rate their own lives on a scale from zero to ten and compares the results across countries. Governments and researchers use these results to judge development beyond the size of an economy. The report considers several factors, including income, social support, health, freedom, generosity and perceptions of corruption, which together help explain differences in how people feel about their lives.\n\nDigital life has become a major area of study in recent editions. Researchers ask whether time spent on social media affects young people, and whether internet access brings benefits that outweigh its risks. The findings are mixed. Connectivity can support learning and communication, yet heavy use may be linked with stress and anxiety. Patterns also vary by age, so the experience of teenagers can differ sharply from that of older adults.\n\nThe wider theme is well-being as a policy goal. Supporters argue that a country's progress should be judged partly by the lives its people lead, and not only by how much they produce. Annual observances, held in March, also draw attention to this idea and to the value of social trust and good governance.",
+   "questions": [
+    {
+     "q": "Assertion (A): Finland was the top-ranked country in the World Happiness Report 2026.\nReason (R): Finland's rank in the 2026 report was fourth.\nWhich of the following is correct?",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 2,
+     "explanation": "Finland ranked 1st with a score of 7.764, so A is true and R is false."
+    },
+    {
+     "q": "Match List I with List II:\nI. Afghanistan   ->   A. Rank 116th\nII. Costa Rica   ->   B. Lowest ranked at 147th\nIII. India   ->   C. Rose from 23rd to 4th\nIV. China   ->   D. Top-ranked BRICS nation",
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-C, III-A, IV-D",
+      "I-C, II-A, III-B, IV-D",
+      "I-D, II-B, III-A, IV-C"
+     ],
+     "answer": 1,
+     "explanation": "Afghanistan was lowest at 147th, Costa Rica rose from 23rd to 4th, India ranked 116th, and China was the highest-ranked BRICS nation at 65th."
+    },
+    {
+     "q": "Consider the following statements about the World Happiness Report 2026:\nI. Finland has ranked first for nine consecutive years as of 2026.\nII. Sierra Leone ranked below Afghanistan in the report.\nIII. Costa Rica moved from 23rd position to 4th position.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I, II and III",
+      "I and III only"
+     ],
+     "answer": 3,
+     "explanation": "Statements I and III are correct, while II is false because Afghanistan (147th) ranked below Sierra Leone."
+    },
+    {
+     "q": "Consider the following statements about youth and social media use in the 2026 report:\nI. Youth using social media for under one hour a day reported better well-being than non-users.\nII. Youth aged 15-24 reported higher life satisfaction than those aged 60 and above.\nIII. Adolescent girls using social media for more than five hours a day were identified as the most vulnerable group.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None of the above"
+     ],
+     "answer": 1,
+     "explanation": "Statements I and III are correct, while II is false because youth aged 15-24 report lower life satisfaction than those aged 60 and above."
+    },
+    {
+     "q": "What was India's happiness score in the 2026 report?",
+     "options": ["4.536", "3.982", "4.921", "5.103"],
+     "answer": 0,
+     "explanation": "India scored 4.536 in the 2026 report, placing it at rank 116th."
+    },
+    {
+     "q": "Which edition of the World Happiness Report was released in 2026?",
+     "options": ["10th", "12th", "14th", "16th"],
+     "answer": 2,
+     "explanation": "The booklet describes the report released in 2026 as the 14th World Happiness Report."
+    },
+    {
+     "q": "Which organisation published the World Happiness Report 2026?",
+     "options": [
+      "United Nations Development Programme",
+      "World Health Organization",
+      "World Economic Forum",
+      "Oxford Wellbeing Research Centre"
+     ],
+     "answer": 3,
+     "explanation": "The report was published by the Wellbeing Research Centre at the University of Oxford, in collaboration with Gallup and UN SDSN."
+    },
+    {
+     "q": "What is the theme of the International Day of Happiness 2026?",
+     "options": ["Health and Harmony", "Peace and Prosperity", "Care and Share", "Hope and Happiness"],
+     "answer": 2,
+     "explanation": "The 2026 report was released on the International Day of Happiness, whose 2026 theme is Care and Share."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Rankings and reading the report",
+   "passage": "A global happiness report places countries in a single ranking, and each new edition draws attention to where nations stand. The scores come from survey responses in which people rate their own lives on a scale from zero to ten. Because scores change from year to year, a country's position can rise or fall between editions, even when the difference looks small.\n\nThe report considers several areas, including economic output, community support, healthy life expectancy, freedom and generosity. Some countries perform strongly on one area and less well on another. Regional and group comparisons are also common. Emerging economies that form a bloc are often compared with each other, and neighbouring countries are compared to show how a nation performs within its own region. Social trust and governance quality are also highlighted as important features of a society.\n\nAttention has also turned to young people. Findings suggest that age and digital habits are both connected with life satisfaction. Researchers caution that the link is not simple. In one setting, the same technology may help with education and connectivity, while in another it may create stress and anxiety. Patterns also vary by age group, so experiences can differ between generations. Such differences show that the picture is complex.",
+   "questions": [
+    {
+     "q": "What is India's rank in the World Happiness Report 2026? (a number)",
+     "answer": "116",
+     "accept": ["116th", "116th rank", "one hundred sixteen"],
+     "explanation": "India ranked 116th in the 2026 report, improving from 118th."
+    },
+    {
+     "q": "Which country ranked lowest, at 147th, in the World Happiness Report 2026?",
+     "answer": "Afghanistan",
+     "accept": ["Afghanistan"],
+     "explanation": "Afghanistan ranked 147th, the lowest position, followed by Sierra Leone and Malawi."
+    },
+    {
+     "q": "Since which year has the World Happiness Report been published annually? (year)",
+     "answer": "2012",
+     "accept": ["2012"],
+     "explanation": "The booklet states that the report has been published annually since 2012."
+    },
+    {
+     "q": "Which country rose from 23rd to 4th place in the 2026 report? (country)",
+     "answer": "Costa Rica",
+     "accept": ["Costa Rica"],
+     "explanation": "Costa Rica is listed at rank 4, up from 23rd."
+    },
+    {
+     "q": "For how many consecutive years has Finland ranked first, as of 2026? (in years)",
+     "answer": "9",
+     "accept": ["nine", "9th", "nine years"],
+     "explanation": "Finland's rank 1 is marked as its 9th consecutive year."
+    },
+    {
+     "q": "Youth using social media for less than how many hours a day reported the best well-being? (in hours)",
+     "answer": "1",
+     "accept": ["one", "one hour", "1 hour"],
+     "explanation": "The report identifies under one hour a day of social media use as the best level for youth well-being."
+    },
+    {
+     "q": "Which natural event does the International Day of Happiness coincide with? (two words)",
+     "answer": "Vernal Equinox",
+     "accept": ["vernal equinox", "equinox"],
+     "explanation": "The day is observed on 20 March, which coincides with the vernal equinox."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 55, "what": "Russia (79th) and Iran (97th) BRICS ranks: columns interleaved with sidebar text; not used"},
+  {"page": 55, "what": "Costa Rica described as highest ever for a Latin American country: phrase split across columns; not used"}
+ ]
+}
