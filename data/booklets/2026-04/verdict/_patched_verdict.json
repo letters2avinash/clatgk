@@ -1,0 +1,80 @@
+{
+  "questions": [
+    {
+      "id": "t-t08-1",
+      "n": 6,
+      "my_answer": "5.25",
+      "supported": true,
+      "evidence": {
+        "page": 35,
+        "quote": "Monetary Policy Committee of Reserve Bank of India kept Repo Rate Unchanged at 5.25%."
+      },
+      "issues": ["time_sensitive"]
+    },
+    {
+      "id": "t-t12-1",
+      "n": 3,
+      "my_answer": "INS Aridaman",
+      "supported": true,
+      "evidence": {
+        "page": 56,
+        "quote": "India commissioned INS Aridaman, its 3rd Nuclear"
+      },
+      "issues": []
+    }
+  ],
+  "passage_flags": [
+    {
+      "quiz": "q-t10-0",
+      "claim": "the latest edition includes far more countries and cities than the earlier one did",
+      "problem": "Booklet gives countries rising only from 134 (2023) to 143 (2025), which is not far more. The 2023 city figure is garbled in the OCR text, so the cities claim cannot be verified."
+    },
+    {
+      "quiz": "q-t10-0",
+      "claim": "a place without monitors can look clean on paper while its residents breathe polluted air, and an honest comparison needs data from many locations",
+      "problem": "Not stated in the booklet text."
+    },
+    {
+      "quiz": "t-t02-1",
+      "claim": "Within the seats already set aside for Scheduled Castes and Scheduled Tribes, a share is meant to go to women from those communities.",
+      "problem": "Booklet ties the one-third SC/ST women sub-reservation to the proposed 131st Amendment Bill (Key Provisions). The enacted 2023 law section lists only Articles 330A, 332A, 239AA and 334A and says nothing about SC/ST women."
+    },
+    {
+      "quiz": "q-t04-0",
+      "claim": "The movement has been most active in the forested and tribal parts of central and eastern India.",
+      "problem": "Booklet lists Red Corridor states and mentions tribal areas, but does not state that the movement is most active in forested or central/eastern areas. Loose inference."
+    },
+    {
+      "quiz": "q-t09-0",
+      "claim": "Observers described the deadlock as a reflection of a deep North-South divide.",
+      "problem": "Booklet says the conference ended without consensus, reflecting a deep North-South divide, but attributes this to no observers."
+    },
+    {
+      "quiz": "t-t09-1",
+      "claim": "Members remain divided over whether the arrangement should return in some form.",
+      "problem": "Booklet reports the moratorium lapsed for lack of consensus and lists its continuation as an agenda item. It does not describe the current state of division over renewal. Inference."
+    },
+    {
+      "quiz": "t-t08-1",
+      "claim": "Students often find it useful to group the tools by whether they work through interest rates, through reserves kept by banks, or through the market for government securities.",
+      "problem": "Pedagogical advice not found in the booklet text."
+    },
+    {
+      "quiz": "t-t08-1",
+      "claim": "Each instrument has a different reach, and some act faster than others.",
+      "problem": "Not stated in the booklet text."
+    },
+    {
+      "quiz": "t-t08-1",
+      "claim": "Policymakers combine these tools according to the economic situation, especially when inflation is high or growth is weak.",
+      "problem": "Booklet mentions raising rates to curb high inflation and a cautious stance, but does not say policymakers combine tools in response to weak growth. Partly inferred."
+    }
+  ],
+  "fact_flags": [
+    {
+      "title": "Legal framework for inter-state waters",
+      "claim": "Article 262 empowers Parliament to adjudicate disputes relating to inter-state rivers (listed twice, differing only in capitalisation of 'State')",
+      "problem": "Duplicate fact entry. The claim is supported by the booklet, but the two entries should be merged."
+    }
+  ]
+}
