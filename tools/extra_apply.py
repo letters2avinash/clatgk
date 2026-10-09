@@ -11,7 +11,12 @@ head = head.replace('path = f"dashboard/data/{mid}.json"', 'path = f"dashboard/d
 exec(head)
 W = lambda s: set(re.findall(r"[a-z0-9]+", s.lower()))
 report = collections.defaultdict(list)
-for f in sorted(glob.glob(f"data/booklets/{mid}/verdict/x*.json")):
+done_p = f"data/booklets/{mid}/verdict/applied_x.json"
+done = set(json.load(open(done_p))) if os.path.exists(done_p) else set()
+new_done = set()
+for f in sorted(glob.glob(f"data/booklets/{mid}/verdict/x[0-9]*.json")):
+    if os.path.basename(f) in done: continue
+    new_done.add(os.path.basename(f))
     v = json.load(open(f, encoding="utf8")); bl = json.load(open(f.replace("/verdict/", "/blind/"), encoding="utf8"))
     BQ = {b["id"]: {x["n"]: x["q"] for x in b["questions"]} for b in bl["quizzes"]}
     BO = {b["id"]: {x["n"]: x.get("options") for x in b["questions"]} for b in bl["quizzes"]}
@@ -55,5 +60,6 @@ for q in d["quizzes"]:
     keep.append(q)
 d["quizzes"] = keep
 json.dump(d, open(path, "w", encoding="utf8"), ensure_ascii=False, separators=(",", ":"))
+json.dump(sorted(done | new_done), open(done_p, "w"))
 for k, vv in report.items(): print(f"== {k}: {len(vv)}")
 print("extra quizzes", before, "->", len([q for q in d["quizzes"] if "-x" in q["id"]]), "| extra questions", sum(len(q["questions"]) for q in d["quizzes"] if "-x" in q["id"]))
