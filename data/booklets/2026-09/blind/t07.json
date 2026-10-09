@@ -1,0 +1,197 @@
+{
+ "topic": "Removal of Chief Election Commissioner",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Constitutional Status and Powers of the ECI",
+   "summary": "The Election Commission of India is a permanent, independent constitutional body under Articles 324 to 329 (Part XV), established in 1950. It administers elections to Parliament, State Legislatures, the President and the Vice President, and has been a three-member body since 1993. Its powers are administrative, advisory and quasi-judicial, and the Supreme Court in Mohinder Singh Gill (1977) treated the case as a cornerstone for its plenary powers.",
+   "facts": [
+    "Permanent, all-India, quasi-judicial and independent constitutional body",
+    "Constitutional basis: Articles 324-329 (Part XV)",
+    "Ensures free and fair elections for Parliament, State Legislatures, President and Vice President",
+    "Three members since 1993: one CEC and two ECs",
+    "Administrative power: defining constituencies, preparing voter lists, scheduling elections",
+    "Advisory power: advises the President and Governors, guides during emergencies",
+    "Quasi-judicial power: resolves disputes over party recognition, allocates election symbols",
+    "Mohinder Singh Gill v. CEC (1977): cornerstone case on ECI's plenary powers under Article 324",
+    "Where laws are silent (Articles 327 and 328), ECI can act independently to safeguard free and fair elections",
+    "ECI can order a re-poll if the purity of the electoral process is compromised; judicial review usually comes after the election"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Appointment, Tenure and Removal of CEC and ECs",
+   "summary": "The CEC and Other Election Commissioners Act, 2023 replaced the 1991 Act and provides for appointment by the President on the recommendation of a Selection Committee, following the Supreme Court's directive in Anoop Baranwal vs Union of India (2023). The CEC and ECs enjoy Supreme Court Judge-level salary and benefits. The CEC serves for six years or until 65 years of age, whichever is earlier, and is removed through the same process as a Supreme Court Judge.",
+   "facts": [
+    "Anoop Baranwal vs Union of India (2023): five-judge bench directed appointment on the advice of a Selection Committee",
+    "Earlier, the President made appointments on the advice of the Prime Minister",
+    "The 2023 Act replaced the Election Commission Act of 1991 on conditions of service and transaction of business",
+    "Selection Committee: Prime Minister, a Union Cabinet Minister, and Leader of Opposition in Lok Sabha",
+    "Search Committee, headed by the Minister of Law and Justice, proposes a panel of five names",
+    "Selection Committee can consider names beyond the shortlist and can function despite vacancies",
+    "Tenure: six years or 65 years of age, whichever is earlier; not eligible for re-appointment",
+    "An EC appointed as CEC: combined term as EC and CEC must not exceed six years",
+    "CEC and ECs enjoy Supreme Court Judge-level salary and benefits",
+    "CEC is removed by the same process as a Supreme Court Judge"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Electoral Rolls, SIR and the Right to Vote",
+   "summary": "An electoral roll is the official list of persons eligible to vote in a jurisdiction, and being listed on it is a legal prerequisite for casting a vote. Rolls can be revised intensively, summarily or in special cases. The Special Intensive Revision (SIR) is a focused, time-bound house-to-house verification by Booth Level Officers, and courts have held that deletion from rolls cannot rest on mere suspicion.",
+   "facts": [
+    "Electoral roll: official list of individuals eligible to vote in a given election within a jurisdiction",
+    "Being on the electoral roll is a legal prerequisite for casting a vote in India",
+    "Publishing and updating rolls: ECI, state's Chief Electoral Officer, and state election commission",
+    "Article 325: no individual excluded from electoral rolls on grounds of religion, race, caste or sex",
+    "Intensive revision: complete fresh preparation of rolls through house-to-house enumeration",
+    "Summary revision: routine annual updating of existing rolls",
+    "SIR: house-to-house verification by BLOs to add missing voters, remove ineligible ones and correct entries",
+    "Lal Babu Hussein vs Electoral Registration Officer (1995): guidelines allowing deletion on mere suspicion struck down",
+    "Kuldip Nayar vs Union of India (2006): right to vote is statutory, not fundamental",
+    "Bihar SIR: those not in the 2003 rolls had to submit any of 11 listed documents to prove birth date or place"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "EVM and VVPAT",
+   "summary": "The Electronic Voting Machine (EVM) records votes in place of ballot papers and boxes, and was first used in Paravur, Kerala, in 1982. The VVPAT prints a slip that lets voters verify their vote; the slip stays visible for seven seconds before dropping into a sealed box. In 2019 the Supreme Court ruled that VVPAT slips of five EVMs in every constituency should be counted instead of just one.",
+   "facts": [
+    "EVM: electronic device used to record votes in place of ballot papers and boxes",
+    "First used in Paravur Assembly Constituency, Kerala, in 1982",
+    "Developed by Bharat Electronics Ltd (Bangalore) and Electronic Corporation of India Ltd (Hyderabad)",
+    "Two parts: Control Unit (with Polling Officer) and Balloting Unit (in voting booth)",
+    "VVPAT slip shows the serial number, candidate name and symbol",
+    "Slip is visible through a transparent window for 7 seconds, then is cut and falls into a sealed drop box",
+    "VVPAT machines can be accessed by Polling Officers only",
+    "VVPAT first introduced in the Noksen Assembly bye-election, Nagaland, in 2013",
+    "VVPAT used in all constituencies in the 2019 Lok Sabha elections",
+    "2019 Supreme Court ruling: VVPAT slips of 5 EVMs per constituency to be counted instead of 1"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t07-0",
+   "type": "MCQ",
+   "passage": "The Election Commission of India is a constitutional body, placed under Part XV of the Constitution, that administers elections to Parliament, the State Legislatures, and the offices of President and Vice President. Its job is to ensure free and fair elections across the country. Since 1993, it has functioned as a three-member body, with one Chief Election Commissioner (CEC) and two Election Commissioners (ECs). Earlier, the President made these appointments on the advice of the Prime Minister. In Anoop Baranwal vs Union of India (2023), a five-judge bench directed that the CEC and ECs be appointed on the advice of a Selection Committee. Parliament then passed the Chief Election Commissioner and Other Election Commissioners Act, 2023 to comply with that directive. Under the Act, the Selection Committee consists of the Prime Minister, a Union Cabinet Minister and the Leader of Opposition in the Lok Sabha. A Search Committee, headed by the Minister of Law and Justice, prepares a panel of names for the Selection Committee to consider. The Opposition has recently announced plans to move a motion in Parliament seeking the removal of the CEC. This has drawn fresh attention to the constitutional safeguards that govern the independence and removal of the CEC.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Assertion (A): Under Article 326, the right to vote is a fundamental right of every adult citizen.\nReason (R): In Kuldip Nayar vs Union of India (2006), the Supreme Court held that the right to vote is statutory, not fundamental.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Match List I with List II:\nI. Article 325   ->   A. Supervisory and controlling authority over elections and electoral rolls\nII. Article 326   ->   B. No exclusion from electoral rolls on grounds of religion, race, caste or sex\nIII. Article 324   ->   C. Authority to act independently where laws are silent\nIV. Articles 327 & 328   ->   D. Adult suffrage",
+     "options": [
+      "I-C, II-D, III-A, IV-B",
+      "I-C, II-A, III-B, IV-D",
+      "I-B, II-D, III-A, IV-C",
+      "I-D, II-B, III-A, IV-C"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "The Chief Election Commissioner and Other Election Commissioners Act, 2023 replaced which earlier Act?",
+     "options": [
+      "Representation of the People Act, 1950",
+      "Conduct of Elections Rules, 1961",
+      "Election Commission Act, 1985",
+      "Election Commission (Conditions of Service of Election Commissioners and Transaction of Business) Act, 1991"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following statements about the CEC and ECs:\nI. The CEC and ECs enjoy salary and benefits equal to a Supreme Court Judge.\nII. The CEC is eligible for re-appointment after completing a six-year term.\nIII. If an EC is appointed as CEC, the combined term as EC and CEC must not exceed six years.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "How many of the following statements about the appointment process are correct?\nI. The Search Committee proposes a panel of five names.\nII. The Selection Committee can consider names beyond the shortlist.\nIII. The Selection Committee cannot function while there are vacancies.",
+     "options": [
+      "None",
+      "Only one",
+      "Only two",
+      "Only three"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Which case is regarded as a cornerstone in defining the plenary powers of the ECI under Article 324?",
+     "options": [
+      "Mohinder Singh Gill v. Chief Election Commissioner (1977)",
+      "Kesavananda Bharati v. State of Kerala",
+      "Maneka Gandhi v. Union of India",
+      "S.R. Bommai v. Union of India"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "National Voters' Day is celebrated on which date to mark the foundation of the Election Commission of India?",
+     "options": [
+      "26 January",
+      "25 January",
+      "15 August",
+      "25 November"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Who was the first woman CEC, known for the shortest tenure of 16 days?",
+     "options": [
+      "V.S. Ramadevi",
+      "Meera Kumar",
+      "Sushma Swaraj",
+      "Vasundhara Raje"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t07-1",
+   "type": "TITA",
+   "passage": "An electoral roll is the official list of individuals eligible to vote in a given election within a specific jurisdiction, and being listed on it is a legal prerequisite for casting a vote in India. The publishing and updating of electoral rolls are the joint responsibility of the Election Commission of India, the state's Chief Electoral Officer and the state's election commission. The Commission has broad authority over voter list management, and no individual may be excluded from electoral rolls on grounds of religion, race, caste or sex. The Commission can direct a fresh revision of rolls, which may be intensive, summary or a combination of both. An intensive revision involves a complete and fresh preparation of rolls through house-to-house enumeration, and it is done when the rolls are outdated, inaccurate or need complete rebuilding. A summary revision is a routine annual updating of existing rolls, while a special revision is undertaken in exceptional cases. The Special Intensive Revision is a focused, time-bound house-to-house verification of voters by Booth Level Officers, aimed at adding missing voters, removing ineligible ones and correcting entries. Such a revision excludes non-citizens and includes citizens aged 18 or above who are ordinarily resident in the constituency. Courts have also held that names cannot be removed from voter lists merely on suspicion, and the right to vote is treated as a statutory right rather than a fundamental one.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did the earliest Special Intensive Revision listed in the booklet begin? (year)"
+    },
+    {
+     "n": 2,
+     "q": "How many documents from the prescribed list can be submitted in the Bihar SIR to prove date or place of birth? (number)"
+    },
+    {
+     "n": 3,
+     "q": "In which year was the last SIR held in Bihar? (year)"
+    },
+    {
+     "n": 4,
+     "q": "The 61st Amendment (1988) reduced the minimum voting age from how many years? (in years)"
+    },
+    {
+     "n": 5,
+     "q": "Which 1995 case struck down ECI guidelines that allowed deletion from electoral rolls on mere suspicion? (name of the first party)"
+    },
+    {
+     "n": 6,
+     "q": "Under which section of the Representation of the People Act, 1950 can the ECI direct a fresh revision of electoral rolls? (section number)"
+    },
+    {
+     "n": 7,
+     "q": "Under which Article does the ECI have supervisory and controlling authority over elections and electoral rolls? (article number)"
+    }
+   ]
+  }
+ ]
+}

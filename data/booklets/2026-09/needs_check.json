@@ -1,0 +1,447 @@
+[
+ {
+  "topic": "Houthi Rebels Capture Strategic Port City Mokha in Yemen",
+  "page": 5,
+  "what": "Booklet says the UAE pulled troops from Saudi Arabia in Jan 2026, while the page 6 sidebar mentions withdrawal from Yemeni territory; the withdrawal location was not used."
+ },
+ {
+  "topic": "Houthi Rebels Capture Strategic Port City Mokha in Yemen",
+  "page": 6,
+  "what": "Sidebar on a Saudi demand that the UAE withdraw military elements from Yemeni territory within 24 hours is interleaved with map labels; not used."
+ },
+ {
+  "topic": "Houthi Rebels Capture Strategic Port City Mokha in Yemen",
+  "page": 6,
+  "what": "Line 'Accused of Corruption and being backed by Saudi Arabia and United States' has no clear subject; not used."
+ },
+ {
+  "topic": "Houthi Rebels Capture Strategic Port City Mokha in Yemen",
+  "page": 7,
+  "what": "Houthi origin description ('Originally ... among Zaydi Shia population') is overlapped by other columns; only the clear phrases were used."
+ },
+ {
+  "topic": "Houthi Rebels Capture Strategic Port City Mokha in Yemen",
+  "page": 8,
+  "what": "The 'since 2017' timing attached to the Southern Transitional Council is interleaved with other text; not used."
+ },
+ {
+  "topic": "Indus Waters Treaty and India's rejection of the Hague ruling",
+  "page": 12,
+  "what": "Inspection-tour count and inspection frequency lines for the Permanent Indus Commission are garbled; not used."
+ },
+ {
+  "topic": "Indus Waters Treaty and India's rejection of the Hague ruling",
+  "page": 13,
+  "what": "Pakal Dul project river name (Marusudar) and Lower Kalnai location are garbled; not used."
+ },
+ {
+  "topic": "Indus Waters Treaty and India's rejection of the Hague ruling",
+  "page": 14,
+  "what": "Sentence on India's position about Pakistan's arbitration alongside the Neutral Expert process is cut off; not used."
+ },
+ {
+  "topic": "Indus Waters Treaty and India's rejection of the Hague ruling",
+  "page": 14,
+  "what": "Trans-boundary chain for the Indus (Pakistan > India > Tibet > Afghanistan) and the sea name are garbled; not used."
+ },
+ {
+  "topic": "Indus Waters Treaty and India's rejection of the Hague ruling",
+  "page": 15,
+  "what": "Signatory name and office line for the treaty are partly garbled; not used."
+ },
+ {
+  "topic": "Indus Waters Treaty and India's rejection of the Hague ruling",
+  "page": 13,
+  "what": "Expected year of the Neutral Expert final determination is partly garbled in the map text; not used."
+ },
+ {
+  "topic": "Cardiff Pact and UK Federal Challenge",
+  "page": 18,
+  "what": "Partition date conflicts: p.18 says Partition of Ireland 1920 while p.21 says Northern Ireland was created in 1921; neither date used"
+ },
+ {
+  "topic": "Cardiff Pact and UK Federal Challenge",
+  "page": 18,
+  "what": "Formation of Union section has caption text overlapping map labels; only clearly readable dates used"
+ },
+ {
+  "topic": "Cardiff Pact and UK Federal Challenge",
+  "page": 19,
+  "what": "Public Impact line reads 'parked debate on Federal Reform' (likely 'sparked'); not used"
+ },
+ {
+  "topic": "Cardiff Pact and UK Federal Challenge",
+  "page": 19,
+  "what": "Westminster Response paragraph is garbled ('acknowled ... ged'); not used"
+ },
+ {
+  "topic": "Cardiff Pact and UK Federal Challenge",
+  "page": 22,
+  "what": "Windsor Framework lane diagram text is garbled; lane rules not used"
+ },
+ {
+  "topic": "Cardiff Pact and UK Federal Challenge",
+  "page": 22,
+  "what": "UK column of the Federal Dispute Settlement row is partly garbled; not used"
+ },
+ {
+  "topic": "Lindsey O. Graham Sanctioning Russia and Iran Act 2026",
+  "page": 27,
+  "what": "Russia import volume and share figures (2.08 million barrels per day, 45% share, 55.9% peak in July, -2.82 million bpd) are garbled; not used"
+ },
+ {
+  "topic": "Lindsey O. Graham Sanctioning Russia and Iran Act 2026",
+  "page": 27,
+  "what": "Skill-Up line naming IEEPA 1977 is garbled; not used"
+ },
+ {
+  "topic": "India Rejects Pakistan-China Boundary Joint Commission",
+  "page": 33,
+  "what": "Origin and date of the Johnson Line conflict: p.33 places a Johnson Line proposal in the 1890s via an Anglo-Chinese Convention, while p.34 says the 1865 Johnson Line was marked by W.H. Johnson; no year used"
+ },
+ {
+  "topic": "India Rejects Pakistan-China Boundary Joint Commission",
+  "page": 35,
+  "what": "Sector length figures conflict (map: Western 1570 km, Eastern 645 km, Central 1325 km; table: about 1,597 km and 1,346 km; Middle sector figure garbled); no lengths used"
+ },
+ {
+  "topic": "India Rejects Pakistan-China Boundary Joint Commission",
+  "page": 32,
+  "what": "Border length conflict: 3,488 km is given as the boundary, but the text also gives 4057 KM as India's claimed international border with China; only 3,488 km used"
+ },
+ {
+  "topic": "India Rejects Pakistan-China Boundary Joint Commission",
+  "page": 31,
+  "what": "Strategic red flags graphic text is largely garbled and was not used"
+ },
+ {
+  "topic": "India Rejects Pakistan-China Boundary Joint Commission",
+  "page": 30,
+  "what": "Map labels (e.g. Teram Shehr, Gilgit-related labels, Galwan/Pangong labels) are garbled and were not used"
+ },
+ {
+  "topic": "Map Projections: From Mercator to Equal Earth",
+  "page": 40,
+  "what": "Right-column text on Mercator concerns and advantages is cut off and interleaved with the side column; not used"
+ },
+ {
+  "topic": "Map Projections: From Mercator to Equal Earth",
+  "page": 40,
+  "what": "Sentence on Mercator grid spacing (longitudes evenly spaced, gaps between latitudes widening toward the poles) is interleaved with side text; not used"
+ },
+ {
+  "topic": "Map Projections: From Mercator to Equal Earth",
+  "page": 41,
+  "what": "Co-creator surname is spelled 'Savrié' in the OCR and the exact spelling is unconfirmed; name not used"
+ },
+ {
+  "topic": "Map Projections: From Mercator to Equal Earth",
+  "page": 41,
+  "what": "Mercator vs Equal Earth table rows 'Shape preservation' and 'Polar distortion' are misaligned in OCR; values could not be matched, not used"
+ },
+ {
+  "topic": "Map Projections: From Mercator to Equal Earth",
+  "page": 42,
+  "what": "Survey of India history line ('Modern Scientific Survey', name and years 1793-96) has OCR noise; not used"
+ },
+ {
+  "topic": "Removal of Chief Election Commissioner",
+  "page": 45,
+  "what": "Names of other ECs and the 26th CEC detail are garbled in the Extra Shots column; not used"
+ },
+ {
+  "topic": "Removal of Chief Election Commissioner",
+  "page": 46,
+  "what": "Section numbers for SIR exclusion of non-citizens and the ordinary-residence rule are garbled (Sec 16 / Sec 19 placement unclear); not used"
+ },
+ {
+  "topic": "Removal of Chief Election Commissioner",
+  "page": 46,
+  "what": "Removal of ECs is described as only on the recommendation of the CEC, while page 51 says removal is by the President after consulting the CEC; conflict not resolved, not used"
+ },
+ {
+  "topic": "Removal of Chief Election Commissioner",
+  "page": 47,
+  "what": "Past SIR year list on this page differs from the list on page 50 (for example 1966, 1987-89, 1992, 1993 appear here only); only the shared starting year 1952-56 was used"
+ },
+ {
+  "topic": "Removal of Chief Election Commissioner",
+  "page": 48,
+  "what": "Expansion of VVPAT is inconsistent: heading reads Voter Verified Paper Audit Trail, body reads Voter Verifiable Paper Audit Trail; expansion not used"
+ },
+ {
+  "topic": "Removal of Chief Election Commissioner",
+  "page": 48,
+  "what": "The 2013 Supreme Court VVPAT reference in the timeline is garbled; page 49 wording used instead"
+ },
+ {
+  "topic": "Removal of Chief Election Commissioner",
+  "page": 50,
+  "what": "Door-to-door verification wording for summary and special revisions sits in garbled columns; not used"
+ },
+ {
+  "topic": "Removal of Chief Election Commissioner",
+  "page": 51,
+  "what": "The Panchayat and municipal exclusion column is garbled; not used"
+ },
+ {
+  "topic": "Removal of Chief Election Commissioner",
+  "page": 52,
+  "what": "ONOE history years and disadvantage list are garbled; not used"
+ },
+ {
+  "topic": "SEMICON India 2026",
+  "page": 55,
+  "what": "Programme launch outlay is printed as '276,000 crore' with a stray digit; not used."
+ },
+ {
+  "topic": "SEMICON India 2026",
+  "page": 56,
+  "what": "Descriptive text under each of the six pillars is garbled; only the pillar names are used."
+ },
+ {
+  "topic": "SEMICON India 2026",
+  "page": 57,
+  "what": "Name of the C-DAC processor on the 'AUM HPC - AI Processor' line is garbled; omitted."
+ },
+ {
+  "topic": "NPCI Introduces MDR on UPI Transactions",
+  "page": 60,
+  "what": "P2M threshold is printed as '22,000' on one line (OCR); ₹2,000 is used because pages 61 to 63 consistently read 2,000."
+ },
+ {
+  "topic": "NPCI Introduces MDR on UPI Transactions",
+  "page": 61,
+  "what": "Mid-value slab range in the MDR table reads '22,001 - 374,999' (garbled); only the 0.40% rate and the 75,000 threshold were used."
+ },
+ {
+  "topic": "NPCI Introduces MDR on UPI Transactions",
+  "page": 61,
+  "what": "Sector list conflicts: the bullet names Railways, Telecom, Insurance, Fuel and Agricultural Inputs, while the table names Rail, Fuel, Utilities, Telecom, Insurance and Taxes with a garbled amount. The bullet list is used."
+ },
+ {
+  "topic": "NPCI Introduces MDR on UPI Transactions",
+  "page": 60,
+  "what": "Page 60 applies 0.4% to 'High-Value Merchant' transactions, but the table and page 61 call that slab 'mid-value' and reserve 'high-value' for 75,000 and above. Only the 'mid-value' wording is used."
+ },
+ {
+  "topic": "NPCI Introduces MDR on UPI Transactions",
+  "page": 62,
+  "what": "MDR share percentages among payer bank, payee bank, UPI app and PSPs are garbled and were not used. The 'Who pays MDR?' header is also garbled; the page 60 definition was used instead."
+ },
+ {
+  "topic": "NPCI Introduces MDR on UPI Transactions",
+  "page": 64,
+  "what": "The 'first country' and 'first European nation' markers on pages 60 and 64 are garbled ('1st' reads as '1\"'), so the 'first' claims were not used."
+ },
+ {
+  "topic": "18th BRICS Summit 2026",
+  "page": 67,
+  "what": "Culinary item name 'Gucchi Marmik' is garbled in OCR; not used."
+ },
+ {
+  "topic": "18th BRICS Summit 2026",
+  "page": 68,
+  "what": "Timeline infographic (2012/2016 chairship bullets, CRA, NDB and research network text) is garbled; not used."
+ },
+ {
+  "topic": "18th BRICS Summit 2026",
+  "page": 68,
+  "what": "Population, GDP and trade percentages and the member and partner country lists are garbled or misaligned; not used."
+ },
+ {
+  "topic": "26th SCO Summit 2026",
+  "page": 71,
+  "what": "Venue name written as 'Yrys - Ordo Congress Hall' is garbled in the OCR; not used."
+ },
+ {
+  "topic": "26th SCO Summit 2026",
+  "page": 72,
+  "what": "Name of the 'AnSCO Universal Centre for Countering Challenges and Threats' is garbled; not used."
+ },
+ {
+  "topic": "26th SCO Summit 2026",
+  "page": 72,
+  "what": "Founding year in the 'What is the SCO?' box reads '200)' in the OCR; 2001 is used from other pages instead."
+ },
+ {
+  "topic": "26th SCO Summit 2026",
+  "page": 72,
+  "what": "The 'HO: Minsk (Belarus)' line is interleaved with the CSTO and CIS entries, so which organisation it belongs to is unclear; not used."
+ },
+ {
+  "topic": "26th SCO Summit 2026",
+  "page": 73,
+  "what": "The soft-power pillar label before 'Ayurveda' is garbled; only Ayurveda and Buddhism are used."
+ },
+ {
+  "topic": "81st UN General Assembly, P4M and Arctic Affairs",
+  "page": 78,
+  "what": "V4 key outcomes: the lines 'Agreed to establish an Annual Business ... Forum' and 'committed to holding V4 + India ... meetings' are interleaved and partly garbled; not used."
+ },
+ {
+  "topic": "81st UN General Assembly, P4M and Arctic Affairs",
+  "page": 80,
+  "what": "Claim that Greenlanders are considered EU citizens, and the '25 EU Overseas Countries and Territories' figure; not used, needs verification against the source."
+ },
+ {
+  "topic": "81st UN General Assembly, P4M and Arctic Affairs",
+  "page": 80,
+  "what": "Arctic Council secretariat city reads 'Tromse' with the diacritic lost; not used."
+ },
+ {
+  "topic": "81st UN General Assembly, P4M and Arctic Affairs",
+  "page": 81,
+  "what": "V4 outcome question: option (a) is garbled ('Withdrew from NATO scan the on for Tats Bl'); question not used."
+ },
+ {
+  "topic": "81st UN General Assembly, P4M and Arctic Affairs",
+  "page": 82,
+  "what": "Arctic Council question: option 'Tromsg Declaration' is garbled; question not used."
+ },
+ {
+  "topic": "Global Gender Gap Index 2026",
+  "page": 83,
+  "what": "Country rank table values (score and change versus 2025 columns) are garbled; not used"
+ },
+ {
+  "topic": "Global Gender Gap Index 2026",
+  "page": 84,
+  "what": "Ministerial positions line ('Only around | in 10' held by women classified as highly influential) is garbled; figure not used"
+ },
+ {
+  "topic": "Global Gender Gap Index 2026",
+  "page": 84,
+  "what": "Reference year for India's 4.3-point score improvement ('since 79th') is garbled; improvement not used"
+ },
+ {
+  "topic": "Global Gender Gap Index 2026",
+  "page": 84,
+  "what": "India's Political Empowerment rank shown as '(67°)' is unclear; rank not used"
+ },
+ {
+  "topic": "Global Gender Gap Index 2026",
+  "page": 85,
+  "what": "India's at-a-glance table (ranks and scores for 2006, 2025 and 2026) is garbled; only figures stated in prose used"
+ },
+ {
+  "topic": "Global Gender Gap Index 2026",
+  "page": 85,
+  "what": "Sex ratio at birth statement ('nearly 1% point below its 2006 level') is partly garbled; not used"
+ },
+ {
+  "topic": "Swachh Vayu Sarvekshan 2026",
+  "page": 91,
+  "what": "Ward-level top performers by category (Lucknow, Bhopal, Nashik, Bhubaneswar, Vijayawada, Prayagraj, Rourkela, Nalgonda) are interleaved with other text; their category assignment is unclear."
+ },
+ {
+  "topic": "Swachh Vayu Sarvekshan 2026",
+  "page": 92,
+  "what": "Launching or developing body for the Turbo Happy Seeder is not legible."
+ },
+ {
+  "topic": "Swachh Vayu Sarvekshan 2026",
+  "page": 92,
+  "what": "Submitting body (CPCB) and the 2016 Supreme Court approval for GRAP sit in a garbled column; the 2016 approval year does not sit cleanly with the 2017 label."
+ },
+ {
+  "topic": "Swachh Vayu Sarvekshan 2026",
+  "page": 94,
+  "what": "Option (d) of question 12 (Sarvekshan launch year) is truncated; the launch year 2022-23 was taken from page 92 instead."
+ },
+ {
+  "topic": "EOS-05: India's 1st Dedicated GEO Satellite",
+  "page": 96,
+  "what": "Multi-spectral sensor labels (VNIR, SWIR, TIR, hyperspectral) are garbled, so the sensor-to-function mapping was not used"
+ },
+ {
+  "topic": "EOS-05: India's 1st Dedicated GEO Satellite",
+  "page": 99,
+  "what": "Types of Earth orbit diagram labels (equatorial, polar, inclined) are garbled, so the diagram was not used"
+ },
+ {
+  "topic": "EOS-05: India's 1st Dedicated GEO Satellite",
+  "page": 100,
+  "what": "NISAR wavelength '~10em' is unclear (probably 10 cm); not used"
+ },
+ {
+  "topic": "Miscellaneous: In News (September 2026)",
+  "page": 105,
+  "what": "PM Vishwakarma e-voucher amount (OCR '215,000'): currency and digits garbled, not used"
+ },
+ {
+  "topic": "Miscellaneous: In News (September 2026)",
+  "page": 105,
+  "what": "Enterprise Development Loan ceiling (OCR '23 lakh'): not clear, not used"
+ },
+ {
+  "topic": "Miscellaneous: In News (September 2026)",
+  "page": 105,
+  "what": "Training stipend per day (OCR '2500/day'): not clear, not used"
+ },
+ {
+  "topic": "Miscellaneous: In News (September 2026)",
+  "page": 105,
+  "what": "Digital transaction incentive per transaction (OCR '21'): not clear, not used"
+ },
+ {
+  "topic": "Miscellaneous: In News (September 2026)",
+  "page": 106,
+  "what": "Section 29C contribution-report threshold (OCR '&20,000'): currency symbol garbled, not used"
+ },
+ {
+  "topic": "Miscellaneous: In News (September 2026)",
+  "page": 107,
+  "what": "Ordinal of Tulu's additional administrative language status (OCR '2\"'): not used"
+ },
+ {
+  "topic": "Miscellaneous: In News (September 2026)",
+  "page": 110,
+  "what": "India's CITES management authority wording (MoEFCC and ADG Wildlife line): partly garbled, not used"
+ },
+ {
+  "topic": "Miscellaneous: In News (September 2026)",
+  "page": 112,
+  "what": "Mapping of the five CCW protocols to weapon types in the table: garbled, not used"
+ },
+ {
+  "topic": "Miscellaneous: In News (September 2026)",
+  "page": 113,
+  "what": "Madhya Pradesh score change in IEMI 2025 (OCR '7 ... from 23'): unreadable, not used"
+ },
+ {
+  "topic": "Miscellaneous: In News (September 2026)",
+  "page": 114,
+  "what": "Assam and Nepal zero-poaching ordinal counts and maximum Kaziranga rhino count: garbled, not used"
+ },
+ {
+  "topic": "Miscellaneous: In News (September 2026)",
+  "page": 115,
+  "what": "Edition number of National Film Awards (OCR '72') and Best Actor row listing two names: unclear, not used"
+ },
+ {
+  "topic": "Current Affairs September 2026",
+  "page": 117,
+  "what": "Ladakh heading reads 'Article 371(KK)' while the body text says new chapter 371K; the article number was not used"
+ },
+ {
+  "topic": "Current Affairs September 2026",
+  "page": 118,
+  "what": "Prize amount per Millennium Prize Problem reads 'USD | Million'; the amount was not used"
+ },
+ {
+  "topic": "Current Affairs September 2026",
+  "page": 119,
+  "what": "Name of the Miss World 2026 winner is garbled ('Joheirry Mola'); only the country, Dominican Republic, was used"
+ },
+ {
+  "topic": "Current Affairs September 2026",
+  "page": 119,
+  "what": "Sentence naming the Miss World 2025 holder and the 2026 crowning is garbled; not used"
+ },
+ {
+  "topic": "Current Affairs September 2026",
+  "page": 119,
+  "what": "Home city of the Indian Top-40 finalist reads 'Ujjai (MP)'; city was not used"
+ }
+]

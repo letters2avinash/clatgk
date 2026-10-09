@@ -1,0 +1,196 @@
+{
+ "topic": "Global Gender Gap Index 2026",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Report Basics and Scoring",
+   "summary": "The Global Gender Gap Report is an annual flagship publication of the World Economic Forum, introduced in 2006. It tracks how far countries have closed gender disparities rather than only counting women's absolute outcomes. Each country is scored from 0 to 1, and the scores are also expressed on a 0-100 scale where 100 means complete parity. The index is built on four dimensions.",
+   "facts": [
+    "Introduced in 2006 by the World Economic Forum",
+    "The 2026 report is the 20th edition",
+    "Annual flagship publication of the World Economic Forum",
+    "Tracks closing of gender disparities, not women's absolute outcomes",
+    "Four dimensions: Economic Participation and Opportunity, Educational Attainment, Health and Survival, Political Empowerment",
+    "Score of 0 reflects absolute inequality; score of 1 means complete gender equality",
+    "Scores expressed on a 0-100 scale; 100 represents complete parity",
+    "World Economic Forum is a Switzerland-based think tank and advocacy group",
+    "The Forum was founded by Klaus Schwab in 1971"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Global Highlights and Leadership",
+   "summary": "Iceland retained the first position for the 17th consecutive year, while Chad ranked last among 145 countries. The world has closed 69.2% of the overall gender gap, improving by only 0.4 percentage points in the year. At the current pace, complete parity could take about 120 years. Women hold 19.1% of CEO positions globally.",
+   "facts": [
+    "Iceland retained 1st position for the 17th consecutive year",
+    "Iceland closed around 93% of its gender gap",
+    "Finland and Norway followed Iceland",
+    "Australia entered the global top 10 for the first time",
+    "Chad ranked 145th, lowest among the 145 countries covered",
+    "Pakistan and Iran were among the three lowest-ranked countries",
+    "World has closed 69.2% of the overall gender gap",
+    "Global parity improved by only 0.4 percentage points over the previous year",
+    "Complete global parity could take about 120 years at the present rate of progress",
+    "Women hold 19.1% of CEO positions globally"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "India's Performance",
+   "summary": "India retained its 131st position among 145 countries, with an overall gender parity score of 64.5%. Its dimension scores are 96.6% in educational attainment, 95.6% in health and survival, 41.2% in economic participation and opportunity, and 24.5% in political empowerment. Women hold only 5.9% of ministers and 13.1% of senior leadership and managerial positions. The booklet notes that progress in education and health has not yet carried over to the economic and political dimensions.",
+   "facts": [
+    "India's rank: 131st of 145 countries, retaining its position",
+    "Overall gender parity score 64.5%, against a global average of 69.2%",
+    "Educational attainment: 96.6% parity",
+    "Health and survival: 95.6% parity",
+    "Economic participation and opportunity: 41.2%",
+    "Political empowerment: 24.5%",
+    "Women are 5.9% of ministers, compared with a peak of 30% in 2019",
+    "Women are 13.6% (74) of the 18th Lok Sabha in 2024, down from 14.4% in 2019",
+    "Women occupy 13.1% of senior leadership and managerial positions",
+    "Only 17% of CEOs and 20% of board members in Indian corporates are women"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Barriers and Government Initiatives",
+   "summary": "Women spend nearly five hours a day on unpaid household chores, three times more than men, and this unpaid work is valued at 22.7 lakh crore or 7.5% of GDP. Labour market, workplace safety and childcare issues continue to hinder women's participation. The Nari Shakti Vandan Adhiniyam mandates 33% representation for women in legislatures. Schemes such as Beti Bachao Beti Padhao, PM Matru Vandana Yojana and Pradhan Mantri Jan-Dhan Yojana support girls' education, maternal health and financial access.",
+   "facts": [
+    "Women spend nearly 5 hours daily on unpaid household chores, three times more than men",
+    "Unpaid work is valued at 22.7 lakh crore, or 7.5% of GDP",
+    "Most women are in informal, low-paid roles despite rising participation",
+    "Workplace safety concerns and inadequate childcare are major hurdles",
+    "40% of girls aged 15-18 are not in school",
+    "Female labour participation grew from 23.3% (2017-18) to 41.7% (2023-24)",
+    "Nari Shakti Vandan Adhiniyam (106th Constitutional Amendment, 2023) mandates 33% representation for women in legislatures",
+    "Beti Bachao Beti Padhao (2015) targets the falling child sex ratio",
+    "Over 28 crore women have Jan Dhan bank accounts",
+    "Maternal health programmes have cut the maternal mortality rate from 174 to 97"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t13-0",
+   "type": "MCQ",
+   "passage": "Gender equality is often discussed in terms of laws and policies, but measuring it is a separate challenge. One widely cited tool is the Global Gender Gap Index, which is published every year as a flagship report. Its purpose is not simply to count how many women hold particular positions. Instead, it asks how far each country has moved toward closing the disparities between women and men. This focus on gaps rather than absolute outcomes shapes the whole report. Each country receives a numerical score, and these scores allow nations to be compared on a common yardstick. One end of the range signals complete equality, while the other end signals absolute inequality. The scores can also be presented on a more familiar scale, where the highest value stands for full parity. Because the report is repeated each year, observers can see whether countries are moving forward or falling behind. Readers should remember that a ranking captures relative progress among the countries covered. It does not, by itself, describe the daily experience of women in any single society. Understanding the method behind the scores is therefore as important as reading the final table.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which country retained the first position for the 17th consecutive year?",
+     "options": [
+      "Finland",
+      "Norway",
+      "Iceland",
+      "Sweden"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Match List I with List II:\nI. Founder of the World Economic Forum   ->   A. 20th\nII. Year the index was introduced   ->   B. Switzerland\nIII. Current edition of the report   ->   C. 2006\nIV. Base of the Forum   ->   D. Klaus Schwab",
+     "options": [
+      "I-D, II-C, III-A, IV-B",
+      "I-C, II-A, III-B, IV-D",
+      "I-D, II-A, III-B, IV-C",
+      "I-D, II-B, III-C, IV-A"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "In which year was the Global Gender Gap Report introduced?",
+     "options": [
+      "1971",
+      "2006",
+      "2000",
+      "2015"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following statements about the Global Gender Gap Report:\nI. The report was introduced in 2006.\nII. The report was introduced in 2015.\nIII. The report is an annual flagship publication of the World Economic Forum.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "II and III only",
+      "I and II only",
+      "I and III only"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Assertion (A): The World Economic Forum was founded by Klaus Schwab in 1971.\nReason (R): The World Economic Forum is a Switzerland-based think tank and advocacy group.",
+     "options": [
+      "Both A and R are true and R explains A",
+      "Both A and R are true but R does not explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "The 2026 Global Gender Gap Report is which edition?",
+     "options": [
+      "10th",
+      "15th",
+      "20th",
+      "25th"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about the index's dimensions are correct?\nI. Economic Participation and Opportunity is one of its dimensions.\nII. Educational Attainment is one of its dimensions.\nIII. Social Security Coverage is one of its dimensions.\nIV. Political Empowerment is one of its dimensions.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "How many countries does the 2026 index cover?",
+     "options": [
+      "135",
+      "145",
+      "146",
+      "148"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t13-1",
+   "type": "TITA",
+   "passage": "Global progress toward gender equality is measured through rankings and overall scores, and the latest edition offers a mixed picture. The top of the table has stayed remarkably stable, with the same country holding the leading position for a long stretch. Several nations close behind it have also kept strong positions. Movement at the bottom of the table is watched closely, since the lowest-ranked countries show the widest gaps. Across the world, the overall gap has narrowed, but only slightly from the previous year, which means change is slow. Leadership remains a challenge in every sphere. Women hold only a small share of chief executive roles, and their presence in emerging technology work is also limited. Career patterns add to the picture, since women are more likely than men to take breaks from work linked to parenting. One new country joined the group of top performers for the first time in this edition. Taken together, these trends suggest that closing gaps requires sustained effort rather than occasional improvement.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "For how many consecutive years has Iceland retained the first position? (in years)"
+    },
+    {
+     "n": 2,
+     "q": "Which country ranked last among the 145 countries covered in the 2026 index?"
+    },
+    {
+     "n": 3,
+     "q": "What share of the overall global gender gap has the world closed? (in per cent)"
+    },
+    {
+     "n": 4,
+     "q": "At the present rate of progress, approximately how many years would complete global gender parity take? (in years)"
+    },
+    {
+     "n": 5,
+     "q": "What per cent of CEO positions globally are held by women? (in per cent)"
+    },
+    {
+     "n": 6,
+     "q": "Women account for fewer than 1 in how many AI engineers globally? (give a number)"
+    },
+    {
+     "n": 7,
+     "q": "Which country entered the global top 10 for the first time in 2026?"
+    }
+   ]
+  }
+ ]
+}

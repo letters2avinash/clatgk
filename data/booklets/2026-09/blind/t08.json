@@ -1,0 +1,191 @@
+{
+ "topic": "SEMICON India 2026",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Why Semiconductors Matter",
+   "summary": "Semiconductors are foundational to modern technology and are used in automobiles, healthcare, defence, aerospace, telecommunications and consumer electronics. Chips with billions of transistors power high-performance computing and artificial intelligence, within a global electronics industry valued at approximately USD 4.3 trillion. COVID-19 exposed the risks of concentrated global supply chains, which has pushed countries to build domestic capabilities.",
+   "facts": [
+    "Semiconductors are used in automobiles, healthcare, defence, aerospace, telecommunications and consumer electronics.",
+    "Availability of semiconductor components directly influences the resilience of digital and industrial supply chains.",
+    "Modern chips can contain billions of transistors within extremely small areas.",
+    "Leading-edge processors based on 3-nanometre technology can integrate tens of billions of transistors.",
+    "Such capabilities support high-performance computing, artificial intelligence and advanced digital applications.",
+    "The global electronics industry is valued at approximately USD 4.3 trillion.",
+    "COVID-19 exposed vulnerabilities arising from concentration in global semiconductor supply chains.",
+    "Countries have sought to develop domestic semiconductor capabilities and diversify sources.",
+    "Materials with conductivity between conductors and insulators, such as silicon and germanium, are semiconductors."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "SEMICON India Conference and Programme 1.0",
+   "summary": "SEMICON India is an annual flagship conference and exhibition that showcases India's semiconductor capabilities, and the 2026 edition is the fifth. PM Modi inaugurated it at Yashobhoomi, New Delhi, under the theme 'Silicon to Systems: Building the Ecosystem'. The Semicon India Programme, launched in 2021, aims to establish a complete semiconductor ecosystem in India, with focus on chip design, fabrication, advanced packaging, talent development, and research and innovation.",
+   "facts": [
+    "SEMICON India is an annual flagship semiconductor conference and exhibition.",
+    "The first edition of SEMICON India was held in Bengaluru in 2022.",
+    "The 2026 edition of SEMICON India is the fifth edition.",
+    "PM Modi inaugurated SEMICON India 2026 at Yashobhoomi, New Delhi.",
+    "The theme of SEMICON India 2026 is 'Silicon to Systems: Building the Ecosystem'.",
+    "SEMICON India is organised by the India Semiconductor Mission, the Ministry of Electronics and Information Technology and SEMI.",
+    "The Semicon India Programme was launched in 2021.",
+    "The objective of the programme is to establish a complete semiconductor ecosystem in India.",
+    "The programme focuses on chip design, fabrication, advanced packaging, talent development, and research and innovation."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Semicon India Programme 2.0 and Its Pillars",
+   "summary": "The Semicon India Programme 2.0 was approved in July 2026 as part of the India Semiconductor Mission, with an enhanced outlay of Rs 1,27,500 crore. It is a comprehensive, macro-level national policy framework that gives sustained, long-term financial and infrastructure support to the sector. Its six key pillars cover chip design, equipment and materials, fabrication facilities, advanced packaging, research and development, and talent development. So far 12 projects have been approved across 6 States.",
+   "facts": [
+    "Semicon India Programme 2.0 was approved in July 2026 and is part of the India Semiconductor Mission.",
+    "The enhanced outlay of Semicon India Programme 2.0 is Rs 1,27,500 crore.",
+    "Programme 2.0 is a comprehensive, macro-level national policy framework.",
+    "Programme 2.0 provides sustained, long-term financial and infrastructure support to the semiconductor sector.",
+    "The six key pillars are chip design, semiconductor equipment and materials, fabrication facilities (FABs), advanced packaging, research and development (R&D), and talent development.",
+    "12 semiconductor projects have been approved across 6 States."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Schemes, Missions and Global Partnerships",
+   "summary": "The India Semiconductor Mission (2021) is the nodal agency for semiconductor and display ecosystem schemes, and its 2.0 phase aims to make India a reliable and competitive player in the global value chain. Incentive schemes such as the PLI scheme (2020) and the Design-Linked Incentive scheme support manufacturing and design, while the Chips to Startup programme and the ChipIN Centre at C-DAC build design capacity. Internationally, India signed the iCET with the United States in 2022 and joined the Pax Silica coalition to strengthen supply-chain resilience.",
+   "facts": [
+    "The India Semiconductor Mission (2021) is the nodal agency for implementing Semiconductor and Display Ecosystem Schemes.",
+    "India Semiconductor Mission 2.0 aims to position India as a reliable and competitive player in the global semiconductor value chain.",
+    "A budgetary provision of Rs 21,000 crore has been made for FY 2026-27 to support ISM 2.0.",
+    "The Production Linked Incentive Scheme (2020) offers incentives based on incremental sales.",
+    "The PLI scheme includes 4-6% domestic production-linked incentives for electronics companies making mobile phones and specified components.",
+    "The Design-Linked Incentive (DLI) Scheme provides financial and infrastructure support to semiconductor design companies for over 5 years.",
+    "The Chips to Startup (C2S) Programme gives academic institutions access to Electronic Design Automation tools, training facilities and design infrastructure.",
+    "The ChipIN Centre at C-DAC was established under the C2S Programme and the DLI Scheme.",
+    "India signed the India-US iCET deal in 2022 to elevate the Indo-US strategic technology partnership.",
+    "India has joined the Pax Silica coalition to strengthen global semiconductor supply-chain resilience."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t08-0",
+   "type": "MCQ",
+   "passage": "Semiconductors have become central to modern life because they power automobiles, hospitals, defence systems, aircraft, telecom networks and a wide range of consumer goods. Modern chips can hold billions of transistors within very small areas, which makes them essential for high-performance computing, artificial intelligence and digital services. Semiconductors sit at the base of the global electronics industry, a very large economic sector. The COVID-19 pandemic showed how risky it is when chip production is concentrated in a few places, and many countries have since tried to build their own capabilities. India's response is a national programme that seeks to build a complete semiconductor ecosystem, covering design, fabrication, packaging, research and skilled manpower. The latest phase of this programme is a far larger policy framework than the original one. Its purpose is to give the sector financial and infrastructure support, so that domestic companies can grow and compete. The government hopes this will make India a dependable partner in the global value chain, in line with the vision of self-reliance and manufacturing for the world. Several areas of the programme are meant to move forward together, so that progress in design, equipment, factories and people keeps pace with one another. This approach turns a broad national goal into a set of concrete steps that can be tracked over time.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which month and year was Semicon India Programme 2.0 approved?",
+     "options": [
+      "January 2026",
+      "July 2026",
+      "December 2021",
+      "September 2025"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What is the enhanced outlay of Semicon India Programme 2.0?",
+     "options": [
+      "Rs 50,000 crore",
+      "Rs 1,00,000 crore",
+      "Rs 1,27,500 crore",
+      "Rs 2,00,000 crore"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "How many semiconductor projects have been approved across 6 States under Programme 2.0?",
+     "options": [
+      "12",
+      "6",
+      "10",
+      "15"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Semicon India Programme 2.0 is intended to support the semiconductor sector only for a short period.\nReason (R): It is a comprehensive, macro-level national policy framework that provides sustained, long-term financial and infrastructure support.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Chips to Startup Programme   ->   A. Support for over 5 years\nII. Design-Linked Incentive Scheme   ->   B. Incentives based on incremental sales\nIII. Production Linked Incentive Scheme   ->   C. Established at C-DAC\nIV. ChipIN Centre   ->   D. Access to EDA tools for academic institutions",
+     "options": [
+      "I-B, II-D, III-C, IV-A",
+      "I-D, II-A, III-B, IV-C",
+      "I-B, II-A, III-C, IV-D",
+      "I-D, II-A, III-C, IV-B"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about Semicon India Programme 2.0:\nI. Talent development is one of its six key pillars.\nII. It was launched in 2021 along with the original programme.\nIII. Advanced packaging is one of its six key pillars.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following are among the six key pillars of Semicon India Programme 2.0?\nA. Chip design\nB. Semiconductor equipment and materials\nC. Quantum computing\nD. Talent development",
+     "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "None"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Under which two programmes was the ChipIN Centre at C-DAC established?",
+     "options": [
+      "PLI Scheme and iCET",
+      "Pax Silica and ISM 2.0",
+      "Semicon Programme 1.0 and PLI Scheme",
+      "C2S Programme and DLI Scheme"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t08-1",
+   "type": "TITA",
+   "passage": "India's push into semiconductors uses several kinds of government support rather than a single measure. Some tools are aimed at manufacturing, with financial incentives for companies that set up production within the country and attract large investments. Others are aimed at design, because a country that can design its own chips depends less on imported technology. Academic institutions and start-ups are part of this effort, as they need access to specialised resources, training facilities and design infrastructure. Research bodies are also building their own processors, including designs based on an open instruction architecture, which adds to domestic technical strength. Support for design firms is planned over a long stretch so that they can move from early development to full deployment. Diplomacy plays a role as well. India has signed a strategic technology agreement with a major economy to expand cooperation in research, business and defence industry. It has also joined a coalition of countries that wish to protect the supply of critical minerals, manufacturing capacity and digital infrastructure. Together these steps reflect an attempt to lower dependence on other countries and to become a dependable part of the global chip supply network, which matters greatly in a world where supply disruptions can hurt many industries at once.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did India sign the India-US iCET deal? (year)"
+    },
+    {
+     "n": 2,
+     "q": "Which body is the nodal agency for implementing Semiconductor and Display Ecosystem Schemes? (short form)"
+    },
+    {
+     "n": 3,
+     "q": "For how many years does the Design-Linked Incentive scheme provide support to semiconductor design companies? (in years)"
+    },
+    {
+     "n": 4,
+     "q": "On which basis does the Production Linked Incentive scheme (2020) offer incentives? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "What range of domestic production-linked incentives does the PLI scheme offer to mobile phone and specified component makers? (in per cent)"
+    },
+    {
+     "n": 6,
+     "q": "The Chips to Startup programme gives academic institutions access to which kind of design tools? (acronym)"
+    },
+    {
+     "n": 7,
+     "q": "At which institution was the ChipIN Centre established? (short name)"
+    }
+   ]
+  }
+ ]
+}

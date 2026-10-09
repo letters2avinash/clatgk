@@ -1,0 +1,190 @@
+{
+ "topic": "NPCI Introduces MDR on UPI Transactions",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "MDR framework and rates",
+   "summary": "NPCI has introduced a Merchant Discount Rate (MDR) framework for eligible person-to-merchant (P2M) UPI transactions, effective from 15 October 2026. The main rate is 0.4 per cent of value for the mid-value slab. The zero-MDR policy introduced in 2020 had exempted merchants from paying any fee for UPI and RuPay transactions.",
+   "facts": [
+    "Framework covers eligible P2M UPI transactions above ₹2,000",
+    "New framework comes into effect from 15 October 2026",
+    "MDR of 0.40% of value applies to the mid-value slab",
+    "High-value transactions of ₹75,000 and above are capped at ₹300 per transaction",
+    "Zero-MDR policy for UPI and RuPay was introduced in 2020",
+    "Zero-MDR policy aimed to encourage digital adoption among small businesses and informal sectors",
+    "MDR is a fee for processing a digital payment, borne by the merchant"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Exemptions, caps and special categories",
+   "summary": "Several categories of UPI payments are exempt from MDR, including person-to-person (P2P) transactions and P2M payments up to ₹2,000. Small merchants receiving up to ₹1 lakh per month through UPI QR codes under the P2PM category also remain exempt. Sector-specific payments and capital-market payments follow separate charging structures.",
+   "facts": [
+    "P2P UPI transactions are not subject to MDR",
+    "P2M UPI payments up to ₹2,000 are exempt, including through RuPay debit cards",
+    "Transactions involving small vendors are exempt",
+    "Small merchants receiving up to ₹1 lakh per month via UPI QR codes (P2PM) remain exempt",
+    "Railways, telecom, insurance, fuel and agricultural inputs pay a flat MDR of ₹5 per transaction above ₹2,000",
+    "Mutual funds, securities, stock brokers and stock dealers attract a reduced MDR of 0.02%",
+    "Capital-market payments are subject to a ₹300 cap",
+    "Lower capital-market rate is intended to encourage digital payments in formal financial markets"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Why MDR was introduced",
+   "summary": "The booklet lists several reasons for the MDR framework, centred on the financial sustainability of UPI. Revenue from the framework can fund infrastructure, cybersecurity and innovation. The framework also keeps P2P and low-value merchant payments free to protect consumers.",
+   "facts": [
+    "UPI requires continuous investment in payment infrastructure and technology",
+    "Growing digital payments need stronger systems to prevent fraud and cyber threats",
+    "A revenue mechanism can support continued operation and expansion of UPI",
+    "Revenue can support technological improvements and new payment solutions",
+    "Framework keeps P2P payments and low-value merchant payments free",
+    "Eligible small merchants continue to receive zero-MDR benefits",
+    "A self-funded payment ecosystem can reduce dependence on continued public funding",
+    "Small merchants and ordinary users need protection from additional costs"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "MDR, UPI and NPCI basics",
+   "summary": "MDR is a fee charged on digital payment transactions and borne by the merchant, and it is not a tax collected by the government. UPI is a real-time, 24/7 payment system that is accepted in 11 countries. NPCI was established in 2008 as a Section 8 company under the Companies Act 2013.",
+   "facts": [
+    "MDR is distributed among banks, payment service providers and other relevant participants",
+    "MDR is not a tax collected by the government",
+    "MDR revenue remains within the payment ecosystem",
+    "UPI is a real-time, 24/7, instant and interoperable payment system",
+    "UPI is the world's largest retail fast payment system by transaction volume",
+    "UPI is accepted in 11 countries, including Greece, Singapore, France and Qatar",
+    "NPCI was established in 2008 as a Section 8 company under the Companies Act 2013",
+    "NPCI was set up as an initiative of the RBI and the Indian Banks' Association",
+    "NPCI's major payment systems are UPI, RuPay, IMPS and FASTag",
+    "NPCI's headquarters is in Mumbai, Maharashtra"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t09-0",
+   "type": "MCQ",
+   "passage": "The Unified Payments Interface has grown into a large digital payment network that handles billions of transactions every month. Running such a network requires continuous spending on technology, cybersecurity, fraud prevention, server capacity and customer support. Until now, merchants have not paid any fee for UPI and RuPay transactions, which helped small businesses and informal sectors adopt digital payments. As the network expands, however, planners must decide how its upkeep should be funded. The answer proposed in the new framework is a fee on certain merchant payments, while everyday low-value transactions remain free. Officials have stressed that small merchants and ordinary users should not face additional costs. The fee is therefore aimed at larger merchant payments rather than at the many small transactions that make up daily life. Such a structure lets the payment ecosystem generate revenue that supports its own operation. Policymakers have sought a balance between funding the network and protecting the people who use it every day. UPI works in real time and around the clock, connecting individuals and merchants across banks. Its wide use has made it an important part of commerce, from neighbourhood shops to large retailers. Because so many people rely on it, any change to how the network is priced affects a very large number of users and businesses.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "From which date does the new MDR framework on UPI transactions come into effect?",
+     "options": [
+      "1 April 2026",
+      "15 October 2026",
+      "1 January 2027",
+      "15 August 2026"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What MDR rate applies to eligible merchant UPI transactions in the mid-value slab?",
+     "options": [
+      "0.02%",
+      "1%",
+      "0.4%",
+      "2%"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "In which year was the zero-MDR policy for UPI and RuPay transactions introduced?",
+     "options": [
+      "2020",
+      "2016",
+      "2018",
+      "2022"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Payments involving mutual funds and securities attract a reduced MDR because such payments carry higher risk for banks.\nReason (R): The lower rate is intended to encourage greater use of digital payments in formal financial markets.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Mutual funds, securities, stock brokers and stock dealers   ->   A. MDR capped at ₹300 per transaction\nII. Transactions of ₹75,000 and above   ->   B. Exempt from MDR\nIII. Railways, telecom, insurance, fuel, agricultural inputs (above ₹2,000)   ->   C. Reduced MDR of 0.02%\nIV. Person-to-person (P2P) UPI transactions   ->   D. Flat MDR of ₹5 per transaction",
+     "options": [
+      "I-D, II-C, III-A, IV-B",
+      "I-C, II-A, III-D, IV-B",
+      "I-B, II-A, III-C, IV-D",
+      "I-A, II-B, III-C, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the new MDR framework:\nI. The framework applies to eligible P2M UPI transactions above ₹2,000.\nII. Small merchants receiving up to ₹1 lakh per month through UPI QR codes under the P2PM category remain exempt from MDR.\nIII. MDR is a tax collected by the government, and its revenue goes to the RBI.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about NPCI:\nI. NPCI is an umbrella organisation for operating and developing retail payment and settlement systems in India.\nII. NPCI is a Section 8 company under the Companies Act 2013.\nIII. NPCI's headquarters is in Jaipur.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "In which city is the headquarters of the National Payments Corporation of India located?",
+     "options": [
+      "Jaipur",
+      "New Delhi",
+      "Bengaluru",
+      "Mumbai"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t09-1",
+   "type": "TITA",
+   "passage": "Digital payments work best when small transactions stay cheap for everyone who uses them. Households send money to one another every day, and shopkeepers in local markets often accept payments through a QR code displayed at the counter. Many of these businesses operate on thin margins, so an extra charge on each small sale can matter a great deal. Policymakers have therefore tried to protect the smallest users while still asking larger participants to share the cost of running the network. The new approach separates payments into groups. Some payments remain free regardless of who sends or receives them, while others attract a charge only when they are large. Certain sectors that provide essential services are placed in a separate group, where a fixed charge per transaction applies rather than a percentage. Investments routed through mutual funds and securities are charged at a lower rate, because that rate is meant to encourage greater use of digital payments in formal financial markets. Several upper limits also protect users. A single ceiling prevents very large payments from carrying an unlimited fee, and small merchants who earn only modest amounts through QR codes each month are exempt from the charge altogether. Together, these rules aim to keep ordinary digital payments affordable while the payment infrastructure keeps growing.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which type of UPI payment between two individuals is exempt from MDR? Give the standard abbreviation."
+    },
+    {
+     "n": 2,
+     "q": "Up to what amount, in rupees, are P2M UPI payments exempt from MDR, including through RuPay debit cards?"
+    },
+    {
+     "n": 3,
+     "q": "What monthly receipt limit, in lakh rupees, keeps small merchants under the P2PM UPI QR category exempt from MDR?"
+    },
+    {
+     "n": 4,
+     "q": "What flat MDR, in rupees per transaction, applies to the sector-specific category for payments above ₹2,000?"
+    },
+    {
+     "n": 5,
+     "q": "What is the maximum MDR, in rupees per transaction, for transactions of ₹75,000 and above?"
+    },
+    {
+     "n": 6,
+     "q": "What reduced MDR, in per cent, applies to payments involving mutual funds, securities, stock brokers and stock dealers?"
+    },
+    {
+     "n": 7,
+     "q": "What is the name of the category that contains mutual funds and securities in the MDR table? Give two words."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "topic": "EOS-05: India's 1st Dedicated GEO Satellite",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "EOS-05 (GISAT-1A) and the GSLV-F17 launch",
+   "summary": "ISRO launched Earth Observation Satellite-05 (EOS-05), also called GISAT-1A, aboard GSLV-F17 from the Satish Dhawan Space Centre, Sriharikota. The booklet calls it India's first dedicated imaging satellite, designed to operate from a sub-geosynchronous orbit about 35,786 km above Earth. The launch was the 19th operational flight of GSLV and was described as validating India's cryogenic upper-stage technology for future human spaceflight.",
+   "facts": [
+    "Launch vehicle: GSLV-F17, marked as the 19th operational flight of GSLV",
+    "Launch site: Satish Dhawan Space Centre, Sriharikota",
+    "EOS-05 is India's first dedicated imaging satellite for sub-geosynchronous operations",
+    "Mass of EOS-05: approx 2,367 kg",
+    "Heaviest payload successfully injected into orbit by a GSLV",
+    "GSLV three stages: solid core first stage with 4 liquid strap-on boosters",
+    "GSLV second stage: liquid propellant",
+    "GSLV third stage: cryogenic",
+    "Nickname of EOS-05: 'Eye in the Sky'",
+    "EOS-05 carries optical and infrared imaging payloads"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Satellite orbits: LEO, MEO and GEO",
+   "summary": "An orbit is the curved path a satellite follows around Earth under gravity, and the choice of orbit shapes coverage, resolution, revisit time, delay and fuel need. LEO lies about 160-2,000 km up and offers low latency and high-resolution observation. MEO spans about 2,000-35,786 km and hosts navigation systems, while GEO is a special case of geosynchronous orbit at about 35,786 km.",
+   "facts": [
+    "Orbit: curved path followed by a satellite around Earth under gravity",
+    "Orbit choice determines coverage, image resolution, revisit time, delay, fuel and mission",
+    "LEO altitude: approx 160-2,000 km; orbital period about 90-120 minutes",
+    "LEO features: low communication latency, suited to large constellations",
+    "Sun-synchronous orbit: LEO subtype giving relatively consistent solar illumination",
+    "Very Low Earth Orbit: very high-resolution observation but greater atmospheric drag",
+    "MEO altitude: approx 2,000 km to 35,786 km",
+    "MEO use: navigation systems such as GPS and Europe's Galileo",
+    "Geosynchronous orbit period equals Earth's rotation (23 hrs, 56 mins, 4 secs)",
+    "GEO: zero-degree inclination, directly over the Equator, moving in Earth's rotation direction",
+    "A GEO satellite appears fixed over one point on Earth"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Why GEO imaging matters and its uses",
+   "summary": "A LEO satellite observes a location only when it passes overhead, which leaves intervals between observations. A geosynchronous imaging platform can give persistent, wide-area monitoring, useful for fast events such as cyclones, cloudbursts, flash floods and forest fires. The booklet lists EOS-05 applications under disaster management, strategic and national security, and agriculture and environment.",
+   "facts": [
+    "LEO satellite sees a particular location only when it passes overhead",
+    "Geosynchronous platform provides persistent and wide-area monitoring",
+    "Useful for tracking cyclones, cloudbursts, flash floods and forest fires",
+    "Frequent observations support weather monitoring, disaster management, early warning and emergency response",
+    "Disaster management: near real-time monitoring of cyclones, floods and cloudbursts",
+    "Strategic security: continuous surveillance of land borders and maritime domain",
+    "Agriculture and environment: monitoring forest fires, vegetation health and crop cycles",
+    "Optical sensors cannot penetrate thick clouds",
+    "High altitude limits sub-meter spatial resolution",
+    "Crop insurance claims streamlined by replacing manual experiments with objective satellite indices"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "NISAR: NASA-ISRO radar satellite",
+   "summary": "NISAR (NASA-ISRO Synthetic Aperture Radar) is described as the first joint Earth-observation satellite of NASA and ISRO. As a radar satellite it uses microwave pulses to capture sharp images in darkness and through clouds, unlike cameras that rely on visible light. Its data supports study of solid Earth processes, natural hazards, biomass and crop health.",
+   "facts": [
+    "First joint Earth-observation satellite by NASA and ISRO",
+    "Uses microwave pulses, so it works in darkness and through clouds",
+    "World's first radar satellite using dual S- and L-band frequencies",
+    "Designed for a 3-year mission life",
+    "Orbit: 747 km, Sun-Synchronous (Low Earth) Orbit with a 12-day repeat cycle",
+    "Radar side developed by NASA's Jet Propulsion Laboratory (JPL)",
+    "Sweep SAR captures wide 3D high-resolution images over a 242 km swath",
+    "Large 12-metre antenna for receiving signals",
+    "Detects minute ground shifts for tectonic and structural analysis",
+    "Tracks biomass, deforestation, crop health and soil moisture; assesses earthquakes, floods, landslides and volcanoes"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t15-0",
+   "type": "MCQ",
+   "passage": "Earth observation satellites help governments see what is happening on the ground without sending anyone to the site. Their usefulness depends on where they are placed in space, the rocket that lifts them and the sensors they carry. ISRO has added a new satellite to this list, known in the booklet as EOS-05 and also called GISAT-1A. The satellite was lifted into space by an indigenous heavy-lift rocket from an Indian launch centre, and the mission is treated as a test of the country's launch capability. The spacecraft is described as an advanced Earth observation satellite meant for continuous and high-frequency imagery. Such imagery supports disaster response, border watch and farm monitoring. As the booklet notes, the choice of orbit determines geographical coverage, image resolution, revisit time and the mission application. The same imagery can help plan emergency responses and track weather events. Officials and planners see the mission as part of India's effort to build an indigenous heavy-lift launch capability. The sections that follow describe the satellite, the orbit it uses and the other missions that share its theme. Students preparing for competitive examinations should note that such questions usually test the specific numbers, stages and names attached to a mission, since these details are easy to confuse.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which launch vehicle carried EOS-05 into orbit?",
+     "options": [
+      "PSLV-C60",
+      "GSLV-F17",
+      "LVM3-M4",
+      "SSLV-D3"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What is the approximate mass of EOS-05?",
+     "options": [
+      "1,200 kg",
+      "3,500 kg",
+      "4,000 kg",
+      "2,367 kg"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Assertion (A): EOS-05 can monitor large geographical areas persistently.\nReason (R): It operates from a sub-geosynchronous orbit at about 35,786 km, the altitude of geosynchronous orbit.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. Medium Earth Orbit   ->   A. Appears fixed over one point of Earth\nII. Very Low Earth Orbit   ->   B. Relatively consistent solar illumination\nIII. Geostationary Orbit   ->   C. Very high resolution, greater atmospheric drag\nIV. Sun-Synchronous Orbit   ->   D. Used by GNSS such as GPS and Galileo",
+     "options": [
+      "I-D, II-B, III-C, IV-A",
+      "I-A, II-D, III-B, IV-C",
+      "I-D, II-C, III-A, IV-B",
+      "I-C, II-B, III-A, IV-D"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about the GSLV-F17 launch of EOS-05.\nI. The satellite was launched from the Satish Dhawan Space Centre, Sriharikota.\nII. GSLV-F17 marked the 19th operational flight of the GSLV.\nIII. The third stage of GSLV-F17 is a solid-propellant stage.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements about EOS-05 are correct?\nI. It is designed to carry only radar imaging instruments.\nII. It is designed for operations from a sub-geosynchronous orbit about 35,786 km above Earth.\nIII. It carries optical and infrared imaging payloads.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "What is the nickname of EOS-05?",
+     "options": [
+      "Naughty Boy",
+      "Sky Watcher",
+      "Vayu Netra",
+      "Eye in the Sky"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Why is GEO-based Earth observation useful compared with LEO?",
+     "options": [
+      "It provides persistent, wide-area monitoring instead of intermittent passes",
+      "It offers higher resolution than LEO",
+      "It uses less fuel",
+      "It has lower communication delay"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t15-1",
+   "type": "TITA",
+   "passage": "The NASA-ISRO Synthetic Aperture Radar satellite, called NISAR in short, is a partnership between two space agencies and is described as the first joint Earth-observation satellite of its kind between them. Conventional cameras depend on visible light, but radar works differently. A synthetic aperture radar sends microwave pulses toward the ground and builds images from the returning signals, so it can produce sharp pictures in darkness and through clouds. The satellite is meant to study changes in the solid Earth. Its images help track surface deformation, which is useful for understanding earthquakes, volcanic activity and landslides. The same data can also support monitoring of floods, biomass, deforestation, crop health and soil moisture. The booklet calls its radar technology among the finest synthetic aperture radar systems ever designed. Its large receiving antenna and wide imaging swath make it suitable for mapping large surface areas in three dimensions. Because the satellite can detect minute ground shifts, its data is used for tectonic and structural analysis, and repeated observations of the same areas help show how the ground changes over time.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is NISAR's designed mission life, in years?"
+    },
+    {
+     "n": 2,
+     "q": "At what altitude, in km, does NISAR orbit Earth?"
+    },
+    {
+     "n": 3,
+     "q": "After how many days does NISAR's repeat cycle complete? (in days)"
+    },
+    {
+     "n": 4,
+     "q": "What is the width of NISAR's imaging swath, in km?"
+    },
+    {
+     "n": 5,
+     "q": "How many radar frequency bands does NISAR use? (in number)"
+    },
+    {
+     "n": 6,
+     "q": "Which type of low Earth orbit does NISAR use?"
+    },
+    {
+     "n": 7,
+     "q": "What is the name of NISAR's imaging mode that captures wide 3D high-resolution images?"
+    }
+   ]
+  }
+ ]
+}

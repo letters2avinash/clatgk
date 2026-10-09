@@ -1,0 +1,196 @@
+{
+ "topic": "Map Projections: From Mercator to Equal Earth",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Why flat maps must distort",
+   "summary": "The Earth is an oblate spheroid, so its curved surface cannot be shown on a flat map without distortion. A projection converts the 3D surface into a 2D representation, and no single flat map keeps area, shape, distance and direction exact at once. Conformal, equal-area and equidistant projections each preserve one property, while compromise projections balance distortion across all four.",
+   "facts": [
+    "Earth is an oblate spheroid rather than a perfect sphere.",
+    "The oblate shape is due to Earth's rotation and uneven distribution of mass.",
+    "A projection converts Earth's 3D curved surface into a 2D representation.",
+    "Some degree of distortion is inevitably introduced by any projection.",
+    "The four properties are area, shape, distance and direction.",
+    "Conformal projections preserve angles and local shapes (e.g. Mercator).",
+    "Equal-area projections preserve relative areas (e.g. Equal Earth).",
+    "Equidistant projections preserve distance.",
+    "Compromise projections balance distortions but preserve none of the properties exactly.",
+    "Navigation and direction use conformal projections."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Mercator projection and its distortion",
+   "summary": "The Mercator projection was introduced in 1569 by Gerardus Mercator and was primarily designed to assist maritime navigation. It is a cylindrical and conformal projection, so it keeps local shapes and shows rhumb lines as straight lines. The cost is that landmasses far from the Equator look much larger than they are, and Africa appears similar in size to Greenland.",
+   "facts": [
+    "Introduced in 1569 by Gerardus Mercator, a Flemish geographer and cartographer.",
+    "Type: cylindrical and conformal projection.",
+    "Primarily designed to assist maritime navigation.",
+    "Earth's surface is conceptually projected onto a cylinder around the globe, then unfolded flat.",
+    "Stretching of parallels is matched exactly with stretching of meridians, which preserves shapes.",
+    "Landmasses far from the Equator appear much larger than they are.",
+    "Africa appears similar in size to Greenland, though Greenland is in reality 14 times smaller.",
+    "Rhumb lines appear as straight lines, which makes the projection useful for navigation.",
+    "Does not preserve relative area."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Equal Earth and the Correct the Map resolution",
+   "summary": "Equal Earth is an equal-area, pseudo-cylindrical world projection created in 2018 to show landmass sizes accurately without severe shape distortion. The UN General Assembly adopted a 'Correct the Map' resolution, led by Togo, that promotes equal-area projections to address Mercator distortions. The resolution is not binding, so whether governments and classrooms adopt the new map remains to be seen.",
+   "facts": [
+    "Equal Earth is an equal-area, pseudo-cylindrical world map projection, created in 2018.",
+    "Designed to display the entire globe while preserving relative landmass sizes accurately.",
+    "Avoids the severe, aesthetically jarring shape distortions common in earlier equal-area maps such as Gall-Peters.",
+    "The UN General Assembly adopted the 'Correct the Map' resolution promoting equal-area map projections.",
+    "Togo led the resolution through Foreign Minister Robert Dussey, under the #CorrectTheMap campaign.",
+    "The resolution was supported by 164 countries, including India.",
+    "The United States voted against it and six countries abstained.",
+    "The African Union endorsed it in August 2025 and the Caribbean Community backed it too.",
+    "Correct the Map is run by two advocacy groups, Africa No Filter and Speak Up Africa.",
+    "India backed the resolution while drawing a firm line on depiction of Jammu and Kashmir and Ladakh; UN resolutions are not binding."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Other projections and mapping in India",
+   "summary": "Gall-Peters, first presented in 1855 and popularised in 1973, preserves area but stretches or squashes shapes, while Robinson (1963) and Winkel Tripel (1921) are compromise projections. Winkel Tripel replaced Robinson in National Geographic Society maps in 1998. In India, the Survey of India, established in 1767, verifies international borders on published maps, and the Criminal Law Amendment Act (1961) penalises maps that misrepresent India's borders.",
+   "facts": [
+    "The Gall-Peters projection was first presented by Scottish clergyman James Gall in 1855.",
+    "Arno Peters popularised the Gall-Peters projection in 1973.",
+    "Gall-Peters preserves area accurately but makes landmasses look stretched or squashed.",
+    "The Robinson projection (1963) was devised by Arthur H. Robinson to balance size and shape.",
+    "Robinson is a compromise projection, with meridians curving gently towards the Poles.",
+    "The Winkel Tripel projection (1921) was created by German cartographer Oswald Winkel.",
+    "Winkel Tripel aims to reduce distortion across area, distance and direction.",
+    "In 1998, Winkel Tripel replaced Robinson in National Geographic Society maps, followed by schools, textbooks and the World Bank.",
+    "The Survey of India, established in 1767, verifies international borders on published maps.",
+    "Criminal Law Amendment Act (1961), Section 2, penalises publication and distribution of maps that question India's territorial integrity or misrepresent its borders."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t06-0",
+   "type": "MCQ",
+   "passage": "Every world map is an attempt to show a curved surface on a flat sheet, and that task cannot be done without some loss. The Earth is not a perfect sphere, and its surface is curved in every direction. Cartographers therefore use map projections, which are systematic rules for transferring the globe onto a plane. No single flat map can keep every feature of the globe correct at the same time. Mapmakers must choose which properties to protect, such as the size of landmasses, the shapes of countries, the distances between places, or the directions between them. Some maps are made to guide travellers at sea, while others help students compare the sizes of continents. A projection that works well for one purpose may mislead when used for another. Over time, different projections have been developed, each built around a different choice of property. Readers should therefore check which property a map keeps accurate before drawing conclusions about the world from its outlines. The choice of projection is a practical decision rather than a search for one perfect map. Understanding these trade-offs helps students read maps with care, and this is why many different projections continue to exist side by side in atlases, classrooms and official publications.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which property do equal-area projections preserve?",
+     "options": [
+      "Angles",
+      "Distances",
+      "Relative areas",
+      "Directions"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "How many of the following statements are correct?\nI. The Mercator projection was introduced in 1569.\nII. The Equal Earth projection was created in 1973.\nIII. The Gall-Peters projection was first presented in 1855.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Consider the following statements:\nI. The Mercator projection is a cylindrical and conformal projection.\nII. The Equal Earth projection preserves relative areas.\nIII. The Robinson projection preserves area exactly.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The Mercator projection preserves local shapes.\nReason (R): On the Mercator grid, the stretching of parallels is matched exactly with the stretching of meridians.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Gall-Peters projection   ->   A. Devised to balance size and shape\nII. Robinson projection   ->   B. Created in 1921 by a German cartographer\nIII. Winkel Tripel projection   ->   C. Created in 2018\nIV. Equal Earth projection   ->   D. First presented in 1855",
+     "options": [
+      "I-B, II-A, III-C, IV-D",
+      "I-D, II-B, III-C, IV-A",
+      "I-D, II-A, III-B, IV-C",
+      "I-D, II-C, III-A, IV-B"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Which projection replaced Robinson in National Geographic Society maps in 1998?",
+     "options": [
+      "Mercator",
+      "Gall-Peters",
+      "Equal Earth",
+      "Winkel Tripel"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "The Earth is described as an oblate spheroid rather than a perfect sphere because of:",
+     "options": [
+      "Its orbit around the Sun",
+      "Its rotation and uneven distribution of mass",
+      "Its tilted axis",
+      "Tidal effects of the Moon"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "In which year was the Mercator projection introduced?",
+     "options": [
+      "1855",
+      "1921",
+      "1963",
+      "1569"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t06-1",
+   "type": "TITA",
+   "passage": "A world map has to make choices, and the projection behind it decides which features look accurate. Many wall maps have long used a projection that suits navigation but makes landmasses far from the Equator look larger than they really are. Equal Earth is a newer world projection designed to display the entire globe while keeping the relative sizes of landmasses accurate. It avoids the severe, jarring shape distortions found in earlier equal-area maps. A campaign called Correct the Map has urged the wider use of equal-area projections, and two advocacy groups run it. Regional bodies have endorsed the idea, and the matter was taken up by the United Nations General Assembly. The resolution received wide support, but it also drew opposition and abstentions in the vote. Such a resolution carries political weight, yet it does not have binding force. Schools, publishers and governments are therefore free to decide whether to change the maps they use. Maps shape how people picture the size and position of countries. Choosing a projection is therefore a practical decision that depends on the purpose of the map. Readers should check what a map is designed to show before drawing conclusions from it. Only time will show whether the new map becomes common in classrooms and official documents.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which country led the UN General Assembly 'Correct the Map' resolution? (name the country)"
+    },
+    {
+     "n": 2,
+     "q": "How many countries supported the resolution, including India? (in number)"
+    },
+    {
+     "n": 3,
+     "q": "Which country voted against the resolution? (name the country)"
+    },
+    {
+     "n": 4,
+     "q": "How many countries abstained from the vote on the resolution? (in number)"
+    },
+    {
+     "n": 5,
+     "q": "Which regional organisation endorsed the Correct the Map campaign in August 2025? (give the name)"
+    },
+    {
+     "n": 6,
+     "q": "In which year was the Equal Earth projection created? (in year)"
+    },
+    {
+     "n": 7,
+     "q": "Which Togolese Foreign Minister is associated with the resolution? (give the full name)"
+    }
+   ]
+  }
+ ]
+}
