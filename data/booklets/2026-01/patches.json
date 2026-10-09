@@ -1,0 +1,108 @@
+{
+ "passage_fixes": [
+  {
+   "quiz": "t-t02-1",
+   "old": "Outside powers are also investing in Arctic research and infrastructure",
+   "new": "China is also investing in Arctic research and infrastructure"
+  },
+  {
+   "quiz": "t-t06-1",
+   "old": "Gallantry awards are given for acts of bravery and service",
+   "new": "Gallantry awards are given for acts of bravery"
+  },
+  {
+   "quiz": "t-t11-1",
+   "old": "the right to exploit the living and non-living resources of the water and the seabed",
+   "new": "the right to exploit all economic resources"
+  },
+  {
+   "quiz": "q-t13-0",
+   "old": "Every national sports body must also have a general body and an executive committee, and both must include sportspersons and women.",
+   "new": "Every national sports body must also have a general body and an executive committee; the general body must include sportspersons and the executive committee must include women."
+  },
+  {
+   "quiz": "t-t13-1",
+   "old": "The Indian Olympic Association is the body that leads Olympic sport in the country.",
+   "new": "The National Olympic Committee is the sole governing body for Olympic sports in India."
+  }
+ ],
+ "fact_fixes": [
+  {
+   "old": "the parade theme is 150 Years of Vande Mataram.",
+   "new": "the theme is 150 Years of Vande Mataram.",
+   "page": 38
+  },
+  {
+   "old": "Official end of the One-Child Policy in 2016 with the Two-Child Policy.",
+   "new": "",
+   "page": 62
+  },
+  {
+   "old": " (officially from 2016)",
+   "new": "",
+   "page": 61
+  },
+  {
+   "old": "require every national sports body to have a General Body and an Executive Committee with sportspersons and women included.",
+   "new": "require every national sports body to have a General Body and an Executive Committee; the General Body must include sportspersons, and the Executive Committee at least 4 women.",
+   "page": 77
+  },
+  {
+   "old": "India is a key Uniting for Consensus opponent of Germany's bid.",
+   "new": "Italy and Spain are opposed to Germany's bid, and Pakistan to India's bid.",
+   "page": 81
+  }
+ ],
+ "replacements": [
+  {
+   "quiz": "t-t01-1",
+   "n": 6,
+   "question": {
+    "q": "In which year was the Monroe Doctrine proclaimed? (year)",
+    "answer": "1823",
+    "accept": [
+     "1823 CE"
+    ],
+    "explanation": "The booklet gives the Monroe Doctrine as proclaimed in 1823."
+   },
+   "evidence": {
+    "page": 8,
+    "quote": "Proclaimed: 1823"
+   }
+  },
+  {
+   "quiz": "t-t08-1",
+   "n": 3,
+   "question": {
+    "q": "On which date is National Startup Day observed? (day and month)",
+    "answer": "16 January",
+    "accept": [
+     "16 Jan",
+     "January 16",
+     "16th January"
+    ],
+    "explanation": "The booklet says National Startup Day is observed on 16 January, the date the Startup India Initiative was launched."
+   },
+   "evidence": {
+    "page": 48,
+    "quote": "as National Startup Day (16 Jan)"
+   }
+  },
+  {
+   "quiz": "t-t11-1",
+   "n": 5,
+   "question": {
+    "q": "How many countries have ratified the UN High Seas Treaty (BBNJ Agreement)? (number)",
+    "answer": "83",
+    "accept": [
+     "83 countries"
+    ],
+    "explanation": "The booklet states that the BBNJ Agreement has been ratified by 83 countries; India's ratification is pending."
+   },
+   "evidence": {
+    "page": 66,
+    "quote": "Ratified By: 83 Countries"
+   }
+  }
+ ]
+}
