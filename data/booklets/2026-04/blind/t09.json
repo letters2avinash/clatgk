@@ -1,0 +1,194 @@
+{
+ "topic": "WTO Ministerial Conference 14 (MC14)",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "MC14 Deadlock and WTO Basics",
+   "summary": "The 14th WTO Ministerial Conference, held in Yaoundé (Cameroon), ended without consensus, reflecting a deep North-South divide. Pending issues were deferred to the WTO General Council meeting in Geneva. The WTO was established on 1 January 1995, and its Ministerial Conference is its highest decision-making body.",
+   "facts": [
+    "MC14 was held in Yaoundé, Cameroon.",
+    "MC14 ended without consensus over the e-Commerce moratorium, agriculture and transparency norms.",
+    "The deadlock reflects a deep North-South divide.",
+    "Pending issues were deferred to the WTO General Council meeting in Geneva.",
+    "The WTO was established on 1 January 1995 under the 1994 Marrakesh Agreement.",
+    "The WTO is the successor to the General Agreement on Tariffs and Trade of 1948.",
+    "The Ministerial Conference is the WTO's highest decision-making body.",
+    "The Ministerial Conference meets at least once every two years.",
+    "The 13th Ministerial Conference was held in Abu Dhabi in 2024."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "E-Commerce Moratorium and Digital Trade",
+   "summary": "The WTO moratorium on customs duties on electronic transmissions, in place since 1998, expired at MC14 for lack of consensus. Members are therefore theoretically free to impose taxes on digital goods and services. Meanwhile, a coalition of 66 members advanced talks on a plurilateral e-commerce agreement focused on data flows, digital transactions and consumer protection.",
+   "facts": [
+    "The moratorium on customs duties on electronic transmissions has been in place since 1998.",
+    "The moratorium expired at MC14 due to lack of consensus.",
+    "Members cannot impose tariffs on electronic transmissions under the 1998 arrangement.",
+    "With the lapse, members are theoretically free to tax digital goods and services.",
+    "The moratorium covers software, music, films and digital services.",
+    "A coalition of 66 WTO members advanced negotiations on a plurilateral e-commerce agreement.",
+    "Focus areas of the plurilateral e-commerce agreement are data flows, digital transactions and consumer protection.",
+    "MC14 agenda included a decision on continuation of the moratorium on customs duties."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Agriculture, Fisheries and Dispute Settlement",
+   "summary": "Several MC14 agendas remained contested. Dispute settlement reform seeks to restore a two-tier binding system, because the Appellate Body has been non-functional since 2019. Agriculture talks seek a permanent solution on public stockholding for food security, while fisheries talks target bans on harmful subsidies.",
+   "facts": [
+    "Dispute settlement reform aims to restore a two-tier binding dispute system.",
+    "The Appellate Body has been non-functional since 2019.",
+    "Agriculture talks seek a permanent solution for public stockholding for food security.",
+    "The agriculture agenda also seeks to reduce trade-distorting subsidies and improve market access.",
+    "Market access is crucial for developing countries like India.",
+    "Developed countries remain reluctant to expand PSH flexibilities.",
+    "Fisheries talks aim to ban harmful subsidies causing overcapacity and overfishing.",
+    "Members agreed to continue negotiations on curbing subsidies for distant-water fishing fleets.",
+    "LDC graduation support includes transition mechanisms for trade benefits.",
+    "The future roadmap aims to finalise outcomes by MC15."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Investment Facilitation for Development (IFD)",
+   "summary": "The IFD Agreement is a plurilateral pact, binding only on its signatories, that aims to make investment procedures transparent, efficient and predictable. It was launched under a Joint Statement Initiative at MC11 in Buenos Aires in 2017 and finalised in 2023. India opposed bringing it into the WTO's multilateral framework, citing mandate, consensus, policy space and geopolitical concerns.",
+   "facts": [
+    "The IFD Agreement is a plurilateral agreement, binding only on signatories.",
+    "It was launched under a Joint Statement Initiative at MC11, Buenos Aires, in 2017.",
+    "It was finalised in 2023.",
+    "The IFD Agreement is based on the Most-Favoured-Nation principle.",
+    "Its objective is to make investment procedures transparent, efficient and predictable.",
+    "It covers investment facilitation: procedures, approvals and transparency.",
+    "It excludes market access, investment protection, government procurement and investor-state dispute settlement.",
+    "Its firewall clause prevents IFD rules from overriding Bilateral Investment Treaties.",
+    "Its appeal mechanism requires independent tribunals for dispute review.",
+    "India's concerns: investment is not strictly a trade subject, JSIs seem to bypass consensus, binding rules may limit FDI regulation, and geopolitical concerns."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t09-0",
+   "type": "MCQ",
+   "passage": "The fourteenth Ministerial Conference of the World Trade Organization, known as MC14, was held in Yaoundé, Cameroon. The meeting ended without consensus, leaving several contentious issues unresolved. Members were divided over the moratorium on customs duties on electronic transmissions, over agriculture and transparency norms, and over the wider direction of trade rules. Observers described the deadlock as a reflection of a deep North-South divide. Because no agreement was reached, the pending issues were passed on to the WTO General Council, which meets in Geneva. The WTO is an intergovernmental organisation that manages and encourages international trade. It succeeded the General Agreement on Tariffs and Trade and was built on the results of the Uruguay Round negotiations. Its member countries work through several bodies, which share the work of running the organisation and handling trade disputes. Trade ministers and senior officials attend its main gatherings, and the organisation maintains strong relations with the United Nations. Trade disputes form a major part of the WTO's work, and the system for resolving them has been under strain. Members have been debating how to restore a binding system with two tiers. They have also discussed a permanent solution for public stockholding for food security, a demand that India and African nations have repeatedly raised. Fisheries subsidies and support for countries losing Least Developed Country status were also on the agenda.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How often does the WTO Ministerial Conference meet, at minimum?",
+     "options": [
+      "Once every year",
+      "Once every two years",
+      "Once every three years",
+      "Once every five years"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Where was the last Ministerial Conference before MC14 held?",
+     "options": [
+      "Abu Dhabi",
+      "Nairobi",
+      "Buenos Aires",
+      "Geneva"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Under which agreement was the WTO established?",
+     "options": [
+      "Tokyo Round Agreement",
+      "Bali Package",
+      "Marrakesh Agreement",
+      "Doha Declaration"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The firewall clause of the IFD Agreement stops its rules from overriding Bilateral Investment Treaties.\nReason (R): The IFD Agreement excludes investor-state dispute settlement from its coverage.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Ministerial Conference   ->   A. Establishes dispute settlement panels and acts on their recommendations\nII. Dispute Settlement Body   ->   B. Provides administrative and technical support and manages the WTO budget\nIII. Secretariat   ->   C. Non-functional since 2019\nIV. Appellate Body   ->   D. Highest decision-making body of the WTO",
+     "options": [
+      "I-B, II-A, III-C, IV-D",
+      "I-D, II-A, III-C, IV-B",
+      "I-B, II-D, III-C, IV-A",
+      "I-D, II-A, III-B, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "I. The e-Commerce Moratorium on customs duties on electronic transmissions has been in place since 1998 and expired at MC14.\nII. The Appellate Body has been non-functional since 2019.\nIII. The Investment Facilitation for Development Agreement was launched at MC13 in Abu Dhabi.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I, II and III",
+      "I and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "I. It is a plurilateral agreement binding only on its signatories.\nII. It is based on the Most-Favoured-Nation principle.\nIII. It excludes investor-state dispute settlement.\nIV. It covers market access.\nHow many of the above statements about the IFD Agreement are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "The safeguard against which type of complaints lapsed alongside the e-Commerce Moratorium?",
+     "options": [
+      "Non-violation complaints under TRIPS",
+      "Anti-dumping complaints under GATT",
+      "Currency manipulation complaints",
+      "Climate-related trade complaints"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t09-1",
+   "type": "TITA",
+   "passage": "Digital trade became one of the most debated areas at the recent WTO Ministerial Conference. For a long time, members had kept a standing commitment that stopped them from taxing electronic transmissions. That commitment ended at the conference because members could not agree to renew it, so the question of taxing digital goods and services is now open. Members remain divided over whether the arrangement should return in some form. The outcome also reflected a deep North-South divide among members on several issues. Some members have chosen a different route. A group of members has advanced talks on a plurilateral agreement on electronic commerce, which would bind only those members who sign it. The proposed agreement focuses on areas such as data flows, digital transactions and consumer protection. These talks have moved forward even though the moratorium itself was not renewed. Digital goods and services cover a broad range of activities. Software, music, films and digital services all fall within the moratorium's coverage. The Appellate Body, which reviews decisions made by dispute panels, has also been part of the wider debate about how the WTO resolves disputes. Dispute settlement reform is one of the agenda items that members could not conclude at the conference.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the standing moratorium on customs duties on electronic transmissions first put in place? (year)"
+    },
+    {
+     "n": 2,
+     "q": "How many WTO members were in the coalition advancing talks on the plurilateral e-Commerce agreement? (number)"
+    },
+    {
+     "n": 3,
+     "q": "Which agreement's safeguard against non-violation complaints lapsed at MC14? (one word, acronym)"
+    },
+    {
+     "n": 4,
+     "q": "In which city is the WTO General Council meeting that received MC14's deferred issues? (city)"
+    },
+    {
+     "n": 5,
+     "q": "By which Ministerial Conference does the WTO aim to finalise its pending outcomes? (answer as MC number, e.g. MC12)"
+    },
+    {
+     "n": 6,
+     "q": "In which year was the Investment Facilitation for Development Agreement finalised? (year)"
+    },
+    {
+     "n": 7,
+     "q": "In which year did the Appellate Body become non-functional? (year)"
+    }
+   ]
+  }
+ ]
+}

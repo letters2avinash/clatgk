@@ -1,0 +1,195 @@
+{
+ "topic": "World Air Quality Report 2025",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "IQAir report 2025: scope and compliance",
+   "summary": "The 8th World Air Quality Report 2025 was released by Swiss IQAir, which assesses air quality using PM2.5 concentrations. IQAir's coverage grew from 134 countries in 2023 to 143 countries and 9,446 cities in 2025. Only 14% of cities met the WHO PM2.5 annual guideline in 2025, down from 17% in 2024.",
+   "facts": [
+    "Report: 8th World Air Quality Report 2025, by Swiss IQAir",
+    "IQAir assessments are based on PM2.5 (fine particulate matter) concentrations",
+    "Coverage: 134 countries in 2023, then 143 countries and 9,446 cities in 2025",
+    "Only 14% of cities complied with the WHO PM2.5 annual guideline in 2025",
+    "City compliance share declined from 17% in 2024",
+    "Only 13 countries/territories met the WHO PM2.5 guidelines",
+    "130 of 143 countries and territories failed to meet safe air quality standards",
+    "Nieuwoudtville (South Africa) recorded as World's Cleanest City, PM2.5 level 1.0 µg/m³",
+    "IQAir is a Swiss air quality technology company founded in 1963, HQ in Goldach, Switzerland"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Most polluted countries, cities and regions",
+   "summary": "Pakistan was the most polluted country in 2025, with PM2.5 levels over 13 times the WHO limit. Loni in Uttar Pradesh was the most polluted city, about 22 times above WHO guidelines. Five of the world's ten most polluted cities are in India, and Central and South Asia remain the most polluted regions globally.",
+   "facts": [
+    "Most polluted country in 2025: Pakistan, PM2.5 at 67.3 µg/m³",
+    "Pakistan's PM2.5 level is over 13 times the WHO limit",
+    "Pakistan was followed by Bangladesh, Tajikistan, Chad and Democratic Republic of Congo",
+    "Most polluted city: Loni, Uttar Pradesh, about 22 times WHO guidelines",
+    "5 of the world's 10 most polluted cities are in India: Loni, Byrnihat, Delhi, Ghaziabad, Ula",
+    "India ranked 6th most polluted country in 2025 (5th in 2024)",
+    "New Delhi is the world's most polluted capital for 8 consecutive years",
+    "India accounted for 74 of the world's 100 most polluted cities in 2024",
+    "Central and South Asia remain the most polluted regions globally"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "National framework and monitoring tools in India",
+   "summary": "India's National Air Quality Index, launched in 2014, explains pollution in simple categories. The Graded Response Action Plan is an emergency measure that applies only when air quality shifts from Poor to Very Poor, and the Supreme Court approved it in 2016. The National Clean Air Programme, launched in 2019, targets a 40% cut in average particulate matter by 2026 in 131 cities.",
+   "facts": [
+    "National Air Quality Index (2014) communicates air quality in easy terms; launched by Central Pollution Control Board (CPCB)",
+    "AQI categories: Good, Satisfactory, Moderate, Poor, Very Poor, Severe",
+    "GRAP (2017): emergency measures that kick in only when air quality shifts from Poor to Very Poor",
+    "GRAP was submitted by CPCB and approved by the Supreme Court in 2016 (MC Mehta vs Union of India)",
+    "GRAP is implemented by the Commission for Air Quality Management",
+    "National Clean Air Programme launched in 2019 by the Ministry of Environment, Forests and Climate Change",
+    "NCAP goal: 40% reduction in average particulate matter concentrations by 2026 in 131 cities",
+    "The 131 non-attainment cities under NCAP were identified by CPCB",
+    "PRANA portal launched to track NCAP progress and regulate air pollution in non-attainment cities",
+    "SAFAR is a Ministry of Earth Sciences initiative for city-wide and localised air quality monitoring"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Vehicle, fuel, farm and legal measures",
+   "summary": "Vehicle norms, clean-fuel schemes and farm tools target different sources of pollution. Bharat Stage VI became mandatory nationwide in 2020, while FAME promotes electric and hybrid vehicles. Legal protection includes the Fundamental Duty in Article 51A(g), added in 1976, and the reading of Article 21 to cover a healthy environment.",
+   "facts": [
+    "Bharat Stage VI (2020): mandatory leap from BS-IV to BS-VI, implemented nationwide",
+    "FAME scheme promotes adoption of electric and hybrid vehicles",
+    "Pradhan Mantri Ujjwala Yojana provides LPG as clean cooking fuel, reducing biomass-based cooking",
+    "SATAT initiative promotes compressed bio-gas to manage agricultural waste",
+    "GRIHA encourages sustainable, eco-friendly practices in building construction and operation",
+    "Turbo Happy Seeder uproots stubble and sows seeds in the cleared area",
+    "Pusa Bio-Decomposer turns crop residue into manure in 15-20 days; developed by Indian Agricultural Research Institute",
+    "42nd Amendment (1976) inserted Clause (g) in Article 51A: protecting and improving the natural environment is a Fundamental Duty",
+    "Article 21 interpreted to include the right to a healthy environment",
+    "Air (Prevention and Control of Pollution) Act, 1981; Water (Prevention and Control of Pollution) Act, 1974; Environment Protection Act, 1986"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t10-0",
+   "type": "MCQ",
+   "passage": "Air quality around the world is often measured by the concentration of fine particulate matter, known as PM2.5, because these tiny particles can travel deep into the lungs. Health agencies set a guideline for the annual average level of these particles, and a global assessment checks how many places meet it. The assessment discussed here is prepared by a technology company that measures air quality and reports the results. Its coverage has grown over time, and the latest edition includes far more countries and cities than the earlier one did. Every reading is compared against the same guideline, so results from very different places can be placed side by side on one scale. Wider coverage matters because a place without monitors can look clean on paper while its residents breathe polluted air, and an honest comparison needs data from many locations. The findings are sobering. Only a small share of cities met the annual guideline in the latest year, and that share fell from the previous year. Most of the countries and territories assessed did not meet safe air quality standards. Only a handful of places met the guideline, and at least one city recorded very low particle levels, which shows that clean air is still possible.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Assertion (A): Pakistan was the most polluted country in 2025.\nReason (R): Its PM2.5 level in 2025 was below the WHO annual guideline.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Consider the following statements about India in the World Air Quality Report 2025:\nI. India was ranked the 6th most polluted country in 2025.\nII. India's ranking improved from 5th in 2024.\nIII. India accounted for 50 of the world's 100 most polluted cities in 2024.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which city was recorded as the World's Cleanest City in the 2025 report?",
+     "options": [
+      "Helsinki, Finland",
+      "Reykjavik, Iceland",
+      "Canberra, Australia",
+      "Nieuwoudtville, South Africa"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. World's cleanest city   ->   A. Pakistan\nII. Most polluted country   ->   B. New Delhi\nIII. Most polluted city   ->   C. Nieuwoudtville (South Africa)\nIV. World's most polluted capital   ->   D. Loni, Uttar Pradesh",
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-C, III-A, IV-B",
+      "I-B, II-A, III-C, IV-D"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "In which year was IQAir, the organisation behind the report, founded?",
+     "options": [
+      "1963",
+      "1958",
+      "1971",
+      "1985"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Which edition of the World Air Quality Report was released in 2025?",
+     "options": [
+      "6th Edition",
+      "7th Edition",
+      "8th Edition",
+      "9th Edition"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about the World Air Quality Report 2025:\nI. 130 of 143 countries and territories failed to meet safe air quality standards.\nII. Central and South Asia remain the most polluted regions globally.\nIII. Five of the world's ten most polluted cities are located in Pakistan.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "II and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Approximately how many times higher than WHO guidelines was PM2.5 in Loni, the most polluted city?",
+     "options": [
+      "22 times",
+      "10 times",
+      "15 times",
+      "30 times"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t10-1",
+   "type": "TITA",
+   "passage": "India manages air pollution through several tools that work at different stages. The first is a public information tool, a national index that converts complex pollution readings into simple categories from good to severe, so that citizens can understand the air they breathe. The second is an emergency framework. Its measures are triggered only when air quality worsens from one stage to a more dangerous one, and their purpose is to prevent further deterioration. The Supreme Court approved this emergency framework in a case concerning the environment. The third is a long-term national programme. It asks cities identified as non-attainment to reduce average particulate levels within a fixed period, and an online portal supports the tracking of its progress. The fourth is a monitoring initiative run by a government ministry, which provides city-wide and localised air quality information for major metropolitan areas and also issues weather forecasts and research. Each tool serves a different purpose, and none of them works alone. Public categories help people judge how careful to be on bad days, while emergency steps are reserved for the most severe deterioration. Long-term programmes address pollution that persists over many months and years, and monitoring tells authorities where action is needed. Together, these tools link public information, emergency response and long-term planning.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which central body launched the National Air Quality Index in 2014?"
+    },
+    {
+     "n": 2,
+     "q": "In which year did the Supreme Court approve the Graded Response Action Plan (GRAP)?"
+    },
+    {
+     "n": 3,
+     "q": "In which year was the National Clean Air Programme (NCAP) launched?"
+    },
+    {
+     "n": 4,
+     "q": "How many non-attainment cities does the National Clean Air Programme cover? (give a number)"
+    },
+    {
+     "n": 5,
+     "q": "What is the targeted reduction in average particulate matter concentrations under NCAP by 2026, in per cent?"
+    },
+    {
+     "n": 6,
+     "q": "Which ministry runs SAFAR, the city-wide air quality monitoring initiative?"
+    },
+    {
+     "n": 7,
+     "q": "Which portal was launched to track NCAP progress and regulate air pollution in non-attainment cities?"
+    }
+   ]
+  }
+ ]
+}

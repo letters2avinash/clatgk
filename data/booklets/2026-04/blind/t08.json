@@ -1,0 +1,197 @@
+{
+ "topic": "RBI Holds Repo Rate at 5.25%",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Repo Rate and the Economy",
+   "summary": "The Repo Rate is the rate at which the RBI lends money to commercial banks, so changes to it ripple through borrowing and spending. A lower repo rate makes loans cheaper and supports growth, while a higher repo rate curbs excess spending and eases inflation. The RBI cut the rate by 25 basis points to 5.25% in December 2025.",
+   "facts": [
+    "Repo stands for Repurchasing Option or Repurchase Agreement",
+    "Repo Rate: rate at which RBI lends money to commercial banks",
+    "Lower repo rate means cheaper loans for banks and lower interest rates for borrowers",
+    "Lower repo rate leads to increased borrowing and spending",
+    "Higher repo rate means costlier loans for banks and higher interest rates for consumers and businesses",
+    "RBI raises the Repo Rate during high levels of inflation to bring down the flow of money",
+    "Higher repo rate curbs excessive spending and slows investment and money supply",
+    "RBI lowers the Repo Rate when it needs to pump funds into the economy",
+    "Dec 2025: RBI cut Repo Rate by 25 basis points to 5.25%",
+    "Dec 2025 cut was the 4th reduction by RBI, totalling 125 basis points in 2025"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Monetary Policy Committee (MPC)",
+   "summary": "The Monetary Policy Committee is a statutory body under the RBI Act, 1934 that sets the benchmark Repo Rate needed to keep inflation within the target. The Central Government constitutes it with six members, chaired ex-officio by the RBI Governor. It meets at least four times a year, decides by majority vote, and its decisions are binding on banks.",
+   "facts": [
+    "Statutory body under the RBI Act, 1934",
+    "Responsible for setting the benchmark policy rate (Repo Rate)",
+    "Aim: contain inflation within the specified target level",
+    "Central Government is empowered to constitute a 6-member MPC",
+    "Ex-officio Chairperson: RBI Governor",
+    "Members: Deputy Governor in charge of monetary policy, one RBI officer nominated by Central Board, three members appointed by Central Government",
+    "Meets at least four times each year",
+    "Quorum: at least four members, including the RBI Governor or, in his absence, the Deputy Governor",
+    "Decisions are based on majority vote; in case of a tie the RBI Governor has the casting vote",
+    "MPC decisions are binding on banks"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Instruments of Monetary Policy",
+   "summary": "The RBI uses several instruments to manage liquidity, borrowing costs and the money supply. The Repo Rate and Reverse Repo Rate set the rates at which the RBI lends to and borrows from banks. Reserve requirements, the Bank Rate, the Marginal Standing Facility and open market operations each work through different channels. To tighten monetary policy, the RBI raises SLR.",
+   "facts": [
+    "Repo Rate: rate at which RBI lends money to commercial banks",
+    "Reverse Repo Rate: rate at which RBI borrows money from commercial banks",
+    "SLR: statutory minimum percentage of deposits a bank must keep as liquid cash, gold or other securities",
+    "To tighten monetary policy, RBI will raise SLR",
+    "Marginal Standing Facility: window for banks to borrow overnight funds at a rate higher than the Repo Rate",
+    "Bank Rate: long-term rate (Repo is short-term) at which the central bank lends to other banks",
+    "An increase in Bank Rate increases interest rates on loans and deposits",
+    "CRR: banks must hold a proportion of their deposits as cash with the RBI",
+    "With an increase in CRR, banks increase their lending rates",
+    "Open Market Operations: purchase or sale of government securities to inject or absorb durable liquidity"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Inflation Targeting and the RBI",
+   "summary": "Inflation targeting means the central bank aims to keep inflation within a pre-defined range. India adopted flexible inflation targeting in 2016 with a 4% target and a deviation of plus or minus 2%. The RBI works to maintain price stability while promoting economic growth, and performs several roles in the financial system.",
+   "facts": [
+    "Inflation targeting: monetary policy framework where the central bank aims to keep inflation within a targeted range",
+    "India adopted Flexible Inflation Targeting in 2016",
+    "India's inflation target is 4%, with a deviation of +/- 2%",
+    "Urjit Patel Committee (2014) formalised inflation targeting with a 4% target and 2% band",
+    "The 4% target and 2% band were first proposed by the Chakravarty Committee (1982-85)",
+    "Inflation target is set by the Government in consultation with RBI every 5 years, under the amended RBI Act, 1934",
+    "RBI aims to maintain price stability while promoting economic growth",
+    "RBI roles include monetary authority, lender of last resort, banker to government and custodian of forex reserves",
+    "Retail inflation is within the mandated target band of 2-6%",
+    "RBI was established on April 1 in Calcutta"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t08-0",
+   "type": "MCQ",
+   "passage": "The Monetary Policy Committee is the body that sets the benchmark policy rate of the Reserve Bank of India, known as the Repo Rate. Its central purpose is to keep inflation within a specified target level, so that prices remain stable while the economy grows. The committee was created as a statutory body, and the central government holds the power to set up its composition. Its meetings are not occasional events, since the committee comes together regularly through the year to review the economic situation. Recently, the committee faced a difficult environment. Rising geopolitical tensions in West Asia increased global uncertainty, with volatile energy prices and disrupted trade flows. India was also experiencing a supply-side shock that raised input costs without necessarily reflecting excess domestic demand. Retail inflation stayed within the mandated band, and core inflation remained stable, which reduced the urgency for tightening. Trade agreements with several major partners were expected to boost exports and investment over the medium term. After weighing these factors, the committee chose to keep the Repo Rate unchanged at 5.25 per cent. The chosen stance was cautious and steady, in line with the goal of price stability. Such decisions shape borrowing costs for banks, businesses and households across the country, and they are closely followed by investors and students of the economy alike.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In case of a tie in an MPC vote, who has the casting vote?",
+     "options": [
+      "RBI Governor",
+      "Central Government nominee",
+      "Deputy Governor in charge of monetary policy",
+      "Finance Secretary"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "How many of the following statements about the Monetary Policy Committee are correct?\na. Its decisions are binding on banks.\nb. The Deputy Governor is its ex-officio chairperson.\nc. Three of its members are appointed by the Central Government.\nd. Its decisions require a two-thirds majority.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Who is the ex-officio Chairperson of the Monetary Policy Committee?",
+     "options": [
+      "Deputy Governor in charge of monetary policy",
+      "Central Government nominee",
+      "RBI Governor",
+      "Finance Secretary"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider the following statements about the Monetary Policy Committee:\nI. It meets at least four times each year.\nII. Its quorum is at least four members.\nIII. Its decisions require unanimous agreement of all members.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Ex-officio chairperson of MPC   ->   A. Four times a year\nII. Members appointed by Central Government   ->   B. RBI Governor\nIII. Minimum meetings each year   ->   C. One RBI officer\nIV. Member nominated by Central Board   ->   D. Three",
+     "options": [
+      "I-C, II-B, III-D, IV-A",
+      "I-C, II-D, III-B, IV-A",
+      "I-B, II-D, III-A, IV-C",
+      "I-D, II-C, III-B, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many members does the Monetary Policy Committee have?",
+     "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Eight"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Assertion (A): Decisions of the Monetary Policy Committee are binding on commercial banks.\nReason (R): MPC decisions are taken by a majority vote.\nWhich of the following is correct?",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Which MPC member is in charge of monetary policy?",
+     "options": [
+      "Central Government nominee",
+      "RBI officer nominated by Central Board",
+      "Finance Secretary",
+      "Deputy Governor in charge of monetary policy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t08-1",
+   "type": "TITA",
+   "passage": "Monetary policy works through a set of instruments that the central bank can adjust to influence borrowing, spending and investment. The most closely watched of these is the Repo Rate, which sets the cost at which banks borrow from the central bank when they face a short-term shortage of cash. The Reverse Repo Rate moves in the other direction, since it is the rate at which the central bank borrows from banks. Changes in these rates affect loan prices across the economy. When rates rise, businesses and households face costlier loans, and demand slows. When rates fall, borrowing becomes cheaper and spending tends to pick up. Central banks, however, do not rely on one tool alone. They also set rules on how much money banks must hold, buy and sell securities in the market, and provide special windows for banks that need overnight funds. Each instrument has a different reach, and some act faster than others. Students often find it useful to group the tools by whether they work through interest rates, through reserves kept by banks, or through the market for government securities. Policymakers combine these tools according to the economic situation, especially when inflation is high or growth is weak. Careful use of the instruments helps keep prices stable while supporting a healthy pace of economic expansion.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which liquidity requirement, a statutory minimum share of deposits held as cash, gold or other securities, does the RBI raise to tighten monetary policy? (abbreviation)"
+    },
+    {
+     "n": 2,
+     "q": "Which RBI lending rate is described as long-term, in contrast to the short-term Repo Rate? (two words)"
+    },
+    {
+     "n": 3,
+     "q": "Which window lets banks borrow overnight funds at a rate higher than the Repo Rate? (abbreviation)"
+    },
+    {
+     "n": 4,
+     "q": "What is the abbreviation of the operation in which the central bank buys or sells government securities to inject or absorb durable liquidity?"
+    },
+    {
+     "n": 5,
+     "q": "Which ratio requires banks to hold a proportion of their deposits as cash with the RBI? (abbreviation)"
+    },
+    {
+     "n": 6,
+     "q": "When the Cash Reserve Ratio is increased, do bank lending rates rise or fall? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "What does the 'Repo' in Repo Rate stand for? (one word)"
+    }
+   ]
+  }
+ ]
+}

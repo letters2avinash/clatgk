@@ -1,0 +1,197 @@
+{
+ "topic": "NASA's Artemis Programme and Space Missions",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Artemis Programme and the Artemis II Mission",
+   "summary": "NASA's Artemis Programme aims to land humans on the Moon and is named after the Moon Goddess of Greek mythology. It proceeds in stages, beginning with an unmanned Artemis I that launched the Orion spacecraft, followed by the crewed Artemis II lunar flyby and then Artemis III, which is to return humans to the Moon. A Lunar Gateway Station is planned as a docking point for astronauts and for scientific research.",
+   "facts": [
+    "Artemis is named after the Moon Goddess in Greek mythology.",
+    "Objective: land humans on the Moon by 2025, including the first woman and the first person of colour.",
+    "Artemis I was an unmanned mission that began with the launch of the Orion spacecraft on the Space Launch System.",
+    "Artemis II is a crewed lunar flyby; astronauts travel around the Moon and return to Earth without landing.",
+    "Artemis II crew of four: Reid Wiseman (Commander), Victor Glover, Christina Koch and Jeremy Hansen.",
+    "Jeremy Hansen is the first Canadian and non-American to fly on a lunar mission.",
+    "Artemis II is expected to last about 10 days, following a free-return trajectory, and splash down in the Pacific Ocean.",
+    "Artemis II launch site: Kennedy Space Center, Florida, USA.",
+    "Artemis III aims to return humans to the Moon.",
+    "Lunar Gateway Station is planned for 2029, serving as a docking point and for scientific research."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Artemis Accords",
+   "summary": "The Artemis Accords were announced by NASA in 2020 and were established by the US State Department and NASA together with seven other founding members. They set out common principles for the civil exploration and use of outer space, including the Moon, Mars, comets and asteroids, for peaceful purposes. The Accords build on the Outer Space Treaty of 1967 but are not legally binding.",
+   "facts": [
+    "Announced by NASA in 2020.",
+    "Established by the US State Department and NASA with 7 other founding members.",
+    "Founding members include Australia, Canada, Italy, Japan, Luxembourg, the United Arab Emirates and the United Kingdom.",
+    "A set of principles and guidelines for international cooperation in space exploration.",
+    "Purpose: common principles to govern civil exploration and use of outer space, the Moon, Mars, comets and asteroids, for peaceful purposes.",
+    "Builds upon the Outer Space Treaty of 1967.",
+    "Nature: not legally binding.",
+    "Members: 63 countries.",
+    "India joined in 2023 as the 27th member.",
+    "Russia and China are not part of the Artemis Accords."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Human Spaceflight and Gaganyaan",
+   "summary": "Yuri Gagarin of the Soviet Union was the first human in space in 1961, and Valentina Tereshkova was the first woman in space in 1963. India's Gaganyaan Project will launch a three-person crew on a three-day mission to a 400 km orbit, which would make India the fourth nation to do so after the United States, Russia and China. Vyommitra and the SAKHI app support the programme, with Vyommitra flying ahead of Gaganyaan and SAKHI supporting crew health and communication.",
+   "facts": [
+    "Yuri Gagarin, Soviet cosmonaut, was the first human in space (Vostok, 12 April 1961).",
+    "Valentina Tereshkova was the first woman to enter space (1963).",
+    "Rakesh Sharma was the first Indian in space (Soyuz T-11, 3 April 1984).",
+    "Shubhanshu Shukla was the second Indian in space and the first on the ISS (Axiom-4, 2025).",
+    "Gaganyaan is India's first human spaceflight programme, with a three-person crew on a three-day mission to a 400 km orbit.",
+    "Gaganyaan would make India the 4th nation to launch humans after the United States, Russia and China.",
+    "Out of 4 astronaut designates (Vyomnauts), 3 will be selected for the final mission.",
+    "Gaganyaan comprises a crew module and a service module; developed by ISRO and launched on GSLV Mk III (LVM3).",
+    "Crew training takes place at the Human Space Flight Centre, Bengaluru.",
+    "Vyommitra is a woman robot astronaut (half humanoid) that will fly ahead of Gaganyaan; the name means Space-Friend."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Lunar Missions: Chandrayaan and Moon Landings",
+   "summary": "India's Chandrayaan-1, launched in 2008, mapped the Moon's surface in unprecedented detail and found water ice in polar craters. Chandrayaan-3, launched in 2023, made India the first nation to soft-land on the lunar South Pole. Chandrayaan-4 is slated for 2028 to bring rock samples back to Earth, and Chandrayaan-5 is a joint mission of ISRO and JAXA to explore the Moon for water and other resources.",
+   "facts": [
+    "Chandrayaan-1 (2008) was India's first lunar mission.",
+    "Chandrayaan-1 mapped the Moon's surface in unprecedented detail, discovering water ice in polar craters.",
+    "Chandrayaan-2 (2019) carried an orbiter, the Vikram lander and the Pragyan (Wisdom) rover.",
+    "Chandrayaan-3 (2023) was a second attempt after Chandrayaan-2, using GSLV Mk III.",
+    "With Chandrayaan-3, India became the first nation to soft-land on the lunar South Pole.",
+    "With Chandrayaan-3, India became the 4th nation to soft-land anywhere on the Moon.",
+    "Chandrayaan-4 is slated for launch in 2028 and aims to bring lunar rock samples back to Earth.",
+    "Chandrayaan-5 (Lunar Polar Exploration, LUPAX) is a joint initiative of ISRO and JAXA.",
+    "Landing on the Moon: Soviet Union first (Luna 9, 1966), United States second (Apollo, 1969), China third (Chang'e, 2013).",
+    "Japan became the 5th nation to land on the Moon (SLIM, 2024)."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t13-0",
+   "type": "MCQ",
+   "passage": "NASA's Artemis Programme takes its name from the Moon Goddess of Greek mythology. Its central goal is to send humans back to the Moon, including the first woman and the first person of colour to stand on its surface. The programme is carried out in stages. The first stage was an unmanned mission that launched the Orion spacecraft. A later mission carries a crew around the Moon on a flyby, after which the astronauts return to Earth. The crew will not land on the lunar surface during that flight. The crewed flight is expected to last about ten days and will end with a splashdown in the Pacific Ocean. Launches take place from the Kennedy Space Center in Florida. Plans also include a station near the Moon called the Lunar Gateway, which would serve as a docking point for astronauts and support scientific research. Several space agencies are partners in the programme, including the European Space Agency, the Japan Aerospace Exploration Agency and the Canadian Space Agency. Alongside this programme, the Artemis Accords set out shared principles for peaceful exploration of space, the Moon, Mars, comets and asteroids. Many countries have joined these principles, and they were built on an older international agreement on outer space. The Artemis Accords are a framework for cooperation, and they guide how countries behave when they explore space together.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year is the Lunar Gateway Station planned to be established?",
+     "options": [
+      "2024",
+      "2027",
+      "2029",
+      "2032"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which was NASA's last mission to the Moon before Artemis II?",
+     "options": [
+      "Apollo 17 (1972)",
+      "Apollo 15 (1971)",
+      "Apollo 16 (1972)",
+      "Apollo 18 (1973)"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Who is the Commander of the Artemis II crew?",
+     "options": [
+      "Victor Glover",
+      "Christina Koch",
+      "Jeremy Hansen",
+      "Reid Wiseman"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Read the statements and choose the correct option.\nAssertion (A): The Artemis Accords have 63 member countries.\nReason (R): India joined the Artemis Accords in 2023 as its 27th member.",
+     "options": [
+      "Both A and R are true and R explains A",
+      "Both A and R are true but R does not explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Chandrayaan-1   ->   A. Slated for launch in 2028\nII. Chandrayaan-2   ->   B. Launched in 2023\nIII. Chandrayaan-3   ->   C. Launched in 2019\nIV. Chandrayaan-4   ->   D. Launched in 2008",
+     "options": [
+      "I-A, II-D, III-B, IV-C",
+      "I-B, II-A, III-D, IV-C",
+      "I-D, II-C, III-B, IV-A",
+      "I-D, II-B, III-C, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the Artemis Accords:\nI. The Artemis Accords were announced by NASA in 2020.\nII. India joined the Artemis Accords in 2023 as its 27th member.\nIII. Russia and China are members of the Artemis Accords.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about the Gaganyaan Mission are correct?\nI. It is India's first human spaceflight programme.\nII. It plans to launch a three-person crew on a three-day mission to a 400 km orbit.\nIII. All four astronaut designates will fly on the final mission.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Which nation became the first to soft-land on the lunar South Pole?",
+     "options": [
+      "China",
+      "Japan",
+      "United States",
+      "India"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t13-1",
+   "type": "TITA",
+   "passage": "Human spaceflight has a history that began in the early 1960s, when a cosmonaut from the Soviet Union became the first person to travel into space. Soon after, Alan Shepard became the first American in space as part of Project Mercury, and a woman later joined the list of people who have flown. Several other countries have since carried out their own human spaceflight efforts. India is preparing its own human spaceflight programme, called Gaganyaan, which will be India's first such programme and a new stage for the country's space work. The programme aims to send a crew into orbit for a short stay and bring them back safely. Its crew will be selected from a group of astronaut designates, and only some of them will fly on the final mission. Training for the crew takes place at a dedicated centre in an Indian city. India is also testing its systems with a humanoid robot that can monitor module parameters and raise alerts. Another tool, an application named SAKHI, will help the crew by monitoring their health, reminding them of their dietary schedules and keeping them connected with the ground. Together these tools are designed to support Indian astronauts from launch to return.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Who was the first human to travel into space? (name)"
+    },
+    {
+     "n": 2,
+     "q": "In which year did Valentina Tereshkova become the first woman to enter space? (year)"
+    },
+    {
+     "n": 3,
+     "q": "Which Indian astronaut flew to space aboard Soyuz T-11 in 1984? (name)"
+    },
+    {
+     "n": 4,
+     "q": "How many of the four Gaganyaan astronaut designates will be selected for the final mission? (number)"
+    },
+    {
+     "n": 5,
+     "q": "What is the name of the half-humanoid woman robot astronaut that will fly ahead of Gaganyaan? (name)"
+    },
+    {
+     "n": 6,
+     "q": "Which ISRO centre developed the SAKHI app? (full name of the centre)"
+    },
+    {
+     "n": 7,
+     "q": "In which city is the Human Space Flight Centre that trains Gaganyaan crew located? (city)"
+    }
+   ]
+  }
+ ]
+}

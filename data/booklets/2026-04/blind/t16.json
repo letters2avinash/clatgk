@@ -1,0 +1,197 @@
+{
+ "topic": "April 2026 Current Affairs: AILET Corner",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Energy and Infrastructure",
+   "summary": "India's renewable energy progress, the revival of the Mohra hydropower plant and the Dedicated Freight Corridors form this infrastructure block. Renewables make up a large share of non-fossil capacity, and solar is the largest part of the energy mix. The Western and Eastern corridors separate freight traffic from passenger lines.",
+   "facts": [
+    "India ranked 3rd globally in renewable energy capacity, after China and the United States",
+    "Total installed non-fossil capacity is 283.46 GW; renewable capacity is 274.68 GW",
+    "55.29 GW of non-fossil capacity added in FY 2025-26",
+    "Energy mix: Solar 54.7%, Wind 20.4%, Large Hydro 18.7%, Bioenergy 4.3%",
+    "India achieved its 50% non-fossil power capacity target under the Paris Agreement, 5 years ahead of 2030",
+    "Mohra Power Project is also known as Mahura Power Project and sits on the Jhelum River",
+    "Mohra is located at Uri, Baramulla (Jammu and Kashmir) and was commissioned in 1905",
+    "Western DFC: 1506 km, from JNPT (Maharashtra) to Dadri (Uttar Pradesh)",
+    "Eastern DFC: 1337 km, from Ludhiana (Punjab) to Sonnagar (Bihar)",
+    "DFC conceived in 2005, approved by Cabinet in 2008, implemented by DFCCIL"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "International Groupings and Peacekeeping",
+   "summary": "This block covers the regional and UN-linked bodies in the booklet. AZEC is a clean-energy platform for Asia, while UNIFIL is a UN force in Lebanon that patrols the Blue Line. ECOSOC and the G7 complete the section, with ECOSOC acting as a UN coordination platform and the G7 working as an informal forum without a treaty.",
+   "facts": [
+    "AZEC was launched in 2023 on Japan's proposal as a regional platform for clean energy transition",
+    "AZEC members: Australia, Brunei Darussalam, Cambodia, Indonesia, Japan, Lao PDR, Malaysia, Philippines, Singapore, Thailand, Vietnam",
+    "AZEC Plus extends the community to additional partner countries such as ASEAN and India",
+    "UNIFIL was created by the UN Security Council in 1978 to verify Israeli withdrawal from southern Lebanon",
+    "Blue Line: UN-demarcated boundary between Lebanon and Israel",
+    "UNIFIL mandate: monitor ceasefire, patrol Blue Line, ensure humanitarian access, assist Lebanese Armed Forces",
+    "ECOSOC: established 1945, one of 6 principal UN organs, 54 members, headquarters in New York",
+    "ECOSOC: 18 members elected each year for a 3-year tenure",
+    "India elected unopposed to four ECOSOC subsidiary bodies for 2026-2028, its 18th tenure",
+    "G7 is an informal, non-treaty forum with no permanent secretariat; decisions taken by consensus"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Finance, Enforcement and Cyber Cooperation",
+   "summary": "This block links banking liquidity with financial crime and cyber-fraud cooperation. The RBI's VRR auctions injected liquidity for year-end banking stability, while FIU-India and I4C work on financial and cyber frauds. The GlobE Network builds cross-border action against corruption and illicit assets.",
+   "facts": [
+    "RBI announced a 21.25 Lakh Crore liquidity infusion through VRR auctions for year-end banking stability",
+    "VRR is a liquidity injection tool under RBI's Liquidity Management Framework for temporary shortages",
+    "Banks borrow short-term funds from RBI by providing government securities (G-Secs) as collateral",
+    "VRR funds are provided through auction-based repos, with a duration of 7 to 14 days",
+    "FIU-India: established 2004, nodal ministry is Ministry of Finance, focus on anti-money laundering",
+    "FIU-India collects and analyses suspicious financial transaction reports and shares intelligence",
+    "FIU-India and Indian Cyber Crime Coordination Centre signed an MoU to combat cyber-financial frauds",
+    "I4C: established 2018 under Ministry of Home Affairs as central agency for cybercrime coordination",
+    "GlobE Network: formally launched 2021, concept from Riyadh Initiative during Saudi Arabia's G20 Presidency (2020)",
+    "GlobE operates under the UN Convention Against Corruption and aims to recover illicit assets"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Health, Nutrition and Rankings",
+   "summary": "This block covers nutrition policy, BRICS health cooperation and higher-education rankings. Mission POSHAN 2.0 and a 15-day campaign focus on nutrition for women and children. India's 2026 BRICS Presidency includes a health working group on prevention and mental health, and QS 2026 rankings placed IIM Kozhikode in the global top 100.",
+   "facts": [
+    "15-day nationwide campaign aims to drive behavioural change and improve nutritional outcomes for women and children",
+    "Mission POSHAN 2.0 was launched in 2021 to create an Integrated Nutrition Support System",
+    "India holds the 2026 BRICS Presidency and hosted a BRICS Health Working Group meeting in New Delhi",
+    "BRICS Mission for Healthy Lifestyles focuses on prevention of non-communicable diseases",
+    "BRICS Mental Health and Wellness Initiative aims to strengthen mental healthcare and reduce stigma",
+    "Integration of Traditional Medicine includes systems like AYUSH (India)",
+    "QS World University Rankings by Subject 2026: IIM Kozhikode entered the Global Top 100",
+    "India ranks 4th globally in total institutions ranked and new entries",
+    "IIT Delhi leads India in Engineering and Technology in the QS rankings",
+    "Indian institutions entered the QS Marketing rankings for the first time"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t16-0",
+   "type": "MCQ",
+   "passage": "India's energy and freight networks drew attention in April 2026. The Ministry of New and Renewable Energy highlighted the country's progress in renewable energy capacity, policy reforms and the wider energy transition. Solar power forms the largest part of the national energy mix, and India has built up a large stock of non-fossil capacity. The country also reported strong additions to its non-fossil capacity during the last financial year, adding to a broader push towards cleaner power. The same review also covered policy reforms, which the ministry presented as part of the country's energy transition.\n\nHydropower is also being revived. The Jammu and Kashmir government has moved to restore the Mohra Power Project, a historic plant on the Jhelum River in Uri, Baramulla. The move is meant to boost hydropower capacity at a time when the Indus Waters Treaty faces uncertainty. The plant is a hydroelectric power plant in the Kashmir Valley, and its revival is being pursued by the state government.\n\nFreight infrastructure also reached a milestone. The Ministry of Railways completed the Western Dedicated Freight Corridor, which links the Jawaharlal Nehru Port Terminal in Maharashtra with Dadri in Uttar Pradesh. The Eastern Dedicated Freight Corridor runs from Ludhiana in Punjab to Sonnagar in Bihar. Both corridors are being implemented by the Dedicated Freight Corridor Corporation of India Limited.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the Mohra Power Project commissioned?",
+     "options": [
+      "1947",
+      "1975",
+      "1905",
+      "2008"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What is the length of the Western Dedicated Freight Corridor?",
+     "options": [
+      "1337 km",
+      "1506 km",
+      "1256 km",
+      "1605 km"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "In which year was the Dedicated Freight Corridor project approved by the Cabinet?",
+     "options": [
+      "2005",
+      "2018",
+      "2021",
+      "2008"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The Western Dedicated Freight Corridor keeps freight traffic apart from passenger lines.\nReason (R): The corridor is a flagship initiative aimed at separating freight traffic from passenger lines.",
+     "options": [
+      "Both A and R are true and R explains A",
+      "Both A and R are true but R does not explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Eastern Dedicated Freight Corridor   ->   A. 1506 km\nII. Western Dedicated Freight Corridor   ->   B. 54.7 per cent\nIII. Mohra Power Project   ->   C. 1337 km\nIV. Solar share of India's energy mix   ->   D. Commissioned in 1905",
+     "options": [
+      "I-A, II-D, III-B, IV-C",
+      "I-D, II-A, III-C, IV-B",
+      "I-C, II-A, III-D, IV-B",
+      "I-B, II-D, III-C, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. The Mohra Power Project is also known as the Mahura Power Project.\nII. The Eastern Dedicated Freight Corridor is longer than the Western Dedicated Freight Corridor.\nIII. Wind accounts for a larger share of India's energy mix than large hydro does.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. India achieved its 50 per cent non-fossil power capacity target five years ahead of 2030.\nII. India ranks third globally in renewable energy capacity.\nIII. Bioenergy is the largest contributor to India's energy mix.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "How much non-fossil capacity did India add in FY 2025-26? (in GW)",
+     "options": [
+      "54.7 GW",
+      "274.68 GW",
+      "283.46 GW",
+      "55.29 GW"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t16-1",
+   "type": "TITA",
+   "passage": "International cooperation in April 2026 covered energy, peacekeeping and economic governance. India's External Affairs Minister took part in a meeting of a regional platform that works on clean energy transition and energy security in Asia, where energy market disruptions were discussed. The platform was proposed by Japan and seeks to promote decarbonisation and sustainable energy systems across the region.\n\nIndia also condemned the killing of Indonesian peacekeepers serving with a United Nations force in Lebanon. That force monitors the ceasefire between Israel and Lebanon, patrols the boundary between them, supports humanitarian access for civilians and assists the Lebanese Armed Forces. Its purpose includes verifying the withdrawal of Israeli forces from southern Lebanon.\n\nAt the United Nations, India was elected unopposed to four subsidiary bodies of the Economic and Social Council for the period 2026 to 2028. The Council is one of the principal organs of the United Nations and acts as a central platform for global economic, social and environmental issues.\n\nThe Group of Seven is an informal forum that works without a treaty and has no permanent secretariat. It brings together advanced economies along with the European Union, and its decisions are taken by consensus. India's External Affairs Minister was invited to the G7 Foreign Ministers' Meeting in France as a partner.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the Asia Zero Emission Community (AZEC) launched? (year)"
+    },
+    {
+     "n": 2,
+     "q": "In which city is the headquarters of the UN Economic and Social Council located?"
+    },
+    {
+     "n": 3,
+     "q": "In which year did the G7 begin as the G6 forum? (year)"
+    },
+    {
+     "n": 4,
+     "q": "Which country joined the G6 in 1976, turning it into the G7? (country)"
+    },
+    {
+     "n": 5,
+     "q": "How many member States does the UN Economic and Social Council have? (number)"
+    },
+    {
+     "n": 6,
+     "q": "In which year did the UN Security Council create the UN Interim Force in Lebanon (UNIFIL)? (year)"
+    },
+    {
+     "n": 7,
+     "q": "What is the name of the UN-demarcated boundary between Lebanon and Israel that UNIFIL patrols?"
+    }
+   ]
+  }
+ ]
+}

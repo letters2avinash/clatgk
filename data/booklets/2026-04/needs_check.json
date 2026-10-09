@@ -1,0 +1,407 @@
+[
+ {
+  "topic": "Visit of Vice President C. P. Radhakrishnan to Sri Lanka",
+  "page": 5,
+  "what": "Generation numbers in 'Extended OCI eligibility from 4th Generation to 6th Generation' garbled ('th th' OCR); not used"
+ },
+ {
+  "topic": "Visit of Vice President C. P. Radhakrishnan to Sri Lanka",
+  "page": 5,
+  "what": "LTTE bullet column interleaved: attribution of the Rajiv Gandhi assassination and 'supporting military operations against India' unclear; not used"
+ },
+ {
+  "topic": "Visit of Vice President C. P. Radhakrishnan to Sri Lanka",
+  "page": 6,
+  "what": "'Aimwasto Settle Discord' stated purpose of the 1974 agreement garbled; not used"
+ },
+ {
+  "topic": "Visit of Vice President C. P. Radhakrishnan to Sri Lanka",
+  "page": 6,
+  "what": "'Volcanic eruption in 14th century' formation date garbled; not used"
+ },
+ {
+  "topic": "Constitution (131st Amendment) Bill, 2026",
+  "page": 9,
+  "what": "Seat-change table: Hindi heartland, North-East and Grand total rows are garbled; only the South row (24.3% to 20.7%) was used"
+ },
+ {
+  "topic": "Constitution (131st Amendment) Bill, 2026",
+  "page": 9,
+  "what": "Map labels for state seat changes (Bihar, West Bengal, Kerala, Tamil Nadu) are garbled and their meaning is unclear; not used"
+ },
+ {
+  "topic": "Constitution (131st Amendment) Bill, 2026",
+  "page": 9,
+  "what": "Women's reservation timing: 'Implements 33% Reservation Immediately' conflicts with Article 334A on page 11 (effective after delimitation and Census); timing not stated"
+ },
+ {
+  "topic": "Constitution (131st Amendment) Bill, 2026",
+  "page": 10,
+  "what": "Seat-share table rows for Uttar Pradesh, Karnataka and the Telangana/Andhra Pradesh row are garbled; only Maharashtra, Tamil Nadu, Odisha and West Bengal rows were used"
+ },
+ {
+  "topic": "Constitution (131st Amendment) Bill, 2026",
+  "page": 10,
+  "what": "Tamil Nadu seat change on map (-11) does not match the seat table (39 to 51); not used"
+ },
+ {
+  "topic": "Constitution (131st Amendment) Bill, 2026",
+  "page": 10,
+  "what": "MPLADS annual fund amount is garbled ('%5 Crore'); not used"
+ },
+ {
+  "topic": "Constitution (131st Amendment) Bill, 2026",
+  "page": 11,
+  "what": "'Only 82 Women MPs in LS (45.2%)': 45.2% does not match 82 of 543 seats; not used"
+ },
+ {
+  "topic": "Constitution (131st Amendment) Bill, 2026",
+  "page": 11,
+  "what": "'Executive size (~133 Ministers)' is not consistent with the 15% cap on 850 seats; not used"
+ },
+ {
+  "topic": "Constitution (131st Amendment) Bill, 2026",
+  "page": 11,
+  "what": "Argument against the Bill refers to a '2021 census (yet to be conducted)', which conflicts with the next Census being after 2026 (page 10); not used"
+ },
+ {
+  "topic": "Constitution (131st Amendment) Bill, 2026",
+  "page": 12,
+  "what": "42nd Amendment freeze stated as 'post-2000 Census', while page 9 gives the freeze base as 1971 Census; not used"
+ },
+ {
+  "topic": "Constitution (131st Amendment) Bill, 2026",
+  "page": 13,
+  "what": "Practice-question option lists contain garbled values (e.g. '1/4', '%3 Crore'); no question built on them"
+ },
+ {
+  "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+  "page": 15,
+  "what": "Why in News line garbled ('marking | st Fully Digital'); the ordinal was not used"
+ },
+ {
+  "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+  "page": 15,
+  "what": "Ordinal before the 1881 synchronous census garbled ('1*'); only the year, surveyor and viceroy were used"
+ },
+ {
+  "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+  "page": 15,
+  "what": "Ordinal before the 1871 census garbled ('1 Non-Synchronous'); the 1871 fact was used without the ordinal"
+ },
+ {
+  "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+  "page": 15,
+  "what": "Census ordinal before 1921 garbled ('5\"'); only the 1921 decadal decline statement was used"
+ },
+ {
+  "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+  "page": 15,
+  "what": "Rank markers for caste surveys garbled ('1°', '2\"', '3\"'); only the order of the states was used"
+ },
+ {
+  "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+  "page": 15,
+  "what": "Self-enumeration portal line garbled ('Citizens can fill their Census -----'); only the secure web portal fact was used"
+ },
+ {
+  "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+  "page": 15,
+  "what": "Marital classification line order garbled; the 'Most Recent Exercise Conducted in 2011' line was not used"
+ },
+ {
+  "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+  "page": 16,
+  "what": "Ordinal in the 84th Amendment freeze line garbled ('until 1** Census'); freeze wording taken from the clean option text on page 17"
+ },
+ {
+  "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+  "page": 16,
+  "what": "NPR/CAA/NRC comparison table garbled (what-won't-happen, infiltrator and definition cells); not used"
+ },
+ {
+  "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+  "page": 16,
+  "what": "Government answer on infiltrators and NRC documents garbled; not used"
+ },
+ {
+  "topic": "India Declared Naxal-Free",
+  "page": 19,
+  "what": "The 2025 death figure in the Deaths line (shown as 100) is overprinted by map text, so only the 90% decline and the 2010 figure of 1,005 were used."
+ },
+ {
+  "topic": "India Declared Naxal-Free",
+  "page": 20,
+  "what": "The Dharti Aaba focus list (housing, water, electricity) is split across lines and the word electricity is not clearly attached; only housing and water were used."
+ },
+ {
+  "topic": "Gujarat Passed Uniform Civil Code Bill 2026",
+  "page": 22,
+  "what": "A sentence on the 'Cliffs Notes' part of the page is garbled at its start (about implementing a UCC); not used."
+ },
+ {
+  "topic": "Gujarat Passed Uniform Civil Code Bill 2026",
+  "page": 22,
+  "what": "The three-month prison penalty for non-registration of live-in relationships sits in a passage that could refer to Uttarakhand's code or to a general point; not used."
+ },
+ {
+  "topic": "Gujarat Passed Uniform Civil Code Bill 2026",
+  "page": 23,
+  "what": "The Entry number for personal laws in the Concurrent List is garbled; only the list name is used."
+ },
+ {
+  "topic": "Gujarat Passed Uniform Civil Code Bill 2026",
+  "page": 24,
+  "what": "The Article 371 sub-clause range and the Schedule reference in the Extra Shots box are garbled; not used."
+ },
+ {
+  "topic": "Mahanadi Water Dispute",
+  "page": 27,
+  "what": "Tributary line has 'West Bengal' overlaid on the tributary list; only the clearly readable tributary names were used"
+ },
+ {
+  "topic": "Mahanadi Water Dispute",
+  "page": 28,
+  "what": "Article 262 text is overlaid with an Inter-State Council box; the Council's 'Recommendatory Body' type is not attributed in this topic"
+ },
+ {
+  "topic": "Mahanadi Water Dispute",
+  "page": 28,
+  "what": "River Boards composition text is interleaved with other boxes; the number of Cabinet-rank Ministers nominated by the PM is not used"
+ },
+ {
+  "topic": "National Panchayati Raj Day 2026",
+  "page": 30,
+  "what": "Monograph release line: place names (Tripura, Tirupati, Uttarkashi) and the scheme name are cut off; not used"
+ },
+ {
+  "topic": "National Panchayati Raj Day 2026",
+  "page": 30,
+  "what": "Highlight gives the Act year as 1993 while page 31 names it the 73rd CAA, 1992; only the commencement date 24 April 1993 is used"
+ },
+ {
+  "topic": "National Panchayati Raj Day 2026",
+  "page": 31,
+  "what": "Extra Shots on Bihar reserving 50% of seats for women (2006) is interleaved with other text and garbled; not used"
+ },
+ {
+  "topic": "National Panchayati Raj Day 2026",
+  "page": 32,
+  "what": "Text about Darjeeling and the Governor placing recommendations of the Commission is interleaved and unclear; only the Darjeeling exemption is used"
+ },
+ {
+  "topic": "RBI Holds Repo Rate at 5.25%",
+  "page": 35,
+  "what": "Longest-serving RBI Governor name is split by OCR noise (Sir / Co, . Benegal Rama Rau); not used"
+ },
+ {
+  "topic": "RBI Holds Repo Rate at 5.25%",
+  "page": 35,
+  "what": "Bracketed figure after the present RBI Governor's name is garbled; not used"
+ },
+ {
+  "topic": "RBI Holds Repo Rate at 5.25%",
+  "page": 35,
+  "what": "'Rise in Inflation' bullet has overlapping text (22-20 n rere ene 1 / Extra Shots); only the readable clause was used"
+ },
+ {
+  "topic": "RBI Holds Repo Rate at 5.25%",
+  "page": 37,
+  "what": "Wording about banker to State Governments ('through agreements') is garbled; not used"
+ },
+ {
+  "topic": "WTO Ministerial Conference 14 (MC14)",
+  "page": 43,
+  "what": "India's IFD participation status is garbled ('Nota participant'); not used."
+ },
+ {
+  "topic": "WTO Ministerial Conference 14 (MC14)",
+  "page": 44,
+  "what": "WTO member count reads both 164 and 166 on the same page; not used."
+ },
+ {
+  "topic": "WTO Ministerial Conference 14 (MC14)",
+  "page": 44,
+  "what": "Agreement on Technical Barriers to Trade name is partly garbled; not used."
+ },
+ {
+  "topic": "World Air Quality Report 2025",
+  "page": 47,
+  "what": "2023 city count in the coverage line ('78 12 Cities') is garbled; not used"
+ },
+ {
+  "topic": "World Air Quality Report 2025",
+  "page": 47,
+  "what": "WHO PM2.5 annual guideline numeric value ('5 j1g/m*') is garbled; not used"
+ },
+ {
+  "topic": "World Air Quality Report 2025",
+  "page": 47,
+  "what": "Lead-in line for the cities in India, Pakistan and China ranking is garbled; not used"
+ },
+ {
+  "topic": "World Air Quality Report 2025",
+  "page": 48,
+  "what": "AQI category numeric ranges (e.g. '101-200 Moderate') are garbled; not used"
+ },
+ {
+  "topic": "PFBR at Kalpakkam Achieves Criticality",
+  "page": 53,
+  "what": "Stage II 'Breeding' cell reads 'Pu-239 + U-233'; whether it is U-233 or U-238 is unclear, so this was not used."
+ },
+ {
+  "topic": "PFBR at Kalpakkam Achieves Criticality",
+  "page": 53,
+  "what": "Thorium is linked to 'Stage Ll' in the strategic significance line; the stage number is garbled, so it was not used."
+ },
+ {
+  "topic": "PFBR at Kalpakkam Achieves Criticality",
+  "page": 52,
+  "what": "'(1948)' appears beside the Nodal Agency line; its attachment to the Department of Atomic Energy is unclear, so the year was not used."
+ },
+ {
+  "topic": "PFBR at Kalpakkam Achieves Criticality",
+  "page": 53,
+  "what": "Skill-Up line (SHANTI Act 2025, ASHVINI Joint Venture and others) is garbled and was not used."
+ },
+ {
+  "topic": "INS Aridaman: India's Third Nuclear-Powered Ballistic Missile Submarine",
+  "page": 56,
+  "what": "Arihant and Aridaman columns of the comparison table (launch tube counts, displacement, reactor upgrade note) are misaligned by OCR; not used."
+ },
+ {
+  "topic": "INS Aridaman: India's Third Nuclear-Powered Ballistic Missile Submarine",
+  "page": 56,
+  "what": "Missile option counts (24 x K-15 Sagarika, 8 x K-4) and the K-15 range (about 750 km vs over 700 km) are unclear; not used."
+ },
+ {
+  "topic": "INS Aridaman: India's Third Nuclear-Powered Ballistic Missile Submarine",
+  "page": 57,
+  "what": "Statement that 6 of the 24 submarines will be nuclear-powered conflicts with the 24 conventional submarine plan; not used."
+ },
+ {
+  "topic": "INS Aridaman: India's Third Nuclear-Powered Ballistic Missile Submarine",
+  "page": 57,
+  "what": "The 'S4*' entry in the current nuclear submarine list and the INS Chakra lease note are garbled; not used."
+ },
+ {
+  "topic": "NASA's Artemis Programme and Space Missions",
+  "page": 61,
+  "what": "Opening line says NASA launched Artemis I as the 1st human lunar mission, which conflicts with Artemis I being unmanned elsewhere in the booklet; not used."
+ },
+ {
+  "topic": "NASA's Artemis Programme and Space Missions",
+  "page": 61,
+  "what": "Mission-phase diagram numbers (1 to 12) are garbled, so the order of the mission phases is not used."
+ },
+ {
+  "topic": "NASA's Artemis Programme and Space Missions",
+  "page": 62,
+  "what": "Name of the first Indian space tourist is garbled (spelling Gopi Thotokura); not used."
+ },
+ {
+  "topic": "NASA's Artemis Programme and Space Missions",
+  "page": 63,
+  "what": "Gaganyaan total cost line (10000 Crore) overlaid with garbled text; not used."
+ },
+ {
+  "topic": "NASA's Artemis Programme and Space Missions",
+  "page": 64,
+  "what": "Chandrayaan column text is jumbled: crash site, Tiranga Point, Shiv Shakti landing point and launch-vehicle lines mix across columns; not used."
+ },
+ {
+  "topic": "R. Vaishali's FIDE Women's Candidates Win 2026",
+  "page": 67,
+  "what": "Gukesh 2024 bullet: a word between 'became' and 'World Chess Champion' is garbled (possibly 'Youngest'); not used"
+ },
+ {
+  "topic": "R. Vaishali's FIDE Women's Candidates Win 2026",
+  "page": 67,
+  "what": "Bullet 'Won 1st Tata Steel Masters Title 2025': the subject is not readable; not used"
+ },
+ {
+  "topic": "R. Vaishali's FIDE Women's Candidates Win 2026",
+  "page": 67,
+  "what": "Praggnanandhaa's world and national ranking figures (superscripts) are garbled; not used"
+ },
+ {
+  "topic": "R. Vaishali's FIDE Women's Candidates Win 2026",
+  "page": 67,
+  "what": "Koneru Humpy line '(7...)' contains an unreadable fragment; only the 2019 Women's World Rapid title is used"
+ },
+ {
+  "topic": "R. Vaishali's FIDE Women's Candidates Win 2026",
+  "page": 68,
+  "what": "44th Chess Olympiad 2022 (Chennai) bullet is garbled ('I -ever in India'); not used"
+ },
+ {
+  "topic": "R. Vaishali's FIDE Women's Candidates Win 2026",
+  "page": 68,
+  "what": "All India Chess Federation bullet: role of 'Nitin Narang' and the field layout are unclear; not used"
+ },
+ {
+  "topic": "Miscellaneous: Current Affairs April 2026",
+  "page": 72,
+  "what": "PROG Rules penalty fine amount ('Fine up to 21 Crore') is garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous: Current Affairs April 2026",
+  "page": 73,
+  "what": "Petrol and diesel SAED earlier and revised rates are garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous: Current Affairs April 2026",
+  "page": 74,
+  "what": "PM Internship monthly stipend split and one-time grant amount are garbled; not used"
+ },
+ {
+  "topic": "Miscellaneous: Current Affairs April 2026",
+  "page": 75,
+  "what": "GDP figures in lakh crore and dollar terms are garbled (rupee symbols); not used"
+ },
+ {
+  "topic": "Miscellaneous: Current Affairs April 2026",
+  "page": 75,
+  "what": "COP33 host ('now likely to be hosted by South Korea') is in a jumbled column; not used"
+ },
+ {
+  "topic": "Miscellaneous: Current Affairs April 2026",
+  "page": 77,
+  "what": "Guru Ram Das lifespan dates read as (1534-1501); not used"
+ },
+ {
+  "topic": "Miscellaneous: Current Affairs April 2026",
+  "page": 81,
+  "what": "Namo Drone Didi subsidy ceiling ('up to %8 lakh') is garbled; not used"
+ },
+ {
+  "topic": "April 2026 Current Affairs: AILET Corner",
+  "page": 82,
+  "what": "Name of the 15-day nationwide campaign is missing or garbled; its launch year (2018) and scheme type were not used because they cannot be tied to a clear name"
+ },
+ {
+  "topic": "April 2026 Current Affairs: AILET Corner",
+  "page": 82,
+  "what": "Word before 'Hydroelectric Power Plant in Kashmir Valley' is garbled, so no first or oldest claim was made for Mohra"
+ },
+ {
+  "topic": "April 2026 Current Affairs: AILET Corner",
+  "page": 83,
+  "what": "QS top Indian performers 'IITT-ISM Dhanbad' and 'ITM Ahmedabad' are garbled; names not used"
+ },
+ {
+  "topic": "April 2026 Current Affairs: AILET Corner",
+  "page": 83,
+  "what": "'Established in 2000' in the UNIFIL/Blue Line table is ambiguous between UNIFIL and the Blue Line; not used"
+ },
+ {
+  "topic": "April 2026 Current Affairs: AILET Corner",
+  "page": 83,
+  "what": "Ordinal of the BRICS Health Working Group meeting (shown as superscript) is garbled; ordinal not used"
+ },
+ {
+  "topic": "April 2026 Current Affairs: AILET Corner",
+  "page": 84,
+  "what": "Ordinal of the GlobE Network Steering Committee meeting (shown as 12 with superscript) is unclear; number not used"
+ }
+]

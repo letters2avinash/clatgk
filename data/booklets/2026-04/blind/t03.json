@@ -1,0 +1,207 @@
+{
+ "topic": "World's Largest Digital Census Begins: Census 2027 (Phase 1)",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Census 2027 Phase I and digital enumeration",
+   "summary": "India has launched Phase I of Census 2027, described as the world's largest population count and the first fully digital enumeration exercise. Phase I is a House Listing and Housing Census, with self-enumeration from 1 April 2026 and a field exercise from 16 April to 15 May 2026 in notified States and UTs. The exercise relies on mobile applications, web-based data collection and digital mapping tools.",
+   "facts": [
+    "Phase I of Census 2027 is a House Listing and Housing Census.",
+    "Self-enumeration began on 1 April 2026.",
+    "Field exercise runs from 16 April to 15 May 2026 in notified States and UTs.",
+    "Key focus areas: housing conditions, household amenities, assets and infrastructure.",
+    "Described as the first fully digital census exercise in India.",
+    "Digital tools: mobile applications, web-based data collection and digital mapping tools.",
+    "Self-enumeration works through a secure web portal and is available in 16 languages.",
+    "Stated limitation: only residents currently present in India are covered.",
+    "The Census 2027 questionnaire contains 33 questions."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Census history and caste enumeration",
+   "summary": "Population counts are traced to the Arthashastra, Ain-e-Akbari and Rig Veda. The modern census developed in the colonial period, with a non-synchronous national census in 1871 and a synchronous census in 1881. The 1931 census was the last caste-based census, and after Independence only SC and ST data has been collected.",
+   "facts": [
+    "Ancient references to population counts appear in the Arthashastra, Ain-e-Akbari and Rig Veda.",
+    "The 1871 national census was non-synchronous and was conducted under Lord Mayo.",
+    "The 1881 synchronous census was conducted by WC Plowden under Lord Rippon.",
+    "JH Hutton was Census Commissioner in 1931; RA Gopalaswami was Census Commissioner in 1951.",
+    "The 1931 census was the last caste-based census.",
+    "After 1947 only SC and ST data was collected; OBCs have been excluded until now.",
+    "The 1921 census is the only census to witness a decadal population decline.",
+    "Bihar, Karnataka and Telangana undertook independent caste surveys, in that order.",
+    "India has held 7 censuses since Independence."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Constitutional and legal framework",
+   "summary": "The Union's power to conduct the census rests on Article 246 and Entry 69 of the Union List. The Census Act, 1948 provides the legal mandate and makes participation mandatory. The 84th Constitutional Amendment Act of 2002 froze Lok Sabha seat allocation on 1971 Census data until the first census conducted after 2026.",
+   "facts": [
+    "The Union has the power to conduct the census under Article 246 and Entry 69 of the Union List.",
+    "Articles 81 and 82 relate to Lok Sabha seat distribution and delimitation after 2026.",
+    "The 84th Constitutional Amendment Act, 2002 froze Lok Sabha seat allocation using 1971 Census data.",
+    "The freeze lasts until the first census conducted after 2026.",
+    "The Census Act, 1948 provides the legal mandate and makes participation mandatory.",
+    "The census is managed by the Registrar General and Census Commissioner of India, Mritunjay Kumar Narayan."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Purpose of the census and its challenges",
+   "summary": "Census data supports delimitation, women's one-third seat reservation and planning for healthcare, education and infrastructure. Unlike sample surveys, the census offers comprehensive population data. Challenges include limited rural digital access, caste data inconsistencies, logistics, public trust and administrative capacity.",
+   "facts": [
+    "Caste data is seen as key to sharpen welfare schemes such as PM Awas Yojana and Skill India.",
+    "Caste data aids delimitation and enables Women's One-Third Seat Reservation in Parliament and Assemblies.",
+    "Unlike sample surveys, the census offers comprehensive population data.",
+    "Demographic data is vital for planning healthcare, education and infrastructure.",
+    "Census forms are the basis for updating the National Population Register.",
+    "Challenge: limited rural access to digital tools.",
+    "Challenge: avoid duplication and inconsistencies in caste data.",
+    "Challenge: large-scale training and coverage of remote areas.",
+    "Challenge: public trust, given fears around NPR/NRC linkages.",
+    "Challenge: administrative capacity, covering funds, staffing and inter-agency coordination."
+   ]
+  },
+  {
+   "i": 4,
+   "title": "NPR, CAA and NRC compared",
+   "summary": "The NPR is a nationwide database of every resident, including foreigners, meant for government schemes. The CAA covers minority refugees from Pakistan, Afghanistan and Bangladesh who came to India before 31 December 2014. The NRC covers citizens of India with valid identity documents, and only Assam currently updates it.",
+   "facts": [
+    "NPR is a database of every resident, including foreigners.",
+    "NPR covers residents who have lived at an address for the last 6 months and will stay there for the next 6 months.",
+    "NPR is meant to be used for government schemes and has nationwide coverage.",
+    "CAA covers minority refugees (Hindu, Christian, Sikh, Parsi, Jain, Buddhist) from Pakistan, Afghanistan and Bangladesh.",
+    "CAA covers those minority refugees who came to India before 31 December 2014.",
+    "NRC covers citizens of India with valid identity documents.",
+    "Currently, only Assam updates the NRC.",
+    "Government's answer: there is no duplication between NPR and Aadhaar, as the objectives are different.",
+    "Government's answer: Muslims are not a minority in the 3 neighbouring countries, so they are not mentioned."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t03-0",
+   "type": "MCQ",
+   "passage": "India has launched Phase I of Census 2027, which is described as the world's largest population count and the first fully digital enumeration exercise in the country. This first phase is a House Listing and Housing Census, and it is carried out in States and Union Territories that have been notified for the exercise. Digital technology runs through the process, and a self-enumeration option allows citizens to provide their own census details. Population counting has a long history in India. Ancient texts such as the Arthashastra, the Ain-e-Akbari and the Rig Veda mention population counts. The modern census is supported by law. The Census Act, 1948 provides the legal mandate and makes participation mandatory, and the Union has the power to conduct the census under the Constitution. The work is managed by the Registrar General and Census Commissioner of India. Since Independence, India has held several censuses. Unlike sample surveys, the census offers comprehensive population data, which is useful for planning healthcare, education and infrastructure. The data also helps track changes in population over time. The census also supports progress towards the Sustainable Development Goals with robust data on health, education and poverty indicators. Phase I therefore builds on a long record of counting while bringing new digital methods to the process.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which of the following is listed as a key focus area of the data collected in Census 2027 Phase I?",
+     "options": [
+      "Caste and religion of every household",
+      "Housing conditions, household amenities, assets and infrastructure",
+      "Income levels of all earning members",
+      "Migration history of each family"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Assertion (A): Digital mapping tools make the creation of house-listing blocks more accurate.\nReason (R): Web mapping and GIS tools help in accurate house-listing block creation and efficient data collection.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Match List I with List II:\nI. Self-enumeration begins   ->   A. 16 languages\nII. Field exercise starts   ->   B. 15 May 2026\nIII. Field exercise ends   ->   C. 1 April 2026\nIV. Self-enumeration languages   ->   D. 16 April 2026",
+     "options": [
+      "I-A, II-B, III-C, IV-D",
+      "I-C, II-A, III-B, IV-D",
+      "I-C, II-D, III-B, IV-A",
+      "I-B, II-C, III-A, IV-D"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Consider these statements about Census 2027:\nI. Self-enumeration opened on 1 April 2026.\nII. Self-enumeration is available in 22 languages.\nIII. Self-enumeration is open to residents currently abroad.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I, II and III",
+      "I only"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "How many of the following statements about Census 2027 are correct?\nI. The field exercise runs from 16 April to 15 May 2026.\nII. The questionnaire contains 40 questions.\nIII. Self-enumeration is available in 16 languages.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None of the above"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Which limitation on the coverage of Census 2027 is stated in the booklet?",
+     "options": [
+      "Only residents currently present in India are covered",
+      "Only households in urban areas are covered",
+      "Only households with Aadhaar cards are covered",
+      "Only households in Assam are covered"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Through which channel can citizens fill in their own census details under Census 2027?",
+     "options": [
+      "Postal forms sent to the Registrar General",
+      "Toll-free telephone interviews",
+      "A secure web portal",
+      "Door-to-door interviews by teachers"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "How many questions does the Census 2027 questionnaire contain?",
+     "options": [
+      "24",
+      "33",
+      "28",
+      "40"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t03-1",
+   "type": "TITA",
+   "passage": "Counting people has a long history in India, and ancient texts such as the Arthashastra refer to population counts. The modern census was shaped under colonial rule, when national counts were first taken across the country. Early colonial censuses did not all follow the same method. A later one was designed to be synchronous, meaning that it was taken at one time across the whole country. Caste was recorded in colonial counts, and one of them is remembered as the last caste-based census. After Independence, caste data collection was narrowed, and the census recorded information only on Scheduled Castes and Scheduled Tribes. Other backward classes were left out of this official count. In recent years, several states have carried out their own surveys of caste, and the national debate on caste data has grown stronger. Another census stands out for a different reason. It is the only one in the modern series to show a decline in population across a decade, which makes it a notable point in demographic history. Since Independence, the country has conducted repeated censuses, and each has added to the record of how the population has changed over time. The census remains a comprehensive source of population data for assessing policies and welfare programmes.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the last caste-based census in India conducted? (year)"
+    },
+    {
+     "n": 2,
+     "q": "Who was the Census Commissioner in 1931? (surname)"
+    },
+    {
+     "n": 3,
+     "q": "Who was the Census Commissioner in 1951? (surname)"
+    },
+    {
+     "n": 4,
+     "q": "Under which Lord was the synchronous census of 1881 conducted? (surname)"
+    },
+    {
+     "n": 5,
+     "q": "Which state is listed first among those that undertook independent caste surveys? (state name)"
+    },
+    {
+     "n": 6,
+     "q": "How many censuses has India held since Independence? (number)"
+    },
+    {
+     "n": 7,
+     "q": "Which census year is the only one to record a decadal population decline? (year)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "topic": "PFBR at Kalpakkam Achieves Criticality",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Criticality and neutron balance",
+   "summary": "A reactor reaches criticality when its nuclear fission chain reaction becomes self-sustaining, and this depends on the balance of the neutron population in the core. The multiplication factor k compares the neutrons in one generation with the previous generation. The value of k decides whether a reactor is subcritical, critical or supercritical.",
+   "facts": [
+    "Criticality: the state in which the nuclear fission chain reaction is self-sustaining.",
+    "Depends on the neutron population balance in the reactor core.",
+    "Multiplication factor k: neutrons in one generation divided by neutrons in the previous generation.",
+    "Subcritical (k < 1): neutron population decreases and the chain reaction dies out.",
+    "Critical (k = 1): neutron population remains constant and the reaction is steady and self-sustaining.",
+    "Supercritical (k > 1): neutron population increases exponentially and power output rises rapidly.",
+    "The PFBR achieved its first criticality, marking entry into Stage II of the nuclear programme."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "PFBR design and breeding",
+   "summary": "The Prototype Fast Breeder Reactor uses Mixed Oxide fuel derived from reprocessed spent fuel. Its core is surrounded by a Uranium-238 blanket in which fast neutrons convert U-238 into Plutonium-239. Liquid sodium is the coolant, and the reactor has a capacity of 500 MWe.",
+   "facts": [
+    "Fuel: Mixed Oxide (MOX) of plutonium and uranium.",
+    "The MOX fuel is derived from reprocessed spent fuel.",
+    "The core is surrounded by a Uranium-238 blanket, called the breeder blanket.",
+    "The breeder mechanism converts U-238 into Plutonium-239.",
+    "Uses fast neutrons to produce more nuclear fuel than it consumes while generating power.",
+    "Coolant system uses liquid sodium.",
+    "Liquid sodium has high thermal conductivity and does not slow neutrons.",
+    "Type: Fast Breeder Reactor with a capacity of 500 MWe."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Benefits: fuel, waste and energy",
+   "summary": "The PFBR produces more fuel than it consumes, which extends the use of nuclear resources. It recycles spent fuel from Stage I reactors, which reduces the volume of nuclear waste and its long-term radiotoxicity. The booklet also says it extracts about 60 times more energy from natural uranium than traditional PHWRs.",
+   "facts": [
+    "Result: the PFBR produces more fuel than it consumes.",
+    "Waste reduction: recycles spent fuel from Stage I reactors.",
+    "Reduces the volume of nuclear waste.",
+    "Reduces long-term radiotoxicity of nuclear waste.",
+    "Energy efficiency: extracts about 60 times more energy from natural uranium than traditional PHWRs.",
+    "PHWR stands for Pressurized Heavy Water Reactor, the comparison point for energy efficiency."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "India's three-stage nuclear programme",
+   "summary": "India's three-stage nuclear power programme was formulated by Homi Jehangir Bhabha to achieve long-term energy security using uranium and thorium resources. Stage I uses PHWRs, Stage II uses fast breeder reactors with MOX fuel and liquid sodium, and Stage III uses thorium-based advanced reactors. India presently has 24 nuclear power reactors operating in 6 states.",
+   "facts": [
+    "Formulated by Homi Jehangir Bhabha.",
+    "Aim: long-term energy security using uranium and thorium resources.",
+    "Stage I: PHWR with natural uranium fuel, heavy water coolant and heavy water moderator.",
+    "Stage I breeds Plutonium-239.",
+    "Stage II: Fast Breeder Reactor using MOX (Pu-239 + U-238) fuel and liquid sodium coolant.",
+    "Stage III: Advanced HWR / Thermal Breeder using Uranium-233 derived from thorium.",
+    "Stage III uses light water as coolant and heavy water as moderator.",
+    "India presently has 24 nuclear power reactors operating in 6 states, with installed capacity of 8780 MWe.",
+    "Kudankulam Power Plant in Tamil Nadu is the newest and largest; Tarapur Power Plant in Maharashtra is the first and oldest.",
+    "Atomic Energy Act, 1962 governs nuclear facilities; the Atomic Energy Regulatory Board (AERB) regulates them."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-t11-0",
+   "type": "MCQ",
+   "passage": "A nuclear reactor produces useful power only when its chain reaction keeps going on its own. Whether this happens depends on the neutrons inside the core, because each fission releases neutrons that can trigger further fissions. Engineers track how many neutrons are produced in each round compared with the round before. If this ratio falls below the level needed, the reaction fades away. If it holds at that level, the power stays steady. If it climbs above, the output grows quickly and must be brought under control.\n\nIndia's nuclear programme is designed to make the most of its resources over a long period. Early reactors use the fuel the country can readily supply, while later designs aim to create more fuel than they consume. The prototype reactor at Kalpakkam is a test of one such design, and its progress is being followed closely by scientists and policymakers.\n\nBuilding a reactor that breeds fuel is demanding. Its core must be surrounded by material that captures neutrons and turns into new fuel. Its coolant must remove heat efficiently and be chosen with care, because the choice affects how the neutrons behave. These decisions shape the reactor's cost, its safety record and the amount of waste it leaves behind.\n\nRegulation also matters. Nuclear and radiation facilities must follow national rules, and an expert body oversees their activities so that they run in a controlled way.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Consider the following statements:\nI. The PFBR uses Mixed Oxide fuel derived from reprocessed spent fuel.\nII. Stage I reactors breed Plutonium-239.\nIII. Kudankulam is the oldest nuclear power plant in India.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Assertion (A): Liquid sodium is used as the coolant in the PFBR because it slows neutrons effectively for fission.\nReason (R): Liquid sodium has high thermal conductivity and does not slow neutrons.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which agency is responsible for building the Prototype Fast Breeder Reactor at Kalpakkam?",
+     "options": [
+      "Atomic Energy Regulatory Board (AERB)",
+      "Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI)",
+      "Department of Atomic Energy",
+      "Indira Gandhi Centre for Atomic Research"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Compared with traditional Pressurized Heavy Water Reactors (PHWRs), by roughly how many times does the PFBR extract more energy from natural uranium?",
+     "options": [
+      "About 6 times",
+      "About 16 times",
+      "About 60 times",
+      "About 600 times"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about India's nuclear power sector:\nI. Tarapur is India's first and oldest nuclear power plant.\nII. India presently has 24 nuclear power reactors operating in 6 states.\nIII. The PFBR at Kalpakkam has an installed capacity of 8780 MWe.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "What is the capacity of the Prototype Fast Breeder Reactor at Kalpakkam?",
+     "options": [
+      "200 MWe",
+      "500 MWe",
+      "700 MWe",
+      "1000 MWe"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which Indian law governs the establishment and use of nuclear facilities and radioactive sources?",
+     "options": [
+      "Atomic Energy Act, 1962",
+      "Atomic Energy Act, 1982",
+      "Atomic Energy Act, 1992",
+      "Atomic Energy Act, 2002"
+     ]
+    },
+    {
+     "n": 8,
+     "q": "Match List I with List II:\nI. Stage I   ->   A. Uranium-233 from thorium\nII. Stage II   ->   B. Liquid sodium\nIII. Stage III   ->   C. Mixed Oxide (MOX) fuel\nIV. PFBR coolant   ->   D. Natural uranium fuel",
+     "options": [
+      "I-B, II-C, III-A, IV-D",
+      "I-D, II-B, III-C, IV-A",
+      "I-D, II-C, III-A, IV-B",
+      "I-C, II-D, III-B, IV-A"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-t11-1",
+   "type": "TITA",
+   "passage": "Energy security has become a central goal for any country that depends on imported fuel. Nuclear power is one tool for this goal, because a small amount of fuel can produce a large amount of electricity. Its expansion also raises questions about waste, safety and the long-term supply of raw material. Planners have therefore looked for ways to close the fuel cycle, so that used fuel is recycled rather than simply stored. Such a plan also aims to reduce dependence on imports, which is why it attracts so much attention.\n\nSuch a plan works best when the programme is carefully staged. Each stage is meant to make better use of the country's resources than the one before it. Every stage brings its own engineering challenges, from choosing the moderator and coolant to designing the reactor core. Staging also gives engineers time to build skills and test new technology before the next step.\n\nNuclear facilities in the country must follow national rules and are checked by a regulator that oversees nuclear and radiation activities. The programme is described as supporting a clean, low-carbon energy transition. Progress is therefore measured not only in megawatts but also in less waste, more domestic fuel and the building of skills that place the country among the world's advanced nuclear nations.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which country was the first to operate a commercial-scale Fast Breeder Reactor, before India? (name of the country)"
+    },
+    {
+     "n": 2,
+     "q": "What is the mass number of the uranium isotope that surrounds the PFBR core as a breeder blanket? (number only)"
+    },
+    {
+     "n": 3,
+     "q": "How many nuclear power reactors is India presently operating? (number)"
+    },
+    {
+     "n": 4,
+     "q": "Which plant is India's newest and largest nuclear power plant? (name of the plant)"
+    },
+    {
+     "n": 5,
+     "q": "Which Indian state hosts Tarapur, India's first and oldest nuclear power plant? (name of the state)"
+    },
+    {
+     "n": 6,
+     "q": "Which material serves as the coolant in Stage I (PHWR) reactors of India's programme? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "Who formulated India's three-stage nuclear power programme? (full name)"
+    }
+   ]
+  }
+ ]
+}
