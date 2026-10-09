@@ -1,0 +1,18 @@
+{
+ "questions": [
+  {"id": "t-t06-1", "n": 1, "my_answer": "1", "supported": true, "evidence": {"page": 30, "quote": "Establish I Model Solar Village Per District"}, "issues": []},
+  {"id": "t-t07-1", "n": 1, "my_answer": "35", "supported": true, "evidence": {"page": 35, "quote": "Maximum of 35 kg per Household"}, "issues": []},
+  {"id": "t-t07-1", "n": 2, "my_answer": "5", "supported": true, "evidence": {"page": 36, "quote": "PHH 5 kg/person/month at subsidised rates"}, "issues": []},
+  {"id": "t-t07-1", "n": 3, "my_answer": "81.35", "supported": true, "evidence": {"page": 36, "quote": "covering 81.35 crore people alongside regular PDS entitlements"}, "issues": ["time_sensitive"]},
+  {"id": "t-t11-1", "n": 4, "my_answer": "2012", "supported": true, "evidence": {"page": 54, "quote": "2012: Rio+20 Conference laid foundation for SDGs."}, "issues": []}
+ ],
+ "passage_flags": [
+  {"quiz": "q-t16-0", "claim": "Farmers, water managers and planners therefore watch the monsoon closely every year.", "problem": "Not stated in the booklet text; it is an added inference about who monitors the monsoon."},
+  {"quiz": "t-t13-1", "claim": "Passenger services and station projects all depend on the same network, so planning must cover many needs at once.", "problem": "Not stated in the booklet text; the 'planning must cover many needs' conclusion is an added inference."},
+  {"quiz": "t-t16-1", "claim": "Because the fault is active, engineers must consider the possibility of movement near a dam that would hold back a great volume of water.", "problem": "The booklet notes the fault is active and the reservoir area is crossed by it, but does not say engineers must consider movement near the dam."},
+  {"quiz": "t-t16-1", "claim": "Any decision to build a dam on its upper course therefore has effects far beyond the project site.", "problem": "Not stated in the booklet text; downstream or transboundary effects of the dam are not described."},
+  {"quiz": "t-t16-1", "claim": "Such a project should be judged carefully, with clear answers on the stability of the fault and the safety of nearby communities, before construction moves forward.", "problem": "Normative recommendation not found in the booklet text."},
+  {"quiz": "t-t16-1", "claim": "Local residents and officials would need reliable information before any such decision is taken.", "problem": "Normative statement not found in the booklet text."}
+ ],
+ "fact_flags": []
+}
