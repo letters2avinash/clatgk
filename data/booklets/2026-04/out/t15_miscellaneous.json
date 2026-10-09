@@ -1,0 +1,321 @@
+{
+ "topic": {
+  "title": "Miscellaneous: Current Affairs April 2026",
+  "chapter_title": "Miscellaneous",
+  "subtopics": [
+   {
+    "title": "Digital Platforms and Online Gaming",
+    "summary": "A US jury found Meta Platforms and YouTube liable for addictive platform design, shifting attention from content to design. India's Promotion and Regulation of Online Gaming Act, 2025 prohibits online money gaming, and the PROG Rules 2026 take effect from 1 May 2026. UPI completed 10 years in 2026 as a leading real-time payment system.",
+    "facts": [
+     "US jury found Meta Platforms and YouTube guilty of designing addictive platforms",
+     "Addictive features included endless scrolling and algorithm-driven feeds",
+     "Liability split: Meta about 70 per cent, YouTube about 30 per cent",
+     "Total compensation in the case: USD 6 million",
+     "Court avoided Section 230 of the Communications Decency Act, 1996; platforms treated as products",
+     "PROG Rules 2026 notified by MeitY, effective from 1 May 2026",
+     "Online Gaming Act 2025 prohibits online money gaming and permits e-sports and social games",
+     "Regulator: Online Gaming Authority of India (MeitY); final appeal lies to Secretary, MeitY",
+     "UPI completed 10 years in 2026; NPCI established in 2008",
+     "UPI operates under the Payment and Settlement Systems Act, 2007"
+    ],
+    "keywords": ["Meta", "YouTube", "Section 230", "addictive design", "PROG Rules 2026", "Online Gaming Authority of India", "UPI", "NPCI"]
+   },
+   {
+    "title": "International Relations",
+    "summary": "The United States and Iran agreed to a 2-week ceasefire after a prolonged conflict, with formal peace talks planned from 11 April 2026 in Islamabad. The ceasefire is conditional, and the US excluded Lebanon from it. India and South Korea elevated ties to a Futuristic Partnership under a Joint Strategic Vision during President Lee Jae-myung's visit.",
+    "facts": [
+     "US and Iran agreed to a 2-week ceasefire after a prolonged conflict",
+     "Formal peace talks to begin on 11 April 2026 in Islamabad, led by US VP JD Vance",
+     "Iran agreed to reopen the Strait of Hormuz for 2 weeks",
+     "US demands complete dismantling of Natanz, Isfahan and Fordow nuclear sites",
+     "US excludes Lebanon from the ceasefire",
+     "India-South Korea ties elevated to a Futuristic Partnership under a Joint Strategic Vision",
+     "India and South Korea signed 4 MoUs during President Lee Jae-myung's visit",
+     "Maritime cooperation: KOICA to map workforce gaps and set up a joint shipbuilding training centre",
+     "South Korea joins International Solar Alliance and Indo-Pacific Oceans Initiative",
+     "2028-29 declared as Year of India-ROK Friendship with focus on K-Pop, cinema and sports"
+    ],
+    "keywords": ["US-Iran ceasefire", "Strait of Hormuz", "Islamabad talks", "Lebanon", "Futuristic Partnership", "Joint Strategic Vision", "Lee Jae-myung", "International Solar Alliance"]
+   },
+   {
+    "title": "Polity, Governance and Schemes",
+    "summary": "The Supreme Court reaffirmed that Scheduled Caste status is limited to Hindus, Sikhs and Buddhists, so conversion to another religion leads to loss of SC status. Parliament passed the Andhra Pradesh Reorganisation (Amendment) Bill, 2026, naming Amaravati as the sole capital. Several government schemes were also extended or expanded, including the PM Internship Scheme and PMGSY-III.",
+    "facts": [
+     "SC status limited to Hindus, Sikhs and Buddhists under the Constitution (SC) Order, 1950",
+     "Conversion to another religion leads to loss of SC status",
+     "Doctrine of Eclipse: SC status is suspended, not permanently extinguished",
+     "Re-conversion to Hinduism, Sikhism or Buddhism can restore SC status",
+     "Only Parliament can amend the SC list",
+     "AP Reorganisation (Amendment) Bill, 2026 declares Amaravati as the sole capital",
+     "The AP amendment has retrospective effect from 2 June 2024",
+     "PM Internship Scheme: age 18-25 years; target of 1 crore internships over 5 years",
+     "PMGSY-III extended till March 2028; funding 60:40 (plain states) and 90:10 (NE and Himalayan states)",
+     "Namo Drone Didi Yojana: target of 15,000 drones for SHGs; Karnataka is top performer"
+    ],
+    "keywords": ["Scheduled Caste", "Doctrine of Eclipse", "Article 341", "Amaravati", "AP Reorganisation Act 2014", "PM Internship", "PMGSY-III", "Namo Drone Didi"]
+   },
+   {
+    "title": "Economy and Climate",
+    "summary": "India slipped from 4th to 6th largest economy in nominal GDP in the IMF's World Economic Outlook 2026, behind the UK and Japan. India withdrew its bid to host COP33 in 2028, and it will halt HFC production clearances after 31 December 2027. Under NDC 3.0, India targets a 47 per cent cut in emission intensity from 2005 levels.",
+    "facts": [
+     "India slipped from 4th to 6th largest economy in nominal GDP (IMF WEO 2026)",
+     "Ranking fell behind the United Kingdom and Japan",
+     "Reasons include GDP data revision with a new 2026 base year and rupee depreciation",
+     "SAED is an indirect tax under Section 147 of the Finance Act, 2002",
+     "SAED is revised every 2 weeks based on global crude prices and works as a windfall tax",
+     "SAED revenue is not shared with states, unlike GST",
+     "Dholera (Gujarat): first semiconductor fabrication SEZ, led by Tata Semiconductor with Taiwan's PSMC",
+     "India withdrew its bid to host COP33 (2028) under UNFCCC",
+     "HFC production clearances to be halted after 31 December 2027",
+     "NDC 3.0: 47 per cent emission intensity cut from 2005 levels; 60 per cent non-fossil capacity"
+    ],
+    "keywords": ["nominal GDP", "IMF", "SAED", "windfall tax", "Dholera SEZ", "COP33", "HFC", "Kigali Amendment", "NDC 3.0"]
+   },
+   {
+    "title": "Historical Events and Personalities",
+    "summary": "The 1526 Battle of Panipat between Babur and Ibrahim Lodi marked the foundation of the Mughal Empire in India. The section also covers the Sikh Gurus, the 1919 Jallianwala Bagh Massacre, Shaheed Diwas, and the reformers Jyotirao Phule and B. R. Ambedkar. Guru Tegh Bahadur was executed in Delhi on the orders of Aurangzeb.",
+    "facts": [
+     "First Battle of Panipat on 21 April 1526 between Babur and Ibrahim Lodi",
+     "Babur used the Tulughma strategy, Rumi (Ottoman) style artillery and matchlocks",
+     "Guru Nanak Dev, first Sikh Guru, started Guru ka Langar",
+     "Guru Arjun Dev composed the Adi Granth in 1604",
+     "Guru Tegh Bahadur (9th Guru) founded Anandpur Sahib and was executed in Delhi on orders of Aurangzeb",
+     "Jallianwala Bagh Massacre on 13 April 1919; official death toll 379",
+     "Shaheed Diwas on 23 March marks the 1931 execution of Bhagat Singh, Sukhdev and Rajguru",
+     "Jyotirao Phule founded Satyashodhak Samaj in 1873 and opened a girls' school in Pune in 1848",
+     "Ambedkar chaired the Drafting Committee of the Constitution and converted to Buddhism in 1956",
+     "Ambedkar received the Bharat Ratna (posthumous, 1990)"
+    ],
+    "keywords": ["Panipat", "Babur", "Ibrahim Lodi", "Guru Tegh Bahadur", "Jallianwala Bagh", "Shaheed Diwas", "Jyotirao Phule", "Ambedkar"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Miscellaneous April 2026 map",
+   "root": {
+    "label": "Miscellaneous April 2026",
+    "children": [
+     {"label": "Digital platforms and online gaming", "children": [
+      {"label": "US verdict on Meta and YouTube design", "children": []},
+      {"label": "PROG Rules 2026 effective 1 May", "children": []},
+      {"label": "UPI completed 10 years", "children": []}
+     ]},
+     {"label": "International relations", "children": [
+      {"label": "US-Iran ceasefire and talks", "children": []},
+      {"label": "India-South Korea Futuristic Partnership", "children": []}
+     ]},
+     {"label": "Polity, governance and schemes", "children": [
+      {"label": "SC status after religious conversion", "children": []},
+      {"label": "AP Reorganisation Amendment 2026", "children": []},
+      {"label": "PMGSY-III extended to March 2028", "children": []}
+     ]},
+     {"label": "Economy and climate", "children": [
+      {"label": "India 6th largest economy", "children": []},
+      {"label": "COP33 bid withdrawn", "children": []},
+      {"label": "NDC 3.0 targets", "children": []}
+     ]},
+     {"label": "Historical events and personalities", "children": [
+      {"label": "Battle of Panipat 1526", "children": []},
+      {"label": "Jallianwala Bagh 1919", "children": []},
+      {"label": "Sikh Gurus, Ambedkar, Phule", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Digital platforms map",
+   "root": {
+    "label": "Digital platforms and online gaming",
+    "children": [
+     {"label": "Social media addiction case", "children": [
+      {"label": "Liability for design, not content", "children": []},
+      {"label": "Court avoided Section 230 protection", "children": []},
+      {"label": "Meta about 70%, YouTube about 30%", "children": []}
+     ]},
+     {"label": "Online gaming rules", "children": [
+      {"label": "Online money gaming prohibited", "children": []},
+      {"label": "E-sports and social games permitted", "children": []},
+      {"label": "Regulator: OGAI under MeitY", "children": []}
+     ]},
+     {"label": "UPI", "children": [
+      {"label": "Launched in 2016", "children": []},
+      {"label": "Operated by NPCI", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "International relations map",
+   "root": {
+    "label": "International relations",
+    "children": [
+     {"label": "US-Iran ceasefire", "children": [
+      {"label": "2-week ceasefire", "children": []},
+      {"label": "Hormuz reopened for 2 weeks", "children": []},
+      {"label": "Lebanon excluded", "children": []}
+     ]},
+     {"label": "Peace talks from 11 April", "children": [
+      {"label": "Venue: Islamabad", "children": []},
+      {"label": "Led by US VP JD Vance", "children": []}
+     ]},
+     {"label": "India-South Korea ties", "children": [
+      {"label": "Futuristic Partnership", "children": []},
+      {"label": "4 MoUs signed", "children": []},
+      {"label": "Year of Friendship 2028-29", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Polity and governance map",
+   "root": {
+    "label": "Polity, governance and schemes",
+    "children": [
+     {"label": "SC status", "children": [
+      {"label": "Limited to Hindus, Sikhs, Buddhists", "children": []},
+      {"label": "Doctrine of Eclipse", "children": []},
+      {"label": "Only Parliament amends SC list", "children": []}
+     ]},
+     {"label": "AP Reorganisation Amendment", "children": [
+      {"label": "Amaravati sole capital", "children": []},
+      {"label": "Retrospective from 2 June 2024", "children": []}
+     ]},
+     {"label": "Schemes", "children": [
+      {"label": "PM Internship: age 18-25", "children": []},
+      {"label": "Namo Drone Didi: 15,000 drones", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Economy and climate map",
+   "root": {
+    "label": "Economy and climate",
+    "children": [
+     {"label": "Economy", "children": [
+      {"label": "India 6th largest by nominal GDP", "children": []},
+      {"label": "SAED revised every 2 weeks", "children": []},
+      {"label": "Dholera semiconductor SEZ", "children": []}
+     ]},
+     {"label": "Climate", "children": [
+      {"label": "COP33 bid withdrawn", "children": []},
+      {"label": "HFC clearances halt after 2027", "children": []},
+      {"label": "NDC 3.0 targets", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Historical events map",
+   "root": {
+    "label": "Historical events and personalities",
+    "children": [
+     {"label": "Battle of Panipat 1526", "children": [
+      {"label": "Babur vs Ibrahim Lodi", "children": []},
+      {"label": "Tulughma strategy", "children": []},
+      {"label": "Rumi artillery and matchlocks", "children": []}
+     ]},
+     {"label": "Sikh Gurus", "children": [
+      {"label": "Guru Nanak: Guru ka Langar", "children": []},
+      {"label": "Guru Tegh Bahadur: Anandpur Sahib", "children": []},
+      {"label": "Guru Arjun Dev: Adi Granth 1604", "children": []}
+     ]},
+     {"label": "Reformers and freedom struggle", "children": [
+      {"label": "Jallianwala Bagh 1919", "children": []},
+      {"label": "Ambedkar: Drafting Committee chair", "children": []},
+      {"label": "Phule: Satyashodhak Samaj 1873", "children": []}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Shaheed Diwas trio",
+   "mnemonic": "BSR: Brave Souls Resist",
+   "decode": [
+    {"key": "B", "meaning": "Bhagat Singh, founder of Naujawan Bharat Sabha and HSRA member, executed in 1931"},
+    {"key": "S", "meaning": "Sukhdev Thapar, key member of Naujawan Bharat Sabha and HSRA"},
+    {"key": "R", "meaning": "Shivaram Hari Rajguru, fired the first shot in the Saunders assassination"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Babur's 1526 military innovations",
+   "mnemonic": "Turn Rumi Guns",
+   "decode": [
+    {"key": "T", "meaning": "Tulughma strategy: army divided into flanking units attacking from sides and rear"},
+    {"key": "R", "meaning": "Rumi (Ottoman) artillery system: field artillery and matchlocks"},
+    {"key": "G", "meaning": "Gunpowder warfare: first effective use of cannons and matchlocks in open-field battle in India"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "NDC 3.0 targets",
+   "mnemonic": "Forty-seven, Sixty, Three-and-a-half",
+   "decode": [
+    {"key": "47", "meaning": "Per cent reduction in emission intensity from 2005 levels"},
+    {"key": "60", "meaning": "Per cent of installed power capacity from non-fossil sources"},
+    {"key": "3.5", "meaning": "Lower end, in billion tonnes CO2 equivalent, of the additional carbon sink target"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Digital Platforms Check",
+   "passage": "Digital platforms faced major legal and regulatory scrutiny in April 2026. A jury in the United States found Meta Platforms and YouTube liable for designing addictive products, such as endless scrolling and algorithm-driven feeds. The ruling treated the problem as one of platform design rather than the content users posted. The court did not apply the usual shield under Section 230 of the Communications Decency Act, and the platforms were treated as products. Liability was divided between the two companies.\n\nIn India, the government has notified rules for online gaming that take effect from 1 May 2026. These rules work alongside a law that prohibits online money gaming, meaning betting and wagering, while allowing e-sports and social or casual games. Games are assessed through a determination test, and registered platforms receive a digital certificate of registration. The framework also bans advertising of money gaming and requires banks and payment gateways to block transactions linked to prohibited platforms.\n\nThe Unified Payments Interface completed ten years in 2026 and shows how digital payments are growing. It allows instant bank-to-bank transfers through mobile phones and supports both peer-to-peer and peer-to-merchant payments. Its family of products extends to several other services designed for different users.",
+   "questions": [
+    {"q": "Which body regulates online gaming under the new framework?", "options": ["Online Gaming Authority of India", "Reserve Bank of India", "National Payments Corporation of India", "Ministry of Corporate Affairs"], "answer": 0, "explanation": "The Online Gaming Authority of India, under MeitY, is the regulator for online gaming."},
+    {"q": "What is the maximum imprisonment under the online gaming penalty provisions?", "options": ["Up to 1 year", "Up to 2 years", "Up to 3 years", "Up to 5 years"], "answer": 2, "explanation": "The penalties include imprisonment of up to 3 years."},
+    {"q": "Assertion (A): Online money gaming is prohibited under the new framework.\nReason (R): Registered e-sports with pre-declared prize pools are exempt from the monetary ban.\nChoose the correct option.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "answer": 1, "explanation": "Both statements are true, but the e-sports exemption is an exception and does not explain the general ban."},
+    {"q": "Match List I with List II:\nI. Regulator of online gaming   ->   A. Online Gaming Authority of India\nII. Operator of UPI   ->   B. National Payments Corporation of India\nIII. Low-value offline payments without PIN   ->   C. UPI Lite\nIV. UPI service for feature phones   ->   D. UPI 123Pay", "options": ["I-B, II-A, III-C, IV-D", "I-C, II-B, III-A, IV-D", "I-A, II-C, III-B, IV-D", "I-A, II-B, III-C, IV-D"], "answer": 3, "explanation": "The regulator is OGAI, NPCI operates UPI, UPI Lite serves low-value offline payments, and UPI 123Pay serves feature phones."},
+    {"q": "Consider the following statements:\nI. Online money gaming is prohibited under the Act.\nII. An appeal lies first to the Online Gaming Authority of India and then to the Secretary of MeitY.\nIII. The digital certificate of registration is valid for up to 15 years.\nWhich of the above statements is/are correct?", "options": ["II and III only", "I and III only", "I and II only", "I, II and III"], "answer": 2, "explanation": "Statement III is wrong because the certificate is valid for up to 10 years, while I and II are correct."},
+    {"q": "Consider the following statements about the social media case:\nI. The verdict treated the issue as platform design rather than content.\nII. The court applied Section 230 to protect the platforms.\nIII. Meta Platforms bore about 70 per cent of the liability.\nHow many of the above statements are correct?", "options": ["Only one", "Only two", "Only three", "None"], "answer": 1, "explanation": "Statement II is wrong because the court avoided Section 230, so statements I and III are correct."},
+    {"q": "What was the total compensation in the social media addiction case?", "options": ["USD 1 million", "USD 2 million", "USD 3 million", "USD 6 million"], "answer": 3, "explanation": "The total compensation in the case was USD 6 million."},
+    {"q": "In which year was UPI launched?", "options": ["2014", "2016", "2018", "2020"], "answer": 1, "explanation": "UPI was launched in 2016, and it completed 10 years in 2026."}
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Diplomacy Check",
+   "passage": "Diplomacy in April 2026 focused on two very different relationships. The United States and Iran agreed to a temporary ceasefire after a prolonged conflict, which paused the escalation of tensions in the region. Formal peace talks were planned to follow, and they were to be led by the United States Vice President. The arrangement remained fragile. The United States kept its military forces ready for combat, and Iran warned that it could close the Strait of Hormuz again if hostilities continued. The nuclear issue also stayed unresolved, with Washington demanding the complete dismantling of key nuclear sites.\n\nIndia and South Korea, meanwhile, moved their ties forward during a visit by South Korean President Lee Jae-myung. The two countries elevated their relationship to a Futuristic Partnership under a Joint Strategic Vision. Several agreements were signed, including cooperation on maritime skills and training. The partners also agreed to work together on artificial intelligence, next-generation information technology and joint research and development. Trade between the two countries is large, and South Korea has become a major investor in India. Defence cooperation includes the co-production of the K9 Vajra-T gun system, and the two sides plan to mark a shared friendship year in the future.",
+   "questions": [
+    {"q": "On what day of April 2026 were formal US-Iran peace talks to begin?", "answer": "11", "accept": ["11 April", "11th April", "April 11", "11th"], "explanation": "Formal peace talks were to begin on 11 April 2026 in Islamabad."},
+    {"q": "For how many weeks did the United States and Iran agree to a ceasefire? (in weeks)", "answer": "2", "accept": ["two", "2 weeks", "two weeks"], "explanation": "The US and Iran agreed to a 2-week ceasefire after a prolonged conflict."},
+    {"q": "What was the approximate India-South Korea trade volume in FY 2024-25? (in USD billion)", "answer": "26.89", "accept": ["26.9", "~26.89", "26.89 billion"], "explanation": "India-South Korea trade volume was about USD 26.89 billion in FY 2024-25."},
+    {"q": "How many MoUs did India and South Korea sign during President Lee Jae-myung's visit?", "answer": "4", "accept": ["four"], "explanation": "India and South Korea signed 4 MoUs during the visit."},
+    {"q": "Which international solar grouping did South Korea join?", "answer": "International Solar Alliance", "accept": ["ISA", "Intl Solar Alliance"], "explanation": "South Korea joined the International Solar Alliance along with the Indo-Pacific Oceans Initiative."},
+    {"q": "From which year does the India-ROK Year of Friendship period begin?", "answer": "2028", "accept": ["2028-29", "2028 - 29"], "explanation": "The period 2028-29 is declared as the Year of India-ROK Friendship."},
+    {"q": "Which country was excluded from the US-Iran ceasefire?", "answer": "Lebanon", "accept": ["Lebanon"], "explanation": "The US excludes Lebanon from the ceasefire, while Iran demands a comprehensive regional halt."}
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 72, "what": "PROG Rules penalty fine amount ('Fine up to 21 Crore') is garbled; not used"},
+  {"page": 73, "what": "Petrol and diesel SAED earlier and revised rates are garbled; not used"},
+  {"page": 74, "what": "PM Internship monthly stipend split and one-time grant amount are garbled; not used"},
+  {"page": 75, "what": "GDP figures in lakh crore and dollar terms are garbled (rupee symbols); not used"},
+  {"page": 75, "what": "COP33 host ('now likely to be hosted by South Korea') is in a jumbled column; not used"},
+  {"page": 77, "what": "Guru Ram Das lifespan dates read as (1534-1501); not used"},
+  {"page": 81, "what": "Namo Drone Didi subsidy ceiling ('up to %8 lakh') is garbled; not used"}
+ ]
+}

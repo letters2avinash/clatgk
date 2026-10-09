@@ -1,0 +1,334 @@
+{
+ "topic": {
+  "title": "Visit of Vice President C. P. Radhakrishnan to Sri Lanka",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "Bilateral Ties and Cooperation Areas",
+    "summary": "Vice President C. P. Radhakrishnan made the first-ever bilateral visit to Sri Lanka and held talks with President Anura Kumara Dissanayake in Colombo. The visit highlighted trade, development, defence and development-linked cooperation between India and Sri Lanka. India is Sri Lanka's largest trade partner and largest source of tourists.",
+    "facts": [
+     "First-ever bilateral visit to Sri Lanka by the Vice President",
+     "Talks with President Anura Kumara Dissanayake held in Colombo",
+     "India is Sri Lanka's largest trade partner and largest source of tourists",
+     "India-Sri Lanka FTA was signed in 2000",
+     "India supports development of Trincomalee as a Regional Energy and Industrial Hub",
+     "India and Sri Lanka jointly commission a Maritime Rescue Coordination Centre",
+     "Construction of Sampur Solar Power Plant in Sri Lanka",
+     "Joint exercises: SLINEX (Naval), MITRA SHAKTI (Army), MILAN (Multi-Lateral Naval)",
+     "MoUs under Multi-Sectoral Grant Assistance Programme focus on healthcare and women's empowerment",
+     "Sri Lanka joins the International Big Cat Alliance"
+    ],
+    "keywords": ["bilateral visit", "trade partner", "FTA 2000", "Trincomalee", "Sampur", "SLINEX", "MITRA SHAKTI", "MILAN", "Big Cat Alliance"]
+   },
+   {
+    "title": "Diaspora Schemes: PIO and OCI",
+    "summary": "The OCI scheme was introduced in 2005 through an amendment to the Citizenship Act, 1955, and was merged with the PIO scheme in 2015. PIO card holders need no visa to visit India for 15 years from the date of issue of the card. OCI holders get a multipurpose, multiple-entry, lifelong visa and are exempt from police reporting.",
+    "facts": [
+     "OCI scheme introduced in 2005 via amendment to the Citizenship Act, 1955",
+     "PIO and OCI schemes merged in 2015",
+     "PIO: a foreign citizen, except nationals of Pakistan, Afghanistan, Bangladesh, China, Iran, Bhutan, Sri Lanka and Nepal",
+     "PIO: a parent, grandparent or great-grandparent was born in and a permanent resident of India, or the person is a spouse of an Indian citizen or PIO",
+     "PIO card holders need no visa for 15 years from the date of issue of the card",
+     "PIO stay up to 180 days is exempt from FRRO/FRO registration; longer stays must register within 30 days",
+     "OCI eligibility covers persons eligible for Indian citizenship on 26.01.1950 and their minor children",
+     "Persons who were ever citizens of Pakistan or Bangladesh are not eligible for OCI",
+     "OCI holders get a multipurpose, multiple-entry, lifelong visa and are exempt from police reporting",
+     "OCI holders have no right to acquire agricultural or plantation properties"
+    ],
+    "keywords": ["PIO", "OCI", "Citizenship Act 1955", "2005", "2015", "FRRO", "NRI parity", "lifelong visa"]
+   },
+   {
+    "title": "Katchatheevu Island Dispute",
+    "summary": "Katchatheevu is an uninhabited 285-acre island in the Palk Strait, and its ownership remained disputed until 1974. Sri Lanka based its claim on early medieval rule and Portuguese jurisdiction, while India's claim traced control through the Ramnad Zamindari under the Nayak dynasty of Madurai. Tensions over Indian fishermen after the 2009 Sri Lanka Civil War have renewed demands over the island.",
+    "facts": [
+     "Katchatheevu is an uninhabited 285-acre island located in the Palk Strait",
+     "The island was once part of the Madras Presidency",
+     "Ownership remained a point of dispute between India and Sri Lanka until 1974",
+     "Sri Lanka's claim: Jaffna Kingdom ruled the island in the early medieval period",
+     "Sri Lanka's claim: Portuguese (1505-1658 CE) exercised jurisdiction over the islet",
+     "India's claim: control later shifted to the Ramnad Zamindari under the Nayak dynasty of Madurai in the 17th century",
+     "Indo-Sri Lankan Maritime Agreement 1974, under Indira Gandhi, agreed to cede the island to Sri Lanka",
+     "The 1974 agreement allowed Indian fishermen continued access to Katchatheevu",
+     "Additional Agreement of 1976 barred fishing by both countries in each other's EEZ, with the island at the boundary",
+     "After the 2009 Sri Lanka Civil War, arrests and torture allegations of Indian fishermen renewed Katchatheevu demands"
+    ],
+    "keywords": ["Katchatheevu", "Palk Strait", "1974", "1976 agreement", "Jaffna Kingdom", "Portuguese", "Nayak dynasty", "Madras Presidency"]
+   },
+   {
+    "title": "Sri Lanka Profile and Strategic Context",
+    "summary": "Colombo is the executive capital of Sri Lanka and Sri Jayawardenepura Kotte houses the legislature, with Harini Amarasuriya as Prime Minister and Anura Kumara Dissanayake as President. The LTTE, formed in 1976, and the 13th Amendment shape Sri Lanka's internal politics. China's growing presence through financial aid and Hambantota Port raises strategic concerns for India.",
+    "facts": [
+     "Capital: Colombo (Executive) and Sri Jayawardenepura Kotte (Legislature)",
+     "PM: Harini Amarasuriya; President: Anura Kumara Dissanayake",
+     "Currency: Sri Lankan Rupee",
+     "LTTE was formed in 1976 as a self-styled 'National Freedom Movement of People of Tamil Eelam'",
+     "LTTE undertook terrorist activities in Sri Lanka, especially against Sinhalese",
+     "13th Amendment of the Sri Lankan Constitution led to Provincial Councils with power-sharing for all 9 provinces",
+     "China's influence grows through financial aid and Hambantota Port",
+     "Chinese vessels Shi Yan-6 and Yuan Wang-5 conduct data collection, potentially supporting military operations against India",
+     "Multilateral forums include BIMSTEC, SAARC, Colombo Security Conclave and Indian Ocean Rim Association"
+    ],
+    "keywords": ["Colombo", "Sri Jayawardenepura Kotte", "Harini Amarasuriya", "LTTE", "13th Amendment", "Hambantota", "Shi Yan-6", "Yuan Wang-5", "BIMSTEC"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "VP Visit to Sri Lanka",
+   "root": {
+    "label": "VP Visit to Sri Lanka",
+    "children": [
+     {"label": "OCI and PIO schemes", "children": [
+      {"label": "OCI introduced 2005"},
+      {"label": "PIO and OCI merged 2015"},
+      {"label": "Lifelong multiple-entry visa"}
+     ]},
+     {"label": "Bilateral cooperation", "children": [
+      {"label": "Largest trade partner"},
+      {"label": "Trincomalee energy hub"},
+      {"label": "Sampur solar plant"},
+      {"label": "Joint naval and army exercises"}
+     ]},
+     {"label": "Katchatheevu dispute", "children": [
+      {"label": "Uninhabited, in Palk Strait"},
+      {"label": "Ceded to Sri Lanka in 1974"},
+      {"label": "1976 EEZ fishing ban"}
+     ]},
+     {"label": "Sri Lanka context", "children": [
+      {"label": "LTTE formed 1976"},
+      {"label": "13th Amendment: provincial councils"},
+      {"label": "China via Hambantota Port"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Bilateral Ties",
+   "root": {
+    "label": "Bilateral Ties",
+    "children": [
+     {"label": "Trade and tourism", "children": [
+      {"label": "Largest trade partner"},
+      {"label": "Largest tourist source"},
+      {"label": "FTA signed in 2000"}
+     ]},
+     {"label": "Development", "children": [
+      {"label": "Trincomalee energy hub"},
+      {"label": "Maritime Rescue Coordination Centre"},
+      {"label": "Sampur solar plant"}
+     ]},
+     {"label": "Joint exercises", "children": [
+      {"label": "SLINEX: naval"},
+      {"label": "MITRA SHAKTI: army"},
+      {"label": "MILAN: multi-lateral naval"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Diaspora Schemes",
+   "root": {
+    "label": "Diaspora Schemes",
+    "children": [
+     {"label": "PIO scheme", "children": [
+      {"label": "No visa for 15 years"},
+      {"label": "180-day registration exemption"},
+      {"label": "Parity with NRIs"}
+     ]},
+     {"label": "OCI scheme", "children": [
+      {"label": "Introduced 2005"},
+      {"label": "Lifelong multiple-entry visa"},
+      {"label": "No agricultural property rights"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Katchatheevu",
+   "root": {
+    "label": "Katchatheevu",
+    "children": [
+     {"label": "Claims", "children": [
+      {"label": "Sri Lanka: Jaffna Kingdom"},
+      {"label": "Sri Lanka: Portuguese jurisdiction"},
+      {"label": "India: Nayak dynasty control"}
+     ]},
+     {"label": "Agreements", "children": [
+      {"label": "1974: ceded to Sri Lanka"},
+      {"label": "1974: fishermen access continued"},
+      {"label": "1976: no fishing in each other's EEZ"}
+     ]},
+     {"label": "Recent tensions", "children": [
+      {"label": "Arrests and torture allegations"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Sri Lanka Context",
+   "root": {
+    "label": "Sri Lanka Context",
+    "children": [
+     {"label": "Politics", "children": [
+      {"label": "Colombo: executive capital"},
+      {"label": "Kotte: legislature"},
+      {"label": "13th Amendment: provincial councils"}
+     ]},
+     {"label": "Security", "children": [
+      {"label": "LTTE formed 1976"},
+      {"label": "China: Hambantota Port"},
+      {"label": "Chinese vessels collect data"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "OCI benefits",
+   "mnemonic": "Many Mango Lovers Exempt",
+   "decode": [
+    {"key": "Many", "meaning": "Multipurpose visa"},
+    {"key": "Mango", "meaning": "Multiple-entry visa"},
+    {"key": "Lovers", "meaning": "Lifelong visa"},
+    {"key": "Exempt", "meaning": "Exempt from police reporting"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Katchatheevu claimants in order",
+   "mnemonic": "Just Pack Nicely",
+   "decode": [
+    {"key": "Just", "meaning": "Jaffna Kingdom ruled the island in the early medieval period"},
+    {"key": "Pack", "meaning": "Portuguese jurisdiction over the islet, 1505-1658 CE"},
+    {"key": "Nicely", "meaning": "Nayak dynasty control in the 17th century"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "VP Visit: Ties and Schemes",
+   "passage": "Vice President C. P. Radhakrishnan made the first-ever bilateral visit to Sri Lanka and held talks with President Anura Kumara Dissanayake in Colombo. The visit highlighted several areas where India and Sri Lanka work together. India has been Sri Lanka's largest trade partner and largest source of tourists, and the two countries share a free trade agreement that governs much of their commercial relationship. Cooperation also extends to development projects, including the construction of a solar power plant at Sampur in Sri Lanka. Defence ties are expressed through joint exercises between the armed forces, such as SLINEX, MITRA SHAKTI and MILAN. The visit also brought the Overseas Citizen of India scheme into focus. During this period Sri Lanka joined the International Big Cat Alliance. The two neighbours are separated by the Palk Strait, and the uninhabited island of Katchatheevu lies in that strait. Regional forums such as BIMSTEC and SAARC also feature in the India-Sri Lanka relationship. Sri Lanka's President is Anura Kumara Dissanayake, while its Prime Minister is Harini Amarasuriya. Together, trade, development, defence, diaspora and regional cooperation form the main dimensions of the bilateral relationship discussed during the visit.",
+   "questions": [
+    {
+     "q": "In which year was the Overseas Citizen of India (OCI) scheme introduced?",
+     "options": ["1955", "1974", "2005", "2015"],
+     "answer": 2,
+     "explanation": "The OCI scheme was introduced in 2005 via an amendment to the Citizenship Act, 1955."
+    },
+    {
+     "q": "Which two schemes were merged in 2015?",
+     "options": ["OCI and the Citizenship Act", "PIO and OCI schemes", "NRI and PIO schemes", "OCI and the Indian Housing Project"],
+     "answer": 1,
+     "explanation": "The PIO and OCI schemes were merged in 2015."
+    },
+    {
+     "q": "Assertion (A): Katchatheevu remained a point of dispute between India and Sri Lanka until 1974.\nReason (R): The Indo-Sri Lankan Maritime Agreement of 1974 agreed to cede Katchatheevu Island to Sri Lanka.\nIn the light of the above statements, choose the correct answer.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 0,
+     "explanation": "The 1974 cession under the maritime agreement is what ended the dispute that had remained open until that year."
+    },
+    {
+     "q": "Match List I with List II:\nI. SLINEX   ->   A. Multi-lateral naval exercise\nII. MITRA SHAKTI   ->   B. Regional energy and industrial hub\nIII. MILAN   ->   C. Army joint exercise\nIV. Trincomalee   ->   D. Naval exercise",
+     "options": ["I-A, II-B, III-C, IV-D", "I-D, II-C, III-A, IV-B", "I-C, II-D, III-B, IV-A", "I-B, II-A, III-D, IV-C"],
+     "answer": 1,
+     "explanation": "SLINEX is a naval exercise (D), MITRA SHAKTI an army exercise (C), MILAN a multi-lateral naval exercise (A) and Trincomalee a regional energy and industrial hub (B)."
+    },
+    {
+     "q": "Consider the following statements about Katchatheevu Island:\nI. The island is an uninhabited island located in the Palk Strait.\nII. The Indo-Sri Lankan Maritime Agreement of 1974 was signed under Rajiv Gandhi as Prime Minister.\nIII. The Additional Agreement of 1976 prevented both countries from fishing in each other's Exclusive Economic Zones.\nWhich of the above statements is/are correct?",
+     "options": ["I only", "II and III only", "I and II only", "I and III only"],
+     "answer": 3,
+     "explanation": "The 1974 agreement was under Indira Gandhi, so statement II is wrong, while statements I and III are correct."
+    },
+    {
+     "q": "Consider the following statements about Overseas Citizen of India (OCI) status:\nI. Minor children of eligible persons are also eligible for OCI.\nII. Persons who had ever been citizens of Pakistan or Bangladesh are not eligible for OCI.\nIII. OCI holders can acquire agricultural or plantation properties in India.\nIV. OCI holders are exempted from police reporting for any length of stay.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "All of the above"],
+     "answer": 2,
+     "explanation": "Statements I, II and IV are correct, while statement III is wrong because OCI holders lack the right to acquire agricultural or plantation properties."
+    },
+    {
+     "q": "Under which Indian Prime Minister did India agree to cede Katchatheevu Island to Sri Lanka?",
+     "options": ["Indira Gandhi", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Rajiv Gandhi"],
+     "answer": 0,
+     "explanation": "The Indo-Sri Lankan Maritime Agreement of 1974 was headed by Indira Gandhi's government, which agreed to cede the island."
+    },
+    {
+     "q": "Which city houses the Legislature of Sri Lanka?",
+     "options": ["Colombo", "Kandy", "Jaffna", "Sri Jayawardenepura Kotte"],
+     "answer": 3,
+     "explanation": "Sri Jayawardenepura Kotte houses the legislature, while Colombo is the executive capital."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "Katchatheevu: Claims and Agreements",
+   "passage": "Katchatheevu is a small island located in the Palk Strait between India and Sri Lanka. The island is uninhabited, yet its ownership remained a point of dispute between the two countries for a long time. Sri Lanka's claim rests on history, since the island was initially ruled by a kingdom of Sri Lanka in the early medieval period. Sri Lanka also argues that a European power which occupied the island for over a century exercised jurisdiction over the islet. India's claim, on the other hand, holds that control of the island later passed to a zamindari, which functioned under a ruling dynasty based in the southern part of the country. Over the years, maritime agreements tried to settle the dispute and strengthen ties. One agreement allowed Indian fishermen continued access to the island, and a later additional agreement prevented both countries from fishing in each other's exclusive economic zones. After the civil war in Sri Lanka ended, tensions rose over Indian fishermen in Sri Lankan waters, leading to arrests, torture allegations and renewed demands over the island.",
+   "questions": [
+    {
+     "q": "What is the area of Katchatheevu Island, in acres?",
+     "answer": "285",
+     "accept": ["285 acres", "285-acre", "285 acre"],
+     "explanation": "Katchatheevu is an uninhabited 285-acre island in the Palk Strait."
+    },
+    {
+     "q": "In which year was the Indo-Sri Lankan Maritime Agreement signed that ceded Katchatheevu to Sri Lanka?",
+     "answer": "1974",
+     "accept": ["1974 AD"],
+     "explanation": "The Indo-Sri Lankan Maritime Agreement of 1974 agreed to cede Katchatheevu to Sri Lanka."
+    },
+    {
+     "q": "Which European power occupied the island during 1505-1658 CE?",
+     "answer": "Portuguese",
+     "accept": ["Portugal"],
+     "explanation": "The Portuguese occupied the island from 1505 to 1658 CE and exercised jurisdiction over the islet, per Sri Lanka's claim."
+    },
+    {
+     "q": "Which dynasty of Madurai held the island under the Ramnad Zamindari in the 17th century?",
+     "answer": "Nayak",
+     "accept": ["Nayak dynasty", "Nayaka", "Nayaks"],
+     "explanation": "India's claim traces control to the Ramnad Zamindari under the Nayak dynasty of Madurai in the 17th century."
+    },
+    {
+     "q": "Which kingdom initially ruled the island in the early medieval period?",
+     "answer": "Jaffna Kingdom",
+     "accept": ["Jaffna", "Jaffna Kingdom of Sri Lanka"],
+     "explanation": "Sri Lanka's claim begins with rule by the Jaffna Kingdom in the early medieval period."
+    },
+    {
+     "q": "Before the cession, which Indian presidency was Katchatheevu once part of?",
+     "answer": "Madras Presidency",
+     "accept": ["Madras"],
+     "explanation": "Ownership of Katchatheevu, once part of the Madras Presidency, remained disputed until 1974."
+    },
+    {
+     "q": "What is the island's sole structure?",
+     "answer": "St. Anthony's Church",
+     "accept": ["St Anthony's Church", "St. Anthony Church", "St Anthony Church"],
+     "explanation": "St. Anthony's Church is the island's sole structure."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 5, "what": "Generation numbers in 'Extended OCI eligibility from 4th Generation to 6th Generation' garbled ('th th' OCR); not used"},
+  {"page": 5, "what": "LTTE bullet column interleaved: attribution of the Rajiv Gandhi assassination and 'supporting military operations against India' unclear; not used"},
+  {"page": 6, "what": "'Aimwasto Settle Discord' stated purpose of the 1974 agreement garbled; not used"},
+  {"page": 6, "what": "'Volcanic eruption in 14th century' formation date garbled; not used"}
+ ]
+}

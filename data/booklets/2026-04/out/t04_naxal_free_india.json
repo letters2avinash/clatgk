@@ -1,0 +1,336 @@
+{
+ "topic": {
+  "title": "India Declared Naxal-Free",
+  "chapter_title": "National News and Issues",
+  "subtopics": [
+   {
+    "title": "Origins, Ideology and Causes of LWE",
+    "summary": "Left Wing Extremism (LWE) traces back to a 1967 uprising in Naxalbari, West Bengal, and aims at societal and political change through revolutionary methods. Its ideology seeks to overthrow the central government through armed revolution and to set up a communist state based on Maoist principles. The booklet links the movement's growth to tribal displacement, tribal resentment over forest laws, poverty and weak governance.",
+    "facts": [
+     "Originated in the 1967 uprising in Naxalbari, West Bengal",
+     "Aim: societal and political change through revolutionary methods",
+     "Ideology: overthrow the central government through armed revolution",
+     "Methods include violence and guerrilla warfare",
+     "Goal: establish a communist state based on Maoist principles",
+     "Massive displacement of tribal population due to development projects and mining operations",
+     "Forest (Conservation) Act 1980 prohibits tribes from harvesting forest resources",
+     "Poverty and lack of sustainable means drive people to join the Naxalite movement",
+     "Lack of effective governance is a listed factor responsible for the movement",
+     "Insufficient technical intelligence against Naxalism is a listed factor responsible for the movement"
+    ],
+    "keywords": ["Naxalbari", "1967", "Maoist principles", "Forest (Conservation) Act 1980", "tribal displacement", "guerrilla warfare"]
+   },
+   {
+    "title": "Current LWE Landscape and Factors Behind the Decline",
+    "summary": "The booklet reports a sharp fall in LWE-affected districts, from 126 in 2014 to about 7 in 2026, with the remaining hotspots in Chhattisgarh. Violence fell as well, with incidents down 88% and deaths down 90% between 2010 and 2025. The measures credited for this include tactical operations, road and mobile connectivity, action against funding networks, surrender incentives and administrative expansion.",
+    "facts": [
+     "LWE-affected districts reduced from 126 (2014) to about 7 (2026)",
+     "Residual hotspots: Bijapur, Sukma and Narayanpur in Chhattisgarh",
+     "Incidents of violence down 88%: 1,936 in 2010 to 234 in 2025",
+     "Deaths down 90%: 1,005 in 2010",
+     "Red Corridor: severe Naxalism-Maoist insurgency across ten listed states, including Kerala and Telangana",
+     "Tactical dominance by COBRA and Greyhounds, using company operating bases to penetrate remote zones",
+     "Infrastructure integration: 12,000 km of all-weather roads reduced geographical isolation of insurgents",
+     "Information warfare: 9,000+ mobile (4G) towers countered Maoist propaganda and integrated tribal regions digitally",
+     "Financial crackdown: NIA and Enforcement Directorate action and asset seizures disrupted urban funding networks",
+     "Surrender-cum-Rehabilitation Policy: 10,000+ cadres surrendered since 2014, with cash benefits and skill training"
+    ],
+    "keywords": ["Red Corridor", "COBRA", "Greyhounds", "all-weather roads", "4G towers", "Janatana Sarkar", "surrender policy", "unified command"]
+   },
+   {
+    "title": "Government Initiatives: Policy, SAMADHAN and Tribal Development",
+    "summary": "The government's response combines a 2015 national policy and action plan with the SAMADHAN doctrine, a set of eight elements running from leadership to financing. Parallel development schemes target tribal regions, including the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan and PM-JANMAN. The booklet also cites the 2006 Bandyopadhyay Committee, which highlighted governance and discrimination gaps faced by tribals.",
+    "facts": [
+     "National Policy and Action Plan to address Left Wing Extremism, 2015",
+     "SAMADHAN doctrine: Smart leadership, Aggressive strategy, Motivation and training, Actionable intelligence",
+     "SAMADHAN also covers Dashboard based KPIs and KRAs, Harnessing technology, Action plan for each theatre and No access to financing",
+     "Special Central Assistance (SCA) supports public infrastructure and services",
+     "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan covers 63,000+ tribal villages, with focus on housing and water",
+     "PM-JANMAN targets 75 PVTGs for basic infrastructure and healthcare in remote habitations",
+     "Van Dhan Vikas Kendra: 2,200+ clusters promote minor forest produce value addition",
+     "Bastariya Battalion: local recruits in Chhattisgarh who know the language and terrain",
+     "Bandyopadhyay Committee (2006) highlighted lack of governance and socio-political and cultural discrimination against tribals",
+     "Bandyopadhyay Committee recommended tribal-friendly land acquisition and rehabilitation"
+    ],
+    "keywords": ["SAMADHAN", "2015 policy", "Dharti Aaba", "PM-JANMAN", "Van Dhan Vikas Kendra", "Bandyopadhyay Committee", "Bastariya Battalion"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "India Declared Naxal-Free: Overview",
+   "root": {
+    "label": "India declared Naxal-free (MHA, 2026)",
+    "children": [
+     {"label": "Origins and ideology", "children": [
+      {"label": "1967 uprising in Naxalbari"},
+      {"label": "Overthrow government by armed revolution"},
+      {"label": "Communist state on Maoist principles"}
+     ]},
+     {"label": "Causes", "children": [
+      {"label": "Tribal displacement by projects and mining"},
+      {"label": "Forest (Conservation) Act 1980 restrictions"},
+      {"label": "Poverty and lack of sustainable means"},
+      {"label": "Weak governance"}
+     ]},
+     {"label": "Decline indicators", "children": [
+      {"label": "LWE districts: 126 (2014) to about 7 (2026)"},
+      {"label": "Incidents down 88%, 2010 to 2025"},
+      {"label": "Deaths down 90%, 2010 to 2025"}
+     ]},
+     {"label": "Security and connectivity", "children": [
+      {"label": "COBRA and Greyhounds tactical dominance"},
+      {"label": "12,000 km all-weather roads"},
+      {"label": "9,000+ mobile (4G) towers"}
+     ]},
+     {"label": "Funding and surrender", "children": [
+      {"label": "Asset seizures disrupt urban funding"},
+      {"label": "10,000+ cadres surrendered since 2014"}
+     ]},
+     {"label": "Government strategy", "children": [
+      {"label": "National Policy and Action Plan, 2015"},
+      {"label": "SAMADHAN doctrine"},
+      {"label": "Dharti Aaba and PM-JANMAN schemes"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Origins, Ideology and Causes",
+   "root": {
+    "label": "LWE: origins, ideology and causes",
+    "children": [
+     {"label": "Origin and aim", "children": [
+      {"label": "1967 uprising in Naxalbari, West Bengal"},
+      {"label": "Aim: revolutionary societal and political change"}
+     ]},
+     {"label": "Ideology", "children": [
+      {"label": "Overthrow central government by armed revolution"},
+      {"label": "Communist state on Maoist principles"}
+     ]},
+     {"label": "Causes", "children": [
+      {"label": "Tribal displacement by projects and mining"},
+      {"label": "Forest (Conservation) Act 1980 restrictions"},
+      {"label": "Poverty and lack of sustainable means"},
+      {"label": "Weak governance and technical intelligence gaps"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Landscape and Factors Behind the Decline",
+   "root": {
+    "label": "Current LWE landscape and decline",
+    "children": [
+     {"label": "Decline indicators", "children": [
+      {"label": "Districts: 126 (2014) to about 7 (2026)"},
+      {"label": "Incidents down 88%, 2010 to 2025"},
+      {"label": "Deaths down 90%, 2010 to 2025"}
+     ]},
+     {"label": "Security and tactics", "children": [
+      {"label": "COBRA and Greyhounds"},
+      {"label": "Company operating bases in remote zones"}
+     ]},
+     {"label": "Connectivity", "children": [
+      {"label": "12,000 km all-weather roads"},
+      {"label": "9,000+ mobile (4G) towers"}
+     ]},
+     {"label": "Funding and cadres", "children": [
+      {"label": "Asset seizures disrupt urban funding"},
+      {"label": "10,000+ cadres surrendered since 2014"}
+     ]},
+     {"label": "Governance", "children": [
+      {"label": "Eklavya Model Residential Schools"},
+      {"label": "Aspirational Districts Programme"},
+      {"label": "Unified command structure"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Government Initiatives Against LWE",
+   "root": {
+    "label": "Government initiatives against LWE",
+    "children": [
+     {"label": "Policy framework", "children": [
+      {"label": "National Policy and Action Plan, 2015"},
+      {"label": "Bandyopadhyay Committee, 2006"}
+     ]},
+     {"label": "SAMADHAN doctrine", "children": [
+      {"label": "Smart leadership"},
+      {"label": "Aggressive strategy"},
+      {"label": "Motivation and training"},
+      {"label": "Actionable intelligence"},
+      {"label": "Dashboard based KPIs and KRAs"},
+      {"label": "Harnessing technology"},
+      {"label": "Action plan for each theatre"},
+      {"label": "No access to financing"}
+     ]},
+     {"label": "Tribal development schemes", "children": [
+      {"label": "Dharti Aaba: 63,000+ tribal villages"},
+      {"label": "PM-JANMAN: 75 PVTGs"},
+      {"label": "Van Dhan Vikas Kendra: 2,200+ clusters"}
+     ]},
+     {"label": "Forces", "children": [
+      {"label": "Greyhounds in Andhra Pradesh"},
+      {"label": "Bastariya Battalion in Chhattisgarh"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "SAMADHAN Doctrine",
+   "mnemonic": "Smart Aims Mean Actionable Dashboards Harnessing Action, No Financing",
+   "decode": [
+    {"key": "S", "meaning": "Smart leadership"},
+    {"key": "A", "meaning": "Aggressive strategy"},
+    {"key": "M", "meaning": "Motivation and training"},
+    {"key": "A", "meaning": "Actionable intelligence"},
+    {"key": "D", "meaning": "Dashboard based KPIs and KRAs"},
+    {"key": "H", "meaning": "Harnessing technology"},
+    {"key": "A", "meaning": "Action plan for each theatre"},
+    {"key": "N", "meaning": "No access to financing"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Causes of LWE",
+   "mnemonic": "Displaced Tribals Poorly Governed",
+   "decode": [
+    {"key": "D", "meaning": "Massive displacement of tribal population by development projects and mining"},
+    {"key": "T", "meaning": "Tribal dissatisfaction with the Forest (Conservation) Act 1980"},
+    {"key": "P", "meaning": "Poverty and lack of sustainable means"},
+    {"key": "G", "meaning": "Lack of effective governance"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Origins and Causes Check",
+   "passage": "Left Wing Extremism, commonly known as Naxalism, is a movement that seeks social and political change through revolutionary methods. Its followers aim to overthrow the central government through armed revolution, relying on violence and guerrilla warfare. Their long-term goal is to establish a communist state based on Maoist principles. The movement has been most active in the forested and tribal parts of central and eastern India, where the state's presence has often been thin. The movement's support has deep roots in the lives of tribal communities. Large numbers of tribal people have been displaced as development projects and mining operations expanded into their homelands. Many tribal families also resent laws that limit their access to forest resources, which are central to their livelihoods. Poverty and a lack of sustainable means of earning a living push many people towards the movement, and a lack of effective governance is also identified as a contributing factor. Any government response therefore has to address the economic and administrative gaps that the movement draws on, alongside security operations. The booklet presents these problems as connected, so a response has to work on several fronts at once. Development work in tribal areas, including basic housing, water and services, is part of this wider approach.",
+   "questions": [
+    {
+     "q": "The Naxalite movement derives its name from which place?",
+     "options": ["Naxalbari district, Odisha", "Naxalbari town, Jharkhand", "Naxalbari village, West Bengal", "Naxalbari village, Bihar"],
+     "answer": 2,
+     "explanation": "The booklet says the movement began with the 1967 uprising in Naxalbari, West Bengal."
+    },
+    {
+     "q": "Assertion (A): Poverty and lack of sustainable means have pushed people to join the Naxalite movement.\nReason (R): Insufficient technical intelligence against Naxalism is listed among the factors responsible for the movement.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "The booklet lists poverty and insufficient technical intelligence as separate factors, so R is true but does not explain A."
+    },
+    {
+     "q": "Match List I with List II:\nList I\nI. Infrastructure integration\nII. Information warfare\nIII. Human capital strategy\nIV. Financial crackdown\nList II\nA. 9,000+ mobile (4G) towers\nB. 12,000 km of all-weather roads\nC. Surrender-cum-Rehabilitation Policy\nD. NIA and Enforcement Directorate asset seizures",
+     "options": ["I-A, II-B, III-C, IV-D", "I-B, II-A, III-D, IV-C", "I-C, II-A, III-B, IV-D", "I-B, II-A, III-C, IV-D"],
+     "answer": 3,
+     "explanation": "Infrastructure integration matches the all-weather roads, information warfare the 4G towers, human capital the surrender policy and financial crackdown the asset seizures."
+    },
+    {
+     "q": "Consider the following statements about Left Wing Extremism:\nI. Its ideology seeks to establish a communist state based on Maoist principles.\nII. It originated from a 1967 uprising in Naxalbari, Bihar.\nIII. The Forest (Conservation) Act 1980 allows tribes to harvest forest resources.\nWhich of the above statements is/are correct?",
+     "options": ["II and III only", "I only", "I and III only", "I, II and III"],
+     "answer": 1,
+     "explanation": "Statement II is wrong because the uprising was in Naxalbari, West Bengal, and statement III is wrong because the Act prohibits such harvesting."
+    },
+    {
+     "q": "Consider the following statements about government initiatives against LWE:\nI. Dharti Aaba Janjatiya Gram Utkarsh Abhiyan covers more than 63,000 tribal villages.\nII. PM-JANMAN targets 175 PVTGs.\nIII. Van Dhan Vikas Kendra has more than 2,200 clusters promoting minor forest produce value addition.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and III match the booklet, while statement II is wrong because PM-JANMAN targets 75 PVTGs."
+    },
+    {
+     "q": "Which state is the Greyhounds, an elite commando force, associated with?",
+     "options": ["Andhra Pradesh", "Chhattisgarh", "Jharkhand", "Odisha"],
+     "answer": 0,
+     "explanation": "The booklet describes the Greyhounds as an elite commando force in Andhra Pradesh."
+    },
+    {
+     "q": "Which ministry officially declared India Naxal-Free?",
+     "options": ["Ministry of Defence", "Ministry of Tribal Affairs", "Ministry of Home Affairs", "Ministry of Rural Development"],
+     "answer": 2,
+     "explanation": "The booklet states that the Ministry of Home Affairs declared India Naxal-Free."
+    },
+    {
+     "q": "Consider the following statements:\nI. Kerala is among the states named in the Red Corridor.\nII. Gujarat is among the states named in the Red Corridor.\nWhich of the above statements is/are correct?",
+     "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+     "answer": 0,
+     "explanation": "The booklet's Red Corridor list includes Kerala but does not include Gujarat."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Decline and Response Check",
+   "passage": "In recent years, the number of districts affected by Left Wing Extremism has fallen sharply, and violence has declined in step. Security forces have moved into areas that were once hard to reach. Specialised units operating from bases closer to remote zones have pressed the movement hard, while the state has also tried to close the gap between remote regions and the rest of the country. Connectivity has played a major role. Better road links have reduced the geographical isolation in which insurgents once moved, and expanded mobile networks have helped counter propaganda and bring tribal regions into the digital world. The state has also gone after the money that sustains the movement. Investigation agencies have carried out operations and seized assets, which has disrupted the networks that supply funds from urban areas. The movement also depended on its own system of control in some villages. Administrative efforts have aimed to replace that system with state institutions, including residential schools and programmes for aspirational districts. Coordination between states has been another factor, making it harder for armed cadres to escape across state borders. A surrender and rehabilitation policy has encouraged many members to give up violence and take up a new life, with cash benefits and skill training on offer. These steps are described as connected, so success depends on them working together.",
+   "questions": [
+    {
+     "q": "How many districts were affected by Left Wing Extremism in 2014? (give the number)",
+     "answer": "126",
+     "accept": ["126 districts", "one hundred twenty-six"],
+     "explanation": "The booklet says LWE-affected districts reduced from 126 in 2014 to about 7 in 2026."
+    },
+    {
+     "q": "Under infrastructure integration, how many km of all-weather roads were constructed? (give the number in km)",
+     "answer": "12,000",
+     "accept": ["12000", "12,000 km", "12000 km"],
+     "explanation": "The booklet records construction of 12,000 km of all-weather roads under infrastructure integration."
+    },
+    {
+     "q": "What figure, as stated in the booklet, is given for mobile (4G) towers deployed under information warfare? (give the number)",
+     "answer": "9,000",
+     "accept": ["9000", "9,000+", "9000+"],
+     "explanation": "The booklet records deployment of 9,000+ mobile (4G) towers under information warfare."
+    },
+    {
+     "q": "Apart from COBRA, which elite force is named for tactical dominance against Naxals?",
+     "answer": "Greyhounds",
+     "accept": ["Greyhound"],
+     "explanation": "The booklet names COBRA and Greyhounds as the elite forces used for tactical dominance."
+    },
+    {
+     "q": "What is the name of the Maoist parallel governance system that administrative expansion replaced?",
+     "answer": "Janatana Sarkar",
+     "accept": ["Janatana sarkar", "Janata Sarkar"],
+     "explanation": "The booklet says administrative expansion replaced Maoist parallel governance, called Janatana Sarkar."
+    },
+    {
+     "q": "How many cadres have surrendered since 2014 under the Surrender-cum-Rehabilitation Policy? (give the number)",
+     "answer": "10,000",
+     "accept": ["10000", "10,000+", "10000+"],
+     "explanation": "The booklet records 10,000+ cadres surrendered since 2014 under this policy."
+    },
+    {
+     "q": "In which state are the residual hotspots Bijapur, Sukma and Narayanpur located?",
+     "answer": "Chhattisgarh",
+     "accept": ["Chattisgarh"],
+     "explanation": "The booklet lists these three districts as the most affected residual hotspots, all in Chhattisgarh."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 19, "what": "The 2025 death figure in the Deaths line (shown as 100) is overprinted by map text, so only the 90% decline and the 2010 figure of 1,005 were used."},
+  {"page": 20, "what": "The Dharti Aaba focus list (housing, water, electricity) is split across lines and the word electricity is not clearly attached; only housing and water were used."}
+ ]
+}
