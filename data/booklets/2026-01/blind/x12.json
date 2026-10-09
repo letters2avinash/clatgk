@@ -1,0 +1,293 @@
+{
+ "topic": "PSLV-C62 Mission Failure",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "PSLV-C62 failure and its cause",
+   "summary": "ISRO's first launch of 2026, PSLV-C62, was scheduled from Sriharikota in Andhra Pradesh. A third-stage solid rocket anomaly disrupted high-thrust delivery to the upper stages, which affected the intended satellite orbital injection. The failure came 8 months after the PSLV-C61 setback.",
+   "facts": [
+    "Mission was ISRO's first launch of 2026",
+    "Scheduled liftoff from Sriharikota, Andhra Pradesh",
+    "Fault: 3rd-stage solid rocket anomaly",
+    "Effect: high-thrust delivery to upper stages disrupted",
+    "Impact: intended satellite orbital injection affected",
+    "Failure came 8 months after the PSLV-C61 setback"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "PSLV rocket profile and history",
+   "summary": "The Polar Satellite Launch Vehicle is called the Workhorse of ISRO and is a four-stage medium-lift launcher, first launched in 1993. It uses solid propellants in its first and third stages and liquid propellants in its second (Vikas engine) and fourth stages. It can carry up to 1750 kg to a 600 km Sun-synchronous orbit.",
+   "facts": [
+    "Nickname: Workhorse of ISRO",
+    "Type: four-stage medium-lift launch vehicle",
+    "Launched in 1993; first success in 1994 with IRS-P2",
+    "Stages 1 and 3 use solid propellants",
+    "Stages 2 (Vikas engine) and 4 use liquid propellants",
+    "First Indian launch vehicle equipped with liquid stages",
+    "Payload: up to 1750 kg to a 600 km Sun-synchronous orbit",
+    "Record: 104 satellites in one launch (2017)",
+    "Notable missions: Chandrayaan-1, Mars Orbiter Mission, Aditya-L1, AstroSat"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "PSLV-C62 payloads",
+   "summary": "PSLV-C62 carried EOS-N1 (Anvesha), a hyperspectral imaging satellite developed for DRDO's Strategic Applications, and KID, a small re-entry prototype from a Spanish startup. It also carried AayulSAT, India's first on-orbit satellite refuelling payload. In total, 18 co-passenger satellites flew on the mission.",
+   "facts": [
+    "EOS-N1 (Anvesha): hyperspectral imaging satellite",
+    "EOS-N1 developed for DRDO's Strategic Applications",
+    "EOS-N1 intended orbit: Sun-synchronous orbit",
+    "KID (Kestrel Initial Demonstrator): small-scale re-entry vehicle prototype",
+    "KID developed by a Spanish startup",
+    "KID mission: re-entry and splashdown in the South Pacific Ocean",
+    "AayulSAT: India's 1st on-orbit satellite refuelling payload",
+    "AayulSAT developed by Bengaluru-based OrbitAID Aerospace",
+    "18 co-passenger satellites (domestic and international)",
+    "Commercial payloads from India, Mauritius, Luxembourg, UAE, Singapore, Europe and the US"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "ISRO launch vehicles, private players and policy",
+   "summary": "India's launch vehicle family ranges from the early SLV and GSLV to the planned NGLV, which has a maximum payload capability of 30 tonnes. The SSLV serves small satellites and takes that load off the PSLV. Private firms such as Agnikul Cosmos are building their own rockets, which the Indian Space Policy 2023 allows.",
+   "facts": [
+    "SLV: ISRO's first satellite launch vehicle, followed by ASLV",
+    "GSLV: carries heavier satellites much deeper into space",
+    "NGLV: maximum payload capability of 30 tonnes",
+    "NGLV: about 3 times LVM3's payload capability at 1.5 times the cost",
+    "SSLV: suited to launching multiple microsatellites; shifts burden from PSLV",
+    "SSLV-D1 (2022) failed; SSLV-D2 (2023) succeeded",
+    "Agnikul Cosmos (founded 2017): SOrTeD is a two-stage suborbital demonstrator",
+    "Indian Space Policy 2023 lets private enterprises carry out end-to-end space activities",
+    "RHUMI-1: India's first reusable hybrid rocket, developed by Space Zone India"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x12-80",
+   "type": "MCQ",
+   "passage": "The PSLV-C62 flight carried a main satellite along with several other payloads. Among the passengers was EOS-N1, also called Anvesha, which is a satellite with an imaging instrument. A second payload, KID, was a vehicle built by a firm from abroad, and its job was to test how a small craft comes back through the atmosphere. Another payload, AayulSAT, came from a company based in Bengaluru and was among the technology demonstrations on the launch. Commercial customers from several countries also sent their satellites on the same flight, which made the list of passengers a long one. The rocket was set to lift off from Sriharikota in Andhra Pradesh. The mission followed an earlier setback in the same programme and was ISRO's first launch of the year 2026. The PSLV is a four-stage vehicle that was first launched in 1993 and uses solid propellants in its first and third stages and liquid propellants in its second and fourth stages. Its notable missions include Chandrayaan-1, the Mars Orbiter Mission and AstroSat. ISRO was formerly known as INCOSPAR and was renamed in 1969, and it is headquartered in Bengaluru. The Indian Regional Navigation Satellite System, known as NavIC, is another ISRO programme. Its payload capability is up to 1750 kg.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the stated purpose of EOS-N1 (Anvesha)?",
+     "options": [
+      "Lunar surface mapping",
+      "Deep-space communication relay",
+      "Strengthen space-based Earth observation and monitoring",
+      "Crewed orbital flights"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which of these countries is among those whose commercial payloads flew on PSLV-C62?",
+     "options": [
+      "Mauritius",
+      "Japan",
+      "Canada",
+      "Russia"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What does the acronym KID stand for?",
+     "options": [
+      "Kinetic Initial Demonstrator",
+      "Kerbal Initial Demonstrator",
+      "Kinetic Impact Device",
+      "Kestrel Initial Demonstrator"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): EOS-N1 was intended for a sun-synchronous orbit.\nReason (R): KID was developed by a Spanish startup.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. EOS-N1 (Anvesha)   ->   A. Spanish startup\nII. AayulSAT   ->   B. Re-entry and splashdown in the South Pacific Ocean\nIII. KID developer   ->   C. India's 1st on-orbit satellite refuelling payload\nIV. KID mission   ->   D. Hyperspectral imaging satellite",
+     "options": [
+      "I-D, II-C, III-A, IV-B",
+      "I-A, II-B, III-C, IV-D",
+      "I-B, II-D, III-A, IV-C",
+      "I-D, II-A, III-B, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "I. EOS-N1 (Anvesha) is a hyperspectral imaging satellite.\nII. KID is a small-scale re-entry vehicle prototype.\nIII. AayulSAT was developed by a Spanish startup.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "I. AayulSAT is India's first on-orbit satellite refuelling payload.\nII. KID's mission involved splashdown in the South Pacific Ocean.\nIII. EOS-N1 was developed by ISRO.\nIV. AayulSAT is India's first weather satellite.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x12-81",
+   "type": "TITA",
+   "passage": "PSLV-C62 was a flight of the Polar Satellite Launch Vehicle, a rocket that ISRO calls its workhorse. The mission was planned for liftoff from Sriharikota, and it carried several payloads beyond its main satellite. One of these was EOS-N1, an imaging satellite that supports observation of the Earth from space. Another passenger was KID, a small prototype designed to return from space. KID was built by a startup from abroad. AayulSAT, a payload from a Bengaluru company, is a technology test linked to satellites that are already in orbit. Commercial customers from several countries also flew satellites on the mission. The PSLV is a medium-lift vehicle with a payload capability of up to 1750 kg, and its notable missions include Chandrayaan-1, the Mars Orbiter Mission and AstroSat. The Mars Orbiter Mission was the first Asian spacecraft to enter Martian orbit. ISRO is India's national space agency, and its headquarters are in Bengaluru. ISRO was formerly known as INCOSPAR and was renamed in 1969. The Indian Space Policy 2023 is the government's plan to let private enterprises carry out end-to-end activities. The Indian Regional Navigation Satellite System, known as NavIC, is another ISRO programme. The flight was ISRO's first launch in 2026, following a setback in the previous mission.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the intended orbit type for EOS-N1? (orbit type)"
+    },
+    {
+     "n": 2,
+     "q": "In which ocean was KID's splashdown planned? (name of ocean)"
+    },
+    {
+     "n": 3,
+     "q": "Which country's startup developed KID? (country)"
+    },
+    {
+     "n": 4,
+     "q": "What type of imaging does EOS-N1 perform? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "What kind of payload is AayulSAT, India's first of its kind on orbit? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "What is the term for KID's landing on the ocean, as stated for its mission? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "What is the name of the EOS-N1 satellite? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x12-82",
+   "type": "MCQ",
+   "passage": "India's launch vehicles come in several families, and each has its own role. Early rockets in the line came first, and newer designs followed. The Next Generation Launch Vehicle is a planned rocket, still in development, that is meant to carry much larger payloads than the current options. The NGLV is designed to be reusable and green. It is expected to enable missions such as human spaceflight. Another rocket, the Small Satellite Launch Vehicle, has flown test missions and is launched from Sriharikota. The SSLV is a three-stage vehicle, and its producing body is NSIL. Private companies have also started building rockets of their own. Agnikul Cosmos is one such company, and its rockets are launched from a privately developed launchpad. Its founders include Srinath Ravichandran, Moin SPM and Satya Chakravarthy, and its rocket is described as the world's first with a fully 3D-printed engine. The Indian Space Policy is the government's plan to let private enterprises take part in space activity. The Indian National Space Promotion and Authorisation Centre, based in Ahmedabad, helps private players take part in space activity. ISRO, India's national space agency, is headquartered in Bengaluru. The Geosynchronous Satellite Launch Vehicle, GSLV, has a Mk-III version that made ISRO entirely self-sufficient.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which launch vehicle is suited to launching multiple microsatellites and takes that load off the PSLV?",
+     "options": [
+      "SLV",
+      "GSLV",
+      "SSLV",
+      "NGLV"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What is the maximum payload capability of the NGLV?",
+     "options": [
+      "10 tonnes",
+      "30 tonnes",
+      "3 tonnes",
+      "300 tonnes"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What does SOrTeD, a demonstrator developed by Agnikul Cosmos, stand for?",
+     "options": [
+      "Satellite Orbital Technology Demonstrator",
+      "Sub Orbital Trial Device",
+      "Sub Orbital Thrust Demonstrator",
+      "SubOrbital Technology Demonstrator"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): SSLV-D2 was a successful test flight.\nReason (R): SSLV-D1 ended in failure in 2022.",
+     "options": [
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true and R is the correct explanation of A",
+      "A is true but R is false"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. SLV   ->   A. India's first reusable hybrid rocket\nII. GSLV   ->   B. ISRO's first satellite launch vehicle\nIII. SSLV   ->   C. Carries heavier satellites deeper into space\nIV. RHUMI-1   ->   D. Suited to launching multiple microsatellites",
+     "options": [
+      "I-B, II-C, III-D, IV-A",
+      "I-B, II-D, III-C, IV-A",
+      "I-C, II-B, III-A, IV-D",
+      "I-C, II-B, III-D, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "I. SLV was ISRO's first satellite launch vehicle, followed by ASLV.\nII. NGLV has a maximum payload capability of 50 tonnes.\nIII. SSLV-D1 was a success in 2022.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and III only",
+      "I only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "I. RHUMI-1 was developed by Space Zone India.\nII. SOrTeD is a two-stage rocket.\nIII. Agnikul Cosmos was founded in 2010.\nIV. The NGLV costs about three times as much as LVM3.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only three",
+      "All of the above",
+      "Only two"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x12-83",
+   "type": "TITA",
+   "passage": "ISRO's rockets fall into different families, and each has its own role. The SLV was ISRO's first satellite launch vehicle, and the ASLV followed it. The GSLV has a Mk-III version that made ISRO self-sufficient, and it is meant to carry heavier satellites deeper into space. The SSLV is one of the smaller members of that family, and its test flights have shown what it can do. The SSLV is a three-stage vehicle, and its launch site is Satish Dhawan Space Centre in Sriharikota. The SSLV is produced by NSIL. The NGLV is a much larger rocket that is still being planned, with a big payload target, and it is designed to be reusable and green. On the private side, Agnikul Cosmos works on launch systems and uses a launchpad of its own. Agnikul Cosmos was founded by three people, including Srinath Ravichandran, and its engine is described as the world's first fully 3D-printed one. Another private effort is a rocket of a different design that was launched with a partner group and carried a few small satellites. The Indian Space Policy is the government's plan that opens space activity to private firms. ISRO is India's national space agency, and its headquarters are in Bengaluru.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did SSLV-D2 succeed? (year)"
+    },
+    {
+     "n": 2,
+     "q": "What does the acronym ASLV stand for?"
+    },
+    {
+     "n": 3,
+     "q": "What is the name of the launchpad used by Agnikul Cosmos? (name)"
+    },
+    {
+     "n": 4,
+     "q": "In which year was Agnikul Cosmos founded? (year)"
+    },
+    {
+     "n": 5,
+     "q": "What is the maximum payload capability of the NGLV? (in tonnes)"
+    },
+    {
+     "n": 6,
+     "q": "What is the name of India's first reusable hybrid rocket? (name)"
+    },
+    {
+     "n": 7,
+     "q": "Agnikul Cosmos was the first company in India to sign an agreement with ISRO under which scheme? (acronym)"
+    }
+   ]
+  }
+ ]
+}
