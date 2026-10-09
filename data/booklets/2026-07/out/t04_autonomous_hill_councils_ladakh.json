@@ -1,0 +1,352 @@
+{
+ "topic": {
+  "title": "Autonomous Hill Development Councils expanded across Ladakh",
+  "chapter_title": "Polity & Governance",
+  "subtopics": [
+   {
+    "title": "Why the AHDC expansion matters",
+    "summary": "The Ladakh Administration has approved Autonomous Hill Development Councils (AHDCs) in all 7 districts after an in-principle agreement with the Ministry of Home Affairs. The move follows Ladakh becoming a Union Territory without a Legislative Assembly in 2019, which makes decentralised local institutions central to governance. Before the expansion, elected councils existed only in Leh and Kargil.",
+    "facts": [
+     "Ladakh Administration approved AHDCs in all 7 districts",
+     "In-principle agreement with the Ministry of Home Affairs",
+     "Agreement aims to extend Article 371 constitutional safeguards to the UT",
+     "Ladakh became a UT without a Legislative Assembly in 2019",
+     "Decentralised local institutions are central to governance in Ladakh",
+     "Earlier, elected councils existed only in Leh and Kargil"
+    ],
+    "keywords": ["AHDC", "Union Territory", "Legislative Assembly", "In-principle agreement", "Article 371"]
+   },
+   {
+    "title": "Legal basis, powers and finances of AHDCs",
+    "summary": "AHDCs function under the Ladakh Autonomous Hill Development Council Act and are created through legislation, applying only in Ladakh. Section 3(1) empowers the Government to establish a Council in every district through an official notification. Their powers are mainly administrative and developmental, covering land allotment, district cadre recruitment and promotions, and district development planning. Each AHDC maintains a Council Fund and can levy taxes, fees and other lawful charges for local governance.",
+    "facts": [
+     "Functions under the Ladakh Autonomous Hill Development Council Act",
+     "Created through legislation and applicable only in Ladakh",
+     "Section 3(1): Government can set up a Council in every district by official notification",
+     "Power over land allotment",
+     "Power over district cadre recruitment and promotions",
+     "Power over district development planning",
+     "Sectors include health, education, tourism, infrastructure and social welfare",
+     "Each AHDC maintains a Council Fund",
+     "Can levy taxes, fees and other lawful charges for local governance",
+     "No judicial authority"
+    ],
+    "keywords": ["Council Fund", "Section 3(1)", "land allotment", "cadre recruitment", "administrative powers"]
+   },
+   {
+    "title": "AHDCs versus 6th Schedule councils and Article 371",
+    "summary": "AHDCs and 6th Schedule Autonomous District Councils are both local bodies, but they differ in how they are created, where they apply and what powers they hold. AHDCs are created through legislation and apply only in Ladakh, while 6th Schedule councils have constitutional status under Articles 244(2) and 275(1). Article 371 and Articles 371A to 371J, under Part XXI, provide special safeguards for indigenous culture, customary laws, land rights and local employment.",
+    "facts": [
+     "AHDCs: created through legislation and apply only in Ladakh",
+     "6th Schedule councils: constitutional status under Articles 244(2) and 275(1)",
+     "6th Schedule councils apply in notified tribal areas of Assam, Meghalaya, Mizoram and Tripura",
+     "AHDCs: mainly administrative and developmental powers, no judicial authority",
+     "6th Schedule councils: legislative, executive, financial and judicial powers",
+     "6th Schedule councils can establish village courts under customary tribal laws",
+     "Article 371 and Articles 371A to 371J fall under Part XXI",
+     "Article 371 aims to protect indigenous culture, customary laws, land rights, local employment, tribal identity and administrative autonomy"
+    ],
+    "keywords": ["6th Schedule", "Articles 244(2) and 275(1)", "Part XXI", "village courts", "customary laws"]
+   },
+   {
+    "title": "Ladakh's profile, demands and 2025 reservation rules",
+    "summary": "Ladakh, known as the Land of High Passes or Maryul, has been administered by the Government of India as a Union Territory since 31 October 2019. Its people demand inclusion under the 6th Schedule, restrictions on land ownership to prevent outsider influx, and a Legislative Assembly. A reservation regulation approved on 2 June 2025 and effective from 3 June 2025 raises the total reservation cap to 85 per cent, with EWS quotas excluded.",
+    "facts": [
+     "Known as the Land of High Passes, or Maryul",
+     "Administered by the Government of India as a UT since 31 October 2019",
+     "Capital: Leh, with Kargil as the winter capital",
+     "Demand: inclusion under the 6th Schedule for constitutional protection",
+     "Demand: land ownership restrictions to prevent outsider influx",
+     "Demand: a Legislative Assembly for representative governance",
+     "Reservation (Amendment) Regulation, 2025 approved on 2 June 2025",
+     "Effective from 3 June 2025; affects government jobs and educational admissions",
+     "Total reservation cap raised to 85 per cent, EWS quotas excluded"
+    ],
+    "keywords": ["Maryul", "Union Territory", "6th Schedule", "reservation cap", "EWS"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "AHDC expansion across Ladakh",
+   "root": {
+    "label": "AHDC expansion in Ladakh",
+    "children": [
+     {"label": "Why expanded", "children": [
+      {"label": "All 7 districts approved"},
+      {"label": "MHA in-principle agreement"},
+      {"label": "UT without Legislative Assembly"}
+     ]},
+     {"label": "Legal basis", "children": [
+      {"label": "Ladakh AHDC Act"},
+      {"label": "Section 3(1): council in every district"},
+      {"label": "Created through legislation"}
+     ]},
+     {"label": "Powers", "children": [
+      {"label": "Land allotment"},
+      {"label": "Cadre recruitment and promotions"},
+      {"label": "District development planning"}
+     ]},
+     {"label": "Finance", "children": [
+      {"label": "Council Fund"},
+      {"label": "Taxes, fees, lawful charges"}
+     ]},
+     {"label": "Versus 6th Schedule", "children": [
+      {"label": "Constitutional status: Arts 244(2), 275(1)"},
+      {"label": "No judicial authority"}
+     ]},
+     {"label": "Article 371 safeguards", "children": [
+      {"label": "Culture, customary laws, land rights"},
+      {"label": "Part XXI"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Why AHDCs are expanding",
+   "root": {
+    "label": "Why AHDCs are expanding",
+    "children": [
+     {"label": "All 7 districts approved"},
+     {"label": "MHA in-principle agreement"},
+     {"label": "UT without Legislative Assembly (2019)"},
+     {"label": "Earlier councils only in Leh and Kargil"}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "AHDC legal basis, powers and finance",
+   "root": {
+    "label": "AHDC legal basis, powers, finance",
+    "children": [
+     {"label": "Legal basis", "children": [
+      {"label": "Ladakh AHDC Act"},
+      {"label": "Section 3(1): notification per district"},
+      {"label": "Applies only in Ladakh"}
+     ]},
+     {"label": "Powers", "children": [
+      {"label": "Land allotment"},
+      {"label": "Cadre recruitment and promotions"},
+      {"label": "District development planning"},
+      {"label": "Health, education, tourism, infrastructure, welfare"}
+     ]},
+     {"label": "Finance", "children": [
+      {"label": "Council Fund"},
+      {"label": "Taxes, fees, lawful charges"}
+     ]},
+     {"label": "Limit", "children": [
+      {"label": "No judicial authority"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "AHDC vs 6th Schedule councils",
+   "root": {
+    "label": "AHDC vs 6th Schedule councils",
+    "children": [
+     {"label": "AHDC", "children": [
+      {"label": "Created through legislation"},
+      {"label": "Only in Ladakh"},
+      {"label": "Administrative and developmental powers"}
+     ]},
+     {"label": "6th Schedule", "children": [
+      {"label": "Articles 244(2) and 275(1)"},
+      {"label": "Assam, Meghalaya, Mizoram, Tripura"},
+      {"label": "Village courts under customary laws"}
+     ]},
+     {"label": "Article 371", "children": [
+      {"label": "Part XXI"},
+      {"label": "Protects culture, land rights, employment"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Ladakh profile, demands, reservation",
+   "root": {
+    "label": "Ladakh profile, demands, reservation",
+    "children": [
+     {"label": "Profile", "children": [
+      {"label": "Land of High Passes (Maryul)"},
+      {"label": "UT since 31 Oct 2019"},
+      {"label": "Winter capital: Kargil"}
+     ]},
+     {"label": "Demands", "children": [
+      {"label": "6th Schedule inclusion"},
+      {"label": "Land ownership restrictions"},
+      {"label": "Legislative Assembly"}
+     ]},
+     {"label": "Reservation 2025", "children": [
+      {"label": "Approved 2 June 2025"},
+      {"label": "Effective 3 June 2025"},
+      {"label": "Total cap 85 per cent"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Sectors under AHDC powers",
+   "mnemonic": "Hungry Elephants Tickle Interesting Sheep",
+   "decode": [
+    {"key": "H", "meaning": "Health"},
+    {"key": "E", "meaning": "Education"},
+    {"key": "T", "meaning": "Tourism"},
+    {"key": "I", "meaning": "Infrastructure"},
+    {"key": "S", "meaning": "Social welfare"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "AHDC versus 6th Schedule status",
+   "mnemonic": "Act makes AHDC; Constitution makes the Sixth",
+   "decode": [
+    {"key": "Act", "meaning": "AHDCs are created through legislation"},
+    {"key": "Constitution", "meaning": "6th Schedule councils have constitutional status under Articles 244(2) and 275(1)"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "2025 reservation regulation",
+   "mnemonic": "Two approved, Three effective, Eighty-five capped",
+   "decode": [
+    {"key": "Two", "meaning": "Regulation approved by the President on 2 June 2025"},
+    {"key": "Three", "meaning": "Effective from 3 June 2025"},
+    {"key": "Eighty-five", "meaning": "Total reservation cap of 85 per cent, EWS quotas excluded"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Ladakh and the AHDC expansion",
+   "passage": "Ladakh became a Union Territory without a Legislative Assembly in 2019, so decentralised local institutions have become central to governance. The Ladakh Administration has now approved the setting up of Autonomous Hill Development Councils across the region. Councils in each district will be set up through an official notification issued by the Government. This decision followed an in-principle agreement with the Ministry of Home Affairs, which aims to extend constitutional safeguards under Article 371 to the Union Territory. Until now, elected councils had existed in only a few parts of Ladakh, and the expansion will extend them to all districts. The people of Ladakh have raised several demands, including inclusion under the Sixth Schedule for constitutional protection, restrictions on land ownership to prevent an outside influx, and a Legislative Assembly for representative governance. Article 371 and the articles up to 371J give special constitutional safeguards to certain States and regions, with the aim of protecting indigenous culture, customary laws and local employment. Separately, the Centre has changed the rules for jobs and educational admissions in Ladakh through a new reservation regulation, which came into force shortly after it was approved. The regulation also modifies the reservation law of Jammu and Kashmir as applied to the region. The councils function under a separate Act and their powers are mainly administrative and developmental.",
+   "questions": [
+    {
+     "q": "How many districts of Ladakh will now have Autonomous Hill Development Councils (AHDCs)?",
+     "options": ["3", "5", "7", "9"],
+     "answer": 2,
+     "explanation": "The booklet states that AHDCs will be constituted in all 7 districts of Ladakh."
+    },
+    {
+     "q": "Ladakh has been administered by the Government of India as a Union Territory since which date?",
+     "options": ["31 October 2019", "5 August 2019", "26 October 2019", "26 January 2020"],
+     "answer": 0,
+     "explanation": "The booklet notes that Ladakh has been administered by the Government of India as a UT since 31 October 2019."
+    },
+    {
+     "q": "Before the expansion, elected Autonomous Hill Development Councils existed only in which two districts of Ladakh?",
+     "options": ["Leh and Kargil", "Nubra and Zanskar", "Sham and Drass", "Leh and Changthang"],
+     "answer": 0,
+     "explanation": "The booklet says elected councils existed only in Leh and Kargil before the expansion."
+    },
+    {
+     "q": "Assertion (A): Each AHDC can set up its own courts to decide disputes.\nReason (R): AHDCs have no judicial authority.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 3,
+     "explanation": "The booklet says AHDCs have no judicial authority, so the claim that they can set up courts is false."
+    },
+    {
+     "q": "Match List I with List II:\nI. Ladakh's traditional name, meaning Land of High Passes\nII. Total reservation cap set by the 2025 regulation\nIII. Provision empowering the Government to establish a Council in every district\nIV. Articles 371 to 371J of the Constitution fall under this Part\n\nList II\nA. Section 3(1)\nB. Part XXI\nC. 85 per cent\nD. Maryul",
+     "options": ["I-A, II-B, III-C, IV-D", "I-D, II-C, III-A, IV-B", "I-C, II-D, III-B, IV-A", "I-B, II-A, III-D, IV-C"],
+     "answer": 1,
+     "explanation": "Maryul is the traditional name, 85 per cent is the reservation cap, Section 3(1) covers council set-up and Part XXI holds Articles 371 to 371J."
+    },
+    {
+     "q": "Consider the following statements about Autonomous Hill Development Councils:\nI. Each AHDC can levy taxes, fees and other lawful charges.\nII. AHDCs can establish Village Courts under customary tribal laws.\nIII. AHDCs can exercise authority over land allotment.\nWhich of the above statements is/are correct?",
+     "options": ["II and III only", "I and II only", "I and III only", "I, II and III"],
+     "answer": 2,
+     "explanation": "AHDCs can levy taxes and exercise land allotment authority, but Village Courts under customary tribal laws are a power of 6th Schedule councils."
+    },
+    {
+     "q": "Consider the following statements:\nI. Ladakh shares a border with Gilgit-Baltistan (Pakistan).\nII. Before the expansion, elected councils existed in Changthang and Nubra.\nIII. Kargil is the winter capital of Ladakh.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statements I and III match the booklet, while II is wrong because elected councils existed only in Leh and Kargil."
+    },
+    {
+     "q": "Under which Articles of the Constitution do 6th Schedule Autonomous District Councils derive their constitutional status?",
+     "options": ["Articles 243 and 244", "Articles 244(2) and 275(1)", "Articles 245 and 246", "Articles 371 and 371A"],
+     "answer": 1,
+     "explanation": "The booklet states that 6th Schedule councils have constitutional status under Articles 244(2) and 275(1)."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Powers and finances of AHDCs",
+   "passage": "The Autonomous Hill Development Councils are created through legislation and apply only in Ladakh. Their powers are mainly administrative and developmental. The Ladakh Autonomous Hill Development Council Act gives the government the power to create councils in every district. The Act is therefore the legal basis for the councils and their functions. Every district of Ladakh is to have one such council, and each council works within the powers described above. The councils can exercise authority over land allotment, and they also have authority over district cadre recruitment and promotions. They prepare district development plans for sectors such as health, education, tourism, infrastructure and social welfare. Each council also has financial powers, and it can levy taxes, fees and other lawful charges. The councils do not have judicial authority. This is an important difference from the Sixth Schedule Autonomous District Councils, which can establish village courts under customary tribal laws. The Sixth Schedule councils also have legislative, executive, financial and judicial powers. The Sixth Schedule councils apply to tribal areas in certain northeastern States, while the AHDCs apply only in Ladakh. Ladakh has been administered as a Union Territory since 2019, and it has no Legislative Assembly. Decentralised local institutions are therefore central to how the region is governed.",
+   "questions": [
+    {
+     "q": "Which fund does each AHDC maintain? (Give the name in two words.)",
+     "answer": "Council Fund",
+     "accept": ["council fund", "Council Fund", "Council fund"],
+     "explanation": "The booklet says each AHDC will maintain a Council Fund."
+    },
+    {
+     "q": "Which section of the Ladakh Autonomous Hill Development Council Act empowers the Government to establish a Council in every district? (Give the section number with sub-section.)",
+     "answer": "3(1)",
+     "accept": ["Section 3(1)", "Section 3 (1)", "3 (1)", "Sec 3(1)"],
+     "explanation": "Section 3(1) empowers the Government to establish a Council in every district through an official notification."
+    },
+    {
+     "q": "Besides Article 244(2), which other Article number gives 6th Schedule Autonomous District Councils their constitutional status? (Give the number with sub-clause.)",
+     "answer": "275(1)",
+     "accept": ["Article 275(1)", "275 (1)", "Article 275 (1)"],
+     "explanation": "The booklet lists constitutional status for 6th Schedule councils under Articles 244(2) and 275(1)."
+    },
+    {
+     "q": "Which district of Ladakh is the largest? (Name the district.)",
+     "answer": "Leh",
+     "accept": ["Leh district", "Leh (Largest)"],
+     "explanation": "The booklet marks Leh as the largest district of Ladakh."
+    },
+    {
+     "q": "For what purpose may AHDCs levy taxes, fees and other lawful charges? (Two words.)",
+     "answer": "local governance",
+     "accept": ["Local governance", "local-governance", "Local Governance"],
+     "explanation": "The booklet says these taxes, fees and charges are levied for local governance."
+    },
+    {
+     "q": "Articles 371 and 371A to 371J fall under which Part of the Indian Constitution? (Give the Roman numeral.)",
+     "answer": "XXI",
+     "accept": ["Part XXI", "Part 21", "21"],
+     "explanation": "The booklet states that Article 371 and Articles 371A to 371J fall under Part XXI."
+    },
+    {
+     "q": "Which town is the winter capital of Ladakh? (Name the town.)",
+     "answer": "Kargil",
+     "accept": ["Kargil town"],
+     "explanation": "The booklet lists Leh as the capital and Kargil as the winter capital."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 21, "what": "Map labels (for example PAKISTAN, HIMACHAL PRADESH and the China and Tibet labels) are garbled in OCR; not used."},
+  {"page": 21, "what": "The district list in the Expansion of AHDCs bullet is split across lines; only the complete 7-district list on page 22 was used."},
+  {"page": 22, "what": "The state-to-Article table for Articles 370 and 371 to 371J has jumbled columns in OCR; no state-to-article pairings were used."}
+ ]
+}

@@ -1,0 +1,380 @@
+{
+ "topic": {
+  "title": "India-UK Comprehensive Economic and Trade Agreement (CETA)",
+  "chapter_title": "Economics",
+  "subtopics": [
+   {
+    "title": "Scope and Entry into Force",
+    "summary": "The India-UK CETA came into force on 15 July 2026, together with the Double Contribution Convention. The booklet calls it a next-generation free trade agreement that goes beyond conventional tariff reduction to cover market access, regulatory transparency and economic partnership. Its coverage spans goods and services, digital trade, investment, government procurement, labour, environment, innovation, SMEs and regulatory cooperation. It is also the first Indian FTA to give tariff concessions on imported passenger vehicles through tariff rate quotas.",
+    "facts": [
+      "CETA and the Double Contribution Convention came into force on 15 July 2026.",
+      "CETA is a next-generation FTA that goes beyond conventional tariff reduction.",
+      "Coverage includes trade in goods and services, digital trade and investment.",
+      "Also covers government procurement, labour, environment, innovation, SMEs and regulatory cooperation.",
+      "Addresses market access, regulatory transparency and economic partnership.",
+      "First Indian FTA to give tariff concessions on imported passenger vehicles through tariff rate quotas.",
+      "The quota approach protects domestic industry while allowing phased market access."
+    ],
+    "keywords": ["CETA", "next-generation FTA", "15 July 2026", "tariff rate quota", "passenger vehicles"]
+   },
+   {
+    "title": "Tariff Cuts and Market Access",
+    "summary": "India plans to cut duties on 90% of tariff lines, with 85% becoming tariff-free within 10 years. Indian exports get zero-duty access for 99% of products, while auto import tariffs fall to 10% under a quota system from over 100%. Whisky and gin tariffs drop from 150% to 75% and reduce to 40% by the 10th year. The deal also adds 100 annual visas for Indian professionals, and bilateral trade of USD 56.8 billion is expected to double by 2030.",
+    "facts": [
+      "India plans to cut duties on 90% of tariff lines.",
+      "85% of tariff lines become tariff-free in 10 years.",
+      "Zero-duty access for 99% of Indian exports to the UK.",
+      "Auto import tariffs cut to 10% under the quota system, down from over 100%.",
+      "Whisky and gin tariffs cut from 150% to 75%, reducing to 40% by the 10th year.",
+      "100 additional annual visas for Indian professionals.",
+      "Bilateral trade of USD 56.8 billion (GBP 42.6 billion), expected to double by 2030.",
+      "UK is India's 4th largest export destination; India ranks 11th as UK's trading partner.",
+      "Data exclusivity is excluded from the FTA to safeguard India's generic pharma sector."
+    ],
+    "keywords": ["tariff lines", "zero duty", "tariff rate quota", "whisky and gin", "generic pharma", "bilateral trade"]
+   },
+   {
+    "title": "Double Contribution Convention",
+    "summary": "The Double Contribution Convention came into force along with CETA and is aimed at social security contributions. Eligible Indian professionals and employers are exempt from UK National Insurance contributions for up to 5 years. The exemption applies provided contributions continue in India. The purpose is to ensure professionals avoid paying social security contributions in both India and the UK.",
+    "facts": [
+      "India and UK signed the Double Contribution Convention Agreement.",
+      "Exempts eligible Indian professionals from paying UK National Insurance contributions.",
+      "Exempts eligible Indian employers from paying UK National Insurance contributions.",
+      "The exemption covers up to 5 years.",
+      "Condition: social security contributions must continue in India.",
+      "Purpose: professionals avoid paying social security contributions in both India and UK.",
+      "Came into force on 15 July 2026 along with CETA."
+    ],
+    "keywords": ["Double Contribution Convention", "National Insurance", "social security", "5 years"]
+   },
+   {
+    "title": "Brexit and Trade Realignment",
+    "summary": "The India-UK FTA is part of Britain's post-Brexit strategy. The UK joined the EU in 1973 and formally left it on 31 January 2020, losing EU market access in the process. The UK and other western nations are diversifying trade away from China, with India as a China-plus-one alternative. India also moved away from RCEP towards bilateral FTAs such as the UK deal.",
+    "facts": [
+      "The UK joined the EU in 1973, when it was known as the European Economic Community.",
+      "A referendum held in June 2016 saw around 17.4 million people opt for Brexit.",
+      "The UK formally left the EU on 31 January 2020, ending 47 years of membership.",
+      "A transition period under the withdrawal agreement ran until the end of 2020.",
+      "Brexit meant loss of EU market access, so the UK sought new trade partnerships.",
+      "UK and Western nations diversify trade away from China, with India as China-plus-one alternative.",
+      "India exited RCEP over trade concerns and shifted focus to bilateral FTAs such as the UK deal.",
+      "US tariffs and geopolitical tensions push nations toward stable and predictable trade relations.",
+      "The India-UK FTA offers a stable trade framework for economic predictability and long-term growth."
+    ],
+    "keywords": ["Brexit", "European Economic Community", "China-plus-one", "RCEP", "bilateral FTA"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "CETA and Double Contribution Convention at a glance",
+   "root": {
+    "label": "India-UK CETA and DCC",
+    "children": [
+     {"label": "Scope and timing", "children": [
+       {"label": "In force 15 July 2026"},
+       {"label": "Next-generation FTA"},
+       {"label": "Goods, services, digital trade, investment"}
+     ]},
+     {"label": "Tariffs and market access", "children": [
+       {"label": "Duties cut on 90% of tariff lines"},
+       {"label": "Zero duty for 99% of Indian exports"},
+       {"label": "Auto tariff 10% under quota"}
+     ]},
+     {"label": "Pharma safeguard", "children": [
+       {"label": "Data exclusivity excluded"},
+       {"label": "Protects generic pharma sector"}
+     ]},
+     {"label": "People and social security", "children": [
+       {"label": "100 additional annual visas"},
+       {"label": "UK NI exempt up to 5 years"},
+       {"label": "Contributions must continue in India"}
+     ]},
+     {"label": "Trade links", "children": [
+       {"label": "Bilateral trade USD 56.8 billion"},
+       {"label": "Expected to double by 2030"},
+       {"label": "UK is 4th largest export destination"}
+     ]},
+     {"label": "Brexit context", "children": [
+       {"label": "UK joined EU in 1973"},
+       {"label": "Formal exit 31 January 2020"},
+       {"label": "Loss of EU market access"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Scope and entry into force",
+   "root": {
+    "label": "CETA scope and timing",
+    "children": [
+     {"label": "Entry into force", "children": [
+       {"label": "15 July 2026"},
+       {"label": "Same date as DCC"}
+     ]},
+     {"label": "Next-generation FTA", "children": [
+       {"label": "Beyond tariff reduction"},
+       {"label": "Market access, regulatory transparency"}
+     ]},
+     {"label": "Coverage areas", "children": [
+       {"label": "Goods, services, digital trade, investment"},
+       {"label": "Procurement, labour, environment"},
+       {"label": "Innovation, SMEs, regulatory cooperation"}
+     ]},
+     {"label": "Passenger vehicles", "children": [
+       {"label": "First Indian FTA with TRQ concessions"},
+       {"label": "Protects domestic industry"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Tariff cuts and market access",
+   "root": {
+    "label": "Tariff cuts and market access",
+    "children": [
+     {"label": "Tariff lines", "children": [
+       {"label": "90% of lines: duties cut"},
+       {"label": "85% tariff-free in 10 years"}
+     ]},
+     {"label": "Exports to UK", "children": [
+       {"label": "Zero duty for 99% of Indian exports"}
+     ]},
+     {"label": "Autos", "children": [
+       {"label": "Auto tariff 10% under quota"},
+       {"label": "Down from over 100%"}
+     ]},
+     {"label": "Whisky and gin", "children": [
+       {"label": "150% to 75% initially"},
+       {"label": "40% by 10th year"}
+     ]},
+     {"label": "Trade and visas", "children": [
+       {"label": "Bilateral trade USD 56.8 billion"},
+       {"label": "100 additional annual visas"}
+     ]},
+     {"label": "Pharma safeguard", "children": [
+       {"label": "Data exclusivity excluded"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Double Contribution Convention",
+   "root": {
+    "label": "Double Contribution Convention",
+    "children": [
+     {"label": "Who benefits", "children": [
+       {"label": "Eligible Indian professionals"},
+       {"label": "Eligible Indian employers"}
+     ]},
+     {"label": "Exemption", "children": [
+       {"label": "UK National Insurance contributions"},
+       {"label": "Up to 5 years"}
+     ]},
+     {"label": "Condition", "children": [
+       {"label": "Contributions continue in India"}
+     ]},
+     {"label": "Purpose", "children": [
+       {"label": "Avoid social security in both countries"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Brexit and trade realignment",
+   "root": {
+    "label": "Brexit and trade realignment",
+    "children": [
+     {"label": "Brexit timeline", "children": [
+       {"label": "Joined EU 1973"},
+       {"label": "Referendum June 2016"},
+       {"label": "Formal exit 31 January 2020"}
+     ]},
+     {"label": "Post-Brexit need", "children": [
+       {"label": "Loss of EU market access"},
+       {"label": "Seek new trade partners"}
+     ]},
+     {"label": "China-plus-one", "children": [
+       {"label": "Diversify away from China"},
+       {"label": "India as alternative"}
+     ]},
+     {"label": "India's realignment", "children": [
+       {"label": "Exited RCEP over trade concerns"},
+       {"label": "Bilateral FTAs preferred"}
+     ]},
+     {"label": "Global uncertainty", "children": [
+       {"label": "US tariffs, geopolitical tensions"},
+       {"label": "Stable, predictable trade sought"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "CETA next-generation coverage",
+   "mnemonic": "Good Deals Invite Growing Local Environment Innovation SMEs Regulation",
+   "decode": [
+    {"key": "Good", "meaning": "Trade in goods and services"},
+    {"key": "Deals", "meaning": "Digital trade"},
+    {"key": "Invite", "meaning": "Investment"},
+    {"key": "Growing", "meaning": "Government procurement"},
+    {"key": "Local", "meaning": "Labour"},
+    {"key": "Environment", "meaning": "Environment"},
+    {"key": "Innovation", "meaning": "Innovation"},
+    {"key": "SMEs", "meaning": "Small and medium enterprises"},
+    {"key": "Regulation", "meaning": "Regulatory cooperation"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Tariff cut figures",
+   "mnemonic": "Ninety cut, eighty-five free in ten",
+   "decode": [
+    {"key": "Ninety cut", "meaning": "India plans to cut duties on 90% of tariff lines"},
+    {"key": "Eighty-five free in ten", "meaning": "85% of tariff lines become tariff-free in 10 years"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Brexit timeline",
+   "mnemonic": "Join at 73, vote at 16, leave at 20",
+   "decode": [
+    {"key": "Join at 73", "meaning": "UK joined the EU (then EEC) in 1973"},
+    {"key": "Vote at 16", "meaning": "Brexit referendum held in June 2016"},
+    {"key": "Leave at 20", "meaning": "UK formally left the EU on 31 January 2020"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "Tariffs, market access and trade deal terms",
+   "passage": "The India-UK Comprehensive Economic and Trade Agreement, known as CETA, is described as a next-generation free trade agreement. It goes beyond conventional tariff reduction and addresses market access, regulatory transparency and economic partnership. The scope of the deal is wide, covering trade in goods and services along with digital trade and investment. The framework also reaches government procurement, labour, environment, innovation, small and medium enterprises and regulatory cooperation. In this sense the agreement is broader than a simple list of duty cuts, since these areas show it addresses far more than goods moving across borders.\n\nTariff policy in the deal aims to balance two goals. Domestic industry is protected, while foreign goods gain access to the market in phases rather than all at once. Passenger vehicles show this balance clearly, since imports of these vehicles are handled through a quota arrangement.\n\nThe deal is also tied to predictability in trade. Countries are looking for stable and predictable trade relations amid geopolitical tensions and tariff disputes. A bilateral agreement offers a framework that reduces this uncertainty and supports long-term growth for both partners.\n\nTaken together, these features show that the agreement combines tariff reduction with wider economic cooperation between the two countries, and the booklet presents it as a central part of that partnership.",
+   "questions": [
+    {
+     "q": "Under the India-UK FTA, India plans to cut duties on what percentage of its tariff lines?",
+     "options": ["75%", "85%", "90%", "95%"],
+     "answer": 2,
+     "explanation": "The booklet says India plans to cut duties on 90% of tariff lines, with 85% becoming tariff-free in 10 years."
+    },
+    {
+     "q": "What percentage of Indian exports will receive zero-duty access to the UK market under the FTA?",
+     "options": ["99%", "90%", "95%", "100%"],
+     "answer": 0,
+     "explanation": "The booklet says the FTA grants zero-duty access for 99% of Indian exports."
+    },
+    {
+     "q": "Consider the following:\nAssertion (A): India excluded data exclusivity provisions from its trade agreement with the UK.\nReason (R): Data exclusivity refers to a period during which innovator pharma's trial data cannot be used by generic manufacturers.\nChoose the correct option.",
+     "options": [
+       "Both A and R are true, but R is not the correct explanation of A",
+       "A is true, but R is false",
+       "A is false, but R is true",
+       "Both A and R are true, and R is the correct explanation of A"
+     ],
+     "answer": 3,
+     "explanation": "The booklet says India excluded data exclusivity to safeguard its generic pharma sector, which is the restriction data exclusivity would have imposed on generics."
+    },
+    {
+     "q": "Match List I with List II:\nI. Auto import tariff under the quota system   ->   A. 100 additional annual visas\nII. Whisky and gin tariff in the 10th year   ->   B. 10%\nIII. Annual visas for Indian professionals   ->   C. USD 56.8 billion\nIV. Bilateral trade value   ->   D. 40%",
+     "options": ["I-A, II-B, III-C, IV-D", "I-B, II-D, III-A, IV-C", "I-C, II-A, III-D, IV-B", "I-D, II-C, III-B, IV-A"],
+     "answer": 1,
+     "explanation": "Auto tariffs go to 10% under the quota, whisky and gin reach 40% by year 10, visas number 100, and bilateral trade is USD 56.8 billion."
+    },
+    {
+     "q": "Consider the following statements about the India-UK FTA:\nI. India will cut duties on 90% of tariff lines under the FTA.\nII. Auto import tariffs will be cut to 25% under the quota system.\nIII. India rejected data exclusivity in its 2024 FTA with EFTA.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statements I and III are correct, while the auto import tariff under the quota is 10%, not 25%."
+    },
+    {
+     "q": "Consider the following statements about the India-UK FTA:\nI. Zero-duty access is granted for 99% of Indian exports to the UK.\nII. Bilateral trade is currently USD 44.2 billion.\nIII. Whisky and gin tariffs fall from 150% to 75% at the start.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statements I and III are correct, while current bilateral trade is USD 56.8 billion, not USD 44.2 billion."
+    },
+    {
+     "q": "India-UK bilateral trade is expected to double by which year?",
+     "options": ["2027", "2028", "2035", "2030"],
+     "answer": 3,
+     "explanation": "The booklet says bilateral trade, currently USD 56.8 billion, is expected to double by 2030."
+    },
+    {
+     "q": "The UK ranks as which largest export destination for India?",
+     "options": ["4th", "2nd", "3rd", "1st"],
+     "answer": 0,
+     "explanation": "The booklet lists the UK as India's 4th largest export destination."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "Brexit and the UK's exit from the EU",
+   "passage": "The European Union is an economic and political union, and it allows free trade among member countries without checks or extra charges. Membership was not permanent, however. A national vote in the UK led to a decision to leave, and the process that followed involved long political debate.\n\nOnce the decision was made, the UK had to plan a different future. Leaving the bloc meant losing the market access that membership gave, so London began looking for new trade partnerships to support growth. The arrangement that governed the exit also allowed a phase in which Britain continued to follow EU laws and rules for a set period. The change marked a major shift in Britain's trade position.\n\nOther countries were changing their trade choices too. Many western nations wanted to reduce their dependence on China, and several saw India as a China-plus-one alternative. At the same time, geopolitical tensions and tariff disputes encouraged governments to seek stable and predictable trade relations. This reflected a wider shift in how governments viewed their trade relationships.\n\nIndia also reshaped its approach. Rather than remaining in larger regional groupings, it moved its focus toward bilateral agreements that protect its interests. Such agreements are seen as a way to reduce uncertainty for business and long-term trade.",
+   "questions": [
+    {
+     "q": "In which year did the UK join the European Economic Community, the body that later became the EU?",
+     "answer": "1973",
+     "accept": ["1973"],
+     "explanation": "The booklet says the UK joined the EU in 1973, when it was known as the European Economic Community."
+    },
+    {
+     "q": "For how many years was the UK an EU member before it ceased membership? (in years)",
+     "answer": "47",
+     "accept": ["47 years", "forty-seven"],
+     "explanation": "The booklet says the UK ceased its 47 years of membership when it left."
+    },
+    {
+     "q": "Approximately how many million people opted for Brexit in the June 2016 referendum? (in million, one decimal place)",
+     "answer": "17.4",
+     "accept": ["17.4 million", "around 17.4", "17.4 million people"],
+     "explanation": "The booklet says around 17.4 million people opted for Brexit in the referendum."
+    },
+    {
+     "q": "On which date did the UK formally leave the EU?",
+     "answer": "31 January 2020",
+     "accept": ["31 Jan 2020", "31st January 2020", "January 31, 2020", "31-01-2020"],
+     "explanation": "The booklet says the UK formally left the EU on 31 January 2020."
+    },
+    {
+     "q": "Until the end of which year did the transition period under the withdrawal agreement run?",
+     "answer": "2020",
+     "accept": ["end of 2020"],
+     "explanation": "The booklet says the transition period ran until the end of 2020, during which the UK continued to obey EU laws."
+    },
+    {
+     "q": "In which month of 2016 was the Brexit referendum held?",
+     "answer": "June",
+     "accept": ["Jun"],
+     "explanation": "The booklet says the referendum was held in June 2016."
+    },
+    {
+     "q": "For more than how many years did the UK face political turmoil before formally leaving the EU? (in years)",
+     "answer": "3",
+     "accept": ["three", "three years", "3 years"],
+     "explanation": "The booklet says the UK left the EU after more than three years of political turmoil."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 39, "what": "The Why in News line is split and garbled ('Security Agreement) as key aspect of Trade Deal'); the full name of the social security agreement was not used."},
+  {"page": 39, "what": "Map labels and boxes (for example 'Exton Site') are garbled; no map-based facts were used."},
+  {"page": 40, "what": "Text says the EU involves 28 European countries; this count may be outdated after Brexit and was not used."},
+  {"page": 41, "what": "Practice-question options for India's rank as UK's trading partner are garbled ('1\"'); the 11th rank was taken from the page 39 highlight only."}
+ ]
+}
