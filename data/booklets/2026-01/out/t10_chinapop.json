@@ -1,0 +1,460 @@
+{
+ "topic": {
+  "title": "China's Population Decline",
+  "chapter_title": "Reports, Summits, Indices",
+  "subtopics": [
+   {
+    "title": "Demographic Winter: Meaning and Key Indicators",
+    "summary": "Demographic winter is a persistent and structural decline in population growth, and it is no longer limited to developed countries. Its key indicators are fertility below the replacement level of 2.1 and an inverted population pyramid with a rising old-age dependency ratio. It can lead to a shrinking workforce, a rising fiscal burden from ageing and a potential loss of the demographic dividend.",
+    "facts": [
+     "Demographic winter: a persistent and structural decline in population growth.",
+     "Now a global phenomenon, not limited to developed countries.",
+     "Fertility rate below replacement level of 2.1 children per woman.",
+     "Inverted population pyramid: shrinking young population and expanding elderly population.",
+     "Rising old-age dependency ratio is a key indicator.",
+     "Demographic dividend: growth potential from a larger working-age population compared to dependents.",
+     "Total fertility rate (TFR) is the average births per woman; 2.1 is the replacement level.",
+     "Fertility refers to children born to a woman during reproductive years (ages 15-49)."
+    ],
+    "keywords": ["demographic winter", "replacement level", "inverted pyramid", "old-age dependency ratio", "demographic dividend"]
+   },
+   {
+    "title": "Causes and Negative Impacts of Demographic Winter",
+    "summary": "Causes include delayed life milestones, urbanisation, societal and cultural shifts, and greater access to family planning. A declining population brings a shrinking workforce, pressure on pension and healthcare systems, and greater isolation of the elderly. Developed nation trends suggest that a rebound is unlikely once fertility falls below the replacement level.",
+    "facts": [
+     "Delayed milestones: later marriages and parenthood due to career priorities, economic insecurity and high housing and education costs.",
+     "Urbanisation: smaller and costlier urban housing discourages larger families.",
+     "Societal shifts: greater female workforce participation, preference for smaller families and changing family norms.",
+     "Access to family planning gives greater reproductive autonomy and reduces unintended births.",
+     "Shrinking workforce threatens future labour supply as youth replacement falls short over time.",
+     "Ageing population raises the burden on healthcare, elderly care and pension systems.",
+     "Low-fertility states face youth shortages; high-fertility states struggle with overpopulation.",
+     "Smaller families disrupt traditional support systems, leading to greater elderly isolation.",
+     "Declining fertility and late marriages are linked to social isolation and mental health challenges.",
+     "Developed nation trends show that a rebound is unlikely once rates fall below replacement level."
+    ],
+    "keywords": ["delayed milestones", "urbanisation", "labour supply", "pension systems", "elderly isolation"]
+   },
+   {
+    "title": "China's Birth Control Policy: Timeline",
+    "summary": "China's approach moved from birth control being a minor priority under Mao Zedong to a central policy push in the 1970s. The One-Child Policy (1980) restricted most couples to a single child, and it was later replaced by a Two-Child Policy (officially from 2016) and a Three-Child Policy (2021). Fertility rates did not rebound despite these relaxations.",
+    "facts": [
+     "Pre-1970s (Mao Zedong era): birth control existed but was not a major policy priority.",
+     "Great Leap Forward (1958-62) aimed to boost production and living standards but resulted in famine and millions of deaths.",
+     "Population growth rebounded after the Great Leap Forward was rolled back.",
+     "1970s five-year plans promoted birth control, often through coercive measures.",
+     "Slogan 'Later, Longer, Fewer' encouraged delayed marriages, longer intervals between births and fewer children.",
+     "One-Child Policy (1980) formally restricted most couples to a single child.",
+     "The One-Child Policy aimed to curb rapid population growth and ease pressure on resources.",
+     "Official end of the One-Child Policy in 2016 with the Two-Child Policy.",
+     "Three-Child Policy introduced in 2021.",
+     "Fertility rates have not rebounded despite the relaxations."
+    ],
+    "keywords": ["Mao Zedong", "Great Leap Forward", "Later, Longer, Fewer", "One-Child Policy", "Three-Child Policy"]
+   },
+   {
+    "title": "Reasons for China's Population Decline",
+    "summary": "China's total fertility rate fell to 1.3 births per woman in the 2020 Census, far below the replacement level of 2.1. The One-Child Policy is credited with cutting the TFR from 2.75 in 1979, but fertility did not rebound after later relaxations. Female education, changing family norms, economic pressures and the COVID-19 pandemic are cited as further causes.",
+    "facts": [
+     "TFR declined to 1.3 births per woman (2020 Census), far below the replacement level of 2.1.",
+     "The One-Child Policy is credited with reducing TFR from 2.75 (1979) to 1.3 (2020).",
+     "Fertility did not rebound after the Two-Child (2016) and Three-Child (2021) relaxations.",
+     "The lack of rebound indicates deep-rooted behavioural and socio-economic shifts.",
+     "Higher female education and employment have enhanced women's autonomy over reproductive decisions.",
+     "Growing disengagement from traditional family structures has reduced pressure to marry early or have many children.",
+     "Intense job competition, high urban living costs and work-life imbalance discourage marriage and childbearing.",
+     "Housing pressures and economic uncertainty discourage fertility, especially among younger generations.",
+     "COVID-19 related mortality and economic uncertainty further accelerated the population decline.",
+     "Delayed childbirth and smaller family sizes follow from higher education and employment of women."
+    ],
+    "keywords": ["TFR 1.3", "2.75 to 1.3", "female education", "work-life imbalance", "COVID-19"]
+   },
+   {
+    "title": "Global and Indian Fertility Context",
+    "summary": "UNFPA's State of World Population 2025 reports a global TFR of 2.25 in 2024, projected to reach the replacement level by 2050. India's fertility rate in 2025 was 1.9, below replacement, with wide regional differences. National schemes such as the National Population Policy 2000, ASHA workers and Janani Suraksha Yojana focus on voluntary choice, institutional deliveries and maternal and child health.",
+    "facts": [
+     "UNFPA was founded in 1969 as the United Nations Fund for Population Activities and renamed in 1987.",
+     "Global TFR was 2.25 in 2024 and is projected to hit replacement level of 2.1 by 2050.",
+     "Highest TFR: Niger > Somalia > DR Congo; lowest TFR: South Korea < Hong Kong < Singapore.",
+     "Elderly (65+) share of population: Japan 30%, Europe 20%, India 7%.",
+     "India's fertility rate in 2025 was 1.9, below the replacement level of 2.1.",
+     "India's working-age population (15-64 years) is 68%.",
+     "Above-replacement states: Bihar (2.98) > Meghalaya > UP > Jharkhand > Manipur.",
+     "National Population Policy 2000 aimed at replacement-level fertility (TFR 2.1) through voluntary choice.",
+     "Janani Suraksha Yojana encourages institutional deliveries and provides free delivery, transport and postnatal care.",
+     "Proposal to raise the legal age of marriage for girls to 21 years under the Prohibition of Child Marriage Act 2006."
+    ],
+    "keywords": ["UNFPA", "TFR 2.25", "National Population Policy 2000", "ASHA", "Janani Suraksha Yojana"]
+   }
+  ],
+  "mindmaps": [
+   {
+    "scope": "topic",
+    "title": "China's Population Decline: Overview",
+    "root": {
+     "label": "China's Population Decline (2025)",
+     "children": [
+      {
+       "label": "Demographic winter",
+       "children": [
+        {"label": "Persistent structural decline in growth"},
+        {"label": "Global, not only developed countries"}
+       ]
+      },
+      {
+       "label": "Causes",
+       "children": [
+        {"label": "Delayed marriage and parenthood"},
+        {"label": "Urbanisation and costly housing"},
+        {"label": "Female education and workforce"},
+        {"label": "Access to family planning"}
+       ]
+      },
+      {
+       "label": "Policy history",
+       "children": [
+        {"label": "Mao era: not a major priority"},
+        {"label": "Later, Longer, Fewer slogan"},
+        {"label": "One-Child (1980) to Three-Child (2021)"}
+       ]
+      },
+      {
+       "label": "Impacts",
+       "children": [
+        {"label": "Shrinking workforce"},
+        {"label": "Pension and healthcare pressure"},
+        {"label": "Elderly isolation"}
+       ]
+      },
+      {
+       "label": "Global and India",
+       "children": [
+        {"label": "Global TFR 2.25 (2024)"},
+        {"label": "India TFR 1.9 (2025)"}
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 0,
+    "title": "Demographic Winter: Key Map",
+    "root": {
+     "label": "Demographic Winter",
+     "children": [
+      {
+       "label": "Key indicators",
+       "children": [
+        {"label": "TFR below 2.1"},
+        {"label": "Inverted population pyramid"},
+        {"label": "Rising old-age dependency ratio"}
+       ]
+      },
+      {
+       "label": "Demographic dividend",
+       "children": [
+        {"label": "Larger working-age population"},
+        {"label": "Growth potential"}
+       ]
+      },
+      {
+       "label": "Key terms",
+       "children": [
+        {"label": "Replacement level 2.1"},
+        {"label": "Fertility: ages 15-49"}
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 1,
+    "title": "Causes and Impacts Map",
+    "root": {
+     "label": "Demographic Winter Causes and Impacts",
+     "children": [
+      {
+       "label": "Causes",
+       "children": [
+        {"label": "Delayed life milestones"},
+        {"label": "Urbanisation and costly housing"},
+        {"label": "Societal and cultural shifts"},
+        {"label": "Access to family planning"}
+       ]
+      },
+      {
+       "label": "Impacts",
+       "children": [
+        {"label": "Shrinking workforce"},
+        {"label": "Pension and healthcare burden"},
+        {"label": "Elderly isolation"}
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 2,
+    "title": "Policy Timeline Map",
+    "root": {
+     "label": "China's Birth Control Policy",
+     "children": [
+      {
+       "label": "Pre-1970s",
+       "children": [
+        {"label": "Mao era: not a major priority"}
+       ]
+      },
+      {
+       "label": "1958-62",
+       "children": [
+        {"label": "Great Leap Forward: famine"}
+       ]
+      },
+      {
+       "label": "1970s",
+       "children": [
+        {"label": "Later, Longer, Fewer slogan"}
+       ]
+      },
+      {
+       "label": "1980 to 2021",
+       "children": [
+        {"label": "One-Child Policy (1980)"},
+        {"label": "Two-Child Policy (2016)"},
+        {"label": "Three-Child Policy (2021)"}
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 3,
+    "title": "Reasons for Decline Map",
+    "root": {
+     "label": "Reasons for Decline",
+     "children": [
+      {
+       "label": "Fertility",
+       "children": [
+        {"label": "TFR 2.75 in 1979"},
+        {"label": "TFR 1.3 in 2020"}
+       ]
+      },
+      {
+       "label": "Social shifts",
+       "children": [
+        {"label": "Female education and jobs"},
+        {"label": "Weaker traditional family norms"}
+       ]
+      },
+      {
+       "label": "Economic pressure",
+       "children": [
+        {"label": "Job competition"},
+        {"label": "High urban living costs"},
+        {"label": "Work-life imbalance"}
+       ]
+      },
+      {
+       "label": "Shocks",
+       "children": [
+        {"label": "COVID-19 mortality and uncertainty"}
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 4,
+    "title": "Global and Indian Fertility Map",
+    "root": {
+     "label": "Global and Indian Fertility",
+     "children": [
+      {
+       "label": "Global",
+       "children": [
+        {"label": "UNFPA founded 1969"},
+        {"label": "Global TFR 2.25 in 2024"},
+        {"label": "Replacement level by 2050"}
+       ]
+      },
+      {
+       "label": "India",
+       "children": [
+        {"label": "TFR 1.9 in 2025"},
+        {"label": "Working-age share 68%"},
+        {"label": "Bihar highest above replacement"}
+       ]
+      },
+      {
+       "label": "Schemes",
+       "children": [
+        {"label": "National Population Policy 2000"},
+        {"label": "ASHA workers"},
+        {"label": "Janani Suraksha Yojana"}
+       ]
+      }
+     ]
+    }
+   }
+  ],
+  "mnemonics": [
+   {
+    "scope": "topic",
+    "title": "China's policy timeline",
+    "mnemonic": "Good Lads Often Take Tea",
+    "decode": [
+     {"key": "G", "meaning": "Great Leap Forward (1958-62)"},
+     {"key": "L", "meaning": "Later, Longer, Fewer slogan (1970s)"},
+     {"key": "O", "meaning": "One-Child Policy (1980)"},
+     {"key": "T", "meaning": "Two-Child Policy (official end of One-Child Policy, 2016)"},
+     {"key": "T", "meaning": "Three-Child Policy (2021)"}
+    ]
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 1,
+    "title": "Causes of demographic winter",
+    "mnemonic": "Dogs Usually Sleep Anywhere",
+    "decode": [
+     {"key": "D", "meaning": "Delayed life milestones"},
+     {"key": "U", "meaning": "Urbanisation"},
+     {"key": "S", "meaning": "Societal and cultural shifts"},
+     {"key": "A", "meaning": "Access to family planning"}
+    ]
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 4,
+    "title": "Above-replacement Indian states",
+    "mnemonic": "Big Men Use Jeeps Mostly",
+    "decode": [
+     {"key": "B", "meaning": "Bihar (2.98), listed first"},
+     {"key": "M", "meaning": "Meghalaya"},
+     {"key": "U", "meaning": "UP, listed third"},
+     {"key": "J", "meaning": "Jharkhand"},
+     {"key": "M", "meaning": "Manipur, listed last"}
+    ]
+   }
+  ],
+  "quizzes": [
+   {
+    "type": "MCQ",
+    "subtopic_index": 2,
+    "title": "Birth Control Policy in China",
+    "passage": "China's approach to family size has changed several times since the Mao era. In the early phase, birth control existed under Mao Zedong, but it was not a major policy priority. Later, the government's five-year plans began promoting birth control, and in some cases the measures used were coercive. A strict limit on family size was then introduced, and this limit was relaxed in stages over the following decades. The relaxation did not bring fertility back to earlier levels. Women now have higher education and employment, which has enhanced their autonomy over reproductive decisions and contributed to delayed childbirth. Changing social attitudes, economic pressures and high urban living costs and housing pressures are also among the factors linked to the trend. Many young people delay marriage and childbirth because of job competition and work-life stress. Economic and social barriers also prevent many couples from having the number of children they desire. Smaller families, in turn, can disrupt traditional support systems for the elderly. The COVID-19 pandemic further accelerated the decline. Overall, the experience shows how policy changes alone may not reverse deep-rooted behavioural patterns in a population.",
+    "questions": [
+     {
+      "q": "In which years did the Great Leap Forward occur in China?",
+      "options": ["1955-1960", "1958-1962", "1960-1965", "1962-1967"],
+      "answer": 1,
+      "explanation": "The Great Leap Forward ran from 1958 to 1962 and aimed to boost production and living standards."
+     },
+     {
+      "q": "Which slogan was promoted in China's birth control push of the 1970s?",
+      "options": ["Small Family, Happy Family", "One Child, One Nation", "Later, Longer, Fewer", "Quality over Quantity"],
+      "answer": 2,
+      "explanation": "The slogan 'Later, Longer, Fewer' encouraged delayed marriages, longer intervals between births and fewer children."
+     },
+     {
+      "q": "In which year did China officially end the One-Child Policy?",
+      "options": ["2014", "2015", "2016", "2017"],
+      "answer": 2,
+      "explanation": "The official end of the One-Child Policy came in 2016 with the Two-Child Policy."
+     },
+     {
+      "q": "Assertion (A): The One-Child Policy was formally introduced in 1980 to restrict most couples to a single child.\nReason (R): China's total fertility rate fell from 2.75 in 1979 to 1.3 in 2020.",
+      "options": ["Both A and R are true and R explains A", "Both A and R are true but R does not explain A", "A is true but R is false", "A is false but R is true"],
+      "answer": 1,
+      "explanation": "Both statements are true, but the later fall in TFR is a consequence of the policy and does not explain its 1980 introduction."
+     },
+     {
+      "q": "Match List I with List II:\nI. Great Leap Forward (1958-62)   ->   A. Famine and millions of deaths\nII. Later, Longer, Fewer   ->   B. Slogan encouraging delayed marriage and births\nIII. One-Child Policy (1980)   ->   C. Restricted most couples to a single child\nIV. Three-Child Policy (2021)   ->   D. Further relaxation of birth limits",
+      "options": ["I-B, II-A, III-C, IV-D", "I-A, II-B, III-C, IV-D", "I-A, II-C, III-B, IV-D", "I-C, II-A, III-D, IV-B"],
+      "answer": 1,
+      "explanation": "The Great Leap Forward resulted in famine, the slogan encouraged delayed marriage, the One-Child Policy restricted couples to one child, and the Three-Child Policy relaxed limits."
+     },
+     {
+      "q": "I. China's total fertility rate was 1.3 births per woman in the 2020 Census.\nII. Population growth rebounded after the Great Leap Forward was rolled back.\nIII. China's Three-Child Policy was introduced in 2016.\nWhich of the above statements is/are correct?",
+      "options": ["II and III only", "I and III only", "I, II and III", "I and II only"],
+      "answer": 3,
+      "explanation": "Statement III is wrong because the Three-Child Policy came in 2021, while 2016 marked the Two-Child Policy."
+     },
+     {
+      "q": "How many of the following statements about China's population policy are correct?\nI. The slogan 'Later, Longer, Fewer' encouraged longer intervals between births.\nII. The One-Child Policy was formally introduced in 1975.\nIII. China's TFR was 2.75 in 1979.",
+      "options": ["Only one", "Only two", "Only three", "None"],
+      "answer": 1,
+      "explanation": "Statements I and III are correct, while II is wrong because the One-Child Policy was formally introduced in 1980."
+     },
+     {
+      "q": "I. The Great Leap Forward aimed to boost production and living standards.\nII. Population growth rebounded during the Great Leap Forward.\nWhich of the above statements is/are correct?",
+      "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+      "answer": 0,
+      "explanation": "Statement II is wrong because population growth rebounded only after the Great Leap Forward was rolled back."
+     }
+    ]
+   },
+   {
+    "type": "TITA",
+    "subtopic_index": 4,
+    "title": "Global and Indian Fertility Context",
+    "passage": "Fertility trends are now a global concern, not only a feature of developed economies. The United Nations Population Fund publishes its State of World Population report, which tracks population data across countries. Fertility rates vary widely: some countries record very high levels, while economies such as South Korea, Hong Kong and Singapore record some of the lowest. Ageing is also a global trend, and the elderly share of the population is high in Japan and Europe. India's fertility has fallen below replacement level, but regional differences remain, with some states above replacement and others, such as Kerala and Tamil Nadu, below it. Figures cited for India show that financial stress is the main reason given for having fewer children, followed by housing and job concerns. Schemes such as the National Population Policy 2000 set the goal of replacement-level fertility and focus on voluntary choice and access to contraception. India's national policies also promote birth spacing, contraceptive use and institutional deliveries. A proposal to raise the legal age of marriage for girls aims to reduce early childbearing. Together, these measures aim to balance voluntary choice with maternal and child health.",
+    "questions": [
+     {
+      "q": "What is the current world population according to UNFPA's State of World Population 2025 (in billion)?",
+      "answer": "8.2",
+      "accept": ["8.2 billion", "8.2bn", "8.2 billion people"],
+      "explanation": "The booklet gives the current world population as 8.2 billion."
+     },
+     {
+      "q": "By which year is the global TFR projected to reach the replacement level of 2.1?",
+      "answer": "2050",
+      "accept": ["2050 AD"],
+      "explanation": "Global TFR was 2.25 in 2024 and is projected to hit replacement level of 2.1 by 2050."
+     },
+     {
+      "q": "What was India's fertility rate in 2025?",
+      "answer": "1.9",
+      "accept": ["1.9 children per woman"],
+      "explanation": "India's fertility rate in 2025 was 1.9, below the replacement level of 2.1."
+     },
+     {
+      "q": "Which above-replacement state has the highest fertility rate among those listed in the booklet?",
+      "answer": "Bihar",
+      "accept": ["bihar"],
+      "explanation": "Bihar (2.98) is listed first among the above-replacement states, ahead of Meghalaya, UP, Jharkhand and Manipur."
+     },
+     {
+      "q": "What percentage of India's population is of working age (15-64 years) (in per cent)?",
+      "answer": "68",
+      "accept": ["68%", "68 per cent"],
+      "explanation": "The booklet states that 68% of India's population is of working age (15-64 years)."
+     },
+     {
+      "q": "In which year was UNFPA renamed as the United Nations Population Fund?",
+      "answer": "1987",
+      "accept": [],
+      "explanation": "UNFPA was founded in 1969 as the UN Fund for Population Activities and renamed in 1987."
+     },
+     {
+      "q": "What legal age of marriage for girls does the proposal under the Prohibition of Child Marriage Act 2006 seek (in years)?",
+      "answer": "21",
+      "accept": ["21 years"],
+      "explanation": "The proposal aims to raise the legal age of marriage for girls to 21 years."
+     }
+    ]
+   }
+  ],
+  "needs_check": [
+   {"page": 62, "what": "China's 2025 population in the India comparison reads as 141.61 crore, which conflicts with 1.405 billion on page 60; not used"},
+   {"page": 62, "what": "China's One-Child Policy dates in the India comparison bracket read as 1979-2015, which conflicts with 1980 and 2016 on page 61; not used"},
+   {"page": 62, "what": "UNFPA partner list label is garbled ('Skill-up' with ECOSOC, WHO, UNDP, UNICEF); not used"}
+  ]
+ }
+}

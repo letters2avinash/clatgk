@@ -1,0 +1,452 @@
+{
+ "topic": {
+  "title": "India-EU Free Trade Agreement",
+  "chapter_title": "Economics",
+  "subtopics": [
+   {
+    "title": "Deal Background and Significance",
+    "summary": "India and the EU concluded the India-EU Broad-based Trade and Investment Agreement, finalised at the 16th India-EU Summit in New Delhi. The deal closes nearly two decades of intermittent negotiations and is widely described as the 'Mother of All Deals'. It still awaits ratification by the Indian Parliament and European bodies before full implementation.",
+    "facts": [
+     "Concluded by PM Modi and EU President Ursula von der Leyen",
+     "Finalised at the 16th India-EU Summit, New Delhi",
+     "Makes the EU India's 22nd Free Trade Agreement partner",
+     "Officially the Broad-based Trade and Investment Agreement (BTIA)",
+     "Negotiations began in 2007, suspended in 2013, revived in 2022",
+     "Supports India's trade diversification and China-plus-one strategy",
+     "Counters rising global trade protectionism, especially from the US",
+     "Creates an economic space for two billion people"
+    ],
+    "keywords": ["BTIA", "Mother of All Deals", "16th Summit", "ratification", "trade diversification", "China-plus-one"]
+   },
+   {
+    "title": "Tariff Cuts and Market Access",
+    "summary": "Duties on over 90% of bilateral trade have been removed under the agreement. The EU will eliminate customs duties on 99.5% of Indian exports, while India will phase out tariffs on over 90% of EU goods. High-value sectors such as cars and wines are opened gradually through staged tariff cuts and quotas.",
+    "facts": [
+     "Duties on over 90% of bilateral trade removed",
+     "EU eliminates customs duties on 99.5% of Indian exports",
+     "Estimated $33 billion boost to labour-intensive sectors",
+     "Textiles and apparel, leather and footwear, gems and jewellery enter EU at 0% duty",
+     "India phases out tariffs on over 90% of EU goods",
+     "Machinery up to 44%, chemicals up to 22%, pharmaceuticals up to 11%",
+     "EU exporters to save approximately EUR 4 billion annually",
+     "Luxury car tariff (cars above EUR 15,000) falls from 110% to 10% in 5 years",
+     "Tariff rate quota of 250,000 cars per year",
+     "Premium wine tariffs fall from 150% to 20-30%; spirits to 40%"
+    ],
+    "keywords": ["zero duty", "tariff phase-out", "tariff rate quota", "luxury cars", "wines and spirits", "labour-intensive"]
+   },
+   {
+    "title": "Protections, Exclusions and CBAM",
+    "summary": "Both sides keep negative lists of sensitive farm goods to protect rural livelihoods and food security. A parallel agreement protects geographical indications such as Darjeeling Tea and Champagne. The EU's Carbon Border Adjustment Mechanism applies a carbon levy on selected imports from 1 January 2026, and India received a most-favoured-nation assurance on it without a full exemption.",
+    "facts": [
+     "India's exclusions: dairy, wheat, rice and poultry",
+     "EU's exclusions: beef, sugar and rice",
+     "Geographical indication protection for Darjeeling Tea and Champagne",
+     "EUR 500 million pledged for decarbonisation of Indian industries",
+     "CBAM full implementation with carbon levy from 1 January 2026",
+     "Transitional phase 2023-2025 involved reporting only, with no financial levy",
+     "CBAM sectors: cement, aluminium, fertilisers, iron and steel, hydrogen, electricity",
+     "CBAM certificate price linked to the EU ETS carbon price",
+     "Credit allowed if a carbon tax was already paid in the exporting country",
+     "India got an MFN assurance on CBAM but no full exemption"
+    ],
+    "keywords": ["negative lists", "geographical indications", "CBAM", "carbon levy", "most-favoured-nation", "food security"]
+   },
+   {
+    "title": "2030 Roadmap and the US Factor",
+    "summary": "The 'Towards 2030' Joint India-EU Comprehensive Strategic Agenda is a five-year framework adopted at the 16th Summit to move ties beyond trade. It is organised into pillars covering prosperity, technology, security, connectivity, and enablers such as skills and mobility. The deal is also framed as a hedge against US tariff policy, after 50% reciprocal tariffs on Indian goods were imposed in August 2025.",
+    "facts": [
+     "Official title: 'Towards 2030: Joint India-EU Comprehensive Strategic Agenda'",
+     "A five-year framework adopted at the 16th India-EU Summit",
+     "Prosperity and Sustainability pillar includes green hydrogen and carbon market alignment",
+     "Technology and Innovation pillar includes Trade and Technology Council and 6G, semiconductors, quantum",
+     "Security and Defence pillar focuses on maritime security in the Indo-Pacific",
+     "Connectivity pillar includes IMEC and the EU's Global Gateway initiative",
+     "Enablers pillar covers skills and mobility, with a European Legal Gateway in India",
+     "Mutual recognition of professional qualifications targeted by 2030",
+     "50% reciprocal tariffs on Indian goods imposed in August 2025",
+     "Described as creating a 'Third Pole' in global trade"
+    ],
+    "keywords": ["Towards 2030", "pillars", "strategic agenda", "US tariffs", "Third Pole", "IMEC", "Global Gateway"]
+   },
+   {
+    "title": "EU Basics and India-EU Ties",
+    "summary": "The European Union is a political and economic union of 27 member states, and it traces its origins to the European Coal and Steel Community formed in 1951 by six countries. Its key institutions include the Commission, Parliament, Council, Court of Justice and the European Central Bank. India and the EU have had diplomatic relations since 1962, and ties were upgraded to a Strategic Partnership in 2004.",
+    "facts": [
+     "EU is a political and economic union of 27 member states",
+     "Began as the European Coal and Steel Community (1951) with six founding members",
+     "European Commission: executive body that proposes laws and manages the budget",
+     "European Parliament: the EU's only elected legislative body",
+     "European Council: heads of state or government, sets political direction",
+     "Court of Justice of the EU ensures uniform application of EU law",
+     "Diplomatic relations with the European Economic Community established in 1962",
+     "Upgraded to a Strategic Partnership at The Hague Summit in 2004",
+     "EU is India's largest trading partner in goods and largest foreign investor",
+     "Bilateral trade in 2024-25 was $136.53 billion"
+    ],
+    "keywords": ["European Commission", "European Parliament", "European Council", "Court of Justice", "Strategic Partnership", "The Hague"]
+   }
+  ],
+  "mindmaps": [
+   {
+    "scope": "topic",
+    "title": "India-EU FTA at a glance",
+    "root": {
+     "label": "India-EU Free Trade Agreement",
+     "children": [
+      {
+       "label": "Background",
+       "children": [
+        {"label": "Talks: 2007, suspended 2013, revived 2022"},
+        {"label": "Concluded at 16th Summit, New Delhi"}
+       ]
+      },
+      {
+       "label": "Tariff cuts",
+       "children": [
+        {"label": "EU removes duties on 99.5% of exports"},
+        {"label": "India phases out tariffs on 90%+ of EU goods"}
+       ]
+      },
+      {
+       "label": "Protections",
+       "children": [
+        {"label": "Negative lists for sensitive farm goods"},
+        {"label": "GI protection: Darjeeling Tea, Champagne"}
+       ]
+      },
+      {
+       "label": "Carbon border tax (CBAM)",
+       "children": [
+        {"label": "Full levy on imports from 1 January 2026"},
+        {"label": "Six sectors covered"}
+       ]
+      },
+      {
+       "label": "2030 roadmap",
+       "children": [
+        {"label": "Five pillars of cooperation"},
+        {"label": "US tariff shock as a trigger"}
+       ]
+      },
+      {
+       "label": "EU basics",
+       "children": [
+        {"label": "27 member states"},
+        {"label": "Executive body: European Commission"}
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 0,
+    "title": "Deal background",
+    "root": {
+     "label": "Deal background",
+     "children": [
+      {
+       "label": "Timeline",
+       "children": [
+        {"label": "Talks began in 2007"},
+        {"label": "Suspended in 2013"},
+        {"label": "Revived in 2022"}
+       ]
+      },
+      {
+       "label": "Milestones",
+       "children": [
+        {"label": "Concluded at 16th Summit, New Delhi"},
+        {"label": "EU becomes 22nd FTA partner"}
+       ]
+      },
+      {
+       "label": "Context",
+       "children": [
+        {"label": "Diversify trade partnerships"},
+        {"label": "China-plus-one strategy"}
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 1,
+    "title": "Tariff cuts",
+    "root": {
+     "label": "Tariff cuts",
+     "children": [
+      {
+       "label": "EU side",
+       "children": [
+        {"label": "Duties removed on 99.5% of exports"},
+        {"label": "Labour-intensive goods at 0% duty"}
+       ]
+      },
+      {
+       "label": "India side",
+       "children": [
+        {"label": "Phase-out on over 90% of EU goods"},
+        {"label": "Machinery, chemicals, pharma tariffs cut"}
+       ]
+      },
+      {
+       "label": "High-value sectors",
+       "children": [
+        {"label": "Cars: 110% to 10% over 5 years"},
+        {"label": "Wines: 150% to 20-30%"}
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 2,
+    "title": "Protections and CBAM",
+    "root": {
+     "label": "Protections and CBAM",
+     "children": [
+      {
+       "label": "Negative lists",
+       "children": [
+        {"label": "India: dairy, wheat, rice, poultry"},
+        {"label": "EU: beef, sugar, rice"}
+       ]
+      },
+      {
+       "label": "Geographical indications",
+       "children": [
+        {"label": "Darjeeling Tea"},
+        {"label": "Champagne"}
+       ]
+      },
+      {
+       "label": "CBAM",
+       "children": [
+        {"label": "2023-2025: reporting only"},
+        {"label": "Full levy from 1 January 2026"},
+        {"label": "Six sectors covered"}
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 3,
+    "title": "2030 roadmap",
+    "root": {
+     "label": "Towards 2030 roadmap",
+     "children": [
+      {
+       "label": "Five pillars",
+       "children": [
+        {"label": "Prosperity and Sustainability"},
+        {"label": "Technology and Innovation"},
+        {"label": "Security and Defence"},
+        {"label": "Connectivity and Global Challenges"},
+        {"label": "Enablers: Skills and Mobility"}
+       ]
+      },
+      {
+       "label": "US factor",
+       "children": [
+        {"label": "50% reciprocal tariffs, August 2025"},
+        {"label": "Reduce reliance on single market"}
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 4,
+    "title": "EU basics",
+    "root": {
+     "label": "EU basics and India ties",
+     "children": [
+      {
+       "label": "Union",
+       "children": [
+        {"label": "27 member states"},
+        {"label": "Founded 1951 with six members"}
+       ]
+      },
+      {
+       "label": "Institutions",
+       "children": [
+        {"label": "Commission proposes laws"},
+        {"label": "Parliament: only elected legislature"},
+        {"label": "Council sets political direction"},
+        {"label": "Court ensures uniform EU law"}
+       ]
+      },
+      {
+       "label": "India ties",
+       "children": [
+        {"label": "Diplomatic relations from 1962"},
+        {"label": "Strategic Partnership in 2004"}
+       ]
+      }
+     ]
+    }
+   }
+  ],
+  "mnemonics": [
+   {
+    "scope": "subtopic",
+    "subtopic_index": 2,
+    "title": "CBAM sectors",
+    "mnemonic": "Cats Always Find Iron Hot Eggs",
+    "decode": [
+     {"key": "C", "meaning": "Cement"},
+     {"key": "A", "meaning": "Aluminium"},
+     {"key": "F", "meaning": "Fertilisers"},
+     {"key": "I", "meaning": "Iron and steel"},
+     {"key": "H", "meaning": "Hydrogen"},
+     {"key": "E", "meaning": "Electricity"}
+    ]
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 3,
+    "title": "Five pillars",
+    "mnemonic": "Please Take Silly Cats Everywhere",
+    "decode": [
+     {"key": "P", "meaning": "Prosperity and Sustainability"},
+     {"key": "T", "meaning": "Technology and Innovation"},
+     {"key": "S", "meaning": "Security and Defence"},
+     {"key": "C", "meaning": "Connectivity and Global Challenges"},
+     {"key": "E", "meaning": "Enablers: Skills and Mobility"}
+    ]
+   }
+  ]
+ },
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "India-EU FTA: CLAT Practice",
+   "passage": "India and the European Union have concluded a free trade agreement that is widely described as a landmark in their economic relationship. The deal was finalised at the 16th India-EU Summit held in New Delhi, and it is expected to create an economic space covering around two billion people. It brings to a close a long series of talks that began in 2007, were suspended for a period, and were later revived. Before the deal can be fully implemented, it still needs to be ratified by the Indian Parliament and by European bodies.\n\nThe agreement is also a response to a changing global trade environment. Supply chain disruptions and rising protectionism have pushed India to diversify its trade partnerships, and the deal is seen as a way to reduce dependence on a single market. Both sides have kept comprehensive negative lists for sensitive farm commodities, so that rural livelihoods and food security are protected. A parallel agreement on geographical indications is meant to stop the unauthorised use of iconic products in either market.\n\nThe European Union itself is a political and economic union of member states. Its institutions include an executive body that proposes laws and manages the budget, a legislature that shares lawmaking duties, a council of heads of state or government, and a court that ensures EU law is applied uniformly. The EU has also introduced a carbon levy on certain imports, a measure that India views with concern as a possible form of green protectionism.",
+   "questions": [
+    {
+     "q": "What was the total bilateral trade between India and the EU in 2024-25?",
+     "options": ["$126.53 billion", "$130.53 billion", "$136.53 billion", "$146.53 billion"],
+     "answer": 2,
+     "explanation": "Bilateral trade in 2024-25 was $136.53 billion, of which India's exports were $75.85 billion."
+    },
+    {
+     "q": "Consider the following:\nAssertion (A): Indian labour-intensive exporters are expected to gain significantly in the EU market.\nReason (R): The EU will eliminate customs duties on 99.5% of Indian exports, and labour-intensive goods such as textiles now enter the EU at 0% duty.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 0,
+     "explanation": "The booklet states that the EU's 99.5% duty elimination brings labour-intensive sectors such as textiles to 0% duty, which explains the expected gain."
+    },
+    {
+     "q": "Match List I with List II:\nI. EU duty elimination on Indian exports   ->   A. 99.5%\nII. Pre-reduction tariff on cars above EUR 15,000   ->   B. 110%\nIII. Annual tariff rate quota for these cars   ->   C. 250,000 units\nIV. Maximum current Indian tariff on machinery   ->   D. 44%",
+     "options": ["I-B, II-A, III-C, IV-D", "I-A, II-C, III-B, IV-D", "I-C, II-B, III-A, IV-D", "I-A, II-B, III-C, IV-D"],
+     "answer": 3,
+     "explanation": "The EU removes duties on 99.5% of Indian exports, car tariffs decline from 110%, the car quota is 250,000 units, and machinery tariffs are up to 44%."
+    },
+    {
+     "q": "Consider the following statements about the India-EU FTA:\nI. India will phase out tariffs on over 90% of EU goods.\nII. Dairy, wheat, rice and poultry are inside India's tariff reduction framework.\nIII. The EU has exempted beef, sugar and rice from its own tariff cuts.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "I and III only", "II and III only", "I, II and III"],
+     "answer": 1,
+     "explanation": "Dairy, wheat, rice and poultry remain outside India's tariff reduction framework, so statement II is false while I and III are correct."
+    },
+    {
+     "q": "Consider the following statements about the Carbon Border Adjustment Mechanism (CBAM):\nI. The transitional phase from 2023 to 2025 carried no financial levy.\nII. Textiles and apparel are among the sectors covered by CBAM.\nIII. Importers must buy CBAM certificates linked to the embedded carbon in goods.\nHow many of the statements are correct?",
+     "options": ["Only one", "Only three", "Only two", "None of the above"],
+     "answer": 2,
+     "explanation": "Statements I and III are correct, while textiles are not in the CBAM sector list, so statement II is wrong."
+    },
+    {
+     "q": "How many Commissioners does the European Commission have?",
+     "options": ["27", "26", "28", "25"],
+     "answer": 0,
+     "explanation": "The European Commission is composed of 27 Commissioners, one from each member state."
+    },
+    {
+     "q": "Which EU institution is the only elected legislative body?",
+     "options": ["European Council", "European Parliament", "Court of Justice of the EU", "European Central Bank"],
+     "answer": 1,
+     "explanation": "The European Parliament is the EU's only elected legislative body and is elected every five years."
+    },
+    {
+     "q": "From what date does the full CBAM carbon levy on imports apply?",
+     "options": ["1 January 2025", "1 July 2026", "1 January 2027", "1 January 2026"],
+     "answer": 3,
+     "explanation": "CBAM moved to full implementation with a carbon levy payable on imports from 1 January 2026."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "Tariffs and Market Access: Quick Recall",
+   "passage": "The India-EU free trade agreement is built around the reduction of customs duties on goods that move between the two economies. The European Union is already one of India's largest trading partners, so the changes affect a large volume of commerce. Under the agreement, duties on most bilateral trade are being removed, giving Indian exporters better access to European markets while giving European producers access to Indian markets over time.\n\nThe benefits are not spread evenly across sectors. Labour-intensive industries in India, including textiles, apparel, leather and footwear, are expected to gain from lower entry barriers into Europe. Some products are treated more carefully. High-value items such as luxury cars and premium wines are not opened immediately; instead, their tariffs fall in stages, and quotas limit how many vehicles can enter at the lower rate each year. India also keeps some farm products outside the tariff cuts to protect rural livelihoods.\n\nMachinery, chemicals and pharmaceuticals are among the categories whose import duties into India will be phased out, so European exporters will benefit. The agreement remains subject to ratification by the Indian Parliament and European bodies, so its full effect will depend on how commitments are implemented. Both sides present the deal as a way to diversify trade partnerships in an uncertain global environment.",
+   "questions": [
+    {
+     "q": "What percentage of EU customs duties on Indian exports will be eliminated under the FTA? (in per cent)",
+     "answer": "99.5",
+     "accept": ["99.5%", "99.5 per cent", "99.5 percent"],
+     "explanation": "The EU will eliminate customs duties on 99.5% of Indian exports."
+    },
+    {
+     "q": "After five years, what will be the import tariff on luxury cars priced above EUR 15,000? (in per cent)",
+     "answer": "10",
+     "accept": ["10%", "10 per cent", "10 percent"],
+     "explanation": "The tariff on these cars declines from 110% to 10% over five years."
+    },
+    {
+     "q": "What is the annual tariff rate quota for luxury cars, in number of units?",
+     "answer": "250,000",
+     "accept": ["250000", "250,000 units", "250000 units"],
+     "explanation": "The agreement sets a tariff rate quota of 250,000 units per year for these cars."
+    },
+    {
+     "q": "What is the maximum current Indian tariff on machinery that will be phased out? (in per cent)",
+     "answer": "44",
+     "accept": ["44%", "44 per cent", "44 percent"],
+     "explanation": "India's tariffs on machinery are as high as 44%, and these will be phased out for EU goods."
+    },
+    {
+     "q": "Approximately how much will EU exporters save annually from India's tariff phase-out? (in EUR billion)",
+     "answer": "4",
+     "accept": ["EUR 4", "EUR 4 billion", "4 billion", "4bn", "€4", "€4 billion"],
+     "explanation": "India's tariff phase-out offers EU exporters savings of approximately EUR 4 billion annually."
+    },
+    {
+     "q": "Apart from Darjeeling Tea, name the iconic product whose geographical indication is protected under the parallel GI agreement.",
+     "answer": "Champagne",
+     "accept": ["champagne"],
+     "explanation": "The parallel GI agreement protects Darjeeling Tea and Champagne from unauthorised use or imitation."
+    },
+    {
+     "q": "In which year was India-EU ties upgraded to a Strategic Partnership at The Hague Summit? (year)",
+     "answer": "2004",
+     "accept": [],
+     "explanation": "The India-EU relationship was upgraded to a Strategic Partnership at The Hague Summit in 2004."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 54, "what": "Pillar numbering is garbled (Pillar II appears twice and the Connectivity pillar label is unreadable); pillars are cited by name only"},
+  {"page": 54, "what": "EU economy size is given as EUR 22.5 trillion here but EUR 17 trillion GDP on page 57; not used"},
+  {"page": 55, "what": "EU founding date: page 55 says established 1992 with the Maastricht Treaty, page 57 says effective 1 November 1993; not used"},
+  {"page": 56, "what": "Euro member count is given as 21 here but 20 on page 57; not used"},
+  {"page": 57, "what": "EU Deforestation Regulation and due diligence lines are fragmented (the 'after 2020' cutoff and the 2027 start are unclear); not used"},
+  {"page": 57, "what": "Industrial Accelerator Act line and the Skill-Up list are garbled; not used"},
+  {"page": 56, "what": "ISRO space cooperation line (PROBA-3 mission) is garbled; not used"},
+  {"page": 54, "what": "Owner of the USD 45.8 billion trade surplus with the US is unclear in the sentence; not used"},
+  {"page": 54, "what": "'Brussels Effect' label is garbled; not used"}
+ ]
+}

@@ -1,0 +1,412 @@
+{
+  "topic": {
+    "title": "UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026",
+    "chapter_title": "National News and Issues",
+    "subtopics": [
+      {
+        "title": "University Grants Commission: Origin, Status and Functions",
+        "summary": "The University Grants Commission is a statutory body under the UGC Act, 1956, formally inaugurated in 1953 by Maulana Abul Kalam Azad. Its idea evolved from the Sargeant Report (1944), and the University Education Commission (1948) recommended restructuring it on the British model. The UGC allocates grants, advises the government on higher education reforms and maintains academic standards from its headquarters in New Delhi.",
+        "facts": [
+          "Statutory body under the UGC Act, 1956",
+          "Formally inaugurated in 1953 by Maulana Abul Kalam Azad",
+          "Idea evolved from the Sargeant Report (1944)",
+          "University Grants Committee set up in 1945, expanded by 1947 to oversee all Indian universities",
+          "University Education Commission (1948) chaired by Dr. S. Radhakrishnan",
+          "That Commission recommended restructuring UGC on the British model",
+          "In 1952, the government entrusted UGC with oversight of higher education grants",
+          "Functions: allocating grants, advising government, maintaining academic standards",
+          "Composition: Chairman, Vice-Chairman and 10 members appointed by Central Government",
+          "Headquarters: New Delhi"
+        ],
+        "keywords": ["UGC Act 1956", "statutory body", "Sargeant Report", "Radhakrishnan Commission", "British model", "New Delhi"]
+      },
+      {
+        "title": "Caste Discrimination and Legal Safeguards",
+        "summary": "UGC data show that caste-discrimination complaints rose by 118 per cent between 2019-20 and 2023-24, and pending cases grew sharply despite high disposal rates. Caste discrimination erodes equality, dignity and fraternity and limits SC, ST and OBC access to elite institutions. Constitutional articles and statutes such as the Protection of Civil Rights Act, 1955 and the SC/ST (Prevention of Atrocities) Act, 1989 provide the legal safeguards.",
+        "facts": [
+          "Caste-discrimination complaints rose 118%, from 173 (2019-20) to 378 (2023-24)",
+          "Pending caste-discrimination cases rose from 18 to 108 over the same period, despite high disposal rates",
+          "Rohith Vemula (2016) and Payal Tadvi (2019) cases spotlight alleged institutional caste exclusion",
+          "Caste discrimination erodes equality, dignity and fraternity",
+          "Caste bias and poor schooling limit SC/ST/OBC access to elite institutions",
+          "Marginalised groups face higher dropout rates due to academic, financial and psychological pressures",
+          "SC/ST cells in universities often lack autonomy and enforcement",
+          "Article 14: equality before law; Article 15: prohibits discrimination and allows affirmative action; Article 17: abolishes untouchability",
+          "Protection of Civil Rights Act, 1955; SC/ST (Prevention of Atrocities) Act, 1989; Right to Education Act, 2009"
+        ],
+        "keywords": ["caste discrimination", "Rohith Vemula", "Payal Tadvi", "Article 14", "Article 15", "Article 17", "PCR Act 1955", "SC/ST Act 1989"]
+      },
+      {
+        "title": "Key Provisions of the 2026 Regulations",
+        "summary": "The 2026 Regulations define caste-based discrimination broadly, covering direct, indirect and systemic discrimination, and aim to prevent discrimination on campuses. Equal Opportunity Centres, which are mandatory in all higher education institutions, house Equity Committees that must act on complaints within set timelines. Institutions face reporting duties, and non-compliance can lead to penalties such as debarment from UGC schemes.",
+        "facts": [
+          "Caste-based discrimination is defined to include unfair or biased treatment",
+          "Covers direct, indirect and systemic discrimination",
+          "Prevents discrimination on campuses based on caste, religion, gender, race, disability or place of birth",
+          "Equal Opportunity Centres: nodal body, mandatory in all higher education institutions",
+          "Equity Committee: Head as Chairperson; 3 senior faculty, 1 non-teaching staff, 2 civil society and 2 student representatives; EOC coordinator as Member Secretary",
+          "Equity Committee convenes within 24 hours of a complaint; inquiry report due within 15 working days",
+          "Ombudsperson: independent authority for appeals against unresolved equity grievances; decisions binding on institutions",
+          "EOCs submit bi-annual reports; institutions submit annual equity compliance reports; National Monitoring Committee meets at least twice a year",
+          "Non-compliance can lead to debarment from UGC schemes, restrictions on offering degrees, or withdrawal of UGC recognition"
+        ],
+        "keywords": ["Equal Opportunity Centre", "EOC", "Equity Committee", "Ombudsperson", "National Monitoring Committee", "debarment"]
+      },
+      {
+        "title": "Concerns Raised About the Regulations",
+        "summary": "Critics fear the framework could indirectly influence the social and demographic composition of campuses. They point to the absence of safeguards against false or malicious complaints and to the lack of confidentiality or timely redress for the accused. Short inquiry periods and the automatic linkage of the helpline to police are also seen as risks.",
+        "facts": [
+          "Demographic policing concerns: may indirectly influence the social and demographic composition of campuses",
+          "No explicit protection against false, frivolous or malicious complaints",
+          "No mechanisms for confidentiality or timely redress for the accused; risk of reputational damage",
+          "Compressed inquiry timelines may compromise fact-finding and increase the risk of errors",
+          "Helpline's automatic linkage to police may discourage open academic discourse and reporting",
+          "Students and faculty could fear criminal consequences"
+        ],
+        "keywords": ["demographic policing", "false complaints", "reputational damage", "compressed timelines", "police linkage", "helpline"]
+      }
+    ]
+  },
+  "mindmaps": [
+    {
+      "scope": "topic",
+      "title": "UGC Equity Regulations 2026",
+      "root": {
+        "label": "UGC Equity Regulations 2026",
+        "children": [
+          {
+            "label": "UGC background",
+            "children": [
+              {"label": "Statutory body under UGC Act 1956"},
+              {"label": "Inaugurated 1953"},
+              {"label": "Headquarters New Delhi"}
+            ]
+          },
+          {
+            "label": "Caste discrimination data",
+            "children": [
+              {"label": "Complaints 173 to 378"},
+              {"label": "Pending cases 18 to 108"},
+              {"label": "Rohith Vemula 2016, Payal Tadvi 2019"}
+            ]
+          },
+          {
+            "label": "Key provisions",
+            "children": [
+              {"label": "Equal Opportunity Centres"},
+              {"label": "Equity Committee convenes in 24 hours"},
+              {"label": "Ombudsperson decisions binding"}
+            ]
+          },
+          {
+            "label": "Legal safeguards",
+            "children": [
+              {"label": "Articles 14, 15, 17"},
+              {"label": "Protection of Civil Rights Act 1955"},
+              {"label": "SC/ST Atrocities Act 1989"}
+            ]
+          },
+          {
+            "label": "Concerns raised",
+            "children": [
+              {"label": "Demographic policing"},
+              {"label": "No protection from false complaints"},
+              {"label": "Police linkage may deter reporting"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 0,
+      "title": "UGC at a glance",
+      "root": {
+        "label": "University Grants Commission",
+        "children": [
+          {
+            "label": "Origins",
+            "children": [
+              {"label": "Sargeant Report 1944"},
+              {"label": "Grants Committee set up 1945"},
+              {"label": "Radhakrishnan Commission 1948"}
+            ]
+          },
+          {
+            "label": "Functions",
+            "children": [
+              {"label": "Allocating grants"},
+              {"label": "Advising government"},
+              {"label": "Maintaining academic standards"}
+            ]
+          },
+          {
+            "label": "Composition",
+            "children": [
+              {"label": "Chairman and Vice-Chairman"},
+              {"label": "10 members, Central Government"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 1,
+      "title": "Caste discrimination picture",
+      "root": {
+        "label": "Caste discrimination in universities",
+        "children": [
+          {
+            "label": "Status",
+            "children": [
+              {"label": "Complaints 173 to 378"},
+              {"label": "Pending cases 18 to 108"}
+            ]
+          },
+          {
+            "label": "Impact",
+            "children": [
+              {"label": "Higher dropout rates"},
+              {"label": "Stigma and anxiety"},
+              {"label": "Weak SC/ST cells"}
+            ]
+          },
+          {
+            "label": "Legal safeguards",
+            "children": [
+              {"label": "Articles 14, 15, 17"},
+              {"label": "Civil Rights Act 1955"},
+              {"label": "Right to Education Act 2009"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 2,
+      "title": "Key provisions 2026",
+      "root": {
+        "label": "2026 Equity Regulations",
+        "children": [
+          {
+            "label": "Equity Committee",
+            "children": [
+              {"label": "Head is Chairperson"},
+              {"label": "3 senior faculty, 2 student reps"},
+              {"label": "EOC coordinator is Member Secretary"}
+            ]
+          },
+          {
+            "label": "Timelines",
+            "children": [
+              {"label": "Convene within 24 hours"},
+              {"label": "Inquiry report in 15 working days"}
+            ]
+          },
+          {
+            "label": "Compliance",
+            "children": [
+              {"label": "EOC bi-annual reports"},
+              {"label": "Institution annual compliance reports"},
+              {"label": "Monitoring committee twice a year"}
+            ]
+          },
+          {
+            "label": "Penalties",
+            "children": [
+              {"label": "Debarment from UGC schemes"},
+              {"label": "Restrictions on offering degrees"},
+              {"label": "Withdrawal of UGC recognition"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 3,
+      "title": "Concerns about the regulations",
+      "root": {
+        "label": "Opposition to the regulations",
+        "children": [
+          {
+            "label": "Campus composition",
+            "children": [
+              {"label": "Demographic policing concern"}
+            ]
+          },
+          {
+            "label": "Fairness",
+            "children": [
+              {"label": "No protection from false complaints"},
+              {"label": "Risk of reputational damage"}
+            ]
+          },
+          {
+            "label": "Process",
+            "children": [
+              {"label": "Compressed inquiry timelines"},
+              {"label": "Police linkage deters reporting"}
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "mnemonics": [
+    {
+      "scope": "subtopic",
+      "subtopic_index": 2,
+      "title": "Penalties for non-compliance",
+      "mnemonic": "Don't Risk Withdrawal",
+      "decode": [
+        {"key": "D", "meaning": "Debarment from UGC schemes"},
+        {"key": "R", "meaning": "Restrictions on offering degrees"},
+        {"key": "W", "meaning": "Withdrawal of UGC recognition"}
+      ]
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 3,
+      "title": "Concerns about the regulations",
+      "mnemonic": "Dark Alleys Really Confuse Crowds",
+      "decode": [
+        {"key": "D", "meaning": "Demographic policing concerns"},
+        {"key": "A", "meaning": "Absence of safeguards against false complaints"},
+        {"key": "R", "meaning": "Risk of reputational damage to the accused"},
+        {"key": "C", "meaning": "Compressed inquiry timelines"},
+        {"key": "C", "meaning": "Criminal escalation through police linkage"}
+      ]
+    },
+    {
+      "scope": "subtopic",
+      "subtopic_index": 1,
+      "title": "Articles 14, 15 and 17",
+      "mnemonic": "Equal Allies Abolish",
+      "decode": [
+        {"key": "Equal", "meaning": "Article 14: equality before law"},
+        {"key": "Allies", "meaning": "Article 15: prohibits discrimination and allows affirmative action"},
+        {"key": "Abolish", "meaning": "Article 17: abolishes untouchability"}
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "type": "MCQ",
+      "subtopic_index": 2,
+      "title": "Equity Regulations: Provisions and Checks",
+      "passage": "The University Grants Commission notified the Promotion of Equity in Higher Education Institutions Regulations, 2026 to promote equity, inclusion and anti-discrimination in Indian higher education institutions. The regulations define caste-based discrimination broadly, to include unfair or biased treatment, and cover direct, indirect and systemic discrimination. Their objectives also include preventing discrimination on campuses based on religion, gender, race, disability or place of birth. The central mechanism is the Equal Opportunity Centre, a nodal body for promoting equity and inclusion on campus. Each centre has an Equity Committee that receives and inquires into complaints. The committee includes faculty, non-teaching staff, civil society members and students, with the centre's coordinator acting as member secretary. The committee must convene quickly after a complaint is received and must submit its report within a set number of working days. Unresolved grievances can be appealed to an independent Ombudsperson, whose decisions bind institutions. Accountability is built into the framework. Centres submit bi-annual reports, institutions submit annual equity compliance reports, and a National Monitoring Committee oversees compliance. Heads of institutions are held responsible for compliance, and non-compliance can lead to debarment from UGC schemes, restrictions on offering degrees, or withdrawal of UGC recognition. The framework therefore links every institution to a formal reporting and oversight chain.",
+      "questions": [
+        {
+          "q": "How many working days are allowed for the Equity Committee to complete its inquiry and submit its report?",
+          "options": ["10 working days", "12 working days", "15 working days", "30 working days"],
+          "answer": 2,
+          "explanation": "The Equity Committee must submit its inquiry report within 15 working days."
+        },
+        {
+          "q": "How many senior faculty members sit on the Equity Committee as other members?",
+          "options": ["3", "1", "2", "4"],
+          "answer": 0,
+          "explanation": "The Equity Committee has 3 senior faculty members among its other members."
+        },
+        {
+          "q": "Which groups does the representation requirement for the Equity Committee cover?",
+          "options": ["Only students and faculty members", "Only SC and ST communities", "Only women and students", "SC, ST, OBC, women and persons with disabilities"],
+          "answer": 3,
+          "explanation": "The representation requirements name SC, ST, OBC, women and persons with disabilities."
+        },
+        {
+          "q": "Assertion (A): The Equity Committee must convene within 24 hours of receiving a complaint.\nReason (R): The Head of the institution serves as Chairperson of the Equity Committee.\nSelect the correct option.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true"
+          ],
+          "answer": 1,
+          "explanation": "Both statements are true, but the chairperson role does not explain the 24-hour convening rule."
+        },
+        {
+          "q": "Match List I with List II:\nI. Convening of Equity Committee after a complaint   ->   C. Within 24 hours\nII. Submission of Equity Committee inquiry report   ->   A. 15 working days\nIII. Student representatives on the Equity Committee   ->   D. Two\nIV. National Monitoring Committee meetings   ->   B. At least twice a year",
+          "options": ["I-A, II-B, III-C, IV-D", "I-B, II-C, III-D, IV-A", "I-C, II-A, III-D, IV-B", "I-D, II-B, III-A, IV-C"],
+          "answer": 2,
+          "explanation": "The convening rule is 24 hours, the inquiry report is 15 working days, two student representatives sit on the committee, and the National Monitoring Committee meets at least twice a year."
+        },
+        {
+          "q": "Consider the following statements about the 2026 Regulations:\nI. Equal Opportunity Centres are mandatory in all higher education institutions.\nII. The decisions of the Ombudsperson are not binding on institutions.\nIII. Institutions submit an annual equity compliance report to UGC.\nWhich of the above statements is/are correct?",
+          "options": ["I and III only", "I and II only", "II and III only", "I, II and III"],
+          "answer": 0,
+          "explanation": "Statement II is wrong because Ombudsperson decisions are binding, while statements I and III match the text."
+        },
+        {
+          "q": "How many of the following statements are correct?\nI. Equal Opportunity Centres act as a nodal body for promoting equity and inclusion on campus.\nII. The Ombudsperson is a part of the Equity Committee.\nIII. Heads of institutions are held responsible for compliance.",
+          "options": ["Only one", "Only two", "Only three", "None of the above"],
+          "answer": 1,
+          "explanation": "Statements I and III are correct, while the Ombudsperson is an independent authority outside the Equity Committee."
+        },
+        {
+          "q": "Consider the following statements:\nI. The Equity Committee's inquiry must be completed within 30 working days.\nII. The National Monitoring Committee meets once every year.\nWhich of the above statements is/are correct?",
+          "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+          "answer": 3,
+          "explanation": "The inquiry period is 15 working days and the National Monitoring Committee meets at least twice a year, so both statements are wrong."
+        }
+      ]
+    },
+    {
+      "type": "TITA",
+      "subtopic_index": 1,
+      "title": "Caste Discrimination and Safeguards",
+      "passage": "Caste-based discrimination in higher education has drawn sustained national attention. Figures reported by the University Grants Commission show that complaints of caste discrimination rose sharply in recent years, and the number of pending cases also grew, even though disposal rates stayed high. Two high-profile cases have highlighted allegations of institutional caste exclusion across the country. Such discrimination is seen to erode equality, dignity and fraternity, and to undermine trust in democratic institutions. Caste bias and poor schooling limit access to elite institutions for SC, ST and OBC students, which hinders social mobility. Marginalised communities also face higher dropout rates because of academic, financial and psychological pressures, while reserved category stigma can produce anxiety, low self-esteem and poor academic outcomes. Support structures are not always effective either, since SC/ST cells in universities often lack autonomy and enforcement, weakening grievance redressal. The constitutional framework responds to these problems. Article 14 guarantees equality before law, Article 15 prohibits discrimination and permits affirmative action, and Article 17 abolishes untouchability. Several statutes add enforcement, including the Protection of Civil Rights Act, which imposes penalties for practising untouchability, the SC/ST (Prevention of Atrocities) Act, which sets strict punishments, and the Right to Education Act, which promotes non-discriminatory access to education. Together, these measures combine constitutional principles with statutory penalties and guarantees of access to education.",
+      "questions": [
+        {
+          "q": "By what percentage did UGC-reported caste-discrimination complaints rise between 2019-20 and 2023-24? (in per cent)",
+          "answer": "118",
+          "accept": ["118%", "118 per cent", "118 percent"],
+          "explanation": "UGC reported a 118% rise, from 173 complaints in 2019-20 to 378 in 2023-24."
+        },
+        {
+          "q": "How many caste-discrimination cases were pending at UGC in 2023-24?",
+          "answer": "108",
+          "accept": ["108 cases"],
+          "explanation": "Pending cases rose from 18 in 2019-20 to 108 in 2023-24 despite high disposal rates."
+        },
+        {
+          "q": "How many caste-discrimination complaints were received in 2019-20?",
+          "answer": "173",
+          "accept": ["173 complaints"],
+          "explanation": "UGC data show 173 complaints in 2019-20, rising to 378 in 2023-24."
+        },
+        {
+          "q": "In which year did the Rohith Vemula case occur?",
+          "answer": "2016",
+          "accept": [],
+          "explanation": "The Rohith Vemula case is dated 2016 in the booklet."
+        },
+        {
+          "q": "Which Article of the Constitution directs the promotion of educational and economic interests of weaker sections? (give the number)",
+          "answer": "46",
+          "accept": ["Article 46", "Art. 46"],
+          "explanation": "Article 46 directs the promotion of educational and economic interests of weaker sections."
+        },
+        {
+          "q": "In which year was the Protection of Civil Rights Act enacted?",
+          "answer": "1955",
+          "accept": ["1955 Act"],
+          "explanation": "The Protection of Civil Rights Act, 1955 imposes penalties for practising untouchability."
+        },
+        {
+          "q": "In which year was the SC/ST (Prevention of Atrocities) Act enacted?",
+          "answer": "1989",
+          "accept": ["1989 Act"],
+          "explanation": "The SC/ST (Prevention of Atrocities) Act, 1989 enforces strict punishments against exploitation."
+        }
+      ]
+    }
+  ],
+  "needs_check": [
+    {"page": 44, "what": "Ombudsperson appeal timing 'within 30 Days' is ambiguous (appeal window or decision period); not used"},
+    {"page": 44, "what": "Objectives line 'Mandate Institutional Accountability and ...' is truncated in the OCR; not used"}
+  ]
+}

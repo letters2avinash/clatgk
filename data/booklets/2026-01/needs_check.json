@@ -1,0 +1,167 @@
+[
+ {
+  "topic": "Strategic Importance of Greenland",
+  "page": 12,
+  "what": "Greenland PM name partly garbled ('Jens - Frederik Nielsen'); not used"
+ },
+ {
+  "topic": "Strategic Importance of Greenland",
+  "page": 12,
+  "what": "Number of EU Overseas Countries and Territories ('25') read from OCR; not used"
+ },
+ {
+  "topic": "Strategic Importance of Greenland",
+  "page": 13,
+  "what": "Sidebar on US territorial purchases (Louisiana, Alaska, Danish West Indies) interleaved with main text; Danish West Indies line truncated; not used"
+ },
+ {
+  "topic": "Diego Garcia and the Chagos Islands",
+  "page": 27,
+  "what": "MAHASAGAR acronym is expanded two different ways (box: 'Maritime Heads for Active Security And Growth for All in Region'; body: 'Mutual and Holistic Advancement for Security and Growth Across Regions'); expansion not used"
+ },
+ {
+  "topic": "Diego Garcia and the Chagos Islands",
+  "page": 27,
+  "what": "Number of African partners in AIKEYME is hard to read (shown as '11'); number not used"
+ },
+ {
+  "topic": "UAE-Saudi Rift in Yemen",
+  "page": 30,
+  "what": "Word 'Ittermed' in 'Ittermed Claims of Arms Transfer to Separatists as Unfounded' is garbled; only the clearer Abu Dhabi rejection line was used"
+ },
+ {
+  "topic": "UAE-Saudi Rift in Yemen",
+  "page": 31,
+  "what": "Layout of the STC box is ambiguous: 'Receives Political and Strategic Backing from Saudi Arabia' may belong to the Pro-Government Military Bloc, not the STC"
+ },
+ {
+  "topic": "UAE-Saudi Rift in Yemen",
+  "page": 33,
+  "what": "'Accused of Corruption and being backed by Saudi Arabia and the United States' is unclear about who is accused and who backs whom; not used"
+ },
+ {
+  "topic": "UAE-Saudi Rift in Yemen",
+  "page": 34,
+  "what": "Maritime Heritage Complex location 'Wuidttl (Gujarat)' is garbled, and 'Desert Eagle (Air Defence Force)' may read 'Air Force'; neither used. Gulf-country list for Kafala is partly garbled (Bahrain, Qatar, Oman), so only Saudi Arabia and the UAE were referenced"
+ },
+ {
+  "topic": "UAE-Saudi Rift in Yemen",
+  "page": 35,
+  "what": "'Awarded Highest Civilian Award of UAE called Order of Zayed in 2019' does not clearly name the recipient; not used"
+ },
+ {
+  "topic": "Republic Day 2026",
+  "page": 40,
+  "what": "Peacetime Gallantry institution date printed as '4 degree January 1952'; only the year 1952 was used"
+ },
+ {
+  "topic": "Republic Day 2026",
+  "page": 40,
+  "what": "Bharat Ratna and Padma column text is interleaved (certificate, no monetary grant, max thrice per year); category assignment unclear, not used"
+ },
+ {
+  "topic": "Republic Day 2026",
+  "page": 39,
+  "what": "Break-up of Padma honours (women, foreign/NRI/PIO/OCI, posthumous, duo) is garbled; not used"
+ },
+ {
+  "topic": "Republic Day 2026",
+  "page": 39,
+  "what": "Kerala tableau theme is cut off at the page break; only the state name Kerala was used"
+ },
+ {
+  "topic": "UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026",
+  "page": 44,
+  "what": "Ombudsperson appeal timing 'within 30 Days' is ambiguous (appeal window or decision period); not used"
+ },
+ {
+  "topic": "UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026",
+  "page": 44,
+  "what": "Objectives line 'Mandate Institutional Accountability and ...' is truncated in the OCR; not used"
+ },
+ {
+  "topic": "10 Years of Startup India Initiative",
+  "page": 48,
+  "what": "Valuation table label for Unicorn is garbled (reads 'ates $1 Billion'); not used"
+ },
+ {
+  "topic": "10 Years of Startup India Initiative",
+  "page": 48,
+  "what": "Soonicorn valuation cell ('Less than $1 Billion') could not be reliably placed in the table; only the definition is used"
+ },
+ {
+  "topic": "10 Years of Startup India Initiative",
+  "page": 48,
+  "what": "Rupee symbol is garbled (shown as '¢' and '='); amounts are written as numbers in crore without the symbol"
+ },
+ {
+  "topic": "India-EU Free Trade Agreement",
+  "page": 54,
+  "what": "Pillar numbering is garbled (Pillar II appears twice and the Connectivity pillar label is unreadable); pillars are cited by name only"
+ },
+ {
+  "topic": "India-EU Free Trade Agreement",
+  "page": 54,
+  "what": "EU economy size is given as EUR 22.5 trillion here but EUR 17 trillion GDP on page 57; not used"
+ },
+ {
+  "topic": "India-EU Free Trade Agreement",
+  "page": 55,
+  "what": "EU founding date: page 55 says established 1992 with the Maastricht Treaty, page 57 says effective 1 November 1993; not used"
+ },
+ {
+  "topic": "India-EU Free Trade Agreement",
+  "page": 56,
+  "what": "Euro member count is given as 21 here but 20 on page 57; not used"
+ },
+ {
+  "topic": "India-EU Free Trade Agreement",
+  "page": 57,
+  "what": "EU Deforestation Regulation and due diligence lines are fragmented (the 'after 2020' cutoff and the 2027 start are unclear); not used"
+ },
+ {
+  "topic": "India-EU Free Trade Agreement",
+  "page": 57,
+  "what": "Industrial Accelerator Act line and the Skill-Up list are garbled; not used"
+ },
+ {
+  "topic": "India-EU Free Trade Agreement",
+  "page": 56,
+  "what": "ISRO space cooperation line (PROBA-3 mission) is garbled; not used"
+ },
+ {
+  "topic": "India-EU Free Trade Agreement",
+  "page": 54,
+  "what": "Owner of the USD 45.8 billion trade surplus with the US is unclear in the sentence; not used"
+ },
+ {
+  "topic": "India-EU Free Trade Agreement",
+  "page": 54,
+  "what": "'Brussels Effect' label is garbled; not used"
+ },
+ {
+  "topic": "PSLV-C62 Mission Failure",
+  "page": 71,
+  "what": "PSLV flight number ('64th') and the operator and count of the '9th dedicated commercial mission' are garbled; not used"
+ },
+ {
+  "topic": "PSLV-C62 Mission Failure",
+  "page": 71,
+  "what": "Mission type line after 'Earth Observation +' is garbled; not used"
+ },
+ {
+  "topic": "PSLV-C62 Mission Failure",
+  "page": 72,
+  "what": "SSLV 'developed by ISRO in 2024' and '3rd flight placed EOS-08 and SR-0 Demosat' lines are merged with the Agnibaan text; not used"
+ },
+ {
+  "topic": "PSLV-C62 Mission Failure",
+  "page": 72,
+  "what": "GSLV version label ('Mk-III') and its self-sufficiency claim are garbled; not used"
+ },
+ {
+  "topic": "PSLV-C62 Mission Failure",
+  "page": 73,
+  "what": "ISRO chairman tenure number and the 'India 7 Country' ordinal are garbled; not used"
+ }
+]

@@ -1,0 +1,290 @@
+{
+ "topic": {
+  "title": "PSLV-C62 Mission Failure",
+  "chapter_title": "Space",
+  "subtopics": [
+   {
+    "title": "PSLV-C62 failure and its cause",
+    "summary": "ISRO's first launch of 2026, PSLV-C62, was scheduled from Sriharikota in Andhra Pradesh. A third-stage solid rocket anomaly disrupted high-thrust delivery to the upper stages, which affected the intended satellite orbital injection. The failure came 8 months after the PSLV-C61 setback.",
+    "facts": [
+     "Mission was ISRO's first launch of 2026",
+     "Scheduled liftoff from Sriharikota, Andhra Pradesh",
+     "Fault: 3rd-stage solid rocket anomaly",
+     "Effect: high-thrust delivery to upper stages disrupted",
+     "Impact: intended satellite orbital injection affected",
+     "Failure came 8 months after the PSLV-C61 setback"
+    ],
+    "keywords": ["PSLV-C62", "Sriharikota", "third stage", "solid rocket anomaly", "orbital injection", "PSLV-C61"]
+   },
+   {
+    "title": "PSLV rocket profile and history",
+    "summary": "The Polar Satellite Launch Vehicle is called the Workhorse of ISRO and is a four-stage medium-lift launcher, first launched in 1993. It uses solid propellants in its first and third stages and liquid propellants in its second (Vikas engine) and fourth stages. It can carry up to 1750 kg to a 600 km Sun-synchronous orbit.",
+    "facts": [
+     "Nickname: Workhorse of ISRO",
+     "Type: four-stage medium-lift launch vehicle",
+     "Launched in 1993; first success in 1994 with IRS-P2",
+     "Stages 1 and 3 use solid propellants",
+     "Stages 2 (Vikas engine) and 4 use liquid propellants",
+     "First Indian launch vehicle equipped with liquid stages",
+     "Payload: up to 1750 kg to a 600 km Sun-synchronous orbit",
+     "Record: 104 satellites in one launch (2017)",
+     "Notable missions: Chandrayaan-1, Mars Orbiter Mission, Aditya-L1, AstroSat"
+    ],
+    "keywords": ["PSLV", "Workhorse of ISRO", "solid propellant", "Vikas engine", "IRS-P2", "Sun-synchronous orbit"]
+   },
+   {
+    "title": "PSLV-C62 payloads",
+    "summary": "PSLV-C62 carried EOS-N1 (Anvesha), a hyperspectral imaging satellite developed for DRDO's Strategic Applications, and KID, a small re-entry prototype from a Spanish startup. It also carried AayulSAT, India's first on-orbit satellite refuelling payload. In total, 18 co-passenger satellites flew on the mission.",
+    "facts": [
+     "EOS-N1 (Anvesha): hyperspectral imaging satellite",
+     "EOS-N1 developed for DRDO's Strategic Applications",
+     "EOS-N1 intended orbit: Sun-synchronous orbit",
+     "KID (Kestrel Initial Demonstrator): small-scale re-entry vehicle prototype",
+     "KID developed by a Spanish startup",
+     "KID mission: re-entry and splashdown in the South Pacific Ocean",
+     "AayulSAT: India's 1st on-orbit satellite refuelling payload",
+     "AayulSAT developed by Bengaluru-based OrbitAID Aerospace",
+     "18 co-passenger satellites (domestic and international)",
+     "Commercial payloads from India, Mauritius, Luxembourg, UAE, Singapore, Europe and the US"
+    ],
+    "keywords": ["EOS-N1", "Anvesha", "KID", "Kestrel Initial Demonstrator", "AayulSAT", "OrbitAID Aerospace", "co-passenger satellites"]
+   },
+   {
+    "title": "ISRO launch vehicles, private players and policy",
+    "summary": "India's launch vehicle family ranges from the early SLV and GSLV to the planned NGLV, which has a maximum payload capability of 30 tonnes. The SSLV serves small satellites and takes that load off the PSLV. Private firms such as Agnikul Cosmos are building their own rockets, which the Indian Space Policy 2023 allows.",
+    "facts": [
+     "SLV: ISRO's first satellite launch vehicle, followed by ASLV",
+     "GSLV: carries heavier satellites much deeper into space",
+     "NGLV: maximum payload capability of 30 tonnes",
+     "NGLV: about 3 times LVM3's payload capability at 1.5 times the cost",
+     "SSLV: suited to launching multiple microsatellites; shifts burden from PSLV",
+     "SSLV-D1 (2022) failed; SSLV-D2 (2023) succeeded",
+     "Agnikul Cosmos (founded 2017): SOrTeD is a two-stage suborbital demonstrator",
+     "Indian Space Policy 2023 lets private enterprises carry out end-to-end space activities",
+     "RHUMI-1: India's first reusable hybrid rocket, developed by Space Zone India"
+    ],
+    "keywords": ["SLV", "GSLV", "NGLV", "SSLV", "Agnikul Cosmos", "SOrTeD", "Indian Space Policy 2023", "RHUMI-1"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "PSLV-C62 at a glance",
+   "root": {
+    "label": "PSLV-C62 Mission Failure",
+    "children": [
+     {"label": "Failure details", "children": [
+      {"label": "3rd-stage solid rocket anomaly"},
+      {"label": "Upper-stage high-thrust delivery disrupted"},
+      {"label": "Satellite orbital injection affected"}
+     ]},
+     {"label": "Pattern of setbacks", "children": [
+      {"label": "Followed PSLV-C61 setback"},
+      {"label": "Gap of 8 months"}
+     ]},
+     {"label": "PSLV vehicle", "children": [
+      {"label": "Workhorse of ISRO"},
+      {"label": "Four-stage medium-lift launcher"},
+      {"label": "Up to 1750 kg to Sun-synchronous orbit"}
+     ]},
+     {"label": "Payloads", "children": [
+      {"label": "EOS-N1 Anvesha: hyperspectral imaging"},
+      {"label": "KID: Spanish startup re-entry prototype"},
+      {"label": "AayulSAT: refuelling payload"},
+      {"label": "18 co-passenger satellites"}
+     ]},
+     {"label": "Launch context", "children": [
+      {"label": "ISRO's first launch of 2026"},
+      {"label": "Launch site: Sriharikota"}
+     ]},
+     {"label": "Private launchers", "children": [
+      {"label": "Agnikul Cosmos: SOrTeD"},
+      {"label": "RHUMI-1: reusable hybrid rocket"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "PSLV-C62 failure map",
+   "root": {
+    "label": "PSLV-C62 failure",
+    "children": [
+     {"label": "Launch", "children": [
+      {"label": "ISRO's first launch of 2026"},
+      {"label": "Sriharikota, Andhra Pradesh"}
+     ]},
+     {"label": "Anomaly", "children": [
+      {"label": "Third-stage solid rocket"},
+      {"label": "High-thrust delivery to upper stages disrupted"}
+     ]},
+     {"label": "Impact", "children": [
+      {"label": "Intended satellite orbital injection affected"}
+     ]},
+     {"label": "Repeat", "children": [
+      {"label": "Followed PSLV-C61 setback"},
+      {"label": "8 months later"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "PSLV profile map",
+   "root": {
+    "label": "PSLV profile",
+    "children": [
+     {"label": "Identity", "children": [
+      {"label": "Workhorse of ISRO"},
+      {"label": "Four-stage medium-lift launcher"},
+      {"label": "Launched in 1993"}
+     ]},
+     {"label": "Propulsion", "children": [
+      {"label": "Solid: stages 1 and 3"},
+      {"label": "Liquid: stage 2 (Vikas) and stage 4"}
+     ]},
+     {"label": "Capability", "children": [
+      {"label": "Up to 1750 kg"},
+      {"label": "600 km Sun-synchronous orbit"}
+     ]},
+     {"label": "Milestones", "children": [
+      {"label": "First success: 1994, IRS-P2"},
+      {"label": "Record: 104 satellites, 2017"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "PSLV-C62 payload map",
+   "root": {
+    "label": "PSLV-C62 payloads",
+    "children": [
+     {"label": "Earth observation", "children": [
+      {"label": "EOS-N1 Anvesha"},
+      {"label": "Hyperspectral imaging"},
+      {"label": "Sun-synchronous orbit"}
+     ]},
+     {"label": "Re-entry", "children": [
+      {"label": "KID from a Spanish startup"},
+      {"label": "South Pacific splashdown"}
+     ]},
+     {"label": "Refuelling", "children": [
+      {"label": "AayulSAT by OrbitAID Aerospace"},
+      {"label": "India's first on-orbit refuelling payload"}
+     ]},
+     {"label": "Co-passengers", "children": [
+      {"label": "18 satellites in total"},
+      {"label": "Commercial payloads from several nations"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Launch vehicles and policy map",
+   "root": {
+    "label": "Launch vehicles and policy",
+    "children": [
+     {"label": "ISRO vehicles", "children": [
+      {"label": "SLV: ISRO's first rocket"},
+      {"label": "GSLV: heavier satellites, deeper space"},
+      {"label": "NGLV: 30-tonne capacity"},
+      {"label": "SSLV: small satellites, producer NSIL"}
+     ]},
+     {"label": "Private launchers", "children": [
+      {"label": "Agnikul Cosmos: SOrTeD"},
+      {"label": "RHUMI-1: reusable hybrid"}
+     ]},
+     {"label": "Policy", "children": [
+      {"label": "Indian Space Policy 2023"},
+      {"label": "Private end-to-end space activities"}
+     ]},
+     {"label": "Agencies", "children": [
+      {"label": "NSIL: commercial arm of ISRO"},
+      {"label": "IN-SPACe: authorisation centre"}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Failure recall",
+   "mnemonic": "Third Stage Solid, Eight Months Later",
+   "decode": [
+    {"key": "Third Stage Solid", "meaning": "PSLV-C62 anomaly was a solid rocket fault in the third stage"},
+    {"key": "Eight Months Later", "meaning": "PSLV-C62 failure followed the PSLV-C61 setback in 8 months"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "PSLV stage pattern",
+   "mnemonic": "Silly Lions Sing Loud",
+   "decode": [
+    {"key": "S", "meaning": "Stage 1 uses solid propellants"},
+    {"key": "L", "meaning": "Stage 2 uses liquid propellants (Vikas engine)"},
+    {"key": "S", "meaning": "Stage 3 uses solid propellants"},
+    {"key": "L", "meaning": "Stage 4 uses liquid propellants"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "PSLV-C62 key payloads",
+   "mnemonic": "Every Kite Arrives",
+   "decode": [
+    {"key": "E", "meaning": "EOS-N1 (Anvesha), a hyperspectral imaging satellite"},
+    {"key": "K", "meaning": "KID, a re-entry prototype from a Spanish startup"},
+    {"key": "A", "meaning": "AayulSAT, India's first on-orbit satellite refuelling payload"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "PSLV-C62 mission check",
+   "passage": "ISRO planned its first launch of 2026 with PSLV-C62, a rocket scheduled to lift off from Sriharikota in Andhra Pradesh. The Polar Satellite Launch Vehicle is often called the workhorse of ISRO, and this flight carried a mix of government and commercial satellites. During the mission, a fault appeared in the third stage. A solid rocket anomaly disrupted the high-thrust delivery to the upper stages, and this affected the planned injection of the satellites into orbit. The failure came after an earlier setback with PSLV-C61, which put the vehicle under close scrutiny.\n\nAmong the payloads was EOS-N1, also known as Anvesha, an Earth observation satellite built for strategic applications. Another payload was KID, a small re-entry prototype developed by a Spanish startup, which was meant to splash down in the ocean. The flight also carried AayulSAT, a satellite refuelling payload from a Bengaluru company, and a group of co-passenger satellites from several countries. Together, the payloads covered Earth observation, re-entry testing and satellite refuelling. Each payload was carried on the same rocket, so a fault in the upper stages put all of them at risk. The rocket's earlier flights, including missions to the Moon and Mars, show why its reliability matters for the national programme.",
+   "questions": [
+    {"q": "How many months passed between the PSLV-C61 setback and the PSLV-C62 failure? (in months)", "options": ["6 months", "8 months", "10 months", "12 months"], "answer": 1, "explanation": "The booklet states the PSLV-C62 failure followed the PSLV-C61 setback in 8 months."},
+    {"q": "Which organisation developed the EOS-N1 (Anvesha) satellite?", "options": ["ISRO", "HAL", "DRDO", "BARC"], "answer": 2, "explanation": "EOS-N1 (Anvesha) was developed for DRDO's Strategic Applications."},
+    {"q": "Assertion (A): PSLV is known as the workhorse of ISRO.\nReason (R): PSLV was the first Indian launch vehicle equipped with liquid stages.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "answer": 1, "explanation": "Both statements are true in the booklet, but the liquid-stage fact does not explain why PSLV is called the workhorse."},
+    {"q": "Match List I with List II:\nI. Anvesha (EOS-N1)   ->   A. Hyperspectral imaging satellite\nII. Kestrel Initial Demonstrator   ->   B. Small-scale re-entry vehicle prototype\nIII. AayulSAT   ->   C. First on-orbit satellite refuelling payload\nIV. Vikas engine   ->   D. Liquid propellant second stage of PSLV", "options": ["I-A, II-B, III-C, IV-D", "I-B, II-A, III-C, IV-D", "I-A, II-C, III-B, IV-D", "I-C, II-B, III-A, IV-D"], "answer": 0, "explanation": "Anvesha is a hyperspectral imaging satellite, KID is a re-entry prototype, AayulSAT is a refuelling payload, and Vikas is the second-stage liquid engine."},
+    {"q": "Which of the above statements is/are correct?\nI. PSLV was first launched in 1993.\nII. PSLV uses liquid propellants in its first and third stages.\nIII. PSLV can carry up to 1750 kg to a 600 km Sun-synchronous orbit.", "options": ["I and III only", "II and III only", "I only", "I, II and III"], "answer": 0, "explanation": "Statement II is wrong because the booklet says solid propellants are used in the first and third stages."},
+    {"q": "How many of the following statements about PSLV-C62 and its payloads are correct?\nA. The launch was scheduled from Sriharikota.\nB. The KID prototype was developed in India.\nC. A total of 104 satellites flew on PSLV-C62.\nD. AayulSAT was developed by a Bengaluru-based company.", "options": ["Only one", "Only two", "Only three", "All four"], "answer": 1, "explanation": "Statements A and D are correct, while B (KID is from a Spanish startup) and C (104 satellites was a 2017 record) are wrong."},
+    {"q": "Which PSLV flight carried Aditya-L1 into space?", "options": ["PSLV-C57", "PSLV-C58", "PSLV-C62", "PSLV-C61"], "answer": 0, "explanation": "Aditya-L1 was aboard PSLV-C57 on 2 September 2023, while PSLV-C58 carried XPoSat."},
+    {"q": "Which Bengaluru-based company developed AayulSAT?", "options": ["Agnikul Cosmos", "Skyroot Aerospace", "Pixxel Space", "OrbitAID Aerospace"], "answer": 3, "explanation": "AayulSAT was developed by OrbitAID Aerospace, a Bengaluru-based company."}
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 1,
+   "title": "PSLV profile recall",
+   "passage": "The Polar Satellite Launch Vehicle is widely known as the workhorse of the Indian Space Research Organisation. It is a medium-lift launcher with four stages, and it has carried many national missions, including lunar and Mars missions. Its design mixes two kinds of propulsion, since some stages burn solid fuel while others use liquid propellants. Because of this mix, it became the first Indian launch vehicle to be equipped with liquid stages, a milestone for the national programme. The rocket also holds a notable record of its own, having carried a very large number of satellites on a single flight. It is able to place heavy satellites into a Sun-synchronous orbit, which suits Earth observation work. Over the years it has launched satellites for both government and commercial customers, reflecting its reliability and flexibility. The rocket's stages fire one after another, and the upper stages must deliver steady thrust for satellites to reach their planned orbit. This makes the vehicle an important tool for both national missions and international customers. Its success has made it a central part of India's launch plans, and it continues to be a core vehicle in the country's space efforts.",
+   "questions": [
+    {"q": "How many satellites did PSLV carry on a single flight in 2017? (in number)", "answer": "104", "accept": ["104", "one hundred four", "one hundred and four"], "explanation": "The booklet records 104 satellites in one PSLV launch in 2017."},
+    {"q": "In which year did PSLV achieve its first successful launch? (year)", "answer": "1994", "accept": ["1994"], "explanation": "PSLV achieved its first success in 1994 with the IRS-P2 satellite."},
+    {"q": "Name the remote sensing satellite carried on PSLV's first successful launch.", "answer": "IRS-P2", "accept": ["IRS-P2", "IRS P2", "IRSP2"], "explanation": "The first success in 1994 was the insertion of the IRS-P2 remote sensing satellite."},
+    {"q": "What is PSLV's payload capability to a 600 km Sun-synchronous orbit? (in kg)", "answer": "1750", "accept": ["1750 kg", "1,750", "1,750 kg", "1750kg"], "explanation": "PSLV can carry up to 1750 kg to a 600 km Sun-synchronous orbit."},
+    {"q": "Which engine powers the liquid second stage of PSLV? (name of the engine)", "answer": "Vikas", "accept": ["Vikas engine", "Vikas Engine", "Vikas Engines"], "explanation": "The booklet identifies the Vikas engine as the liquid-propellant second stage of PSLV."},
+    {"q": "Which PSLV launch, designated PSLV-Cxx, carried Aditya-L1 on 2 September 2023? (designation)", "answer": "PSLV-C57", "accept": ["C57", "PSLV C57", "PSLV-C57"], "explanation": "Aditya-L1 was launched aboard PSLV-C57 on 2 September 2023."},
+    {"q": "In which year was Chandrayaan-1, a PSLV-launched lunar probe, launched? (year)", "answer": "2008", "accept": ["2008"], "explanation": "The booklet lists Chandrayaan-1 as a 2008 mission that verified the presence of water on the Moon."}
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 71, "what": "PSLV flight number ('64th') and the operator and count of the '9th dedicated commercial mission' are garbled; not used"},
+  {"page": 71, "what": "Mission type line after 'Earth Observation +' is garbled; not used"},
+  {"page": 72, "what": "SSLV 'developed by ISRO in 2024' and '3rd flight placed EOS-08 and SR-0 Demosat' lines are merged with the Agnibaan text; not used"},
+  {"page": 72, "what": "GSLV version label ('Mk-III') and its self-sufficiency claim are garbled; not used"},
+  {"page": 73, "what": "ISRO chairman tenure number and the 'India 7 Country' ordinal are garbled; not used"}
+ ]
+}

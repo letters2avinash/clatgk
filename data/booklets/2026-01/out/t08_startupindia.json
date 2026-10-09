@@ -1,0 +1,270 @@
+{
+ "topic": {
+  "title": "10 Years of Startup India Initiative",
+  "chapter_title": "Polity and Governance",
+  "subtopics": [
+   {
+    "title": "Launch, Aim and Management",
+    "summary": "The Startup India Initiative was launched on 16 January 2016 to foster startup culture and build an inclusive ecosystem for innovation and entrepreneurship. The Department for Promotion of Industry and Internal Trade, under the Ministry of Commerce & Industry, manages it. 16 January is observed as National Startup Day, and India marks 10 years of the initiative.",
+    "facts": [
+     "Launched on 16 January 2016.",
+     "Aim: foster startup culture and build an inclusive ecosystem for innovation and entrepreneurship.",
+     "Managed by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry.",
+     "16 January is observed as National Startup Day.",
+     "India ranks as the world's third largest startup hub, after the US and China.",
+     "Soonicorn: a startup with potential to reach a valuation of 1 billion dollars in the near future.",
+     "Decacorn: valuation of 10 billion dollars.",
+     "Hectocorn: valuation of 100 billion dollars."
+    ],
+    "keywords": ["Startup India", "DPIIT", "National Startup Day", "16 January 2016", "startup culture", "soonicorn", "decacorn", "hectocorn"]
+   },
+   {
+    "title": "Eligibility and Core Features",
+    "summary": "A startup qualifies if it is headquartered in India, opened less than 10 years ago and has an annual turnover below 100 crore. The initiative offers ease of doing business through self-certification and single-window clearances. Eligible startups also enjoy tax exemptions for three consecutive financial years.",
+    "facts": [
+     "A startup must be an entity headquartered in India.",
+     "It must have opened less than 10 years ago.",
+     "Annual turnover must be less than 100 crore.",
+     "Ease of doing business through simplified compliance, self-certification and single-window clearances.",
+     "Eligible startups enjoy tax exemptions for 3 consecutive financial years.",
+     "Sector-specific policies target biotechnology, agriculture and renewable energy.",
+     "Funding support includes a 10,000 crore Fund of Funds for early-stage funding."
+    ],
+    "keywords": ["eligibility", "self-certification", "single-window clearance", "tax exemption", "sector-specific policies", "turnover"]
+   },
+   {
+    "title": "Funding Support Schemes",
+    "summary": "Startup India funding support works through the Seed Fund Scheme, the Credit Guarantee Scheme and the Fund of Funds for Startups. The Fund of Funds was introduced in June 2016 with a corpus of 10,000 crore to enhance access to domestic capital. Seed assistance covers early activities such as proof of concept and market entry, delivered through eligible incubators.",
+    "facts": [
+     "Seed Fund Scheme provides financial assistance for proof of concept, prototype development, product trials, market entry and commercialization.",
+     "Seed Fund assistance is delivered through eligible incubators.",
+     "Credit Guarantee Scheme offers credit guarantees for loans to DPIIT-recognized startups.",
+     "Fund of Funds for Startups was introduced in June 2016.",
+     "Fund of Funds corpus is 10,000 crore.",
+     "Fund of Funds aims to enhance access to domestic capital.",
+     "Fund of Funds supports early-stage funding."
+    ],
+    "keywords": ["Seed Fund Scheme", "Credit Guarantee Scheme", "Fund of Funds", "DPIIT-recognized", "domestic capital", "incubators"]
+   },
+   {
+    "title": "Incubation and Innovation Schemes",
+    "summary": "Several schemes support startups through incubation, technology focus and regional reach. Atal Incubation Centres, set up under the Atal Innovation Mission of NITI Aayog, provide physical infrastructure. TIDE 2.0, GENESIS, NIDHI and ASPIRE target emerging technologies, Tier-II and Tier-III cities, technology-driven ideas and agro-industry respectively.",
+    "facts": [
+     "Atal Innovation Mission operates under NITI Aayog.",
+     "Atal Innovation Mission establishes Atal Incubation Centres that provide physical infrastructure and support to startups.",
+     "TIDE 2.0 stands for Technology Incubation and Development of Entrepreneurs.",
+     "TIDE 2.0 supports startups in emerging technologies such as AI, IoT and Blockchain.",
+     "GENESIS 2024 stands for Gen-Next Support for Innovative Startups.",
+     "GENESIS aims to boost startups in Tier-II and Tier-III cities.",
+     "NIDHI stands for National Initiative for Developing and Harnessing Innovations.",
+     "NIDHI aims at socio-economic growth through wealth and job creation.",
+     "ASPIRE stands for A Scheme for Promotion of Innovation, Rural Industries and Entrepreneurship.",
+     "ASPIRE sets up a network of technology centres and incubation centres and promotes startups in agro-industry."
+    ],
+    "keywords": ["Atal Innovation Mission", "Atal Incubation Centres", "TIDE 2.0", "GENESIS", "NIDHI", "ASPIRE", "NITI Aayog"]
+   },
+   {
+    "title": "Mentorship, Networking and Events",
+    "summary": "BHASKAR connects startups, investors and mentors to empower non-metro cities, while MAARG offers intelligent matchmaking between mentors and startups. Startup Mahakumbh is a flagship event bringing together startups, unicorns, soonicorns, investors, industry leaders and ecosystem stakeholders. The fifth edition is scheduled in March in New Delhi.",
+    "facts": [
+     "BHASKAR stands for Bharat Startup Knowledge Access Registry; it is the BHASKAR Platform of 2024.",
+     "BHASKAR connects startups, investors and mentors.",
+     "BHASKAR aims to empower non-metro cities.",
+     "MAARG stands for Mentorship, Advisory, Assistance, Resilience & Growth.",
+     "MAARG offers intelligent matchmaking between mentors and startups.",
+     "Startup Mahakumbh is a flagship event bringing together startups, unicorns, soonicorns, investors, industry leaders and ecosystem stakeholders.",
+     "The 5th Startup Mahakumbh is scheduled in March in New Delhi."
+    ],
+    "keywords": ["BHASKAR", "MAARG", "Startup Mahakumbh", "mentorship", "non-metro cities", "matchmaking"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Startup India Initiative at 10 Years",
+   "root": {
+    "label": "Startup India Initiative",
+    "children": [
+     {"label": "Launch and Aim", "children": [
+      {"label": "Launched 16 Jan 2016"},
+      {"label": "Foster startup culture and inclusive ecosystem"},
+      {"label": "Managed by DPIIT"}
+     ]},
+     {"label": "Eligibility", "children": [
+      {"label": "Headquartered in India"},
+      {"label": "Opened less than 10 years ago"},
+      {"label": "Annual turnover below 100 crore"}
+     ]},
+     {"label": "Funding Support", "children": [
+      {"label": "Seed Fund Scheme"},
+      {"label": "Credit Guarantee Scheme"},
+      {"label": "Fund of Funds 10,000 crore"}
+     ]},
+     {"label": "Incubation Schemes", "children": [
+      {"label": "AIM under NITI Aayog"},
+      {"label": "TIDE 2.0 emerging technologies"},
+      {"label": "GENESIS Tier-II and Tier-III cities"},
+      {"label": "NIDHI technology-driven ideas"},
+      {"label": "ASPIRE agro-industry network"}
+     ]},
+     {"label": "Mentorship and Events", "children": [
+      {"label": "BHASKAR 2024 registry"},
+      {"label": "MAARG mentor matchmaking"},
+      {"label": "Startup Mahakumbh 5th edition"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Launch and Objectives",
+   "root": {
+    "label": "Startup India Launch",
+    "children": [
+     {"label": "Launched 16 Jan 2016", "children": [{"label": "National Startup Day on 16 Jan"}]},
+     {"label": "Aim: startup culture and inclusive ecosystem"},
+     {"label": "Managed by DPIIT", "children": [{"label": "Ministry of Commerce & Industry"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Eligibility and Core Features",
+   "root": {
+    "label": "Startup Eligibility and Features",
+    "children": [
+     {"label": "Eligibility", "children": [
+      {"label": "Headquartered in India"},
+      {"label": "Opened under 10 years ago"},
+      {"label": "Turnover below 100 crore"}
+     ]},
+     {"label": "Core features", "children": [
+      {"label": "Ease of doing business"},
+      {"label": "Tax exemption for 3 years"},
+      {"label": "Funding support"},
+      {"label": "Sector-specific policies"}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Funding Support Schemes",
+   "root": {
+    "label": "Funding Support",
+    "children": [
+     {"label": "Seed Fund Scheme", "children": [{"label": "Proof of concept and prototypes"}, {"label": "Market entry and commercialization"}]},
+     {"label": "Credit Guarantee Scheme", "children": [{"label": "Loans to DPIIT-recognized startups"}]},
+     {"label": "Fund of Funds", "children": [{"label": "Introduced June 2016"}, {"label": "Corpus 10,000 crore"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Incubation and Innovation Schemes",
+   "root": {
+    "label": "Incubation and Innovation Schemes",
+    "children": [
+     {"label": "AIM under NITI Aayog", "children": [{"label": "Atal Incubation Centres"}]},
+     {"label": "TIDE 2.0", "children": [{"label": "AI, IoT and Blockchain"}]},
+     {"label": "GENESIS 2024", "children": [{"label": "Tier-II and Tier-III cities"}]},
+     {"label": "NIDHI", "children": [{"label": "Wealth and job creation"}]},
+     {"label": "ASPIRE", "children": [{"label": "Agro-industry network"}]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Mentorship, Networking and Events",
+   "root": {
+    "label": "Mentorship and Networking",
+    "children": [
+     {"label": "BHASKAR (2024)", "children": [{"label": "Connects startups, investors, mentors"}]},
+     {"label": "MAARG", "children": [{"label": "Matchmaking mentors and startups"}]},
+     {"label": "Startup Mahakumbh", "children": [{"label": "5th edition, New Delhi, March"}]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Core features",
+   "mnemonic": "Every Team Finds Success",
+   "decode": [
+    {"key": "E", "meaning": "Ease of doing business through simplified compliance and single-window clearances"},
+    {"key": "T", "meaning": "Tax exemptions for 3 consecutive financial years"},
+    {"key": "F", "meaning": "Funding support, including the 10,000 crore Fund of Funds"},
+    {"key": "S", "meaning": "Sector-specific policies for biotechnology, agriculture and renewable energy"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Funding schemes",
+   "mnemonic": "Seeds Grow Funds",
+   "decode": [
+    {"key": "S", "meaning": "Seed Fund Scheme for proof of concept and prototype development"},
+    {"key": "G", "meaning": "Credit Guarantee Scheme for loans to DPIIT-recognized startups"},
+    {"key": "F", "meaning": "Fund of Funds for Startups with a 10,000 crore corpus"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Incubation schemes",
+   "mnemonic": "Tiny Genes Nurture Aspirations",
+   "decode": [
+    {"key": "T", "meaning": "TIDE 2.0 supports startups in emerging technologies"},
+    {"key": "G", "meaning": "GENESIS boosts startups in Tier-II and Tier-III cities"},
+    {"key": "N", "meaning": "NIDHI turns technology-driven ideas into successful startups"},
+    {"key": "A", "meaning": "ASPIRE promotes startups in agro-industry"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 3,
+   "title": "Incubation Schemes Check",
+   "passage": "Support for new businesses in India is organised through several government programmes, and each one has a specific focus. Some programmes provide physical infrastructure to young firms through incubation centres, along with support to help them grow. Other programmes are designed for cities beyond the largest metropolitan areas, where the aim is to open opportunities for entrepreneurs outside major centres. A further group focuses on particular fields, including emerging technologies that are expected to shape future industries. Rural industries and agro-based enterprises are also covered by some schemes. Several of these programmes connect startups with mentors and networks, which helps founders gain practical guidance. Programmes differ in how they are delivered: some work through physical centres, some through online platforms and some through funding or guarantees. Together these programmes show that innovation is meant to spread widely rather than remain confined to a few cities or sectors. Students should note that every programme has a distinct purpose, a target group and a full name that explains its work. Knowing the expansion of each acronym, and the place or sector each one serves, is essential for answering precise questions on this topic. Read each scheme with its objective and its region of focus in mind.",
+   "questions": [
+    {"q": "Under which body does the Atal Innovation Mission operate?", "options": ["Department for Promotion of Industry and Internal Trade", "Ministry of Science and Technology", "NITI Aayog", "Ministry of Electronics and Information Technology"], "answer": 2, "explanation": "The booklet states that the Atal Innovation Mission operates under NITI Aayog."},
+    {"q": "Assertion (A): Atal Incubation Centres are set up to support startups.\nReason (R): These centres provide physical infrastructure and support to startups.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "answer": 0, "explanation": "Atal Incubation Centres exist to give startups physical infrastructure and support, so R explains A."},
+    {"q": "Match List I with List II:\nI. GENESIS   ->   A. Startups in Tier-II and Tier-III cities\nII. ASPIRE   ->   B. Network of technology and incubation centres for agro-industry\nIII. NIDHI   ->   C. Technology-driven ideas into successful startups\nIV. TIDE 2.0   ->   D. Startups in AI, IoT and Blockchain", "options": ["I-C, II-B, III-A, IV-D", "I-A, II-B, III-C, IV-D", "I-B, II-D, III-C, IV-A", "I-D, II-A, III-B, IV-C"], "answer": 1, "explanation": "GENESIS targets Tier-II and Tier-III cities, ASPIRE builds centre networks for agro-industry, NIDHI turns technology ideas into startups and TIDE 2.0 supports emerging technologies."},
+    {"q": "Consider the following statements:\nI. The Atal Innovation Mission establishes Atal Incubation Centres.\nII. GENESIS focuses on startups in metropolitan cities.\nIII. NIDHI aims at socio-economic growth through wealth and job creation.\nWhich of the above statements is/are correct?", "options": ["I and II only", "II and III only", "I, II and III", "I and III only"], "answer": 3, "explanation": "GENESIS is aimed at Tier-II and Tier-III cities, so statement II is wrong while I and III match the booklet."},
+    {"q": "Which scheme sets up a network of technology centres and incubation centres to promote agro-industry startups?", "options": ["NIDHI", "GENESIS", "ASPIRE", "TIDE 2.0"], "answer": 2, "explanation": "ASPIRE sets up a network of technology centres and incubation centres and promotes startups in agro-industry."},
+    {"q": "Consider the following statements:\nI. TIDE 2.0 supports startups in emerging technologies such as AI, IoT and Blockchain.\nII. GENESIS was launched in 2016.\nIII. ASPIRE stands for A Scheme for Promotion of Innovation, Rural Industries and Entrepreneurship.\nHow many of the above statements are correct?", "options": ["Only one", "Only two", "Only three", "None"], "answer": 1, "explanation": "GENESIS is the 2024 scheme, so only statements I and III are correct."},
+    {"q": "What does GENESIS stand for?", "options": ["Gen-Next Support for Innovative Startups", "Gen-Next Support for Innovation Startups", "Generation Support for Innovative Startups", "Gen-Next System for Innovative Startups"], "answer": 0, "explanation": "GENESIS stands for Gen-Next Support for Innovative Startups."},
+    {"q": "Which scheme aims at socio-economic growth through wealth and job creation?", "options": ["ASPIRE", "TIDE 2.0", "GENESIS", "NIDHI"], "answer": 3, "explanation": "NIDHI aims at socio-economic growth through wealth and job creation."}
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "Funding Schemes Recall",
+   "passage": "Access to finance is a central concern for new businesses, and the government has created several instruments to address it. Some instruments support the early steps of a venture, such as testing an idea, building a prototype or entering a market. Others help a recognised startup obtain loans by offering a guarantee to the lender. A larger instrument works through a corpus that supports new companies. Such instruments are managed by the department that promotes industry and internal trade under the Ministry of Commerce & Industry. Government instruments of this kind are designed to reach firms at different points of their growth. Students should note the timeline of each measure, the amount it commits and the kind of startup it reaches. Precise recall of names, dates and figures matters, because two similar schemes can be confused in examinations. Each scheme must be read against its own purpose, since support for early activities differs from a guarantee on loans.",
+   "questions": [
+    {"q": "In which month and year was the Fund of Funds for Startups introduced?", "answer": "June 2016", "accept": ["Jun 2016", "June, 2016", "June 2016"], "explanation": "The Fund of Funds for Startups was introduced in June 2016."},
+    {"q": "What is the corpus of the Fund of Funds for Startups, in crore? (number only)", "answer": "10,000", "accept": ["10000", "10,000 crore", "10000 crore"], "explanation": "The Fund of Funds for Startups has a corpus of 10,000 crore."},
+    {"q": "The Credit Guarantee Scheme for Startups gives guarantees on loans for which category of startups? (use the booklet's term)", "answer": "DPIIT-recognized", "accept": ["DPIIT recognized", "DPIIT-recognized startups", "DPIIT recognized startups"], "explanation": "The Credit Guarantee Scheme offers credit guarantees for loans to DPIIT-recognized startups."},
+    {"q": "Which scheme provides financial assistance for proof of concept and prototype development? (scheme name)", "answer": "Seed Fund Scheme", "accept": ["Startup India Seed Fund Scheme", "Seed Fund"], "explanation": "The Startup India Seed Fund Scheme provides assistance for proof of concept and prototype development."},
+    {"q": "Through which type of eligible institutions is seed fund assistance channelled? (one word)", "answer": "Incubators", "accept": ["Incubator"], "explanation": "Seed fund assistance is delivered through eligible incubators."},
+    {"q": "At which stage of funding does the Fund of Funds for Startups specifically support? (one word)", "answer": "Early-stage", "accept": ["Early stage", "Early"], "explanation": "The Fund of Funds for Startups supports early-stage funding."},
+    {"q": "The Fund of Funds for Startups aims to enhance access to which kind of capital? (two words)", "answer": "Domestic capital", "accept": ["domestic capital", "Access to domestic capital"], "explanation": "The Fund of Funds aims to enhance access to domestic capital."}
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 48, "what": "Valuation table label for Unicorn is garbled (reads 'ates $1 Billion'); not used"},
+  {"page": 48, "what": "Soonicorn valuation cell ('Less than $1 Billion') could not be reliably placed in the table; only the definition is used"},
+  {"page": 48, "what": "Rupee symbol is garbled (shown as '¢' and '='); amounts are written as numbers in crore without the symbol"}
+ ]
+}

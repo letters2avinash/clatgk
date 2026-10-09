@@ -1,0 +1,409 @@
+{
+ "topic": {
+  "title": "Diego Garcia and the Chagos Islands",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "Sovereignty Deal and Diego Garcia Base",
+    "summary": "Britain has agreed to transfer sovereignty of the Chagos Islands to Mauritius, but the UK will retain sovereign rights over Diego Garcia. A joint UK-US military base there will remain operational for an initial period of 99 years. US concerns centre on strategic autonomy and base security, and Trump criticised the plan.",
+    "facts": [
+     "Britain has agreed to transfer sovereignty of the Chagos Islands to Mauritius.",
+     "The Chagos archipelago comprises 58 islands, with Diego Garcia the largest.",
+     "The UK retains sovereign rights over Diego Garcia under the agreement.",
+     "A joint UK-US military base on Diego Garcia will remain operational for an initial period of 99 years.",
+     "Diego Garcia is located in the Central Indian Ocean.",
+     "US concern: a sovereignty change may affect strategic autonomy and base security.",
+     "Trump criticised the UK plan, citing the strategic importance of the US military base.",
+     "The issue is sensitive because it pits decolonisation against security interests."
+    ],
+    "keywords": ["Chagos Islands", "Diego Garcia", "sovereignty", "99 years", "UK-US base", "strategic autonomy"]
+   },
+   {
+    "title": "Chagos Dispute and Legal Battles",
+    "summary": "The UK declared the Chagos Islands a British Indian Ocean Territory in 1965, and the islands stayed with Britain when Mauritius became independent in 1968. Between 1968 and 1973, native Chagossians were forcibly removed to make way for a military base. Mauritius then pursued legal routes, including a case at the Permanent Court of Arbitration and an ICJ advisory opinion that ended in a 2019 order to return the islands.",
+    "facts": [
+     "The UK declared the Chagos Islands a British Indian Ocean Territory in 1965.",
+     "Chagos remained with Britain when Mauritius gained independence in 1968.",
+     "Between 1968 and 1973, the UK and US forcibly removed native Chagossians.",
+     "In 2015, Mauritius initiated legal proceedings against the UK at the Permanent Court of Arbitration in The Hague.",
+     "The Permanent Court of Arbitration ruled that the UK violated Mauritius' rights under UNCLOS.",
+     "The Court found that the UK had ulterior motives in creating a Marine Protected Area around the Chagos Islands in 2010.",
+     "The UK insisted that the issue should remain a bilateral matter.",
+     "In 2017, the UNGA voted on Mauritius' resolution to seek an ICJ advisory opinion.",
+     "In 2019, the ICJ ordered the UK to return the Chagos Islands to Mauritius.",
+     "The UK claimed that the ICJ had no jurisdiction over the matter."
+    ],
+    "keywords": ["British Indian Ocean Territory", "Chagossians", "PCA", "UNCLOS", "Marine Protected Area", "ICJ advisory opinion"]
+   },
+   {
+    "title": "Colonial History of the Chagos Islands",
+    "summary": "Portuguese navigators discovered the Chagos Islands in the 16th century, and the islands later came under French control. After Napoleon's defeat, Britain took control of both Chagos and Mauritius, and France ceded the islands to Britain in 1814. Mauritius later argued that it had been coerced into giving up the islands, in violation of UN Resolution 1514.",
+    "facts": [
+     "Portuguese navigators discovered the Chagos Islands in the 16th century.",
+     "The Chagos Islands later came under French control.",
+     "After Napoleon's defeat, Britain took control of both Chagos and Mauritius.",
+     "In 1814, France ceded the islands to Britain.",
+     "Mauritius argued that it was coerced into giving up the islands during colonial rule.",
+     "UN Resolution 1514 prohibited the breakup of colonies before independence.",
+     "The UK claimed that the ICJ had no jurisdiction over the matter.",
+     "Mauritius is a former British and French colony that gained independence from British rule in 1968."
+    ],
+    "keywords": ["Portuguese", "French control", "Napoleon", "1814", "Resolution 1514", "colonial history"]
+   },
+   {
+    "title": "Mauritius and India Partnership",
+    "summary": "India and Mauritius established diplomatic relations in 1948, and the partnership now covers security, trade and culture. Mauritius is a key source of investment into India and a gateway for Indian trade into Africa. India has also supported Mauritius on security and disaster response, including naval drills and an airfield upgrade.",
+    "facts": [
+     "Mauritius is an island nation in the Western Indian Ocean, with its capital at Port Louis.",
+     "India and Mauritius established diplomatic relations in 1948.",
+     "Mahatma Gandhi visited Mauritius in 1901.",
+     "The Indira Gandhi Centre for Indian Culture (1987) is India's largest cultural centre abroad.",
+     "The 2021 CECPA was the first such agreement between India and an African nation.",
+     "Bilateral trade in FY 2024-25 was USD 887.25 million.",
+     "Mauritius was the second largest source of FDI into India in FY 2024-25, after Singapore.",
+     "India was the first responder for Mauritius during COVID-19, the Wakashio oil spill (2020) and Cyclone Chido.",
+     "Mauritius participates in India-led VARUNA and MILAN naval drills.",
+     "India upgraded the Agaléga Island airstrip into a full-length airfield."
+    ],
+    "keywords": ["CECPA", "FDI", "Indira Gandhi Centre", "VARUNA", "MILAN", "Agaléga"]
+   },
+   {
+    "title": "MAHASAGAR and Maritime Initiatives",
+    "summary": "MAHASAGAR is an Indian Navy initiative launched in 2023 that builds on India's 2015 SAGAR maritime doctrine. It widens the focus from India's immediate neighbourhood to the broader Global South, with trade, security, technology and finance as key areas. New tools under it include the IOS Sagar platform and the AIKEYME naval exercise with African nations.",
+    "facts": [
+     "MAHASAGAR builds on India's 2015 Maritime Doctrine, SAGAR.",
+     "MAHASAGAR was launched by the Indian Navy in 2023.",
+     "MAHASAGAR widens the scope of SAGAR from India's immediate maritime neighbourhood to the broader Global South.",
+     "MAHASAGAR's key focus areas are trade for development, mutual security, technology sharing and financial assistance.",
+     "MAHASAGAR is a bi-annual initiative that convenes naval chiefs and maritime officials from littoral states.",
+     "IOS Sagar uses the INS Sunayna platform to deepen naval cooperation with Indian Ocean littorals.",
+     "AIKEYME is a large-scale naval exercise with African nations.",
+     "AIKEYME means Unity in Sanskrit, symbolising solidarity with African partners."
+    ],
+    "keywords": ["MAHASAGAR", "SAGAR", "IOS Sagar", "INS Sunayna", "AIKEYME", "Indian Navy"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Diego Garcia and Chagos Islands Map",
+   "root": {
+    "label": "Diego Garcia and Chagos Islands",
+    "children": [
+     {
+      "label": "Sovereignty deal",
+      "children": [
+       {"label": "UK transfers sovereignty to Mauritius", "children": []},
+       {"label": "UK keeps sovereign rights over Diego Garcia", "children": []},
+       {"label": "Joint UK-US base for 99 years", "children": []}
+      ]
+     },
+     {
+      "label": "Chagos dispute",
+      "children": [
+       {"label": "BIOT declared in 1965", "children": []},
+       {"label": "Chagossians removed 1968-1973", "children": []},
+       {"label": "PCA ruling against UK (2015)", "children": []},
+       {"label": "ICJ ordered return in 2019", "children": []}
+      ]
+     },
+     {
+      "label": "Colonial history",
+      "children": [
+       {"label": "Portuguese discovery, 16th century", "children": []},
+       {"label": "French control, then British", "children": []},
+       {"label": "France ceded islands in 1814", "children": []}
+      ]
+     },
+     {
+      "label": "India-Mauritius ties",
+      "children": [
+       {"label": "Diplomatic ties since 1948", "children": []},
+       {"label": "CECPA signed in 2021", "children": []},
+       {"label": "Trade USD 887.25 million (FY 2024-25)", "children": []}
+      ]
+     },
+     {
+      "label": "Maritime initiatives",
+      "children": [
+       {"label": "SAGAR doctrine (2015)", "children": []},
+       {"label": "MAHASAGAR launched in 2023", "children": []},
+       {"label": "IOS Sagar and AIKEYME", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Sovereignty Deal Map",
+   "root": {
+    "label": "Sovereignty deal",
+    "children": [
+     {
+      "label": "Chagos Islands to Mauritius",
+      "children": [
+       {"label": "58 islands in archipelago", "children": []},
+       {"label": "Diego Garcia is largest", "children": []}
+      ]
+     },
+     {
+      "label": "UK keeps Diego Garcia rights",
+      "children": [
+       {"label": "Joint UK-US military base", "children": []},
+       {"label": "Initial period of 99 years", "children": []}
+      ]
+     },
+     {
+      "label": "Concerns and criticism",
+      "children": [
+       {"label": "Strategic autonomy and base security", "children": []},
+       {"label": "Trump cites strategic importance", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Chagos Dispute Map",
+   "root": {
+    "label": "Chagos dispute",
+    "children": [
+     {"label": "BIOT declared in 1965", "children": []},
+     {"label": "Forced removal 1968-1973", "children": []},
+     {
+      "label": "Legal route",
+      "children": [
+       {"label": "PCA: UK violated UNCLOS (2015)", "children": []},
+       {"label": "Marine Protected Area (2010)", "children": []},
+       {"label": "UNGA vote on advisory opinion (2017)", "children": []},
+       {"label": "ICJ ordered return (2019)", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Colonial History Map",
+   "root": {
+    "label": "Colonial history of Chagos",
+    "children": [
+     {"label": "Portuguese discovery, 16th century", "children": []},
+     {"label": "Later French control", "children": []},
+     {"label": "British control after Napoleon", "children": []},
+     {"label": "France ceded islands in 1814", "children": []},
+     {"label": "Resolution 1514 argument", "children": []}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "India-Mauritius Partnership Map",
+   "root": {
+    "label": "India-Mauritius partnership",
+    "children": [
+     {
+      "label": "Security",
+      "children": [
+       {"label": "Coastal radar stations", "children": []},
+       {"label": "VARUNA and MILAN drills", "children": []}
+      ]
+     },
+     {
+      "label": "Economy",
+      "children": [
+       {"label": "CECPA signed in 2021", "children": []},
+       {"label": "Second largest FDI source after Singapore", "children": []}
+      ]
+     },
+     {
+      "label": "Culture",
+      "children": [
+       {"label": "Gandhi visit in 1901", "children": []},
+       {"label": "Indira Gandhi Centre (1987)", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "MAHASAGAR Map",
+   "root": {
+    "label": "MAHASAGAR initiative",
+    "children": [
+     {"label": "Launched by Indian Navy in 2023", "children": []},
+     {"label": "Builds on SAGAR (2015)", "children": []},
+     {
+      "label": "Focus areas",
+      "children": [
+       {"label": "Trade for development", "children": []},
+       {"label": "Mutual security", "children": []},
+       {"label": "Technology sharing", "children": []},
+       {"label": "Financial assistance", "children": []}
+      ]
+     },
+     {
+      "label": "New initiatives",
+      "children": [
+       {"label": "IOS Sagar with INS Sunayna", "children": []},
+       {"label": "AIKEYME naval exercise with Africa", "children": []}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "CHAGOS keyword recall",
+   "mnemonic": "Clever Hawks Argue Good Ocean Strategy",
+   "decode": [
+    {"key": "C", "meaning": "Chagos Archipelago has 58 islands"},
+    {"key": "H", "meaning": "Hague: Mauritius took the UK to the PCA (2015)"},
+    {"key": "A", "meaning": "UNGA voted to seek an ICJ advisory opinion (2017)"},
+    {"key": "G", "meaning": "Diego Garcia is the largest island"},
+    {"key": "O", "meaning": "UK declared the Chagos Islands a BIOT in 1965"},
+    {"key": "S", "meaning": "UK agreed to transfer sovereignty to Mauritius"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Dispute milestones",
+   "mnemonic": "Marine Parks Vanish Overnight",
+   "decode": [
+    {"key": "M", "meaning": "Marine Protected Area around Chagos created in 2010"},
+    {"key": "P", "meaning": "PCA ruled UK violated Mauritius' rights (2015)"},
+    {"key": "V", "meaning": "UNGA voted on the advisory opinion resolution (2017)"},
+    {"key": "O", "meaning": "ICJ ordered UK to return the Chagos Islands (2019)"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "Chagos Dispute Check",
+   "passage": "The Chagos Islands have been at the centre of a long dispute between Britain and Mauritius. Before Mauritius became independent, Britain set up the islands as a separate territory, and they stayed under British control after independence. In that period, native Chagossians were forcibly removed from their homes so that a military base could be built on Diego Garcia, the largest island in the archipelago. Mauritius responded through international legal channels. It took the matter to the Permanent Court of Arbitration in The Hague, which found that Britain had violated Mauritius' rights under a major international maritime convention. The ruling also stressed that defence interests had been given priority over Mauritius' rights, and it described Britain's actions as a violation of good faith. Britain, however, insisted that the issue should remain a bilateral matter between the two countries. Mauritius then turned to the United Nations, where the General Assembly voted on a resolution seeking an advisory opinion from the International Court of Justice. The Court later ordered Britain to return the islands to Mauritius. Britain argued that the Court had no jurisdiction over the matter. The dispute reflects a tension between international legal norms on decolonisation and security interests in the Indian Ocean.",
+   "questions": [
+    {
+     "q": "In which year did the UK declare the Chagos Islands a British Indian Ocean Territory?",
+     "options": ["1960", "1965", "1968", "1970"],
+     "answer": 1,
+     "explanation": "The UK declared the Chagos Islands a British Indian Ocean Territory in 1965, before Mauritius became independent in 1968."
+    },
+    {
+     "q": "Between which years were native Chagossians forcibly removed from the islands?",
+     "options": ["1960-1965", "1965-1970", "1968-1973", "1970-1975"],
+     "answer": 2,
+     "explanation": "Between 1968 and 1973, the UK and US forcibly removed native Chagossians to make way for the military base."
+    },
+    {
+     "q": "Under which convention did the Permanent Court of Arbitration rule that the UK had violated Mauritius' rights?",
+     "options": ["Geneva Convention", "Vienna Convention", "UN Convention on the Law of the Sea (UNCLOS)", "Rome Statute"],
+     "answer": 2,
+     "explanation": "The Permanent Court of Arbitration ruled that the UK violated Mauritius' rights under UNCLOS."
+    },
+    {
+     "q": "Assertion (A): The Permanent Court of Arbitration ruled against the UK in 2015.\nReason (R): Mauritius had initiated legal proceedings against the UK at the Permanent Court of Arbitration in 2015.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 0,
+     "explanation": "Mauritius initiated the proceedings in 2015, and the Court's ruling against the UK followed from those proceedings."
+    },
+    {
+     "q": "Match List I with List II:\nI. Marine Protected Area created around the Chagos Islands\nII. Mauritius initiated legal proceedings at the Permanent Court of Arbitration\nIII. UNGA voted on Mauritius' resolution seeking an ICJ advisory opinion\nIV. ICJ ordered the UK to return the Chagos Islands to Mauritius\nList II: A. 2019   B. 2010   C. 2015   D. 2017",
+     "options": ["I-A, II-B, III-C, IV-D", "I-B, II-C, III-D, IV-A", "I-C, II-B, III-A, IV-D", "I-D, II-A, III-B, IV-C"],
+     "answer": 1,
+     "explanation": "The Marine Protected Area dates to 2010, PCA proceedings to 2015, the UNGA vote to 2017 and the ICJ order to 2019."
+    },
+    {
+     "q": "Consider the following statements:\nI. The UK declared the Chagos Islands a British Indian Ocean Territory in 1965.\nII. Mauritius gained independence from Britain in 1966.\nIII. The ICJ ordered the UK to return the Chagos Islands to Mauritius in 2019.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statement II is wrong because Mauritius gained independence in 1968, while statements I and III match the booklet."
+    },
+    {
+     "q": "Consider the following statements:\nI. The UK and the US forcibly removed native Chagossians from the islands.\nII. The UN General Assembly voted on Mauritius' resolution in 2015.\nIII. The Court found that the UK had ulterior motives in creating a Marine Protected Area around the Chagos Islands.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statements I and III are correct, while statement II is wrong because the UNGA vote was in 2017, not 2015."
+    },
+    {
+     "q": "In which year did the UN General Assembly vote on Mauritius' resolution to seek an ICJ advisory opinion?",
+     "options": ["2015", "2016", "2018", "2017"],
+     "answer": 3,
+     "explanation": "The UNGA voted on Mauritius' resolution to seek an ICJ advisory opinion in 2017."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "India-Mauritius Recall",
+   "passage": "Mauritius occupies a strategic position in the Western Indian Ocean, and India has steadily deepened its partnership with the island nation. The relationship spans security, trade and culture. On the security side, India has helped Mauritius strengthen its maritime capabilities, including coastal radar stations and integration into an Indian Ocean information-sharing network. Mauritius also takes part in naval drills led by India and is a member of the Colombo Security Conclave with India and other Indian Ocean neighbours. Economic ties are equally important. Mauritius serves as a gateway for Indian trade and investment into Africa, given its membership of the African Continental Free Trade Area. A bilateral economic agreement between the two countries has encouraged closer commercial links, and Mauritius is a major source of investment into India. Culturally, the relationship is reflected in institutions such as the Mahatma Gandhi Institute and the Indira Gandhi Centre for Indian Culture on the island. Together, these areas show how India uses partnerships in the Indian Ocean to support its wider regional interests.",
+   "questions": [
+    {
+     "q": "In which year were diplomatic relations between India and Mauritius established?",
+     "answer": "1948",
+     "accept": ["1948"],
+     "explanation": "India and Mauritius established diplomatic relations in 1948."
+    },
+    {
+     "q": "In which year did Mahatma Gandhi visit Mauritius?",
+     "answer": "1901",
+     "accept": ["1901"],
+     "explanation": "Mahatma Gandhi visited Mauritius in 1901."
+    },
+    {
+     "q": "In which year was the Indira Gandhi Centre for Indian Culture established in Mauritius?",
+     "answer": "1987",
+     "accept": ["1987"],
+     "explanation": "The Indira Gandhi Centre for Indian Culture was established in 1987 and is India's largest cultural centre abroad."
+    },
+    {
+     "q": "Mauritius was the second largest source of FDI into India in FY 2024-25, after which country?",
+     "answer": "Singapore",
+     "accept": ["Singapore", "Republic of Singapore"],
+     "explanation": "Mauritius was the second largest source of FDI into India in FY 2024-25, after Singapore."
+    },
+    {
+     "q": "What was the bilateral trade between India and Mauritius in FY 2024-25 (in USD million)?",
+     "answer": "887.25",
+     "accept": ["887.25 million", "887.25 Million", "887.25M", "USD 887.25 million"],
+     "explanation": "Bilateral trade between India and Mauritius in FY 2024-25 was USD 887.25 million."
+    },
+    {
+     "q": "India upgraded the airstrip of which island into a full-length airfield?",
+     "answer": "Agaléga",
+     "accept": ["Agalega", "Agaléga Island", "Agalega Island"],
+     "explanation": "India upgraded the Agaléga Island airstrip into a full-length airfield."
+    },
+    {
+     "q": "In which year was the Comprehensive Economic Cooperation and Partnership Agreement signed between India and Mauritius?",
+     "answer": "2021",
+     "accept": ["2021"],
+     "explanation": "The Comprehensive Economic Cooperation and Partnership Agreement between India and Mauritius was signed in 2021."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 27, "what": "MAHASAGAR acronym is expanded two different ways (box: 'Maritime Heads for Active Security And Growth for All in Region'; body: 'Mutual and Holistic Advancement for Security and Growth Across Regions'); expansion not used"},
+  {"page": 27, "what": "Number of African partners in AIKEYME is hard to read (shown as '11'); number not used"}
+ ]
+}
