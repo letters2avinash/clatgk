@@ -1,0 +1,296 @@
+{
+ "topic": {
+  "title": "US Supreme Court Blocks Trump's IEEPA Tariffs",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "IEEPA: Origin and Emergency Powers",
+    "summary": "The International Emergency Economic Powers Act (IEEPA) was enacted in 1977 by President Jimmy Carter to replace the Trading with Enemy Act of 1917. It is primarily a sanctions tool and not a general tariff law. The President can use it only after formally declaring a National Emergency over an unusual and extraordinary threat originating outside the United States.",
+    "facts": [
+     "Enacted in 1977 by President Jimmy Carter",
+     "Replaced the Trading with Enemy Act (1917)",
+     "Primarily a sanctions tool, not a general tariff law",
+     "President must formally declare a National Emergency first",
+     "Threat must originate outside the United States",
+     "Can freeze foreign assets held in the US",
+     "Can block trade with specific countries, entities or individuals",
+     "77 national emergencies declared under IEEPA; 46 ongoing as of Sept 2025"
+    ],
+    "keywords": ["IEEPA", "Jimmy Carter", "1977", "sanctions", "National Emergency", "Trading with Enemy Act"]
+   },
+   {
+    "title": "Supreme Court Verdict on IEEPA Tariffs",
+    "summary": "The Supreme Court struck down President Trump's IEEPA tariffs by a 6-3 verdict. Chief Justice John Roberts held that IEEPA does not allow unilateral tariff actions without Congressional approval. The ruling invalidated the Liberation Day tariffs and raised questions about refunds of tariffs already collected.",
+    "facts": [
+     "Verdict: 6-3 against Trump's IEEPA tariffs",
+     "Chief Justice John Roberts clarified the Court's reasoning",
+     "'Regulate' under IEEPA does not mean 'Tax'",
+     "IEEPA cannot serve as broad authority for imposing tariffs",
+     "Any such measures require Congressional authorisation",
+     "Liberation Day tariffs (executive order of 02 April 2025) invalidated",
+     "Ruling raises questions on refunds of previously collected tariffs",
+     "Majority: Roberts, Gorsuch, Barrett, Sotomayor, Kagan, Jackson",
+     "Dissent: Thomas, Alito, Kavanaugh"
+    ],
+    "keywords": ["Supreme Court", "6-3", "John Roberts", "Liberation Day", "Congressional authorisation", "refunds"]
+   },
+   {
+    "title": "Alternative Tariff Laws After the Ruling",
+    "summary": "The booklet lists several statutes as legal alternatives to IEEPA for imposing tariffs. Section 122 of the Trade Act 1974 allows temporary tariffs, and the President used it to impose a 10% temporary tariff on goods from all countries. Other options are Section 338 of the Tariff Act 1930, Section 232 of the Trade Expansion Act 1962 and Section 301 of the Trade Act 1974.",
+    "facts": [
+     "Section 122, Trade Act 1974: temporary tariffs up to 15% for up to 150 days",
+     "Section 122 aims to protect domestic industries and address trade imbalances",
+     "10% temporary tariff imposed on goods from all countries under Section 122",
+     "Section 338, Tariff Act 1930: import tariffs up to 50%",
+     "Section 338 targets countries with discriminatory trade practices",
+     "Section 232, Trade Expansion Act 1962: import restrictions on goods threatening national security",
+     "Section 232 has been applied to steel and aluminium",
+     "Section 301, Trade Act 1974: action against foreign regulations that unfairly burden US trade"
+    ],
+    "keywords": ["Section 122", "Section 232", "Section 301", "Section 338", "Trade Act 1974", "temporary tariff"]
+   },
+   {
+    "title": "India's Impact and the 2026 Trade Deal",
+    "summary": "The rollback of Liberation Day tariffs benefits nearly 55% of India's exports to the US, which had faced an 18% levy. These goods now face only standard Most-Favoured Nation (MFN) tariff rates, while Section 232 duties remain in force. The 2026 India-US trade deal includes Indian commitments on energy, technology and agricultural trade.",
+    "facts": [
+     "Nearly 55% of India's exports to the US benefit from the rollback",
+     "Those goods previously faced an 18% levy",
+     "Benefiting goods are now subject only to standard MFN tariff rates",
+     "Section 232 tariffs of 50% on steel and aluminium remain in force",
+     "25% Section 232 tariff on select automotive components remains in force",
+     "25% penalty for purchasing Russian oil has been eliminated",
+     "India commits to massive procurement of US energy, technology and agricultural products",
+     "India aims to remove barriers for US agricultural exports such as cotton and nuts"
+    ],
+    "keywords": ["MFN", "18% levy", "Section 232", "Russian crude", "Buy American", "2026 trade deal"]
+   },
+   {
+    "title": "US Congress and India-US Relations",
+    "summary": "The US Congress is a bicameral legislature, and the Supreme Court ruling makes Congressional approval necessary for broad tariffs. India-US total trade reached USD 129.2 billion in 2024, with India's exports to the US larger than its imports from the US. The US is India's third largest investor.",
+    "facts": [
+     "US Congress is bicameral: House of Representatives and Senate",
+     "House has 435 seats; members are elected for 2 years",
+     "Senate has 100 seats; every state has 2 seats",
+     "Senators are elected for 6 years; one-third of Senate seats are up every 2 years",
+     "Republican Party has secured 54 Senate seats",
+     "India-US total trade in 2024: USD 129.2 billion",
+     "India's exports to US in 2024: USD 87.4 billion",
+     "India's imports from US in 2024: USD 41.8 billion",
+     "USA is India's 3rd largest investor, with FDI inflows of USD 65.19 billion (2000-2024)"
+    ],
+    "keywords": ["Congress", "House of Representatives", "Senate", "India-US trade", "FDI", "investor"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "IEEPA Tariffs Ruling at a Glance",
+   "root": {
+    "label": "US Supreme Court blocks IEEPA tariffs",
+    "children": [
+     {"label": "IEEPA: 1977 emergency powers law", "children": [
+      {"label": "Replaced Trading with Enemy Act (1917)", "children": []},
+      {"label": "Requires formal National Emergency declaration", "children": []}
+     ]},
+     {"label": "Supreme Court verdict 6-3", "children": [
+      {"label": "'Regulate' does not mean 'Tax'", "children": []},
+      {"label": "Broad tariffs need Congressional authorisation", "children": []}
+     ]},
+     {"label": "Liberation Day tariffs invalidated", "children": [
+      {"label": "Executive order dated 02 April 2025", "children": []},
+      {"label": "Refund questions raised", "children": []}
+     ]},
+     {"label": "Alternative tariff laws", "children": [
+      {"label": "Section 122: temporary, up to 15% for 150 days", "children": []},
+      {"label": "Section 232: national security imports", "children": []}
+     ]},
+     {"label": "India impact", "children": [
+      {"label": "Nearly 55% of exports benefit", "children": []},
+      {"label": "Earlier 18% levy on those goods", "children": []}
+     ]},
+     {"label": "US Congress and trade ties", "children": [
+      {"label": "House 435 seats, Senate 100 seats", "children": []},
+      {"label": "India-US trade USD 129.2 billion (2024)", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "IEEPA Origin and Powers",
+   "root": {
+    "label": "IEEPA: 1977 emergency economic powers",
+    "children": [
+     {"label": "Origin", "children": [
+      {"label": "Enacted by President Jimmy Carter", "children": []},
+      {"label": "Replaced Trading with Enemy Act (1917)", "children": []}
+     ]},
+     {"label": "Requirements", "children": [
+      {"label": "Formal National Emergency declaration", "children": []},
+      {"label": "Threat originates outside the US", "children": []}
+     ]},
+     {"label": "Powers", "children": [
+      {"label": "Regulate financial transactions", "children": []},
+      {"label": "Freeze foreign assets in the US", "children": []},
+      {"label": "Block trade with specific parties", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Supreme Court Verdict Map",
+   "root": {
+    "label": "Supreme Court verdict on IEEPA tariffs",
+    "children": [
+     {"label": "Reasoning", "children": [
+      {"label": "'Regulate' does not mean 'Tax'", "children": []},
+      {"label": "IEEPA is for emergency restrictions", "children": []}
+     ]},
+     {"label": "Effect", "children": [
+      {"label": "Liberation Day tariffs invalidated", "children": []},
+      {"label": "Refund questions raised", "children": []}
+     ]},
+     {"label": "Majority", "children": [
+      {"label": "Roberts, Gorsuch, Barrett", "children": []},
+      {"label": "Sotomayor, Kagan, Jackson", "children": []}
+     ]},
+     {"label": "Dissent", "children": [
+      {"label": "Thomas, Alito, Kavanaugh", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Alternative Tariff Laws Map",
+   "root": {
+    "label": "Tariff laws after IEEPA ruling",
+    "children": [
+     {"label": "Trade Act 1974", "children": [
+      {"label": "Section 122: temporary tariffs", "children": []},
+      {"label": "Section 301: unfair foreign rules", "children": []}
+     ]},
+     {"label": "Tariff Act 1930", "children": [
+      {"label": "Section 338: up to 50%", "children": []}
+     ]},
+     {"label": "Trade Expansion Act 1962", "children": [
+      {"label": "Section 232: national security", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "India Impact Map",
+   "root": {
+    "label": "India impact and 2026 deal",
+    "children": [
+     {"label": "Rollback benefits", "children": [
+      {"label": "Nearly 55% of exports", "children": []},
+      {"label": "Earlier 18% levy", "children": []}
+     ]},
+     {"label": "Duties still apply", "children": [
+      {"label": "Steel and aluminium: 50%", "children": []},
+      {"label": "Select auto components: 25%", "children": []}
+     ]},
+     {"label": "India commitments", "children": [
+      {"label": "Buy US energy, technology, agriculture", "children": []},
+      {"label": "Remove barriers for US farm exports", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Congress and India-US Ties Map",
+   "root": {
+    "label": "US Congress and India-US ties",
+    "children": [
+     {"label": "Congress", "children": [
+      {"label": "House: 435 seats, 2-year term", "children": []},
+      {"label": "Senate: 100 seats, 6-year term", "children": []}
+     ]},
+     {"label": "Trade in 2024", "children": [
+      {"label": "Total USD 129.2 billion", "children": []},
+      {"label": "Exports USD 87.4 billion", "children": []},
+      {"label": "Imports USD 41.8 billion", "children": []}
+     ]},
+     {"label": "Investment", "children": [
+      {"label": "US is 3rd largest investor", "children": []},
+      {"label": "FDI USD 65.19 billion (2000-2024)", "children": []}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "IEEPA's Four Powers",
+   "mnemonic": "Fresh Bread Really Rocks",
+   "decode": [
+    {"key": "Fresh", "meaning": "Freeze foreign assets held in the US"},
+    {"key": "Bread", "meaning": "Block trade with specific countries, entities or individuals"},
+    {"key": "Really", "meaning": "Regulate or prohibit international financial transactions"},
+    {"key": "Rocks", "meaning": "Restrict imports or exports in certain emergency contexts"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Alternative Laws in Section Order",
+   "mnemonic": "Temporary Steel Unfair Discriminators",
+   "decode": [
+    {"key": "Temporary", "meaning": "Section 122, Trade Act 1974: temporary tariffs up to 15% for up to 150 days"},
+    {"key": "Steel", "meaning": "Section 232, Trade Expansion Act 1962: import restrictions on goods threatening national security, applied to steel and aluminium"},
+    {"key": "Unfair", "meaning": "Section 301, Trade Act 1974: action against foreign regulations that unfairly burden US trade"},
+    {"key": "Discriminators", "meaning": "Section 338, Tariff Act 1930: import tariffs up to 50% on countries with discriminatory trade practices"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "Supreme Court Verdict Practice",
+   "passage": "The Supreme Court of the United States has struck down a set of tariffs that President Donald Trump imposed under the International Emergency Economic Powers Act, commonly called IEEPA. The Court's decision was a 6-3 verdict. Chief Justice John Roberts clarified that IEEPA does not allow a President to take unilateral tariff actions without approval from Congress. In his reasoning, the word 'regulate' in IEEPA does not mean 'tax'. The Court observed that IEEPA was designed for emergency economic restrictions, not for general tariff policy. The Court's reasoning focused on the text and purpose of the statute itself. As a result, the Liberation Day tariffs, introduced through an executive order dated 2 April 2025, were invalidated. Before this order, no American President had used IEEPA as a means to impose trade tariffs. The judgment has also raised questions about whether tariffs already collected can be refunded. It has further raised questions about the direction of future American trade policy. Indian exporters are among those affected, since the Liberation Day tariffs had applied to many of their goods. Any broad tariff measure now needs authorisation from Congress, which places a limit on the use of emergency powers for trade protectionism. This is why the verdict is widely discussed in the context of future trade policy.",
+   "questions": [
+    {"q": "Which of the following Justices dissented from the majority in the Supreme Court's ruling against the IEEPA tariffs?", "options": ["Neil Gorsuch", "Amy Coney Barrett", "Brett Kavanaugh", "Sonia Sotomayor"], "answer": 2, "explanation": "Justice Brett Kavanaugh was one of the three dissenting Justices, along with Clarence Thomas and Samuel Alito."},
+    {"q": "Assertion (A): Section 122 of the Trade Act 1974 allows the President to impose temporary tariffs.\nReason (R): Such temporary tariffs can be imposed for a period of up to 150 days.", "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"], "answer": 1, "explanation": "Both statements are true, but the 150-day limit describes duration and does not explain why the power exists."},
+    {"q": "Match List I with List II:\nI. Section 122 of the Trade Act 1974   ->   C. Import restrictions on goods threatening national security\nII. Section 232 of the Trade Expansion Act 1962   ->   A. Import tariffs up to 50% on countries with discriminatory trade practices\nIII. Section 301 of the Trade Act 1974   ->   D. Temporary tariffs up to 15% for up to 150 days\nIV. Section 338 of the Tariff Act 1930   ->   B. Action against foreign regulations that unfairly burden US trade", "options": ["I-A, II-B, III-C, IV-D", "I-C, II-D, III-B, IV-A", "I-B, II-D, III-C, IV-A", "I-B, II-A, III-D, IV-C"], "answer": 2, "explanation": "Section 122 gives temporary tariffs, Section 232 covers national security imports, Section 301 covers unfair foreign rules and Section 338 covers discriminatory practices."},
+    {"q": "Consider the following statements about IEEPA:\nI. It was enacted in 1977 to replace the Trading with the Enemy Act of 1917.\nII. It was primarily designed as a general tariff law.\nIII. The President must formally declare a National Emergency before invoking it.\nWhich of the above statements is/are correct?", "options": ["I and III only", "I and II only", "II and III only", "I, II and III"], "answer": 0, "explanation": "IEEPA replaced the Trading with the Enemy Act and requires a formal National Emergency declaration, but it is primarily a sanctions tool, not a general tariff law."},
+    {"q": "How many of the following statements about the Liberation Day tariffs are correct?\nI. They were introduced through an executive order dated 2 April 2025.\nII. They were upheld by the Supreme Court in its IEEPA ruling.\nIII. They were declared under Section 232 of the Trade Expansion Act 1962.", "options": ["Only two", "Only three", "None of the above", "Only one"], "answer": 3, "explanation": "Only statement I is correct, since the tariffs were invalidated by the Court and were declared under IEEPA, not Section 232."},
+    {"q": "Under which section did the President impose a 10% temporary tariff on goods from all countries?", "options": ["Section 122 of the Trade Act 1974", "Section 338 of the Tariff Act 1930", "Section 232 of the Trade Expansion Act 1962", "Section 301 of the Trade Act 1974"], "answer": 0, "explanation": "The President used Section 122 of the Trade Act 1974 to impose the 10% temporary tariff on goods from all countries."},
+    {"q": "Which goods imported from India will continue to face a 25% tariff under Section 232 despite the Supreme Court ruling?", "options": ["Agricultural exports such as cotton and nuts", "Select automotive components", "Pharmaceutical exports", "Textiles and apparel"], "answer": 1, "explanation": "The booklet states that a 25% tariff on select automotive components remains in force under Section 232."},
+    {"q": "Approximately what share of India's exports to the US benefits from the rollback of the Liberation Day tariffs?", "options": ["18%", "25%", "50%", "55%"], "answer": 3, "explanation": "The rollback benefits nearly 55% of India's exports to the US, which had previously faced an 18% levy."}
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "Alternative Tariff Laws Recall",
+   "passage": "After the Supreme Court limited the use of emergency economic powers for tariffs, the government had to look to other statutes. The Trade Act of 1974 contains a provision that lets the President impose temporary tariffs. Its purpose is to protect domestic industries and to address trade imbalances or unfair trade practices. The President has used this power to impose a temporary tariff on goods from all countries. A separate provision of the same Act allows action against foreign regulations that unfairly burden American trade. Another route is the Tariff Act of 1930, which permits import tariffs against countries with discriminatory trade practices. The Trade Expansion Act of 1962 allows import restrictions on goods that threaten national security, and this power has been applied to steel and aluminium. Taken together, these laws show that tariff policy can be pursued through specific statutes rather than through emergency powers. Each of these laws addresses a different kind of trade problem, such as a trade imbalance, a threat to national security, unfair foreign regulations or discriminatory trade practices. The government's options therefore depended on matching the legal tool to the specific concern. After the ruling, officials had to choose among these statutes while keeping within the conditions that each one sets out in its own text.",
+   "questions": [
+    {"q": "For how many days at most can a temporary tariff under the Trade Act 1974's temporary-tariff provision be imposed? (in days)", "answer": "150", "accept": ["150 days", "one hundred fifty", "one hundred and fifty"], "explanation": "Section 122 allows temporary tariffs for up to 150 days."},
+    {"q": "What is the maximum temporary tariff rate, in per cent, that Section 122 permits?", "answer": "15", "accept": ["15%", "15 per cent", "fifteen", "15 percent"], "explanation": "Section 122 allows temporary tariffs of up to 15%."},
+    {"q": "What rate, in per cent, did the President impose on goods from all countries under Section 122?", "answer": "10", "accept": ["10%", "10 per cent", "10 percent", "ten"], "explanation": "The President imposed a 10% temporary tariff on goods from all countries under Section 122."},
+    {"q": "What is the maximum import tariff rate, in per cent, that the Tariff Act 1930 permits against countries with discriminatory trade practices? (in per cent)", "answer": "50", "accept": ["50%", "50 per cent", "50 percent", "fifty"], "explanation": "Section 338 of the Tariff Act 1930 allows import tariffs up to 50%."},
+    {"q": "Which section of the Tariff Act 1930 allows import tariffs against countries with discriminatory trade practices? (give the number)", "answer": "338", "accept": ["Section 338", "Sec 338", "S. 338"], "explanation": "The Tariff Act 1930 provision on discriminatory trade practices is Section 338."},
+    {"q": "Which section of the Trade Expansion Act 1962 authorises import restrictions on goods threatening national security? (give the number)", "answer": "232", "accept": ["Section 232", "Sec 232", "S. 232"], "explanation": "Section 232 of the Trade Expansion Act 1962 authorises import restrictions on goods threatening national security."},
+    {"q": "Which section number of the Trade Act 1974 was used to impose the 10% temporary tariff on goods from all countries? (give the number)", "answer": "122", "accept": ["Section 122", "Sec 122", "S. 122"], "explanation": "The 10% temporary tariff on goods from all countries was imposed under Section 122 of the Trade Act 1974."}
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 7, "what": "Value of the 'Buy American' procurement pledge (OCR shows a partly garbled '$500 Billion' figure)"},
+  {"page": 7, "what": "New effective US tariff rate under the 2026 trade deal (graphic text garbled)"},
+  {"page": 7, "what": "Countries India is expected to prioritise for oil procurement (text garbled)"}
+ ]
+}

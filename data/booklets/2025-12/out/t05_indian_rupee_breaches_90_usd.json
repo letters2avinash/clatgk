@@ -1,0 +1,438 @@
+{
+ "topic": {
+  "title": "Indian Rupee Breaches 90 per US Dollar in 2025",
+  "chapter_title": "Economy",
+  "subtopics": [
+   {
+    "title": "The 90 per Dollar Breach",
+    "summary": "In 2025 the Indian rupee crossed 90 per US dollar after depreciating over 5% during the year, even though India had strong 8.2% GDP growth and low inflation. The 90 level carries psychological weight, since crossing it can activate buy-stop orders and intensify downward momentum. The booklet says the breach reflects cumulative pressures built over time rather than a single event.",
+    "facts": [
+     "Rupee depreciated over 5% in 2025, crossing 90 per USD",
+     "India had strong 8.2% GDP growth and low inflation at the time",
+     "The 90 per USD level is psychologically important for traders",
+     "Crossing 90 can activate buy-stop orders",
+     "Buy-stop orders can intensify downward momentum",
+     "The breach reflects cumulative pressures, not a single disruptive event",
+     "Policymakers and investors watch global conditions, trade and domestic indicators"
+    ],
+    "keywords": ["90 per USD", "5% depreciation", "buy-stop orders", "psychological level", "8.2% GDP growth"]
+   },
+   {
+    "title": "Depreciation vs Devaluation",
+    "summary": "Rupee depreciation means the currency's value falls against foreign currencies, driven by market forces, capital flows, external shocks or policy uncertainty. Devaluation is different: the government or RBI deliberately reduces the currency's value, and it happens under fixed or pegged exchange rates. Depreciation happens under floating or managed-floating systems.",
+    "facts": [
+     "Depreciation: the currency's value falls relative to foreign currencies",
+     "Causes of depreciation: market forces, capital flows, external shocks, policy uncertainty",
+     "Devaluation: government or RBI deliberately reduces the currency's value",
+     "Devaluation happens under fixed or pegged exchange rate systems",
+     "Depreciation happens under floating or managed-floating systems",
+     "Devaluation is a policy tool to boost exports and reduce deficit",
+     "Depreciation is driven by FPI outflows, inflation, CAD and global shocks"
+    ],
+    "keywords": ["depreciation", "devaluation", "floating system", "pegged rate", "managed float"]
+   },
+   {
+    "title": "Causes of Rupee Weakness in 2025",
+    "summary": "Analysts linked the rupee's weakness to a strong US dollar, uncertainty over the India-US trade deal and steep US tariffs on Indian exports. Foreign portfolio investors withdrew funds, while a wider trade deficit and speculative dollar demand added pressure in the forex market.",
+    "facts": [
+     "Strong US dollar and delays in the initial tranche of the India-US trade deal",
+     "US tariffs of up to 50% reduced the competitiveness of Indian exports",
+     "Lower investor confidence reduced inflows",
+     "FPIs withdrew funds aggressively, causing capital outflows",
+     "Global uncertainty shifted capital to US Treasuries and USD as safe haven",
+     "Imports of gold, electronics, crude and machinery widened the trade deficit",
+     "Higher crude oil prices worsened the import bill",
+     "Importers front-loaded purchases, anticipating further rupee weakness"
+    ],
+    "keywords": ["India-US trade deal", "FPI outflows", "safe haven", "trade deficit", "speculative demand"]
+   },
+   {
+    "title": "Impacts of Rupee Depreciation",
+    "summary": "A weaker rupee makes Indian goods cheaper abroad, raises the value of remittances and can encourage domestic manufacturing. The booklet also lists costs: dollar-denominated debt becomes dearer, deficits widen, imported inflation rises, subsidy bills grow and consumer purchasing power falls. It also notes a capital flight risk when investor confidence weakens.",
+    "facts": [
+     "Boost to exports: Indian goods become cheaper globally",
+     "Higher remittance value: NRIs get a more favourable exchange rate",
+     "Push to domestic manufacturing as expensive imports encourage local production",
+     "Costlier external debt for companies with dollar-denominated loans",
+     "Wider current account and trade deficits as imports become costlier",
+     "Higher subsidy burden as fertiliser imports become costlier",
+     "Imported inflation: crude, fertilisers and electronics become costlier",
+     "Capital flight risk as a weak rupee reduces investor confidence",
+     "Lower consumer purchasing power due to costlier essential imports"
+    ],
+    "keywords": ["remittances", "imported inflation", "dollar-denominated debt", "subsidy", "capital flight"]
+   },
+   {
+    "title": "Measures to Stabilise the Rupee",
+    "summary": "The booklet lists measures to stabilise the rupee, beginning with rupee-based trade settlement through Special Vostro Rupee Accounts. Other steps include offshore rupee trading, currency swaps, strong forex reserves with calibrated RBI intervention, and wider UPI internationalisation. It also proposes reducing gold imports through gold monetisation and digital gold.",
+    "facts": [
+     "Increase Special Vostro Rupee Accounts for rupee-based trade settlement",
+     "Promote local currency settlement agreements with Asia, Africa and the Gulf",
+     "Promote offshore rupee trading",
+     "Push for inclusion of Indian G-Secs in global bond indices",
+     "Expand currency swap agreements and maintain strong forex reserves",
+     "Calibrated RBI intervention, including selling or buying USD",
+     "Expand UPI internationalisation and work towards INR eligibility for the IMF SDR basket",
+     "Reduce gold imports via gold monetisation and digital gold"
+    ],
+    "keywords": ["Special Vostro Rupee Accounts", "UPI", "SDR basket", "G-Secs", "currency swaps"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Rupee breach at a glance",
+   "root": {
+    "label": "Indian Rupee breaches 90 per USD",
+    "children": [
+     {
+      "label": "Breach and significance",
+      "children": [
+       {"label": "Over 5% fall in 2025", "children": []},
+       {"label": "Strong 8.2% GDP growth", "children": []},
+       {"label": "90 level psychologically important", "children": []}
+      ]
+     },
+     {
+      "label": "Depreciation vs devaluation",
+      "children": [
+       {"label": "Depreciation: market-driven, floating systems", "children": []},
+       {"label": "Devaluation: deliberate, fixed or pegged systems", "children": []}
+      ]
+     },
+     {
+      "label": "Causes",
+      "children": [
+       {"label": "Trade deal delays, US tariffs up to 50%", "children": []},
+       {"label": "FPI outflows, safe-haven shift", "children": []},
+       {"label": "Wider trade deficit, speculative demand", "children": []}
+      ]
+     },
+     {
+      "label": "Impacts",
+      "children": [
+       {"label": "Positive: exports, remittances, manufacturing", "children": []},
+       {"label": "Negative: external debt, imported inflation, subsidies", "children": []}
+      ]
+     },
+     {
+      "label": "Stabilisation measures",
+      "children": [
+       {"label": "Rupee trade settlement, offshore trading", "children": []},
+       {"label": "Forex reserves, swaps, RBI intervention", "children": []},
+       {"label": "UPI internationalisation, IMF SDR eligibility", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "The 90 per dollar breach",
+   "root": {
+    "label": "Rupee breach at 90 per USD",
+    "children": [
+     {"label": "Depreciation over 5% in 2025", "children": []},
+     {"label": "Strong 8.2% GDP and low inflation", "children": []},
+     {
+      "label": "90 level: psychological importance",
+      "children": [
+       {"label": "Can activate buy-stop orders", "children": []},
+       {"label": "Can intensify downward momentum", "children": []}
+      ]
+     },
+     {"label": "Cumulative pressures, not one event", "children": []}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Depreciation vs devaluation",
+   "root": {
+    "label": "Currency value falls",
+    "children": [
+     {
+      "label": "Depreciation",
+      "children": [
+       {"label": "Value falls against foreign currencies", "children": []},
+       {"label": "Market forces, capital flows, shocks", "children": []},
+       {"label": "Floating or managed-floating systems", "children": []}
+      ]
+     },
+     {
+      "label": "Devaluation",
+      "children": [
+       {"label": "Deliberate cut by government or RBI", "children": []},
+       {"label": "Fixed or pegged exchange rates", "children": []},
+       {"label": "Boosts exports, reduces deficit", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Causes of 2025 rupee weakness",
+   "root": {
+    "label": "Causes of rupee weakness",
+    "children": [
+     {
+      "label": "Trade deal and tariffs",
+      "children": [
+       {"label": "Delayed initial tranche of trade deal", "children": []},
+       {"label": "US tariffs up to 50%", "children": []}
+      ]
+     },
+     {
+      "label": "Capital outflows",
+      "children": [
+       {"label": "FPIs withdrew funds", "children": []},
+       {"label": "Shift to US Treasuries and USD", "children": []},
+       {"label": "Lower investor confidence", "children": []}
+      ]
+     },
+     {
+      "label": "Trade and demand",
+      "children": [
+       {"label": "Wider trade deficit", "children": []},
+       {"label": "Higher crude oil prices", "children": []},
+       {"label": "Speculative dollar demand", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Impacts of depreciation",
+   "root": {
+    "label": "Impacts of rupee depreciation",
+    "children": [
+     {
+      "label": "Positive",
+      "children": [
+       {"label": "Cheaper Indian exports", "children": []},
+       {"label": "Higher remittance value", "children": []},
+       {"label": "Push to domestic manufacturing", "children": []}
+      ]
+     },
+     {
+      "label": "Negative",
+      "children": [
+       {"label": "Costlier dollar-denominated debt", "children": []},
+       {"label": "Wider CAD and trade deficit", "children": []},
+       {"label": "Higher subsidy burden", "children": []},
+       {"label": "Imported inflation", "children": []},
+       {"label": "Capital flight risk", "children": []},
+       {"label": "Lower consumer purchasing power", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Measures to stabilise the rupee",
+   "root": {
+    "label": "Measures to stabilise the rupee",
+    "children": [
+     {
+      "label": "Trade and settlement",
+      "children": [
+       {"label": "Special Vostro Rupee Accounts", "children": []},
+       {"label": "Local currency settlement agreements", "children": []}
+      ]
+     },
+     {
+      "label": "Market depth",
+      "children": [
+       {"label": "Offshore rupee trading", "children": []},
+       {"label": "G-Secs in global bond indices", "children": []}
+      ]
+     },
+     {
+      "label": "External sector",
+      "children": [
+       {"label": "Currency swap agreements", "children": []},
+       {"label": "Strong forex reserves", "children": []},
+       {"label": "Calibrated RBI intervention", "children": []}
+      ]
+     },
+     {
+      "label": "Global acceptance",
+      "children": [
+       {"label": "UPI internationalisation", "children": []},
+       {"label": "IMF SDR basket eligibility", "children": []}
+      ]
+     },
+     {
+      "label": "Domestic reforms",
+      "children": [
+       {"label": "Control inflation, attract FDI", "children": []},
+       {"label": "Reduce gold imports", "children": []}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Deliberate vs drifting",
+   "mnemonic": "Deliberate Devaluation, Drifting Depreciation",
+   "decode": [
+    {"key": "Deliberate Devaluation", "meaning": "Government or RBI deliberately reduces the currency's value under fixed or pegged rates"},
+    {"key": "Drifting Depreciation", "meaning": "Market forces cause the value to fall under floating or managed-floating systems"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Causes of rupee weakness",
+   "mnemonic": "Tall Trees Fall In Summer",
+   "decode": [
+    {"key": "Tall", "meaning": "Trade deal delays in the initial tranche of the India-US deal"},
+    {"key": "Trees", "meaning": "Steep US tariffs of up to 50% on Indian exports"},
+    {"key": "Fall", "meaning": "FPIs withdrew funds aggressively"},
+    {"key": "In", "meaning": "Imports of gold, electronics, crude and machinery widened the trade deficit"},
+    {"key": "Summer", "meaning": "Speculative dollar demand from importers front-loading purchases"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "Stabilisation measures",
+   "mnemonic": "Very Silly Rabbits Use Gold",
+   "decode": [
+    {"key": "Very", "meaning": "Special Vostro Rupee Accounts for rupee-based trade settlement"},
+    {"key": "Silly", "meaning": "Expand currency swap agreements"},
+    {"key": "Rabbits", "meaning": "Maintain strong forex reserves with calibrated RBI intervention"},
+    {"key": "Use", "meaning": "Expand UPI internationalisation to boost global acceptance of INR"},
+    {"key": "Gold", "meaning": "Reduce gold imports through gold monetisation and digital gold"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 2,
+   "title": "Why the rupee weakened in 2025",
+   "passage": "The Indian rupee lost ground steadily through 2025 and, by December, had crossed 90 per US dollar. The fall was not the result of one sudden shock. Analysts instead pointed to a mix of global and domestic pressures that had been building for months. Strength in the US dollar was a major backdrop, and the rupee was also hit by delays in a trade arrangement between India and the United States that investors had been anticipating. Money flowed out of Indian markets as global risk sentiment shifted. On the domestic side, the gap between what India buys from abroad and what it sells drew close attention. Crude oil prices rose, and some exports to major destinations were under strain. Demand for dollars also grew in the currency market as businesses and traders responded to the expectation of further weakness in the rupee. The 90 level drew particular attention from traders, who treat such round-number thresholds as important. Market participants said the fall had built up over time rather than arriving in a single day. Experts said the rupee's path in the months ahead would depend on global financial conditions, external trade developments and domestic economic indicators.",
+   "questions": [
+    {
+     "q": "Which set of imports did the booklet identify as widening India's trade deficit in 2025?",
+     "options": ["Only agricultural products", "Only textiles", "Only services", "Gold, electronics, crude and machinery"],
+     "answer": 3,
+     "explanation": "The booklet lists increased imports of gold, electronics, crude and machinery as widening the trade deficit and amplifying USD demand."
+    },
+    {
+     "q": "Which group of investors does the booklet say withdrew funds aggressively, adding to capital outflows?",
+     "options": ["Foreign Portfolio Investors (FPIs)", "Domestic mutual funds", "Non-Resident Indians", "The Reserve Bank of India"],
+     "answer": 0,
+     "explanation": "The booklet states that Foreign Portfolio Investors (FPIs) withdrew funds aggressively, causing capital outflows."
+    },
+    {
+     "q": "What is the maximum US tariff on Indian exports cited in the booklet's account of 2025 rupee pressure?",
+     "options": ["25%", "35%", "50%", "60%"],
+     "answer": 2,
+     "explanation": "The booklet cites steep US tariffs of up to 50% on Indian exports, which reduced their competitiveness."
+    },
+    {
+     "q": "Assertion (A): The rupee weakened in 2025 partly because the initial tranche of the India-US trade deal was delayed.\nReason (R): Delays in the deal raised concerns over tariffs, export access and future trade flows.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 0,
+     "explanation": "The booklet links the delay in the trade deal to concerns over tariffs, export access and trade flows, which explains the pressure on the rupee."
+    },
+    {
+     "q": "Match List I with List II:\nI. FPI withdrawals\nII. Higher crude oil prices\nIII. Importers front-loading dollar purchases\nIV. Delays in the initial tranche of the India-US trade deal\n\nA. Speculative dollar demand\nB. Concerns over tariffs and export access\nC. Capital outflow from India\nD. Worsened import bill",
+     "options": ["I-A, II-C, III-B, IV-D", "I-C, II-D, III-A, IV-B", "I-B, II-A, III-D, IV-C", "I-D, II-B, III-C, IV-A"],
+     "answer": 1,
+     "explanation": "The booklet links FPI withdrawals to capital outflows, higher crude prices to a worse import bill, front-loaded purchases to speculative demand, and trade deal delays to tariff and export concerns."
+    },
+    {
+     "q": "Consider the following statements about the rupee's weakness in 2025:\nI. Foreign Portfolio Investors withdrew funds aggressively from India.\nII. India was seen as a liquidity source amid global risk rebalancing.\nIII. Higher crude oil prices reduced India's import bill.\nWhich of the above statements is/are correct?",
+     "options": ["II and III only", "I and III only", "I and II only", "I, II and III"],
+     "answer": 2,
+     "explanation": "The booklet supports statements I and II, while higher crude oil prices worsened the import bill rather than reducing it (statement III)."
+    },
+    {
+     "q": "Consider the following statements:\nI. Global uncertainty shifted capital to US Treasuries and the US dollar as safe havens.\nII. Speculative dollar demand came mainly from exporters selling dollars early.\nIII. Lower investor confidence reduced inflows into India.\nIV. The United States imposed tariffs of up to 25 per cent on Indian exports.\nHow many of the above statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "Statements I and III match the booklet, while II wrongly names exporters (the booklet says importers) and IV misstates the tariff, which is up to 50%."
+    },
+    {
+     "q": "By how much did the Indian rupee depreciate in 2025, according to the booklet?",
+     "options": ["Over 3%", "Over 7%", "Over 10%", "Over 5%"],
+     "answer": 3,
+     "explanation": "The booklet says the rupee depreciated over 5% in 2025 as it crossed 90 per US dollar."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 4,
+   "title": "Ways to steady the rupee",
+   "passage": "When the rupee faces sustained pressure, policymakers can work on several fronts at once. One approach is to reduce how much India's trade depends on the dollar, so that more transactions with partner countries are settled in the domestic currency. A second approach is to make the rupee easier to trade and hold outside India, which would widen its use in global markets. Strengthening the external sector is another route, and this includes maintaining healthy foreign exchange reserves. The central bank can also step into the currency market, selling or buying dollars as conditions require, and it can adjust interest rates. Over the longer term, attention turns to structural matters. Improving export competitiveness, attracting foreign direct investment through better infrastructure and regulation, and making it easier to do business are all part of this picture. Gold imports also weigh on the external balance, so reducing them is part of the broader effort. Policy choices are also shaped by the need to control inflation. Taken together, these steps aim to ease pressure on the currency gradually, rather than resolving it in a single move. Each measure takes time to show results.",
+   "questions": [
+    {
+     "q": "Which type of accounts does the booklet propose to expand to promote rupee-based trade settlement? (name in full)",
+     "answer": "Special Vostro Rupee Accounts",
+     "accept": ["Special Vostro Rupee Account", "Special Vostro accounts", "Vostro Rupee Accounts", "Vostro accounts"],
+     "explanation": "The booklet's first measure is to increase Special Vostro Rupee Accounts for rupee-based trade settlement."
+    },
+    {
+     "q": "Which payment system's internationalisation does the booklet propose to boost global acceptance of the rupee? (short name)",
+     "answer": "UPI",
+     "accept": ["Unified Payments Interface"],
+     "explanation": "The booklet lists expanding UPI internationalisation as a measure to boost global acceptance of INR."
+    },
+    {
+     "q": "Which global body's SDR basket does the booklet say the rupee should work towards being eligible for? (short name)",
+     "answer": "IMF",
+     "accept": ["International Monetary Fund"],
+     "explanation": "The booklet mentions working towards INR's eligibility for the IMF SDR basket."
+    },
+    {
+     "q": "How many numbered measures are listed under 'How Can Rupee Be Stabilised?' (in number)",
+     "answer": "5",
+     "accept": ["five"],
+     "explanation": "The section is numbered 1 to 5, with point 5 covering domestic macroeconomic reforms."
+    },
+    {
+     "q": "Apart from gold monetisation, which form of gold does the booklet name as a way to reduce gold imports? (two words)",
+     "answer": "Digital Gold",
+     "accept": ["digital gold"],
+     "explanation": "The booklet proposes reducing gold imports via gold monetisation and digital gold."
+    },
+    {
+     "q": "Which Indian government securities does the booklet want included in global bond indices? (short form)",
+     "answer": "G-Secs",
+     "accept": ["G-Sec", "G Secs", "G Sec", "Indian G-Secs", "Government securities"],
+     "explanation": "The booklet proposes pushing for inclusion of Indian G-Secs in global bond indices to deepen the global market for INR."
+    },
+    {
+     "q": "Along with Asia and the Gulf, which region's countries does the booklet name for local currency settlement agreements? (one word)",
+     "answer": "Africa",
+     "accept": ["African"],
+     "explanation": "The booklet names Asia, Africa and the Gulf as regions for local currency settlement agreements."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 26, "what": "A further depreciation level printed as '291 or higher' is garbled (possibly 91), so it was not used."}
+ ]
+}

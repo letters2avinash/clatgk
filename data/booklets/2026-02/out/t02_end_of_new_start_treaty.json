@@ -1,0 +1,340 @@
+{
+ "topic": {
+  "title": "End of New START Treaty",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "New START Expiry and Its Implications",
+    "summary": "The New START Treaty, the last legally binding nuclear arms control pact between the United States and Russia, expired on 5 February 2026. Its lapse removes binding limits on strategic nuclear arsenals and weakens the verification mechanisms that once made them predictable. Negotiations have stalled as relations deteriorate, and the booklet warns of greater uncertainty, miscalculation and a possible arms race.",
+    "facts": [
+     "Full name: New Strategic Arms Reduction Treaty (New START).",
+     "Signed in 2010 and came into force in 2011; extended by 5 years in 2021, valid until 05 Feb 2026.",
+     "Caps each country at 1550 operationally deployed strategic nuclear warheads.",
+     "The ceiling covers deployed warheads only, not stockpiled or reserve weapons.",
+     "Russia suspended New START participation in 2023 amid the Ukraine war.",
+     "Russia suspended information-sharing on its nuclear forces; the US accuses Russia of non-compliance.",
+     "Expiry removes binding caps and halts inspections and nuclear data sharing.",
+     "Loss of verification increases opacity and risks eroding global nuclear restraint norms."
+    ],
+    "keywords": ["New START", "Expiry", "Strategic warheads", "Verification", "Nuclear arms control"]
+   },
+   {
+    "title": "Cold War Arms Control Milestones",
+    "summary": "Arms control between the United States and the Soviet Union progressed through a series of talks and agreements. The SALT I round produced the Anti-Ballistic Missile (ABM) Treaty, which limited missile defence to preserve mutual vulnerability. Later instruments such as SALT II, START I, START II and SORT set quantitative limits or served as interim pacts, but several were never ratified or were later abandoned.",
+    "facts": [
+     "SALT I (1969-1972) resulted in the Anti-Ballistic Missile (ABM) Treaty.",
+     "The ABM Treaty restricted deployment of missile defence systems to preserve mutual vulnerability.",
+     "SALT II (1972-1979) set quantitative limits on nuclear delivery systems, including long-range missiles and strategic bombers.",
+     "The United States never ratified SALT II, owing to Soviet military intervention in Afghanistan.",
+     "START I (1991) capped 6000 nuclear warheads, enforced inspections and expired in 2009.",
+     "START II (1993) aimed to reduce nuclear weapons to 3,500; Russia withdrew after the US exited the ABM Treaty.",
+     "SORT (2002), also known as the Moscow Treaty, was an interim agreement between the US and Russia."
+    ],
+    "keywords": ["SALT I", "ABM Treaty", "SALT II", "START I", "START II", "SORT", "Moscow Treaty"]
+   },
+   {
+    "title": "Nuclear Treaties and Control Regimes",
+    "summary": "Beyond the US-Russia pacts, a set of global treaties and voluntary export-control regimes aims to limit nuclear weapons and their spread. The NPT classifies states as nuclear-weapon or non-nuclear-weapon states, the CTBT seeks to end nuclear testing, and the TPNW bans nuclear weapons outright. Export regimes such as the Australia Group, the MTCR and the Wassenaar Arrangement coordinate controls on sensitive goods.",
+    "facts": [
+     "Outer Space Treaty (1967) bans deployment of weapons of mass destruction in outer space; all nuclear-armed nations are signatories.",
+     "NPT (1968) aims to prevent nuclear spread and promote disarmament, and classifies nations as nuclear-weapon or non-nuclear-weapon states.",
+     "CTBT (1996) seeks to ban all nuclear weapon testing for civilian and military use.",
+     "CTBT is signed by 185 countries and ratified by 170, but remains non-operational as ratification by key nuclear-armed states is pending.",
+     "TPNW (2017) bans development, testing, possession and use of nuclear weapons.",
+     "Missile Technology Control Regime (1987) is an informal political understanding with 35 members.",
+     "Australia Group (1985) is an informal export control forum formed after chemical weapons use in the Iran-Iraq War.",
+     "Wassenaar Arrangement (1996) is a voluntary export control regime with 42 members."
+    ],
+    "keywords": ["NPT", "CTBT", "TPNW", "Outer Space Treaty", "MTCR", "Australia Group", "Wassenaar Arrangement"]
+   },
+   {
+    "title": "India's Nuclear Journey and the IAEA",
+    "summary": "India's nuclear programme began with the Atomic Energy Commission under Homi J. Bhabha and grew through its reactors and Pokhran tests. Its diplomacy includes a No First Use pledge and a 2008 NSG waiver that enabled nuclear trade despite its non-signatory status to the NPT. The International Atomic Energy Agency (IAEA), established in 1957, supports safeguards, nuclear safety and peaceful use worldwide.",
+    "facts": [
+     "Establishment of the Atomic Energy Commission in 1948 laid the foundation of India's nuclear programme under Homi J. Bhabha.",
+     "The Apsara reactor became operational in 1956 as Asia's first nuclear reactor.",
+     "Tarapur Atomic Power Station began operations in 1969 as India's first commercial nuclear power plant.",
+     "Pokhran-I, 'Smiling Buddha', was conducted on 18 May 1974 at the Pokhran range.",
+     "Pokhran-II in May 1998 comprised three tests on 11 May (codename Shakti-I) and two more on 13 May.",
+     "India's No First Use policy pledges no first nuclear strike but retains the right to retaliate if attacked.",
+     "A 2008 NSG waiver enabled nuclear trade with India despite its non-signatory status to the NPT.",
+     "IAEA, established 1957 and headquartered in Vienna, has 180 members and is led by Director General Rafael Grossi."
+    ],
+    "keywords": ["Pokhran", "Smiling Buddha", "Homi J. Bhabha", "No First Use", "NSG waiver", "IAEA"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "End of New START at a Glance",
+   "root": {
+    "label": "End of New START Treaty",
+    "children": [
+     {"label": "Expiry and effects", "children": [
+      {"label": "Expired 5 February 2026", "children": []},
+      {"label": "No binding warhead caps", "children": []},
+      {"label": "Inspections and data sharing halted", "children": []}
+     ]},
+     {"label": "Why talks stalled", "children": [
+      {"label": "Ukraine conflict strains relations", "children": []},
+      {"label": "Deepening strategic mistrust", "children": []},
+      {"label": "Russia suspended nuclear information-sharing", "children": []}
+     ]},
+     {"label": "Arms control history", "children": [
+      {"label": "SALT I and ABM Treaty", "children": []},
+      {"label": "SALT II never ratified by US", "children": []},
+      {"label": "START I expired 2009", "children": []},
+      {"label": "SORT or Moscow Treaty", "children": []}
+     ]},
+     {"label": "Global treaties", "children": [
+      {"label": "NPT 1968", "children": []},
+      {"label": "CTBT 1996, not yet operational", "children": []},
+      {"label": "TPNW 2017", "children": []}
+     ]},
+     {"label": "Risks ahead", "children": [
+      {"label": "Renewed arms race", "children": []},
+      {"label": "Miscalculation and escalation", "children": []},
+      {"label": "Weaker global strategic stability", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "New START Key Provisions",
+   "root": {
+    "label": "New START Treaty",
+    "children": [
+     {"label": "Warhead ceiling", "children": [
+      {"label": "1550 deployed warheads per country", "children": []},
+      {"label": "Stockpiled and reserve weapons not covered", "children": []}
+     ]},
+     {"label": "Delivery system limits", "children": [
+      {"label": "ICBMs, SLBMs and heavy bombers", "children": []}
+     ]},
+     {"label": "Verification and transparency", "children": [
+      {"label": "On-site inspections", "children": []},
+      {"label": "Data exchanges and notifications", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Cold War Arms Control Steps",
+   "root": {
+    "label": "Arms control milestones",
+    "children": [
+     {"label": "SALT I (1969-1972)", "children": []},
+     {"label": "SALT II (1972-1979)", "children": []},
+     {"label": "START I (1991)", "children": []},
+     {"label": "START II (1993)", "children": []},
+     {"label": "SORT (2002)", "children": []}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Treaties and Control Regimes",
+   "root": {
+    "label": "Global nuclear controls",
+    "children": [
+     {"label": "Nuclear treaties", "children": [
+      {"label": "Outer Space Treaty 1967", "children": []},
+      {"label": "NPT 1968", "children": []},
+      {"label": "CTBT 1996", "children": []},
+      {"label": "TPNW 2017", "children": []}
+     ]},
+     {"label": "Export control regimes", "children": [
+      {"label": "Australia Group 1985", "children": []},
+      {"label": "MTCR 1987", "children": []},
+      {"label": "Wassenaar Arrangement 1996", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "India's Nuclear Milestones",
+   "root": {
+    "label": "India's nuclear journey",
+    "children": [
+     {"label": "Early programme", "children": [
+      {"label": "Atomic Energy Commission 1948", "children": []},
+      {"label": "Apsara reactor 1956", "children": []},
+      {"label": "Tarapur plant 1969", "children": []}
+     ]},
+     {"label": "Pokhran tests", "children": [
+      {"label": "Smiling Buddha 1974", "children": []},
+      {"label": "Pokhran-II in May 1998", "children": []}
+     ]},
+     {"label": "Diplomacy", "children": [
+      {"label": "India-US civil nuclear deal", "children": []},
+      {"label": "2008 NSG waiver", "children": []},
+      {"label": "No First Use policy", "children": []}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Key New START provisions",
+   "mnemonic": "Can Doubts Vanish?",
+   "decode": [
+    {"key": "C", "meaning": "Ceiling of 1550 deployed strategic warheads per country"},
+    {"key": "D", "meaning": "Delivery limits on ICBMs, SLBMs and heavy bombers"},
+    {"key": "V", "meaning": "Verification through on-site inspections and data exchanges"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Export control regimes",
+   "mnemonic": "Always Monitor Wisely",
+   "decode": [
+    {"key": "A", "meaning": "Australia Group (1985): informal export control forum on chemical and biological weapons"},
+    {"key": "M", "meaning": "Missile Technology Control Regime (1987): informal political understanding"},
+    {"key": "W", "meaning": "Wassenaar Arrangement (1996): voluntary export control regime"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "India's milestones in order",
+   "mnemonic": "A Tiny Buddha Shakes",
+   "decode": [
+    {"key": "A", "meaning": "Apsara reactor became operational in 1956"},
+    {"key": "T", "meaning": "Tarapur became India's first commercial nuclear power plant in 1969"},
+    {"key": "B", "meaning": "Pokhran-I 'Smiling Buddha' test on 18 May 1974"},
+    {"key": "S", "meaning": "Pokhran-II Shakti tests in May 1998"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "New START Expiry Check",
+   "passage": "A major nuclear arms control agreement has now reached its end. The New Strategic Arms Reduction Treaty, known as New START, expired in early February 2026, leaving no legally binding limits on the strategic nuclear arsenals of the United States and Russia. This ends the last legally binding nuclear arms control pact between the United States and Russia. Earlier arms control efforts had rested on a sequence of agreements, from the ABM Treaty to the later START pacts. Its expiry comes amid worsening geopolitical tensions, and the treaty had originally been signed in 2010 and extended by the Biden administration. The treaty was approaching its final expiry as relations between the two countries deteriorated, particularly because of the Ukraine conflict and growing strategic mistrust. Negotiations have stalled. Russia has suspended the sharing of information about its nuclear forces, citing concerns about possible aggression, while the United States accuses Russia of non-compliance and unreliability. Such a breakdown weakens the transparency and verification that once made nuclear arsenals predictable. Without verified data, both sides may assume worst-case scenarios, and heightened mistrust raises the chance of miscalculation. Historical experience suggests that unchecked arms competition can spiral into conflict. The end of the treaty therefore threatens global strategic stability by amplifying uncertainty and increasing the risk of unintended confrontation.",
+   "questions": [
+    {
+     "q": "On which date did the New START Treaty officially expire?",
+     "options": ["5 February 2026", "5 February 2021", "11 May 1998", "5 February 2011"],
+     "answer": 0,
+     "explanation": "New START was valid until 05 Feb 2026 after its extension in 2021."
+    },
+    {
+     "q": "What is the ceiling on operationally deployed strategic nuclear warheads for each country under New START?",
+     "options": ["2200", "6000", "3500", "1550"],
+     "answer": 3,
+     "explanation": "New START placed a ceiling of 1550 deployed strategic nuclear warheads for each country."
+    },
+    {
+     "q": "Assertion (A): The expiry of New START left the United States and Russia without legally binding caps on their deployed strategic warheads.\nReason (R): The treaty's warhead ceiling applied only to operationally deployed warheads, not to stockpiled or reserve weapons.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 1,
+     "explanation": "Both statements are true, but the deployed-only scope of the ceiling does not explain why the caps lapsed."
+    },
+    {
+     "q": "Match List I with List II:\nI. Australia Group   ->   A. Informal export control forum formed after chemical weapons use in Iran-Iraq War\nII. Wassenaar Arrangement   ->   B. Voluntary export control regime for conventional arms and dual-use goods\nIII. Missile Technology Control Regime   ->   C. Informal understanding to prevent spread of missiles and UAVs capable of delivering WMD\nIV. Outer Space Treaty   ->   D. Bans deployment of weapons of mass destruction in outer space",
+     "options": ["I-B, II-A, III-C, IV-D", "I-A, II-C, III-D, IV-B", "I-A, II-B, III-C, IV-D", "I-C, II-A, III-D, IV-B"],
+     "answer": 2,
+     "explanation": "Each treaty or regime is matched to the objective the booklet gives for it."
+    },
+    {
+     "q": "Consider the following statements about arms control:\nI. The Anti-Ballistic Missile Treaty restricted the deployment of missile defence systems.\nII. The United States ratified SALT II in 1979.\nIII. The Wassenaar Arrangement has 42 members.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "I and III only", "II and III only", "I, II and III"],
+     "answer": 1,
+     "explanation": "The ABM Treaty restricted missile defence and Wassenaar has 42 members, while the United States never ratified SALT II."
+    },
+    {
+     "q": "How many of the following statements about India's nuclear history are correct?\nI. India conducted Pokhran-I, its first nuclear test, on 18 May 1974.\nII. India joined the Missile Technology Control Regime in 2016.\nIII. India's first nuclear test took place in 1998 during Pokhran-II.",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statements I and II are correct, while the 1998 Pokhran-II tests were not India's first nuclear test."
+    },
+    {
+     "q": "In which city is the headquarters of the International Atomic Energy Agency located?",
+     "options": ["Vienna, Austria", "Geneva, Switzerland", "Paris, France", "Brussels, Belgium"],
+     "answer": 0,
+     "explanation": "The booklet lists the IAEA's headquarters as Vienna, Austria."
+    },
+    {
+     "q": "Which group was awarded the 2024 Nobel Peace Prize for efforts toward a nuclear-free world?",
+     "options": ["Rafael Grossi", "The Red Cross", "Homi J. Bhabha", "Nihon Hidankyo"],
+     "answer": 3,
+     "explanation": "Nihon Hidankyo received the 2024 Nobel Peace Prize for its efforts toward a nuclear-free world."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "India's Nuclear Milestones",
+   "passage": "India's nuclear journey began with an institutional foundation laid under the guidance of a physicist widely regarded as the father of the country's nuclear programme. Within a few years of that foundation, a reactor became operational, marking the first nuclear reactor in Asia. Later, a power plant became the country's first commercial nuclear power station, built with support from the United States and the IAEA. Decades later, India's testing record drew global attention. In May 1998, India carried out a series of nuclear tests at the Pokhran range in Rajasthan's Thar Desert, after an earlier test in the same location. The first tests in that May round were given codenames, and the series was completed in a second round a few days later. India's approach to these weapons has been shaped by its stated policy on their use, which commits it to not striking first. A major turning point came when a group of nuclear suppliers granted India a waiver that allowed nuclear trade, even though India is not a signatory to the Non-Proliferation Treaty. Today India is pursuing a three-stage plan that uses thorium for sustainable power, and a prototype fast breeder reactor is part of that effort. These milestones show how the domestic programme, testing record and diplomacy have developed side by side.",
+   "questions": [
+    {
+     "q": "In which year did India conduct its first nuclear test, 'Smiling Buddha', at Pokhran? (year)",
+     "answer": "1974",
+     "accept": ["1974"],
+     "explanation": "Pokhran-I, codenamed 'Smiling Buddha', was conducted on 18 May 1974."
+    },
+    {
+     "q": "Who is regarded as the father of India's nuclear programme? (name)",
+     "answer": "Homi J. Bhabha",
+     "accept": ["Homi Bhabha", "Homi Jehangir Bhabha", "H. J. Bhabha", "Bhabha"],
+     "explanation": "Homi J. Bhabha is described as the Father of the Indian Nuclear Program, under whom the 1948 foundation was laid."
+    },
+    {
+     "q": "In which year did the Apsara reactor become operational? (year)",
+     "answer": "1956",
+     "accept": ["1956"],
+     "explanation": "The Apsara reactor became operational in 1956 as Asia's first nuclear reactor."
+    },
+    {
+     "q": "Which station became India's first commercial nuclear power plant when it began operations in 1969? (name)",
+     "answer": "Tarapur Atomic Power Station",
+     "accept": ["Tarapur", "Tarapur APS", "Tarapur Atomic Power Station"],
+     "explanation": "Tarapur Atomic Power Station began operations in 1969 as India's first commercial nuclear power plant."
+    },
+    {
+     "q": "How many nuclear tests did India conduct in total in the Pokhran-II series of May 1998? (number)",
+     "answer": "5",
+     "accept": ["5", "five"],
+     "explanation": "Three tests on 11 May 1998 and two more on 13 May 1998 make five in the Pokhran-II series."
+    },
+    {
+     "q": "What is the name of India's policy that pledges no first nuclear strike? (short phrase)",
+     "answer": "No First Use",
+     "accept": ["No First Use policy", "no-first-use", "NFU"],
+     "explanation": "India's No First Use policy pledges no first nuclear strike while retaining the right to retaliate if attacked."
+    },
+    {
+     "q": "In which year did the NSG grant India a waiver enabling nuclear trade? (year)",
+     "answer": "2008",
+     "accept": ["2008"],
+     "explanation": "The 2008 NSG waiver enabled nuclear trade with India despite its non-signatory status to the NPT."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 11, "what": "'Ist time since 1972' is garbled (OCR); the 'first time since 1972' claim was not used."},
+  {"page": 12, "what": "START II entry: the link between the '2002' date and the US exit from the ABM Treaty is unclear; the year was not used."},
+  {"page": 13, "what": "Count of nuclear-armed nations in the Outer Space Treaty line is garbled ('All9Nuclear'); the number was not used."},
+  {"page": 13, "what": "Codenames of the second-round Pokhran-II tests ('Shakti - LI', 'Shakti - III') are garbled; only Shakti-I was used."}
+ ]
+}
