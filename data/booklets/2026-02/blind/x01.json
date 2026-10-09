@@ -1,0 +1,420 @@
+{
+ "topic": "US Supreme Court Blocks Trump's IEEPA Tariffs",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "IEEPA: Origin and Emergency Powers",
+   "summary": "The International Emergency Economic Powers Act (IEEPA) was enacted in 1977 by President Jimmy Carter to replace the Trading with Enemy Act of 1917. It is primarily a sanctions tool and not a general tariff law. The President can use it only after formally declaring a National Emergency over an unusual and extraordinary threat originating outside the United States.",
+   "facts": [
+    "Enacted in 1977 by President Jimmy Carter",
+    "Replaced the Trading with Enemy Act (1917)",
+    "Primarily a sanctions tool, not a general tariff law",
+    "President must formally declare a National Emergency first",
+    "Threat must originate outside the United States",
+    "Can freeze foreign assets held in the US",
+    "Can block trade with specific countries, entities or individuals",
+    "77 national emergencies declared under IEEPA; 46 ongoing as of Sept 2025"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Supreme Court Verdict on IEEPA Tariffs",
+   "summary": "The Supreme Court struck down President Trump's IEEPA tariffs by a 6-3 verdict. Chief Justice John Roberts held that IEEPA does not allow unilateral tariff actions without Congressional approval. The ruling invalidated the Liberation Day tariffs and raised questions about refunds of tariffs already collected.",
+   "facts": [
+    "Verdict: 6-3 against Trump's IEEPA tariffs",
+    "Chief Justice John Roberts clarified the Court's reasoning",
+    "'Regulate' under IEEPA does not mean 'Tax'",
+    "IEEPA cannot serve as broad authority for imposing tariffs",
+    "Any such measures require Congressional authorisation",
+    "Liberation Day tariffs (executive order of 02 April 2025) invalidated",
+    "Ruling raises questions on refunds of previously collected tariffs",
+    "Majority: Roberts, Gorsuch, Barrett, Sotomayor, Kagan, Jackson",
+    "Dissent: Thomas, Alito, Kavanaugh"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Alternative Tariff Laws After the Ruling",
+   "summary": "The booklet lists several statutes as legal alternatives to IEEPA for imposing tariffs. Section 122 of the Trade Act 1974 allows temporary tariffs, and the President used it to impose a 10% temporary tariff on goods from all countries. Other options are Section 338 of the Tariff Act 1930, Section 232 of the Trade Expansion Act 1962 and Section 301 of the Trade Act 1974.",
+   "facts": [
+    "Section 122, Trade Act 1974: temporary tariffs up to 15% for up to 150 days",
+    "Section 122 aims to protect domestic industries and address trade imbalances",
+    "10% temporary tariff imposed on goods from all countries under Section 122",
+    "Section 338, Tariff Act 1930: import tariffs up to 50%",
+    "Section 338 targets countries with discriminatory trade practices",
+    "Section 232, Trade Expansion Act 1962: import restrictions on goods threatening national security",
+    "Section 232 has been applied to steel and aluminium",
+    "Section 301, Trade Act 1974: action against foreign regulations that unfairly burden US trade"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "India's Impact and the 2026 Trade Deal",
+   "summary": "The rollback of Liberation Day tariffs benefits nearly 55% of India's exports to the US, which had faced an 18% levy. These goods now face only standard Most-Favoured Nation (MFN) tariff rates, while Section 232 duties remain in force. The 2026 India-US trade deal includes Indian commitments on energy, technology and agricultural trade.",
+   "facts": [
+    "Nearly 55% of India's exports to the US benefit from the rollback",
+    "Those goods previously faced an 18% levy",
+    "Benefiting goods are now subject only to standard MFN tariff rates",
+    "Section 232 tariffs of 50% on steel and aluminium remain in force",
+    "25% Section 232 tariff on select automotive components remains in force",
+    "25% penalty for purchasing Russian oil has been eliminated",
+    "India commits to massive procurement of US energy, technology and agricultural products",
+    "India aims to remove barriers for US agricultural exports such as cotton and nuts"
+   ]
+  },
+  {
+   "i": 4,
+   "title": "US Congress and India-US Relations",
+   "summary": "The US Congress is a bicameral legislature, and the Supreme Court ruling makes Congressional approval necessary for broad tariffs. India-US total trade reached USD 129.2 billion in 2024, with India's exports to the US larger than its imports from the US. The US is India's third largest investor.",
+   "facts": [
+    "US Congress is bicameral: House of Representatives and Senate",
+    "House has 435 seats; members are elected for 2 years",
+    "Senate has 100 seats; every state has 2 seats",
+    "Senators are elected for 6 years; one-third of Senate seats are up every 2 years",
+    "Republican Party has secured 54 Senate seats",
+    "India-US total trade in 2024: USD 129.2 billion",
+    "India's exports to US in 2024: USD 87.4 billion",
+    "India's imports from US in 2024: USD 41.8 billion",
+    "USA is India's 3rd largest investor, with FDI inflows of USD 65.19 billion (2000-2024)"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x01-26",
+   "type": "MCQ",
+   "passage": "The International Emergency Economic Powers Act is a United States law that allows the President to respond to serious threats to the country. Its main character is that of a sanctions instrument, and it is not a general law for regulating trade. The emergencies it addresses are described as unusual and extraordinary threats that may affect national security, foreign policy and economic stability. Under the Act, the President may regulate or prohibit international financial transactions. The President may also block trade and commercial dealings with specific countries, entities or individuals. Since its enactment, numerous national emergencies have been declared under this law, and many have involved economic sanctions against countries such as Iran, North Korea and Russia. Before the recent tariff dispute, however, no United States President had used this law as a mechanism to impose trade tariffs. Its use for tariffs was therefore a new application of an older statute. The Act is an emergency framework, and its powers are tied to the emergency situation it is meant to address rather than to everyday trade rules. In short, the Act combines a set of strong economic powers with a requirement that a genuine emergency exist. The law also lets the President restrict imports or exports in certain emergency contexts, which makes it a broad instrument in crises.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which US President enacted the International Emergency Economic Powers Act in 1977?",
+     "options": [
+      "Richard Nixon",
+      "Jimmy Carter",
+      "Gerald Ford",
+      "Ronald Reagan"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which earlier legislation did the IEEPA replace?",
+     "options": [
+      "Tariff Act of 1930",
+      "Trade Act of 1974",
+      "Trading with the Enemy Act (1917)",
+      "Trade Expansion Act of 1962"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What must the President formally do before invoking the IEEPA?",
+     "options": [
+      "Formally declare a National Emergency",
+      "Seek a ruling from the Supreme Court",
+      "Obtain a two-thirds vote in the Senate",
+      "Publish a list of foreign assets"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The IEEPA can be invoked only after a National Emergency has been formally declared.\nReason (R): The Act is primarily a sanctions tool and not a general tariff law.\nIn the context of the above, which of the following is correct?",
+     "options": [
+      "Both A and R are true and R explains A",
+      "Both A and R are true but R does not explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "The Liberation Day Executive Order that declared a National Emergency to support tariffs is dated:",
+     "options": [
+      "15 April 2025",
+      "02 February 2025",
+      "02 April 2024",
+      "02 April 2025"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Read the following statements about the IEEPA:\nI. The threat it addresses must originate outside the United States.\nII. It was enacted in 1977 to replace the Tariff Act of 1930.\nIII. It can be used to freeze foreign assets held in the United States.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about the IEEPA are correct?\nI. It was enacted in 1977 to replace the Trade Expansion Act of 1962.\nII. The President may invoke it without declaring any emergency.\nIII. It can be used to block trade with specific entities.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x01-27",
+   "type": "TITA",
+   "passage": "The International Emergency Economic Powers Act is a United States law that gives the President authority during serious national crises. The law is built around emergencies, so the President must first formally establish that a national emergency exists before using its powers. The threat must be unusual and extraordinary. Under the law, the President can regulate or prohibit international financial transactions and can block dealings with particular countries, entities or individuals. The law is therefore described as an emergency framework and not as a routine means of setting trade rules. Since its enactment, numerous national emergencies have been declared under it, and many have targeted particular governments or groups. Before a recent order, no President had used this law to impose trade tariffs. That order, known as the Liberation Day executive order, declared a national emergency and cited harmful trade practices and a lack of reciprocity in trade relations. Its use for tariffs was therefore a new application of an older statute. The statute gives the President a set of economic tools that can be used quickly in a crisis. The statute is designed to respond to a specific threat rather than to set general trade policy for all partners.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the IEEPA enacted? (year)"
+    },
+    {
+     "n": 2,
+     "q": "Which earlier law did the IEEPA replace? (short name)"
+    },
+    {
+     "n": 3,
+     "q": "Which US President enacted the IEEPA? (surname)"
+    },
+    {
+     "n": 4,
+     "q": "On what date is the Liberation Day executive order dated? (day month year)"
+    },
+    {
+     "n": 5,
+     "q": "The IEEPA is primarily described as which kind of tool? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "From where must the threat addressed by the IEEPA originate? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "What can the IEEPA allow the President to do to foreign assets held in the US? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x01-28",
+   "type": "MCQ",
+   "passage": "The rollback of the Liberation Day tariffs benefits a large share of India's exports to the United States. The goods that benefit from it now face only the standard tariff rates that apply to most trading partners, which is a major change for exporters. Some duties still remain in force. Section 232 duties continue to apply to steel, aluminium and certain automotive components, so the rollback does not remove every barrier. The 2026 India-US trade deal goes further than tariff relief and includes commitments from India in several areas. These commitments cover the purchase of American products and steps to reduce barriers that affect American exports. Together, the deal is described as a strategic economic realignment between the two countries, and it is presented as a step towards a market with zero tariffs. The rollback applies to goods that had previously faced a higher levy in the American market. Trade relations between the two countries are substantial, and India's exports to the United States are an important part of that relationship. The deal's commitments also show how India has agreed to adjust parts of its own import policy. The arrangement is therefore a combination of tariff relief and commitments from India.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Before the rollback, what levy did the benefitting Indian goods face?",
+     "options": [
+      "10%",
+      "18%",
+      "25%",
+      "50%"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which penalty has been eliminated under the 2026 India-US trade deal?",
+     "options": [
+      "A 10% penalty on textile exports",
+      "An 18% penalty on automotive imports",
+      "A 50% penalty on steel imports",
+      "A 25% penalty for purchasing Russian oil"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "India aims to remove import barriers for which US agricultural exports?",
+     "options": [
+      "Cotton and nuts",
+      "Tea and coffee",
+      "Rice and sugar",
+      "Wheat and dairy"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): India's commitments under the 2026 trade deal extend beyond tariff relief.\nReason (R): India has committed to massive procurement of US energy, technology and agricultural products.\nIn the context of the above, which of the following is correct?",
+     "options": [
+      "Both A and R are true, but R does not explain A",
+      "A is false but R is true",
+      "Both A and R are true and R explains A",
+      "A is true but R is false"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "What rate of Section 232 tariff remains in force on steel and aluminium?",
+     "options": [
+      "18%",
+      "25%",
+      "50%",
+      "55%"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Read the following statements about the India-US trade arrangement:\nI. Section 232 tariffs of 50% on steel and aluminium remain in force.\nII. The 25% penalty for purchasing Russian oil has been retained.\nIII. India aims to remove barriers for US exports such as cotton and nuts.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I, II and III",
+      "I and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about the rollback are correct?\nI. The rollback benefits goods that previously faced an 18% levy.\nII. The 25% penalty for purchasing Russian oil remains in force.\nIII. India will halt the purchase of Russian crude oil.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x01-29",
+   "type": "TITA",
+   "passage": "The rollback of the Liberation Day tariffs has eased the burden on a large part of India's exports to the United States. Goods that once faced a steep levy now face the ordinary tariff rates that apply to most trading partners, which is a major change for exporters. The rollback applies only to these benefitting goods, so it does not cover every product. Some duties remain in place. Section 232 duties still apply to metals and to certain automotive components. The 2026 India-US trade deal goes further than tariff relief. It includes commitments from India in several areas. India has agreed to buy large amounts of American goods in areas such as energy and technology. The deal also includes steps to reduce barriers that affect American exports of farm and food products. Together, these elements form a strategic economic arrangement, and the deal is presented as a step towards a market with zero tariffs. The arrangement is therefore broader than a simple reduction in duties, and it touches both tariffs and commitments. For India, the most immediate effect is on goods that benefit from the rollback, while the commitments shape the longer-term relationship. Overall, the deal combines tariff relief with commitments from India.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What levy, in per cent, did the benefitting goods face before the rollback? (number)"
+    },
+    {
+     "n": 2,
+     "q": "What rate, in per cent, of Section 232 duty remains on steel and aluminium? (number)"
+    },
+    {
+     "n": 3,
+     "q": "What penalty, in per cent, for purchasing Russian oil has been eliminated? (number)"
+    },
+    {
+     "n": 4,
+     "q": "Which US agricultural export, named alongside nuts, does India aim to remove import barriers for? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "What does MFN stand for in tariff terms? (three words)"
+    },
+    {
+     "n": 6,
+     "q": "Under the 2026 deal, India commits massive procurement of US energy, technology and which third category of products? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "What term describes India's commitment to buy large amounts of US goods under the deal? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x01-30",
+   "type": "MCQ",
+   "passage": "The United States Congress is the federal legislature and has two chambers. The lower chamber is the House of Representatives, whose members serve shorter terms and face voters more often than senators do. The upper chamber is the Senate, in which every state has the same number of seats regardless of population. Senators serve longer terms, and their elections are staggered so that only part of the chamber is chosen at any one election cycle. Congress meets in the Capitol in Washington, D.C. A ruling of the Supreme Court has made congressional approval necessary for broad tariffs, which places the legislature at the centre of decisions on trade. Trade between India and the United States is substantial, and India exports more to the United States than it imports from it. The United States is also an investor in India, and its investments have built up over many years. The Congress is described as a bicameral body, which means that it consists of two houses. The Senate is the upper body and the House is the lower body in the American legislature. Senators are called senators, and they represent their states in the upper house. Each senator therefore speaks for one state in the upper chamber.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many seats does the House of Representatives have?",
+     "options": [
+      "100",
+      "435",
+      "270",
+      "300"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What fraction of the Senate is elected every two years?",
+     "options": [
+      "One-half",
+      "One-fourth",
+      "One-third",
+      "Two-thirds"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "For how many years are US senators elected?",
+     "options": [
+      "Six years",
+      "Two years",
+      "Four years",
+      "Eight years"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Members of the House face voters more often than senators do.\nReason (R): House members are elected for two years, whereas senators are elected for six years.\nIn the context of the above, which of the following is correct?",
+     "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R does not explain A",
+      "A is false but R is true",
+      "Both A and R are true, and R explains A"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Seats in the Senate   ->   A. 6 years\nII. Seats in the House of Representatives   ->   B. 2 years\nIII. Term of a senator   ->   C. 435\nIV. Term of a House member   ->   D. 100",
+     "options": [
+      "I-B, II-C, III-A, IV-D",
+      "I-B, II-C, III-D, IV-A",
+      "I-D, II-C, III-A, IV-B",
+      "I-A, II-B, III-C, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the US Congress:\nI. The Senate has 100 seats in total.\nII. Every state has two seats in the Senate.\nIII. The House of Representatives has the same term length as the Senate.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about the US Congress are correct?\nI. The Senate is the upper body of the US Congress.\nII. The House of Representatives has 100 seats.\nIII. The US Congress is a unicameral legislature.",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x01-31",
+   "type": "TITA",
+   "passage": "The US Congress is a bicameral legislature, which means it has an upper and a lower house. The House of Representatives is the lower house, and its members face voters more often than the members of the upper house do. The upper house is the Senate, where each state is represented equally regardless of its population. Senators are elected for longer terms, and their seats are contested in a staggered pattern, so only part of the Senate is chosen at each election. The Supreme Court's ruling on the IEEPA tariffs means that broad tariffs require congressional approval, which makes the legislature central to trade decisions. Trade between India and the United States is large, and India exports more to the United States than it imports from the United States. The United States is also one of the investors in India, and its investments have grown over many years. Congress meets in the Capitol building in Washington, D.C., which is the seat of the national legislature. The Senate and the House both play a role in the national legislative process. The chambers differ in size, in the length of their terms, and in the way representation is organised. Senators are members of the Senate and represent their states in it.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many seats does the US Senate have? (number)"
+    },
+    {
+     "n": 2,
+     "q": "How many seats does the House of Representatives have? (number)"
+    },
+    {
+     "n": 3,
+     "q": "For how many years are US senators elected? (number of years)"
+    },
+    {
+     "n": 4,
+     "q": "For how many years are House members elected? (number of years)"
+    },
+    {
+     "n": 5,
+     "q": "What was India-US total trade in 2024, in USD billion? (number)"
+    },
+    {
+     "n": 6,
+     "q": "What was the cumulative FDI inflow from the US to India over 2000-2024, in USD billion? (number)"
+    },
+    {
+     "n": 7,
+     "q": "What were India's exports to the US in 2024, in USD billion? (number)"
+    }
+   ]
+  }
+ ]
+}

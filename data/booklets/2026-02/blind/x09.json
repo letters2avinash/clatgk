@@ -1,0 +1,295 @@
+{
+ "topic": "Corruption Perceptions Index 2025",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Global CPI 2025 Findings",
+   "summary": "Transparency International released the Corruption Perceptions Index 2025, which assesses public sector corruption in 182 countries on a scale from 0 (Highly Corrupt) to 100 (Very Clean). The global average fell to 42, the lowest level in over a decade, signalling worsening corruption trends. Denmark remained the least corrupt country, while only five countries scored above 80.",
+   "facts": [
+    "CPI 2025 assessed public sector corruption across 182 countries.",
+    "CPI scale runs from 0 (Highly Corrupt) to 100 (Very Clean).",
+    "Transparency International, founded in 1993, released CPI 2025; the index started in 1995.",
+    "Global average CPI score declined to 42, the lowest level in over a decade.",
+    "About 122 of 182 countries scored below 50.",
+    "Denmark ranked 1st with a score of 89.",
+    "Denmark has been the least corrupt country for 8 consecutive years.",
+    "Only 5 countries scored above 80, compared with 12 a decade ago.",
+    "Somalia and South Sudan, each scoring 9, ranked among the most corrupt, along with Venezuela."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "India's CPI 2025 Performance",
+   "summary": "India ranked 91st out of 182 countries with a score of 39 out of 100 in CPI 2025. This is a modest improvement from its 96th rank in 2024, but the score remains below the global average of 42. The source attributes this to persistent governance and accountability challenges.",
+   "facts": [
+    "India ranked 91st out of 182 countries in CPI 2025.",
+    "India scored 39 out of 100 in CPI 2025.",
+    "India's rank was a modest improvement from 96th in 2024.",
+    "India's score remains below the global average of 42.",
+    "The booklet links India's position to persistent governance and accountability challenges.",
+    "India performs better than Pakistan, Bangladesh, Nepal and Sri Lanka.",
+    "India lags behind countries such as Bhutan and China."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "India's Laws and Agencies",
+   "summary": "India's anti-corruption framework combines statutes such as the Prevention of Corruption Act 1988 and the Right to Information Act 2005 with bodies including the CVC, CBI, ED and CAG. The CVC oversees vigilance administration, while the CBI is the premier investigating police agency for combating corruption in public life. The CAG is the Supreme Audit Institution that helps identify financial mismanagement, corruption or fraud.",
+   "facts": [
+    "Prevention of Corruption Act 1988 provides penalties for corruption by public servants and for abetment of corruption.",
+    "Prevention of Money Laundering Act 2002 prohibits use of proceeds of crime in India.",
+    "Right to Information Act 2005 gives citizens smoother and greater access to information.",
+    "Whistleblower Protection Act 2014 allows registration of corruption or misuse of power against public servants.",
+    "Central Vigilance Commission was established in 1964 on K Santhanam Committee recommendations.",
+    "CVC was granted statutory status by the CVC Act 2003 and is headquartered in New Delhi.",
+    "Central Bureau of Investigation was formed in 1963 and is the premier investigating police agency for corruption in public life.",
+    "Directorate of Enforcement was established in 1956 as an Enforcement Unit under the Ministry of Finance.",
+    "The CAG is the Supreme Audit Institution under Art 148, appointed by the President.",
+    "The CAG holds office for 6 years or up to the age of 65 years."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "International Efforts and Bodies",
+   "summary": "UNCAC 2003 is the only legally binding universal anti-corruption instrument, and India ratified it in 2011. The FATF, set up by the G7 in 1989, acts as a watchdog on money laundering and terrorist financing. INTERPOL, established in 1923, is the world's largest international police organisation, and SDG 16 recognises anti-corruption as an institutional principle.",
+   "facts": [
+    "UN Convention against Corruption 2003 is the only legally binding universal anti-corruption instrument.",
+    "India ratified UNCAC in 2011.",
+    "G20 Anti-Corruption Working Group (2010) shares effective strategies to combat corruption, especially through emerging technologies.",
+    "Financial Action Task Force was established in 1989 by the G7.",
+    "FATF has 38 member countries and 2 member organisations: the Gulf Cooperation Council and the European Union.",
+    "FATF Black List labels Iran, North Korea and Myanmar as Non-Cooperative Countries or Territories.",
+    "FATF Grey List has 21 countries.",
+    "SDG 16 acknowledges anti-corruption as an institutional principle.",
+    "INTERPOL was established in 1923 and has 196 member countries, including India.",
+    "INTERPOL's General Assembly is its highest decision-making body, with one delegate from each member nation."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x09-70",
+   "type": "MCQ",
+   "passage": "The Corruption Perceptions Index is released by Transparency International, a non-profit organisation whose aim is to combat global corruption through civil society anti-corruption measures. The index assesses public sector corruption and is described as a leading global indicator of that problem. The 2025 edition applies the same measure to every country covered, so that results can be compared across countries. It highlights global trends and structural causes, and it recommends measures to strengthen institutional integrity. The latest edition reports that the global average score has declined to its lowest level in over a decade, which indicates worsening corruption trends worldwide. Only a small number of countries now score above 80, compared with a larger number a decade ago. Many countries still fall in the serious-concern range, with most nations scoring below 50. India's position in the latest edition is of particular interest to readers in the country. Its performance is assessed against the global average, and the booklet compares it with several South Asian neighbours. The comparison shows that India performs better than some countries in its region, while it lags behind others. The booklet concludes that these results point to scope for institutional strengthening.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the global average CPI score in 2025?",
+     "options": [
+      "38",
+      "42",
+      "39",
+      "44"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "On the CPI scale, what does a score of 0 signify?",
+     "options": [
+      "Very clean",
+      "Average integrity",
+      "Highly corrupt",
+      "Moderately corrupt"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "How many countries were assessed in CPI 2025?",
+     "options": [
+      "172",
+      "182",
+      "192",
+      "162"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): India performs better than China in the Corruption Perceptions Index 2025.\nReason (R): The booklet states that India lags behind China in the index.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about India in CPI 2025:\nI. India performs better than Sri Lanka.\nII. India lags behind Bhutan.\nIII. India's score is above the global average.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements about India in CPI 2025 are correct?\nI. India's score is 39 out of 100.\nII. India lags behind China.\nIII. India was ranked 96th in CPI 2025.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which of the following countries does India perform better than in CPI 2025?",
+     "options": [
+      "Bhutan",
+      "China",
+      "Finland",
+      "Bangladesh"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-71",
+   "type": "TITA",
+   "passage": "The Corruption Perceptions Index is released by Transparency International, a non-profit organisation whose aim is to combat global corruption through civil society anti-corruption measures. The index assesses public sector corruption and is described as a leading global indicator of that problem. The 2025 edition applies the same measure to every country covered, so that results can be compared across countries. It highlights global trends and structural causes, and it recommends measures to strengthen institutional integrity. The latest edition reports that the global average score has declined to its lowest level in over a decade, which indicates worsening corruption trends worldwide. Only a small number of countries now score above 80, compared with a larger number a decade ago. Many countries still fall in the serious-concern range, with most nations scoring below 50. India's position in the latest edition is of particular interest to readers in the country. Its performance is assessed against the global average, and the booklet compares it with several South Asian neighbours. The comparison shows that India performs better than some countries in its region, while it lags behind others. The booklet concludes that these results point to scope for institutional strengthening.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is India's score out of 100 in CPI 2025? (number)"
+    },
+    {
+     "n": 2,
+     "q": "What was India's rank among the countries assessed in CPI 2025? (ordinal number)"
+    },
+    {
+     "n": 3,
+     "q": "What was the global average CPI score in 2025? (number)"
+    },
+    {
+     "n": 4,
+     "q": "Name the country, other than China, that India lags behind in CPI 2025."
+    },
+    {
+     "n": 5,
+     "q": "Which CPI score denotes 'Very Clean' at the top of the scale? (number)"
+    },
+    {
+     "n": 6,
+     "q": "How many countries were assessed in CPI 2025? (number)"
+    },
+    {
+     "n": 7,
+     "q": "What two kinds of challenges does the booklet link to India's position? (two words joined by 'and')"
+    }
+   ]
+  },
+  {
+   "id": "q-x09-72",
+   "type": "MCQ",
+   "passage": "Several international bodies and instruments deal with corruption, and the booklet describes some of the most significant ones. The United Nations Convention against Corruption, dated 2003, is an instrument that addresses corruption across the world. Within the G20, an anti-corruption working group, dating from 2010, is one of the bodies the booklet lists. The Financial Action Task Force, which acts as a global watchdog on money laundering and terrorist financing, is a body whose membership includes 38 countries and two organisations, among them the Gulf Cooperation Council and the European Union. The task force maintains lists of countries whose cooperation with it is considered weak, and these include a grey list with 21 countries and a second list with a different label. The Sustainable Development Goals also include a goal titled Peace, Justice and Strong Institutions. The booklet presents these bodies together, covering an international convention, a working group, a financial watchdog and a development framework, as part of the wider effort against corruption. Each entry in the booklet's summary gives a short description of the body or instrument concerned.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which country officially became a full member of the Financial Action Task Force, according to the booklet?",
+     "options": [
+      "Indonesia",
+      "Nepal",
+      "Myanmar",
+      "Yemen"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which of these countries is labelled on the FATF Black List as a Non-Cooperative Country or Territory?",
+     "options": [
+      "Denmark",
+      "Bhutan",
+      "North Korea",
+      "Finland"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What is the stated purpose of the G20 Anti-Corruption Working Group, according to the booklet?",
+     "options": [
+      "Set binding targets for national budgets",
+      "Investigate cross-border crime in real time",
+      "Maintain a list of non-cooperative territories",
+      "Share effective strategies to combat corruption, especially through emerging technologies"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The UN Convention against Corruption 2003 is the only legally binding universal anti-corruption instrument.\nReason (R): India ratified this convention in 2011.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about international anti-corruption bodies:\nI. The FATF was established in 1989 by the G7.\nII. The G20 Anti-Corruption Working Group dates from 1989.\nIII. Indonesia officially became a full member of the FATF.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements are correct?\nI. India ratified the UN Convention against Corruption in 2011.\nII. The Sustainable Development Goal titled Peace, Justice and Strong Institutions is SDG 16.\nIII. Indonesia is listed on the FATF Black List.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Match List I with List II:\nI. Financial Action Task Force   ->   A. Anti-corruption as an institutional principle\nII. FATF Black List   ->   B. Established by the G7\nIII. Sustainable Development Goal titled Peace, Justice and Strong Institutions   ->   C. Only legally binding universal anti-corruption instrument\nIV. UN Convention against Corruption   ->   D. Non-cooperative countries or territories",
+     "options": [
+      "I-A, II-D, III-B, IV-C",
+      "I-A, II-C, III-D, IV-B",
+      "I-B, II-D, III-A, IV-C",
+      "I-D, II-C, III-B, IV-A"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-73",
+   "type": "TITA",
+   "passage": "Several international bodies and instruments deal with corruption, and the booklet describes some of the most significant ones. The United Nations Convention against Corruption, dated 2003, is an instrument that addresses corruption across the world. Within the G20, an anti-corruption working group, dating from 2010, is one of the bodies the booklet lists. The Financial Action Task Force, which acts as a global watchdog on money laundering and terrorist financing, is a body whose membership includes 38 countries and two organisations, among them the Gulf Cooperation Council and the European Union. The task force maintains lists of countries whose cooperation with it is considered weak, and these include a grey list with 21 countries and a second list with a different label. The Sustainable Development Goals also include a goal titled Peace, Justice and Strong Institutions. The booklet presents these bodies together, covering an international convention, a working group, a financial watchdog and a development framework, as part of the wider effort against corruption. Each entry in the booklet's summary gives a short description of the body or instrument concerned.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did India ratify the UN Convention against Corruption? (year)"
+    },
+    {
+     "n": 2,
+     "q": "In which year was the Financial Action Task Force established? (year)"
+    },
+    {
+     "n": 3,
+     "q": "Which group established the Financial Action Task Force? (name of the group)"
+    },
+    {
+     "n": 4,
+     "q": "Which SDG number is the goal titled Peace, Justice and Strong Institutions? (number)"
+    },
+    {
+     "n": 5,
+     "q": "Which country ratified the UN Convention against Corruption in 2011? (country)"
+    },
+    {
+     "n": 6,
+     "q": "Which country was officially made a full member of the FATF? (country)"
+    },
+    {
+     "n": 7,
+     "q": "What is the name of the FATF list that labels countries as Non-Cooperative Countries or Territories? (two words)"
+    }
+   ]
+  }
+ ]
+}

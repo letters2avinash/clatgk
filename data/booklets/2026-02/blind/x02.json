@@ -1,0 +1,290 @@
+{
+ "topic": "End of New START Treaty",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "New START Expiry and Its Implications",
+   "summary": "The New START Treaty, the last legally binding nuclear arms control pact between the United States and Russia, expired on 5 February 2026. Its lapse removes binding limits on strategic nuclear arsenals and weakens the verification mechanisms that once made them predictable. Negotiations have stalled as relations deteriorate, and the booklet warns of greater uncertainty, miscalculation and a possible arms race.",
+   "facts": [
+    "Full name: New Strategic Arms Reduction Treaty (New START).",
+    "Signed in 2010 and came into force in 2011; extended by 5 years in 2021, valid until 05 Feb 2026.",
+    "Caps each country at 1550 operationally deployed strategic nuclear warheads.",
+    "The ceiling covers deployed warheads only, not stockpiled or reserve weapons.",
+    "Russia suspended New START participation in 2023 amid the Ukraine war.",
+    "Russia suspended information-sharing on its nuclear forces; the US accuses Russia of non-compliance.",
+    "Expiry removes binding caps and halts inspections and nuclear data sharing.",
+    "Loss of verification increases opacity and risks eroding global nuclear restraint norms."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Cold War Arms Control Milestones",
+   "summary": "Arms control between the United States and the Soviet Union progressed through a series of talks and agreements. The SALT I round produced the Anti-Ballistic Missile (ABM) Treaty, which limited missile defence to preserve mutual vulnerability. Later instruments such as SALT II, START I, START II and SORT set quantitative limits or served as interim pacts, but several were never ratified or were later abandoned.",
+   "facts": [
+    "SALT I (1969-1972) resulted in the Anti-Ballistic Missile (ABM) Treaty.",
+    "The ABM Treaty restricted deployment of missile defence systems to preserve mutual vulnerability.",
+    "SALT II (1972-1979) set quantitative limits on nuclear delivery systems, including long-range missiles and strategic bombers.",
+    "The United States never ratified SALT II, owing to Soviet military intervention in Afghanistan.",
+    "START I (1991) capped 6000 nuclear warheads, enforced inspections and expired in 2009.",
+    "START II (1993) aimed to reduce nuclear weapons to 3,500; Russia withdrew after the US exited the ABM Treaty.",
+    "SORT (2002), also known as the Moscow Treaty, was an interim agreement between the US and Russia."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Nuclear Treaties and Control Regimes",
+   "summary": "Beyond the US-Russia pacts, a set of global treaties and voluntary export-control regimes aims to limit nuclear weapons and their spread. The NPT classifies states as nuclear-weapon or non-nuclear-weapon states, the CTBT seeks to end nuclear testing, and the TPNW bans nuclear weapons outright. Export regimes such as the Australia Group, the MTCR and the Wassenaar Arrangement coordinate controls on sensitive goods.",
+   "facts": [
+    "Outer Space Treaty (1967) bans deployment of weapons of mass destruction in outer space; all nuclear-armed nations are signatories.",
+    "NPT (1968) aims to prevent nuclear spread and promote disarmament, and classifies nations as nuclear-weapon or non-nuclear-weapon states.",
+    "CTBT (1996) seeks to ban all nuclear weapon testing for civilian and military use.",
+    "CTBT is signed by 185 countries and ratified by 170, but remains non-operational as ratification by key nuclear-armed states is pending.",
+    "TPNW (2017) bans development, testing, possession and use of nuclear weapons.",
+    "Missile Technology Control Regime (1987) is an informal political understanding with 35 members.",
+    "Australia Group (1985) is an informal export control forum formed after chemical weapons use in the Iran-Iraq War.",
+    "Wassenaar Arrangement (1996) is a voluntary export control regime with 42 members."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "India's Nuclear Journey and the IAEA",
+   "summary": "India's nuclear programme began with the Atomic Energy Commission under Homi J. Bhabha and grew through its reactors and Pokhran tests. Its diplomacy includes a No First Use pledge and a 2008 NSG waiver that enabled nuclear trade despite its non-signatory status to the NPT. The International Atomic Energy Agency (IAEA), established in 1957, supports safeguards, nuclear safety and peaceful use worldwide.",
+   "facts": [
+    "Establishment of the Atomic Energy Commission in 1948 laid the foundation of India's nuclear programme under Homi J. Bhabha.",
+    "The Apsara reactor became operational in 1956 as Asia's first nuclear reactor.",
+    "Tarapur Atomic Power Station began operations in 1969 as India's first commercial nuclear power plant.",
+    "Pokhran-I, 'Smiling Buddha', was conducted on 18 May 1974 at the Pokhran range.",
+    "Pokhran-II in May 1998 comprised three tests on 11 May (codename Shakti-I) and two more on 13 May.",
+    "India's No First Use policy pledges no first nuclear strike but retains the right to retaliate if attacked.",
+    "A 2008 NSG waiver enabled nuclear trade with India despite its non-signatory status to the NPT.",
+    "IAEA, established 1957 and headquartered in Vienna, has 180 members and is led by Director General Rafael Grossi."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x02-32",
+   "type": "MCQ",
+   "passage": "Arms control between the United States and the Soviet Union developed through a long series of talks and agreements. The booklet defines disarmament as reducing or eliminating weapons, either unilaterally or mutually, to promote global peace and security. In 1967, US President Lyndon B. Johnson warned that a Soviet missile defence system around Moscow raised the danger of a destabilising first-strike capability. The Strategic Arms Limitation Talks, known as SALT, then produced a set of agreements. The first round ran from 1969 to 1972, and SALT II followed from 1972 to 1979. Later instruments followed. The Strategic Arms Reduction Treaty, known as START I, was concluded in 1991, and START II was negotiated in 1993. The Strategic Offensive Reductions Treaty, or SORT, followed in 2002. Missile defence, delivery systems and warhead numbers were each addressed in different instruments. Each of these agreements is dated and named in the booklet, and the sequence runs from the late 1960s to the early 2000s. The talks took place during Cold War rivalry between the two powers, which is the context in which each instrument was negotiated. The booklet presents these events in chronological order. Taken together, these agreements show how the two powers attempted to manage their nuclear balance over several decades.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which agreement was produced by the first round of the Strategic Arms Limitation Talks (1969-1972)?",
+     "options": [
+      "SALT II",
+      "START I",
+      "Moscow Treaty (SORT)",
+      "Anti-Ballistic Missile (ABM) Treaty"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Why did the United States never ratify SALT II?",
+     "options": [
+      "Russia's withdrawal after the US exit from the ABM Treaty",
+      "Soviet military intervention in Afghanistan",
+      "Expiry of START I in 2009",
+      "Cap of 6000 nuclear warheads under START I"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "START I (1991) capped nuclear warheads at what number?",
+     "options": [
+      "3,500",
+      "2,200",
+      "6,000",
+      "1,700"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): START II collapsed.\nReason (R): Russia withdrew after the United States exited the ABM Treaty.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. SALT II   ->   A. Enforced inspections\nII. START I   ->   B. Also known as the Moscow Treaty\nIII. START II   ->   C. Limits on nuclear delivery systems\nIV. SORT   ->   D. Aim of reducing nuclear weapons to 3,500",
+     "options": [
+      "I-B, II-A, III-C, IV-D",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-C, III-A, IV-B",
+      "I-A, II-D, III-B, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. SORT was an interim agreement between the United States and Russia.\nII. START II set a target of 6000 nuclear weapons.\nIII. START I expired in 2009.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements are correct?\nI. The ABM Treaty restricted deployment of missile defence systems.\nII. SORT is also known as the New START Treaty.\nIII. The United States ratified SALT II in 1979.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x02-33",
+   "type": "TITA",
+   "passage": "Arms control between the United States and the Soviet Union developed through a sequence of talks, agreements and interim pacts. The booklet defines disarmament as reducing or eliminating weapons, either unilaterally or mutually, to promote global peace and security. In 1967, US President Lyndon B. Johnson warned that a Soviet missile defence system around Moscow raised the danger of a destabilising first-strike capability. The Strategic Arms Limitation Talks, known as SALT, produced agreements that dealt with missile defence and with delivery systems. Some of these agreements were never ratified by one of the two sides, while others were overtaken by later events. The Strategic Arms Reduction Treaty, known as START I, was concluded in 1991. It enforced inspections and capped the number of nuclear warheads, and it was followed in 1993 by START II, which was intended to reduce nuclear weapons further. The booklet notes that START II did not survive in its original form, and it links that outcome to a withdrawal by one of the parties. Missile defence, delivery systems and warhead numbers were each addressed in different instruments. Each agreement is dated and named in the booklet. Taken together, these agreements show how the two powers attempted to manage their nuclear balance over several decades.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What maximum number of nuclear warheads was capped under START I (1991)? (number)"
+    },
+    {
+     "n": 2,
+     "q": "Which 2002 interim agreement between the US and Russia is also called the Moscow Treaty? (acronym)"
+    },
+    {
+     "n": 3,
+     "q": "Soviet military intervention in which country led the United States never to ratify SALT II? (country)"
+    },
+    {
+     "n": 4,
+     "q": "Which round of the Strategic Arms Limitation Talks (1969-1972) produced the ABM Treaty? (name the round)"
+    },
+    {
+     "n": 5,
+     "q": "Russia withdrew from START II after the United States exited which treaty? (name)"
+    },
+    {
+     "n": 6,
+     "q": "What number of nuclear weapons did START II (1993) aim to reduce to? (number)"
+    },
+    {
+     "n": 7,
+     "q": "In which year did START I (1991) expire? (year)"
+    }
+   ]
+  },
+  {
+   "id": "q-x02-34",
+   "type": "MCQ",
+   "passage": "Global efforts to limit nuclear weapons rest on several separate instruments rather than on one single agreement. The booklet presents a set of treaties related to nuclear disarmament and a set of key nuclear control regimes. These items are arranged in a sequence that begins with the Outer Space Treaty. The booklet also gives a short definition of disarmament, which involves reducing or eliminating weapons either unilaterally or mutually. Others concern the spread of nuclear weapons, and they include the Treaty on Non-Proliferation of Nuclear Weapons, the Comprehensive Nuclear Test Ban Treaty and the Treaty on Prohibition of Nuclear Weapons. Export regimes such as the Missile Technology Control Regime, the Australia Group and the Wassenaar Arrangement coordinate controls on sensitive goods, so that member states apply shared rules to certain exports. The booklet lists each instrument with its own details, and the instruments were developed over several decades, from the late 1960s onward. On 6 and 9 August 1945, the United States dropped atomic bombs, 'Little Boy' on Hiroshima and 'Fat Man' on Nagasaki, in Japan. The booklet also records India's Pokhran tests of 1974 and 1998 as part of this history. Nuclear-weapon-free zones are regions committed to banning nuclear weapons, and the booklet describes them as part of the same broader topic.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which 1967 instrument bans the deployment of weapons of mass destruction in outer space?",
+     "options": [
+      "Treaty on Non-Proliferation of Nuclear Weapons",
+      "Comprehensive Nuclear Test Ban Treaty",
+      "Outer Space Treaty",
+      "Wassenaar Arrangement"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "The Treaty on Non-Proliferation of Nuclear Weapons (1968) classifies nations into which two categories?",
+     "options": [
+      "Nuclear-weapon and non-nuclear-weapon states",
+      "Nuclear-armed and nuclear-free zones",
+      "Export-controlled and voluntary members",
+      "Signatory and ratifying states"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Why has the Comprehensive Nuclear Test Ban Treaty (1996) not become operational?",
+     "options": [
+      "The IAEA has rejected its verification role",
+      "Ratification by key nuclear-armed states is pending",
+      "It was never signed by any country",
+      "The United Nations abandoned the treaty"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The Australia Group was formed in 1985 as an informal export control forum.\nReason (R): It was established after chemical weapons were used in the Iran-Iraq War.",
+     "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true but R is not the correct explanation of A",
+      "Both A and R are true and R is the correct explanation of A"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Treaty on Non-Proliferation of Nuclear Weapons   ->   A. 1996\nII. Comprehensive Nuclear Test Ban Treaty   ->   B. 1987\nIII. Treaty on Prohibition of Nuclear Weapons   ->   C. 1968\nIV. Missile Technology Control Regime   ->   D. 2017",
+     "options": [
+      "I-D, II-B, III-A, IV-C",
+      "I-C, II-A, III-D, IV-B",
+      "I-C, II-D, III-A, IV-B",
+      "I-D, II-B, III-C, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. The Missile Technology Control Regime is an informal political understanding.\nII. The Treaty on Prohibition of Nuclear Weapons permits states that have signed it to possess nuclear weapons.\nIII. The Comprehensive Nuclear Test Ban Treaty seeks to ban nuclear weapon testing for civilian and military use.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements are correct?\nI. The Wassenaar Arrangement promotes transparency in conventional arms and dual-use exports.\nII. The Australia Group is a formal treaty with binding inspection rules.\nIII. The Treaty on Prohibition of Nuclear Weapons bans the development of nuclear weapons.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x02-35",
+   "type": "TITA",
+   "passage": "Nuclear arms control is pursued through a network of global instruments rather than a single agreement. Some of these instruments are treaties, while others are informal understandings or export-control arrangements. The booklet groups its subjects under headings for nuclear disarmament treaties and nuclear control regimes. Disarmament, as the booklet explains it, involves reducing or eliminating weapons, either unilaterally or mutually, to promote global peace and security. Some instruments deal with the spread of nuclear weapons, and others deal with testing. A further group of arrangements coordinates national controls on goods that could be used in weapons programmes. The booklet also recalls the atomic bombings of Hiroshima and Nagasaki in August 1945, which were carried out by the United States. Its account of India's nuclear history includes the Pokhran tests of 1974 and 1998. The booklet presents a chronology of nuclear events, beginning with the 1945 bombings and continuing through the treaties. The booklet describes the International Atomic Energy Agency as an organisation that monitors peaceful nuclear programmes, and it was established in 1957. It states that the agency assists nations in using nuclear technology. Nuclear-weapon-free zones are regions committed to banning nuclear weapons, and the booklet describes them alongside the instruments listed above.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which 1967 treaty bans the deployment of weapons of mass destruction in outer space? (name of the treaty)"
+    },
+    {
+     "n": 2,
+     "q": "Which 1968 treaty classifies nations as nuclear-weapon or non-nuclear-weapon states? (short form)"
+    },
+    {
+     "n": 3,
+     "q": "In which year was the Comprehensive Nuclear Test Ban Treaty concluded? (year)"
+    },
+    {
+     "n": 4,
+     "q": "In which year was the Treaty on Prohibition of Nuclear Weapons concluded? (year)"
+    },
+    {
+     "n": 5,
+     "q": "Which informal political understanding of 1987 aims to prevent proliferation of missiles and UAVs capable of delivering weapons of mass destruction? (acronym)"
+    },
+    {
+     "n": 6,
+     "q": "Which 1985 informal export control forum was formed after chemical weapons were used in the Iran-Iraq War? (name)"
+    },
+    {
+     "n": 7,
+     "q": "Which 1996 voluntary export control regime promotes transparency in conventional arms and dual-use exports? (name)"
+    }
+   ]
+  }
+ ]
+}

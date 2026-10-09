@@ -1,0 +1,292 @@
+{
+ "topic": "CPI Base Year Revised to 2024",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Why the CPI base year was revised",
+   "summary": "The Ministry of Statistics & Programme Implementation revised the CPI base year to 2024, replacing the 2012 benchmark. The revision reflects updated consumption patterns, price structures and economic changes since 2012. It uses 2023-24 Household Consumer Expenditure Survey data, and an advisory committee chaired by Biswanath Goldar helped decide the base year.",
+   "facts": [
+    "CPI base year revised to 2024, replacing the 2012 benchmark.",
+    "Ministry of Statistics & Programme Implementation revised the CPI base year.",
+    "26-member Advisory Committee on National Accounts Statistics, chaired by Biswanath Goldar.",
+    "2024 identified as CPI base year using 2023-24 Household Consumer Expenditure Survey data.",
+    "New GDP series released with FY 2022-23 as revised base year.",
+    "Revision aims to reflect updated consumption patterns, price structures and economic changes.",
+    "Since 2012, India's economy shifted towards urbanisation, services expansion and digitalisation of consumer spending.",
+    "Rising incomes and lifestyle changes diversify household expenditure patterns.",
+    "Without periodic revision, an inflation index risks misrepresenting the actual price rise felt by households."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "What CPI measures and why it matters",
+   "summary": "The Consumer Price Index measures the average change over time in retail prices of goods and services consumed by households. It is the main indicator of retail inflation and is used by the Reserve Bank of India for monetary policy decisions. It also serves as a benchmark for wage revision, pension adjustment and dearness allowance calculation.",
+   "facts": [
+    "CPI measures average change over time in retail prices of goods and services consumed by households.",
+    "CPI reflects the cost of living and inflation experienced by consumers.",
+    "CPI is the main indicator of retail inflation.",
+    "CPI is used by the Reserve Bank of India for monetary policy decisions.",
+    "CPI is used for dearness allowance calculation, wage revision and pension adjustment.",
+    "Current inflation target is 4%, with a band of 2% (2% to 6%).",
+    "Overall inflation in January 2026 (YoY) was 2.75% (provisional).",
+    "Rural inflation in January 2026 was 2.73%; urban inflation was 2.77%.",
+    "Significance of base revision: better reflection of cost of living, improved monetary policy transmission, greater statistical credibility."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "CPI 2012 versus CPI 2024: key changes",
+   "summary": "The revised CPI 2024 has a larger basket than CPI 2012, with 358 items against 299. It covers online markets, uses the COICOP 2018 classification, and compiles house rent for both urban and rural areas. The food and beverages weightage has been reduced from 45.86% to 36.75%.",
+   "facts": [
+    "Items: 299 (259 goods and 40 services) in CPI 2012; 358 (308 goods and 50 services) in CPI 2024.",
+    "Online markets: not covered in CPI 2012; 12 online markets covered in CPI 2024 in cities above 25 lakh population.",
+    "Classification: COICOP 1999 in CPI 2012; COICOP 2018 in CPI 2024.",
+    "House rent index: only urban areas in CPI 2012; urban and rural in CPI 2024, both excluding employer-provided accommodation.",
+    "Data dissemination: combined index only in CPI 2012; rural, urban and combined indices in CPI 2024.",
+    "Food and beverages weightage: 45.86% in CPI 2012; 36.75% in CPI 2024.",
+    "Formula used: Laspeyres index (base year prices, base year weights, current prices).",
+    "Newly added items (January 2026): OTT subscriptions, rural house rent, value-added dairy products, pen drives, babysitting services, fitness equipment, barley products, cleaner fuels.",
+    "Removed items: VCR/VCD/DVD players, tape recorders, radios, cassettes, second hand clothing, rope."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "CPI compared with WPI",
+   "summary": "The Wholesale Price Index (WPI) has a base year of 2011-12 and is released by the Office of Economic Adviser, Ministry of Commerce and Industry. The CPI is released by the National Statistical Office (NSO). WPI covers only goods and excludes indirect taxes, whereas CPI covers both goods and services and includes indirect taxes.",
+   "facts": [
+    "WPI base year is 2011-12.",
+    "WPI is released by the Office of Economic Adviser, Ministry of Commerce and Industry.",
+    "CPI is released by the National Statistical Office (NSO).",
+    "WPI includes only goods; CPI includes both goods and services.",
+    "WPI excludes indirect taxes; CPI includes indirect taxes.",
+    "WPI does not reflect up-to-date expenditure patterns; CPI does."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x07-60",
+   "type": "MCQ",
+   "passage": "Inflation is an increase in the overall prices of goods and services in an economy over time. Indices are used to measure it, and the Consumer Price Index is one of the most important of them. The index measures the average change over time in the retail prices of goods and services consumed by households, so it follows the prices that ordinary families face in daily life. It also serves as a reference point for comparing prices across different periods. Economic indicators such as GDP and the Index of Industrial Production can be read against this benchmark to observe real changes over time. Every index is built on a base year, which is the reference point against which later prices are compared. Each item in the basket carries a weight that reflects its share of household spending. Over the years, however, the spending of households may drift away from the pattern recorded in that base. When this happens, an index that is not revised risks misrepresenting the actual price rise experienced by households. For this reason, the base of the index needs to be revised from time to time so that its coverage keeps pace with the present shape of consumer demand.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which range is the band around the current inflation target?",
+     "options": [
+      "1% to 5%",
+      "3% to 7%",
+      "2% to 6%",
+      "4% to 8%"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "In January 2026, which area recorded higher year-on-year inflation?",
+     "options": [
+      "Rural areas at 2.73%",
+      "Urban areas at 2.77%",
+      "Both recorded identical inflation",
+      "Neither recorded inflation"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "The Consumer Price Index is described as the main indicator of which kind of inflation?",
+     "options": [
+      "Wholesale inflation",
+      "Export inflation",
+      "Core inflation",
+      "Retail inflation"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The CPI base year was revised to reflect updated consumption patterns and price structures.\nReason (R): Consumption patterns in India have shifted since 2012 toward urbanisation, services expansion and digitalisation of consumer spending.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Which of the following is listed as a significance of the CPI base revision?",
+     "options": [
+      "Lower number of items in the basket",
+      "Replacement of CPI by WPI",
+      "Greater statistical credibility",
+      "Fixed base year for all time"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the CPI:\nI. CPI reflects the cost of living experienced by consumers.\nII. CPI is used by the Reserve Bank of India for monetary policy decisions.\nIII. CPI covers only goods and excludes services.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about the CPI:\nI. CPI is used for pension adjustment.\nII. CPI is used for wage revision.\nIII. The current inflation target is 6%.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only three",
+      "All of the above",
+      "Only two"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x07-61",
+   "type": "TITA",
+   "passage": "Prices in an economy rarely stay still. Inflation describes an increase in the overall prices of goods and other items over time, and officials track it through indices. The Consumer Price Index is designed to measure inflation in the retail market, where households buy what they need. It records the average change over time in the retail prices of the items that households consume. Because it follows household purchases, it reflects the cost of living that consumers face. Every index begins with a base year, against which later prices are compared, and the items it covers are chosen to represent typical spending in that period. Spending habits move on, however. When incomes grow and lifestyles change, the purchases of households may shift to new products and new ways of buying. Without periodic revision, an index risks misrepresenting the price rise that households actually experience. Revising the base year allows an index to reflect updated consumption and price structures. Used over time, the index helps observers compare changes in the cost of living from one period to the next. Economic indicators such as GDP and the Index of Industrial Production are also compared with such indices to observe real changes over time.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the current inflation target for CPI (in per cent)?"
+    },
+    {
+     "n": 2,
+     "q": "What is the lower limit of the inflation band around the target (in per cent)?"
+    },
+    {
+     "n": 3,
+     "q": "What was overall inflation (year-on-year) in January 2026, in per cent? (provisional figure)"
+    },
+    {
+     "n": 4,
+     "q": "What was urban inflation in January 2026 (in per cent)?"
+    },
+    {
+     "n": 5,
+     "q": "Which central bank uses CPI for monetary policy decisions? (abbreviation)"
+    },
+    {
+     "n": 6,
+     "q": "Which allowance is calculated using CPI? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "Which sector's expansion is cited among the structural shifts since 2012? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x07-62",
+   "type": "MCQ",
+   "passage": "Prices in India are tracked through more than one index, and each index serves a particular purpose. Inflation is an increase in the overall prices in an economy over time, and indices are the standard tool used to measure it. One index measures inflation in the retail market, where households buy items for their own consumption. A second index, the Wholesale Price Index, measures average changes in wholesale prices. The Consumer Price Index reflects the cost of living experienced by consumers. The two indices differ in several respects, so they should not be treated as interchangeable. Each index is linked to a base year, which serves as the reference point for all later comparisons. The coverage of each index is set by the items it includes, and the methods used to build them are not the same. Because the economy changes over time, the structure of each index has to be revised periodically. Economic indicators such as GDP can be compared with these indices over time to observe real changes. Careful reading of the figures helps users understand which measure suits a particular question, whether the focus is household budgets or broader movements in wholesale prices. Index numbers show how prices have moved relative to the base year.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which agency releases the Consumer Price Index?",
+     "options": [
+      "Office of Economic Adviser",
+      "Ministry of Labour and Employment",
+      "National Statistical Office",
+      "Reserve Bank of India"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What is the base year of the Wholesale Price Index?",
+     "options": [
+      "2004-05",
+      "2011-12",
+      "2012",
+      "2022-23"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which index does NOT reflect up-to-date expenditure patterns?",
+     "options": [
+      "Consumer Price Index",
+      "Both indices",
+      "Neither index",
+      "Wholesale Price Index"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The Consumer Price Index includes both goods and services.\nReason (R): The Wholesale Price Index includes only goods.",
+     "options": [
+      "Both A and R are true; R explains A",
+      "Both A and R are true; R does not explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Which ministry's Office of Economic Adviser releases the Wholesale Price Index?",
+     "options": [
+      "Ministry of Commerce and Industry",
+      "Ministry of Finance",
+      "Ministry of Labour and Employment",
+      "Ministry of Statistics and Programme Implementation"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. The CPI includes indirect taxes.\nII. The WPI excludes indirect taxes.\nIII. The WPI covers services.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. The CPI reflects up-to-date expenditure patterns.\nII. The WPI base year is 2011-12.\nIII. The CPI base year is 2011-12.\nHow many of the above statements are correct?",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x07-63",
+   "type": "TITA",
+   "passage": "Inflation refers to an increase in overall prices in an economy over time, and several indices are used to measure it. The Consumer Price Index measures inflation in the retail market, and it reflects the cost of living experienced by consumers. The Wholesale Price Index measures average changes in wholesale prices. Both indices are released by official bodies, and each one has a base year that serves as the reference point. Items in the consumer index include food, fuel and light, clothing and footwear, and housing. The indices differ in their coverage, so a reader should check the scope of each figure before comparing them. Price measurement must reflect changing consumption behaviour, since household spending changes as incomes rise. Without periodic revision, an inflation index risks misrepresenting the actual price rise experienced by households. Revising the base year allows an index to reflect updated consumption patterns and price structures. A revised index is therefore a better reflection of the prices households face. Revisions bring in newly added items and drop items that households no longer buy, which keeps the basket current. The index is therefore a running record of the prices households face, rather than a snapshot of one period. This is why the revised index matters.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which agency releases the Consumer Price Index? (abbreviation)"
+    },
+    {
+     "n": 2,
+     "q": "What is the base year of the Wholesale Price Index? (format YYYY-YY)"
+    },
+    {
+     "n": 3,
+     "q": "Which ministry's Office of Economic Adviser releases the WPI? (name of ministry, short form acceptable)"
+    },
+    {
+     "n": 4,
+     "q": "Which sector is not considered by the WPI? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "Which kind of taxes does the WPI exclude? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "Which office releases the WPI? (give the office name without the ministry)"
+    },
+    {
+     "n": 7,
+     "q": "Which ministry works through the National Statistical Office that releases the CPI? (abbreviation)"
+    }
+   ]
+  }
+ ]
+}

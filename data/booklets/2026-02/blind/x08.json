@@ -1,0 +1,428 @@
+{
+ "topic": "India AI Impact Summit 2026",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Summit Theme, Principles and Objectives",
+   "summary": "India hosted the India AI Impact Summit 2026 at Bharat Mandapam in New Delhi, presented as the first multilateral AI summit in the Global South. The summit marked a shift from a Western safety-first model to an impact-first, developmental approach to AI, under the theme 'Sarvajana Hitaya, Sarvajana Sukhaya'. Its work rests on three Sutras and seven Chakras, and it set out four key objectives.",
+   "facts": [
+    "Held at Bharat Mandapam, New Delhi; described as the 1st multilateral AI summit in the Global South",
+    "Signals a shift from a Western safety-first model to an impact-first, developmental AI paradigm",
+    "Theme: 'Sarvajana Hitaya, Sarvajana Sukhaya' (Welfare for All, Happiness for All)",
+    "3 Sutras: People (Inclusive Development), Planet (Ethical Innovation), Progress (Sustainable Societal Impact)",
+    "7 Chakras (Priority Cooperation Areas): Healthcare, Agriculture, Education, Governance, Climate action, Digital Economy, Social Inclusion",
+    "Objective 1: translate global AI discussions into development outcomes aligned with IndiaAI Mission and Digital India",
+    "Objective 2: promote responsible and ethical AI, addressing algorithmic bias, privacy protection and accountability",
+    "Objective 3: build partnerships between governments, startups, academia and industry",
+    "Objective 4: position India as a Global AI Hub and promote an indigenous AI ecosystem",
+    "Switzerland will host the 2027 World Summit on AI in Geneva"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "New Delhi Declaration and Its Seven Pillars",
+   "summary": "The New Delhi Declaration on AI was adopted at the summit and focuses on inclusive, ethical and development-oriented AI. It is endorsed by 87 countries and 2 international organisations and is built around seven pillars supported by voluntary global initiatives. Separately, the New Delhi Frontier AI Impact Commitments form a voluntary framework signed by frontier AI companies and domestic innovators.",
+   "facts": [
+    "Adopted at the India AI Impact Summit 2026; focuses on inclusive, ethical and development-oriented AI",
+    "Endorsed by 87 countries and 2 international organisations (European Union and International Fund for Agricultural Development)",
+    "Built around 7 pillars, each supported by voluntary global initiatives",
+    "Charter for Democratic Diffusion of AI: promotes locally relevant AI ecosystems and Global South participation",
+    "Global AI Impact Commons: platform for sharing successful AI solutions and replicating best practices globally",
+    "Trusted AI Commons: repository of tools, benchmarks, safety standards and best practices",
+    "International Network of AI for Science Institutions: connects research institutions for collaborative scientific innovation",
+    "AI for Social Empowerment Platform: platform for sharing scalable AI solutions for social welfare",
+    "AI Workforce Development Playbook & Reskilling Principles: guidance for governments to prepare workforce for AI transformation",
+    "Guiding Principles on Resilient & Efficient AI: focus on sustainability and energy-efficient AI systems"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "M.A.N.A.V. Roadmap and Previous AI Summits",
+   "summary": "The Prime Minister unveiled the human-centric M.A.N.A.V. Framework for Ethical and Inclusive AI at the summit, with each letter standing for one principle. The booklet also traces earlier global AI summits: the UK's 1st AI Safety Summit and its Bletchley Declaration, the Seoul Summit of 2024 and the 3rd AI Action Summit held in Paris in 2025.",
+   "facts": [
+    "Prime Minister unveiled the human-centric M.A.N.A.V. Framework for Ethical and Inclusive AI at the summit",
+    "M: Moral and Ethical Systems; AI must be fair and transparent, subject to human oversight",
+    "A: Accountable Governance; clear institutional responsibility, transparent regulatory rules, strong oversight",
+    "N: National Sovereignty; securing critical datasets, strengthening domestic compute, indigenous model development",
+    "A: Accessible and Inclusive AI; democratise benefits, bridge the digital divide, reach marginalised populations",
+    "V: Valid and Legitimate Systems; trust, safety and legal compliance, important given deepfakes and misinformation",
+    "UK hosted the 1st AI Safety Summit and adopted the Bletchley Declaration on AI's promises and risks",
+    "Bletchley Declaration emphasises aligning AI with human intent, safeguarding rights, safety, ethics and accountability",
+    "AI Seoul Summit took place in 2024, co-hosted by the Republic of Korea and the UK government",
+    "3rd AI Action Summit was held in 2025 in Paris, France"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Sovereign Models and Domain Platforms",
+   "summary": "India's sovereign AI models include Sarvam's large language models, the Vikram chatbot, Gnani.ai's Vachana speech model and BharatGen's Param2 17B. Bharat GenAI develops foundational models tailored to 22 Indian languages, while BODH, SAHI, VoicERA and BHASHINI cover health and language platforms. The Bio-AI Mulankur Hubs link AI with biotechnology under the BioE3 policy.",
+   "facts": [
+    "Sarvam-30B and Sarvam-105B by Sarvam AI are large language models that generate human-like text",
+    "Sarvam's Vikram is a multilingual chatbot for seamless conversations across Indian languages",
+    "Vachana is a text-to-speech model by Gnani.ai that supports 12 Indian languages",
+    "Param2 17B is a multilingual foundational AI model by BharatGen",
+    "Bharat GenAI: India's first government-supported initiative for sovereign foundational AI models, spearheaded by IIT Bombay",
+    "Bharat GenAI models are tailored to 22 Indian languages and cover text, text-to-speech and vision-language",
+    "BODH: privacy-preserving benchmarking platform for health AI using diverse, real-world health data; positioned under Ayushman Bharat Digital Mission",
+    "SAHI (Strategy for Artificial Intelligence in Healthcare for India): national framework for responsible AI integration in healthcare",
+    "VoicERA: open-source, end-to-end voice AI stack serving as a national execution layer for multilingual voice AI",
+    "BHASHINI (Bhasha Interface for India): AI-powered national language translation and speech platform under Digital India"
+   ]
+  },
+  {
+   "i": 4,
+   "title": "Flagship Initiatives, Funding and Global Bodies",
+   "summary": "India's flagship initiatives include the IndiaAI Mission, which builds AI infrastructure around sovereign GPUs, and programmes for startups, women and youth. The summit highlighted large pledges, including $20 billion for frontier deep-tech research. Global context comes from GPAI, established in 2020, and the G7 Hiroshima AI Process, which sets guardrails for advanced AI systems.",
+   "facts": [
+    "IndiaAI Mission: builds AI infrastructure with 10,000 GPUs initially, backed by a budget of 10,372 crore",
+    "GPU target: initially 10,000, achieved 38,000, with 20,000 new GPUs being added",
+    "IndiaAI Mission 2.0 aims to onboard 38,000 sovereign GPUs and advance the National Compute Portal and strategic compute autonomy",
+    "AIRAWAT: India's largest AI supercomputing system at C-DAC Pune, manufactured by Netweb Technologies",
+    "AIRAWAT stands for AI Research, Analytics and Knowledge Assimilation",
+    "AI for ALL: identifies scalable AI solutions for development challenges, implemented with Startup India",
+    "AI by HER: promotes women-led AI innovation, implemented with NITI Aayog's Women Entrepreneurship Platform",
+    "YUVAi: encourages AI innovation among youth aged 13-21",
+    "$20 billion pledged for frontier deep-tech research",
+    "GPAI (Global Partnership on AI): established 2020, officially proposed by France and Canada; secretariat in Paris (OECD); 2024 summit held in India"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x08-64",
+   "type": "MCQ",
+   "passage": "India hosted a major AI gathering in 2026, and the event was presented as a turning point in how the technology is approached. Earlier global discussions on AI were described as following a Western safety-first model, which placed the management of risk ahead of other concerns. The summit signalled a different direction, an impact-first developmental paradigm in which AI is judged by the outcomes it produces for people. Under this approach, attention is directed to priority cooperation areas such as healthcare and agriculture, where AI can be put to practical use.\n\nThe gathering was planned around a guiding message of collective welfare and was organised around a set of guiding principles that shape how its work is framed. Its discussions were meant to move beyond broad global conversations and towards practical, scalable applications. Several objectives were set for the event, and these were meant to guide its outcomes. Participants were also expected to consider India's role in the field.\n\nBeyond the summit itself, the event was placed within a longer series of international meetings on AI. Earlier summits had addressed the promises and risks of the technology, and their discussions often returned to questions of human intent, safety and accountability. The India gathering was presented as a continuation of that conversation, with a stronger emphasis on development and on the needs of countries in the Global South.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Where was the India AI Impact Summit 2026 held?",
+     "options": [
+      "India Habitat Centre, New Delhi",
+      "Vigyan Bhawan, New Delhi",
+      "Bharat Mandapam, New Delhi",
+      "Pragati Maidan, New Delhi"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which city will host the 2027 World Summit on Artificial Intelligence?",
+     "options": [
+      "Paris",
+      "Geneva",
+      "Seoul",
+      "London"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Assertion (A): The India AI Impact Summit 2026 set out four key objectives.\nReason (R): One of its objectives is to promote responsible and ethical AI, addressing algorithmic bias, privacy protection and accountability.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "How many Chakras (Priority Cooperation Areas) were identified for the summit?",
+     "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Read the following statements about the summit:\nI. The summit was described as the first multilateral AI summit in the Global South.\nII. Its theme was 'Sarvajana Hitaya, Sarvajana Sukhaya'.\nIII. It was the first multilateral AI summit held in Europe.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements about the summit are correct?\nI. The summit set out four key objectives.\nII. One of its objectives addresses algorithmic bias and privacy protection.\nIII. The 'Planet' Sutra stands for Ethical Innovation.\nIV. Switzerland will host the 2027 World Summit on AI in Paris.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which of the summit's objectives involves cooperation between governments, startups, academia and industry?",
+     "options": [
+      "Translating global AI discussions into development outcomes",
+      "Promoting responsible and ethical AI",
+      "Positioning India as a Global AI Hub",
+      "Building partnerships between governments, startups, academia and industry"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-65",
+   "type": "TITA",
+   "passage": "A major artificial intelligence meeting was held in India in 2026, and its organisers presented it as a new chapter for the field. Earlier discussions were described as following a Western safety-first model. The organisers argued for a different starting point, one in which development is central and AI is judged by how far it improves the lives of ordinary citizens. This framing placed the meeting within a longer series of international AI gatherings that had come before it.\n\nThe meeting was built around a short guiding phrase that pointed to the welfare of everyone. A set of guiding principles shaped its agenda, covering inclusive development, ethical innovation and sustainable societal impact. Within this framework, the meeting identified priority areas where cooperation could produce results, including health, farming and education.\n\nThe meeting was also meant to promote the responsible development of AI. Beyond the gathering itself, the organisers hoped to link its outcomes with national programmes for digital growth and with a growing domestic technology base. Its discussions were expected to move from broad global conversations towards practical applications that can be scaled across a large country.\n\nSome participants were expected to focus on how India's own research institutions and companies could contribute to this work, and the wider aim was to strengthen an indigenous ecosystem for the technology.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which city is Bharat Mandapam, the venue of the India AI Impact Summit 2026? (city)"
+    },
+    {
+     "n": 2,
+     "q": "Which city will host the 2027 World Summit on Artificial Intelligence? (city)"
+    },
+    {
+     "n": 3,
+     "q": "What is the name of the first of the three Sutras? (one word)"
+    },
+    {
+     "n": 4,
+     "q": "Under which objective number of the summit are algorithmic bias and privacy protection addressed? (number)"
+    },
+    {
+     "n": 5,
+     "q": "How many Sutras (guiding principles) does the summit have? (number)"
+    },
+    {
+     "n": 6,
+     "q": "What is the name of the paradigm that puts development outcomes ahead of safety? (one or two words)"
+    },
+    {
+     "n": 7,
+     "q": "Which priority area is the sixth of the seven Chakras? (name)"
+    }
+   ]
+  },
+  {
+   "id": "q-x08-66",
+   "type": "MCQ",
+   "passage": "The framework that India presented at its 2026 AI summit was described as human-centric and aimed at ethical and inclusive artificial intelligence. Its principles were arranged so that each letter of the framework's name stands for one idea. The principles were presented together as a single design. The framework reflects concerns that have appeared in earlier international meetings on the subject, where the balance between innovation and safety has been a recurring theme. The framework was unveiled by the Prime Minister during the summit.\n\nEarlier summits form part of the background to this work. A series of such meetings has been held in different countries, and the first of them was focused on risks from advanced systems. Later gatherings followed in other years and places. Taken as a whole, the series of meetings shows how the subject has been discussed over several years.\n\nThe principles in the framework touch on several themes, including the need for systems to be fair and transparent, the importance of clear responsibility in governance, and the value of strengthening domestic capacity. They also address the spread of false content online. Taken together, these ideas show how the framework tries to connect technology with public purpose. These themes are presented as part of a human-centric approach.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which country hosted the 1st AI Safety Summit, where the Bletchley Declaration was adopted?",
+     "options": [
+      "Republic of Korea",
+      "France",
+      "United Kingdom",
+      "Switzerland"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "In which year was the 3rd AI Action Summit held?",
+     "options": [
+      "2023",
+      "2024",
+      "2026",
+      "2025"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Assertion (A): The 'V' principle of the M.A.N.A.V. framework requires AI systems to ensure trust, safety and legal compliance.\nReason (R): Sovereign AI refers to a nation's autonomous capability to develop, control and deploy its own AI technologies.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Which principle of the M.A.N.A.V. framework aims to bridge the digital divide and reach marginalised populations?",
+     "options": [
+      "Moral and Ethical Systems",
+      "National Sovereignty",
+      "Accessible and Inclusive AI",
+      "Accountable Governance"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Read the following statements about the M.A.N.A.V. framework:\nI. The 'M' principle stands for Moral and Ethical Systems, requiring AI to be fair and transparent.\nII. The 'N' principle stands for National Sovereignty and includes securing critical datasets.\nIII. The 'M' principle requires AI to operate without any human oversight.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "How many of the following statements about earlier and current AI summits are correct?\nI. The M.A.N.A.V. framework was unveiled by the Prime Minister at the summit.\nII. The AI Seoul Summit took place in 2024.\nIII. The AI Seoul Summit was hosted solely by France.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Match List I with List II:\nI. Bletchley Declaration   ->   A. Co-hosted by the Republic of Korea and the UK government\nII. AI Seoul Summit   ->   B. Trust, safety and legal compliance\nIII. 3rd AI Action Summit   ->   C. Aligning AI with human intent, safeguarding rights\nIV. 'V' of M.A.N.A.V.   ->   D. Held in Paris, France",
+     "options": [
+      "I-B, II-C, III-A, IV-D",
+      "I-A, II-B, III-D, IV-C",
+      "I-C, II-B, III-D, IV-A",
+      "I-C, II-A, III-D, IV-B"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-67",
+   "type": "TITA",
+   "passage": "India's 2026 summit saw the unveiling of a human-centric framework for ethical and inclusive artificial intelligence. The framework is built on a set of principles, each represented by one letter of its name. Its principles address several concerns, including the design of AI systems, the responsibility of institutions, the role of domestic capacity and data, and the role of trust in an era of misinformation.\n\nThe framework was introduced against a background of earlier international meetings on AI, held in several countries. The series began with a meeting focused on the risks linked to advanced AI systems. Later summits followed in other years and cities, and the subject has remained on the international agenda.\n\nEach principle in the framework is meant to be read alongside the others, and together they form one human-centric approach. The framework therefore links technical design with questions of governance, legitimacy and public trust. Its ideas were presented as part of a wider effort to make AI serve people.\n\nSeveral earlier meetings addressed similar questions from different angles, and the summit's framework was placed within that wider international context. The subject has been discussed in forums across different countries, and the India gathering was one more step in that conversation. Its framework formed part of that wider debate.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which country hosted the 1st AI Safety Summit? (country)"
+    },
+    {
+     "n": 2,
+     "q": "In which city was the 3rd AI Action Summit held? (city)"
+    },
+    {
+     "n": 3,
+     "q": "Which letter of the M.A.N.A.V. framework stands for National Sovereignty? (one letter)"
+    },
+    {
+     "n": 4,
+     "q": "In which year was the AI Seoul Summit held? (year)"
+    },
+    {
+     "n": 5,
+     "q": "What is the name of the principle represented by the second 'A' of M.A.N.A.V.? (name)"
+    },
+    {
+     "n": 6,
+     "q": "What does the 'M' of M.A.N.A.V. stand for? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "Which declaration was adopted at the UK-hosted AI Safety Summit? (name)"
+    }
+   ]
+  },
+  {
+   "id": "q-x08-68",
+   "type": "MCQ",
+   "passage": "India's push for sovereign artificial intelligence has produced a range of models and platforms, some built for general language tasks and others for specific sectors. The idea behind sovereign AI is that a country should be able to develop, control and deploy its own AI technologies. Several domestic firms and research bodies are working on such models, and their work has been presented as part of the national effort.\n\nLanguage is a central concern in this work. Indian languages are numerous, and systems that handle them require careful development. Some of the national efforts focus on translation and speech, so that people can use digital services in their own languages. Others concentrate on text generation, aiming to produce fluent output that reads naturally to users. Such work must also reflect the cultural contexts of different communities.\n\nHealth is another major area. Platforms in this field are intended to test AI systems on real-world data while protecting privacy. Some of them are linked to government health missions that aim to help their use spread across the country.\n\nBiotechnology is also part of the picture. Policies that connect AI with life sciences aim to bring computer models and laboratory work closer together. Such efforts are presented as a way to link research with national priorities.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What does the word 'Mulankur', used in the Bio-AI Mulankur Hubs, mean in Sanskrit?",
+     "options": [
+      "Seed or foundation",
+      "Knowledge or wisdom",
+      "Network or bridge",
+      "Language or voice"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which company developed the Vachana text-to-speech model?",
+     "options": [
+      "Sarvam AI",
+      "BharatGen",
+      "Digital India BHASHINI Division",
+      "Gnani.ai"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Assertion (A): Sarvam-30B and Sarvam-105B are large language models capable of generating human-like text.\nReason (R): Vikram is a multilingual chatbot that enables seamless conversations across Indian languages.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Which institute developed the BODH platform in collaboration with the National Health Authority?",
+     "options": [
+      "C-DAC Pune",
+      "Sarvam AI",
+      "IIT Kanpur",
+      "IIT Madras"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "How many of the following statements about India's platforms are correct?\nI. BHASHINI is an AI-powered national language translation and speech platform.\nII. The Bio-AI Mulankur Hubs aim to have laboratory experiments validate AI predictions in real time.\nIII. Sarvam's Vikram is a text-to-speech model.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Match List I with List II:\nI. BODH   ->   A. Integrates AI with biotechnology under the BioE3 policy\nII. SAHI   ->   B. Open-source, end-to-end voice AI stack\nIII. VoicERA   ->   C. National framework for responsible AI integration in healthcare\nIV. Bio-AI Mulankur Hubs   ->   D. Privacy-preserving benchmarking platform for health AI",
+     "options": [
+      "I-D, II-C, III-B, IV-A",
+      "I-B, II-D, III-A, IV-C",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-A, III-B, IV-C"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about India's sovereign AI models and platforms:\nI. Vachana is a text-to-speech model that supports 12 Indian languages.\nII. Param2 17B is a multilingual foundational AI model developed by Sarvam AI.\nIII. VoicERA was developed by the Digital India BHASHINI Division.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "II and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-69",
+   "type": "TITA",
+   "passage": "Sovereign artificial intelligence refers to a country's ability to develop, control and deploy its own AI technologies, and India has pursued this goal through a number of models and platforms. Some are designed for language, others for sectors such as health and biotechnology. The work is carried out by private companies, research institutions and public bodies, which together form a national effort.\n\nIndian languages present a particular challenge for developers. The country has many languages, and a model that works well in one may perform less well in another. Some platforms therefore concentrate on speech and translation, helping citizens use digital services in their own language. Other efforts focus on generating written text in a fluent and natural form.\n\nIn health, platforms are being built to test AI systems against real-world data while protecting patient privacy. National frameworks also set out how AI may be integrated into healthcare services. Several of these initiatives sit within existing government missions.\n\nBiotechnology forms another part of the picture. Policies that connect AI with the life sciences aim to bring computer models and laboratory work closer together, so that predictions can be checked by experiments. Such efforts are presented as a way to link research with national priorities.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which organisation developed the Param2 17B multilingual foundational AI model? (name)"
+    },
+    {
+     "n": 2,
+     "q": "Under which policy is the Bio-AI Mulankur Hubs initiative placed? (policy acronym)"
+    },
+    {
+     "n": 3,
+     "q": "How many Indian languages does the Vachana text-to-speech model support? (number)"
+    },
+    {
+     "n": 4,
+     "q": "Under which ministry does the Digital India BHASHINI Division operate? (abbreviation)"
+    },
+    {
+     "n": 5,
+     "q": "Which institute developed BODH in collaboration with the National Health Authority? (name)"
+    },
+    {
+     "n": 6,
+     "q": "What is the name of the open-source, end-to-end voice AI stack? (name)"
+    },
+    {
+     "n": 7,
+     "q": "What is the name of Sarvam AI's multilingual chatbot? (name)"
+    }
+   ]
+  }
+ ]
+}
