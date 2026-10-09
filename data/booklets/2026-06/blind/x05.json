@@ -1,0 +1,289 @@
+{
+ "topic": "Draft Rules for VB-G RAM G Act 2025",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Objectives and Rural Infrastructure Linkage",
+   "summary": "VB-G RAM G is framed as a Rural Employment and Livelihood Programme that pairs wage employment with the creation of durable rural assets. Its objectives cover livelihood security, productive employment, rural infrastructure, climate resilience and local planning outcomes. Employment is linked to water conservation, rural connectivity and climate-resilient community assets, and planning is decentralised.",
+   "facts": [
+    "VB-G RAM G stands for Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin).",
+    "The Act is set to replace MGNREGA from July 2026.",
+    "It combines wage employment with creation of durable rural assets and infrastructure.",
+    "Objectives: livelihood security, productive employment, rural infrastructure, climate resilience, local planning outcomes.",
+    "Viksit Bharat National Rural Infrastructure Stack Programme links employment with infrastructure creation.",
+    "Assets created include water conservation assets, rural connectivity infrastructure, livelihood-supporting facilities and climate-resilient community assets.",
+    "Mandatory preparation of Viksit Gram Panchayat Plans.",
+    "Technology integration through the Yuktdhara Portal and integration with PM Gati Shakti."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Employment Guarantee and Season Pause",
+   "summary": "Guaranteed wage employment per rural household rises from 100 days to 125 days a year. Wages must be paid within 15 days of work completion. States may declare a cumulative 60-day no-work period during peak sowing and harvesting seasons to prevent labour shortages in agriculture.",
+   "facts": [
+    "Guaranteed wage employment increased from 100 days to 125 days annually per rural household.",
+    "Mandatory wage payment within 15 days of work completion.",
+    "Agricultural Season Pause: States may declare a cumulative 60-day No-Work Period.",
+    "The No-Work Period applies during peak sowing and harvesting seasons.",
+    "Objective of the pause: prevent labour shortages in agriculture and balance farm labour demand with employment guarantee objectives."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Normative Allocation and Cost-Sharing",
+   "summary": "The Draft Rules replace MGNREGA's open-ended, demand-driven financing with a normative allocation formula based on devolution criteria recommended by the 16th Finance Commission. The formula weights GSDP distance at 42.5% and population at 17.5%, with other criteria at 10% each. Cost sharing is revised, with the Centre bearing 60% for general States and 90% for Northeastern and Himalayan States.",
+   "facts": [
+    "Shift from MGNREGA's open-ended, demand-driven financing to a Normative Allocation Model.",
+    "Central allocations follow a Normative Allocation Formula based on devolution criteria recommended by the 16th Finance Commission.",
+    "The normative model promotes predictability in resource allocation.",
+    "GSDP distance carries 42.5% weightage and measures the gap between a State's per capita income and that of the wealthiest States.",
+    "Population carries 17.5% weightage and benefits States with larger populations and greater employment demand.",
+    "Other criteria carry 10% weightage each.",
+    "General States: Centre 60%, State 40%. Northeastern and Himalayan States: Centre 90%, State 10%.",
+    "Expenditure beyond the approved normative allocation must be fully financed by the concerned State Government.",
+    "Performance-linked funding begins from the 2nd year, based on timely wage payments, social audit compliance, public works completion rate and implementation efficiency."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Governance and Transition",
+   "summary": "A 16-member National Level Steering Committee, chaired by the Union Rural Development Secretary, recommends State-wise allocations and monitors implementation. The Central Gramin Rozgar Guarantee Council, chaired by the Union Minister for Rural Development, advises the Centre on policy. e-KYC verified MGNREGA Job Cards remain valid during the transition period.",
+   "facts": [
+    "National Level Steering Committee has 16 members.",
+    "The Steering Committee is chaired by the Union Rural Development Secretary.",
+    "Members include State Government representatives, NITI Aayog officials and representatives of relevant Union Ministries.",
+    "Steering Committee functions: recommend State-wise allocations, formulate operational standards, monitor implementation and compliance.",
+    "Central Gramin Rozgar Guarantee Council is chaired by the Union Minister for Rural Development.",
+    "The Council advises the Centre on policy implementation, reviews programme performance and facilitates coordination.",
+    "e-KYC verified MGNREGA Job Cards remain valid during the transition period.",
+    "Workers subsequently receive Gramin Rozgar Guarantee Cards under the new framework."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x05-40",
+   "type": "MCQ",
+   "passage": "The Union Government has released Draft Rules under the VB-G RAM G Act. VB-G RAM G is described as a Rural Employment and Livelihood Programme, and the Draft Rules explain how it will operate in practice, including how central funds are allocated and how costs are shared between the Centre and the States.\n\nThe Draft Rules move away from an open-ended, demand-driven financing model. Under the new approach, central allocations are determined through a Normative Allocation Formula based on devolution criteria recommended by a Finance Commission. The stated aim is predictability in resource allocation and alignment with the principles of fiscal federalism.\n\nPoorer States are to receive a larger share of funds under the formula. Population is also taken into account because it reflects employment demand, and other socio-economic and governance indicators contribute as well.\n\nCost sharing is revised to encourage fiscal responsibility. Any expenditure beyond the approved normative allocation must be financed fully by the concerned State Government. The Draft Rules also set out the cost sharing for General States and for Northeastern and Himalayan States. A part of central assistance is linked to performance, judged on parameters such as timely wage payments and compliance with social audit requirements.\n\nPlanning under the programme is decentralised and technology-based.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What does the acronym VB-G RAM G stand for?",
+     "options": [
+      "Viksit Bharat — Gramin Rozgar Ajeevika Mission — Guarantee",
+      "Viksit Bharat — Guarantee for Rural Assets and Modernisation — Gramin",
+      "Viksit Bharat — Gramin Rural Ajeevika Mission — Guarantee",
+      "Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin)"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which programme under VB-G RAM G links employment generation with the creation of rural infrastructure?",
+     "options": [
+      "PM Gati Shakti Rural Mission",
+      "Gramin Ajeevika Connectivity Programme",
+      "Viksit Bharat National Rural Infrastructure Stack Programme",
+      "Yuktdhara Infrastructure Stack"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which plan is made mandatory under the Act's decentralised planning?",
+     "options": [
+      "Viksit Gram Panchayat Plans",
+      "State Infrastructure Master Plans",
+      "District Employment Action Plans",
+      "National Rural Connectivity Plans"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Read the assertion and the reason.\nAssertion (A): VB-G RAM G combines wage employment with the creation of durable rural assets.\nReason (R): The Act's objectives include local planning outcomes.\nSelect the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about VB-G RAM G:\nI. The Act is set to replace MGNREGA from July 2026.\nII. Preparation of Viksit Gram Panchayat Plans is mandatory.\nIII. The Act does not include rural infrastructure among its objectives.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about VB-G RAM G:\nI. Livelihood-supporting facilities are among the assets the infrastructure linkage covers.\nII. Climate resilience is among the stated objectives of the Act.\nIII. The Act is set to replace the National Food Security Act.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which of the following is NOT stated as an objective of VB-G RAM G?",
+     "options": [
+      "Generate productive employment",
+      "Strengthen rural infrastructure",
+      "Improve climate resilience",
+      "Promote urban metro expansion"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x05-41",
+   "type": "TITA",
+   "passage": "The Union Government has released Draft Rules under the VB-G RAM G Act. The Act is described as a Rural Employment and Livelihood Programme and is set to replace MGNREGA. The Draft Rules explain how the programme will operate in practice, including how central funds are allocated and how costs are shared between the Centre and the States.\n\nThe planning approach under the programme is decentralised and technology-based. Central allocations are determined through a Normative Allocation Formula based on devolution criteria recommended by a Finance Commission. The stated aim of this shift is predictability in resource allocation and alignment with the principles of fiscal federalism.\n\nPoorer States are to receive a larger share of funds under the formula. Population is taken into account because it reflects employment demand, and other socio-economic and governance indicators also contribute.\n\nFunding is partly linked to performance from the second year onward. The parameters include timely wage payments, compliance with social audit requirements, completion rate of public works and overall implementation efficiency. The Draft Rules state that this is meant to improve accountability and reward efficient States.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "From which month and year is the Act set to replace MGNREGA?"
+    },
+    {
+     "n": 2,
+     "q": "Which national programme is the Act's technology integration linked with?"
+    },
+    {
+     "n": 3,
+     "q": "Which plan does the Act make mandatory for decentralised planning?"
+    },
+    {
+     "n": 4,
+     "q": "In which year was the VB-G RAM G Act enacted? (Give four digits.)"
+    },
+    {
+     "n": 5,
+     "q": "What does the Act combine wage employment with? (Two words.)"
+    },
+    {
+     "n": 6,
+     "q": "Which type of asset does the infrastructure linkage cover for water? (Two words.)"
+    },
+    {
+     "n": 7,
+     "q": "Which objective concerns preparing for climate change? (Two words.)"
+    }
+   ]
+  },
+  {
+   "id": "q-x05-42",
+   "type": "MCQ",
+   "passage": "The Union Government has released Draft Rules under the VB-G RAM G Act. The programme is a Rural Employment and Livelihood Programme, and the Act is set to replace MGNREGA from July 2026. The Draft Rules therefore also address the move from the older scheme to the new framework.\n\nThe Draft Rules move away from an open-ended, demand-driven financing model towards a Normative Allocation Model. Central allocations are based on devolution criteria recommended by a Finance Commission, which is intended to make resource allocation predictable.\n\nPerformance is part of the funding design. A portion of central assistance depends on State performance from the second year onward, judged on timely wage payments, compliance with social audit requirements, completion rate of public works and overall implementation efficiency.\n\nCost sharing is also revised, with separate shares for General States and for Northeastern and Himalayan States. Any expenditure beyond the approved normative allocation must be financed fully by the concerned State Government.\n\nThe Act also provides for national-level bodies to oversee the programme, and the Draft Rules set out how MGNREGA job cards are handled in the transition.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many members does the National Level Steering Committee have?",
+     "options": [
+      "12",
+      "16",
+      "10",
+      "20"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which of the following is NOT a listed category of members of the National Level Steering Committee?",
+     "options": [
+      "Representatives from State Governments",
+      "Officials from NITI Aayog",
+      "Representatives of relevant Union Ministries",
+      "Members of the Rajya Sabha"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Read the assertion and the reason.\nAssertion (A): Workers are to receive Gramin Rozgar Guarantee Cards under the new framework.\nReason (R): Officials from NITI Aayog are members of the National Level Steering Committee.\nSelect the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. National Level Steering Committee   ->   A. Advises the Centre on policy implementation\nII. Central Gramin Rozgar Guarantee Council   ->   B. Remain valid during the transition period\nIII. e-KYC verified MGNREGA Job Cards   ->   C. Issued to workers subsequently\nIV. Gramin Rozgar Guarantee Cards   ->   D. Recommends State-wise allocations",
+     "options": [
+      "I-B, II-D, III-A, IV-C",
+      "I-A, II-D, III-B, IV-C",
+      "I-D, II-A, III-B, IV-C",
+      "I-C, II-B, III-A, IV-D"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about the national-level bodies under VB-G RAM G:\nI. The Steering Committee monitors implementation and compliance.\nII. The Council reviews programme performance.\nIII. e-KYC verified MGNREGA Job Cards are cancelled at the start of the transition period.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the national-level bodies under VB-G RAM G:\nI. The Council is chaired by the Union Rural Development Secretary.\nII. The Steering Committee includes officials from NITI Aayog.\nIII. The Council advises the Centre on policy implementation.\nHow many of the above statements are correct?",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which minister chairs the Central Gramin Rozgar Guarantee Council?",
+     "options": [
+      "Union Rural Development Secretary",
+      "Cabinet Secretary",
+      "Union Minister for Rural Development",
+      "Chairman, NITI Aayog"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x05-43",
+   "type": "TITA",
+   "passage": "The Union Government has released Draft Rules under the VB-G RAM G Act, which is set to replace MGNREGA from July 2026. The programme is a Rural Employment and Livelihood Programme, and the Draft Rules describe how it will be run.\n\nThe Draft Rules move away from an open-ended, demand-driven financing model towards a Normative Allocation Model. Central allocations are based on devolution criteria recommended by a Finance Commission, which is meant to make resource allocation predictable.\n\nPerformance is part of the funding design. A portion of central assistance depends on State performance from the second year, judged on timely wage payments, compliance with social audit requirements, completion rate of public works and overall implementation efficiency.\n\nCost sharing is also revised, with separate shares for General States and for Northeastern and Himalayan States. Any expenditure beyond the approved normative allocation must be financed fully by the concerned State Government.\n\nThe Act also provides for national-level oversight of the programme. The Draft Rules set out how MGNREGA job cards are handled during the transition period.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many members does the National Level Steering Committee have?"
+    },
+    {
+     "n": 2,
+     "q": "Which minister chairs the Central Gramin Rozgar Guarantee Council? (Give the designation.)"
+    },
+    {
+     "n": 3,
+     "q": "What type of verification must MGNREGA job cards have to remain valid during the transition period?"
+    },
+    {
+     "n": 4,
+     "q": "What card will workers subsequently receive under the new framework? (Give the full name.)"
+    },
+    {
+     "n": 5,
+     "q": "Officials from which body are members of the National Level Steering Committee?"
+    },
+    {
+     "n": 6,
+     "q": "Which body advises the Centre on policy implementation? (Give the full name.)"
+    },
+    {
+     "n": 7,
+     "q": "Which committee recommends State-wise allocations?"
+    }
+   ]
+  }
+ ]
+}

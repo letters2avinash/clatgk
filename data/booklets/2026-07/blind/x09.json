@@ -1,0 +1,295 @@
+{
+ "topic": "RBI Plans Trial of Polymer (Plastic) Currency Notes",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Polymer Banknotes: Concept and Proposal",
+   "summary": "Polymer banknotes are printed on a specialised plastic substrate, primarily BOPP, instead of cotton-based banknote paper. RBI has revived a proposal for such notes that was first made in 2009, and BRBNMPL invited global bids for the polymer substrate. Australia was the first country to introduce a complete series of polymer banknotes, in 1988.",
+   "facts": [
+    "Polymer banknotes use a specialised plastic substrate, primarily BOPP.",
+    "BOPP stands for Biaxially Oriented Polypropylene.",
+    "Polymer notes replace conventional cotton-based banknote paper.",
+    "Australia was the first country to introduce a complete series of polymer banknotes, in 1988.",
+    "The initial proposal for polymer notes in India dates to 2009.",
+    "RBI revived the proposal to introduce durable polymer-based banknotes.",
+    "RBI invited bids to procure polymer notes in the current initiative.",
+    "BRBNMPL, RBI's note-printing subsidiary, invited global bids for a BOPP-based polymer substrate.",
+    "BRBNMPL was established in 1995 in Bengaluru."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Advantages of Polymer Notes",
+   "summary": "Polymer notes are more resistant to tearing, less vulnerable to water and moisture, and more durable under frequent circulation. They can carry advanced anti-counterfeiting features that are much harder to replicate than on paper. Because individual notes last longer, fewer new notes need to be manufactured to keep supply steady.",
+   "facts": [
+    "More resistant to tearing.",
+    "Less vulnerable to water and moisture.",
+    "More durable under frequent circulation.",
+    "Capable of incorporating advanced anti-counterfeiting features.",
+    "Polymer notes remain usable for significantly longer periods.",
+    "Longer life means less frequent replacement cycles.",
+    "Fewer new notes need to be manufactured and issued to keep supply steady.",
+    "Polymer substrates allow security features that are much harder to replicate than on paper.",
+    "Less frequent replacement lowers the long-term environmental footprint."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Costs, Supply Chain and Environmental Challenges",
+   "summary": "Polymer notes cost significantly more to produce than paper currency, and their production cost is tied to global oil prices. The notes are made from polypropylene, and reliance on imported polypropylene creates import dependency. Plastic waste needs a specialised collection and recycling system, and the transition requires changes to ATMs, vending machines and cash-handling machines.",
+   "facts": [
+    "Polymer notes cost significantly more to produce than conventional paper currency.",
+    "Production cost is tied to global oil prices.",
+    "Polymer notes are made from polypropylene.",
+    "Reliance on imported polypropylene creates import dependency.",
+    "Unlike cotton-based paper, polymer notes raise concerns about plastic waste.",
+    "Plastic waste needs an effective specialised collection and recycling system.",
+    "Transition requires recalibration of ATMs, currency vending machines and automated cash-handling machines.",
+    "Changing to polymer notes creates substantial secondary expenses for banking and retail infrastructure."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Currency Management and Printing in India",
+   "summary": "Currency and coinage fall under the Union List, and the Reserve Bank of India Act, 1934 provides the principal legal framework for issuing banknotes. RBI issues notes, estimates currency requirements and ensures circulation of good-quality notes. SPMCIL and BRBNMPL together operate four presses that print all banknotes in India.",
+   "facts": [
+    "Currency, coinage, legal tender and foreign exchange fall within the Union List.",
+    "Reserve Bank of India Act, 1934 is the principal legal framework for issuing banknotes.",
+    "Coinage Act, 2011 deals with the design, production and minting, and circulation of coins.",
+    "RBI roles include issuing banknotes and estimating the country's currency requirements.",
+    "Four currency printing presses print all banknotes of India.",
+    "SPMCIL is a Government of India enterprise operating 2 presses, including one at Nashik, Maharashtra.",
+    "BRBNMPL is a wholly owned RBI subsidiary operating 2 presses, at Mysuru (Karnataka) and Salboni (West Bengal).",
+    "Bank Note Paper Mill India Pvt. Ltd. manufactures banknote paper domestically.",
+    "RBI introduced the Clean Note Policy in 1999.",
+    "Government designs and mints coins, and RBI distributes them through its currency management network."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x09-66",
+   "type": "MCQ",
+   "passage": "The Reserve Bank of India has revived a proposal to introduce polymer-based banknotes in India. Polymer currency notes are manufactured using a specialised plastic substrate, primarily Biaxially Oriented Polypropylene, instead of conventional cotton-based banknote paper. The idea is not new, as an initial proposal was made in 2009. Bharatiya Reserve Bank Note Mudran Private Limited, a wholly owned subsidiary of the RBI, has invited global bids for a BOPP-based polymer substrate to manufacture polymer banknotes. Banknotes in India are printed at four currency printing presses, and together they print all the banknotes of India in different denominations. Under the Reserve Bank of India Act, 1934, the RBI issues banknotes, estimates the country's currency requirements and maintains an adequate supply of banknotes. The Government of India, on the other hand, approves the design and material of banknotes based on recommendations of the RBI's Central Board. Coins are minted under the Coinage Act, 2011, and are then supplied to the RBI, which distributes them to banks and the public. The RBI has also introduced a Clean Note Policy so that the public receives currency notes and coins of acceptable quality. Currency, coinage, legal tender and foreign exchange fall within the legislative domain of the Union Government under the Union List.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Polymer banknotes are described as more resistant to which of the following?",
+     "options": [
+      "Printing errors",
+      "Tearing",
+      "Ink fading",
+      "Electrostatic charge"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Polymer substrates allow the integration of which kind of feature that is much harder for counterfeiters to replicate?",
+     "options": [
+      "Sophisticated security features",
+      "Colour-changing ink only",
+      "Hand-painted designs",
+      "Embossed signatures"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Because individual polymer notes last longer, what happens to the number of new notes that must be made?",
+     "options": [
+      "More new notes must be printed each year",
+      "New notes must be imported from abroad",
+      "Fewer new notes need to be manufactured and issued",
+      "Printing presses must be shut down"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Polymer banknotes need less frequent replacement cycles.\nReason (R): Polymer banknotes remain usable for significantly longer periods.",
+     "options": [
+      "A is false but R is true",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true and R is the correct explanation of A"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Sophisticated features integrated into the substrate   ->   A. More resistant to tearing\nII. Longer usable life of each note   ->   B. Less vulnerable to water and moisture\nIII. Exposure to humidity   ->   C. Much harder to replicate than on paper\nIV. Stress of being pulled apart   ->   D. Fewer new notes need to be manufactured",
+     "options": [
+      "I-A, II-D, III-B, IV-C",
+      "I-C, II-D, III-B, IV-A",
+      "I-D, II-B, III-C, IV-A",
+      "I-A, II-C, III-B, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about polymer banknotes:\nI. They are more resistant to tearing.\nII. They are made from cotton-based banknote paper.\nIII. They remain usable for significantly longer periods.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about polymer banknotes:\nStatement 1: They are less vulnerable to water and moisture.\nStatement 2: They are made from cotton-based banknote paper.\nStatement 3: They can incorporate advanced anti-counterfeiting features.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "All of the above",
+      "Only two",
+      "Only three"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-67",
+   "type": "TITA",
+   "passage": "The Reserve Bank of India has revived a proposal to introduce polymer-based banknotes in India. Polymer currency notes are manufactured using a specialised plastic substrate, primarily Biaxially Oriented Polypropylene, instead of conventional cotton-based banknote paper. The idea is not new, as an initial proposal was made in 2009. Bharatiya Reserve Bank Note Mudran Private Limited, a wholly owned subsidiary of the RBI, has invited global bids for a BOPP-based polymer substrate to manufacture polymer banknotes. Banknotes in India are printed at four currency printing presses, and together they print all the banknotes of India in different denominations. Under the Reserve Bank of India Act, 1934, the RBI issues banknotes, estimates the country's currency requirements and maintains an adequate supply of banknotes. The Government of India, on the other hand, approves the design and material of banknotes based on recommendations of the RBI's Central Board. Coins are minted under the Coinage Act, 2011, and are then supplied to the RBI, which distributes them to banks and the public. The RBI has also introduced a Clean Note Policy so that the public receives currency notes and coins of acceptable quality. Currency, coinage, legal tender and foreign exchange fall within the legislative domain of the Union Government under the Union List.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Polymer banknotes are less vulnerable to what, in one word?"
+    },
+    {
+     "n": 2,
+     "q": "Polymer banknotes are more resistant to what kind of action, in one word?"
+    },
+    {
+     "n": 3,
+     "q": "Because individual polymer notes last longer, fewer what need to be manufactured to keep supply steady? (two words)"
+    },
+    {
+     "n": 4,
+     "q": "Polymer notes last longer, so replacement cycles are needed less what? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "Polymer banknotes are more durable under what kind of usage? (two words)"
+    },
+    {
+     "n": 6,
+     "q": "Less frequent replacement of polymer notes lowers which kind of environmental footprint over time? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "Polymer substrates allow the integration of what kind of features? (two words)"
+    }
+   ]
+  },
+  {
+   "id": "q-x09-68",
+   "type": "MCQ",
+   "passage": "The Reserve Bank of India has revived a proposal to introduce polymer-based banknotes in India, after an initial proposal was made in 2009. Polymer currency notes are made from a substrate instead of the paper used for conventional banknotes. Bharatiya Reserve Bank Note Mudran Private Limited, a wholly owned subsidiary of the RBI, has invited global bids for a substrate to manufacture polymer banknotes. The Security Printing and Minting Corporation of India Limited will print polymer notes. The Government of India approves the design and material of banknotes based on recommendations of the RBI's Central Board. The RBI issues banknotes, estimates the country's currency requirements and maintains an adequate supply of banknotes. Banknotes in India are printed at four currency printing presses. Coins are minted at four government-owned mints located in Mumbai, Hyderabad, Kolkata and Noida, under the Coinage Act, 2011. Currency, coinage, legal tender and foreign exchange fall within the legislative domain of the Union Government under the Union List. The RBI introduced a Clean Note Policy so that the public receives currency notes and coins of acceptable quality. The Reserve Bank of India Act, 1934 provides the principal legal framework for issuing banknotes and managing currency. Coins are supplied to the RBI after minting, and the RBI distributes them through its currency management network to banks and the public.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The production cost of polymer notes is tied to which global factor?",
+     "options": [
+      "Global wheat prices",
+      "Global gold prices",
+      "Global steel prices",
+      "Global oil prices"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Unlike cotton-based paper, polymer notes raise concerns about which issue?",
+     "options": [
+      "Water pollution from printing",
+      "Plastic waste management",
+      "Paper shortage",
+      "Ink toxicity"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "The transition to polymer notes requires recalibration of which machines?",
+     "options": [
+      "Printing presses only",
+      "Aircraft and ships",
+      "ATMs, currency vending machines and automated cash-handling machines",
+      "Coin minting machines"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Polymer notes raise concerns about plastic waste.\nReason (R): Plastic waste needs an effective specialised collection and recycling system.",
+     "options": [
+      "Both A and R are true but R is not the correct explanation of A",
+      "Both A and R are true and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Material from which polymer notes are made   ->   A. Substantial secondary expenses\nII. Foreign sourcing of that material   ->   B. Specialised collection and recycling system\nIII. Handling plastic waste from notes   ->   C. Import dependency\nIV. Effect on banking and retail infrastructure   ->   D. Polypropylene",
+     "options": [
+      "I-D, II-C, III-B, IV-A",
+      "I-D, II-B, III-C, IV-A",
+      "I-C, II-A, III-D, IV-B",
+      "I-A, II-B, III-D, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about polymer banknotes:\nI. Their production cost is tied to global oil prices.\nII. They are made from cotton-based banknote paper.\nIII. Their transition requires changes to ATMs and vending machines.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about polymer banknotes:\nStatement 1: Polymer notes cost significantly more to produce than conventional paper currency.\nStatement 2: They are made from cotton-based banknote paper.\nStatement 3: Their transition requires changes to automated cash-handling machines.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only three",
+      "All of the above",
+      "Only two"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x09-69",
+   "type": "TITA",
+   "passage": "The Reserve Bank of India has revived a proposal to introduce polymer-based banknotes in India, after an initial proposal was made in 2009. Polymer currency notes are made from a substrate instead of the paper used for conventional banknotes. Bharatiya Reserve Bank Note Mudran Private Limited, a wholly owned subsidiary of the RBI, has invited global bids for a substrate to manufacture polymer banknotes. The Security Printing and Minting Corporation of India Limited will print polymer notes. The Government of India approves the design and material of banknotes based on recommendations of the RBI's Central Board. The RBI issues banknotes, estimates the country's currency requirements and maintains an adequate supply of banknotes. Banknotes in India are printed at four currency printing presses. Coins are minted at four government-owned mints located in Mumbai, Hyderabad, Kolkata and Noida, under the Coinage Act, 2011. Currency, coinage, legal tender and foreign exchange fall within the legislative domain of the Union Government under the Union List. The RBI introduced a Clean Note Policy so that the public receives currency notes and coins of acceptable quality. The Reserve Bank of India Act, 1934 provides the principal legal framework for issuing banknotes and managing currency. Coins are supplied to the RBI after minting, and the RBI distributes them through its currency management network to banks and the public.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Polymer notes' production cost is tied to global what, in one word?"
+    },
+    {
+     "n": 2,
+     "q": "Polymer notes are made from which polymer, in one word?"
+    },
+    {
+     "n": 3,
+     "q": "Unlike cotton-based paper, polymer notes raise concerns about what kind of waste? (one word)"
+    },
+    {
+     "n": 4,
+     "q": "Plastic waste from polymer notes needs an effective what kind of collection and recycling system? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "Apart from ATMs and currency vending machines, which automated machines need recalibration for polymer notes? (two words)"
+    },
+    {
+     "n": 6,
+     "q": "What kind of costs do changes to banking and retail infrastructure create for polymer notes? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "Polymer notes cost significantly more to produce than conventional what? (two words)"
+    }
+   ]
+  }
+ ]
+}

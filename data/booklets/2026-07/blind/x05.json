@@ -1,0 +1,291 @@
+{
+ "topic": "Delhi Electric Vehicle Policy 2.0",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Policy Overview and Targets",
+   "summary": "Delhi EV Policy 2.0 was notified by the Government of NCT of Delhi and is scheduled to come into force from 1 July 2026, remaining effective until 31 March 2030. It builds upon the achievements of Delhi EV Policy 2020 and aims to turn Delhi into a leading electric mobility hub. The policy targets at least 30% electrification of Delhi's total vehicle fleet by 31 March 2030, with a focus on high-usage and high-emission transport segments.",
+   "facts": [
+    "Notified by the Government of NCT of Delhi",
+    "In force from 1 July 2026",
+    "Effective until 31 March 2030",
+    "Builds upon the achievements of Delhi EV Policy 2020",
+    "Electrification target: at least 30% of Delhi's total vehicle fleet by 31 March 2030",
+    "Focus: electrification of high-usage and high-emission transport segments",
+    "Priority segments: 2-wheelers, 3-wheelers, commercial goods carriers, school buses, app-based aggregator fleets, government-owned transport fleets",
+    "Objective: widespread adoption of zero-emission vehicles",
+    "Objective: reduce urban air pollution and greenhouse gas emissions"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Registration Rules and Phase-out",
+   "summary": "New registrations in Delhi move to electric models in stages. From 1 January 2027 only electric 3-wheelers and electric N1 category light commercial trucks can be newly registered, and from 1 April 2028 new 2-wheeler registrations are restricted to electric models. Existing petrol and diesel vehicles may keep operating until the end of their prescribed service life. Schools must also electrify part of their bus fleets.",
+   "facts": [
+    "From 1 January 2027: only electric 3-wheelers and electric N1 category light commercial trucks newly registered",
+    "From 1 April 2028: registration of new 2-wheelers restricted exclusively to electric models",
+    "Existing petrol and diesel vehicles registered in Delhi may operate until the end of their prescribed service life",
+    "N1 category refers to light commercial trucks",
+    "Schools must convert at least 10% of their bus fleet into electric buses within 2 years of policy implementation",
+    "Long-term objective: 30% electrification of school bus fleets by 2030"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Investment, Support and Charging",
+   "summary": "The policy plans total investment of approximately 15,000 crore. Government support is restricted exclusively to battery electric vehicles and not to hybrid vehicles. The plan includes installing over 30,000 public charging stations across Delhi. Financial support and investment is handled by the Delhi Transport Department, and infrastructure development by Delhi Transco Limited.",
+   "facts": [
+    "Total planned investment: approximately 15,000 crore",
+    "Government support restricted exclusively to battery electric vehicles, not hybrid vehicles",
+    "Over 30,000 public charging stations planned across Delhi",
+    "Financial support and investment implemented by Delhi Transport Department",
+    "Infrastructure development implemented by Delhi Transco Limited",
+    "Key objective: strengthen charging and battery-swapping infrastructure",
+    "Key objective: encourage sustainable public and commercial transport"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "National Schemes: NEMMP, FAME and PM E-DRIVE",
+   "summary": "Delhi's policy sits within national electric mobility efforts. The National Electric Mobility Mission Plan was launched in 2013, and the government committed to achieve 30% e-mobility by 2030. FAME India, launched by the Ministry of Heavy Industries & Public Enterprises, is part of that mission plan and offers subsidies for several vehicle types. PM E-DRIVE, launched in 2024 with the Ministry of Heavy Industries as nodal ministry, builds on FAME-II and the Electric Mobility Promotion Scheme 2024.",
+   "facts": [
+    "National Electric Mobility Mission Plan launched in 2013",
+    "Government committed to achieve 30% e-mobility by 2030",
+    "FAME India launched by Ministry of Heavy Industries & Public Enterprises",
+    "FAME India is a part of the National Electric Mobility Mission Plan",
+    "FAME subsidy can be claimed for two-wheelers, three-wheelers, electric and hybrid cars and electric buses",
+    "PM E-DRIVE launched in 2024; scheme period 2024-2026",
+    "PM E-DRIVE nodal ministry: Ministry of Heavy Industries",
+    "PM E-DRIVE objectives: reduce upfront EV cost and expedite EV adoption",
+    "PM E-DRIVE objectives: establish public EV charging and promote EV manufacturing ecosystem",
+    "PM E-DRIVE builds on FAME-II and Electric Mobility Promotion Scheme 2024"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x05-50",
+   "type": "MCQ",
+   "passage": "The Government of the National Capital Territory of Delhi has notified the Delhi Electric Vehicle Policy 2.0. The policy is scheduled to come into force from 1 July 2026 and to remain effective until 31 March 2030. It builds upon the achievements of the Delhi EV Policy 2020 and provides a comprehensive roadmap for transforming Delhi into a leading electric mobility hub. A central focus is reducing vehicular emissions by encouraging the electrification of high-usage and high-emission transport segments. The policy names several priority vehicle segments, including two-wheelers, three-wheelers, school buses, app-based aggregator fleets and government-owned transport fleets. The booklet presents the policy's major provisions under a dedicated heading, and these include timelines for vehicle registration. The booklet also outlines the expected benefits of electric vehicles. These include a likely fall in demand for petrol and diesel, the creation of new jobs in the automobile sector, and a reduction in pollution-induced health problems. The policy's provisions cover financial support and investment as well as infrastructure development, and each area is assigned to a separate implementing body.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Government financial support under Delhi EV Policy 2.0 is restricted to which category of vehicles?",
+     "options": [
+      "Hybrid vehicles only",
+      "Battery electric vehicles only, not hybrid vehicles",
+      "Compressed natural gas vehicles",
+      "Both battery electric and hybrid vehicles"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "How many public charging stations are planned to be installed across Delhi under the policy?",
+     "options": [
+      "Over 10,000",
+      "Over 20,000",
+      "Over 30,000",
+      "Over 50,000"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which of the following is listed as a key objective of Delhi EV Policy 2.0?",
+     "options": [
+      "Strengthening charging and battery-swapping infrastructure",
+      "Phasing out all public transport within 5 years",
+      "Promoting hydrogen fuel cell vehicles",
+      "Restricting private vehicle ownership in Delhi"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Hybrid vehicles are eligible for government financial support under Delhi EV Policy 2.0.\nReason (R): Government support under the policy is restricted exclusively to battery electric vehicles.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Which key objective of Delhi EV Policy 2.0 concerns public and commercial transport?",
+     "options": [
+      "Promoting hydrogen fuel cell vehicles",
+      "Encouraging sustainable public and commercial transport",
+      "Restricting private vehicle ownership in Delhi",
+      "Phasing out all public transport within 5 years"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about Delhi EV Policy 2.0:\nI. The policy plans installation of over 30,000 public charging stations across Delhi.\nII. Reducing urban air pollution and greenhouse gas emissions is listed as a key objective.\nIII. Hybrid vehicles are eligible for government financial support.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements about the key objectives of Delhi EV Policy 2.0:\nPromoting widespread adoption of zero-emission vehicles.\nPromoting hydrogen fuel cell vehicles.\nSupporting India's clean energy and climate commitments.\nReducing urban air pollution and greenhouse gas emissions.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All of the above",
+      "Only three"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x05-51",
+   "type": "TITA",
+   "passage": "The Government of the National Capital Territory of Delhi has notified the Delhi Electric Vehicle Policy 2.0. The policy is scheduled to come into force from 1 July 2026 and to remain effective until 31 March 2030. It builds upon the achievements of the Delhi EV Policy 2020 and provides a comprehensive roadmap for transforming Delhi into a leading electric mobility hub. A central focus is reducing vehicular emissions by encouraging the electrification of high-usage and high-emission transport segments. The policy names several priority vehicle segments, including two-wheelers, three-wheelers, school buses, app-based aggregator fleets and government-owned transport fleets. The booklet presents the policy's major provisions under a dedicated heading, and these include timelines for vehicle registration. The booklet also outlines the expected benefits of electric vehicles. These include a likely fall in demand for petrol and diesel, the creation of new jobs in the automobile sector, and a reduction in pollution-induced health problems. The policy's provisions cover financial support and investment as well as infrastructure development, and each area is assigned to a separate implementing body.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many public charging stations are planned across Delhi under the policy? (give the number)"
+    },
+    {
+     "n": 2,
+     "q": "Government financial support under the policy is restricted exclusively to which type of vehicle? (two words)"
+    },
+    {
+     "n": 3,
+     "q": "One key objective of the policy is promoting widespread adoption of which type of vehicles? (two words)"
+    },
+    {
+     "n": 4,
+     "q": "A key objective aims to strengthen charging and which other kind of infrastructure? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "Along with reducing urban air pollution, which other kind of emissions does a key objective aim to reduce? (two words)"
+    },
+    {
+     "n": 6,
+     "q": "A key objective aims to encourage sustainable public and which other kind of transport? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "The policy's key objectives include supporting India's clean energy and climate ___. (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x05-52",
+   "type": "MCQ",
+   "passage": "The booklet describes a set of national schemes that support electric vehicles, alongside its coverage of Delhi's own electric vehicle policy. Among these schemes is a broader national mission plan. FAME India is one of the schemes. Its purpose is to give a boost to the development of electric vehicles, and it works through three approaches: establishing charging stations, incentivising buyers and publicising the benefits of electric vehicles. The booklet lists the expected benefits of this push as a fall in the demand for petrol and diesel, the creation of new jobs in the automobile sector, and a reduction in pollution-induced health problems. PM E-DRIVE is the most recent of the schemes described. Its support covers electric buses, e-trucks, e-ambulances and other new emerging EV categories, and it is described as building on earlier efforts. Its objectives and nodal ministry are listed in a separate section of the booklet. Separately, the booklet notes that Delhi EV Policy 2.0 builds upon the achievements of Delhi EV Policy 2020 and is set to remain effective until 31 March 2030. The policy also describes electrification of high-usage and high-emission transport segments as a way to reduce vehicular emissions.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the National Electric Mobility Mission Plan launched?",
+     "options": [
+      "2008",
+      "2011",
+      "2013",
+      "2016"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which ministry launched FAME India?",
+     "options": [
+      "Ministry of Heavy Industries & Public Enterprises",
+      "Ministry of Road Transport and Highways",
+      "Ministry of Power",
+      "Ministry of New and Renewable Energy"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "For which period is the PM E-DRIVE scheme set to run?",
+     "options": [
+      "2022-2024",
+      "2024-2026",
+      "2026-2030",
+      "2025-2028"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): FAME India is a part of the National Electric Mobility Mission Plan.\nReason (R): Subsidies under FAME can be claimed for electric buses.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements about national electric mobility schemes:\nI. PM E-DRIVE builds on FAME-II and the Electric Mobility Promotion Scheme 2024.\nII. FAME stands for Faster Adoption and Manufacturing of Hybrid and Electric Vehicles.\nIII. PM E-DRIVE was launched in 2013 along with the National Electric Mobility Mission Plan.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "II and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about FAME subsidies:\nSubsidies can be claimed for two-wheelers.\nSubsidies can be claimed only for two-wheelers.\nSubsidies can be claimed for electric buses.\nSubsidies can be claimed for hybrid cars.\nHow many of the above statements are correct?",
+     "options": [
+      "Only three",
+      "Only one",
+      "Only two",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which of the following is eligible for support under PM E-DRIVE?",
+     "options": [
+      "Petrol-powered two-wheelers",
+      "Diesel buses",
+      "Conventional petrol cars",
+      "Electric two-wheelers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x05-53",
+   "type": "TITA",
+   "passage": "The booklet describes a set of national schemes that support electric vehicles, alongside its coverage of Delhi's own electric vehicle policy. Among these schemes is a broader national mission plan. FAME India is one of the schemes. Its purpose is to give a boost to the development of electric vehicles, and it works through three approaches: establishing charging stations, incentivising buyers and publicising the benefits of electric vehicles. The booklet lists the expected benefits of this push as a fall in the demand for petrol and diesel, the creation of new jobs in the automobile sector, and a reduction in pollution-induced health problems. PM E-DRIVE is the most recent of the schemes described. Its support covers electric buses, e-trucks, e-ambulances and other new emerging EV categories, and it is described as building on earlier efforts. Its objectives and nodal ministry are listed in a separate section of the booklet. Separately, the booklet notes that Delhi EV Policy 2.0 builds upon the achievements of Delhi EV Policy 2020 and is set to remain effective until 31 March 2030. The policy also describes electrification of high-usage and high-emission transport segments as a way to reduce vehicular emissions.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the National Electric Mobility Mission Plan launched? (year)"
+    },
+    {
+     "n": 2,
+     "q": "Which ministry launched FAME India? (name the ministry)"
+    },
+    {
+     "n": 3,
+     "q": "In which year does the PM E-DRIVE scheme period end? (year)"
+    },
+    {
+     "n": 4,
+     "q": "Which mission plan is FAME India a part of? (name the plan)"
+    },
+    {
+     "n": 5,
+     "q": "Besides FAME-II, which scheme from 2024 does PM E-DRIVE build on? (give the scheme's name without the year)"
+    },
+    {
+     "n": 6,
+     "q": "Besides electric cars, which other type of car can claim FAME subsidies? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "Name the three-wheeled category for which FAME subsidies can be claimed. (plural, one word)"
+    }
+   ]
+  }
+ ]
+}

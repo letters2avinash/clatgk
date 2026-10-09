@@ -1,0 +1,287 @@
+{
+ "topic": "WPI Base Year Revision and Introduction of PPI",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Wholesale Price Index (WPI) Basics",
+   "summary": "The Wholesale Price Index measures the average change in prices of goods traded at wholesale or producer level, before they reach final consumers. It is an important indicator of inflationary trends within the production and distribution chain. The Office of Economic Adviser compiles and releases it.",
+   "facts": [
+    "Measures average change in prices of goods traded at wholesale or producer level",
+    "Captures prices before goods reach final consumers",
+    "Indicator of inflationary trends within the production and distribution chain",
+    "Compiled and released by the Office of Economic Adviser",
+    "Office of Economic Adviser works under the Department for Promotion of Industry and Internal Trade",
+    "Base year of the WPI before revision: 2011-12"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Base Year Revision and Major Reforms",
+   "summary": "The Government of India has approved revising the WPI base year from 2011-12 to 2022-23. The revised series changes the number of items, moves energy commodities to a different category, adopts a new weighting method and a new treatment of missing data. These changes aim to reflect the producer side of the economy more accurately.",
+   "facts": [
+    "Government of India approved revision of WPI base year from 2011-12 to 2022-23",
+    "Number of items rises from 697 (WPI 2011-12) to 957 (WPI 2022-23)",
+    "Renewable energy inclusion adds Solar Power, Wind Energy and Nuclear Electricity as new components",
+    "Crude Petroleum and Natural Gas shifted from Primary Articles to Fuel and Power category",
+    "Revised weights are derived directly from Gross Value of Output",
+    "Earlier weights were based on Net Traded Value: Gross Value of Output + Imports - Exports",
+    "New missing-data approach: Targeted Mean Imputation",
+    "Previous missing-data approach: Carry-Forward Method, where missing prices were replaced by the last available price"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Producer Price Indices (PPIs)",
+   "summary": "For the first time, India will release dedicated Producer Price Indices with 2022-23 as base year. These indices track prices from the producer side and cover goods as well as services. Three indices are described: Output, Input and Service PPI.",
+   "facts": [
+    "For the first time, dedicated PPIs will be released with 2022-23 as base year",
+    "Output PPI measures prices received by producers for goods and services they sell",
+    "Output PPI captures prices at factory gate or producer level, before taxes, trade margins and transportation costs",
+    "Output PPI reflects producer earnings and is an early indicator of future inflationary pressures",
+    "Input PPI measures prices paid by producers for inputs such as raw materials, intermediate goods and energy",
+    "Input PPI tracks production cost pressures and supply-side inflation",
+    "Service PPI measures prices received by service providers for services rendered",
+    "Services covered: banking, securities transactions, insurance, pension fund management, railways, air passenger transport and telecommunications"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "WPI and PPI Compared",
+   "summary": "The PPI differs from the WPI in scope, focus, perspective and purpose. The WPI is primarily about goods and market-level wholesale prices, while the PPI covers goods and services and looks at producer revenue and input costs. The new PPIs are introduced alongside the revised WPI series.",
+   "facts": [
+    "WPI scope: primarily goods; PPI scope: goods and services",
+    "WPI focus: wholesale price movements; PPI focus: producer-level price changes",
+    "WPI perspective: market-level wholesale prices; PPI perspective: producer revenue and input costs",
+    "WPI purpose: inflation monitoring; PPI purpose: comprehensive producer inflation analysis",
+    "New PPIs are introduced alongside the revised WPI series",
+    "Service PPI captures inflation trends in the services sector from the producer perspective"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x08-54",
+   "type": "MCQ",
+   "passage": "Governments and analysts track changes in prices through a set of official price indices. The index known as WPI is treated as an important indicator of inflationary trends in the economy, and it is followed closely because it reflects price movements early in the chain of production and sale.\n\nThe Government of India has now approved a revision of the base year of this index. Along with the revised series, the government will introduce new indices for the first time. These are designed to give a more comprehensive assessment of inflation and cost pressures faced by businesses, so that pressures affecting firms are visible alongside those affecting buyers.\n\nThe index is built on the prices of goods that move between businesses and traders in large quantities. Its figures are published on a regular basis and help reveal how costs are changing across the supply network. The revision also updates the methodology, including the weights used, the treatment of missing price data, and the classification of certain commodities.\n\nThe aim of these changes is to make the index a more reliable guide to how sellers experience price movements. The revised structure is meant to reflect the present economy more accurately than the earlier series did.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Consider the following statements about the WPI:\nI. It is released by the Reserve Bank of India.\nII. It captures prices after goods reach final consumers.\nIII. It indicates inflationary trends within the production and distribution chain.\nWhich of the above statements is/are correct?",
+     "options": [
+      "III only",
+      "I and II only",
+      "II and III only",
+      "I and III only"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Match List I with List II:\nI. Full form of WPI   ->   A. Production and distribution chain\nII. Body that compiles and releases the WPI   ->   B. Department for Promotion of Industry and Internal Trade\nIII. Department under which that body works   ->   C. Office of Economic Adviser\nIV. Chain whose inflation trends the WPI indicates   ->   D. Wholesale Price Index",
+     "options": [
+      "I-A, II-D, III-B, IV-C",
+      "I-D, II-C, III-B, IV-A",
+      "I-A, II-B, III-D, IV-C",
+      "I-B, II-A, III-C, IV-D"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "At which level of trade are the WPI's goods priced?",
+     "options": [
+      "Retail level",
+      "Export level",
+      "Wholesale or producer level",
+      "Household level"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Before the revision approved by the government, the WPI was based on which base year?",
+     "options": [
+      "2011-12",
+      "2017-18",
+      "2019-20",
+      "2020-21"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Assertion (A): The WPI is an indicator of inflationary trends within the production and distribution chain.\nReason (R): The WPI measures retail prices paid by final consumers.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "At which point in the chain are the prices in this index recorded, relative to final consumers?",
+     "options": [
+      "After goods are sold to final consumers",
+      "Only at the point of export",
+      "At the point of retail sale to households",
+      "Before goods reach final consumers"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. The WPI captures prices before goods reach final consumers.\nII. The base year before the revision was 2011-12.\nIII. The WPI is released by the Ministry of Finance.\nHow many of the statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-55",
+   "type": "TITA",
+   "passage": "Official price data help a country see how costs are moving through its economy. One important measure is an index that follows prices at an early point in the flow of goods, before the items reach ordinary buyers. Economists watch it closely because it reflects pressures that may later show up in shops and household budgets.\n\nThe government has approved a revision of the base year of this index. Along with the revised series, the government will introduce new indices for the first time. These are meant to give a broader view of price changes faced by firms that sell goods and services, including the costs they pay for inputs.\n\nThe revision also changes several technical features. The weights that give each item its importance are being rebuilt, and the method used to fill gaps in missing price data is being replaced. Some commodities are moving to different categories so that the classification reflects their role in the economy more accurately.\n\nTaken together, the changes aim to make the index a more accurate guide to the production side of the economy, while keeping its place as a measure of price changes across the supply chain. Readers comparing the old and new figures will need to keep these differences in mind.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which office compiles and releases the index? (name the office)"
+    },
+    {
+     "n": 2,
+     "q": "Under which department does that office function? (give the acronym)"
+    },
+    {
+     "n": 3,
+     "q": "What does the acronym WPI stand for? (name in full)"
+    },
+    {
+     "n": 4,
+     "q": "What was the index's base year before the revision? (year range)"
+    },
+    {
+     "n": 5,
+     "q": "What is the acronym for the new indices introduced for the first time with the revised series? (three letters)"
+    },
+    {
+     "n": 6,
+     "q": "Which index is described as an indicator of inflationary trends within the production and distribution chain? (acronym)"
+    },
+    {
+     "n": 7,
+     "q": "At which trade level are the index's goods priced, before they reach final consumers? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x08-56",
+   "type": "MCQ",
+   "passage": "Price data in India are released through more than one index, and two of them are compared on four features: scope, focus, perspective and purpose. A feature table is a useful way to read such comparisons, because it places the two measures side by side and shows where they differ.\n\nThe Government of India has approved a revision of the base year of one index, moving it to a newer reference period. Changing the base year is a technical step, but it affects how the index is read over time, so readers who compare old and new figures should keep the change in mind.\n\nEach index has its own design, and the feature table shows how the two differ. The table has four rows, one for each feature, and two columns, one for each measure.\n\nBecause each measure has its own design, the two should not be treated as interchangeable. A reader who checks the table can see exactly where they differ and which question each measure is built to answer. The comparison discussed here is the feature table in the booklet's current affairs summary for June 2026.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which index has the perspective of producer revenue and input costs?",
+     "options": [
+      "WPI",
+      "Consumer Price Index",
+      "PPI",
+      "Market-level price index"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "What is the focus of the PPI, as compared with the WPI?",
+     "options": [
+      "Wholesale price movements",
+      "Retail price movements",
+      "Export price trends",
+      "Producer-level price changes"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Assertion (A): The new Producer Price Indices are introduced alongside the revised WPI series.\nReason (R): The Service PPI captures inflation trends in the services sector from the producer perspective.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. Focus of the WPI   ->   A. Producer revenue and input costs\nII. Perspective of the WPI   ->   B. Wholesale price movements\nIII. Focus of the PPI   ->   C. Market-level wholesale prices\nIV. Perspective of the PPI   ->   D. Producer-level price changes",
+     "options": [
+      "I-B, II-C, III-D, IV-A",
+      "I-A, II-C, III-B, IV-D",
+      "I-D, II-C, III-A, IV-B",
+      "I-C, II-B, III-A, IV-D"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements:\nI. The Service PPI captures inflation trends in the services sector from the producer perspective.\nII. The WPI's scope is primarily goods.\nIII. The PPI's stated purpose is inflation monitoring.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. The WPI's focus is wholesale price movements.\nII. The PPI's perspective is market-level wholesale prices.\nIII. The new PPIs are introduced alongside the revised WPI series.\nHow many of the statements are correct?",
+     "options": [
+      "Only one",
+      "Only three",
+      "Only two",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Which of these services is covered by the Service PPI?",
+     "options": [
+      "Crude petroleum",
+      "Solar power",
+      "Primary articles",
+      "Railways"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-57",
+   "type": "TITA",
+   "passage": "Indian price data come from more than one index, and two measures that appear together in recent reform discussions can be compared across four features. A feature table is a helpful way to read such comparisons, since it places each measure side by side and makes differences easier to see. The table has four rows, one for each feature, and two columns, one for each measure.\n\nThe four features are scope, focus, perspective and purpose. Scope refers to what the measure covers, focus refers to the kind of price movement it follows, perspective refers to the vantage point from which prices are viewed, and purpose refers to the question the measure is designed to answer.\n\nThe Government of India has approved a revision of the base year of one of these indices. Changing the base year is a technical step, but readers who compare old and new figures should keep it in mind. The revised series is to be released along with new measures that give a fuller view of price changes faced by businesses.\n\nBecause each measure has its own design, the two should not be treated as interchangeable. A reader who checks the feature table can see where they differ and which question each measure is built to answer. The comparison is taken from the booklet's current affairs summary for June 2026.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which index has a perspective of producer revenue and input costs? (acronym)"
+    },
+    {
+     "n": 2,
+     "q": "Name the service covered by the Service PPI that concerns rail transport. (one word)"
+    },
+    {
+     "n": 3,
+     "q": "Which index has a scope that is primarily goods? (acronym)"
+    },
+    {
+     "n": 4,
+     "q": "What is the stated purpose of the PPI in the comparison? (name the phrase)"
+    },
+    {
+     "n": 5,
+     "q": "What is the stated focus of the PPI? (name the phrase)"
+    },
+    {
+     "n": 6,
+     "q": "What is the stated focus of the WPI? (name the phrase)"
+    },
+    {
+     "n": 7,
+     "q": "Which PPI covers inflation trends in the services sector from the producer perspective? (name the PPI)"
+    }
+   ]
+  }
+ ]
+}

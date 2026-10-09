@@ -1,0 +1,298 @@
+{
+ "topic": "World Press Freedom Index 2026",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Index Overview and Methodology",
+   "summary": "The World Press Freedom Index is an annual report published by Reporters Without Borders (RSF), a non-profit organisation with headquarters in Paris. It has been published annually since 2002, and the 2026 edition is the 24th. The Index ranks 180 countries and regions on the level of freedom available to journalists, using a Press Freedom Questionnaire with five categories. Each country receives a score from 0 (worst) to 100 (best).",
+   "facts": [
+    "Published by Reporters Without Borders (RSF), a non-profit organisation",
+    "RSF was founded in 1985 and has its headquarters in Paris, France",
+    "Annual report since 2002; the 2026 edition is the 24th",
+    "Ranks 180 countries and regions by freedom available to journalists",
+    "Evaluates pluralism, media independence, legal framework and journalist safety",
+    "Press Freedom Questionnaire covers 5 categories",
+    "Each country gets a score from 0 (worst) to 100 (best)",
+    "Aim: safeguarding the right to freedom of information"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Key Findings and Country Rankings 2026",
+   "summary": "The 2026 Index finds that global press freedom has declined, with 52.2 per cent of countries rated 'Difficult' or 'Very Serious' for journalism. Only 1 per cent of the world's population lives in countries rated 'Good'. Norway remains top-ranked, while Syria recorded the sharpest rise after its political transition and Niger the steepest fall. The Middle East and North Africa remained the most dangerous region for journalists.",
+   "facts": [
+    "Global press freedom declines; a majority of countries (52.2%) face Difficult or Very Serious conditions",
+    "Only 1% of the population lives in countries rated 'Good' for journalism",
+    "Norway is top-ranked for the 10th consecutive year, with a score of 92.72",
+    "Top-ranked order: Norway, Netherlands, Estonia, Denmark, Sweden",
+    "Netherlands scored 88.92 and was ranked second on the score list",
+    "Bottom-ranked countries named: Eritrea, North Korea, China, Iran, Saudi Arabia",
+    "Legal indicator saw the sharpest decline, due to criminalisation of journalism and misuse of laws",
+    "Middle East and North Africa remained the most dangerous region for journalists",
+    "Syria rose sharply in rankings after its political transition",
+    "Niger suffered the steepest ranking fall (120th) due to military rule and armed group violence in the Sahel",
+    "India ranked 157th with a score of 31.96 ('Very Serious') in 2026, from 151st in 2025"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Challenges and Significance of a Free Press",
+   "summary": "Media in 160 of the 180 countries face financial instability, which threatens independent and unbiased reporting, and political instability is linked to declining media freedom. A free press is often described as the fourth pillar of democracy, giving voice to marginalised communities and sparking debate that can lead to reform. During the pandemic, media acted as a critical communication tool between governments and citizens. Under the Indian Constitution, press freedom flows from Article 19(1)(a) but remains subject to reasonable restrictions under Article 19(2).",
+   "facts": [
+    "Media in 160 of 180 countries face financial instability",
+    "Political instability is linked to decline in media freedom",
+    "Press is often called the 4th pillar of democracy, alongside legislature, judiciary and executive",
+    "Press acts as a bridge between the governed and the governing, especially for marginalised communities",
+    "Press sparks public debate, a precursor to legislative and social reform",
+    "During the pandemic, media was a critical communication tool between government and citizens",
+    "Freedom of press is treated as part of freedom of speech under Article 19(1)(a)",
+    "Article 19(2) allows reasonable restrictions, including on defamation, contempt of court and public order",
+    "Freedom of media is not an absolute freedom",
+    "In Romesh Thappar vs State of Madras (1950), the Supreme Court said freedom of press lies at the foundation of all democratic organisations"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "History and Institutions of Press Freedom in India",
+   "summary": "Printing in India expanded under European trading companies, and India's first newspaper, the Bengal Gazette, appeared in 1780. Colonial measures such as the Censorship of Press Act 1799 and the Vernacular Press Act 1878 restricted the press, while Metcalfe's Press Act 1835 is remembered as the liberator of the Indian press. Today, the Press Council of India, set up under the Press Council Act 1978, and the Editors Guild of India work to uphold press freedom and journalistic standards.",
+   "facts": [
+    "East India Company set up its first printing press in Bombay in 1674",
+    "James Augustus Hickey's Bengal Gazette, India's first newspaper, was published in 1780",
+    "Censorship of Press Act 1799, issued by Lord Wellesley, curbed French propaganda against British rule",
+    "Raja Rammohan Roy founded the Bengali weekly Sambad Kaumudi (1821) to champion social reform",
+    "Bombay Samachar (1822), India's oldest running vernacular newspaper, was founded by Fardoonji Murazban",
+    "Metcalfe's Press Act 1835 is known as the liberator of the Indian press",
+    "Vernacular Press Act 1878, proposed by Lord Lytton, was enacted to suppress press freedom and criticism of British rule",
+    "Press Council of India was initially established in 1966 under the Indian Press Council Act 1965",
+    "Press Council of India was abolished in 1975 during the Emergency, after repeal of the 1965 Act",
+    "Press Council of India was established in 1978 as a statutory quasi-judicial body under the Press Council Act 1978"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x08-60",
+   "type": "MCQ",
+   "passage": "Press freedom refers to the ability of journalists to gather information and publish it without undue pressure. Conditions for this differ widely from one country to another, and the World Press Freedom Index compares them within a single framework. The index ranks countries and regions according to the level of freedom available to journalists. To reach this ranking, it evaluates several aspects of the media environment, including how varied the media are, how independent they remain, and how well the legal system supports them. A central tool in this work is a questionnaire that gathers information on the conditions in which reporters operate. The results are released in a published report that places each country on a list and allows readers to compare nations with one another. Because the report reflects conditions at the time of assessment, a country's position can change when its situation changes. A free press is also described as one that acts independently, promotes transparency and holds powerful people accountable. Journalism therefore has a role beyond the newsroom, since it can give a voice to those who lack institutional power and can highlight injustices that would otherwise go unseen. For this reason, the index serves as a measure of how well journalists are able to do their work.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which organisation publishes the World Press Freedom Index?",
+     "options": [
+      "UNESCO",
+      "Reporters Without Borders",
+      "Committee to Protect Journalists",
+      "Freedom House"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "On what scale is each country scored in the index?",
+     "options": [
+      "0 (worst) to 10 (best)",
+      "1 to 5, with 5 being worst",
+      "0 (worst) to 100 (best)",
+      "-100 to +100"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What is the stated aim of the World Press Freedom Index?",
+     "options": [
+      "Safeguarding the right to freedom of information",
+      "Setting trade rules for media companies",
+      "Funding journalism education in universities",
+      "Measuring advertising revenue of newspapers"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The index ranks countries and regions according to the level of freedom available to journalists.\nReason (R): The index is published by the Press Council of India.\nIn the light of the above statements, choose the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Press Freedom Questionnaire   ->   A. Paris, France\nII. Aim of the index   ->   B. Non-profit organisation\nIII. Publisher's legal type   ->   C. Safeguarding the right to freedom of information\nIV. Publisher's headquarters   ->   D. Covers five categories",
+     "options": [
+      "I-B, II-D, III-A, IV-C",
+      "I-D, II-C, III-B, IV-A",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-A, III-B, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the design of the index:\nI. The index evaluates the safety of journalists among its criteria.\nII. A higher score on the index indicates less freedom for the press.\nIII. The organisation behind the index has its headquarters in Paris.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I, II and III",
+      "I and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the statements below are correct?\n(i) The Press Freedom Questionnaire covers five categories.\n(ii) The index has been published as an annual report since 1985.\n(iii) Each country's score runs from 0 (worst) to 100 (best).",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-61",
+   "type": "TITA",
+   "passage": "Press freedom refers to the ability of journalists to gather information and publish it without undue pressure. Conditions for this differ widely from one country to another, and the World Press Freedom Index compares them within a single framework. The index ranks countries and regions according to the level of freedom available to journalists. To reach this ranking, it evaluates several aspects of the media environment, including how varied the media are, how independent they remain, and how well the legal system supports them. A central tool in this work is a questionnaire that gathers information on the conditions in which reporters operate. The results are released in a published report that places each country on a list and allows readers to compare nations with one another. Because the report reflects conditions at the time of assessment, a country's position can change when its situation changes. A free press is also described as one that acts independently, promotes transparency and holds powerful people accountable. Journalism therefore has a role beyond the newsroom, since it can give a voice to those who lack institutional power and can highlight injustices that would otherwise go unseen. For this reason, the index serves as a measure of how well journalists are able to do their work.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year was the organisation that publishes the index founded? (year)"
+    },
+    {
+     "n": 2,
+     "q": "In which city is the publisher of the index headquartered? (city)"
+    },
+    {
+     "n": 3,
+     "q": "Which edition of the index is the 2026 report? (ordinal number)"
+    },
+    {
+     "n": 4,
+     "q": "What is the highest score a country can receive in the index? (number)"
+    },
+    {
+     "n": 5,
+     "q": "From which year has the index been published as an annual report? (year)"
+    },
+    {
+     "n": 6,
+     "q": "What type of organisation publishes the index? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "What right does the index aim to safeguard? (three words)"
+    }
+   ]
+  },
+  {
+   "id": "q-x08-62",
+   "type": "MCQ",
+   "passage": "Press freedom is shaped by a number of pressures, and financial strain is among the most widely noted. Media outlets in many countries face financial instability, which can threaten independent and unbiased reporting. Freedom of expression is regarded as vital to preserve journalistic integrity and to prevent undue influence from state or private actors. A free press is described as one that acts independently, promotes transparency and holds powerful people accountable. Its work reaches beyond the newsroom, since it highlights systemic injustices and enables public participation in democratic discourse through information, critique and civic dialogue. News coverage can also influence discussions in parliamentary and legislative bodies. A widely quoted line makes a similar point in a few words: where the press is free, and every man able to read, all is safe. These roles explain why the press is treated as significant in public life. Taken together, the pressures on the press and the roles it plays help explain why its condition matters to a society as a whole. Independence, transparency and accountability are therefore the qualities by which such a press is described. Freedom of the press is linked to a range of functions, from informing the public to examining those in power.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The press is often called the fourth pillar of democracy. Alongside which three organs is it counted?",
+     "options": [
+      "Legislature, judiciary and executive",
+      "Army, police and bureaucracy",
+      "Election commission, universities and unions",
+      "Industry, banks and markets"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "During the pandemic, the media acted as which of the following?",
+     "options": [
+      "A source of advertising revenue for governments",
+      "A replacement for public health services",
+      "A critical communication tool between government and citizens",
+      "A tool for political campaigning"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Whose remark on a free press and literacy is quoted in the booklet?",
+     "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Winston Churchill",
+      "Thomas Jefferson"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Freedom of the press in India is treated as part of freedom of speech and expression under the Constitution.\nReason (R): Article 19(2) of the Constitution lists reasonable restrictions on freedom of speech and expression.\nIn the light of the above statements, choose the correct option.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Article 19(2)   ->   A. Gives visibility to those without institutional power\nII. Romesh Thappar vs State of Madras (1950)   ->   B. Reasonable restrictions on the right\nIII. Press as voice of the voiceless   ->   C. Precursor to legislative and social reform\nIV. Press sparks public debate   ->   D. Freedom of press lies at the foundation of democratic organisations",
+     "options": [
+      "I-A, II-D, III-B, IV-C",
+      "I-A, II-C, III-D, IV-B",
+      "I-D, II-C, III-B, IV-A",
+      "I-B, II-D, III-A, IV-C"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the press in India:\nI. Freedom of media is an absolute freedom under the Constitution.\nII. Community journalism is described as promoting social cohesion and local accountability.\nIII. Political instability is linked to a decline in media freedom.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I, II and III",
+      "I and III only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the statements below are correct?\n(i) The press serves as a bridge between the governed and the governing.\n(ii) Article 19(2) states that freedom of the press is absolute.\n(iii) During the pandemic, media reduced panic and fought misinformation.",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x08-63",
+   "type": "TITA",
+   "passage": "Press freedom is shaped by a number of pressures, and financial strain is among the most widely noted. Media outlets in many countries face financial instability, which can threaten independent and unbiased reporting. Freedom of expression is regarded as vital to preserve journalistic integrity and to prevent undue influence from state or private actors. A free press is described as one that acts independently, promotes transparency and holds powerful people accountable. Its work reaches beyond the newsroom, since it highlights systemic injustices and enables public participation in democratic discourse through information, critique and civic dialogue. News coverage can also influence discussions in parliamentary and legislative bodies. A widely quoted line makes a similar point in a few words: where the press is free, and every man able to read, all is safe. These roles explain why the press is treated as significant in public life. Taken together, the pressures on the press and the roles it plays help explain why its condition matters to a society as a whole. Independence, transparency and accountability are therefore the qualities by which such a press is described. Freedom of the press is linked to a range of functions, from informing the public to examining those in power.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Under which Article of the Indian Constitution is freedom of the press treated as part of freedom of speech? (article number with sub-clause)"
+    },
+    {
+     "n": 2,
+     "q": "In 1950, which Supreme Court case said freedom of the press lies at the foundation of all democratic organisations? (first party's name)"
+    },
+    {
+     "n": 3,
+     "q": "The press is called the fourth pillar of democracy, alongside the legislature, the judiciary and which other organ? (one word)"
+    },
+    {
+     "n": 4,
+     "q": "During the pandemic, media acted as a critical communication tool between government and whom? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "Who is the author of the line 'Where the Press is Free, and Every Man able to Read, All is Safe'? (surname)"
+    },
+    {
+     "n": 6,
+     "q": "Political instability is linked to a decline in what? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "Besides local accountability, what social value does community journalism promote? (two words)"
+    }
+   ]
+  }
+ ]
+}

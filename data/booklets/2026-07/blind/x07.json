@@ -1,0 +1,289 @@
+{
+ "topic": "Proposed NFSA Amendment for AAY Households",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Proposed AAY Entitlement Change",
+   "summary": "The Union Government has proposed amending Section 3(1) of the National Food Security Act 2013 to change foodgrain entitlement for Antyodaya Anna Yojana households. The current rule gives each AAY household a fixed 35 kg per month irrespective of family size. The proposal shifts the basis to individuals, at 7 kg per person per month, with a maximum of 35 kg per household.",
+   "facts": [
+    "Amendment seeks to modify Section 3(1) of NFSA 2013 relating to AAY foodgrain entitlement",
+    "Current provision: every AAY household receives 35 kg per month irrespective of family size",
+    "Proposed provision: every individual in an AAY household receives 7 kg per month",
+    "Proposed ceiling: maximum 35 kg per household",
+    "The proposal moves the basis of AAY entitlement from household to individual",
+    "The proposal has been made by the Union Government"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Rationale and Limits of the Amendment",
+   "summary": "The Union Government argues that the household-based AAY entitlement creates inequities within the category. Small households receive more foodgrain per person than larger ones, and the amendment would make distribution proportional to household size. The government also says the change reduces disparities with Priority Household beneficiaries, but the amendment does not address inclusion errors.",
+   "facts": [
+    "Government argues the household-based entitlement creates inequities within the AAY category",
+    "Per capita inequality: small households receive more foodgrain per person than larger households",
+    "Better equity: distribution becomes proportional to household size",
+    "Rationalisation: allocation aligned more closely with nutritional requirements",
+    "Uniformity: reduces disparities between AAY and Priority Household beneficiaries",
+    "Limitation: the amendment does not address inclusion errors, where ineligible beneficiaries continue to receive NFSA benefits"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "NFSA 2013 and Beneficiary Categories",
+   "summary": "The National Food Security Act 2013 was enacted to ensure food and nutritional security through subsidised foodgrains under the Targeted Public Distribution System. It made foodgrain access a legal right for two-thirds of the population. AAY households get 35 kg per month and PHH households get 5 kg per person per month at subsidised rates.",
+   "facts": [
+    "NFSA 2013 was enacted to ensure food and nutritional security",
+    "It provides subsidised foodgrains through the Targeted Public Distribution System",
+    "It made foodgrain access a legal right for two-thirds of the population",
+    "AAY is meant for the poorest of the poor households",
+    "AAY families get 35 kg per month, fixed per household",
+    "PHH covers other eligible households",
+    "PHH get 5 kg per person per month",
+    "AAY entitlement is fixed per household; PHH entitlement is per person"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "PDS Background and PMGKAY",
+   "summary": "The Public Distribution System was introduced by the British during World War II, after the 1942-43 Bengal famine, to control food prices and ration foodgrains. It was initially focused on urban food security and expanded to tribal and poor areas after the Green Revolution. PMGKAY (2020) added extra free foodgrains for NFSA beneficiaries.",
+   "facts": [
+    "PDS in India was introduced by the British during World War II",
+    "It was introduced after the 1942-43 Bengal famine to control food prices and ration foodgrains",
+    "Initially focused on urban food security",
+    "Expanded to tribal and poor areas after the Green Revolution in the 1970s and 1980s",
+    "Essential goods distributed: wheat, sugar, rice and kerosene",
+    "Administered by the Ministry of Consumer Affairs, Food and Public Distribution",
+    "RPDS (1992) aims to extend PDS access to remote, hilly areas through an area-based approach",
+    "PMGKAY (2020) provided an extra 5 kg of free foodgrains to AAY and PHH beneficiaries",
+    "PMGKAY covered 81.35 crore people alongside regular PDS entitlements",
+    "Kerala set up one of India's earliest PDS in 1962; Tamil Nadu introduced universal free rice distribution in 2011"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x07-58",
+   "type": "MCQ",
+   "passage": "The National Food Security Act, 2013 is the central law that governs foodgrain entitlements for two beneficiary categories, namely Antyodaya Anna Yojana (AAY) households and Priority Households (PHH). Both categories receive foodgrains at subsidised rates, yet the Act does not set the same monthly quantity or the same basis of calculation for each. Under the current design, the AAY entitlement is a single figure for each household, whereas the PHH entitlement is worked out for every member of the household. The Union Government has recently proposed an amendment that revises the foodgrain entitlement of AAY households. The amendment seeks to modify one provision of the Act, relating to AAY foodgrain entitlement. The government's stated concern is that the present rule creates inequities within the AAY category, because small households receive more foodgrain per person than larger households. The government says the change would reduce disparities between AAY and PHH beneficiaries, and it describes the change as a rationalisation that aligns allocation more closely with nutritional requirements. The amendment does not address inclusion errors, in which ineligible beneficiaries continue to receive benefits under the Act. Discussion of the amendment therefore centres on how entitlements are measured and on who is counted within each category.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What is the main objective of the National Food Security Act, 2013?",
+     "options": [
+      "To regulate minimum support prices for agricultural produce",
+      "To provide free housing to Below Poverty Line households",
+      "To establish food processing zones across India",
+      "To ensure food and nutritional security through subsidised foodgrains"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Foodgrain access under the NFSA 2013 was made a legal right for approximately what share of the population?",
+     "options": [
+      "Two-thirds",
+      "One-third",
+      "One-half",
+      "Three-fourths"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Through which system are subsidised foodgrains provided under the NFSA 2013?",
+     "options": [
+      "Revamped Public Distribution System (RPDS)",
+      "Pradhan Mantri Garib Kalyan Anna Yojana",
+      "Targeted Public Distribution System",
+      "Rural Employment Guarantee Scheme"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Antyodaya Anna Yojana is meant for the poorest of the poor households.\nReason (R): The NFSA 2013 has two beneficiary categories, AAY and PHH.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Priority Households (PHH)   ->   A. Enacted to ensure food and nutritional security\nII. Antyodaya Anna Yojana (AAY)   ->   B. Other eligible households\nIII. Targeted Public Distribution System   ->   C. Poorest of the poor households\nIV. National Food Security Act 2013   ->   D. Delivery channel for subsidised foodgrains",
+     "options": [
+      "I-C, II-A, III-B, IV-D",
+      "I-C, II-A, III-D, IV-B",
+      "I-B, II-C, III-D, IV-A",
+      "I-A, II-B, III-C, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. Antyodaya Anna Yojana is meant for the poorest of the poor households.\nII. Priority Households are described as other eligible households.\nIII. Foodgrains under the NFSA are provided free of cost to all beneficiaries.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. The NFSA 2013 was enacted to ensure food and nutritional security.\nII. Foodgrain access is a legal right for about one-third of the population.\nIII. Subsidised foodgrains are delivered through the Targeted Public Distribution System.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x07-59",
+   "type": "TITA",
+   "passage": "Foodgrain entitlements in India are set under a central food law that provides foodgrains to beneficiary groups. The Union Government has proposed an amendment to revise the foodgrain entitlement of one such group. The government's argument is that the current design produces inequities within that group, because small households receive more foodgrain per person than larger households. Under the proposal, the entitlement would be calculated for each individual member, with a maximum set at the household level. The government says the change would reduce disparities between this group and the other beneficiary group covered by the law. The argument also points to uniformity between the two beneficiary groups. The amendment seeks to modify one provision of the law, and it does not deal with inclusion errors, in which ineligible people continue to receive benefits. The change is described as a rationalisation that aligns allocation more closely with nutritional requirements. Each beneficiary group is defined separately under the law, and the quantities for the two groups differ. The booklet describes the amendment as aimed at better equity, since distribution would become proportional to household size. The focus of the proposal is on how the entitlement is measured, and the design of each group determines how much grain a household can claim under the law.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What does the acronym TPDS stand for? (full name)"
+    },
+    {
+     "n": 2,
+     "q": "In which year was the National Food Security Act enacted? (year)"
+    },
+    {
+     "n": 3,
+     "q": "What share of the population did the NFSA make a legal right for foodgrain access? (in words)"
+    },
+    {
+     "n": 4,
+     "q": "Which beneficiary category covers other eligible households? (acronym)"
+    },
+    {
+     "n": 5,
+     "q": "Which beneficiary category is meant for the poorest of the poor households? (acronym)"
+    },
+    {
+     "n": 6,
+     "q": "At what kind of rates does the NFSA supply foodgrains to beneficiaries? (one word)"
+    },
+    {
+     "n": 7,
+     "q": "Which Act, enacted to ensure food and nutritional security, governs these entitlements? (acronym)"
+    }
+   ]
+  },
+  {
+   "id": "q-x07-60",
+   "type": "MCQ",
+   "passage": "Public distribution of foodgrains in India is older than the current food law, and the system has been reshaped several times since it was first set up. Its coverage has changed as different groups of people were brought within its scope, and its design has been adjusted in response to conditions in different parts of the country. Governance involves both the central and state governments, and a central ministry is responsible for overseeing the system at the national level. Some states built their own distribution arrangements well before the wider expansion, while others followed later. A special scheme was also introduced during a difficult period to add extra free grain to the regular entitlements of certain beneficiaries. Such additions are meant to supplement, rather than replace, the regular entitlements. The scheme's extra grain was given on top of the usual monthly quantities, which continued to form the base of the system. The basic design covers several essential goods, which are supplied through state agencies. The system continues to be governed by the central ministry and the state agencies that handle its distribution. The history of the system is therefore best understood through its gradual expansion, its administration by the central ministry, and the schemes layered on top of its basic design over time.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "By which power was the Public Distribution System in India introduced?",
+     "options": [
+      "The Mughal administration",
+      "The British administration",
+      "The Portuguese administration",
+      "The Dutch East India Company"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "After which famine was the PDS introduced to control food prices and ration foodgrains?",
+     "options": [
+      "Orissa famine of 1866",
+      "Bihar famine of 1967",
+      "1942-43 Bengal famine",
+      "Maharashtra famine of 1972"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which beneficiaries received the extra free foodgrains under PMGKAY?",
+     "options": [
+      "Only Below Poverty Line families",
+      "Only urban households",
+      "Only tribal households",
+      "AAY and PHH beneficiaries"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The PDS in India was introduced after World War II ended.\nReason (R): The PDS was introduced to control food prices and ration foodgrains.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Ministry administering the PDS   ->   A. One of India's earliest PDS, set up in 1962\nII. Kerala   ->   B. Expansion of the PDS to tribal and poor areas\nIII. Tamil Nadu   ->   C. Ministry of Consumer Affairs, Food and Public Distribution\nIV. Green Revolution   ->   D. Universal free rice distribution from 2011",
+     "options": [
+      "I-A, II-C, III-B, IV-D",
+      "I-C, II-A, III-D, IV-B",
+      "I-C, II-D, III-B, IV-A",
+      "I-C, II-B, III-D, IV-A"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. The PDS in India was introduced by the British during World War II.\nII. The PDS was initially focused on rural food security.\nIII. Wheat, sugar, rice and kerosene are among the essential goods distributed.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. The PDS is administered by the Ministry of Finance.\nII. The RPDS was introduced in 1992.\nIII. Kerala set up one of India's earliest PDS in 1962.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x07-61",
+   "type": "TITA",
+   "passage": "Public distribution of foodgrains in India has a history that predates the current food law. The system was created in a period of shortage, when governments needed to manage the supply and prices of basic food items. Its early coverage was limited, and it was later widened to reach more of the population, including people living in remote regions. Several states built their own distribution arrangements at different points in time, and some of these were among the first of their kind in the country. The system is run through a central ministry in coordination with the states. Over the decades, the central government added special schemes to the basic structure. One such scheme provided additional free grain to beneficiaries of the food law during a period of difficulty. These additions were layered on top of the regular entitlements, which remained the core of the system. The schemes added to the system were designed to supplement the basic structure rather than to replace it. Essential commodities are distributed through state agencies, which act as the channel between the central ministry and families. Understanding the public distribution system therefore involves tracing its origins, the way it expanded, and the schemes that were added to it over time.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which famine's aftermath led to the introduction of the PDS in India? (two words)"
+    },
+    {
+     "n": 2,
+     "q": "In which year was the Revamped Public Distribution System (RPDS) introduced? (year)"
+    },
+    {
+     "n": 3,
+     "q": "In which year did Kerala set up one of India's earliest Public Distribution Systems? (year)"
+    },
+    {
+     "n": 4,
+     "q": "Which state introduced universal free rice distribution through the PDS in 2011? (state)"
+    },
+    {
+     "n": 5,
+     "q": "How many goods are listed as essential goods distributed through the PDS? (number)"
+    },
+    {
+     "n": 6,
+     "q": "Which ministry administers the PDS? (full name)"
+    },
+    {
+     "n": 7,
+     "q": "In which year was the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) launched? (year)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,299 @@
+{
+ "topic": "Increase in Supreme Court Judge Strength",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Expansion Bill and Legal Framework",
+   "summary": "The Union Cabinet approved the Supreme Court (Number of Judges) Amendment Bill 2026 to expand the Court to 38 judges, which is the Chief Justice plus 37 other judges. Article 124 empowers Parliament to change the number of judges by law, and the Supreme Court (Number of Judges) Act, 1956 governs this. The Court was inaugurated in 1950 and succeeded the Federal Court of India.",
+   "facts": [
+    "Cabinet approved the Supreme Court (Number of Judges) Amendment Bill 2026",
+    "Proposed strength is 38 judges (CJI plus 37 other judges)",
+    "Article 124 empowers Parliament to increase judges by law",
+    "Governed by the Supreme Court (Number of Judges) Act, 1956",
+    "Increase needs an Amendment Bill passed by both Houses",
+    "Simple majority is sufficient; Presidential assent is also needed",
+    "Inaugurated on 28 January 1950",
+    "Succeeded the Federal Court of India (Government of India Act, 1935)",
+    "Replaced the British Privy Council as the highest court of appeal",
+    "Originally fixed at 8 (Chief Justice and 7 other judges)"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Qualifications, Tenure and Removal",
+   "summary": "Judges of the Supreme Court are appointed by the President, subject to qualifications set in the Constitution. A judge holds office until the age of 65 and may resign by writing to the President. Removal is only on grounds of proven misbehaviour or incapacity, under the Judges Enquiry Act, 1968, and needs a Parliamentary vote.",
+   "facts": [
+    "Judges are appointed by the President",
+    "Must be a citizen of India",
+    "Five years as a High Court judge is one qualification route",
+    "A Distinguished Jurist in the President's opinion is another route",
+    "No fixed tenure; holds office until 65 years of age",
+    "A judge may resign by writing to the President",
+    "Removal only on proven misbehaviour or incapacity",
+    "Removal by the President on Parliament's recommendation",
+    "Judges Enquiry Act, 1968 governs the removal procedure for SC and HC judges",
+    "Justice Soumitra Sen (2011) resigned before Lok Sabha discussion"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "CJI Appointment Convention and Collegium",
+   "summary": "Until 1973 the seniormost judge was normally appointed Chief Justice of India, a convention that was broken in 1973 and 1977. The Second Judges Case (1993) ruled that only the seniormost judge should be appointed CJI and that consultation means concurrence. The 2015 Fourth Judges Case struck down the NJAC and the 99th Amendment.",
+   "facts": [
+    "Till 1973, the seniormost judge was normally appointed CJI",
+    "1973: AN Ray appointed CJI, superseding JM Shelat, KS Hegde and AN Grover",
+    "1977: MU Beg appointed CJI, superseding HR Khanna",
+    "1981 (First Judges Case): consultation only implies exchange of views",
+    "1993 (Second Judges Case): consultation changed to mean concurrence",
+    "1993: only the seniormost judge should be appointed CJI",
+    "1998 (Third Judges Case): CJI must consult a collegium of 4 seniormost judges",
+    "1998: if 2 judges give an adverse opinion, no recommendation is sent",
+    "2015 (Fourth Judges Case): 99th Amendment and NJAC Act declared void",
+    "NJAC: CJI chairperson, 2 seniormost judges, Law Minister, 2 eminent persons"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Jurisdiction and Temporary Appointments",
+   "summary": "The Supreme Court has appellate, original and advisory jurisdiction. Article 32 allows direct approach for violation of Fundamental Rights, while the President can seek an advisory opinion under Article 143 that is not binding. Articles 126, 127 and 128 allow an Acting CJI, ad hoc judges and retired judges in specified situations.",
+   "facts": [
+    "Appellate jurisdiction covers appeals against lower court judgments",
+    "Appeals from High Courts need a certificate under Article 134A",
+    "Article 131 gives original jurisdiction in certain disputes",
+    "Article 32: direct approach for violation of Fundamental Rights",
+    "Article 143: President may seek advisory opinion on public importance questions",
+    "Advisory opinion is NOT binding on the President",
+    "Article 126: Acting CJI appointed when CJI post is vacant or absent",
+    "Article 127: CJI can appoint a High Court judge as ad hoc judge for lack of quorum",
+    "Article 127 needs prior consent of the President",
+    "Article 128: retired SC or HC judge can be requested to sit, with consent"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x05-46",
+   "type": "MCQ",
+   "passage": "The appointment of judges to the Supreme Court has been a subject of repeated litigation in India, and the Court has ruled on it several times. For a long period after the Court was set up, the seniormost judge of the Supreme Court was generally appointed Chief Justice of India. This practice was set aside twice in the 1970s, when the government chose judges who were not the seniormost. The Constitution requires the President to consult certain persons before appointing judges, and the meaning of the word consultation became a dispute. The First Judges Case of 1981 examined this word. The Second Judges Case of 1993 later revisited the question of how the Chief Justice of India should be chosen. The Third Judges Case of 1998 dealt with the process that the Chief Justice must follow before sending recommendations to the Government. Parliament later sought to replace the collegium with a new body, the National Judicial Appointments Commission, through a constitutional amendment and an Act. The Fourth Judges Case of 2015 examined that amendment and the Act. The rulings are known as the First, Second, Third and Fourth Judges Cases. The 1973 and 1977 appointments were made by the government of the time.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In the Third Judges Case (1998), how many judges giving an adverse opinion would stop the CJI from sending a recommendation to the Government?",
+     "options": [
+      "One judge",
+      "Two judges",
+      "Three judges",
+      "Four judges"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "In which year were the 99th Constitutional Amendment Act and the National Judicial Appointments Commission Act enacted?",
+     "options": [
+      "2011",
+      "2014",
+      "2015",
+      "1993"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Which judgment held that the advice tendered by the Chief Justice of India is binding on the President in matters of appointment of judges?",
+     "options": [
+      "First Judges Case (1981)",
+      "Third Judges Case (1998)",
+      "Fourth Judges Case (2015)",
+      "Second Judges Case (1993)"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Under the Second Judges Case (1993), only the seniormost judge of the Supreme Court should be appointed Chief Justice of India.\nReason (R): The National Judicial Appointments Commission Act was upheld by the Supreme Court in 2015.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Chairperson of the NJAC   ->   A. Declared the NJAC and 99th Amendment void\nII. Eminent persons to be nominated to the NJAC   ->   B. Ex-officio member of the NJAC\nIII. Union Law Minister   ->   C. Nominated by CJI, PM and Leader of Opposition in Lok Sabha\nIV. Fourth Judges Case (2015)   ->   D. Chief Justice of India",
+     "options": [
+      "I-A, II-D, III-B, IV-C",
+      "I-D, II-C, III-B, IV-A",
+      "I-A, II-B, III-D, IV-C",
+      "I-B, II-A, III-C, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. The First Judges Case (1981) held that consultation only implies exchange of views.\nII. The Third Judges Case (1998) held that the sole opinion of the Chief Justice of India constitutes consultation.\nIII. The Fourth Judges Case (2015) declared the 99th Constitutional Amendment Act and the NJAC Act void.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. The First Judges Case (1981) held that consultation means concurrence.\nII. One of the two eminent persons to be nominated to the NJAC must be from SC/ST/OBC/Minorities or Women.\nIII. If one judge gives an adverse opinion, the CJI must not send a recommendation to the Government.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x05-47",
+   "type": "TITA",
+   "passage": "Judicial appointments in India have been shaped by a series of decisions over several decades. The Constitution provides that judges of the Supreme Court are appointed by the President, and that the Chief Justice of India is appointed after consultation with judges the President considers necessary. For a long period after the Court was set up, the most senior judge was usually chosen to lead the Court as its head. That pattern was broken twice in the 1970s. Later, the Supreme Court interpreted the word consultation in the context of appointments. The Third Judges Case addressed the steps the Chief Justice must take before advising the government. The Second Judges Case addressed the advice tendered by the Chief Justice and the judges he consults. A proposal to create a National Judicial Appointments Commission was made through a constitutional amendment and an Act of Parliament. The Court examined that amendment and Act in 2015. The cases raised questions about the weight to be given to the Chief Justice's view and about the place of the government in appointments. The rulings are commonly known by their ordinal numbers, such as the First and Second Judges Cases. Each judgment discussed here is known by its year and by the question it addressed.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which numbered Constitutional Amendment created the National Judicial Appointments Commission? (give the number only)"
+    },
+    {
+     "n": 2,
+     "q": "How many seniormost Supreme Court judges are ex-officio members of the NJAC? (number)"
+    },
+    {
+     "n": 3,
+     "q": "When AN Ray was appointed Chief Justice of India in 1973, how many senior judges were superseded? (number)"
+    },
+    {
+     "n": 4,
+     "q": "Under the Second Judges Case, after consulting how many of his seniormost colleagues does the CJI tender advice? (number)"
+    },
+    {
+     "n": 5,
+     "q": "According to the Fourth Judges Case, the NJAC would affect which principle of the judiciary? (two words)"
+    },
+    {
+     "n": 6,
+     "q": "Which Union minister is an ex-officio member of the NJAC? (give the designation)"
+    },
+    {
+     "n": 7,
+     "q": "In the Second Judges Case, the CJI's advice on appointments was held to be what for the President? (one word)"
+    }
+   ]
+  },
+  {
+   "id": "q-x05-48",
+   "type": "MCQ",
+   "passage": "The Supreme Court of India exercises more than one kind of jurisdiction. It hears appeals against decisions of lower courts, decides certain disputes at the first instance, and gives advice when asked. A person whose Fundamental Rights have been violated may approach the Court directly, which gives the Court a role beyond routine appeals. The President of India can also refer questions of public importance to the Court. The Constitution provides for situations in which the Court may need a temporary head or additional judges. One provision deals with the office of the Chief Justice of India when that office is vacant or cannot be filled, while others allow the Chief Justice to draw on judges who are not part of the regular bench. Such provisions are meant for specific circumstances and carry their own conditions. Some of these arrangements involve a retired judge or a High Court judge. The Court's jurisdiction is therefore divided into several parts, each set out in the Constitution. The arrangements described above allow the Court to continue its work when its regular composition is incomplete or its head is unavailable. Each of these provisions is a separate route, and a reader must know which one applies to a given situation.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Under which Article can a person approach the Supreme Court directly for the violation of Fundamental Rights?",
+     "options": [
+      "Article 131",
+      "Article 32",
+      "Article 134A",
+      "Article 143"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "The advisory opinion that the Supreme Court gives when the President seeks it under Article 143 is what for the President?",
+     "options": [
+      "Binding on Parliament",
+      "Binding on the President",
+      "Not binding on the President",
+      "Binding only in criminal matters"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Under Article 126, from which category is an Acting Chief Justice of India appointed?",
+     "options": [
+      "Judge of the Supreme Court",
+      "Retired Chief Justice of India",
+      "Chief Justice of a High Court",
+      "Attorney General of India"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The President of India can seek the opinion of the Supreme Court under Article 143 on a question of public importance.\nReason (R): The opinion of the Supreme Court given under this power is not binding on the President.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Article 126   ->   A. Retired judge sitting temporarily\nII. Article 127   ->   B. Disputes between Government of India and States\nIII. Article 128   ->   C. Acting Chief Justice of India\nIV. Article 131   ->   D. Ad hoc judge for lack of quorum",
+     "options": [
+      "I-D, II-A, III-B, IV-C",
+      "I-C, II-D, III-B, IV-A",
+      "I-C, II-D, III-A, IV-B",
+      "I-C, II-A, III-B, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. Article 134A requires a High Court certificate for an appeal that involves a substantial question of law as to the interpretation of the Constitution.\nII. Under Article 128, a retired judge may sit only with the previous consent of the President and of the person to be appointed.\nIII. Under Article 127, the CJI can appoint an ad hoc judge without the previous consent of the President.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. Article 131 gives the Supreme Court original jurisdiction in disputes between the Government of India and one or more States.\nII. The CJI can appoint an Acting Chief Justice of India under Article 126.\nIII. Article 32 allows a direct approach to the Supreme Court for violation of Fundamental Rights.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only three",
+      "All of the above",
+      "Only two"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x05-49",
+   "type": "TITA",
+   "passage": "The Supreme Court of India has a few separate routes into its work. Ordinary cases arrive as appeals from lower courts. Some disputes can be filed straight in the Supreme Court because of their nature, such as disputes between the Union and the States. Individuals can also approach the Court directly when their rights are violated. The head of the state may seek the Court's advice on questions of public importance. When the office of the Chief Justice is empty or the Chief Justice cannot act, another judge may take charge. When the Court lacks enough judges to hold a sitting, a High Court judge may be called in temporarily. A retired judge may also be asked to sit for a temporary period. Each of these situations is governed by a specific provision of the Constitution, and the provision must be read with its conditions. The Court's appellate, original and advisory roles together define the scope of its work, and the provisions for temporary arrangements support those roles. Some of these provisions apply to the Chief Justice, while others apply to judges who are not part of the regular bench, and the booklet describes each of them. Each is described with its own conditions.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Under which Article can the CJI appoint a High Court judge as an ad hoc judge of the Supreme Court? (number)"
+    },
+    {
+     "n": 2,
+     "q": "Under which Article can a retired Supreme Court or High Court judge be requested to sit as a Supreme Court judge for a temporary period? (number)"
+    },
+    {
+     "n": 3,
+     "q": "Under which Article can the President appoint an Acting Chief Justice of India? (number)"
+    },
+    {
+     "n": 4,
+     "q": "Under which Article does the Supreme Court have original jurisdiction over disputes between the Government of India and one or more States? (number)"
+    },
+    {
+     "n": 5,
+     "q": "Under which Article must a High Court certify that a case involves a substantial question of law as to the interpretation of the Constitution, before an appeal can be made to the Supreme Court? (include the suffix)"
+    },
+    {
+     "n": 6,
+     "q": "Under Article 127, before the CJI appoints a High Court judge as ad hoc judge, consultation is needed with which Chief Justice? (give the office)"
+    },
+    {
+     "n": 7,
+     "q": "Under which Article can a person approach the Supreme Court directly when Fundamental Rights are violated? (number)"
+    }
+   ]
+  }
+ ]
+}

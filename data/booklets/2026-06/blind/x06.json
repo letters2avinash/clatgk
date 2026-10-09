@@ -1,0 +1,293 @@
+{
+ "topic": "Election Symbols (Reservation and Allotment) Order, 1968",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Party System and Types of Parties",
+   "summary": "Political parties are groups of like-minded individuals who voluntarily organise to gain political power through constitutional means and promote the national interest. The booklet compares three party systems and gives examples of national and state parties in India. Recognised parties are allotted symbols reserved for their use in their jurisdiction.",
+   "facts": [
+    "Political party: group of like-minded individuals who voluntarily organise to gain political power through constitutional means",
+    "Aim of parties: promote the national interest",
+    "Three party systems: one party (China), two party (USA), multi-party (India)",
+    "National parties (6) include AAP, BJP, INC, BSP and CPI-M among the examples",
+    "State parties include DMK, AIADMK, Telugu Desam, Shiv Sena, Asom Gana Parishad and Mizo National Front",
+    "Recognised national or state parties are allotted a symbol exclusively reserved for their use in their jurisdiction",
+    "The cockroach-as-symbol debate drew attention to the framework governing election symbols"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Criteria for Recognition",
+   "summary": "Parties are recognised as national or state parties on the basis of votes and seats won at general elections. The booklet sets separate criteria for each category, measured against valid votes polled and seats in the Lok Sabha or the legislative assembly.",
+   "facts": [
+    "National party: secures 6% of valid votes in any 4 or more states at a general election to the LS or LA",
+    "National party: wins 4 LS seats from one or more states",
+    "National party: wins 2% of LS seats at a general election, from 3 states",
+    "National party: recognised as a state party in 4 states",
+    "State party: secures 6% of valid votes polled in the state at a GE to the LA and wins 2 LA seats",
+    "State party: wins 3% of LA seats or 3 LA seats, whichever is more",
+    "State party: secures 8% of total valid votes polled in the state at a GE to the LS or LA",
+    "State party: secures 6% of valid votes polled in the state at a GE to the LS and wins 1 LS seat from the state",
+    "State party: wins 1 LS seat for every 25 seats or fraction thereof allotted to the state"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "1968 Order: Reserved and Free Symbols",
+   "summary": "The Election Symbols (Reservation and Allotment) Order, 1968 was issued by the Election Commission and provides the legal framework for reservation and allotment of symbols. It separates reserved symbols, held exclusively by recognised parties, from free symbols, open to registered unrecognised parties and independent candidates.",
+   "facts": [
+    "The Order was issued by the Election Commission of India in 1968",
+    "The Order provides the legal framework for reservation and allotment of election symbols",
+    "The Order covers registration, recognition and derecognition of parties",
+    "The Order covers classification of parties as national or state parties",
+    "The Order covers resolution of disputes arising from party splits and mergers",
+    "Reserved symbols are exclusively allotted to recognised national or state parties",
+    "Free symbols are available to registered unrecognised parties and independent candidates",
+    "Free symbols are allotted by the ECI from a notified list"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Party Splits and ECI's Role",
+   "summary": "The ECI is the sole authority to adjudicate disputes arising from splits within recognised parties and from mergers. It applies organisational and legislative tests before deciding whether one faction keeps the name and symbol, whether the other must register separately, or whether the symbol is frozen. Two Supreme Court decisions, Sadiq Ali (1972) and Kanhaiyalal Omar (1986), shape how these tests and the Order are applied.",
+   "facts": [
+    "The ECI is the sole authority empowered to adjudicate disputes from splits within recognised parties and from mergers",
+    "Organisational wing test covers the party president, office bearers, and national and state executive members",
+    "Legislative wing test covers elected MPs, MLAs and MLCs (where applicable)",
+    "One faction may be recognised as the original party, retaining the name and symbol",
+    "The other faction must register separately under a different name and symbol",
+    "If neither faction shows a clear majority, ECI may freeze the original symbol and direct both groups to contest under new names and symbols",
+    "During the 1969 split of the Indian National Congress, ECI recognised Congress (O) and Congress (R)",
+    "If factions reunite later, they may approach ECI for restoration of the original name and symbol",
+    "Sadiq Ali (1972): majority support in both wings is crucial; legislative majority alone is not the sole criterion",
+    "Kanhaiyalal Omar (1986): the Symbols Order is a valid exercise of ECI's constitutional and statutory powers"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x06-44",
+   "type": "MCQ",
+   "passage": "India runs a multi-party system, which the booklet contrasts with the one-party system of China and the two-party system of the USA. Parties are groups of like-minded individuals who voluntarily organise to gain political power through constitutional means and to promote the national interest. The Election Commission does not treat all parties alike. It classifies them as national parties or state parties, and each category is judged against its own set of criteria. Both categories are measured by the votes a party polls and the seats it wins at general elections to the Lok Sabha or the legislative assemblies. The booklet sets out the national party criteria first and the state party criteria after them. Across these tests, valid votes are counted either across several states or within a single state, and seats are counted either from one or more states, from a state's allotment, or in a state legislature. Recognised national and state parties are allotted a symbol that is exclusively reserved for their use in their respective jurisdiction. The booklet opens with a recent debate over the possible use of a cockroach as a political symbol, which drew attention to the framework governing election symbols. The booklet presents each category as a list of tests. Each test is written with a specific threshold, so the exact figures matter.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What share of valid votes must a party poll in any four or more states at a general election to the LS or LA to qualify as a national party?",
+     "options": [
+      "2%",
+      "6%",
+      "8%",
+      "10%"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "From how many states must a national party win 2% of Lok Sabha seats at a general election?",
+     "options": [
+      "Two",
+      "Four",
+      "Five",
+      "Three"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Under the state party criteria, one Lok Sabha seat is required for every how many seats, or any fraction thereof, allotted to the state?",
+     "options": [
+      "25",
+      "10",
+      "50",
+      "100"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Recognition of a party as a national or state party is linked to its results at general elections.\nReason (R): Recognition is granted to parties that win seats in state assemblies, with no vote-share test attached.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. National party: valid votes in any 4 or more states   ->   A. 2% of Lok Sabha seats\nII. National party: Lok Sabha seats from one or more states   ->   B. 1 Lok Sabha seat\nIII. National party: Lok Sabha seat share from 3 states   ->   C. 4 Lok Sabha seats\nIV. State party: Lok Sabha seats per 25 allotted seats   ->   D. 6% of valid votes",
+     "options": [
+      "I-C, II-B, III-A, IV-D",
+      "I-D, II-C, III-A, IV-B",
+      "I-A, II-B, III-C, IV-D",
+      "I-A, II-C, III-B, IV-D"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. A national party may qualify by winning 4 seats in the Lok Sabha from one or more states.\nII. A state party may qualify by securing 6% of valid votes polled in the state at a general election to the LS from the state and winning 1 LS seat from that state.\nIII. Recognition under these criteria is based on valid votes polled and seats won at general elections to the Rajya Sabha.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "II and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Read the statements below:\n1. A state party may qualify by securing 8% of the total valid votes polled in the state at a GE to the LS or LA.\n2. A national party may qualify by being recognised as a state party in 2 states.\n3. A state party may qualify by winning 3% of LA seats or 3 seats, whichever is more.\nHow many of the statements are correct?",
+     "options": [
+      "Only two",
+      "Only one",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x06-45",
+   "type": "TITA",
+   "passage": "India runs a multi-party system, which the booklet contrasts with the one-party system of China and the two-party system of the USA. Parties are groups of like-minded individuals who voluntarily organise to gain political power through constitutional means and to promote the national interest. The Election Commission does not treat all parties alike. It classifies them as national parties or state parties, and each category is judged against its own set of criteria. Both categories are measured by the votes a party polls and the seats it wins at general elections to the Lok Sabha or the legislative assemblies. The booklet sets out the national party criteria first and the state party criteria after them. Across these tests, valid votes are counted either across several states or within a single state, and seats are counted either from one or more states, from a state's allotment, or in a state legislature. Recognised national and state parties are allotted a symbol that is exclusively reserved for their use in their respective jurisdiction. The booklet opens with a recent debate over the possible use of a cockroach as a political symbol, which drew attention to the framework governing election symbols. The booklet presents each category as a list of tests. Each test is written with a specific threshold, so the exact figures matter.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "How many Lok Sabha seats must a national party win from one or more states? (number)"
+    },
+    {
+     "n": 2,
+     "q": "What percentage of total valid votes polled in a state must a state party secure at a general election to the LS or LA? (in per cent)"
+    },
+    {
+     "n": 3,
+     "q": "Under the state party criterion based on seats, what fixed minimum number of LA seats applies whichever is more than 3% of seats? (number)"
+    },
+    {
+     "n": 4,
+     "q": "A state party wins one Lok Sabha seat for every how many seats, or any fraction thereof, allotted to the state? (number)"
+    },
+    {
+     "n": 5,
+     "q": "How many Lok Sabha seats must a state party win from the state, along with securing 6% of valid votes in the state at a GE to the LS from that state? (number)"
+    },
+    {
+     "n": 6,
+     "q": "From how many states must a national party win 2% of Lok Sabha seats at a general election? (number)"
+    },
+    {
+     "n": 7,
+     "q": "What percentage of valid votes must a national party secure in any four or more states at a general election? (in per cent)"
+    }
+   ]
+  },
+  {
+   "id": "q-x06-46",
+   "type": "MCQ",
+   "passage": "Election symbols are part of India's multi-party system, which the booklet contrasts with the one-party system of China and the two-party system of the USA. A political party is described as a group of like-minded individuals who voluntarily organise to gain political power through constitutional means and to promote the national interest. A recent debate over the possible use of a cockroach as a political symbol drew attention to the framework that governs election symbols in India. That framework is the Election Symbols (Reservation and Allotment) Order, which provides the legal basis for how symbols are reserved and allotted. Parties and candidates do not all stand on the same footing under it. Recognised parties, whether national or state, are placed differently from parties that are registered but not recognised, and both differ from independent candidates. The booklet presents the framework in a short list of key points, starting with the basic legal structure of the Order. Each group has its own position, and the booklet explains these positions in a compact, ordered form. The booklet also places its material in a current affairs format, with a historical example and a set of practice questions at the end. The booklet is published as part of a monthly current affairs series.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which body issued the Election Symbols (Reservation and Allotment) Order?",
+     "options": [
+      "Parliament of India",
+      "Ministry of Law and Justice",
+      "Supreme Court of India",
+      "Election Commission of India"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which of the following functions is NOT covered under the Election Symbols (Reservation and Allotment) Order?",
+     "options": [
+      "Registration and recognition of political parties",
+      "Classification of parties as national or state parties",
+      "Resolution of disputes from party splits and mergers",
+      "Regulation of election campaign expenditure"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Read the statements below:\n1. The Order covers the registration of political parties.\n2. The Order covers the derecognition of political parties.\n3. The Order covers the allotment of free symbols by the Supreme Court.\nHow many of the statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "How are free symbols allotted under the Order?",
+     "options": [
+      "By the ECI from a notified list",
+      "By lottery among all applicants",
+      "By order of the Supreme Court",
+      "By a Parliamentary statute"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Assertion (A): The Order covers the classification of parties as national or state parties.\nReason (R): The Order covers the registration, recognition and derecognition of political parties.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Match List I with List II:\nI. Classification of parties   ->   A. Party splits and mergers\nII. Resolution of disputes from party splits   ->   B. A notified list\nIII. Source of free symbols   ->   C. Registered unrecognised parties and independent candidates\nIV. Eligibility for free symbols   ->   D. National or state party categories",
+     "options": [
+      "I-B, II-D, III-C, IV-A",
+      "I-C, II-A, III-D, IV-B",
+      "I-D, II-A, III-B, IV-C",
+      "I-A, II-B, III-C, IV-D"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. The Order covers the resolution of disputes arising from party splits and mergers.\nII. Independent candidates may be allotted reserved symbols under the Order.\nIII. Free symbols are available to registered unrecognised parties and independent candidates.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "II and III only",
+      "I and II only",
+      "I, II and III"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x06-47",
+   "type": "TITA",
+   "passage": "Election symbols are part of India's multi-party system, which the booklet contrasts with the one-party system of China and the two-party system of the USA. A political party is described as a group of like-minded individuals who voluntarily organise to gain political power through constitutional means and to promote the national interest. A recent debate over the possible use of a cockroach as a political symbol drew attention to the framework that governs election symbols in India. That framework is the Election Symbols (Reservation and Allotment) Order, which provides the legal basis for how symbols are reserved and allotted. Parties and candidates do not all stand on the same footing under it. Recognised parties, whether national or state, are placed differently from parties that are registered but not recognised, and both differ from independent candidates. The booklet presents the framework in a short list of key points, starting with the basic legal structure of the Order. Each group has its own position, and the booklet explains these positions in a compact, ordered form. The booklet also places its material in a current affairs format, with a historical example and a set of practice questions at the end. The booklet is published as part of a monthly current affairs series.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which body issued the Election Symbols (Reservation and Allotment) Order? (abbreviation)"
+    },
+    {
+     "n": 2,
+     "q": "What category of symbols is allotted by the ECI from a notified list? (two words)"
+    },
+    {
+     "n": 3,
+     "q": "Besides party splits, which other event does the Order's dispute resolution cover? (one word)"
+    },
+    {
+     "n": 4,
+     "q": "Which function of the Order is the opposite of recognition? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "Which function of the Order is the process of formally entering parties in the register? (two words)"
+    },
+    {
+     "n": 6,
+     "q": "Which wing includes elected MPs, MLAs and MLCs in the ECI's party-split tests? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "In the Congress split example, what does the R in Congress (R) stand for? (one word)"
+    }
+   ]
+  }
+ ]
+}

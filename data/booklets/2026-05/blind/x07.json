@@ -1,0 +1,294 @@
+{
+ "topic": "India's Forex Stress and Call for Economic Austerity",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Forex Reserves: Decline and Role",
+   "summary": "India's forex reserves fell by nearly USD 38 billion within two months, reaching around USD 691 billion by May 2026. The reserves are external assets held by the RBI and act as a buffer against external shocks. They strengthen when inflows exceed outflows and weaken when outflows rise.",
+   "facts": [
+    "Reserves declined by nearly USD 38 billion within two months, to about USD 691 billion by May 2026",
+    "Three triggers cited: volatile oil prices, record-breaking gold imports, RBI intervention to defend the rupee",
+    "Forex reserves are external assets maintained by the Reserve Bank of India",
+    "Components: foreign currency assets, gold reserves, Special Drawing Rights, reserve position with the IMF",
+    "Inflows exceeding outflows strengthen reserves and support rupee stability",
+    "Rising outflows or falling foreign investment can reduce reserves and depreciate the rupee",
+    "Reserves ensure uninterrupted access to crude oil, fertilisers and industrial machinery",
+    "Reserves act as a shield against global instability and sudden capital outflows",
+    "Lower reserves mean a reduced buffer and higher sensitivity to global capital flows"
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Import Pressures: Oil, Gold and Fertiliser",
+   "summary": "India's current account deficit is widened by heavy reliance on imported crude oil, record gold purchases and costly fertiliser inputs. Each of these imports draws on dollar reserves and adds pressure on the rupee. The booklet links this to a persistent CAD and imported inflation.",
+   "facts": [
+    "India imports around 89% of its crude oil requirement",
+    "Every USD 1 rise in oil price adds USD 1.5 to 2 billion to the import bill",
+    "India is the 2nd largest gold consumer globally, after China",
+    "Gold accounts for nearly USD 72 billion, about 9% of total imports",
+    "Household gold imports do not add to productive capacity and directly worsen the CAD",
+    "Imported inputs such as urea and ammonia prices have doubled",
+    "Oil marketing companies face under-recoveries because retail fuel prices are frozen",
+    "Rupee depreciation raises import costs, which push up domestic prices",
+    "Persistent CAD reflects inelastic import demand and dependence on external financing"
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Why the Government Seeks Austerity",
+   "summary": "The Prime Minister has urged citizens to limit non-essential spending on gold, overseas travel and fuel. The aims are to manage the CAD, stabilise the rupee and contain capital flight. The approach shifts from supply-side diversification to demand-side restraint.",
+   "facts": [
+    "PM urged citizens to reduce non-essential spending on gold, overseas travel and fuel",
+    "Cutting non-essential imports helps conserve foreign exchange",
+    "Demand-side measures include work-from-home, carpooling and virtual meetings",
+    "Surging fertiliser prices push government to prioritise food security over discretionary fuel use",
+    "Austerity aims to curb capital flight and reduce forex outflows",
+    "Strategic autonomy: shift from supply-side diversification to demand-side restraint",
+    "Goal: reduce dependence on volatile regions and lower energy-to-GDP sensitivity",
+    "Aim: strengthen resilience against global shocks"
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Costs of Excessive Forex Conservation",
+   "summary": "The booklet cautions that overly strict controls could stifle manufacturing, weaken exports and discourage foreign investment. Suppressing private consumption also threatens aggregate demand and job creation. Past import-substitution attempts are cited as a warning, since they led to low competitiveness.",
+   "facts": [
+    "Indian industry depends on imported capital goods, semiconductors and raw materials",
+    "Restricted imports lower industrial output and exports",
+    "Protectionism trap: import curbs raise input costs and reduce export competitiveness",
+    "Capital control concerns raise the country risk premium",
+    "Foreign direct and portfolio investment inflows could be dampened",
+    "Private consumption is a major GDP component; reducing it weakens growth",
+    "Foreign investors avoid economies lacking strong domestic demand",
+    "Past import-substitution efforts led to low industrial competitiveness and inefficiency",
+    "Lower production leads to significantly reduced job creation"
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x07-56",
+   "type": "MCQ",
+   "passage": "India's foreign exchange reserves have fallen sharply within a short period. The booklet describes a drop of nearly USD 38 billion over two months, taking the reserves to around USD 691 billion by May 2026. The decline has been linked to volatile oil prices, record-breaking gold imports and the central bank's market intervention to defend the rupee. In response to growing concerns over the reserves, the Prime Minister has urged citizens to reduce non-essential spending on gold purchases, overseas travel and fuel. The government's concern is that the current account deficit has widened at a time when the currency is under pressure. Household gold imports, in particular, do not add to productive capacity. Rising fertiliser prices have added another layer to the problem, forcing a choice between fuel use and food security, and the government has given food security the higher priority. The booklet says the strategy must balance the immediate need for financial security against the long-term health of the nation's industrial sectors. The booklet presents these steps as part of a wider effort aimed at the economy's future needs. The measures are meant to provide currency stability and manage inflation. The booklet frames these concerns as central to the government's current approach.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "According to the booklet, how much does each USD 1 increase in the price of oil add to India's import bill?",
+     "options": [
+      "USD 1.5 to 2 billion",
+      "USD 0.5 to 1 billion",
+      "USD 3 to 4 billion",
+      "USD 10 billion"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which feature of import demand does the booklet cite as a reason for a persistent current account deficit?",
+     "options": [
+      "Elastic import demand",
+      "Falling import prices",
+      "Inelastic import demand",
+      "Surplus export demand"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What does the booklet identify as the implication of declining forex reserves?",
+     "options": [
+      "Lower sensitivity to global capital flows",
+      "Reduced buffer against external shocks",
+      "A surplus in the balance of payments",
+      "Higher gold reserves held by the RBI"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Cutting non-essential imports helps India conserve foreign exchange.\nReason (R): Foreign exchange reserves are external assets maintained by the Reserve Bank of India.",
+     "options": [
+      "Both A and R are true and R explains A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true but R does not explain A"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Demand-side behavioural measures   ->   A. Reducing foreign exchange outflows\nII. Gold imports in FY26   ->   B. Work-from-home adoption, carpooling and virtual meetings\nIII. Strategic autonomy   ->   C. Rose by nearly 25% to USD 71.97 billion\nIV. Containing capital flight   ->   D. Shift from supply-side diversification to demand-side restraint",
+     "options": [
+      "I-D, II-B, III-A, IV-C",
+      "I-C, II-B, III-D, IV-A",
+      "I-B, II-C, III-D, IV-A",
+      "I-C, II-D, III-A, IV-B"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the goals behind the shift to demand-side restraint:\nI. Lowering energy-to-GDP sensitivity is one of the stated goals.\nII. Increasing dependence on volatile regions is one of the stated goals.\nIII. Strengthening resilience against global shocks is one of the stated goals.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements on the import bill and the rupee are correct?\nI. Energy imports form one part of India's twin import burden.\nII. Non-essential imports are excluded from India's twin import burden.\nIII. A weaker rupee raises the cost of imports.\nIV. Sharp increases in imports can lead to a reduction in forex reserves.",
+     "options": [
+      "Only one",
+      "Only three",
+      "Only two",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x07-57",
+   "type": "TITA",
+   "passage": "India's foreign exchange reserves have declined in recent months, and the government has responded by asking citizens to spend less on certain items. The Prime Minister has urged people to limit discretionary spending on gold purchases, overseas travel and fuel. Gold imports have reached record levels, and the booklet notes that household gold purchases do not add to the country's productive capacity. Fuel is another pressure point, since oil prices feed directly into the import bill and into the cost of living. The booklet also explains that the government has had to weigh fuel use against food security because of rising fertiliser costs. The booklet notes that a weaker rupee makes imports more expensive, which in turn pushes up domestic prices. Restraint is also meant to limit capital leaving the country and to keep the rupee steady. The booklet describes the broader purpose as making India's economy better prepared for unexpected developments abroad and less dependent on certain regions for its energy. The steps are also described as a way to lower the country's exposure to changes in energy costs. Each of these pressures has to be weighed against the others. Such steps are presented as a way to balance short-term financial needs with the long-term health of the economy.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "By how many billion US dollars does each USD 1 rise in the price of oil add to India's import bill, at the lower end of the booklet's range? (number, in billion USD)"
+    },
+    {
+     "n": 2,
+     "q": "By roughly what percentage did gold imports rise in FY26? (number, in per cent)"
+    },
+    {
+     "n": 3,
+     "q": "What term does the booklet use for the approach that shifts from supply-side diversification to demand-side restraint? (two words)"
+    },
+    {
+     "n": 4,
+     "q": "Which demand-side measure, in which employees work remotely, does the booklet suggest to reduce fuel use? (name it in two or three words)"
+    },
+    {
+     "n": 5,
+     "q": "The policy aims to reduce dependence on which type of regions? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "Apart from energy imports, what is the other component of India's twin import burden? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "Declining forex reserves reduce the buffer against which type of events? (two words)"
+    }
+   ]
+  },
+  {
+   "id": "q-x07-58",
+   "type": "MCQ",
+   "passage": "The booklet argues that the drive to conserve foreign exchange carries costs for the wider economy. It cautions that overly strict controls could stifle manufacturing and broader economic growth. The text also looks back at history, and earlier efforts to reduce dependence on foreign goods are presented as a warning. Household spending is another concern, as the booklet examines how curbs on it would affect the wider economy. Industry is also in view. The booklet notes that a balance must be struck between the immediate need for financial security and the long-term health of industrial sectors. In this account, policymakers must weigh the value of stable reserves against the risks to manufacturing and growth. Measures taken to protect the currency therefore have to be judged against their effects on the wider economy. The booklet lists several channels through which these effects could spread, including manufacturing, household spending and the broader growth of the economy. The booklet also places this discussion within the current concerns about the rupee and the reserves, which have been under pressure in recent months. The text also states that imports become more expensive when the rupee weakens. This linkage is part of the wider picture the booklet paints for the economy.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "According to the booklet, what is the effect of restricting imports on the economy?",
+     "options": [
+      "Higher industrial output and exports",
+      "Lower industrial output and exports",
+      "Lower interest rates for businesses",
+      "Higher foreign direct investment"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Assertion (A): Reducing private consumption strengthens economic growth.\nReason (R): Private consumption is a major component of GDP.",
+     "options": [
+      "Both A and R are true and R explains A",
+      "Both A and R are true but R does not explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "What does the booklet say Indian industry depends on imports for?",
+     "options": [
+      "Imported capital goods, semiconductors and raw materials",
+      "Domestically mined coal and cement",
+      "Finished consumer electronics alone",
+      "Agricultural produce such as wheat and rice"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. Lower production activity   ->   A. Low industrial competitiveness and inefficiency\nII. Past import-substitution efforts   ->   B. Businesses avoid fresh investment and expansion\nIII. Capital control concerns   ->   C. Significantly reduced job creation\nIV. Weak consumer spending   ->   D. Raise the country risk premium",
+     "options": [
+      "I-B, II-C, III-A, IV-D",
+      "I-A, II-B, III-D, IV-C",
+      "I-C, II-A, III-D, IV-B",
+      "I-C, II-B, III-D, IV-A"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "How do foreign investors respond to economies lacking strong domestic demand and high growth potential?",
+     "options": [
+      "They increase their stake sharply",
+      "They avoid such economies",
+      "They shift only to government bonds",
+      "They ignore demand conditions"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements about the costs of strict import curbs:\nI. Foreign direct and portfolio investment inflows could be dampened.\nII. Restricted imports raise industrial output.\nIII. Suppressing consumption mirrors past strategies that led to slower-than-expected economic development.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements about the costs of forex conservation are correct?\nI. Suppressing private consumption threatens aggregate demand.\nII. Excessive forex conservation has no effect on investment inflows.\nIII. Past import-substitution attempts led to high industrial competitiveness.\nIV. Capital control concerns lower the country risk premium.",
+     "options": [
+      "Only two",
+      "Only three",
+      "Only one",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x07-59",
+   "type": "TITA",
+   "passage": "The booklet warns that tight control over foreign exchange can have side effects on growth. It says that overly strict controls could stifle manufacturing and broader economic growth, and that Indian industry relies on inputs from abroad for production. Curbing those inputs could reduce output across factories. Capital controls may also change how outsiders view the country, which can hold back the money that would otherwise come in. The booklet points to a past approach as a cautionary example: earlier efforts to cut dependence on foreign goods are said to have resulted in weak industrial performance. Consumption is another channel of concern. Curbs on household spending are seen as a risk to economic growth. Lower production has wider consequences across sectors, and the booklet also warns that a slowdown can weaken the overall economy. The balance, it concludes, must be struck between immediate financial security and the long-term health of industry. The booklet frames these choices as trade-offs that must be made carefully. The booklet's examples come from the current debate over the reserves, which fell to around USD 691 billion by May 2026. Reserves, rupee stability and the cost of imports all feature in this argument. The text also states that imports become more expensive when the rupee weakens.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Capital control concerns raise which premium on the country? (three words)"
+    },
+    {
+     "n": 2,
+     "q": "Along with FDI, which other type of foreign investment inflow could be dampened? (two words)"
+    },
+    {
+     "n": 3,
+     "q": "What is the name of the past strategy the booklet cites as producing low industrial competitiveness? (two words)"
+    },
+    {
+     "n": 4,
+     "q": "Lower production leads to significantly reduced what? (two words)"
+    },
+    {
+     "n": 5,
+     "q": "Restricted imports lower industrial output and which other variable? (one word)"
+    },
+    {
+     "n": 6,
+     "q": "Foreign investors avoid economies lacking strong what? (two words)"
+    },
+    {
+     "n": 7,
+     "q": "Suppressing private consumption threatens which economic aggregate? (two words)"
+    }
+   ]
+  }
+ ]
+}

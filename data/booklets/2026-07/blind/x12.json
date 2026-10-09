@@ -1,0 +1,294 @@
+{
+ "topic": "Vikram-1: India's Private Orbital Rocket",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Mission and Orbit Basics",
+   "summary": "Skyroot Aerospace of Hyderabad launched Vikram-1 on Mission Aagaman, its maiden flight, from the Satish Dhawan Space Centre at Sriharikota. The flight placed payloads into Low Earth Orbit and made India the third country, after the US and China, to demonstrate private orbital launch capability. The booklet also separates sub-orbital rockets, which do not place a satellite into orbit, from orbital rockets, which do.",
+   "facts": [
+    "Vikram-1 is India's first privately built orbital launch vehicle.",
+    "Maiden flight was Mission Aagaman, launched from Satish Dhawan Space Centre, Sriharikota.",
+    "The flight placed payloads into Low Earth Orbit.",
+    "India became the 3rd country, after US and China, to demonstrate private orbital launch capability.",
+    "Vikram-1 is a 4-stage orbital launch vehicle.",
+    "The mission was authorised and facilitated by IN-SPACe.",
+    "Vikram-1 is named after Dr Vikram Sarabhai, father of India's space programme.",
+    "A sub-orbital rocket goes to space but does not place a satellite into orbit.",
+    "An orbital rocket places a satellite into orbit around the Earth.",
+    "Low Earth Orbit lies between 160 km and 2,000 km above Earth's surface."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Propulsion and Structure",
+   "summary": "The first three stages of Vikram-1, called Kalam Engines, use advanced solid propellants. The upper stage uses a 3D-printed liquid-fuelled Raman Engine for precise orbital insertion and manoeuvres. The rocket extensively uses all-carbon composite structures, and the booklet also highlights Agnilet, a single-piece 3D-printed semi-cryogenic engine.",
+   "facts": [
+    "Stages 1 to 3 of Vikram-1 are called Kalam Engines.",
+    "The Kalam Engines use advanced solid propellants.",
+    "The upper stage features a 3D-printed liquid-fuelled Raman Engine.",
+    "The Raman Engine is used for precise orbital insertion and manoeuvres.",
+    "Vikram-1 extensively uses all-carbon composite structures.",
+    "Agnilet is the world's first single-piece 3D-printed semi-cryogenic engine.",
+    "Agnibaan SOrTeD is the world's first rocket with a fully 3D-printed engine.",
+    "SOrTeD stands for SubOrbital Technology Demonstrator."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Payloads on Board",
+   "summary": "Vikram-1 carries scientific, technological, commercial and symbolic payloads. SCOPE, developed by Skyroot Aerospace, validates onboard spacecraft systems and mission technologies during flight. The Embrace robotic arm, created by Cosmoserve Space, is linked to future applications such as space debris removal and in-orbit servicing.",
+   "facts": [
+    "Vikram-1 carries scientific, technological, commercial and symbolic payloads.",
+    "SCOPE, developed by Skyroot Aerospace, validates onboard spacecraft systems and mission technologies during flight.",
+    "The Embrace robotic arm, created by Cosmoserve Space, stays attached to the payload deck during its demonstration.",
+    "Embrace is linked to future applications such as space debris removal and in-orbit servicing.",
+    "SOLARAS is an indigenous CubeSat that demonstrates indigenous satellite technology in orbit.",
+    "Cosmic Bloom is India's first lab-grown diamond jewellery sent into space, developed by Cosmos Diamonds.",
+    "An 18K gold rocket model carries micro-sculptures of Sir C.V. Raman, Dr Vikram Sarabhai and Dr A.P.J. Abdul Kalam.",
+    "The gold rocket model is credited to Telangana-based artist Ajay Kumar Mattewada."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Policy, Regulators and FDI",
+   "summary": "Indian Space Policy 2023 opened the complete space value chain to non-government entities. IN-SPACe works as the single-window regulator for private space activities, while NewSpace India Limited serves as ISRO's commercial arm. FDI limits are set separately for each segment of the space sector.",
+   "facts": [
+    "Indian Space Policy 2023 opened the complete space value chain to non-government entities.",
+    "NewSpace India Limited serves as ISRO's commercial arm and was established in 2019.",
+    "IN-SPACe functions as a single-window regulator for private space activities.",
+    "IN-SPACe stands for Indian National Space Promotion and Authorisation Centre and is headquartered in Ahmedabad.",
+    "IN-SPACe Seed Fund Scheme provides grants up to Rs 1 crore to startups and MSMEs.",
+    "Antrix Corporation (1992) is the marketing arm of ISRO.",
+    "FDI: 74% automatic in satellite manufacturing and operations.",
+    "FDI: 49% automatic in launch vehicles and spaceports.",
+    "FDI: 100% in satellite components and subsystems."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x12-80",
+   "type": "MCQ",
+   "passage": "Vikram-1 is India's first privately built orbital launch vehicle. Skyroot Aerospace, a Hyderabad-based company, developed it, and the rocket flew its maiden mission, named Mission Aagaman, from the Satish Dhawan Centre at Sriharikota. The flight placed payloads into Low Earth Orbit. With it, India became the third country, after the United States and China, to demonstrate private orbital launch capability. The booklet gives close attention to the rocket's propulsion and structure, covering its stages, engines and materials. The rocket also carries a mix of payloads. The booklet describes them as scientific, technological, commercial and symbolic, and lists them together on one manifest. Among the technology items is SCOPE, which validates onboard spacecraft systems during the flight. Authorisation and facilitation for the launch came from IN-SPACe, which functions as a single-window regulator for private space activities. The Indian Space Policy 2023 opened the complete space value chain to non-government entities, which the booklet calls a fundamental transformation of India's space ecosystem. The mission follows Vikram-S, India's first privately developed sub-orbital rocket. A sub-orbital rocket goes to space but does not place a satellite into orbit, which is the key difference from an orbital rocket. The booklet is a July 2026 current affairs publication on defence, space and science and technology.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "What does SOrTeD stand for in the name Agnibaan SOrTeD?",
+     "options": [
+      "SubOrbital Technology Demonstrator",
+      "Space Orbital Test Device",
+      "Solid Orbital Transfer Demonstrator",
+      "Sub-Surface Technology Deployment"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which company developed Agnibaan SOrTeD?",
+     "options": [
+      "Skyroot Aerospace",
+      "Cosmoserve Space",
+      "Agnikul Cosmos",
+      "Space Zone India"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Vikram-1 is a how-many-stage orbital launch vehicle?",
+     "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): Vikram-1's first three stages use advanced solid propellants.\nReason (R): The first three stages of Vikram-1 are called Kalam Engines.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Agnilet   ->   A. Stages 1 to 3 of Vikram-1, using advanced solid propellants\nII. Agnibaan SOrTeD   ->   B. India's first privately developed launch pad\nIII. Kalam Engines   ->   C. World's first single-piece 3D-printed semi-cryogenic engine\nIV. Dhanush   ->   D. World's first rocket with a fully 3D-printed engine",
+     "options": [
+      "I-D, II-C, III-B, IV-A",
+      "I-A, II-C, III-B, IV-D",
+      "I-B, II-C, III-D, IV-A",
+      "I-C, II-D, III-A, IV-B"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. Stages 1 to 3 of Vikram-1 are called Kalam Engines.\nII. Agnibaan SOrTeD was developed by Skyroot Aerospace.\nIII. Agnilet is a single-piece 3D-printed engine.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "How many of the following statements are correct?\nI. Vikram-1 is a three-stage orbital launch vehicle.\nII. The Kalam Engines use liquid propellants.\nIII. Agnilet is the world's first single-piece 3D-printed semi-cryogenic engine.",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x12-81",
+   "type": "TITA",
+   "passage": "Skyroot Aerospace, a Hyderabad-based company, built Vikram-1, which the booklet describes as India's first privately built orbital launch vehicle. Its maiden flight, Mission Aagaman, took off from the Satish Dhawan Centre at Sriharikota. An orbital rocket places a satellite into orbit around Earth. A sub-orbital rocket, by contrast, goes to space but does not place a satellite into orbit. Vikram-1 is an orbital vehicle, while Vikram-S, which it follows, was India's first privately developed sub-orbital rocket. The launch placed payloads into Low Earth Orbit, and India became the third country, after the United States and China, to demonstrate private orbital launch capability. The booklet's coverage of the mission includes the rocket's propulsion and structure, discussed across its stages, engines and materials. The vehicle's payloads are classed as scientific, technological, commercial and symbolic, and they are listed together on a single manifest. IN-SPACe authorised and facilitated the launch, and the booklet describes it as a single-window regulator for private space activities. The Indian Space Policy 2023 opened the complete space value chain to non-government entities. The booklet is a July 2026 current affairs publication covering defence, space and science and technology, and this section forms part of its space coverage. The Vikram-1 section is headed Why in News.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Agnilet is described as the world's first single-piece 3D-printed engine of which type?"
+    },
+    {
+     "n": 2,
+     "q": "Which company developed Agnibaan SOrTeD?"
+    },
+    {
+     "n": 3,
+     "q": "What is the name of India's first privately developed launch pad, used for the Agnibaan SOrTeD launch?"
+    },
+    {
+     "n": 4,
+     "q": "What name is given to Vikram-1's first three stages?"
+    },
+    {
+     "n": 5,
+     "q": "How many stages does Vikram-1 have?"
+    },
+    {
+     "n": 6,
+     "q": "What type of propellant do Vikram-1's first three stages use?"
+    },
+    {
+     "n": 7,
+     "q": "Agnibaan SOrTeD is the world's first rocket with what kind of engine, in terms of how it is manufactured?"
+    }
+   ]
+  },
+  {
+   "id": "q-x12-82",
+   "type": "MCQ",
+   "passage": "Vikram-1 is India's first privately built orbital launch vehicle. Its maiden flight, named Mission Aagaman, launched from the Satish Dhawan Centre at Sriharikota and placed payloads into Low Earth Orbit. With it, India became the third country, after the United States and China, to demonstrate private orbital launch capability. The booklet presents the rocket's payloads as a multi-purpose manifest. The payloads are classed as scientific, technological, commercial and symbolic, and they fly together on the same mission. Vikram-1 follows Vikram-S, India's first privately developed sub-orbital rocket. A sub-orbital rocket goes to space but does not place a satellite into orbit. Authorisation and facilitation for the launch came from IN-SPACe, which functions as a single-window regulator for private space activities. The Indian Space Policy 2023 opened the complete space value chain to non-government entities, a change the booklet calls fundamental. The rocket is named after Dr Vikram Sarabhai, whom the booklet calls the father of India's space programme. The booklet also describes the propulsion and structure of the rocket, covering its stages, engines and materials, in a separate section. The booklet's payload list is part of its Vikram-1 section. The booklet is a July 2026 current affairs publication on defence, space and science and technology.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Assertion (A): The technology validated by the Embrace robotic arm is linked to in-orbit servicing.\nReason (R): The Embrace robotic arm stays attached to the payload deck during its demonstration.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "How many of the following statements are correct?\nI. Cosmic Bloom was developed by Cosmos Diamonds.\nII. The technology validated by Embrace is linked to in-orbit servicing.\nIII. The 18K gold rocket model is made of silver.",
+     "options": [
+      "Only one",
+      "Only three",
+      "Only two",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Match List I with List II:\nI. SCOPE   ->   A. Robotic arm linked to space debris removal and in-orbit servicing\nII. Embrace robotic arm   ->   B. Lab-grown diamond jewellery sent into space\nIII. SOLARAS   ->   C. Validates onboard spacecraft systems during flight\nIV. Cosmic Bloom   ->   D. Indigenous CubeSat demonstrating satellite technology in orbit",
+     "options": [
+      "I-C, II-A, III-D, IV-B",
+      "I-C, II-A, III-B, IV-D",
+      "I-A, II-C, III-B, IV-D",
+      "I-B, II-D, III-A, IV-C"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "The Cosmic Bloom payload is described as India's first what?",
+     "options": [
+      "Robotic arm for in-orbit servicing",
+      "Indigenous CubeSat in orbit",
+      "Gold rocket model with micro-sculptures",
+      "Lab-grown diamond jewellery sent into space"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Which company developed SCOPE, the payload that validates onboard spacecraft systems during flight?",
+     "options": [
+      "Cosmoserve Space",
+      "Skyroot Aerospace",
+      "Cosmos Diamonds",
+      "Agnikul Cosmos"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. SCOPE was developed by Skyroot Aerospace.\nII. The Embrace robotic arm was created by Cosmos Diamonds.\nIII. SOLARAS is an indigenous CubeSat.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and III only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "The 18K gold rocket model carried on Vikram-1 was credited to which artist?",
+     "options": [
+      "Pawan Kumar Chandana",
+      "Naga Bharath Daka",
+      "Ajay Kumar Mattewada",
+      "Srinath Ravichandran"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x12-83",
+   "type": "TITA",
+   "passage": "Vikram-1 is an orbital launch vehicle developed by Skyroot Aerospace, and the booklet describes it as India's first privately built orbital launch vehicle. Its maiden flight, named Mission Aagaman, lifted off from the Satish Dhawan Centre at Sriharikota, and the flight placed its payloads into Low Earth Orbit. The booklet presents the flight's payloads as a multi-purpose manifest. Those payloads are classed as scientific, technological, commercial and symbolic. Vikram-1 follows Vikram-S, India's first privately developed sub-orbital rocket. A sub-orbital rocket goes to space without placing a satellite into orbit, while an orbital rocket does place one into orbit. IN-SPACe authorised and facilitated the launch. The booklet describes IN-SPACe as a single-window regulator for private space activities, and the Indian Space Policy 2023 opened the complete space value chain to non-government entities. Dr Vikram Sarabhai is regarded as the father of India's space programme, and the rocket is named after him. The mission's propulsion and structure form a separate part of the booklet's coverage, which also looks at the flight's payloads and the policies that shape private space activity in India. The booklet's payload list is part of its Vikram-1 section.The booklet is a July 2026 current affairs publication on defence, space and science and technology.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Which company created the Embrace robotic arm?"
+    },
+    {
+     "n": 2,
+     "q": "Which company developed Cosmic Bloom?"
+    },
+    {
+     "n": 3,
+     "q": "Which Telangana-based artist is credited with the 18K gold rocket model carried on Vikram-1?"
+    },
+    {
+     "n": 4,
+     "q": "What is the name of India's indigenous CubeSat that demonstrates satellite technology in orbit?"
+    },
+    {
+     "n": 5,
+     "q": "Which payload developed by Skyroot Aerospace validates onboard spacecraft systems during flight?"
+    },
+    {
+     "n": 6,
+     "q": "Besides in-orbit servicing, what application is the technology validated by Embrace linked to?"
+    },
+    {
+     "n": 7,
+     "q": "What type of jewellery did Cosmic Bloom send into space?"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+{
+ "topic": "Telegram Ban under Section 69A of IT Act 2000",
+ "subtopics": [
+  {
+   "i": 0,
+   "title": "Why Telegram was blocked",
+   "summary": "MeitY temporarily blocked Telegram in India under Section 69A of the IT Act, 2000, after criminal groups allegedly used its message-editing feature to target candidates of the NEET-UG 2026 Re-Examination. Fraudsters edited old messages after an exam had ended to create a false appearance of a pre-exam leak. The booklet also links rising cybercrime complaints to activities organised within Telegram groups.",
+   "facts": [
+    "MeitY temporarily blocked Telegram in India under Section 69A of the IT Act, 2000.",
+    "Criminal groups allegedly used message editing to target and defraud NEET-UG 2026 Re-Examination candidates.",
+    "Fraudsters inserted fake exam papers into old messages after an exam had ended.",
+    "This retroactive editing created a false appearance of a pre-exam leak.",
+    "Hidden phone numbers and end-to-end encryption in secret chats make tracing malicious actors nearly impossible for investigators.",
+    "Telegram hosts marketplaces for renting bank accounts used in money laundering, extortion and illegal gambling.",
+    "Criminals use automated bots to distribute illegal content and coordinate large-scale activities with minimal manual effort.",
+    "Government data shows a sharp rise in official cybercrime complaints linked to activities in Telegram groups."
+   ]
+  },
+  {
+   "i": 1,
+   "title": "Section 69A and the blocking procedure",
+   "summary": "Section 69A, introduced in 2008, lets the Central Government or an officer it specially authorises direct any government agency or intermediary to block public access to online information. The booklet lists six grounds for blocking. Requests are examined under the IT (Blocking Rules), 2009 through an Inter-Ministerial Review Mechanism. A Designated Committee evaluates necessity and legality, and interim directions may be issued in urgent situations.",
+   "facts": [
+    "Section 69A was introduced in 2008.",
+    "The Central Government, or an officer it specially authorises, can direct blocking of online information.",
+    "Directions may go to any government agency or intermediary to block public access.",
+    "Six grounds: sovereignty and integrity of India; defence of India; security of State; friendly relations with foreign States; public order; prevention of incitement to cognisable offences.",
+    "Requests for blocking are examined under the IT (Blocking Rules), 2009.",
+    "The Blocking Rules use an Inter-Ministerial Review Mechanism.",
+    "A Designated Committee evaluates necessity and legality before the proposed action is implemented.",
+    "In urgent situations, Interim Blocking Directions may be issued before a Full Review, subject to subsequent examination.",
+    "The booklet calls Section 69A the primary legal mechanism for restricting access to digital content and online platforms."
+   ]
+  },
+  {
+   "i": 2,
+   "title": "Constitutional basis and judicial review",
+   "summary": "Digital free speech is protected under Article 19(1)(a), while Article 19(2) allows reasonable restrictions. In Shreya Singhal vs Union of India (2015), the Supreme Court upheld Section 69A as a narrowly drawn provision and struck down the vague Section 66A. Later rulings from the Delhi and Karnataka High Courts dealt with disclosure of blocking orders and with the rights of foreign companies.",
+   "facts": [
+    "Article 19(1)(a) protects digital free speech.",
+    "Article 19(2) allows the State to impose reasonable restrictions on free speech.",
+    "Shreya Singhal vs Union of India (2015): Supreme Court upheld Section 69A as a narrowly drawn provision.",
+    "The same judgment struck down the vague Section 66A.",
+    "Tanul Thakur vs Union of India (2022): Delhi High Court mandated disclosure of original blocking orders.",
+    "Tanul Thakur challenged the blanket confidentiality of Rule 16.",
+    "X Corp vs Union of India (2023): Karnataka High Court ruled that foreign companies cannot claim Article 19 rights to challenge blocking orders."
+   ]
+  },
+  {
+   "i": 3,
+   "title": "Intermediary duties and Safe Harbour",
+   "summary": "The IT Rules, 2021 require intermediaries to appoint a Grievance Officer, a Chief Compliance Officer and a Nodal Contact Person, and to carry out monthly compliance reporting. Section 79(3)(b) allows certain ministries to issue takedown or blocking orders directly, implemented through the Sahyog Portal. Safe harbour under Section 79 protects intermediaries from liability for third-party content only while they meet their duties.",
+   "facts": [
+    "IT Rules, 2021 require appointment of a Grievance Officer, Chief Compliance Officer and Nodal Contact Person.",
+    "Intermediaries must carry out monthly compliance and transparency reporting.",
+    "Unlawful content must be removed on government direction.",
+    "Section 79(3)(b) allows certain ministries to directly issue takedown or blocking orders.",
+    "Section 79(3)(b) orders are implemented through the Government's Sahyog Portal.",
+    "Section 79 grants online intermediaries immunity from liability for third-party content (safe harbour).",
+    "Safe harbour is available only if intermediaries exercise due diligence and comply with lawful government directions.",
+    "Failure to comply can lead to loss of safe harbour protection under Section 79."
+   ]
+  },
+  {
+   "i": 4,
+   "title": "DPDP Act 2023 and privacy",
+   "summary": "The Supreme Court held in 2017 that privacy is a fundamental right under Article 21. The Digital Personal Data Protection Act, 2023 makes data fiduciaries accountable and lets platforms collect only the data needed for the services users opt for. The Act defines three roles, allows penalties of up to 250 crore on data fiduciaries, and sets rules such as a 72-hour breach notification and a 3-year retention limit for certain platforms.",
+   "facts": [
+    "In 2017 the Supreme Court held that privacy is a fundamental right under Article 21.",
+    "A Data Fiduciary decides the purpose of processing personal data.",
+    "A Data Processor processes data on behalf of the Data Fiduciary.",
+    "A Data Principal is the individual whose data is processed.",
+    "Platforms may collect only the data required for their functioning and for services users have opted for.",
+    "A torch app does not need microphone or contact access.",
+    "Penalties of up to 250 crore can be imposed on Data Fiduciaries.",
+    "All data is categorised under three heads: general, sensitive and critical.",
+    "Data breaches must be notified to the Data Protection Board within 72 hours.",
+    "E-commerce, social media and gaming platforms must generally delete personal data after 3 years of user inactivity."
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "id": "q-x07-48",
+   "type": "MCQ",
+   "passage": "Digital speech has become a constitutional question in India, not only a matter of technology. In a recent episode, the Ministry of Electronics and Information Technology temporarily blocked the Telegram platform under Section 69A of the Information Technology Act, 2000. The action followed recommendations from the National Testing Agency, after criminal groups were said to have used the platform's message-editing features to target candidates appearing in NEET-UG 2026 Re-Examination. The episode raised a wider debate on how far the state may restrict online content. Coverage of the case also pointed to the platform's strong encryption and its support for very large file sharing. Government data indicates a sharp increase in cybercrime complaints linked to activities organised within Telegram groups. Telegram has been described as a platform that hosts active marketplaces for renting bank accounts used in money laundering, extortion and illegal gambling. The features being discussed include message editing, encryption and file sharing. Such questions are examined in courts, where the powers and rules framed under the law are tested. Several High Courts and the Supreme Court have ruled on questions relating to blocking, and their decisions shape how the government, online platforms and users act when content is blocked. The Telegram case is therefore one example of a wider legal question.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Under Section 69A, what kind of directions may be issued in urgent situations before a full review?",
+     "options": [
+      "Permanent Blocking Orders",
+      "Show Cause Notices",
+      "Interim Blocking Directions",
+      "Suspension Notices"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "In X Corp vs Union of India (2023), the Karnataka High Court ruled that which of the following cannot claim Article 19 rights to challenge blocking orders?",
+     "options": [
+      "Foreign companies",
+      "Indian citizens",
+      "Parliamentary committees",
+      "Government departments"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "In Shreya Singhal vs Union of India (2015), which provision did the Supreme Court strike down as vague?",
+     "options": [
+      "Section 69A",
+      "Section 79(3)(b)",
+      "Section 79",
+      "Section 66A"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): The Delhi High Court in Tanul Thakur vs Union of India (2022) mandated disclosure of original blocking orders.\nReason (R): Article 19(2) allows the State to impose reasonable restrictions on free speech.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Match List I with List II:\nI. Shreya Singhal vs Union of India   ->   A. Central Government or an officer specially authorised by it\nII. Tanul Thakur vs Union of India   ->   B. 2023\nIII. X Corp vs Union of India   ->   C. 2015\nIV. Section 69A   ->   D. 2022",
+     "options": [
+      "I-C, II-A, III-D, IV-B",
+      "I-B, II-C, III-A, IV-D",
+      "I-C, II-D, III-B, IV-A",
+      "I-A, II-C, III-D, IV-B"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. Article 19(2) allows the State to impose reasonable restrictions on free speech.\nII. The Karnataka High Court held that Section 66A was unconstitutional.\nIII. The Karnataka High Court held that foreign companies can claim Article 19 rights to challenge blocking orders.\nWhich of the above statements is/are correct?",
+     "options": [
+      "II and III only",
+      "I and II only",
+      "I and III only",
+      "I only"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. Section 69A empowers the Central Government or an officer specially authorised by it to direct blocking of online information.\nII. Interim Blocking Directions may be issued in urgent situations before a Full Review.\nIII. The Delhi High Court held that foreign companies cannot claim Article 19 rights to challenge blocking orders.\nHow many of the statements given above are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x07-49",
+   "type": "TITA",
+   "passage": "India's rules on online speech sit at the meeting point of technology and fundamental rights. The government can ask platforms to stop public access to certain online content, and the law lets it act on recommendations made by agencies. In a recent case, a messaging platform was temporarily blocked after criminal groups reportedly exploited its features to defraud candidates. The Telegram episode also drew attention to the platform's encryption, its file-sharing capacity and its message-editing features, which were discussed in coverage of the case. Government data also indicates a sharp increase in cybercrime complaints linked to activities organised within such groups. The platform is also described as hosting marketplaces for renting bank accounts used in money laundering. The legal basis for the power is an Act passed in 2000, and its wording has been examined several times. Courts have heard petitions about the way blocking orders reach the people affected, and about the confidentiality attached to them. Rulings by the Supreme Court and several High Courts have therefore become important reference points. Their decisions show that some provisions have been struck down while others have survived. Companies based abroad have also tested whether they can claim the same constitutional protections as Indian entities. Understanding these rulings helps explain why the blocking process is shaped by both statute and judgment.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did the Supreme Court decide Shreya Singhal vs Union of India? (year)"
+    },
+    {
+     "n": 2,
+     "q": "Which High Court ruled in X Corp vs Union of India (2023) that foreign companies cannot claim Article 19 rights to challenge blocking orders? (name of court)"
+    },
+    {
+     "n": 3,
+     "q": "Which High Court mandated disclosure of original blocking orders in Tanul Thakur vs Union of India (2022)? (name of court)"
+    },
+    {
+     "n": 4,
+     "q": "What term describes the directions that may be issued in urgent situations before a full review under Section 69A? (three words)"
+    },
+    {
+     "n": 5,
+     "q": "Which Article of the Constitution allows the State to impose reasonable restrictions on free speech? (article number with sub-clause)"
+    },
+    {
+     "n": 6,
+     "q": "In Shreya Singhal vs Union of India (2015), which section of the IT Act did the Supreme Court strike down as vague? (section number)"
+    },
+    {
+     "n": 7,
+     "q": "In which year did the Delhi High Court mandate disclosure of original blocking orders? (year)"
+    }
+   ]
+  },
+  {
+   "id": "q-x07-50",
+   "type": "MCQ",
+   "passage": "Attention after the Telegram episode turned to the duties that online intermediaries owe under Indian law. The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 contain a set of such duties. They concern how platforms organise their internal structure, report on their activities and respond to unlawful content. These obligations sit alongside the Information Technology Act, 2000, which contains the main legal provisions on online information. Blocking under the Information Technology Act is governed by a separate set of procedures, and the Act also provides a mechanism for blocking public access to information. Telegram was temporarily blocked by the Ministry of Electronics and Information Technology, following recommendations from the National Testing Agency. Criminal groups were reported to have used Telegram's message-editing features to target candidates appearing in NEET-UG 2026 Re-Examination. The episode also brought attention to the platform's encryption and its support for very large file sharing. Telegram has also been described as hosting marketplaces for renting bank accounts used in money laundering, extortion and illegal gambling. Government data indicates a sharp increase in cybercrime complaints linked to activities within Telegram groups. The Telegram case shows that platform features can become a matter of legal concern when they are misused. Section 79 of the Act is discussed alongside these duties.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Through which government portal are orders issued under Section 79(3)(b) implemented?",
+     "options": [
+      "DigiLocker Portal",
+      "UMANG Portal",
+      "Sahyog Portal",
+      "GeM Portal"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Which of the following is NOT one of the officers or contact persons that the IT Rules, 2021 require intermediaries to appoint?",
+     "options": [
+      "Grievance Officer",
+      "Chief Compliance Officer",
+      "Nodal Contact Person",
+      "Chief Data Protection Officer"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Assertion (A): Intermediaries must appoint a Nodal Contact Person under the IT Rules, 2021.\nReason (R): Unlawful content must be removed on government direction.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Match List I with List II:\nI. Section 79(3)(b)   ->   A. Must be removed on government direction\nII. Sahyog Portal   ->   B. Certain ministries can directly issue takedown or blocking orders\nIII. Section 79   ->   C. Implements orders issued under Section 79(3)(b)\nIV. Unlawful content   ->   D. Immunity from liability for third-party content",
+     "options": [
+      "I-B, II-C, III-D, IV-A",
+      "I-C, II-A, III-B, IV-D",
+      "I-C, II-A, III-D, IV-B",
+      "I-A, II-B, III-C, IV-D"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "Consider the following statements:\nI. Intermediaries must appoint a Grievance Officer, a Chief Compliance Officer and a Nodal Contact Person under the IT Rules, 2021.\nII. Intermediaries must submit compliance and transparency reports once a year.\nIII. Safe harbour under Section 79 is available only while intermediaries comply with lawful government directions.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Consider the following statements:\nI. Failure to comply with the duties can lead to loss of safe harbour under Section 79.\nII. Unlawful content must be removed on government direction.\nIII. Orders under Section 79(3)(b) may be issued by any citizen.\nHow many of the statements given above are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Under the IT Rules, 2021, how often must intermediaries carry out compliance and transparency reporting?",
+     "options": [
+      "Weekly",
+      "Quarterly",
+      "Annually",
+      "Monthly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x07-51",
+   "type": "TITA",
+   "passage": "Following the Telegram action, the discussion widened to the responsibilities that digital intermediaries carry under Indian law. These responsibilities are set out in the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, which sit alongside the Information Technology Act, 2000. The Rules deal with the way platforms organise their internal functions, report on their activities and deal with content that is found to be unlawful. Compliance machinery matters because the Rules tie platform obligations to specific roles. The Telegram episode showed that features such as message editing can be used to spread misleading material after an event. Telegram was temporarily blocked by the Ministry of Electronics and Information Technology after recommendations from the National Testing Agency. Fraudsters are also reported to have inserted fake exam papers into old messages to create the appearance of a leak. Telegram is also described as hosting marketplaces for renting bank accounts used for money laundering. Government data has also pointed to a sharp rise in cybercrime complaints linked to activities organised within such groups. Hidden phone numbers and end-to-end encryption in secret chats were highlighted as making it nearly impossible for investigators to trace malicious actors. The Telegram case therefore brings together three themes: platform features, intermediary duties and the powers of the state.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Through which government portal are orders under Section 79(3)(b) implemented? (portal name)"
+    },
+    {
+     "n": 2,
+     "q": "Under which section of the IT Act do online intermediaries get immunity from liability for third-party content? (section number)"
+    },
+    {
+     "n": 3,
+     "q": "Which officer must intermediaries appoint to handle grievances under the IT Rules, 2021? (two words)"
+    },
+    {
+     "n": 4,
+     "q": "How often must intermediaries carry out compliance and transparency reporting under the IT Rules, 2021? (one word)"
+    },
+    {
+     "n": 5,
+     "q": "Which officer must intermediaries appoint for compliance under the IT Rules, 2021? (three words)"
+    },
+    {
+     "n": 6,
+     "q": "Which contact person must intermediaries appoint under the IT Rules, 2021? (three words)"
+    },
+    {
+     "n": 7,
+     "q": "Under Section 79, protection from liability for third-party content is available only if intermediaries exercise what? (two words)"
+    }
+   ]
+  },
+  {
+   "id": "q-x07-52",
+   "type": "MCQ",
+   "passage": "Personal information is now held by many mobile applications and online platforms. Indian law has dealt with privacy through court rulings and through a separate statute on personal data. The Digital Personal Data Protection Act, 2023 is the statute that governs the processing of personal data in India. The Act followed years of discussion about how personal information should be protected. Personal data and facts were also described as an essential aspect of the right to privacy. Users are sometimes asked to give microphone or contact access to mobile applications. The Act sets out who is responsible for personal data and what rights individuals have in relation to it. Consumers and companies are both affected, since the Act changes what businesses can do with customer information. The Act also deals with how long platforms may hold data and when they must report breaches. The Act includes penalties intended to prevent misuse of personal data. The law also gives the government a role, including the power to obtain non-personal data from companies. The booklet links the Act to wider subjects such as the Right to Privacy and the EU's GDPR. The booklet presents these ideas in a short set of key terms and practical examples. The booklet also includes a table of definitions to help readers follow the terms used.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Match List I with List II:\nI. Data Fiduciary   ->   A. Processes data on behalf of the Data Fiduciary\nII. Data Processor   ->   B. Requires verified parental consent through technical measures\nIII. Critical personal data   ->   C. Decides the purpose of processing personal data\nIV. Child's data   ->   D. Categories of data that require the most protection",
+     "options": [
+      "I-A, II-C, III-B, IV-D",
+      "I-C, II-D, III-B, IV-A",
+      "I-C, II-B, III-D, IV-A",
+      "I-C, II-A, III-D, IV-B"
+     ]
+    },
+    {
+     "n": 2,
+     "q": "Under the DPDP Act 2023, within how many hours must a personal data breach be notified to the Data Protection Board?",
+     "options": [
+      "Within 24 hours",
+      "Within 48 hours",
+      "Within 72 hours",
+      "Within 7 days"
+     ]
+    },
+    {
+     "n": 3,
+     "q": "Consider the following statements:\nI. The Digital Personal Data Protection Act, 2023 makes data fiduciaries accountable for personal data.\nII. Platforms may collect any data they wish, provided users accept their terms.\nIII. All data is categorised under three heads: general, sensitive and critical.\nWhich of the above statements is/are correct?",
+     "options": [
+      "I only",
+      "I and II only",
+      "I and III only",
+      "II and III only"
+     ]
+    },
+    {
+     "n": 4,
+     "q": "Assertion (A): A torch application on a mobile phone does not need microphone or contact access.\nReason (R): Platforms may collect only the data required for their functioning and for the services users have opted for.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ]
+    },
+    {
+     "n": 5,
+     "q": "In 2017, the Supreme Court held that privacy is a fundamental right under which Article of the Constitution?",
+     "options": [
+      "Article 14",
+      "Article 19(1)(a)",
+      "Article 21",
+      "Article 32"
+     ]
+    },
+    {
+     "n": 6,
+     "q": "Under the DPDP Act 2023, which term refers to the entity that processes personal data on behalf of the Data Fiduciary?",
+     "options": [
+      "Data Principal",
+      "Data Processor",
+      "Data Custodian",
+      "Data Auditor"
+     ]
+    },
+    {
+     "n": 7,
+     "q": "Consider the following statements:\nI. A Committee of Experts chaired by Justice BN Srikrishna examined data protection issues in India.\nII. E-commerce, social media and gaming platforms must generally delete personal data after 3 years of user inactivity.\nIII. A Data Processor decides the purpose of processing personal data.\nHow many of the statements given above are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All of the above"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t-x07-53",
+   "type": "TITA",
+   "passage": "Personal information now passes through many hands, from mobile applications to online services and social platforms. Concern about this flow of information led to a long debate in India about how personal data should be protected. A committee of experts was set up to examine these issues and submitted its report and a draft bill to the ministry responsible for electronics and information technology. The Digital Personal Data Protection Act, 2023 is the framework that now applies to personal data. Under the Act, those who decide why personal data is processed are made accountable for it. Individuals also have a role, since they can withdraw consent and ask for access to or deletion of their information. The Act also distinguishes between kinds of data, with some categories needing stronger protection. The booklet explains these terms in a table, which helps readers match each term to its meaning. The Act is discussed in relation to the right to privacy, which the courts have recognised. Penalties also form part of the Act, and their purpose is described as preventing misuse of personal data. The booklet also lists the Right to Privacy and CERT among related topics for further study. The booklet gives an everyday example of a torch application on a mobile phone.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "In which year did the Supreme Court hold that privacy is a fundamental right under Article 21? (year)"
+    },
+    {
+     "n": 2,
+     "q": "Who chaired the Committee of Experts that examined data protection issues in India? (name)"
+    },
+    {
+     "n": 3,
+     "q": "Under the DPDP Act 2023, what is the term for the entity that processes personal data on behalf of the Data Fiduciary? (term)"
+    },
+    {
+     "n": 4,
+     "q": "Under the DPDP Act 2023, within how many hours must a personal data breach be notified to the Data Protection Board? (number of hours)"
+    },
+    {
+     "n": 5,
+     "q": "In which year was the draft Personal Data Protection Bill submitted along with the Committee of Experts' report? (year)"
+    },
+    {
+     "n": 6,
+     "q": "After how many years of user inactivity must e-commerce, social media and gaming platforms generally delete personal data? (number of years)"
+    },
+    {
+     "n": 7,
+     "q": "What is the name of the category of data that requires the most protection under the DPDP Act 2023? (three words)"
+    }
+   ]
+  }
+ ]
+}
