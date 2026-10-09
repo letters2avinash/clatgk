@@ -1,0 +1,410 @@
+{
+ "topic": {
+  "title": "Vikram-1: India's Private Orbital Rocket",
+  "chapter_title": "Defence, Space and S&T",
+  "subtopics": [
+   {
+    "title": "Mission and Orbit Basics",
+    "summary": "Skyroot Aerospace of Hyderabad launched Vikram-1 on Mission Aagaman, its maiden flight, from the Satish Dhawan Space Centre at Sriharikota. The flight placed payloads into Low Earth Orbit and made India the third country, after the US and China, to demonstrate private orbital launch capability. The booklet also separates sub-orbital rockets, which do not place a satellite into orbit, from orbital rockets, which do.",
+    "facts": [
+     "Vikram-1 is India's first privately built orbital launch vehicle.",
+     "Maiden flight was Mission Aagaman, launched from Satish Dhawan Space Centre, Sriharikota.",
+     "The flight placed payloads into Low Earth Orbit.",
+     "India became the 3rd country, after US and China, to demonstrate private orbital launch capability.",
+     "Vikram-1 is a 4-stage orbital launch vehicle.",
+     "The mission was authorised and facilitated by IN-SPACe.",
+     "Vikram-1 is named after Dr Vikram Sarabhai, father of India's space programme.",
+     "A sub-orbital rocket goes to space but does not place a satellite into orbit.",
+     "An orbital rocket places a satellite into orbit around the Earth.",
+     "Low Earth Orbit lies between 160 km and 2,000 km above Earth's surface."
+    ],
+    "keywords": ["Vikram-1", "Skyroot Aerospace", "Mission Aagaman", "Sriharikota", "Low Earth Orbit", "IN-SPACe", "sub-orbital rocket", "orbital rocket"]
+   },
+   {
+    "title": "Propulsion and Structure",
+    "summary": "The first three stages of Vikram-1, called Kalam Engines, use advanced solid propellants. The upper stage uses a 3D-printed liquid-fuelled Raman Engine for precise orbital insertion and manoeuvres. The rocket extensively uses all-carbon composite structures, and the booklet also highlights Agnilet, a single-piece 3D-printed semi-cryogenic engine.",
+    "facts": [
+     "Stages 1 to 3 of Vikram-1 are called Kalam Engines.",
+     "The Kalam Engines use advanced solid propellants.",
+     "The upper stage features a 3D-printed liquid-fuelled Raman Engine.",
+     "The Raman Engine is used for precise orbital insertion and manoeuvres.",
+     "Vikram-1 extensively uses all-carbon composite structures.",
+     "Agnilet is the world's first single-piece 3D-printed semi-cryogenic engine.",
+     "Agnibaan SOrTeD is the world's first rocket with a fully 3D-printed engine.",
+     "SOrTeD stands for SubOrbital Technology Demonstrator."
+    ],
+    "keywords": ["Kalam Engines", "Raman Engine", "advanced solid propellants", "all-carbon composite", "Agnilet", "Agnibaan SOrTeD", "3D-printed engine"]
+   },
+   {
+    "title": "Payloads on Board",
+    "summary": "Vikram-1 carries scientific, technological, commercial and symbolic payloads. SCOPE, developed by Skyroot Aerospace, validates onboard spacecraft systems and mission technologies during flight. The Embrace robotic arm, created by Cosmoserve Space, is linked to future applications such as space debris removal and in-orbit servicing.",
+    "facts": [
+     "Vikram-1 carries scientific, technological, commercial and symbolic payloads.",
+     "SCOPE, developed by Skyroot Aerospace, validates onboard spacecraft systems and mission technologies during flight.",
+     "The Embrace robotic arm, created by Cosmoserve Space, stays attached to the payload deck during its demonstration.",
+     "Embrace is linked to future applications such as space debris removal and in-orbit servicing.",
+     "SOLARAS is an indigenous CubeSat that demonstrates indigenous satellite technology in orbit.",
+     "Cosmic Bloom is India's first lab-grown diamond jewellery sent into space, developed by Cosmos Diamonds.",
+     "An 18K gold rocket model carries micro-sculptures of Sir C.V. Raman, Dr Vikram Sarabhai and Dr A.P.J. Abdul Kalam.",
+     "The gold rocket model is credited to Telangana-based artist Ajay Kumar Mattewada."
+    ],
+    "keywords": ["SCOPE", "Embrace", "SOLARAS", "Cosmic Bloom", "18K gold rocket model", "Cosmoserve Space", "Cosmos Diamonds"]
+   },
+   {
+    "title": "Policy, Regulators and FDI",
+    "summary": "Indian Space Policy 2023 opened the complete space value chain to non-government entities. IN-SPACe works as the single-window regulator for private space activities, while NewSpace India Limited serves as ISRO's commercial arm. FDI limits are set separately for each segment of the space sector.",
+    "facts": [
+     "Indian Space Policy 2023 opened the complete space value chain to non-government entities.",
+     "NewSpace India Limited serves as ISRO's commercial arm and was established in 2019.",
+     "IN-SPACe functions as a single-window regulator for private space activities.",
+     "IN-SPACe stands for Indian National Space Promotion and Authorisation Centre and is headquartered in Ahmedabad.",
+     "IN-SPACe Seed Fund Scheme provides grants up to Rs 1 crore to startups and MSMEs.",
+     "Antrix Corporation (1992) is the marketing arm of ISRO.",
+     "FDI: 74% automatic in satellite manufacturing and operations.",
+     "FDI: 49% automatic in launch vehicles and spaceports.",
+     "FDI: 100% in satellite components and subsystems."
+    ],
+    "keywords": ["Indian Space Policy 2023", "NewSpace India Limited", "IN-SPACe", "Seed Fund Scheme", "Antrix Corporation", "FDI", "automatic route"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Vikram-1 at a glance",
+   "root": {
+    "label": "Vikram-1: India's Private Orbital Rocket",
+    "children": [
+     {
+      "label": "Launch and mission",
+      "children": [
+       {"label": "Skyroot Aerospace, Hyderabad", "children": []},
+       {"label": "Mission Aagaman from Sriharikota", "children": []},
+       {"label": "3rd country for private orbital launch", "children": []}
+      ]
+     },
+     {
+      "label": "Rocket design",
+      "children": [
+       {"label": "4-stage orbital launch vehicle", "children": []},
+       {"label": "Stages 1-3: Kalam Engines", "children": []},
+       {"label": "Upper stage: 3D-printed Raman Engine", "children": []},
+       {"label": "All-carbon composite structures", "children": []}
+      ]
+     },
+     {
+      "label": "Payloads",
+      "children": [
+       {"label": "SCOPE validation system", "children": []},
+       {"label": "Embrace robotic arm", "children": []},
+       {"label": "Cosmic Bloom diamond jewellery", "children": []},
+       {"label": "18K gold rocket model", "children": []}
+      ]
+     },
+     {
+      "label": "Policy support",
+      "children": [
+       {"label": "Indian Space Policy 2023", "children": []},
+       {"label": "IN-SPACe authorisation and regulation", "children": []},
+       {"label": "Seed Fund Scheme grants", "children": []},
+       {"label": "FDI limits by segment", "children": []}
+      ]
+     },
+     {
+      "label": "Context",
+      "children": [
+       {"label": "Follows Vikram-S sub-orbital rocket", "children": []},
+       {"label": "Named after Vikram Sarabhai", "children": []},
+       {"label": "Payloads placed in Low Earth Orbit", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Mission and orbit basics",
+   "root": {
+    "label": "Mission and Orbit Basics",
+    "children": [
+     {
+      "label": "Launch",
+      "children": [
+       {"label": "Mission Aagaman, maiden flight", "children": []},
+       {"label": "Satish Dhawan Space Centre, Sriharikota", "children": []}
+      ]
+     },
+     {
+      "label": "Achievement",
+      "children": [
+       {"label": "3rd country after US and China", "children": []},
+       {"label": "Private orbital launch capability", "children": []}
+      ]
+     },
+     {
+      "label": "Orbit types",
+      "children": [
+       {"label": "Sub-orbital: no satellite placed in orbit", "children": []},
+       {"label": "Orbital: satellite placed in orbit", "children": []},
+       {"label": "Low Earth Orbit: 160 km to 2,000 km", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Propulsion and structure",
+   "root": {
+    "label": "Propulsion and Structure",
+    "children": [
+     {
+      "label": "Kalam Engines (stages 1-3)",
+      "children": [
+       {"label": "Advanced solid propellants", "children": []}
+      ]
+     },
+     {
+      "label": "Raman Engine (upper stage)",
+      "children": [
+       {"label": "3D-printed, liquid-fuelled", "children": []},
+       {"label": "Precise orbital insertion and manoeuvres", "children": []}
+      ]
+     },
+     {
+      "label": "Structures",
+      "children": [
+       {"label": "All-carbon composite structures", "children": []}
+      ]
+     },
+     {
+      "label": "Related engines",
+      "children": [
+       {"label": "Agnilet: single-piece 3D-printed semi-cryogenic", "children": []},
+       {"label": "Agnibaan SOrTeD: fully 3D-printed engine", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Payloads on board",
+   "root": {
+    "label": "Payloads on Vikram-1",
+    "children": [
+     {
+      "label": "Payload types",
+      "children": [
+       {"label": "Scientific, technological, commercial, symbolic", "children": []}
+      ]
+     },
+     {
+      "label": "Technology payloads",
+      "children": [
+       {"label": "SCOPE: validates systems in flight", "children": []},
+       {"label": "Embrace: robotic arm from Cosmoserve Space", "children": []},
+       {"label": "SOLARAS: indigenous CubeSat", "children": []}
+      ]
+     },
+     {
+      "label": "Symbolic and commercial payloads",
+      "children": [
+       {"label": "Cosmic Bloom: lab-grown diamond jewellery", "children": []},
+       {"label": "18K gold rocket model with micro-sculptures", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Policy, regulators and FDI",
+   "root": {
+    "label": "Policy, Regulators and FDI",
+    "children": [
+     {
+      "label": "Indian Space Policy 2023",
+      "children": [
+       {"label": "Opened value chain to non-government entities", "children": []}
+      ]
+     },
+     {
+      "label": "Institutions",
+      "children": [
+       {"label": "IN-SPACe: single-window regulator", "children": []},
+       {"label": "NewSpace India Limited: ISRO's commercial arm", "children": []},
+       {"label": "Antrix Corporation: ISRO's marketing arm", "children": []}
+      ]
+     },
+     {
+      "label": "FDI limits by segment",
+      "children": [
+       {"label": "74% automatic: satellite manufacturing, operations", "children": []},
+       {"label": "49% automatic: launch vehicles, spaceports", "children": []},
+       {"label": "100%: satellite components, subsystems", "children": []}
+      ]
+     },
+     {
+      "label": "Seed Fund Scheme",
+      "children": [
+       {"label": "Grants up to Rs 1 crore", "children": []},
+       {"label": "Startups and MSMEs", "children": []}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Kalam, Raman, Carbon",
+   "mnemonic": "Kalam burns solid, Raman runs liquid, Carbon builds the frame",
+   "decode": [
+    {"key": "Kalam", "meaning": "Kalam Engines in the first three stages use advanced solid propellants"},
+    {"key": "Raman", "meaning": "The upper stage uses a 3D-printed liquid-fuelled Raman Engine"},
+    {"key": "Carbon", "meaning": "Vikram-1 extensively uses all-carbon composite structures"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Sub-orbital vs orbital",
+   "mnemonic": "Sub stops short; Orbit goes all the way",
+   "decode": [
+    {"key": "Sub", "meaning": "A sub-orbital rocket goes to space but does not place a satellite into orbit"},
+    {"key": "Orbit", "meaning": "An orbital rocket places a satellite into orbit around the Earth"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "FDI numbers",
+   "mnemonic": "Seventy-four Satellites, forty-nine Launchers, hundred for Components",
+   "decode": [
+    {"key": "74", "meaning": "74% automatic FDI in satellite manufacturing and operations"},
+    {"key": "49", "meaning": "49% automatic FDI in launch vehicles and spaceports"},
+    {"key": "100", "meaning": "100% FDI in satellite components and subsystems"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 0,
+   "title": "Vikram-1 Mission Check",
+   "passage": "Skyroot Aerospace, a company based in Hyderabad, has launched Vikram-1, India's first privately built orbital launch vehicle. The rocket flew its maiden mission, called Mission Aagaman, from the Satish Dhawan Space Centre at Sriharikota. The flight placed payloads into Low Earth Orbit and made India the third country to demonstrate private orbital launch capability. Vikram-1 carries a combination of scientific, technological, commercial and symbolic payloads. Vikram-1 was developed by Skyroot Aerospace, a company whose developers include Pawan Kumar Chandana and Naga Bharath Daka. Rockets of two broad kinds help explain the achievement. A sub-orbital rocket travels into space but does not place a satellite into orbit. An orbital rocket places a satellite into orbit around the Earth. The difference matters because it separates rockets that only reach space from rockets that carry satellites into orbit. The mission was authorised and facilitated by IN-SPACe, which works as a single-window regulator for private space activities. The rocket is named after Dr Vikram Sarabhai, who is regarded as the father of India's space programme. Mission Aagaman was the maiden flight of this four-stage orbital launch vehicle. Low Earth Orbit is the region close to the Earth's surface. Skyroot Aerospace is also recognised as India's first unicorn in the space sector.",
+   "questions": [
+    {
+     "q": "Which engine powers the upper stage of Vikram-1 for precise orbital insertion and manoeuvres?",
+     "options": ["Kalam solid engine", "Agnilet engine", "3D-printed liquid-fuelled Raman Engine", "Advanced solid propellant motor"],
+     "answer": 2,
+     "explanation": "The booklet says the upper stage features a 3D-printed liquid-fuelled Raman Engine for precise orbital insertion and manoeuvres."
+    },
+    {
+     "q": "What structural material does Vikram-1 extensively use?",
+     "options": ["All-carbon composite structures", "Titanium alloy structures", "Aluminium-lithium alloy structures", "Steel-reinforced composite structures"],
+     "answer": 0,
+     "explanation": "The booklet states that Vikram-1 extensively uses all-carbon composite structures."
+    },
+    {
+     "q": "Assertion (A): Vikram-1 is a sub-orbital rocket that never reaches orbit.\nReason (R): Sub-orbital rockets go to space but do not place a satellite into orbit.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 3,
+     "explanation": "Vikram-1 placed payloads into Low Earth Orbit, so A is false, while the definition of a sub-orbital rocket in R is true."
+    },
+    {
+     "q": "Match List I with List II:\nI. Vikram-S   ->   C. World's first single-piece 3D-printed semi-cryogenic engine\nII. Agnilet   ->   D. India's first lab-grown diamond jewellery sent into space\nIII. Dhanush   ->   B. India's first privately developed sub-orbital rocket\nIV. Cosmic Bloom   ->   A. India's first privately developed launch pad",
+     "options": ["I-D, II-C, III-A, IV-B", "I-B, II-C, III-A, IV-D", "I-C, II-A, III-D, IV-B", "I-A, II-B, III-C, IV-D"],
+     "answer": 1,
+     "explanation": "Vikram-S is the sub-orbital rocket (B), Agnilet the single-piece engine (C), Dhanush the private launch pad (A) and Cosmic Bloom the lab-grown diamond jewellery (D)."
+    },
+    {
+     "q": "Consider the following statements:\nI. The first three stages of Vikram-1, called Kalam Engines, use advanced solid propellants.\nII. The upper stage uses a 3D-printed liquid-fuelled Raman Engine for orbital insertion and manoeuvres.\nIII. Vikram-1 is named after A.P.J. Abdul Kalam.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "Statements I and II are stated in the booklet, while the rocket is named after Dr Vikram Sarabhai, not A.P.J. Abdul Kalam."
+    },
+    {
+     "q": "How many of the following statements are correct?\nI. Falcon-9 is the world's first reusable two-stage rocket, designed and manufactured by SpaceX.\nII. The Indian Space Policy 2023 kept the complete space value chain closed to non-government entities.\nIII. The IN-SPACe Seed Fund Scheme provides grants up to Rs 1 crore to startups and MSMEs.",
+     "options": ["Only two", "Only one", "Only three", "None"],
+     "answer": 0,
+     "explanation": "Statements I and III are correct, while II is false because the 2023 policy opened the complete space value chain to non-government entities."
+    },
+    {
+     "q": "Low Earth Orbit, the region where Vikram-1 placed its payloads, lies between which altitudes above Earth's surface?",
+     "options": ["Between 100 km and 1,000 km", "Between 200 km and 3,000 km", "Between 500 km and 5,000 km", "Between 160 km and 2,000 km"],
+     "answer": 3,
+     "explanation": "The booklet defines Low Earth Orbit as lying between 160 km and 2,000 km above Earth's surface."
+    },
+    {
+     "q": "The 18K gold rocket model carried as a payload on Vikram-1 contains micro-sculptures of which three persons?",
+     "options": ["Dr Homi J. Bhabha, Dr Vikram Sarabhai and Dr A.P.J. Abdul Kalam", "Sir C.V. Raman, Dr Vikram Sarabhai and Dr A.P.J. Abdul Kalam", "Sir C.V. Raman, Dr Homi J. Bhabha and Dr Satish Dhawan", "Dr Vikram Sarabhai, Dr Homi J. Bhabha and Sir C.V. Raman"],
+     "answer": 1,
+     "explanation": "The booklet says the 18K gold rocket model contains micro-sculptures of Sir C.V. Raman, Dr Vikram Sarabhai and Dr A.P.J. Abdul Kalam."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "Policy and Institutions Check",
+   "passage": "A government policy framed in recent years changed the rules for India's space sector. It allowed non-government entities to take part across the complete space value chain. Several institutions now shape the sector, each with a distinct role. NewSpace India Limited is one of these bodies. Antrix Corporation is another body in this group, and it promotes space products, services and technologies. IN-SPACe acts as a single-window regulator for private space activities. It also runs a seed fund scheme that supports startups and MSMEs with grants. Foreign investment is also governed by this policy, and the limits differ across segments. Satellite manufacturing and operations, launch vehicles and spaceports, and satellite components and subsystems are listed as separate segments. The limits therefore depend on the segment in which a company works. The segment rules guide foreign investment in each area. Private firms are now active in building launch vehicles and satellites. Recent examples of private work include Skyroot Aerospace, Cosmoserve Space and Cosmos Diamonds. Both government and private entities now operate within the same framework. Each institution has its own objectives and an office location. The sector now has a regulator, a commercial body and a marketing body. Together with the policy, these bodies shape how private firms enter India's space sector.",
+   "questions": [
+    {
+     "q": "In which year was the space policy that opened the complete space value chain to non-government entities framed?",
+     "answer": "2023",
+     "accept": ["2023 AD", "the year 2023"],
+     "explanation": "The booklet names the Indian Space Policy 2023 as the policy that opened the complete space value chain to non-government entities."
+    },
+    {
+     "q": "In which year was NewSpace India Limited established?",
+     "answer": "2019",
+     "accept": ["2019 AD"],
+     "explanation": "The booklet lists NewSpace India Limited as established in 2019."
+    },
+    {
+     "q": "Up to how much grant, in crore rupees, does the IN-SPACe Seed Fund Scheme provide to startups and MSMEs?",
+     "answer": "1",
+     "accept": ["1 crore", "Rs 1 crore", "one crore", "1 crore rupees"],
+     "explanation": "The booklet states that the Seed Fund Scheme provides grants up to Rs 1 crore to startups and MSMEs."
+    },
+    {
+     "q": "What is the automatic-route FDI limit (in per cent) for launch vehicles and spaceports?",
+     "answer": "49",
+     "accept": ["49%", "49 per cent", "49 percent", "forty-nine"],
+     "explanation": "The booklet gives 49% automatic FDI for launch vehicles and spaceports."
+    },
+    {
+     "q": "In which city is the headquarters of IN-SPACe located?",
+     "answer": "Ahmedabad",
+     "accept": ["Ahmedabad city"],
+     "explanation": "The booklet lists the headquarters of IN-SPACe as Ahmedabad."
+    },
+    {
+     "q": "In which year was Antrix Corporation established?",
+     "answer": "1992",
+     "accept": ["1992 AD"],
+     "explanation": "The booklet lists Antrix Corporation with the year 1992 and describes it as the marketing arm of ISRO."
+    },
+    {
+     "q": "NewSpace India Limited is the commercial arm of which organisation?",
+     "answer": "ISRO",
+     "accept": ["ISRO", "Indian Space Research Organisation", "Indian Space Research Organization"],
+     "explanation": "The booklet describes NewSpace India Limited as the commercial arm of ISRO."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 61, "what": "A '4 F' fragment beside the description of the first three stages (Kalam Engines) is garbled; only 'advanced solid propellants' was used"},
+  {"page": 62, "what": "The developer name for the SOLARAS CubeSat is garbled; not used"},
+  {"page": 62, "what": "The name of the German payload ('German Deubed's Payload') is garbled; not used"},
+  {"page": 63, "what": "The headquarters city for Antrix Corporation and NewSpace India Limited is ambiguous (two 'HQ: Bangalore' lines in the layout); only the Antrix year and the NewSpace India Limited year were used"}
+ ]
+}

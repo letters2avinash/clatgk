@@ -1,0 +1,45 @@
+{
+  "questions": [
+    {
+      "id": "t-t04-1",
+      "n": 2,
+      "my_answer": "1958",
+      "supported": true,
+      "evidence": {
+        "page": 22,
+        "quote": "Section 4(3) of Places of Worship Act 1991 excludes Ancient Monuments under AMASR Act 1958"
+      },
+      "issues": []
+    },
+    {
+      "id": "t-t04-1",
+      "n": 6,
+      "my_answer": "3",
+      "supported": true,
+      "evidence": {
+        "page": 22,
+        "quote": "Prohibition of Conversion"
+      },
+      "issues": []
+    },
+    {
+      "id": "t-t14-1",
+      "n": 4,
+      "my_answer": "Indian Institute of Tropical Meteorology",
+      "supported": true,
+      "evidence": {
+        "page": 77,
+        "quote": "Urban Testbed and Aerosol Observatory by Indian Institute of Tropical Meteorology in Chennai"
+      },
+      "issues": []
+    }
+  ],
+  "passage_flags": [
+    {
+      "quiz": "t-t14-1",
+      "claim": "Retaliatory violence is one of its most harmful forms",
+      "problem": "Not in the booklet. Retaliatory violence is named only as the harm the measures aim to reduce (Project Elephant, awareness drives, RE-HAB). The booklet makes no severity ranking of it."
+    }
+  ],
+  "fact_flags": []
+}

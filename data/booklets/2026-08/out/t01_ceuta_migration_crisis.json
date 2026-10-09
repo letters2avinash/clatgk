@@ -1,0 +1,450 @@
+{
+ "topic": {
+  "title": "Ceuta Migration Crisis and International Refugee Frameworks",
+  "chapter_title": "International Relations and News",
+  "subtopics": [
+   {
+    "title": "Refugee, Asylum Seeker and Migrant",
+    "summary": "The booklet distinguishes three categories of people on the move: refugees, asylum seekers and migrants. Each category differs in why the person moves, what protection applies, and which law governs the person's stay.",
+    "facts": [
+     "Refugee: forced to flee due to persecution or conflict.",
+     "Refugee is protected under the 1951 Refugee Convention.",
+     "Refugees cannot be forcibly returned (non-refoulement).",
+     "Asylum seeker: a person seeking recognition as a refugee.",
+     "Asylum seeker is awaiting a decision on refugee status.",
+     "Asylum seeker receives temporary protection during the application.",
+     "Migrant: moves mainly for work, education or better opportunities.",
+     "Migrant may migrate legally or irregularly.",
+     "Migrant is governed mainly by domestic immigration laws."
+    ],
+    "keywords": ["refugee", "asylum seeker", "migrant", "non-refoulement", "temporary protection", "domestic immigration laws"]
+   },
+   {
+    "title": "Ceuta: Location and Strategic Importance",
+    "summary": "Ceuta is an Autonomous City of Spain on the northern coast of Africa, next to Morocco. Its position at the eastern entrance of the Strait of Gibraltar makes it one of the shortest routes into European territory from Africa. Together with Melilla, it forms one of the EU's two land borders with Africa.",
+    "facts": [
+     "Ceuta's status is Autonomous City of Spain.",
+     "Ceuta lies on the northern coast of Africa.",
+     "Ceuta's neighbouring country is Morocco.",
+     "Ceuta's coast faces the Mediterranean Sea.",
+     "Ceuta is at the eastern entrance of the Strait of Gibraltar.",
+     "Ceuta lies at the junction of the Atlantic Ocean and Mediterranean Sea.",
+     "Ceuta represents one of the shortest routes into European territory from Africa.",
+     "Ceuta and Melilla together form one of the EU's two land borders with Africa.",
+     "Ceuta and Melilla are Spanish exclaves separated from Morocco by fortified border fences, which are often breached by immigrants."
+    ],
+    "keywords": ["Ceuta", "Strait of Gibraltar", "exclave", "Melilla", "land border", "Autonomous City of Spain"]
+   },
+   {
+    "title": "Spanish Territories and the Western Sahara Link",
+    "summary": "Ceuta, Melilla and Plazas de Soberania are Spanish territories associated with the North African mainland. Morocco disputes their status, and the migration issue is closely linked to the Western Sahara dispute. Changes in Spain's relations with Morocco and Algeria have repeatedly affected migration flows through Ceuta.",
+    "facts": [
+     "Spanish territories associated with the North African mainland: Ceuta, Melilla and Plazas de Soberania.",
+     "Spain exercises sovereignty over these territories.",
+     "Morocco disputes their status and has sought their return since gaining independence in 1956.",
+     "Western Sahara, a former Spanish colony, was annexed by Morocco in 1975.",
+     "The Polisario Front declared the Sahrawi Arab Democratic Republic (SADR) in 1976.",
+     "The Polisario Front demands self-determination for the Sahrawi people.",
+     "Algeria supports the Polisario Front, while Morocco proposes autonomy under its sovereignty.",
+     "Changes in Spain's relations with Morocco and Algeria have repeatedly influenced migration flows through Ceuta."
+    ],
+    "keywords": ["Plazas de Soberania", "Western Sahara", "Polisario Front", "SADR", "self-determination", "Algeria"]
+   },
+   {
+    "title": "International Frameworks on Refugees and Trafficking",
+    "summary": "Several international instruments govern refugees and human trafficking. The 1951 Refugee Convention and its 1967 Protocol set out refugee protection, while the Palermo instruments of 2000 target organised crime and trafficking. Other treaties and forums address refugee children, host countries and civil and political rights.",
+    "facts": [
+     "The UN Convention against Transnational Organized Crime (Palermo Convention, 2000) combats transnational organised crime through international cooperation.",
+     "The Palermo Protocol (2000) aims to prevent, suppress and punish trafficking in persons, especially women and children.",
+     "The 1951 Refugee Convention defines a refugee as one fleeing persecution.",
+     "The 1951 Convention specifies certain categories, such as war criminals, who do not qualify for refugee status.",
+     "The 1967 Protocol expanded refugee protection beyond Europe, removing geographic and time limits.",
+     "The International Covenant on Civil and Political Rights (1966) safeguards individuals from torture or inhuman treatment upon return.",
+     "The Global Compact on Refugees (2018) offers a framework to support refugees and host countries.",
+     "The Convention on the Rights of the Child (1989) advocates for refugee children's welfare.",
+     "The Global Refugee Forum is held every four years."
+    ],
+    "keywords": ["Palermo Protocol", "Palermo Convention", "1951 Refugee Convention", "1967 Protocol", "Global Compact on Refugees", "Global Refugee Forum"]
+   },
+   {
+    "title": "UNHCR and India's Approach to Refugees",
+    "summary": "The UN High Commissioner for Refugees (UNHCR) was formed in 1950 as successor to the International Refugee Organization, and its office originated in 1921 under the League of Nations. India is not a signatory to the 1951 Convention or the 1967 Protocol, and it regulates undocumented foreigners under domestic Acts.",
+    "facts": [
+     "UNHCR was formed on 14 December 1950.",
+     "UNHCR succeeded the International Refugee Organization (1946).",
+     "The office of High Commissioner for Refugees originated in 1921 under the League of Nations, led by Fridtjof Nansen.",
+     "UNHCR's headquarters are in Geneva, Switzerland.",
+     "UNHCR received the Nobel Peace Prize in 1954 and 1981.",
+     "The UNHCR Nansen Refugee Award was established in 1954 and is named after Fridtjof Nansen.",
+     "The Nansen Award honours exceptional service to refugees, displaced or stateless people annually.",
+     "India is not a signatory to the 1951 Refugee Convention or the 1967 Protocol.",
+     "All undocumented foreigners in India are regulated under the Foreigners Act (1946), the Registration of Foreigners Act (1939), the Passport (Entry into India) Act (1920) and the Citizenship Act (1955)."
+    ],
+    "keywords": ["UNHCR", "Fridtjof Nansen", "Nansen Refugee Award", "Geneva", "India", "Foreigners Act"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "Ceuta crisis and refugee frameworks",
+   "root": {
+    "label": "Ceuta Migration Crisis and Refugee Frameworks",
+    "children": [
+     {
+      "label": "Ceuta crisis and geography",
+      "children": [
+       {"label": "Nearly 60000 migrants tried to enter in July 2026"},
+       {"label": "European Commission declared crisis resolved"},
+       {"label": "Autonomous City of Spain, northern Africa coast"},
+       {"label": "Eastern entrance of Strait of Gibraltar"}
+      ]
+     },
+     {
+      "label": "Refugee, asylum seeker, migrant",
+      "children": [
+       {"label": "Refugee: fleeing persecution or conflict"},
+       {"label": "Asylum seeker: awaiting refugee status decision"},
+       {"label": "Migrant: moves for work or opportunity"}
+      ]
+     },
+     {
+      "label": "Spanish territories and Western Sahara",
+      "children": [
+       {"label": "Ceuta, Melilla, Plazas de Soberania"},
+       {"label": "Morocco disputes status since 1956"},
+       {"label": "Western Sahara annexed by Morocco in 1975"}
+      ]
+     },
+     {
+      "label": "International frameworks",
+      "children": [
+       {"label": "1951 Refugee Convention and 1967 Protocol"},
+       {"label": "Palermo Protocol (2000) on trafficking"},
+       {"label": "Global Compact on Refugees (2018)"}
+      ]
+     },
+     {
+      "label": "UNHCR and India",
+      "children": [
+       {"label": "UNHCR formed on 14 December 1950"},
+       {"label": "Nansen Refugee Award established 1954"},
+       {"label": "India not a signatory to 1951 Convention"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "Three categories of people on the move",
+   "root": {
+    "label": "Three categories of people on the move",
+    "children": [
+     {
+      "label": "Refugee",
+      "children": [
+       {"label": "Forced to flee persecution or conflict"},
+       {"label": "Protected under 1951 Refugee Convention"},
+       {"label": "Cannot be forcibly returned"}
+      ]
+     },
+     {
+      "label": "Asylum seeker",
+      "children": [
+       {"label": "Seeks recognition as a refugee"},
+       {"label": "Awaiting decision on refugee status"},
+       {"label": "Receives temporary protection"}
+      ]
+     },
+     {
+      "label": "Migrant",
+      "children": [
+       {"label": "Moves for work, education or opportunity"},
+       {"label": "May migrate legally or irregularly"},
+       {"label": "Governed by domestic immigration laws"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Ceuta: location and strategic importance",
+   "root": {
+    "label": "Ceuta: location and strategic importance",
+    "children": [
+     {
+      "label": "Status and location",
+      "children": [
+       {"label": "Autonomous City of Spain"},
+       {"label": "Northern coast of Africa"},
+       {"label": "Neighbouring country: Morocco"}
+      ]
+     },
+     {
+      "label": "Sea and strait",
+      "children": [
+       {"label": "Mediterranean Sea coast"},
+       {"label": "Eastern entrance of Strait of Gibraltar"},
+       {"label": "Junction of Atlantic and Mediterranean"}
+      ]
+     },
+     {
+      "label": "Borders and routes",
+      "children": [
+       {"label": "One of EU's two land borders with Africa"},
+       {"label": "Shortest route into European territory"},
+       {"label": "Fences often breached by immigrants"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "Spanish territories and Western Sahara",
+   "root": {
+    "label": "Spanish territories and Western Sahara",
+    "children": [
+     {
+      "label": "Spanish territories",
+      "children": [
+       {"label": "Ceuta, Melilla, Plazas de Soberania"},
+       {"label": "Spain exercises sovereignty"},
+       {"label": "Morocco disputes status since 1956"}
+      ]
+     },
+     {
+      "label": "Western Sahara",
+      "children": [
+       {"label": "Former Spanish colony"},
+       {"label": "Annexed by Morocco in 1975"},
+       {"label": "Polisario Front declared SADR in 1976"}
+      ]
+     },
+     {
+      "label": "Link to migration",
+      "children": [
+       {"label": "Migration linked to Western Sahara dispute"},
+       {"label": "Algeria supports Polisario Front"},
+       {"label": "Spain-Morocco-Algeria ties shape flows"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "International frameworks on refugees and trafficking",
+   "root": {
+    "label": "International frameworks on refugees and trafficking",
+    "children": [
+     {
+      "label": "Refugee law",
+      "children": [
+       {"label": "1951 Refugee Convention"},
+       {"label": "1967 Protocol removed geographic and time limits"},
+       {"label": "ICCPR (1966): no torture upon return"}
+      ]
+     },
+     {
+      "label": "Trafficking and crime",
+      "children": [
+       {"label": "Palermo Convention (2000): organised crime"},
+       {"label": "Palermo Protocol (2000): trafficking in persons"}
+      ]
+     },
+     {
+      "label": "Other instruments",
+      "children": [
+       {"label": "Global Compact on Refugees (2018)"},
+       {"label": "Convention on Rights of the Child (1989)"},
+       {"label": "Global Refugee Forum every four years"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 4,
+   "title": "UNHCR and India's approach",
+   "root": {
+    "label": "UNHCR and India's approach",
+    "children": [
+     {
+      "label": "UNHCR",
+      "children": [
+       {"label": "Formed 14 December 1950"},
+       {"label": "Successor to International Refugee Organization"},
+       {"label": "Headquarters in Geneva"}
+      ]
+     },
+     {
+      "label": "Honours",
+      "children": [
+       {"label": "Nobel Peace Prize 1954 and 1981"},
+       {"label": "Nansen Refugee Award since 1954"},
+       {"label": "World Refugee Day: June 20"}
+      ]
+     },
+     {
+      "label": "India",
+      "children": [
+       {"label": "Not a signatory to 1951 Convention"},
+       {"label": "Foreigners Act, 1946"},
+       {"label": "Citizenship Act, 1955"}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "Three categories of people on the move",
+   "mnemonic": "RAM: Refugee, Asylum seeker, Migrant",
+   "decode": [
+    {"key": "R", "meaning": "Refugee: forced to flee due to persecution or conflict"},
+    {"key": "A", "meaning": "Asylum seeker: awaiting a decision on refugee status"},
+    {"key": "M", "meaning": "Migrant: moves mainly for work, education or better opportunities"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "Key features of Ceuta",
+   "mnemonic": "SGT: Short Gibraltar Trip",
+   "decode": [
+    {"key": "S", "meaning": "One of the shortest routes into European territory from Africa"},
+    {"key": "G", "meaning": "Located at the eastern entrance of the Strait of Gibraltar"},
+    {"key": "T", "meaning": "Forms one of the EU's two land borders with Africa, along with Melilla"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "Ceuta: geography, status and disputes",
+   "passage": "Ceuta is a small Spanish enclave on the northern coast of Africa. It is bordered on its land side by a neighbouring state, and a strong fence separates the enclave from that country. Because of this position, the enclave has long been a point of concern for people who travel between the two continents. Many of those who arrive there are seeking work, education or a better life, while others are fleeing conflict or persecution in their home countries. Tensions over a distant territory add another layer to the story. Western Sahara, a former Spanish colony, has been the subject of a long dispute involving neighbouring countries and groups seeking self-determination. Changes in the relations between Spain and its neighbours have, at different times, affected how many people reach the enclave. Officials therefore treat the border not as a purely local matter but as part of a wider regional pattern. Ceuta's story shows how geography and politics can combine. A place that is small on the map can become a major point of diplomacy when large numbers of people try to cross into it. Resolving such moments usually depends on cooperation between governments, as well as on the legal rules that protect people who seek safety. Such episodes also test how well the rules protecting people who seek safety are applied in practice.",
+   "questions": [
+    {
+     "q": "Which body declared the Ceuta Migration Crisis resolved?",
+     "options": ["European Commission", "United Nations Security Council", "African Union", "NATO"],
+     "answer": 0,
+     "explanation": "The booklet states the European Commission, through Commissioner Magnus Brunner, declared the crisis resolved through Spain-Morocco cooperation."
+    },
+    {
+     "q": "What is the political status of Ceuta?",
+     "options": ["Independent City-State", "French Overseas Territory", "Autonomous City of Spain", "UN Trust Territory"],
+     "answer": 2,
+     "explanation": "The booklet lists Ceuta's status as Autonomous City of Spain."
+    },
+    {
+     "q": "At the eastern entrance of which strait is Ceuta strategically located?",
+     "options": ["Strait of Hormuz", "Strait of Gibraltar", "Strait of Malacca", "Bosphorus Strait"],
+     "answer": 1,
+     "explanation": "The booklet places Ceuta at the eastern entrance of the Strait of Gibraltar."
+    },
+    {
+     "q": "According to the booklet, how many land borders does the EU share with Africa?",
+     "options": ["One", "Three", "Four", "Two"],
+     "answer": 3,
+     "explanation": "The booklet says Ceuta and Melilla together form one of the EU's two land borders with Africa."
+    },
+    {
+     "q": "Assertion (A): Fortified border fences separating Ceuta from Morocco are often breached by immigrants.\nReason (R): Ceuta lies on the Atlantic coast of Africa.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 2,
+     "explanation": "The booklet says the fences are often breached, but Ceuta's coast is on the Mediterranean Sea, not the Atlantic."
+    },
+    {
+     "q": "Match List I with List II:\nI. Ceuta's political status   ->   C. Autonomous City of Spain\nII. Ceuta's neighbouring country   ->   A. Morocco\nIII. Year Morocco annexed Western Sahara   ->   D. 1975\nIV. Year Polisario Front declared SADR   ->   B. 1976",
+     "options": ["I-A, II-C, III-B, IV-D", "I-B, II-D, III-A, IV-C", "I-C, II-A, III-D, IV-B", "I-D, II-B, III-C, IV-A"],
+     "answer": 2,
+     "explanation": "The booklet links Ceuta's status to Autonomous City of Spain, Morocco as neighbour, Western Sahara's annexation to 1975 and the SADR declaration to 1976."
+    },
+    {
+     "q": "Which of the following statements is/are correct?\nI. Ceuta's coast faces the Mediterranean Sea.\nII. Ceuta is an Autonomous City of Spain.\nIII. Morocco accepts Spain's sovereignty over Ceuta and Melilla.\nWhich of the above statements is/are correct?",
+     "options": ["I and III only", "I and II only", "II and III only", "I, II and III"],
+     "answer": 1,
+     "explanation": "The booklet says Morocco disputes the status of Ceuta and Melilla, so statement III is false."
+    },
+    {
+     "q": "Consider the following statements about Ceuta:\nI. It lies on the northern coast of Africa.\nII. It is one of the shortest routes into European territory from Africa.\nIII. It lies at the western entrance of the Strait of Gibraltar.\nHow many of the statements are correct?",
+     "options": ["Only one", "Only two", "Only three", "None"],
+     "answer": 1,
+     "explanation": "The booklet places Ceuta at the eastern, not western, entrance of the Strait of Gibraltar, so only statements I and II are correct."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 3,
+   "title": "Refugee and trafficking treaties",
+   "passage": "International law on refugees and trafficking is built from several separate agreements rather than one document. Some agreements focus on organised crime and on protecting people, especially women and children, from being exploited. Others define who counts as a refugee, what rights that person should have, and why a refugee must not be sent back to a place of danger. Still other treaties cover civil and political rights, and they include protections against cruel treatment when a person is returned to their home country. The framework also reaches children, whose welfare in conflict and displacement is addressed by a separate treaty on their rights. Several newer initiatives support host communities that receive large numbers of refugees, and they encourage countries to share responsibility. Governments may meet at regular intervals to review progress on refugee issues. Not every country has joined the main refugee agreements, and this affects how such countries treat people who arrive seeking protection. Each agreement was written for a different purpose, so their scope and obligations vary. Overall, the system combines criminal law, human rights and humanitarian commitments into one broad structure.",
+   "questions": [
+    {
+     "q": "In which year was the Palermo Protocol adopted? (year)",
+     "answer": "2000",
+     "accept": ["2000"],
+     "explanation": "The booklet dates the Palermo Protocol, on trafficking in persons, to 2000."
+    },
+    {
+     "q": "In which year was the United Nations Relief and Works Agency established? (year)",
+     "answer": "1949",
+     "accept": ["1949"],
+     "explanation": "The booklet states the agency was established in 1949 to assist and protect Palestine refugees."
+    },
+    {
+     "q": "In which year was the Convention on the Rights of the Child adopted? (year)",
+     "answer": "1989",
+     "accept": ["1989"],
+     "explanation": "The booklet dates the Convention on the Rights of the Child to 1989."
+    },
+    {
+     "q": "In which year was the Global Compact on Refugees framework introduced? (year)",
+     "answer": "2018",
+     "accept": ["2018"],
+     "explanation": "The booklet dates the Global Compact on Refugees to 2018."
+    },
+    {
+     "q": "How often is the Global Refugee Forum held? (in years)",
+     "answer": "4",
+     "accept": ["four", "four years", "4 years", "every four years"],
+     "explanation": "The booklet says the Global Refugee Forum is held every four years."
+    },
+    {
+     "q": "Which country, named in the booklet, is not a signatory to the 1951 Refugee Convention or the 1967 Protocol?",
+     "answer": "India",
+     "accept": ["india", "Republic of India"],
+     "explanation": "The booklet states India is not a signatory to either the 1951 Refugee Convention or the 1967 Protocol."
+    },
+    {
+     "q": "Which 1966 treaty safeguards individuals from torture or inhuman treatment upon return? (give the abbreviation)",
+     "answer": "ICCPR",
+     "accept": ["ICCPR", "International Covenant on Civil and Political Rights", "Civil and Political Rights covenant"],
+     "explanation": "The booklet names the International Covenant on Civil and Political Rights (1966) as safeguarding individuals from torture upon return."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 5, "what": "Map labels for Ceuta and Melilla are garbled (for example 'Melilla QB sakm'); not used."},
+  {"page": 6, "what": "The signatory count '146 Countries' does not say which treaty it refers to; not used."},
+  {"page": 6, "what": "'Global Compact builds on Article 14 of UDHR' does not clearly say which Global Compact is meant; not used."},
+  {"page": 7, "what": "The sentence 'MHA classifies All Individuals entering India without Valid' is cut off in the OCR; not used."}
+ ]
+}
