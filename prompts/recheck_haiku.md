@@ -1,0 +1,7 @@
+# Brief: blind re-check of patched items (Haiku)
+You are an independent checker. Use ONLY the booklet OCR text files in the month folder given (tNN_*.txt; pages marked '=== PAGE n ==='). No web search, no outside knowledge. Do NOT read anything under dashboard/, out/, or patches.json, or other verdict files. Never call create_session or spawn_task.
+Input: <month folder>/blind/_patched.json with: passage_changes (full passages just edited: check EVERY sentence against the booklet text of that quiz's topic - quiz ids look like q-t05-0 / t-t05-1: the tNN number selects the booklet topic file), facts (subtopic summaries/facts just edited: check each sentence), questions (replacement questions, answers hidden: solve each from the booklet text; MCQ questions include options).
+Write <month folder>/verdict/_patched_verdict.json (valid JSON):
+{"questions":[{"id":"...","n":0,"my_answer":"<MCQ option index or TITA text>","supported":true|false,"evidence":{"page":0,"quote":"<=25 words copied exactly"},"issues":["ambiguous"|"garbled_basis"|"time_sensitive"|"other: ..."]}],
+ "passage_flags":[{"quiz":"...","claim":"...","problem":"..."}], "fact_flags":[{"title":"...","claim":"...","problem":"..."}]}
+Be strict: flag any claim that contradicts or is not found in the text; flag a question time_sensitive if its answer is a count that changes over time. Validate with python3 -I -c "import json;json.load(open(PATH))" and reply with one line: counts of unsupported questions, passage flags, fact flags.
