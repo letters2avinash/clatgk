@@ -1,0 +1,169 @@
+{
+ "passage_flags": [
+  {
+   "quiz": "q-t01-0",
+   "claim": "Observers describe the conflict in very different terms depending on their sympathies, which makes a settlement hard to reach.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t01-1",
+   "claim": "Years of fighting put the Red Sea ports under heavy pressure, and trade and public revenues were disrupted as a result.",
+   "problem": "booklet says only that renewed fighting disrupted local supply lines; no statement on Red Sea port pressure or on trade and public revenue disruption",
+   "page": 5
+  },
+  {
+   "quiz": "t-t01-1",
+   "claim": "Fighting continued along the coast for several years, and civilians in the affected areas faced shortages and displacement.",
+   "problem": "booklet gives no duration for coastal fighting; displacement is supported, shortages only implied by disrupted supply lines",
+   "page": 5
+  },
+  {
+   "quiz": "t-t01-1",
+   "claim": "Implementation, however, remained difficult because each side had strong backers and deep mistrust of the other.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "t-t04-1",
+   "claim": "A tariff that rests only on a decision by the executive can be challenged in court",
+   "problem": "not found in booklet text; the booklet says only that the Supreme Court struck down the broader tariff regime in Feb 2026",
+   "page": null
+  },
+  {
+   "quiz": "q-t05-0",
+   "claim": "Any arrangement touching this area is examined closely by New Delhi",
+   "problem": "not found in booklet text; editorial characterisation of India's response (booklet states India's rejection and legal position, not close examination)",
+   "page": null
+  },
+  {
+   "quiz": "t-t05-1",
+   "claim": "each new clash is watched closely by both capitals and by the wider region",
+   "problem": "not found in booklet text; editorial claim about how capitals and the region react, not stated in the booklet",
+   "page": null
+  },
+  {
+   "quiz": "q-t06-0",
+   "claim": "others help students compare the sizes of continents",
+   "problem": "not found in booklet text; the booklet ties equal-area maps to thematic and statistical use (population density, climate, land cover), not to student comparison of continents",
+   "page": 41
+  },
+  {
+   "quiz": "q-t08-0",
+   "claim": "The latest phase of this programme is a far larger policy framework than the original one.",
+   "problem": "Not clearly supported: page 55 prints the original outlay as 276,000 crore, which would make the 1,27,500 crore enhanced outlay smaller; the comparison rests on a garbled figure (OCR of Rs 76,000 crore likely)",
+   "page": 55
+  },
+  {
+   "quiz": "q-t09-0",
+   "claim": "from neighbourhood shops to large retailers",
+   "problem": "not found in booklet text; the booklet does not describe merchant types such as neighbourhood shops or large retailers",
+   "page": 60
+  },
+  {
+   "quiz": "t-t09-1",
+   "claim": "Many of these businesses operate on thin margins",
+   "problem": "not found in booklet text; the booklet only says small businesses need protection from additional payment processing costs",
+   "page": 61
+  },
+  {
+   "quiz": "q-t10-0",
+   "claim": "The conversations also highlighted the role of new technology in making financial services more accessible to ordinary businesses and households.",
+   "problem": "not found in booklet text: the booklet mentions new technology only as general innovation and digital payment pilots, with no claim about making financial services more accessible to businesses and households",
+   "page": 66
+  },
+  {
+   "quiz": "q-t10-0",
+   "claim": "Officials framed these discussions as part of a broader effort to make economic relationships more balanced and predictable, especially for countries that rely heavily on trade with partners outside their immediate regions.",
+   "problem": "not found in booklet text: no mention of countries relying on trade with partners outside their regions or of making relationships more balanced",
+   "page": null
+  },
+  {
+   "quiz": "t-t10-1",
+   "claim": "Officials said these measures were designed to work alongside existing mechanisms rather than replace them.",
+   "problem": "not found in booklet text",
+   "page": null
+  },
+  {
+   "quiz": "q-t15-0",
+   "claim": "Officials and planners see the mission as part of India's effort to build an indigenous heavy-lift launch capability.",
+   "problem": "not found in booklet text; the booklet does not attribute this view to officials or planners",
+   "page": 96
+  },
+  {
+   "quiz": "t-t15-1",
+   "claim": "and repeated observations of the same areas help show how the ground changes over time.",
+   "problem": "not found in booklet text; the booklet gives the 12-day repeat cycle but does not say repeated observations show ground change over time",
+   "page": 100
+  },
+  {
+   "quiz": "q-t17-0",
+   "claim": "and that is why the claim has drawn wide attention",
+   "problem": "not found in booklet text; the booklet says nothing about public or media attention",
+   "page": null
+  },
+  {
+   "quiz": "t-t17-1",
+   "claim": "so that they can take part fully in public life",
+   "problem": "not found in booklet text; the booklet gives no stated purpose beyond foundational literacy and numeracy for non-literate adults",
+   "page": 118
+  },
+  {
+   "quiz": "t-t17-1",
+   "claim": "This year's recipient is a veteran actor from Karnataka",
+   "problem": "contradicts booklet: Anant Nag was selected for the Dadasaheb Phalke Award 2024, not the current year's award",
+   "page": 119
+  }
+ ],
+ "fact_flags": [
+  {
+   "file": "t01.json",
+   "subtopic": 4,
+   "fact": "summary: In January 2026, Saudi Arabia carried out airstrikes on Mukalla Port",
+   "problem": "booklet dates the January 2026 UAE troop pullout to after the Mukalla airstrikes; no date is given for the airstrikes themselves",
+   "page": 5
+  },
+  {
+   "file": "t01.json",
+   "subtopic": 4,
+   "fact": "The UAE pulled troops out in January 2026 following the Mukalla airstrikes.",
+   "problem": "booklet is internally inconsistent on location: p5 says UAE pulled troops from Saudi Arabia, p6 says UAE military elements withdraw from Yemeni territory",
+   "page": 5
+  },
+  {
+   "file": "t07.json",
+   "subtopic": 1,
+   "fact": "The 2023 Act replaced the Election Commission Act of 1991 on conditions of service and transaction of business",
+   "problem": "Name is imprecise: the booklet names it 'Election Commission (Conditions of Service of Election Commissioners and Transaction of Business) Act, 1991'. 'Election Commission Act of 1991' is not the booklet's name. Minor naming mismatch; the described subject matter is supported.",
+   "page": 45
+  },
+  {
+   "file": "t15.json",
+   "subtopic": 3,
+   "fact": "Radar side developed by NASA's Jet Propulsion Laboratory (JPL)",
+   "problem": "overgeneralizes: the booklet credits JPL only for the NASA-side (L-band, ~24 cm) component, while the ISRO-side (S-band, ~10 cm, 12-metre antenna) radar is credited to ISRO",
+   "page": 100
+  },
+  {
+   "file": "t16.json",
+   "subtopic": 1,
+   "fact": "the Montreal Protocol and Kigali Amendment govern the phase-out of ozone-depleting and hydrofluorocarbon substances (summary)",
+   "problem": "Booklet says the Kigali Amendment mandates a phase-down of HFCs, not a phase-out; the summary overstates it.",
+   "page": 115
+  },
+  {
+   "file": "t16.json",
+   "subtopic": 4,
+   "fact": "CosmoCube and PRATUSH are proposed Indian and international missions (summary)",
+   "problem": "Booklet describes PRATUSH as the Indian project (Raman Research Institute with ISRO) and CosmoCube as led by scientists associated with the Royal Astronomical Society and University of Cambridge; the summary's Indian/international ordering misattributes CosmoCube as Indian.",
+   "page": 111
+  },
+  {
+   "file": "t17.json",
+   "subtopic": 0,
+   "fact": "The project has been given National Project Status by the Union Government.",
+   "problem": "overstates booklet: it says the Karnataka project is the first irrigation project in Karnataka 'to receive' National Project Status, not that the status has already been conferred",
+   "page": 117
+  }
+ ]
+}

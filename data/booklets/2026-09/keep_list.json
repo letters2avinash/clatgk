@@ -1,0 +1,16 @@
+[
+ {
+  "quiz": "t-t08-1",
+  "q": "Which body is the nodal agency for implementing Semiconductor and Display Ecosystem Schemes? (short form)",
+  "issues": [
+   "other: acronym ISM not printed in booklet; only the full name appears"
+  ]
+ },
+ {
+  "quiz": "t-t08-1",
+  "q": "On which basis does the Production Linked Incentive scheme (2020) offer incentives? (one word)",
+  "issues": [
+   "other: question asks for one word but the booklet basis is two words ('Incremental Sales')"
+  ]
+ }
+]
