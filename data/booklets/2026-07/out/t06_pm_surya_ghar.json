@@ -1,0 +1,374 @@
+{
+ "topic": {
+  "title": "PM Surya Ghar: Muft Bijli Yojana",
+  "chapter_title": "Polity & Governance",
+  "subtopics": [
+   {
+    "title": "PM Surya Ghar: Muft Bijli Yojana scheme",
+    "summary": "PM Surya Ghar: Muft Bijli Yojana is a rooftop solar scheme launched in 2024 and described as the world's largest domestic rooftop solar initiative. Its aim is to provide free electricity up to 300 units to households by installing rooftop solar panels. The scheme offers a subsidy of up to 40% on panel installation and targets 1 crore households by 2027, with the Ministry of New and Renewable Energy as nodal ministry. A parallel Model Solar Village initiative asks each district to establish one such village to promote energy self-reliance.",
+    "facts": [
+     "Launched in 2024",
+     "World's largest domestic rooftop solar initiative",
+     "Aim: free electricity up to 300 units per household",
+     "Subsidy of up to 40% for rooftop solar panel installation",
+     "Target: rooftop solar in 1 crore households by 2027",
+     "Nodal ministry: Ministry of New and Renewable Energy",
+     "World Bank approved USD 890 million to support the programme",
+     "Model Solar Village: one per district to promote energy self-reliance",
+     "Model Solar Village eligibility: population above 5,000 (2,000 in special category states)",
+     "Top contributing states: Gujarat, Maharashtra, Rajasthan"
+    ],
+    "keywords": ["PM Surya Ghar", "Muft Bijli Yojana", "rooftop solar", "subsidy", "MNRE", "Model Solar Village"]
+   },
+   {
+    "title": "International Solar Alliance (ISA)",
+    "summary": "The International Solar Alliance (ISA) is a treaty-based intergovernmental organisation of solar-rich countries lying between the Tropic of Cancer and the Tropic of Capricorn. It was launched jointly by India and France in 2015 during COP21 in Paris. Its membership comprises 112 members and 15 signatory countries, and its headquarters is in Gurugram.",
+    "facts": [
+     "Launched jointly by India and France in 2015 during COP21 (Paris)",
+     "Treaty-based intergovernmental organisation of solar-rich countries",
+     "Covers countries between the Tropic of Cancer and the Tropic of Capricorn",
+     "Membership: 112 members and 15 signatory countries",
+     "Non-tropical countries can join but are excluded from voting rights",
+     "After the 2020 Amendment, all UN Member States are eligible to join",
+     "UN General Assembly granted observer status to ISA in 2021",
+     "Headquarters: Gurugram (National Institute for Solar Energy of India)",
+     "Mission: mobilise USD 1 trillion in solar investments by 2030",
+     "Mission: install 1,000 GW of solar capacity"
+    ],
+    "keywords": ["ISA", "COP21", "Tropic of Cancer", "treaty-based", "Gurugram", "observer status"]
+   },
+   {
+    "title": "India's solar position and records",
+    "summary": "According to IRENA Renewable Energy Statistics 2026, India added 37 GW of solar capacity in 2025 and became the world's second largest solar growth market. India overtook Japan to become the world's third largest solar power producer in 2025. The country also hosts Bhadla Solar Park, India's largest solar plant at 2245 MW, and Omkareshwar, India's largest floating solar plant at 600 MW.",
+    "facts": [
+     "India added 37 GW of solar capacity in 2025 (IRENA Renewable Energy Statistics 2026)",
+     "India emerged as the world's 2nd largest solar growth market",
+     "China added 315 GW of solar in 2025 and remained the largest",
+     "Global solar capacity rose from 1880 GW in 2024 to 2392 GW in 2025",
+     "India overtook Japan to become the world's 3rd largest solar power producer in 2025",
+     "India ranked 3rd globally in total renewable energy installed capacity with 250.52 GW",
+     "Top solar states: Rajasthan, Gujarat, Tamil Nadu, Karnataka, Maharashtra",
+     "Bhadla Solar Park (Jodhpur, Rajasthan, 2245 MW): India's largest solar plant",
+     "Omkareshwar (Khandwa, Madhya Pradesh, 600 MW): India's largest floating solar plant",
+     "Rajarhat (Kolkata): India's first floating solar plant (2015)"
+    ],
+    "keywords": ["IRENA", "37 GW", "third largest producer", "Bhadla", "Omkareshwar", "floating solar"]
+   },
+   {
+    "title": "Global initiatives and climate commitments",
+    "summary": "India's COP26 climate commitments, called Panchamrita, include net zero by 2070 and 500 GW of non-fossil energy capacity by 2030. The Global Solar Facility, launched at COP27 in 2022, provides payment guarantees to de-risk solar investments. The OSOWOG concept, first proposed by India in 2018, advocates trans-national solar power connectivity through integrated regional grids.",
+    "facts": [
+     "Panchamrita: India's climate commitments at COP26 in Glasgow",
+     "Net zero target by the year 2070",
+     "Non-fossil energy capacity of 500 GW by 2030",
+     "Meet 50 percent of energy requirements from renewable energy by 2030",
+     "Reduce total projected carbon emissions by one billion tonnes from now till 2030",
+     "Global Solar Facility launched at COP27 (2022) to provide payment guarantees and de-risk solar investments",
+     "STAR-C trains engineers, entrepreneurs and policymakers in solar technologies",
+     "One Sun, One World, One Grid (India and UK, COP26) advocates trans-national solar connectivity",
+     "India first proposed the OSOWOG concept in 2018 during ISA's Inaugural Assembly",
+     "OSOWOG aims to integrate regional grids across Asia, Middle East, Africa and Europe for 24-hour renewable power"
+    ],
+    "keywords": ["Panchamrita", "COP26", "COP27", "Global Solar Facility", "STAR-C", "OSOWOG"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "PM Surya Ghar and solar governance",
+   "root": {
+    "label": "Solar Governance: PM Surya Ghar and ISA",
+    "children": [
+     {
+      "label": "Rooftop solar scheme (launched 2024)",
+      "children": [
+       {"label": "Free electricity up to 300 units", "children": []},
+       {"label": "Target: 1 crore households by 2027", "children": []},
+       {"label": "Subsidy up to 40% on panels", "children": []}
+      ]
+     },
+     {
+      "label": "Model Solar Village",
+      "children": [
+       {"label": "One per district", "children": []},
+       {"label": "Eligibility: population above 5,000", "children": []},
+       {"label": "Special category states: above 2,000", "children": []}
+      ]
+     },
+     {
+      "label": "International Solar Alliance",
+      "children": [
+       {"label": "Launched by India and France, 2015", "children": []},
+       {"label": "Headquarters: Gurugram", "children": []},
+       {"label": "112 members, 15 signatory countries", "children": []},
+       {"label": "Mission: USD 1 trillion by 2030", "children": []}
+      ]
+     },
+     {
+      "label": "India's solar position",
+      "children": [
+       {"label": "37 GW added in 2025", "children": []},
+       {"label": "3rd largest solar power producer", "children": []},
+       {"label": "Bhadla: largest solar plant", "children": []}
+      ]
+     },
+     {
+      "label": "Global initiatives",
+      "children": [
+       {"label": "Panchamrita: net zero by 2070", "children": []},
+       {"label": "Global Solar Facility (COP27, 2022)", "children": []},
+       {"label": "OSOWOG proposed by India in 2018", "children": []}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "PM Surya Ghar scheme map",
+   "root": {
+    "label": "PM Surya Ghar: Muft Bijli Yojana",
+    "children": [
+     {"label": "Launched in 2024", "children": []},
+     {"label": "Aim: 300 free units per household", "children": []},
+     {"label": "Subsidy up to 40%", "children": []},
+     {"label": "Target: 1 crore households by 2027", "children": []},
+     {"label": "Nodal ministry: MNRE", "children": []}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "ISA map",
+   "root": {
+    "label": "International Solar Alliance",
+    "children": [
+     {"label": "Founding", "children": [
+       {"label": "2015, launched by India and France", "children": []},
+       {"label": "Announced at COP21, Paris", "children": []}
+     ]},
+     {"label": "Membership", "children": [
+       {"label": "112 members, 15 signatory countries", "children": []},
+       {"label": "Non-tropical countries: join, no voting", "children": []},
+       {"label": "All UN members eligible after 2020 Amendment", "children": []}
+     ]},
+     {"label": "Recognition and base", "children": [
+       {"label": "Headquarters: Gurugram", "children": []},
+       {"label": "UN General Assembly observer status, 2021", "children": []}
+     ]},
+     {"label": "Mission", "children": [
+       {"label": "USD 1 trillion solar investment by 2030", "children": []},
+       {"label": "Install 1,000 GW solar capacity", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "India's solar position map",
+   "root": {
+    "label": "India's solar position and records",
+    "children": [
+     {"label": "2025 position", "children": [
+       {"label": "Added 37 GW solar", "children": []},
+       {"label": "2nd largest solar growth market", "children": []},
+       {"label": "3rd largest solar power producer", "children": []}
+     ]},
+     {"label": "Record plants", "children": [
+       {"label": "Bhadla Solar Park: 2245 MW", "children": []},
+       {"label": "Omkareshwar floating: 600 MW", "children": []},
+       {"label": "Rajarhat: first floating plant (2015)", "children": []}
+     ]}
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Global initiatives map",
+   "root": {
+    "label": "Global initiatives and climate commitments",
+    "children": [
+     {"label": "Panchamrita (COP26, Glasgow)", "children": [
+       {"label": "Net zero by 2070", "children": []},
+       {"label": "500 GW non-fossil capacity by 2030", "children": []},
+       {"label": "50% energy from renewables by 2030", "children": []},
+       {"label": "1 billion tonne projected emission cut", "children": []}
+     ]},
+     {"label": "Global Solar Facility", "children": [
+       {"label": "Launched at COP27, 2022", "children": []},
+       {"label": "Payment guarantees to de-risk investment", "children": []}
+     ]},
+     {"label": "OSOWOG", "children": [
+       {"label": "Proposed by India in 2018", "children": []},
+       {"label": "24-hour renewable power via linked grids", "children": []}
+     ]}
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "PM Surya Ghar numbers",
+   "mnemonic": "Three Forty One Twenty-Seven",
+   "decode": [
+    {"key": "Three", "meaning": "Free electricity up to 300 units per household"},
+    {"key": "Forty", "meaning": "Subsidy of up to 40% on panel installation"},
+    {"key": "One", "meaning": "Target of 1 crore households"},
+    {"key": "Twenty-Seven", "meaning": "Target year 2027"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "ISA launch",
+   "mnemonic": "Two Nations, Fifteen, Paris",
+   "decode": [
+    {"key": "Two Nations", "meaning": "ISA was launched jointly by India and France"},
+    {"key": "Fifteen", "meaning": "Launch year 2015"},
+    {"key": "Paris", "meaning": "Launch took place during COP21 in Paris"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Panchamrita targets",
+   "mnemonic": "Nice Green Homes Beat Inflation",
+   "decode": [
+    {"key": "N", "meaning": "Net zero by 2070"},
+    {"key": "G", "meaning": "500 GW non-fossil energy capacity by 2030"},
+    {"key": "H", "meaning": "50 percent of energy from renewables by 2030"},
+    {"key": "B", "meaning": "Cut projected carbon emissions by one billion tonnes"},
+    {"key": "I", "meaning": "Reduce carbon intensity of the economy by 2030"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "ISA quick check",
+   "passage": "The International Solar Alliance is an international body set up to promote solar energy across the world. It is aimed at solar-rich countries that lie between the Tropic of Cancer and the Tropic of Capricorn, and it is described as a treaty-based intergovernmental organisation. The alliance states its aim as ensuring clean, reliable and affordable access to solar energy, which it links to sustainable growth and an improved quality of life. Its vision is a short phrase that asks members to work together to make the sun brighter. Membership rules have also widened over time. Countries from outside the tropics are allowed to join, although they are excluded from voting rights. Recognition from the wider United Nations system has also followed over the years. This makes the alliance a platform for solar-rich nations to coordinate their efforts. The alliance's mission goes beyond membership. It aims to provide clean energy access to a very large population and to mitigate solar-related emissions across the globe. It also seeks to promote low-cost, sustainable and equitable solar systems in the least developed countries and small island developing states. Together, these features give the alliance a clear geographic base, an inclusive membership and a practical focus on people who need energy access.",
+   "questions": [
+    {
+     "q": "Where is the headquarters of the International Solar Alliance located?",
+     "options": ["New Delhi", "Mumbai", "Gurugram", "Ahmedabad"],
+     "answer": 2,
+     "explanation": "The ISA headquarters is in Gurugram, at the National Institute for Solar Energy of India."
+    },
+    {
+     "q": "Which body granted observer status to the ISA in 2021?",
+     "options": ["UN Security Council", "World Bank", "UN General Assembly", "IRENA"],
+     "answer": 2,
+     "explanation": "The UN General Assembly granted observer status to the ISA in 2021."
+    },
+    {
+     "q": "Assertion (A): The ISA's membership is open only to solar-rich countries lying between the tropics.\nReason (R): After the 2020 Amendment, all UN Member States are eligible to join.",
+     "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+     ],
+     "answer": 3,
+     "explanation": "Non-tropical countries can join the ISA, so A is false, while R is true after the 2020 Amendment."
+    },
+    {
+     "q": "Match List I with List II:\nI. Launch year of the ISA   ->   D. 2015\nII. Solar investment mission by 2030   ->   A. USD 1 trillion\nIII. UN General Assembly observer status   ->   C. 2021\nIV. Solar capacity to be installed   ->   B. 1,000 GW",
+     "options": ["I-B, II-A, III-D, IV-C", "I-D, II-A, III-C, IV-B", "I-A, II-B, III-C, IV-D", "I-D, II-C, III-A, IV-B"],
+     "answer": 1,
+     "explanation": "The ISA was launched in 2015, aims to mobilise USD 1 trillion by 2030, got observer status in 2021, and targets 1,000 GW of solar capacity."
+    },
+    {
+     "q": "Which of the above statements is/are correct?\nI. The ISA was launched in 2015 by India and France during COP21.\nII. Non-tropical countries are barred from becoming ISA members.\nIII. After the 2020 Amendment, all UN Member States are eligible to join.",
+     "options": ["I and III only", "I and II only", "II and III only", "I, II and III"],
+     "answer": 0,
+     "explanation": "Statement II is wrong because non-tropical countries can join the ISA but are excluded from voting rights."
+    },
+    {
+     "q": "How many of the following statements about the ISA are correct?\nI. The ISA aims to mobilise USD 1 trillion in solar investments by 2030.\nII. The ISA has 112 members and 15 signatory countries.\nIII. The ISA's headquarters is in Ahmedabad.",
+     "options": ["Only one", "Only two", "Only three", "None of the above"],
+     "answer": 1,
+     "explanation": "Statements I and II are correct, while the headquarters is in Gurugram, not Ahmedabad."
+    },
+    {
+     "q": "Launched jointly by India and which country in 2015 during COP21?",
+     "options": ["Germany", "France", "United Kingdom", "United States"],
+     "answer": 1,
+     "explanation": "The ISA was launched jointly by India and France in 2015 during COP21 in Paris."
+    },
+    {
+     "q": "In which year did India first propose the OSOWOG concept during the ISA's Inaugural Assembly?",
+     "options": ["2015", "2016", "2017", "2018"],
+     "answer": 3,
+     "explanation": "India first proposed the OSOWOG concept in 2018 during the ISA's Inaugural Assembly."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 0,
+   "title": "Scheme numbers check",
+   "passage": "Many families spend a steady share of their income on electricity, and a rooftop solar programme offers one way to reduce that cost. The PM Surya Ghar: Muft Bijli Yojana is built around this idea. It encourages households to install solar panels on their rooftops so that the home can draw power from the sun. The scheme is described as the largest programme of its kind in the world, which reflects how many homes it is meant to reach. Because panels can be costly for ordinary families, the government offers financial support in the form of a subsidy that lowers the share of cost paid by each household. The basic goal is to give households free electricity up to a set number of units. The programme has also drawn outside finance. An international development bank has approved funds to support India's rooftop solar programme, which shows that the effort has attracted attention beyond the country. Alongside the household scheme, the government promotes a model solar village idea. Under this idea, villages are encouraged to become self-reliant in energy. Eligibility depends on population size, and special category states follow a lower threshold. Taken together, these measures link clean energy with everyday household life and with village-level independence. Such schemes also show how energy policy can reach households directly.",
+   "questions": [
+    {
+     "q": "Which ministry is the nodal ministry for PM Surya Ghar? (give the short form)",
+     "answer": "MNRE",
+     "accept": ["Ministry of New and Renewable Energy", "New and Renewable Energy", "M.N.R.E."],
+     "explanation": "The booklet names the Ministry of New and Renewable Energy as the nodal ministry."
+    },
+    {
+     "q": "What is the maximum subsidy on rooftop solar panel installation under the scheme? (in per cent)",
+     "answer": "40",
+     "accept": ["40%", "40 per cent", "40 percent", "forty"],
+     "explanation": "The scheme provides a subsidy of up to 40% for rooftop solar panel installation."
+    },
+    {
+     "q": "How many crore households are targeted for rooftop solar systems by 2027?",
+     "answer": "1",
+     "accept": ["one", "1 crore", "one crore"],
+     "explanation": "The target is to install rooftop solar systems in 1 crore households by 2027."
+    },
+    {
+     "q": "How many units of free electricity per household does the scheme aim to provide? (in units)",
+     "answer": "300",
+     "accept": ["300 units", "up to 300", "300 Units"],
+     "explanation": "The aim is to provide free electricity up to 300 units to households."
+    },
+    {
+     "q": "How much did the World Bank approve to support India's rooftop solar programme under this scheme? (in USD million)",
+     "answer": "890",
+     "accept": ["USD 890 million", "890 million", "USD 890 Million", "890 Million"],
+     "explanation": "The World Bank approved USD 890 million to support India's Rooftop Solar Programme under PM Surya Ghar."
+    },
+    {
+     "q": "Above what population is a village eligible for a Model Solar Village in general states? (in persons)",
+     "answer": "5000",
+     "accept": ["5,000", "5000 persons", "5,000 persons"],
+     "explanation": "Villages with population above 5,000 are eligible in general states, while special category states use 2,000."
+    },
+    {
+     "q": "How many Model Solar Villages is each district to establish?",
+     "answer": "1",
+     "accept": ["one", "one per district", "1 per district"],
+     "explanation": "The scheme plans to establish one Model Solar Village per district to promote energy self-reliance."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 30, "what": "'Launched in 2014' line is merged with Pradhan Mantri Suryodaya Yojana text in the OCR; the 2014 year was not used"},
+  {"page": 30, "what": "'Goal: 40 GW by 2026' sits beside the Financial Support text; attribution unclear, not used"},
+  {"page": 30, "what": "Population figure for the ISA access mission is garbled ('| Billion (1000 Million) People'); not used"},
+  {"page": 30, "what": "Order of the top contributing states (Gujarat, Maharashtra, Rajasthan) is garbled; only the set of names was used"},
+  {"page": 31, "what": "India's installed solar capacity '150.26 GW in 2025' has a garbled trailing '26.'; figure not used"},
+  {"page": 31, "what": "China (2258.02 GW) and United States (467.92 GW) installed capacity figures have garbled decimals; not used"},
+  {"page": 32, "what": "Carbon intensity target reads 'less than 45 percent by 2030', wording may be altered in OCR; intensity figure not used in facts or questions"}
+ ]
+}
