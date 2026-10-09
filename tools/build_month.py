@@ -15,7 +15,7 @@ def err(f, m): issues.append(f"{os.path.basename(f)}: {m}")
 for f in files:
     try: d = json.load(open(f, encoding="utf8"))
     except Exception as e: err(f, f"bad JSON {e}"); continue
-    if len(d.get("quizzes", [])) != 2 or not d.get("mindmaps") or not d.get("mnemonics"): err(f, f"INCOMPLETE: quizzes={len(d.get('quizzes', []))} mindmaps={len(d.get('mindmaps', []))} mnemonics={len(d.get('mnemonics', []))}")
+    if len(d.get("quizzes", [])) != 2 or not (d.get("mindmaps") or d["topic"].get("mindmaps")) or not (d.get("mnemonics") or d["topic"].get("mnemonics")): err(f, f"INCOMPLETE: quizzes={len(d.get('quizzes', []))} mindmaps={len(d.get('mindmaps', []))} mnemonics={len(d.get('mnemonics', []))}")
     t = d["topic"]; ct = t.get("chapter_title", "General")
     if ct not in chap_idx:
         chap_idx[ct] = len(chapters)
@@ -33,9 +33,9 @@ for f in files:
             return (subs[i]["id"] if i < len(subs) else subs[0]["id"]), "subtopic"
         return tid, "topic"
     k = os.path.basename(f)[:3]
-    for j, m in enumerate(d.get("mindmaps", [])):
+    for j, m in enumerate(d.get("mindmaps") or t.get("mindmaps", [])):
         r, sc = ref(m); mm.append({"id": f"mm-{k}-{j}", "scope": sc, "ref": r, "title": m["title"], "root": m["root"]})
-    for j, m in enumerate(d.get("mnemonics", [])):
+    for j, m in enumerate(d.get("mnemonics") or t.get("mnemonics", [])):
         r, sc = ref(m); mn.append({"id": f"mn-{k}-{j}", "scope": sc, "ref": r, "title": m["title"], "mnemonic": m["mnemonic"], "decode": m.get("decode", [])})
     for j, q in enumerate(d.get("quizzes", [])):
         sidx = min(q.get("subtopic_index", 0), len(subs) - 1)

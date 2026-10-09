@@ -1,0 +1,393 @@
+{
+ "topic": {
+  "title": "E85 Fuel Rollout in India",
+  "chapter_title": "Environment & Disaster Management",
+  "subtopics": [
+   {
+    "title": "Ethanol and E85 Basics",
+    "summary": "Ethanol is a highly purified alcohol that is blended with petrol to make transport fuel. E85 is a blend of 85% ethanol and 15% petrol, and it can be used only in Flex-Fuel Vehicles. The Ethanol Blending Programme is overseen by the Ministry of Petroleum and Natural Gas.",
+    "facts": [
+     "Ethanol is highly purified alcohol with approximately 99.9% purity.",
+     "Major feedstocks for ethanol are sugarcane, maize, wheat and other sugar- and starch-rich crops.",
+     "Ethanol blending means mixing ethanol with petrol to create fuel for internal combustion engines.",
+     "E85 is a fuel blend of 85% ethanol and 15% petrol (gasoline).",
+     "E85 can be used only in Flex-Fuel Vehicles built to run on varying ethanol-petrol blends.",
+     "The Ethanol Blending Programme was piloted in 2003 and later expanded under the National Policy on Biofuels (2018).",
+     "The Ethanol Blending Programme targeted 20% ethanol blending (E20) by 2030, achieved in 2025.",
+     "Nodal ministry for the Ethanol Blending Programme is the Ministry of Petroleum and Natural Gas.",
+     "Ethanol and biodiesel are the most common biofuels."
+    ],
+    "keywords": ["ethanol", "E85", "E20", "flex-fuel vehicle", "blending", "nodal ministry"]
+   },
+   {
+    "title": "Benefits of Ethanol Blending",
+    "summary": "Ethanol blending is promoted for energy security, environmental gains and farm incomes. It cuts crude oil imports and gives a buffer against price shocks. It also turns agro-waste into fuel and encourages maize over sugarcane.",
+    "facts": [
+     "Import reduction: ethanol cuts India's dependence on crude oil imports.",
+     "Blending buffer: ethanol stockpiles give flexibility for price stabilisation against crude oil shocks.",
+     "Lifecycle emissions: 2G ethanol reduces GHG emissions by over 50% compared to petrol.",
+     "Agro-waste utilisation: stubble, dung and biomass are converted into fuel, supporting a circular economy.",
+     "Farmer income: since 2014, farmers have earned about 21 lakh crore through ethanol procurement transfers.",
+     "Crop diversification: promotes maize cultivation and reduces over-dependence on sugarcane.",
+     "Objectives include reducing crude oil imports and providing assured markets for farmers."
+    ],
+    "keywords": ["crude oil imports", "2G ethanol", "GHG emissions", "agro-waste", "farmer income", "maize", "circular economy"]
+   },
+   {
+    "title": "Concerns with Ethanol Blending",
+    "summary": "A survey finds that many petrol vehicle owners report reduced mileage and higher maintenance costs. Water-intensive sugarcane and land degradation are listed as environmental concerns. Diverting rice and corn for ethanol raises food-versus-fuel questions.",
+    "facts": [
+     "A survey finds 67% of petrol vehicle owners report reduced mileage and higher maintenance costs.",
+     "Sugarcane has a high water requirement of 60-70 tonnes per tonne.",
+     "Water-intensive sugarcane drives groundwater depletion.",
+     "Unsustainable farming causes degradation of nearly 30% of India's land.",
+     "Diverting rice and corn for ethanol production raises food-versus-fuel concerns.",
+     "Imports and food security concerns are listed as a further issue."
+    ],
+    "keywords": ["mileage", "sugarcane water", "groundwater", "land degradation", "food vs fuel", "food security"]
+   },
+   {
+    "title": "Biofuel Generations",
+    "summary": "Biofuels are grouped into generations by their feedstock and their carbon impact. First-generation fuels use edible items, while second-generation fuels use leftovers of food crops. Third- and fourth-generation fuels use microorganisms and genetically engineered crops.",
+    "facts": [
+     "1st generation biofuel is made from edible items such as sugar, corn and starch, and has high carbon content.",
+     "2nd generation biofuel is made from leftovers of food crops such as rice husk and wood chips.",
+     "2nd generation biofuel has lower greenhouse gas content than 1st generation biofuel.",
+     "3rd generation biofuel is produced using microorganisms such as algae and is carbon neutral.",
+     "4th generation biofuel is made from genetically engineered crops and is carbon negative.",
+     "The National Policy on Biofuels includes production of 2G ethanol as a key element.",
+     "A 2G ethanol project is located at Panipat, Haryana."
+    ],
+    "keywords": ["1st generation", "2nd generation", "3rd generation", "4th generation", "algae", "carbon neutral", "carbon negative"]
+   },
+   {
+    "title": "Policies, Schemes and Alliances",
+    "summary": "The National Policy on Biofuels aims to reduce import dependence through blending. Schemes such as PM JI-VAN Yojana and GOBAR-DHAN support 2G ethanol and waste-to-energy conversion. India also launched the Global Biofuels Alliance with partner countries in 2023.",
+    "facts": [
+     "National Policy on Biofuels (2018) aims to reduce import dependence by blending bioethanol, biodiesel and Bio-CNG.",
+     "PM JI-VAN Yojana (2019) gives financial assistance for developing 2G ethanol from surplus biomass and agricultural waste.",
+     "GOBAR-DHAN Scheme (2018) converts cattle dung and solid waste into compost, biogas and bio-CNG.",
+     "GOBAR-DHAN was launched under the Swachh Bharat Mission (Gramin).",
+     "Repurpose Used Cooking Oil (RUCO) was launched by FSSAI to convert used cooking oil into biodiesel.",
+     "BioE3 Policy aims to set up Bio-Foundries that produce biotechnology-developed feedstock and catalysts.",
+     "The Cabinet approved a Hydrogen Mission on 04 January 2023 with an outlay of Rs. 19,744 crore.",
+     "The Global Biofuels Alliance was launched in 2023 by India on the sidelines of the G20 Summit in New Delhi.",
+     "The Global Biofuels Alliance aims to facilitate global biofuel trade and provide technical support for national programmes."
+    ],
+    "keywords": ["National Policy on Biofuels", "PM JI-VAN", "GOBAR-DHAN", "RUCO", "BioE3", "Hydrogen Mission", "Global Biofuels Alliance"]
+   }
+  ],
+  "mindmaps": [
+   {
+    "scope": "topic",
+    "title": "E85 Rollout at a Glance",
+    "root": {
+     "label": "E85 Fuel Rollout in India",
+     "children": [
+      {"label": "Ethanol and E85 basics", "children": [
+        {"label": "Ethanol: about 99.9% pure alcohol"},
+        {"label": "E85: 85% ethanol, 15% petrol"},
+        {"label": "E85 needs Flex-Fuel Vehicles"}
+      ]},
+      {"label": "Benefits", "children": [
+        {"label": "Cuts crude oil imports"},
+        {"label": "Over 50% lower GHG (2G ethanol)"},
+        {"label": "Farmer income and maize diversification"}
+      ]},
+      {"label": "Concerns", "children": [
+        {"label": "67% report reduced mileage"},
+        {"label": "Sugarcane water need, groundwater depletion"},
+        {"label": "Food vs fuel and land degradation"}
+      ]},
+      {"label": "Biofuel generations", "children": [
+        {"label": "1st: edible items"},
+        {"label": "2nd: food-crop leftovers"},
+        {"label": "3rd and 4th: microbes and GM crops"}
+      ]},
+      {"label": "Policies and schemes", "children": [
+        {"label": "National Policy on Biofuels (2018)"},
+        {"label": "BioE3 bio-foundries"},
+        {"label": "Global Biofuels Alliance (2023)"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 0,
+    "title": "Ethanol and E85 Map",
+    "root": {
+     "label": "Ethanol and E85 Basics",
+     "children": [
+      {"label": "Ethanol", "children": [
+        {"label": "Highly purified alcohol, about 99.9%"},
+        {"label": "Feedstocks: sugarcane, maize, wheat"}
+      ]},
+      {"label": "Blending", "children": [
+        {"label": "Mixed with petrol for transport fuel"},
+        {"label": "Fuel for internal combustion engines"}
+      ]},
+      {"label": "E85", "children": [
+        {"label": "85% ethanol, 15% petrol"},
+        {"label": "Only Flex-Fuel Vehicles"}
+      ]},
+      {"label": "Programme", "children": [
+        {"label": "Nodal ministry: Petroleum and Natural Gas"},
+        {"label": "E20 target achieved in 2025"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 1,
+    "title": "Benefits Map",
+    "root": {
+     "label": "Benefits of Ethanol Blending",
+     "children": [
+      {"label": "Energy and economy", "children": [
+        {"label": "Cuts crude oil imports"},
+        {"label": "Stockpiles buffer price shocks"}
+      ]},
+      {"label": "Environment", "children": [
+        {"label": "Over 50% lower GHG (2G)"},
+        {"label": "Stubble and dung turned into fuel"}
+      ]},
+      {"label": "Farmers", "children": [
+        {"label": "Income from ethanol procurement"},
+        {"label": "Maize grown over sugarcane"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 2,
+    "title": "Concerns Map",
+    "root": {
+     "label": "Concerns with Ethanol Blending",
+     "children": [
+      {"label": "Vehicles", "children": [
+        {"label": "67% report reduced mileage"},
+        {"label": "Higher maintenance costs"}
+      ]},
+      {"label": "Water and land", "children": [
+        {"label": "Sugarcane: 60-70 tonnes per tonne"},
+        {"label": "Groundwater depletion"},
+        {"label": "Nearly 30% of land degraded"}
+      ]},
+      {"label": "Food", "children": [
+        {"label": "Food vs fuel diversion"},
+        {"label": "Food security concerns"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 3,
+    "title": "Generations Map",
+    "root": {
+     "label": "Biofuel Generations",
+     "children": [
+      {"label": "1st generation", "children": [
+        {"label": "Edible items: sugar, corn, starch"},
+        {"label": "High carbon content"}
+      ]},
+      {"label": "2nd generation", "children": [
+        {"label": "Food-crop leftovers: rice husk, wood chips"},
+        {"label": "Lower GHG than 1st"}
+      ]},
+      {"label": "3rd generation", "children": [
+        {"label": "Made using microorganisms such as algae"},
+        {"label": "Carbon neutral"}
+      ]},
+      {"label": "4th generation", "children": [
+        {"label": "Genetically engineered crops"},
+        {"label": "Carbon negative"}
+      ]}
+     ]
+    }
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 4,
+    "title": "Policies Map",
+    "root": {
+     "label": "Policies, Schemes and Alliances",
+     "children": [
+      {"label": "National Policy on Biofuels (2018)", "children": [
+        {"label": "Cuts import dependence"},
+        {"label": "Blends bioethanol, biodiesel, Bio-CNG"}
+      ]},
+      {"label": "Schemes", "children": [
+        {"label": "PM JI-VAN Yojana (2019): 2G ethanol aid"},
+        {"label": "GOBAR-DHAN (2018): dung to bio-CNG"},
+        {"label": "RUCO: used cooking oil to biodiesel"}
+      ]},
+      {"label": "BioE3 and Hydrogen", "children": [
+        {"label": "Bio-foundries; enzyme plant at Manesar"},
+        {"label": "Hydrogen Mission: Rs 19,744 crore"}
+      ]},
+      {"label": "Global Biofuels Alliance", "children": [
+        {"label": "Launched 2023 at G20 Summit"},
+        {"label": "Aims: global trade, technical support"}
+      ]}
+     ]
+    }
+   }
+  ],
+  "mnemonics": [
+   {
+    "scope": "topic",
+    "title": "Why promote E85: IFC-style cue",
+    "mnemonic": "Imports Down, Farmers Up, Carbon Out",
+    "decode": [
+     {"key": "Imports Down", "meaning": "Reducing dependence on imported oil"},
+     {"key": "Farmers Up", "meaning": "Supporting farmers and the rural economy"},
+     {"key": "Carbon Out", "meaning": "Reduction in carbon emissions"}
+    ]
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 3,
+    "title": "Four generations cue",
+    "mnemonic": "Edible, Leftover, Microbial, Engineered",
+    "decode": [
+     {"key": "Edible", "meaning": "1st generation: made from edible items such as sugar, corn and starch"},
+     {"key": "Leftover", "meaning": "2nd generation: made from leftovers of food crops"},
+     {"key": "Microbial", "meaning": "3rd generation: produced using microorganisms such as algae"},
+     {"key": "Engineered", "meaning": "4th generation: made from genetically engineered crops"}
+    ]
+   },
+   {
+    "scope": "subtopic",
+    "subtopic_index": 4,
+    "title": "Three Es of BioE3",
+    "mnemonic": "Three Es: Economy, Environment, Employment",
+    "decode": [
+     {"key": "Economy", "meaning": "BioE3 stands for Biotechnology for Economy, Environment and Employment"},
+     {"key": "Environment", "meaning": "Second E in the BioE3 expansion"},
+     {"key": "Employment", "meaning": "Third E in the BioE3 expansion"}
+    ]
+   }
+  ],
+  "quizzes": [
+   {
+    "type": "MCQ",
+    "subtopic_index": 0,
+    "title": "E85 Basics Check",
+    "passage": "India is considering a policy framework to make the adoption of E85 fuel affordable. Ethanol is a highly purified alcohol that can be blended with petrol and used as a transport fuel. Ethanol blending means mixing ethanol with petrol to create fuel that can run internal combustion engines. The idea is to lower the country's reliance on imported crude oil while giving farmers a steady market for their produce. Ethanol is derived from plant-based sources, and the wider family of biofuels also includes fuels made from animal waste. The Ethanol Blending Programme began as a pilot and was later widened under a national policy on biofuels. The programme set a target of blending twenty per cent ethanol, written as E20. Officials also stress environmental gains, since ethanol replaces fossil fuels and lowers greenhouse gas emissions. E85 is a fuel blend that carries much more ethanol than ordinary petrol, and the policy discussion is about making it affordable. Read together, these points show how energy security, farm incomes and cleaner air are linked in the rollout of ethanol fuels.",
+    "questions": [
+     {
+      "q": "Which ministry is the nodal ministry for the Ethanol Blending Programme?",
+      "options": ["Ministry of Petroleum and Natural Gas", "Ministry of New and Renewable Energy", "Ministry of Agriculture and Farmers' Welfare", "Ministry of Environment, Forest and Climate Change"],
+      "answer": 0,
+      "explanation": "The booklet names the Ministry of Petroleum and Natural Gas as the nodal ministry."
+     },
+     {
+      "q": "What is the composition of E85 fuel?",
+      "options": ["85% petrol and 15% ethanol", "80% ethanol and 20% petrol", "85% ethanol and 15% petrol", "75% ethanol and 25% petrol"],
+      "answer": 2,
+      "explanation": "The booklet defines E85 as a fuel blend of 85% ethanol and 15% petrol (gasoline)."
+     },
+     {
+      "q": "In which year was the E20 blending target achieved?",
+      "options": ["2024", "2025", "2027", "2029"],
+      "answer": 1,
+      "explanation": "The booklet says the E20 target set for 2030 was achieved in 2025."
+     },
+     {
+      "q": "What is the approximate purity of the ethanol used for blending?",
+      "options": ["About 75%", "About 90%", "About 99.9%", "About 50%"],
+      "answer": 2,
+      "explanation": "The booklet describes ethanol as highly purified alcohol with approximately 99.9% purity."
+     },
+     {
+      "q": "Assertion (A): E85 fuel can be used in standard petrol-engine vehicles without any modification.\nReason (R): E85 can be used only in Flex-Fuel Vehicles designed to operate on varying ethanol-petrol blends.",
+      "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+      "answer": 3,
+      "explanation": "The booklet says E85 can be used only in Flex-Fuel Vehicles, so A is false and R is true."
+     },
+     {
+      "q": "Match List I with List II:\nI. Ethanol Blending Programme pilot launch   ->   A. 2003\nII. Target year for E20 blending   ->   B. 2030\nIII. Global Biofuels Alliance launch   ->   C. 2023\nIV. National Policy on Biofuels   ->   D. 2018",
+      "options": ["I-B, II-A, III-D, IV-C", "I-A, II-B, III-C, IV-D", "I-C, II-A, III-B, IV-D", "I-A, II-C, III-B, IV-D"],
+      "answer": 1,
+      "explanation": "The booklet gives 2003 for the pilot, 2030 for the E20 target, 2023 for the Alliance and 2018 for the National Policy on Biofuels."
+     },
+     {
+      "q": "Consider the following statements:\nI. Major feedstocks for ethanol include sugarcane, maize and wheat.\nII. E85 fuel can be used in all petrol-engine vehicles without any change.\nIII. Flex-fuel vehicles are designed to operate on different ethanol-petrol blends.\nWhich of the above statements is/are correct?",
+      "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+      "answer": 2,
+      "explanation": "Statements I and III match the booklet, while statement II contradicts its note that E85 needs Flex-Fuel Vehicles."
+     },
+     {
+      "q": "Consider the following statements:\nI. Ethanol and biodiesel are the most common biofuels.\nII. GOBAR-DHAN focuses on converting cattle dung and solid waste into compost, biogas and bio-CNG.\nIII. The Repurpose Used Cooking Oil initiative was launched by the Ministry of Petroleum and Natural Gas.\nHow many of the above statements are correct?",
+      "options": ["Only one", "Only two", "Only three", "None"],
+      "answer": 1,
+      "explanation": "Statements I and II match the booklet, while the Repurpose Used Cooking Oil initiative was launched by FSSAI, not the petroleum ministry."
+     }
+    ]
+   },
+   {
+    "type": "TITA",
+    "subtopic_index": 4,
+    "title": "Policies and Schemes Check",
+    "passage": "India's biofuel effort rests on several policy instruments rather than a single law. The National Policy on Biofuels aims to reduce import dependence by promoting blends of bioethanol, biodiesel and bio-CNG. One scheme provides financial assistance for second-generation ethanol made from surplus biomass and agricultural waste. Another scheme focuses on managing cattle dung and solid waste on farms and turning them into useful products. A separate policy aims to create bio-foundries that would produce biotechnology-developed feedstock and catalysts, and planned enzyme production would support existing and proposed ethanol plants in several states. India also joined partners to launch an alliance focused on sustainable biofuels and cooperation between countries. Another initiative aims to build an ecosystem that collects used cooking oil and converts it into biodiesel. The Cabinet has approved a hydrogen mission with targets for green hydrogen capacity, renewable energy capacity addition and jobs. Taken together, these measures show how biofuel policy spans agriculture, energy, waste management and international cooperation.",
+    "questions": [
+     {
+      "q": "In which year did the Cabinet approve the Hydrogen Mission?",
+      "answer": "2023",
+      "accept": ["2023 ", "January 2023", "Jan 2023"],
+      "explanation": "The booklet records the Cabinet decision on the Hydrogen Mission dated 04 January 2023."
+     },
+     {
+      "q": "What was the outlay of the Hydrogen Mission, in crore rupees?",
+      "answer": "19,744",
+      "accept": ["19744", "Rs 19,744 crore", "19,744 crore", "Rs. 19,744 crore"],
+      "explanation": "The booklet states the Hydrogen Mission has an outlay of Rs. 19,744 crore."
+     },
+     {
+      "q": "In which Haryana town is the first BioE3 enzyme plant expected to come up?",
+      "answer": "Manesar",
+      "accept": ["Manesar, Haryana"],
+      "explanation": "The booklet says the first such plant to produce necessary enzymes may come up in Manesar, Haryana."
+     },
+     {
+      "q": "In which year was the PM JI-VAN Yojana launched?",
+      "answer": "2019",
+      "accept": ["2019 "],
+      "explanation": "The booklet dates the PM JI-VAN Yojana to 2019."
+     },
+     {
+      "q": "Under which mission was the GOBAR-DHAN Scheme launched?",
+      "answer": "Swachh Bharat Mission (Gramin)",
+      "accept": ["Swachh Bharat Mission", "Swachh Bharat Mission Gramin", "Swachh Bharat Mission (G)", "SBM-G"],
+      "explanation": "The booklet says GOBAR-DHAN was launched under the Swachh Bharat Mission (Gramin)."
+     },
+     {
+      "q": "Which authority launched the Repurpose Used Cooking Oil initiative?",
+      "answer": "FSSAI",
+      "accept": ["Food Safety and Standards Authority of India", "Food Safety and Standards Authority"],
+      "explanation": "The booklet states that the Repurpose Used Cooking Oil initiative was launched by the Food Safety and Standards Authority of India."
+     },
+     {
+      "q": "The Global Biofuels Alliance was launched on the sidelines of which summit?",
+      "answer": "G20",
+      "accept": ["G20 Summit", "G-20", "G20 Summit in New Delhi"],
+      "explanation": "The booklet says the Alliance was launched on the sidelines of the G20 Summit in New Delhi in 2023."
+     }
+    ]
+   }
+  ],
+  "needs_check": [
+   {"page": 50, "what": "Fourth 'Why is India promoting E85' bullet is garbled (possibly 'Lowering Import Bill'); not used."},
+   {"page": 51, "what": "Forex savings figure ('Approx 21.36 Lakh Crore') is garbled with stray characters; not used."},
+   {"page": 51, "what": "'Only ~2%' bullet has no readable subject; not used."},
+   {"page": 51, "what": "Groundwater depletion states (Maharashtra and Uttar Pradesh) are detached from their line; not used."},
+   {"page": 51, "what": "Limited price benefit bullet (crude price drop and petrol price change) is truncated; not used."},
+   {"page": 51, "what": "Food vs fuel bullet is truncated and its corn-output percentage is unclear; figure not used."},
+   {"page": 52, "what": "Hydrogen Mission capacity target ('green hydrogen production capacity of ... IMT') is garbled; not used."},
+   {"page": 52, "what": "Cabinet decision title ('NATIONAL GRE... HYDROG') is partly garbled; only 'Hydrogen Mission' is used."}
+  ]
+}

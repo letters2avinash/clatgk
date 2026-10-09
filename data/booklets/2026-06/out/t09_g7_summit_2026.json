@@ -1,0 +1,415 @@
+{
+ "topic": {
+  "title": "G7 Summit 2026",
+  "chapter_title": "Summits, Reports, Indices",
+  "subtopics": [
+   {
+    "title": "52nd G7 Summit 2026",
+    "summary": "The 52nd G7 Summit was held in Evian-les-Bains, France, under France's presidency, with the theme 'Forging New Partnerships and Rebuilding International Solidarity'. PM Modi participated in the Outreach Session, which marked India's 8th consecutive participation in the G7 Outreach Process. The rotating presidency is due to pass to the United States in 2027.",
+    "facts": [
+     "52nd G7 Summit held in Evian-les-Bains, France",
+     "Held under the French presidency",
+     "Theme 2026: Forging New Partnerships and Rebuilding International Solidarity",
+     "PM Modi participated in the 52nd G7 Summit Outreach Session",
+     "India's 8th consecutive participation in the G7 Outreach Process",
+     "Rotating presidency to hand over to the United States in 2027"
+    ],
+    "keywords": ["Evian-les-Bains", "52nd G7 Summit", "Outreach Process", "Rotating Presidency", "Forging New Partnerships"]
+   },
+   {
+    "title": "Evolution of the G7",
+    "summary": "The G7 was established in 1975 in response to global economic turbulence and an oil crisis, with six founding members. Canada joined in 1976, creating the G7, and Russia joined in 1998, leading to the formation of the G8. Russia's participation was suspended in 2014 following the annexation of Crimea, which restored the G7 format.",
+    "facts": [
+     "Established in 1975 amid global economic turbulence and oil crisis",
+     "Founding members: France, West Germany, Italy, Japan, United Kingdom, United States",
+     "Canada joined in 1976, creating the G7",
+     "Russia joined in 1998, leading to the formation of the G8",
+     "Russia's participation suspended in 2014 after annexation of Crimea",
+     "Suspension restored the G7 format"
+    ],
+    "keywords": ["1975", "1976", "1998", "2014", "G8", "Crimea", "West Germany"]
+   },
+   {
+    "title": "Membership and Structure",
+    "summary": "The G7 is an informal forum of some of the world's most advanced industrialised economies, serving as a platform for consultations on major economic, political and strategic issues. It has seven member countries, while the European Union takes part in deliberations without being counted as a formal member. Leadership of the group rotates annually among member states.",
+    "facts": [
+     "Informal forum of the world's most advanced industrialised economies",
+     "Member countries: Canada, France, Germany, Italy, Japan, UK, US",
+     "European Union participates in deliberations but is not a formal member",
+     "Accounts for around 10% of the world's population",
+     "Accounts for nearly 43% of global GDP",
+     "Leadership rotates annually among member states"
+    ],
+    "keywords": ["Informal forum", "Rotating presidency", "European Union", "Global GDP", "Member States"]
+   },
+   {
+    "title": "Pillars of G7 Influence",
+    "summary": "The booklet describes the G7's influence through several pillars, including shaping financial regulation, responding to crises, and coordinating on energy and geopolitical issues. The forum is also presented as a symbol of cooperation among major economies and as a catalyst for climate and humanitarian commitments. Its dialogue is described as a way to find common ground on complex global challenges.",
+    "facts": [
+     "Summit discussions affect financial regulations and economic frameworks used worldwide",
+     "Enables a unified front when addressing economic crises, armed conflicts and public health emergencies",
+     "Leaders coordinate on energy insecurity and geopolitical instability",
+     "Collective decisions influence global trade policies, investment flows and economic recovery strategies",
+     "Primary symbol of cooperation among the world's major economies",
+     "Commitments serve as a catalyst for climate action and humanitarian assistance",
+     "Dialogue and coordination help find common ground on complex global challenges"
+    ],
+    "keywords": ["Regulatory influence", "Collective response", "Securing the future", "Multilateral cooperation", "Global frameworks"]
+   }
+  ]
+ },
+ "mindmaps": [
+  {
+   "scope": "topic",
+   "title": "G7 Summit 2026 Overview",
+   "root": {
+    "label": "G7 Summit 2026",
+    "children": [
+     {
+      "label": "2026 Summit",
+      "children": [
+       {"label": "Evian-les-Bains, France"},
+       {"label": "Held under French presidency"},
+       {"label": "Theme: Forging New Partnerships and Rebuilding International Solidarity"},
+       {"label": "India's 8th consecutive Outreach participation"},
+       {"label": "Presidency passes to United States in 2027"}
+      ]
+     },
+     {
+      "label": "Evolution",
+      "children": [
+       {"label": "1975: established amid oil crisis"},
+       {"label": "1976: Canada joins, G7 formed"},
+       {"label": "1998: Russia joins, G8 formed"},
+       {"label": "2014: Russia suspended, G7 format restored"}
+      ]
+     },
+     {
+      "label": "Membership",
+      "children": [
+       {"label": "Seven formal member countries"},
+       {"label": "Informal forum of advanced economies"},
+       {"label": "EU participates, not a formal member"},
+       {"label": "Leadership rotates annually"}
+      ]
+     },
+     {
+      "label": "Pillars of influence",
+      "children": [
+       {"label": "Shapes financial regulation worldwide"},
+       {"label": "Unified response to crises"},
+       {"label": "Coordinates on energy and geopolitics"},
+       {"label": "Climate and humanitarian commitments"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 0,
+   "title": "52nd G7 Summit Map",
+   "root": {
+    "label": "52nd G7 Summit 2026",
+    "children": [
+     {
+      "label": "Where and when",
+      "children": [
+       {"label": "Evian-les-Bains, France"},
+       {"label": "52nd edition"}
+      ]
+     },
+     {
+      "label": "Theme and presidency",
+      "children": [
+       {"label": "Forging New Partnerships theme"},
+       {"label": "Presidency: France"},
+       {"label": "Handover to United States in 2027"}
+      ]
+     },
+     {
+      "label": "India's role",
+      "children": [
+       {"label": "PM Modi at Outreach Session"},
+       {"label": "8th consecutive Outreach participation"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "G7 Evolution Map",
+   "root": {
+    "label": "Evolution of the G7",
+    "children": [
+     {
+      "label": "Origins (1975)",
+      "children": [
+       {"label": "Response to economic turbulence"},
+       {"label": "Response to oil crisis"},
+       {"label": "Six founding members"}
+      ]
+     },
+     {
+      "label": "Expansion",
+      "children": [
+       {"label": "1976: Canada joined"},
+       {"label": "1998: Russia joined, G8 formed"}
+      ]
+     },
+     {
+      "label": "Restoration",
+      "children": [
+       {"label": "2014: Russia suspended"},
+       {"label": "Annexation of Crimea cited"},
+       {"label": "G7 format restored"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 2,
+   "title": "G7 Membership Map",
+   "root": {
+    "label": "Membership and Structure",
+    "children": [
+     {
+      "label": "Members",
+      "children": [
+       {"label": "Seven formal member countries"},
+       {"label": "Canada, France, Germany, Italy"},
+       {"label": "Japan, UK, United States"}
+      ]
+     },
+     {
+      "label": "Nature",
+      "children": [
+       {"label": "Informal forum"},
+       {"label": "Platform for consultations"},
+       {"label": "Advanced industrialised economies"}
+      ]
+     },
+     {
+      "label": "Scale",
+      "children": [
+       {"label": "Around 10% of world population"},
+       {"label": "Nearly 43% of global GDP"}
+      ]
+     },
+     {
+      "label": "Leadership",
+      "children": [
+       {"label": "Rotating presidency"},
+       {"label": "Rotates annually among members"}
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "G7 Influence Pillars Map",
+   "root": {
+    "label": "Pillars of G7 Influence",
+    "children": [
+     {
+      "label": "Economic influence",
+      "children": [
+       {"label": "Financial regulation frameworks"},
+       {"label": "Global trade policies"},
+       {"label": "Investment flows"}
+      ]
+     },
+     {
+      "label": "Crisis response",
+      "children": [
+       {"label": "Economic crises"},
+       {"label": "Armed conflicts"},
+       {"label": "Public health emergencies"}
+      ]
+     },
+     {
+      "label": "Security",
+      "children": [
+       {"label": "Energy insecurity"},
+       {"label": "Geopolitical instability"}
+      ]
+     },
+     {
+      "label": "Cooperation",
+      "children": [
+       {"label": "Symbol of major-economy cooperation"},
+       {"label": "Dialogue for common ground"}
+      ]
+     },
+     {
+      "label": "Global frameworks",
+      "children": [
+       {"label": "Climate action"},
+       {"label": "Humanitarian assistance"},
+       {"label": "Governance evolution"}
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "mnemonics": [
+  {
+   "scope": "topic",
+   "title": "G7 member countries",
+   "mnemonic": "Cows Fly Gracefully In Japan, Under Usual Sky",
+   "decode": [
+    {"key": "C", "meaning": "Canada"},
+    {"key": "F", "meaning": "France"},
+    {"key": "G", "meaning": "Germany"},
+    {"key": "I", "meaning": "Italy"},
+    {"key": "J", "meaning": "Japan"},
+    {"key": "U (UK)", "meaning": "United Kingdom"},
+    {"key": "U (US)", "meaning": "United States"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 1,
+   "title": "G7 chronology",
+   "mnemonic": "Seventy-five Started it, Canada Came Next, Ninety-eight Brought Russia, Fourteen Restored the format",
+   "decode": [
+    {"key": "Seventy-five", "meaning": "Grouping established in 1975"},
+    {"key": "Canada Came Next", "meaning": "Canada joined in 1976, creating the G7"},
+    {"key": "Ninety-eight", "meaning": "Russia joined in 1998, leading to the G8"},
+    {"key": "Fourteen", "meaning": "Russia's participation suspended in 2014, restoring the G7 format"}
+   ]
+  },
+  {
+   "scope": "subtopic",
+   "subtopic_index": 3,
+   "title": "Pillars of influence",
+   "mnemonic": "Regulators Can Secure Trade",
+   "decode": [
+    {"key": "R", "meaning": "Regulatory influence on financial regulations and economic frameworks"},
+    {"key": "C", "meaning": "Collective response to economic crises, armed conflicts and health emergencies"},
+    {"key": "S", "meaning": "Securing the future through action on energy insecurity and geopolitical instability"},
+    {"key": "T", "meaning": "Collective decisions influence global trade policies and investment flows"}
+   ]
+  }
+ ],
+ "quizzes": [
+  {
+   "type": "MCQ",
+   "subtopic_index": 1,
+   "title": "G7 Evolution Check",
+   "passage": "The Group of Seven, commonly called the G7, did not begin as a fixed club of advanced economies. It was set up as a response to a period of unsettled global economics and a major energy shock, when leading industrialised nations felt the need to consult closely with one another. The original group was a small circle of Western and Asian economies, and it later added a new member that turned the forum into a larger body for some years. Afterwards, the membership changed again when one participant's involvement was halted. The forum then returned to its earlier arrangement, which remains in place today. Each phase reshaped the membership, but the group's consultative purpose stayed the same over the decades. Throughout these changes, the grouping has kept its informal character, meeting to discuss pressing economic, political and strategic questions rather than operating as a formal treaty organisation. The history of the G7 therefore shows how a forum can grow, shrink and reorganise in response to global events while keeping its core purpose of consultation. The forum brings together some of the world's most advanced industrialised economies. The chronology also helps explain the forum's present-day role as a platform for consultation among major economies.",
+   "questions": [
+    {
+     "q": "In which year was the G7 established in response to global economic turbulence and an oil crisis?",
+     "options": ["1973", "1976", "1980", "1975"],
+     "answer": 3,
+     "explanation": "The booklet states the G7 was established in 1975 in response to global economic turbulence and the oil crisis."
+    },
+    {
+     "q": "Which country joined the grouping in 1976, creating the G7?",
+     "options": ["Russia", "Canada", "Japan", "Mexico"],
+     "answer": 1,
+     "explanation": "The booklet states Canada joined the grouping in 1976, creating the G7."
+    },
+    {
+     "q": "Russia's participation in the grouping was suspended in 2014 for which reason?",
+     "options": ["Violation of trade agreements", "Economic sanctions over nuclear testing", "Annexation of Crimea", "Interference in elections"],
+     "answer": 2,
+     "explanation": "The booklet states Russia's participation was suspended in 2014 following the annexation of Crimea."
+    },
+    {
+     "q": "Given the assertion and reason below, choose the correct option.\nAssertion (A): Russia's participation in the G7 was suspended in 2014.\nReason (R): Russia's participation was suspended following the annexation of Crimea.",
+     "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+     "answer": 0,
+     "explanation": "The booklet states the suspension came in 2014 following the annexation of Crimea, so R gives the reason for A."
+    },
+    {
+     "q": "Match List I with List II:\nI. Establishment of the grouping   ->   A. 1998\nII. Canada joins the grouping   ->   B. 2014\nIII. Russia joins the grouping   ->   C. 1976\nIV. Russia's participation suspended   ->   D. 1975",
+     "options": ["I-A, II-B, III-C, IV-D", "I-D, II-C, III-A, IV-B", "I-C, II-D, III-B, IV-A", "I-B, II-A, III-D, IV-C"],
+     "answer": 1,
+     "explanation": "The booklet dates the establishment to 1975, Canada's entry to 1976, Russia's entry to 1998 and the suspension to 2014."
+    },
+    {
+     "q": "Consider the following statements about the G7:\nI. The grouping was established in 1975 in response to global economic turbulence and an oil crisis.\nII. The European Union is counted as a formal member of the G7.\nIII. Leadership of the G7 rotates annually among member states.\nWhich of the above statements is/are correct?",
+     "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+     "answer": 2,
+     "explanation": "Statement I and statement III are stated in the booklet, while the European Union is not counted as a formal member."
+    },
+    {
+     "q": "How many of the following statements about the G7 are correct?\nI. Canada was among the founding members of the grouping in 1975.\nII. Russia's joining in 1998 led to the formation of the G8.\nIII. The G7 format was restored after Russia's participation was suspended in 2014.\nIV. The 52nd G7 Summit was held in Paris, France.",
+     "options": ["Only two", "Only one", "Only three", "None of the above"],
+     "answer": 0,
+     "explanation": "Statements II and III are supported by the booklet, while Canada joined in 1976 and the 52nd Summit was held in Evian-les-Bains."
+    },
+    {
+     "q": "Consider the following statements:\nI. Italy was among the founding members of the grouping.\nII. Canada was among the founding members of the grouping.\nWhich of the above statements is/are correct?",
+     "options": ["Neither I nor II", "II only", "I only", "Both I and II"],
+     "answer": 2,
+     "explanation": "The founding members were France, West Germany, Italy, Japan, United Kingdom and United States, and Canada joined later in 1976."
+    }
+   ]
+  },
+  {
+   "type": "TITA",
+   "subtopic_index": 2,
+   "title": "Membership and Structure Check",
+   "passage": "The Group of Seven is an informal forum that brings together some of the world's most advanced industrialised economies. Its purpose is to serve as a platform for consultations on major economic, political and strategic issues facing the world today. Because it is informal, it does not function like a treaty-based international organisation with binding rules. Instead, its members meet to share views, compare national positions and look for common ground. Several other actors take part in the group's deliberations, including international bodies that are closely involved in its discussions, although they do not share the same status as the core members. The forum is led in turn by its members, so that each country takes its turn at hosting and guiding the agenda for a set period before handing over responsibility to the next. This system of rotation ensures that leadership is shared and that different national priorities are represented over time. Successive leaders have shaped the forum's agenda since it was formed. Each feature of the forum, including its composition, its rotating leadership and its informal nature, helps explain how the grouping works in practice. Its ability to bring together major economies also gives its discussions weight across many policy areas.",
+   "questions": [
+    {
+     "q": "How many countries are listed as formal member countries of the G7? (in number)",
+     "answer": "7",
+     "accept": ["seven"],
+     "explanation": "The booklet lists seven member countries: Canada, France, Germany, Italy, Japan, UK and US."
+    },
+    {
+     "q": "What share of the world's population do G7 countries account for, approximately? (in per cent)",
+     "answer": "10",
+     "accept": ["10%", "10 per cent", "around 10", "around 10%"],
+     "explanation": "The booklet states the G7 accounts for around 10% of the world's population."
+    },
+    {
+     "q": "What share of global GDP do G7 countries account for, approximately? (in per cent)",
+     "answer": "43",
+     "accept": ["43%", "43 per cent", "nearly 43", "nearly 43%"],
+     "explanation": "The booklet states the G7 accounts for nearly 43% of global GDP."
+    },
+    {
+     "q": "Which regional bloc takes part in G7 deliberations without being counted as a formal member?",
+     "answer": "European Union",
+     "accept": ["EU"],
+     "explanation": "The booklet notes the European Union participates in G7 deliberations but is not counted as a formal member."
+    },
+    {
+     "q": "Which country will take over the G7 rotating presidency in 2027?",
+     "answer": "United States",
+     "accept": ["USA", "US", "United States of America"],
+     "explanation": "The booklet states the rotating presidency will officially hand over to the United States in 2027."
+    },
+    {
+     "q": "How often does leadership of the G7 rotate among member states? (one word)",
+     "answer": "annually",
+     "accept": ["yearly", "every year"],
+     "explanation": "The booklet states that leadership rotates annually among member states."
+    },
+    {
+     "q": "Which member country holds the G7 presidency for 2026? (one word)",
+     "answer": "France",
+     "accept": ["French Republic"],
+     "explanation": "The booklet states the 52nd G7 Summit is held under the presidency of France."
+    }
+   ]
+  }
+ ],
+ "needs_check": [
+  {"page": 43, "what": "Some pillar headings are garbled (for example the heading beginning 'Shapers of International Sy' and the line 'Economic Trends'); only clearly readable pillar text was used"},
+  {"page": 43, "what": "India panel headings and labels are garbled; India-specific pillar facts were not used"},
+  {"page": 44, "what": "Answer options for the question on India's consecutive G7 Outreach participation are garbled; the figure 8 was taken only from the clearly readable page 42 text"}
+ ]
+}
