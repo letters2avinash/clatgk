@@ -416,7 +416,7 @@ document.addEventListener("change",function(e){
 });
 var qT;
 document.addEventListener("input",function(e){
-  if(e.target.id==="f-q"){F.q=e.target.value;clearTimeout(qT);qT=setTimeout(function(){if(!quiz){var p=e.target.selectionStart;drawModes();view();var el=$("#f-q");el.focus();el.setSelectionRange(p,p)}},180)}
+  if(e.target.id==="f-q"){F.q=e.target.value;clearTimeout(qT);qT=setTimeout(function(){if(!quiz){var p=e.target.selectionStart;if(F.q&&!list(mode).length){for(var i=0;i<MODES.length;i++){if(list(MODES[i][0]).length){mode=MODES[i][0];break}}}drawModes();view();var el=$("#f-q");el.focus();el.setSelectionRange(p,p)}},180)}
   else if(e.target.id==="tita"&&quiz){quiz.ans[quiz.i]=e.target.value.trim()===""?null:e.target.value.trim()}
 });
 document.addEventListener("keydown",function(e){
