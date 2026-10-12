@@ -30,10 +30,13 @@ while IFS= read -r -d '' f; do
       # 1) free route: use the PDF's own text layer if it has one
       pdftotext -layout "$f" "$dest" 2>>"$LOG"
       if [ "$(tr -d '[:space:]' < "$dest" | wc -c)" -ge "$MIN_CHARS" ]; then ok=$((ok+1)); continue; fi
-      # 2) scanned PDF: OCR it (--skip-text keeps any pages that already have text), take the sidecar text
-      if ocrmypdf --skip-text --force-ocr --deskew --rotate-pages -l "$LANGS" --sidecar "$dest" "$f" /dev/null >>"$LOG" 2>&1 || \
-         ocrmypdf --skip-text -l "$LANGS" --sidecar "$dest" "$f" /dev/null >>"$LOG" 2>&1; then ok=$((ok+1))
-      else echo "   FAILED: $rel"; echo "FAILED $rel" >>"$LOG"; rm -f "$dest"; failed=$((failed+1)); fi ;;
+      # 2) scanned PDF: OCR it and keep only the sidecar text. First try keeping pages that already have text;
+      #    if that fails (e.g. junk text layer), force OCR on every page.
+      tmp="$(mktemp -t ocr).pdf"
+      if ocrmypdf --skip-text --deskew --rotate-pages -l "$LANGS" --sidecar "$dest" "$f" "$tmp" >>"$LOG" 2>&1 || \
+         ocrmypdf --force-ocr --deskew --rotate-pages -l "$LANGS" --sidecar "$dest" "$f" "$tmp" >>"$LOG" 2>&1; then ok=$((ok+1))
+      else echo "   FAILED: $rel"; echo "FAILED $rel" >>"$LOG"; rm -f "$dest"; failed=$((failed+1)); fi
+      rm -f "$tmp" ;;
     png|jpg|jpeg|tif|tiff|bmp|webp|heic)
       src="$f"
       if [ "$ext" = heic ] || [ "$ext" = webp ]; then            # tesseract can't read these directly (macOS sips converts)
