@@ -117,6 +117,10 @@ button.card:hover{border-color:var(--ink)}
 .stem .st{display:grid;grid-template-columns:2.4em 1fr;gap:4px}
 .stem .ask{font-weight:600;margin-top:12px}
 .mt{width:100%;border-collapse:collapse;margin:6px 0 10px;font-weight:500;font-size:.98rem}
+.shead{font-family:var(--display);font-size:1.1rem;margin:22px 0 10px;display:flex;align-items:center;gap:10px}
+.shead .n{font-size:.8rem;color:var(--muted);font-weight:400}
+.shead .btn{margin-left:auto}
+mark{background:var(--ink-soft);color:inherit;border-radius:3px;padding:0 2px}
 .mtnote{font-size:.78rem;color:var(--muted);margin:-4px 0 10px}
 .mt th{text-align:left;background:var(--surface-2);font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:8px 10px;border:1px solid var(--line)}
 .mt td{padding:9px 10px;border:1px solid var(--line);vertical-align:top;width:50%}
@@ -193,8 +197,39 @@ function fits(ctx){
   for(var i=0;i<LV.length;i++){var k=LV[i];if(F[k]&&ctx[k]!==F[k])return false}
   return true;
 }
-function textOf(o){return (o.title+" "+(o.summary||"")+" "+(o.facts||[]).join(" ")+" "+(o.keywords||[]).join(" ")+" "+(o.mnemonic||"")+" "+(o.passage||"")).toLowerCase()}
-function hit(o){return !F.q||textOf(o).indexOf(F.q.toLowerCase())>-1}
+function nz(s){return String(s==null?"":s).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]+/g," ")}
+var QMODE="all";
+function qtok(){return nz(F.q).split(" ").filter(Boolean).map(function(w){return w.length>3?w.replace(/s$/,""):w})}
+function textOf(o){
+  if(o._t===undefined){
+    var qs=(o.questions||[]).map(function(q){return q.q+" "+(Array.isArray(q.options)?q.options.join(" "):"")+" "+(typeof q.answer==="string"?q.answer:"")}).join(" ");
+    var dc=(o.decode||[]).map(function(d){return d.key+" "+d.meaning}).join(" ");
+    o._t=" "+nz(o.title+" "+(o.summary||"")+" "+(o.facts||[]).join(" ")+" "+(o.keywords||[]).join(" ")+" "+(o.mnemonic||"")+" "+dc+" "+(o.passage||"")+" "+qs)+" ";
+  }
+  return o._t;
+}
+function hit(o){var T=qtok();if(!T.length)return true;var h=textOf(o);return T[QMODE==="any"?"some":"every"](function(w){return h.indexOf(w)>-1})}
+function hl(raw){
+  var T=qtok();if(!T.length)return esc(raw);
+  var re=new RegExp("("+T.map(function(w){return w.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")}).join("|")+")","gi");
+  return String(raw).split(re).map(function(x,i){return i%2?"<mark>"+esc(x)+"</mark>":esc(x)}).join("");
+}
+function hasTok(raw){var T=qtok(),h=nz(raw);return T.some(function(w){return h.indexOf(w)>-1})}
+function snip(raws){
+  for(var i=0;i<raws.length;i++){var parts=String(raws[i]||"").split(/\n|(?<=[.!?])\s+/);for(var j=0;j<parts.length;j++)if(hasTok(parts[j])){var t=parts[j].trim();return t.length>220?t.slice(0,220)+"…":t}}
+  return "";
+}
+function mmPath(n,T,path){
+  path=(path||[]).concat(n.label);
+  if(T.some(function(w){return nz(n.label).indexOf(w)>-1}))return path;
+  var k=n.children||[];for(var i=0;i<k.length;i++){var r=mmPath(k[i],T,path);if(r)return r}
+  return null;
+}
+function resolveQ(){
+  QMODE="all";var T=qtok();if(T.length<2)return;
+  var any=false;["topic","subtopic","mindmap","mnemonic","mcq","tita"].forEach(function(k){if(list(k).length)any=true});
+  if(!any)QMODE="any";
+}
 function list(kind){
   var out=[];
   if(kind==="month")out=DB.months.filter(function(m){return (!F.month||m.id===F.month)&&hit({title:m.label})});
@@ -209,7 +244,9 @@ function list(kind){
 
 /* ---------- chrome ---------- */
 function drawModes(){
-  $("#modes").innerHTML=MODES.map(function(m){return '<button type="button" data-mode="'+m[0]+'" aria-pressed="'+(mode===m[0])+'">'+m[1]+'<span class="n">'+list(m[0]).length+'</span></button>'}).join("");
+  resolveQ();
+  var MM=F.q?[["search","Search results"]].concat(MODES):MODES;
+  $("#modes").innerHTML=MM.map(function(m){return '<button type="button" data-mode="'+m[0]+'" aria-pressed="'+(mode===m[0])+'">'+m[1]+(m[0]==="search"?"":'<span class="n">'+list(m[0]).length+'</span>')+'</button>'}).join("");
 }
 function opts(arr,val,label){return '<option value="">'+label+'</option>'+arr.map(function(o){var t=o.title||o.label;if(o.month&&!F.month&&DB.node[o.month])t+=" ("+DB.node[o.month].title.replace(/ 20(\d\d)$/,"\u2019$1")+")";return '<option value="'+esc(o.id)+'"'+(o.id===val?" selected":"")+'>'+esc(t)+'</option>'}).join("")}
 function drawFilters(){
@@ -236,8 +273,29 @@ function counts(mid){
   return DB.chapters.filter(function(c){return c.month===mid}).length+" chapters · "+DB.topics.filter(function(t){return t.month===mid}).length+" topics · "+DB.subtopics.filter(function(s){return s.month===mid}).length+" sub-topics · "+DB.mindmaps.filter(function(x){return x.ctx.month===mid}).length+" mind-maps · "+q.filter(function(x){return x.type==="MCQ"}).length+" MCQ · "+q.filter(function(x){return x.type==="TITA"}).length+" TITA";
 }
 function emptyMsg(t){return '<div class="empty">'+t+'</div>'}
+function secHead(t,kind,n,shown){return '<h2 class="shead">'+t+' <span class="n">'+n+'</span>'+(n>shown?' <button type="button" class="btn" data-mode="'+kind+'">See all '+n+'</button>':"")+'</h2>'}
+function searchView(){
+  var N=8,h="",topics=list("topic"),subs=list("subtopic"),mm=list("mindmap"),mn=list("mnemonic"),qz=list("mcq").concat(list("tita"));
+  var tot=topics.length+subs.length+mm.length+mn.length+qz.length;
+  if(!tot)return crumb()+emptyMsg("Nothing in the booklets matches \u201c"+esc(F.q)+"\u201d. Try fewer or different words, or clear the month / chapter / topic filters above.");
+  h=crumb()+(QMODE==="any"?'<p class="mtnote">No item has every word, so these are partial matches (any of the words).</p>':"");
+  var ml=function(id){var n=DB.node[id];return n&&DB.node[n.month]?esc(DB.node[n.month].title):""};
+  if(topics.length)h+=secHead("Topics","topic",topics.length,N)+'<div class="grid">'+topics.slice(0,N).map(function(t){return '<button type="button" class="card" data-pick="topic:'+t.id+'"><span><span class="tag">'+ml(t.id)+'</span></span><h3>'+hl(t.title)+'</h3><p class="stats">'+t.n+' sub-topics</p></button>'}).join("")+'</div>';
+  if(subs.length)h+=secHead("Sub-topics and facts","subtopic",subs.length,N)+'<div class="list">'+subs.slice(0,N).map(function(s){
+    var sn=snip([s.title,s.summary].concat(s.facts)),has=DB.quizzes.filter(function(x){return x.subtopic===s.id}).length;
+    return '<article class="card sub"><span><span class="tag">'+ml(s.id)+'</span></span><h3>'+hl(s.title)+'</h3><p>'+(sn?hl(sn):esc(s.summary))+'</p><div class="actions"><button class="btn primary" data-go="subtopic:'+s.id+'">Open</button><button class="btn" data-go="mcq:'+s.id+'"'+(has?"":" disabled")+'>Practise</button></div></article>'}).join("")+'</div>';
+  if(qz.length)h+=secHead("Quizzes","mcq",qz.length,N)+'<div class="grid">'+qz.slice(0,N).map(function(x){
+    var sn=snip([x.title,x.passage].concat(x.questions.map(function(q){return q.q})));
+    return '<button type="button" class="card" data-quiz="'+x.id+'"><span><span class="tag">'+x.type+'</span><span class="tag">'+ml(x.ref)+'</span></span><h3>'+hl(x.title)+'</h3>'+(sn?'<p>'+hl(sn)+'</p>':"")+'<p class="stats">'+x.questions.length+' questions</p></button>'}).join("")+'</div>';
+  if(mm.length)h+=secHead("Mind-maps","mindmap",mm.length,N)+'<div class="grid">'+mm.slice(0,N).map(function(x){
+    var pth=mmPath(x.root,qtok());
+    return '<button type="button" class="card" data-mm="'+x.id+'"><span><span class="tag">Mind-map</span><span class="tag">'+ml(x.ref)+'</span></span><h3>'+hl(x.title)+'</h3>'+(pth?'<p>'+hl(pth.join(" \u203a "))+'</p>':"")+'</button>'}).join("")+'</div>';
+  if(mn.length)h+=secHead("Mnemonics","mnemonic",mn.length,N)+'<div class="list">'+mn.slice(0,N).map(function(x){return '<article class="mn"><span class="tag">'+esc(x.scope)+'</span><strong>'+hl(x.title)+'</strong><div class="phrase">'+hl(x.mnemonic)+'</div></article>'}).join("")+'</div>';
+  return h;
+}
 function view(){
   drawModes();
+  if(mode==="search"){$("#view").innerHTML=searchView();return}
   var h=crumb(),L=list(mode);
   if(mode==="month"){
     h+=L.length?'<div class="grid">'+L.map(function(m){return '<button type="button" class="card" data-pick="month:'+m.id+'"><span><span class="tag">Month</span></span><h3>'+esc(m.label)+'</h3><p class="stats">'+esc(counts(m.id))+'</p><p>'+esc(m.source||"")+'</p></button>'}).join("")+'</div>':emptyMsg("No months match.");
@@ -383,8 +441,9 @@ document.addEventListener("click",function(e){
     else if(k==="topic"){F.topic=id;F.chapter=DB.node[id].chapter;F.month=DB.node[id].month;F.subtopic="";mode="subtopic"}
     drawFilters();view();return}
   if(t.dataset.go){var g=t.dataset.go.split(":");F.subtopic=g[1];var nd=DB.node[g[1]];F.topic=nd.topic;F.chapter=nd.chapter;F.month=nd.month;mode=g[0];drawFilters();view();return}
+  if(t.dataset.mm){mmSel=t.dataset.mm;mode="mindmap";view();return}
   if(t.dataset.quiz){openQuiz(t.dataset.quiz);return}
-  if(t.id==="f-reset"){F={month:"",chapter:"",topic:"",subtopic:"",q:""};drawFilters();view();return}
+  if(t.id==="f-reset"){F={month:"",chapter:"",topic:"",subtopic:"",q:""};if(mode==="search")mode="month";drawFilters();view();return}
   if(t.id==="mm-all"){mmSet(true);return}
   if(t.id==="mm-none"){mmSet(false);return}
   if(!quiz)return;
@@ -416,7 +475,7 @@ document.addEventListener("change",function(e){
 });
 var qT;
 document.addEventListener("input",function(e){
-  if(e.target.id==="f-q"){F.q=e.target.value;clearTimeout(qT);qT=setTimeout(function(){if(!quiz){var p=e.target.selectionStart;if(F.q&&!list(mode).length){for(var i=0;i<MODES.length;i++){if(list(MODES[i][0]).length){mode=MODES[i][0];break}}}drawModes();view();var el=$("#f-q");el.focus();el.setSelectionRange(p,p)}},180)}
+  if(e.target.id==="f-q"){F.q=e.target.value;if(F.q.trim()&&mode!=="search"){mode="search"}else if(!F.q.trim()&&mode==="search"){mode="month"}clearTimeout(qT);qT=setTimeout(function(){if(!quiz){var p=e.target.selectionStart;view();var el=$("#f-q");el.focus();el.setSelectionRange(p,p)}},180)}
   else if(e.target.id==="tita"&&quiz){quiz.ans[quiz.i]=e.target.value.trim()===""?null:e.target.value.trim()}
 });
 document.addEventListener("keydown",function(e){
