@@ -186,9 +186,10 @@ function ingest(d){
       });
     });
   });
-  (d.mindmaps||[]).forEach(function(x){x.ctx=DB.node[x.ref]||{month:m.id};DB.mindmaps.push(x)});
-  (d.mnemonics||[]).forEach(function(x){x.ctx=DB.node[x.ref]||{month:m.id};DB.mnemonics.push(x)});
-  (d.quizzes||[]).forEach(function(x){x.ctx=DB.node[x.subtopic||x.topic||x.chapter||x.ref]||{month:m.id};DB.quizzes.push(x)});
+  /* item ids repeat across months (q-t13-0 exists in every month), so make them unique before anything looks them up */
+  (d.mindmaps||[]).forEach(function(x){x.id=m.id+"/"+x.id;x.ctx=DB.node[x.ref]||{month:m.id};DB.mindmaps.push(x)});
+  (d.mnemonics||[]).forEach(function(x){x.id=m.id+"/"+x.id;x.ctx=DB.node[x.ref]||{month:m.id};DB.mnemonics.push(x)});
+  (d.quizzes||[]).forEach(function(x){x.id=m.id+"/"+x.id;x.ctx=DB.node[x.subtopic||x.topic||x.chapter||x.ref]||{month:m.id};DB.quizzes.push(x)});
 }
 
 /* ---------- filtering ---------- */
@@ -435,13 +436,13 @@ function finish(){
 document.addEventListener("click",function(e){
   var t=e.target.closest("button");if(!t)return;
   if(t.dataset.mode){if(quiz)quiz=null;mode=t.dataset.mode;store("mode",mode);view();return}
-  if(t.dataset.pick){var p=t.dataset.pick.split(":");var k=p[0],id=p.slice(1).join(":");
+  if(t.dataset.pick){F.q="";var p=t.dataset.pick.split(":");var k=p[0],id=p.slice(1).join(":");
     if(k==="month"){F.month=id;F.chapter=F.topic=F.subtopic="";mode="chapter"}
     else if(k==="chapter"){F.chapter=id;F.month=DB.node[id].month;F.topic=F.subtopic="";mode="topic"}
     else if(k==="topic"){F.topic=id;F.chapter=DB.node[id].chapter;F.month=DB.node[id].month;F.subtopic="";mode="subtopic"}
     drawFilters();view();return}
-  if(t.dataset.go){var g=t.dataset.go.split(":");F.subtopic=g[1];var nd=DB.node[g[1]];F.topic=nd.topic;F.chapter=nd.chapter;F.month=nd.month;mode=g[0];drawFilters();view();return}
-  if(t.dataset.mm){mmSel=t.dataset.mm;mode="mindmap";view();return}
+  if(t.dataset.go){F.q="";var g=t.dataset.go.split(":");F.subtopic=g[1];var nd=DB.node[g[1]];F.topic=nd.topic;F.chapter=nd.chapter;F.month=nd.month;mode=g[0];drawFilters();view();return}
+  if(t.dataset.mm){mmSel=t.dataset.mm;var mx=DB.mindmaps.filter(function(x){return x.id===mmSel})[0];F.q="";if(mx&&mx.ctx&&mx.ctx.month){F.month=mx.ctx.month}mode="mindmap";drawFilters();view();return}
   if(t.dataset.quiz){openQuiz(t.dataset.quiz);return}
   if(t.id==="f-reset"){F={month:"",chapter:"",topic:"",subtopic:"",q:""};if(mode==="search")mode="month";drawFilters();view();return}
   if(t.id==="mm-all"){mmSet(true);return}
