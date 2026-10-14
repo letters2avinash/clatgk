@@ -4,7 +4,7 @@ Every MCQ passage with its questions, then the answer key at the end.
 All navigation is internal PDF links (contents, previous/next passage, question <-> answer key).
 usage: python3 -I tools/build_mega_sheet.py <out.pdf>      (needs playwright + chromium)
 """
-import json, html, sys, os
+import json, html, sys, os, re
 from playwright.sync_api import sync_playwright
 
 OUT = sys.argv[1]
@@ -50,9 +50,17 @@ a { color:#2a4f9e; text-decoration:none; }
 .qblock { break-inside: avoid; margin:0 0 14px; }
 .qhead { font-size:9pt; letter-spacing:.08em; color:#2a7f73; font-weight:bold; text-transform:uppercase; margin-bottom:3px; }
 .qtext { font-weight:bold; margin-bottom:6px; }
-table.opts { width:100%; border-collapse:collapse; }
-table.opts td { border:1px solid #d9d9e0; padding:5px 8px; vertical-align:top; }
-table.opts td.l { width:26px; text-align:center; font-weight:bold; color:#2a7f73; background:#f7fbfa; }
+.opts { display:grid; grid-template-columns: 1fr 1fr; gap:7px; }
+.opt { border:1.5px solid; border-radius:8px; padding:6px 9px; display:flex; gap:8px; align-items:flex-start; font-size:10pt; break-inside:avoid; }
+.opt .badge { min-width:20px; height:20px; border-radius:4px; color:#fff; font-weight:bold; font-size:9pt; text-align:center; line-height:20px; }
+.cA { border-color:#2563eb; background:#eff5ff; } .cA .badge { background:#2563eb; }
+.cB { border-color:#16a34a; background:#eefaf2; } .cB .badge { background:#16a34a; }
+.cC { border-color:#ea580c; background:#fff6ee; } .cC .badge { background:#ea580c; }
+.cD { border-color:#9333ea; background:#f7f0fd; } .cD .badge { background:#9333ea; }
+table.match { width:100%; border-collapse:collapse; margin:4px 0 10px; break-inside:avoid; }
+table.match th { background:#1e3a5f; color:#fff; text-align:left; padding:5px 8px; font-size:9.5pt; }
+table.match td { border:1px solid #d9d9e0; padding:5px 8px; vertical-align:top; font-size:10pt; }
+table.match td b { color:#2a4f9e; }
 .key h3 { margin:0; font-size:11pt; }
 .kb { break-inside: avoid; border:1px solid #d9d9e0; border-radius:4px; padding:6px 10px; margin:0 0 8px; }
 .kb .ans { font-weight:bold; color:#1f6b5f; }
@@ -60,6 +68,16 @@ table.opts td.l { width:26px; text-align:center; font-weight:bold; color:#2a7f73
 .toc a { display:block; padding:1px 0; font-size:9.5pt; }
 .toc .m { font-weight:bold; margin-top:10px; font-size:11pt; color:#2a4f9e; }
 """
+
+ROW = re.compile(r"^(IV|III|II|I)\.\s+(.*?)\s+->\s+([A-D])\.\s+(.*)$")
+def split_match(text):
+    lines = text.split("\n")
+    rows = [ROW.match(l.strip()) for l in lines]
+    if not lines[0].startswith("Match") or sum(1 for r in rows if r) != 4:
+        return esc(text), ""
+    head = esc(lines[0])
+    trs = "".join(f"<tr><td><b>{r.group(1)}.</b> {esc(r.group(2))}</td><td><b>{r.group(3)}.</b> {esc(r.group(4))}</td></tr>" for r in rows if r)
+    return head, f'<table class="match"><tr><th>List I</th><th>List II</th></tr>{trs}</table>'
 
 parts = []
 parts.append(f"""<div class="cover" id="top">
@@ -88,11 +106,12 @@ for p in passages:
             f'<div class="meta">{esc(p["month"])} · {esc(p["chapter"])} · {esc(p["topic"])}</div>',
             f'<div class="passage">{esc(p["passage"])}</div>']
     for k, q in enumerate(p["questions"]):
-        opts = "".join(f'<tr><td class="l">{L[j]}</td><td>{esc(o)}</td></tr>' for j, o in enumerate(q["options"]))
+        qtext, table = split_match(q["q"])
+        grid = "".join(f'<div class="opt c{L[j]}"><span class="badge">{L[j]}</span><span>{esc(o)}</span></div>' for j, o in enumerate(q["options"]))
         body.append(f'''<div class="qblock" id="{qid(p,k)}">
   <div class="qhead">Question {k+1} of {len(p["questions"])} · <a href="#{aid(p,k)}">Answer ↓</a></div>
-  <div class="qtext">{esc(q["q"])}</div>
-  <table class="opts">{opts}</table></div>''')
+  <div class="qtext">{qtext}</div>{table}
+  <div class="opts">{grid}</div></div>''')
     body.append(f'<div class="nav" style="margin-top:6px">{prev}<a href="#contents">Back to index</a>{nxt}</div>')
     body.append(f'<p class="meta" style="text-align:center"><a href="#answers">Answer key</a></p>')
     parts.append("".join(body))
