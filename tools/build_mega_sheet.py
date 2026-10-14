@@ -82,7 +82,7 @@ for p in passages:
     i = p["n"] - 1
     prev = f'<a href="#{pid(passages[i-1])}">← Previous passage</a>' if i > 0 else '<span></span>'
     nxt = f'<a href="#{pid(passages[i+1])}">Next passage →</a>' if i < len(passages) - 1 else '<span></span>'
-    nav = f'<div class="nav">{prev}<a href="#contents">Contents</a>{nxt}</div>'
+    nav = f'<div class="nav">{prev}<a href="#contents">Back to index</a>{nxt}</div>'
     body = [f'<div class="pb"></div><div id="{pid(p)}"></div>', nav,
             f'<div class="bar"><span class="num">{p["n"]:03d}</span><span class="t">{esc(p["title"])}</span></div>',
             f'<div class="meta">{esc(p["month"])} · {esc(p["chapter"])} · {esc(p["topic"])}</div>',
@@ -93,7 +93,8 @@ for p in passages:
   <div class="qhead">Question {k+1} of {len(p["questions"])} · <a href="#{aid(p,k)}">Answer ↓</a></div>
   <div class="qtext">{esc(q["q"])}</div>
   <table class="opts">{opts}</table></div>''')
-    body.append(f'<div class="nav" style="margin-top:6px">{prev}<a href="#answers">Answer key</a>{nxt}</div>')
+    body.append(f'<div class="nav" style="margin-top:6px">{prev}<a href="#contents">Back to index</a>{nxt}</div>')
+    body.append(f'<p class="meta" style="text-align:center"><a href="#answers">Answer key</a></p>')
     parts.append("".join(body))
 
 # answer key
@@ -122,4 +123,18 @@ with sync_playwright() as p:
            header_template="<span></span>", footer_template=footer,
            margin=dict(top="18mm", bottom="20mm", left="16mm", right="16mm"))
     b.close()
-print("passages", len(passages), "questions", total_q, "->", OUT)
+import pymupdf
+doc = pymupdf.open(OUT)
+fixed = 0
+for pg in doc:
+    for l in pg.get_links():
+        if l.get("nameddest") and l.get("page", -1) >= 0:
+            pg.delete_link(l)
+            pg.insert_link({"kind": pymupdf.LINK_GOTO, "from": l["from"], "page": l["page"], "to": pymupdf.Point(0, 0), "zoom": 0})
+            fixed += 1
+doc.saveIncr() if False else None
+tmp_out = OUT + ".tmp"
+doc.save(tmp_out, garbage=3, deflate=True)
+doc.close()
+os.replace(tmp_out, OUT)
+print("passages", len(passages), "questions", total_q, "links converted", fixed, "->", OUT)
